@@ -1,0 +1,38 @@
+{
+    "id": "514983",
+    "ident": "PY-0076",
+    "type": "small_airport",
+    "name": "Base de la Fuerza Aérea Paraguaya \"Nueva Asunción\"",
+    "latitude_deg": "-20.517909",
+    "longitude_deg": "-62.142795",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-19",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.fuerzaaerea.mil.py",
+    "wikipedia_link": "https://es.wikipedia.org/wiki/Fuerza_Aérea_Paraguaya",
+    "keywords": "",
+    "country": {
+        "id": "302799",
+        "code": "PY",
+        "name": "Paraguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
+        "keywords": "Aeropuertos de Paraguay"
+    },
+    "region": {
+        "id": "305197",
+        "code": "PY-19",
+        "local_code": "19",
+        "name": "Boquerón Department",
+        "continent": "SA",
+        "iso_country": "PY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Boquer%C3%B3n_Department",
+        "keywords": "Airports in Boquerón Department"
+    }
+}

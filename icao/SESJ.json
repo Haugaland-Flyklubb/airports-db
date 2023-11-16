@@ -1,0 +1,62 @@
+{
+    "id": "514913",
+    "ident": "SESJ",
+    "type": "small_airport",
+    "name": "San José Airport",
+    "latitude_deg": "-1.893894",
+    "longitude_deg": "-79.490485",
+    "elevation_ft": "36",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "Hacienda San José",
+    "scheduled_service": "no",
+    "gps_code": "SESJ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "514915",
+            "airport_ref": "514913",
+            "airport_ident": "SESJ",
+            "length_ft": "2625",
+            "width_ft": "33",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "180",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "360",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303658",
+        "code": "EC-G",
+        "local_code": "G",
+        "name": "Guayas Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guayas_Province",
+        "keywords": "Airports in Guayas Province"
+    }
+}

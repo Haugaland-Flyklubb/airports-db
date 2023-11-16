@@ -1,0 +1,62 @@
+{
+    "id": "514939",
+    "ident": "SESO",
+    "type": "small_airport",
+    "name": "La Estrella Airport",
+    "latitude_deg": "-1.567288",
+    "longitude_deg": "-79.539826",
+    "elevation_ft": "47",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-R",
+    "municipality": "Puebloviejo",
+    "scheduled_service": "no",
+    "gps_code": "SESO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "514943",
+            "airport_ref": "514939",
+            "airport_ident": "SESO",
+            "length_ft": "2625",
+            "width_ft": "39",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303666",
+        "code": "EC-R",
+        "local_code": "R",
+        "name": "Los Rios Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Los_Rios_Province",
+        "keywords": "Airports in Los Rios Province"
+    }
+}
