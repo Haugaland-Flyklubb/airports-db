@@ -65,6 +65,14 @@
     ],
     "freqs": [
         {
+            "id": "515025",
+            "airport_ref": "4003",
+            "airport_ident": "LEBG",
+            "type": "AFIS",
+            "description": "Burgos Information",
+            "frequency_mhz": "125.425"
+        },
+        {
             "id": "57365",
             "airport_ref": "4003",
             "airport_ident": "LEBG",
