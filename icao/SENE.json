@@ -1,0 +1,38 @@
+{
+    "id": "515289",
+    "ident": "SENE",
+    "type": "small_airport",
+    "name": "Nuevo Corrientes Airstrip",
+    "latitude_deg": "-1.997976",
+    "longitude_deg": "-76.764307",
+    "elevation_ft": "814",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-Y",
+    "municipality": "Nuevo Corrientes",
+    "scheduled_service": "no",
+    "gps_code": "SENE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Tambo",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303673",
+        "code": "EC-Y",
+        "local_code": "Y",
+        "name": "Pastaza Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pastaza_Province",
+        "keywords": "Airports in Pastaza Province"
+    }
+}

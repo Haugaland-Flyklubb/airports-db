@@ -2,13 +2,13 @@
     "id": "333830",
     "ident": "EHJR",
     "type": "heliport",
-    "name": "K13-A",
+    "name": "K13-A Heliport",
     "latitude_deg": "53.217222",
     "longitude_deg": "3.218889",
     "elevation_ft": "125",
     "continent": "EU",
     "iso_country": "NL",
-    "iso_region": "NL-ZH",
+    "iso_region": "NL-XX",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "EHJR",
@@ -26,13 +26,13 @@
         "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
     },
     "region": {
-        "id": "304943",
-        "code": "NL-ZH",
-        "local_code": "ZH",
-        "name": "Zuid-Holland",
+        "id": "515202",
+        "code": "NL-XX",
+        "local_code": "XX",
+        "name": "*Offshore Platforms",
         "continent": "EU",
         "iso_country": "NL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zuid-Holland",
-        "keywords": "Airports in Zuid-Holland"
+        "wikipedia_link": "",
+        "keywords": ""
     }
 }

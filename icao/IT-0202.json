@@ -1,22 +1,22 @@
 {
     "id": "317639",
     "ident": "IT-0202",
-    "type": "heliport",
-    "name": "Venaria Reale / 34º Gruppo Squadroni AVES \"Toro\"  [MIL]",
-    "latitude_deg": "45.133421",
-    "longitude_deg": "7.608827",
+    "type": "small_airport",
+    "name": "Venaria Reale Mario Santi Airfield",
+    "latitude_deg": "45.130127",
+    "longitude_deg": "7.612008",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "IT",
-    "iso_region": "IT-U-A",
-    "municipality": "Venaria Reale",
+    "iso_region": "IT-21",
+    "municipality": "Venaria Reale (TO)",
     "scheduled_service": "no",
     "gps_code": "LILW",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://it.wikipedia.org/wiki/Aeroporto_di_Venaria_Reale",
-    "keywords": "",
+    "keywords": "34º Gruppo Squadroni AVES \"Toro\"  [MIL]",
     "country": {
         "id": "302697",
         "code": "IT",
@@ -26,13 +26,13 @@
         "keywords": "Aeroporti d'Italia"
     },
     "region": {
-        "id": "304256",
-        "code": "IT-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306360",
+        "code": "IT-21",
+        "local_code": "21",
+        "name": "Piedmont",
         "continent": "EU",
         "iso_country": "IT",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
+        "keywords": "PM"
     }
 }

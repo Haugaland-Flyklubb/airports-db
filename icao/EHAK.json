@@ -1,0 +1,38 @@
+{
+    "id": "515264",
+    "ident": "EHAK",
+    "type": "heliport",
+    "name": "A12-CPP Platform Helipad",
+    "latitude_deg": "55.399167",
+    "longitude_deg": "3.810278",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-XX",
+    "municipality": "North Sea",
+    "scheduled_service": "no",
+    "gps_code": "EHAK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "515202",
+        "code": "NL-XX",
+        "local_code": "XX",
+        "name": "*Offshore Platforms",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "515266",
+    "ident": "EHBL",
+    "type": "heliport",
+    "name": "B13-A Platform Helipad",
+    "latitude_deg": "55.284722",
+    "longitude_deg": "4.096667",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-XX",
+    "municipality": "North Sea",
+    "scheduled_service": "no",
+    "gps_code": "EHBL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "515202",
+        "code": "NL-XX",
+        "local_code": "XX",
+        "name": "*Offshore Platforms",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

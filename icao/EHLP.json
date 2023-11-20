@@ -1,0 +1,38 @@
+{
+    "id": "515257",
+    "ident": "EHLP",
+    "type": "heliport",
+    "name": "L13-FE-1 Heliport",
+    "latitude_deg": "53.31306",
+    "longitude_deg": "4.24667",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-XX",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EHLP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "515202",
+        "code": "NL-XX",
+        "local_code": "XX",
+        "name": "*Offshore Platforms",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}
