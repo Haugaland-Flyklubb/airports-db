@@ -1,0 +1,38 @@
+{
+    "id": "515408",
+    "ident": "LOBN",
+    "type": "heliport",
+    "name": "Neunkirchen Hospital Heliport",
+    "latitude_deg": "47.72679",
+    "longitude_deg": "16.08644",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Neunkirchen",
+    "scheduled_service": "no",
+    "gps_code": "LOBN",
+    "iata_code": "",
+    "local_code": "LOBN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302959",
+        "code": "AT-3",
+        "local_code": "3",
+        "name": "Lower Austria",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Austria",
+        "keywords": "Niederösterreich"
+    }
+}
