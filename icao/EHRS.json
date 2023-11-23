@@ -1,0 +1,38 @@
+{
+    "id": "515482",
+    "ident": "EHRS",
+    "type": "heliport",
+    "name": "OSY-OS1ST Heliport",
+    "latitude_deg": "51.5825",
+    "longitude_deg": "2.86861",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-XX",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EHRS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302676",
+        "code": "BE",
+        "name": "Belgium",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
+        "keywords": "Aéroports de Belgique,Luchthavens van België"
+    },
+    "region": {
+        "id": "515483",
+        "code": "BE-XX",
+        "local_code": "XX",
+        "name": "*Offshore Platforms",
+        "continent": "EU",
+        "iso_country": "BE",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

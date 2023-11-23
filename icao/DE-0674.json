@@ -3,12 +3,12 @@
     "ident": "DE-0674",
     "type": "heliport",
     "name": "Leonberg Hospital Heliport",
-    "latitude_deg": "48.80325",
-    "longitude_deg": "8.99914",
+    "latitude_deg": "48.803254",
+    "longitude_deg": "8.999099",
     "elevation_ft": "1296",
     "continent": "EU",
     "iso_country": "DE",
-    "iso_region": "DE-U-A",
+    "iso_region": "DE-BW",
     "municipality": "Leonberg",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Flughäfen in Deutschland"
     },
     "region": {
-        "id": "303563",
-        "code": "DE-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
         "continent": "EU",
         "iso_country": "DE",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
     }
 }
