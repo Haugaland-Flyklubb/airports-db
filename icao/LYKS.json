@@ -3,13 +3,13 @@
     "ident": "LYKS",
     "type": "small_airport",
     "name": "Rosulje Airfield",
-    "latitude_deg": "43.561844",
-    "longitude_deg": "21.382227",
+    "latitude_deg": "43.561362",
+    "longitude_deg": "21.382688",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "RS",
-    "iso_region": "RS-U-A",
-    "municipality": "",
+    "iso_region": "RS-19",
+    "municipality": "Kruševac",
     "scheduled_service": "no",
     "gps_code": "LYKS",
     "iata_code": "",
@@ -50,13 +50,13 @@
         "keywords": "Serb"
     },
     "region": {
-        "id": "305261",
-        "code": "RS-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306609",
+        "code": "RS-19",
+        "local_code": "19",
+        "name": "Rasina District",
         "continent": "EU",
         "iso_country": "RS",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rasina_District",
+        "keywords": "Airports in Rasina District"
     }
 }
