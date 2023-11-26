@@ -1,22 +1,22 @@
 {
     "id": "506631",
     "ident": "HU-0065",
-    "type": "small_airport",
-    "name": "{Duplicate)Tokorcs Airport",
-    "latitude_deg": "0.02",
-    "longitude_deg": "0.02",
-    "elevation_ft": "449",
+    "type": "heliport",
+    "name": "Petz Aladár County Teaching Hospital Heliport",
+    "latitude_deg": "47.67088",
+    "longitude_deg": "17.64919",
+    "elevation_ft": "",
     "continent": "EU",
     "iso_country": "HU",
-    "iso_region": "HU-VA",
-    "municipality": "Tokorcs",
+    "iso_region": "HU-GY",
+    "municipality": "Győr",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "HU-0011, Tokorcs, Hungary",
+    "keywords": "",
     "country": {
         "id": "302693",
         "code": "HU",
@@ -26,13 +26,13 @@
         "keywords": "Repülőterek Magyarország"
     },
     "region": {
-        "id": "304093",
-        "code": "HU-VA",
-        "local_code": "VA",
-        "name": "Vas County",
+        "id": "304067",
+        "code": "HU-GY",
+        "local_code": "GY",
+        "name": "Győr (city)",
         "continent": "EU",
         "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vas_County",
-        "keywords": "Airports in Vas County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Győr",
+        "keywords": "Airports in Győr (city)"
     }
 }
