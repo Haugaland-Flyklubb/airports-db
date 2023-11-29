@@ -1,0 +1,62 @@
+{
+    "id": "515913",
+    "ident": "SI4Y",
+    "type": "small_airport",
+    "name": "Fazenda Laudejá Airport",
+    "latitude_deg": "-21.15087",
+    "longitude_deg": "-56.795467",
+    "elevation_ft": "1890",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Bonito",
+    "scheduled_service": "no",
+    "gps_code": "SI4Y",
+    "iata_code": "",
+    "local_code": "MS0717",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "515914",
+            "airport_ref": "515913",
+            "airport_ident": "SI4Y",
+            "length_ft": "2953",
+            "width_ft": "98",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": "Airports in Mato Grosso do Sul"
+    }
+}
