@@ -1,0 +1,38 @@
+{
+    "id": "516023",
+    "ident": "DE-0771",
+    "type": "heliport",
+    "name": "Bayreuth Hospital Heliport",
+    "latitude_deg": "49.94438",
+    "longitude_deg": "11.5355",
+    "elevation_ft": "1388",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Bayreuth",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Christoph 20",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    }
+}
