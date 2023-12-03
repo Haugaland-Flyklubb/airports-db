@@ -1,0 +1,38 @@
+{
+    "id": "516372",
+    "ident": "SEPA",
+    "type": "small_airport",
+    "name": "Centro Paatin Airstrip",
+    "latitude_deg": "-2.247454",
+    "longitude_deg": "-77.712845",
+    "elevation_ft": "1898",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-S",
+    "municipality": "Morona Santiago",
+    "scheduled_service": "no",
+    "gps_code": "SEPA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303667",
+        "code": "EC-S",
+        "local_code": "S",
+        "name": "Morona-Santiago Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morona-Santiago_Province",
+        "keywords": "Airports in Morona-Santiago Province"
+    }
+}
