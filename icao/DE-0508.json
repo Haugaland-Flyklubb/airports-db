@@ -2,14 +2,14 @@
     "id": "507050",
     "ident": "DE-0508",
     "type": "heliport",
-    "name": "{Duplicate)Wasserburg Clinic Heliport",
-    "latitude_deg": "0.01",
-    "longitude_deg": "0.02",
-    "elevation_ft": "1570",
+    "name": "Lübbecke Hospital Heliport",
+    "latitude_deg": "52.29628",
+    "longitude_deg": "8.60262",
+    "elevation_ft": "338",
     "continent": "EU",
     "iso_country": "DE",
-    "iso_region": "DE-BY",
-    "municipality": "Wasserburg am Inn",
+    "iso_region": "DE-NW",
+    "municipality": "Lübbecke",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Flughäfen in Deutschland"
     },
     "region": {
-        "id": "303550",
-        "code": "DE-BY",
-        "local_code": "BY",
-        "name": "Bavaria",
+        "id": "303556",
+        "code": "DE-NW",
+        "local_code": "NW",
+        "name": "North Rhine-Westphalia",
         "continent": "EU",
         "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
-        "keywords": "Bayern"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
+        "keywords": "Nordrhein-Westfalen"
     }
 }

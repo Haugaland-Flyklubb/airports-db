@@ -1,0 +1,38 @@
+{
+    "id": "516460",
+    "ident": "RS-0032",
+    "type": "small_airport",
+    "name": "Ćuprija Airport",
+    "latitude_deg": "43.94069",
+    "longitude_deg": "21.40903",
+    "elevation_ft": "512",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-13",
+    "municipality": "Ćuprija",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Dobričevo, LYCU",
+    "country": {
+        "id": "302713",
+        "code": "RS",
+        "name": "Serbia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
+        "keywords": "Serb"
+    },
+    "region": {
+        "id": "306603",
+        "code": "RS-13",
+        "local_code": "13",
+        "name": "Pomoravlje District",
+        "continent": "EU",
+        "iso_country": "RS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pomoravlje_District",
+        "keywords": "Airports in Pomoravlje District"
+    }
+}

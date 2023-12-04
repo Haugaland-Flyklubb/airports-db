@@ -1,0 +1,38 @@
+{
+    "id": "516420",
+    "ident": "BG-0106",
+    "type": "small_airport",
+    "name": "Vinarovo Airfield",
+    "latitude_deg": "42.2952",
+    "longitude_deg": "25.44993",
+    "elevation_ft": "810",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-24",
+    "municipality": "Vinarovo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303148",
+        "code": "BG-24",
+        "local_code": "24",
+        "name": "Stara Zagora Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stara_Zagora_Province",
+        "keywords": "Airports in Stara Zagora Province"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "516461",
+    "ident": "BG-0116",
+    "type": "small_airport",
+    "name": "Getsovo Airport",
+    "latitude_deg": "43.54914",
+    "longitude_deg": "26.45848",
+    "elevation_ft": "604",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-17",
+    "municipality": "Getsovo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303142",
+        "code": "BG-17",
+        "local_code": "17",
+        "name": "Razgrad Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Razgrad_Province",
+        "keywords": "Airports in Razgrad Province"
+    }
+}

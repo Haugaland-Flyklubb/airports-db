@@ -1,0 +1,38 @@
+{
+    "id": "516441",
+    "ident": "MX-2205",
+    "type": "small_airport",
+    "name": "Las Delicias Airport",
+    "latitude_deg": "29.09947",
+    "longitude_deg": "-110.0715",
+    "elevation_ft": "2067",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-SON",
+    "municipality": "Villa Pesqueira",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304815",
+        "code": "MX-SON",
+        "local_code": "SON",
+        "name": "Sonora",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sonora",
+        "keywords": "Airports in Sonora"
+    }
+}

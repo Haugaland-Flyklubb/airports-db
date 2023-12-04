@@ -1,0 +1,38 @@
+{
+    "id": "516438",
+    "ident": "PH-0586",
+    "type": "small_airport",
+    "name": "Basay Emergency Airport",
+    "latitude_deg": "9.46974",
+    "longitude_deg": "122.66149",
+    "elevation_ft": "1112",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-NER",
+    "municipality": "Basay",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305107",
+        "code": "PH-NER",
+        "local_code": "NER",
+        "name": "Negros Oriental Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Negros_Oriental_Province",
+        "keywords": "Airports in Negros Oriental Province"
+    }
+}

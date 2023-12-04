@@ -1,0 +1,38 @@
+{
+    "id": "516462",
+    "ident": "BG-0117",
+    "type": "small_airport",
+    "name": "Ekzarh Yosif Airport",
+    "latitude_deg": "43.62617",
+    "longitude_deg": "25.78988",
+    "elevation_ft": "620",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-18",
+    "municipality": "Ekzarh Yosif",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303143",
+        "code": "BG-18",
+        "local_code": "18",
+        "name": "Ruse Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ruse_Province",
+        "keywords": "Airports in Ruse Province"
+    }
+}

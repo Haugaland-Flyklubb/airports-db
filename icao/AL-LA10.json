@@ -1,7 +1,7 @@
 {
     "id": "5",
     "ident": "AL-LA10",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Gjirokastër Airfield",
     "latitude_deg": "40.085383",
     "longitude_deg": "20.15389",
@@ -11,12 +11,12 @@
     "iso_region": "AL-05",
     "municipality": "Gjirokastër",
     "scheduled_service": "no",
-    "gps_code": "LAGK",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "LAGK",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Gjirokastër_Airfield",
-    "keywords": "LA10",
+    "keywords": "LA10, LAGK",
     "runways": [
         {
             "id": "232874",
