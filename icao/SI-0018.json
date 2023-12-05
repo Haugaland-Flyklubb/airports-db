@@ -2,14 +2,14 @@
     "id": "313535",
     "ident": "SI-0018",
     "type": "small_airport",
-    "name": "Podpeč field",
+    "name": "Podpeč Airfield",
     "latitude_deg": "45.973447",
     "longitude_deg": "14.412345",
     "elevation_ft": "945",
     "continent": "EU",
     "iso_country": "SI",
-    "iso_region": "SI-061",
-    "municipality": "",
+    "iso_region": "SI-008",
+    "municipality": "Podpeč",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": ""
     },
     "region": {
-        "id": "305498",
-        "code": "SI-061",
-        "local_code": "061",
-        "name": "Ljubljana",
+        "id": "305445",
+        "code": "SI-008",
+        "local_code": "008",
+        "name": "Brezovica Municipality",
         "continent": "EU",
         "iso_country": "SI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ljubljana",
-        "keywords": "Airports in Ljubljana"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Municipality_of_Brezovica",
+        "keywords": "Airports in Brezovica"
     }
 }
