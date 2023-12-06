@@ -1,0 +1,62 @@
+{
+    "id": "516577",
+    "ident": "US-8313",
+    "type": "small_airport",
+    "name": "Stillwater Airport",
+    "latitude_deg": "48.307469",
+    "longitude_deg": "-114.38081",
+    "elevation_ft": "2995",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Whitefish",
+    "scheduled_service": "no",
+    "gps_code": "1MT4",
+    "iata_code": "",
+    "local_code": "1MT4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "516579",
+            "airport_ref": "516577",
+            "airport_ident": "US-8313",
+            "length_ft": "1932",
+            "width_ft": "50",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "8",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": "Airports in Montana"
+    }
+}
