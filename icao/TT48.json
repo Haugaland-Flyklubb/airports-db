@@ -1,0 +1,62 @@
+{
+    "id": "516663",
+    "ident": "TT48",
+    "type": "small_airport",
+    "name": "Wingman Aerodrome",
+    "latitude_deg": "35.993441",
+    "longitude_deg": "-83.299907",
+    "elevation_ft": "1080",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Dandridge",
+    "scheduled_service": "no",
+    "gps_code": "TT48",
+    "iata_code": "",
+    "local_code": "TT48",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "516664",
+            "airport_ref": "516663",
+            "airport_ident": "TT48",
+            "length_ft": "2728",
+            "width_ft": "40",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "8",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": "Airports in Tennessee"
+    }
+}
