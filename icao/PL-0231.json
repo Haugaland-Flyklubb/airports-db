@@ -1,0 +1,38 @@
+{
+    "id": "516896",
+    "ident": "PL-0231",
+    "type": "small_airport",
+    "name": "Nowe Tarnowo",
+    "latitude_deg": "52.16494",
+    "longitude_deg": "16.76524",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-WP",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305159",
+        "code": "PL-WP",
+        "local_code": "WP",
+        "name": "Greater Poland Voivodeship",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greater_Poland_Voivodeship",
+        "keywords": "Wielkopolskie"
+    }
+}
