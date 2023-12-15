@@ -1,0 +1,62 @@
+{
+    "id": "517048",
+    "ident": "AU-0617",
+    "type": "small_airport",
+    "name": "Donnybrook Airstrip",
+    "latitude_deg": "-27.016237",
+    "longitude_deg": "153.064967",
+    "elevation_ft": "30",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "517049",
+            "airport_ref": "517048",
+            "airport_ident": "AU-0617",
+            "length_ft": "1542",
+            "width_ft": "",
+            "surface": "G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": "Airports in Queensland"
+    }
+}
