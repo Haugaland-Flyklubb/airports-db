@@ -1,0 +1,38 @@
+{
+    "id": "517126",
+    "ident": "AU-0621",
+    "type": "small_airport",
+    "name": "Glen Station Airstrip",
+    "latitude_deg": "-27.045117",
+    "longitude_deg": "117.647781",
+    "elevation_ft": "1506",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Glen Station Hostel",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": "Western Australian airports"
+    }
+}
