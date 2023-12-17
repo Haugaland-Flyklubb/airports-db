@@ -1,0 +1,62 @@
+{
+    "id": "517157",
+    "ident": "IN-0372",
+    "type": "heliport",
+    "name": "Fazilka Heliport",
+    "latitude_deg": "30.394823",
+    "longitude_deg": "74.054244",
+    "elevation_ft": "586",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-PB",
+    "municipality": "Fazilka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "517158",
+            "airport_ref": "517157",
+            "airport_ident": "IN-0372",
+            "length_ft": "492",
+            "width_ft": "328",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": "Airports in India, Indian airports"
+    },
+    "region": {
+        "id": "304189",
+        "code": "IN-PB",
+        "local_code": "PB",
+        "name": "Punjab",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
+        "keywords": "Airports in Punjab"
+    }
+}
