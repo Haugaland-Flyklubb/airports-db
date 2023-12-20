@@ -1,0 +1,38 @@
+{
+    "id": "517301",
+    "ident": "HU-0071",
+    "type": "small_airport",
+    "name": "Velence Airport",
+    "latitude_deg": "47.25452",
+    "longitude_deg": "18.64159",
+    "elevation_ft": "413",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-FE",
+    "municipality": "Velence",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304065",
+        "code": "HU-FE",
+        "local_code": "FE",
+        "name": "Fejér County",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fejér_County",
+        "keywords": "Airports in Fejér County"
+    }
+}

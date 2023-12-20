@@ -1,0 +1,38 @@
+{
+    "id": "517302",
+    "ident": "SK-0090",
+    "type": "small_airport",
+    "name": "Šarovce Airport",
+    "latitude_deg": "48.113592",
+    "longitude_deg": "18.672466",
+    "elevation_ft": "466",
+    "continent": "EU",
+    "iso_country": "SK",
+    "iso_region": "SK-NJ",
+    "municipality": "Hontianska Vrbica",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302717",
+        "code": "SK",
+        "name": "Slovakia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovakia",
+        "keywords": "letisko Slovenska"
+    },
+    "region": {
+        "id": "305594",
+        "code": "SK-NJ",
+        "local_code": "NJ",
+        "name": "Nitra Region",
+        "continent": "EU",
+        "iso_country": "SK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nitra_Region",
+        "keywords": "Nitriansky kraj"
+    }
+}

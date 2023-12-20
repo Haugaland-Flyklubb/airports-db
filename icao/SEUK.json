@@ -1,0 +1,38 @@
+{
+    "id": "517324",
+    "ident": "SEUK",
+    "type": "small_airport",
+    "name": "Kuankua Airstrip",
+    "latitude_deg": "-2.148425",
+    "longitude_deg": "-77.3572",
+    "elevation_ft": "1203",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-S",
+    "municipality": "Copataza",
+    "scheduled_service": "no",
+    "gps_code": "SEUK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303667",
+        "code": "EC-S",
+        "local_code": "S",
+        "name": "Morona-Santiago Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morona-Santiago_Province",
+        "keywords": "Airports in Morona-Santiago Province"
+    }
+}
