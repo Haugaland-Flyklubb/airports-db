@@ -11,8 +11,8 @@ The repository will be updated automatically every day at 7:00 UTC. You can get 
 
 |                 | Number registered |
 | --------------- | ----------------- |
-| Airports        | 77 916            |
-| Runways         | 45 387            |
+| Airports        | 77 940            |
+| Runways         | 45 394            |
 | Frequencies     | 29 323            |
 | Navigation aids | 11 020            |
 | Countries       | 248               |

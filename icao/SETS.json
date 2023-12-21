@@ -1,0 +1,62 @@
+{
+    "id": "517396",
+    "ident": "SETS",
+    "type": "small_airport",
+    "name": "Tsentsakentza Airstrip",
+    "latitude_deg": "-2.55673",
+    "longitude_deg": "-77.401593",
+    "elevation_ft": "882",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-S",
+    "municipality": "Bacundo",
+    "scheduled_service": "no",
+    "gps_code": "SETS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "517398",
+            "airport_ref": "517396",
+            "airport_ident": "SETS",
+            "length_ft": "1650",
+            "width_ft": "66",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303667",
+        "code": "EC-S",
+        "local_code": "S",
+        "name": "Morona-Santiago Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morona-Santiago_Province",
+        "keywords": "Airports in Morona-Santiago Province"
+    }
+}

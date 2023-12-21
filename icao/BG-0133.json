@@ -1,0 +1,38 @@
+{
+    "id": "517388",
+    "ident": "BG-0133",
+    "type": "small_airport",
+    "name": "Svilengrad Airport",
+    "latitude_deg": "41.79382",
+    "longitude_deg": "26.17565",
+    "elevation_ft": "184",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-26",
+    "municipality": "Svilengrad",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303150",
+        "code": "BG-26",
+        "local_code": "26",
+        "name": "Haskovo Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haskovo_Province",
+        "keywords": "Airports in Haskovo Province"
+    }
+}
