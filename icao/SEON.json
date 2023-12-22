@@ -1,0 +1,62 @@
+{
+    "id": "517464",
+    "ident": "SEON",
+    "type": "small_airport",
+    "name": "Conambo Airport",
+    "latitude_deg": "-1.871397",
+    "longitude_deg": "-76.877802",
+    "elevation_ft": "785",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-Y",
+    "municipality": "Conambo",
+    "scheduled_service": "no",
+    "gps_code": "SEON",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "517465",
+            "airport_ref": "517464",
+            "airport_ident": "SEON",
+            "length_ft": "2149",
+            "width_ft": "52",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303673",
+        "code": "EC-Y",
+        "local_code": "Y",
+        "name": "Pastaza Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pastaza_Province",
+        "keywords": "Airports in Pastaza Province"
+    }
+}
