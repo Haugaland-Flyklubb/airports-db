@@ -1,0 +1,48 @@
+{
+    "id": "517755",
+    "ident": "EIBF",
+    "type": "small_airport",
+    "name": "Benfield Aerodrome",
+    "latitude_deg": "53.16147",
+    "longitude_deg": "-7.26737",
+    "elevation_ft": "260",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-OY",
+    "municipality": "Benfield",
+    "scheduled_service": "no",
+    "gps_code": "EIBF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "freqs": [
+        {
+            "id": "517756",
+            "airport_ref": "517755",
+            "airport_ident": "EIBF",
+            "type": "Info",
+            "description": "",
+            "frequency_mhz": "124.405"
+        }
+    ],
+    "country": {
+        "id": "302694",
+        "code": "IE",
+        "name": "Ireland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
+        "keywords": "Eire"
+    },
+    "region": {
+        "id": "304147",
+        "code": "IE-OY",
+        "local_code": "OY",
+        "name": "County Offaly",
+        "continent": "EU",
+        "iso_country": "IE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Offaly",
+        "keywords": "Airports in County Offaly"
+    }
+}
