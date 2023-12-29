@@ -1,0 +1,38 @@
+{
+    "id": "517877",
+    "ident": "EE-0011",
+    "type": "small_airport",
+    "name": "Jägala Airfield",
+    "latitude_deg": "59.40601",
+    "longitude_deg": "25.26657",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "EE",
+    "iso_region": "EE-37",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Regalia Aeroklub",
+    "country": {
+        "id": "302683",
+        "code": "EE",
+        "name": "Estonia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
+        "keywords": "Estonian airports"
+    },
+    "region": {
+        "id": "303675",
+        "code": "EE-37",
+        "local_code": "37",
+        "name": "Harju County",
+        "continent": "EU",
+        "iso_country": "EE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Harju_County",
+        "keywords": "Airports in Harju County"
+    }
+}
