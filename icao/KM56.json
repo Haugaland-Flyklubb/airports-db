@@ -1,0 +1,62 @@
+{
+    "id": "518109",
+    "ident": "KM56",
+    "type": "seaplane_base",
+    "name": "Gunflint Lodge Seaplane Base",
+    "latitude_deg": "48.085352",
+    "longitude_deg": "-90.750425",
+    "elevation_ft": "1545",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Grand Marais",
+    "scheduled_service": "no",
+    "gps_code": "KM56",
+    "iata_code": "",
+    "local_code": "M56",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "518110",
+            "airport_ref": "518109",
+            "airport_ident": "KM56",
+            "length_ft": "6000",
+            "width_ft": "100",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "8W",
+            "le_latitude_deg": "48.092258",
+            "le_longitude_deg": "-90.75235",
+            "le_elevation_ft": "1545",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26W",
+            "he_latitude_deg": "48.095223",
+            "he_longitude_deg": "-90.728204",
+            "he_elevation_ft": "1545",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": "Airports in Minnesota"
+    }
+}
