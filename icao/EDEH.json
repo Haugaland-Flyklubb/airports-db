@@ -2,9 +2,9 @@
     "id": "28592",
     "ident": "EDEH",
     "type": "small_airport",
-    "name": "Herrenteich Airport",
-    "latitude_deg": "49.345001220703125",
-    "longitude_deg": "8.487777709960938",
+    "name": "Herrenteich Airfield",
+    "latitude_deg": "49.345001",
+    "longitude_deg": "8.487778",
     "elevation_ft": "308",
     "continent": "EU",
     "iso_country": "DE",
@@ -17,6 +17,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "518526",
+            "airport_ref": "28592",
+            "airport_ident": "EDEH",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "518525",
+            "airport_ref": "28592",
+            "airport_ident": "EDEH",
+            "type": "Info",
+            "description": "",
+            "frequency_mhz": "132.055"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
