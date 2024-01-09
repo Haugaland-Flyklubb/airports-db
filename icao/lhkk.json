@@ -43,20 +43,12 @@
     ],
     "freqs": [
         {
-            "id": "300363",
-            "airport_ref": "46653",
-            "airport_ident": "lhkk",
-            "type": "Unicom",
-            "description": "Lacháza INFO",
-            "frequency_mhz": "124.025"
-        },
-        {
             "id": "300364",
             "airport_ref": "46653",
             "airport_ident": "lhkk",
-            "type": "Unicom",
+            "type": "Info",
             "description": "Lacháza INFO",
-            "frequency_mhz": "124.025"
+            "frequency_mhz": "124.035"
         }
     ],
     "country": {

@@ -2,7 +2,7 @@
     "id": "29475",
     "ident": "LOLO",
     "type": "small_airport",
-    "name": "Linz-East Airport",
+    "name": "Linz-East Glider Field",
     "latitude_deg": "48.300044",
     "longitude_deg": "14.333606",
     "elevation_ft": "827",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Noetsch im Gailtal",
+    "keywords": "",
     "runways": [
         {
             "id": "253063",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "827",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": "1115"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "518584",
+            "airport_ref": "29475",
+            "airport_ident": "LOLO",
+            "type": "Info",
+            "description": "",
+            "frequency_mhz": "122.38"
         }
     ],
     "country": {
