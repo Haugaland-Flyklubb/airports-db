@@ -1,0 +1,38 @@
+{
+    "id": "518737",
+    "ident": "SIG9",
+    "type": "small_airport",
+    "name": "Fazenda Quatro Irmãos Airstrip",
+    "latitude_deg": "-4.321667",
+    "longitude_deg": "-50.973333",
+    "elevation_ft": "696",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Novo Repartimento",
+    "scheduled_service": "no",
+    "gps_code": "SIG9",
+    "iata_code": "",
+    "local_code": "PA0385",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303212",
+        "code": "BR-PA",
+        "local_code": "PA",
+        "name": "Pará",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
+        "keywords": "Airports in Pará"
+    }
+}

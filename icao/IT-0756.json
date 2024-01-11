@@ -1,0 +1,38 @@
+{
+    "id": "518704",
+    "ident": "IT-0756",
+    "type": "small_airport",
+    "name": "campo di volo Pian Mune'",
+    "latitude_deg": "44.6458",
+    "longitude_deg": "7.244931",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "paesana",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CN15",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306360",
+        "code": "IT-21",
+        "local_code": "21",
+        "name": "Piedmont",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
+        "keywords": "PM"
+    }
+}
