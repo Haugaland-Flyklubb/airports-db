@@ -1,0 +1,38 @@
+{
+    "id": "519485",
+    "ident": "MRDV",
+    "type": "small_airport",
+    "name": "Dole Venecia Airport",
+    "latitude_deg": "10.421667",
+    "longitude_deg": "-84.268167",
+    "elevation_ft": "765",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-A",
+    "municipality": "Pital",
+    "scheduled_service": "no",
+    "gps_code": "MRDV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302731",
+        "code": "CR",
+        "name": "Costa Rica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
+        "keywords": "Aeropuertos de Costa Rica"
+    },
+    "region": {
+        "id": "303491",
+        "code": "CR-A",
+        "local_code": "A",
+        "name": "Alajuela Province",
+        "continent": "NA",
+        "iso_country": "CR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alajuela_Province",
+        "keywords": "Airports in Alajuela"
+    }
+}
