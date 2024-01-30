@@ -2,10 +2,10 @@
     "id": "351822",
     "ident": "AU-0324",
     "type": "small_airport",
-    "name": "Bridport 3rd Airstrip",
+    "name": "Lost Farm Golf Course (Barnbougle)",
     "latitude_deg": "-40.998702",
     "longitude_deg": "147.487306",
-    "elevation_ft": "",
+    "elevation_ft": "40",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-TAS",
@@ -14,9 +14,43 @@
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://barnbougle.com.au/contact/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "519949",
+            "airport_ref": "351822",
+            "airport_ident": "AU-0324",
+            "length_ft": "4921",
+            "width_ft": "",
+            "surface": "gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-41",
+            "le_longitude_deg": "147.478",
+            "le_elevation_ft": "50",
+            "le_heading_degT": "151",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-40.996",
+            "he_longitude_deg": "147.495",
+            "he_elevation_ft": "50",
+            "he_heading_degT": "151",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "519950",
+            "airport_ref": "351822",
+            "airport_ident": "AU-0324",
+            "type": "MISC",
+            "description": "",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",
