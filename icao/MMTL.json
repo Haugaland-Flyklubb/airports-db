@@ -1,0 +1,38 @@
+{
+    "id": "520012",
+    "ident": "MMTL",
+    "type": "medium_airport",
+    "name": "Tulum International Airport",
+    "latitude_deg": "20.172098",
+    "longitude_deg": "-87.660272",
+    "elevation_ft": "66",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-U-A",
+    "municipality": "Felipe Carrillo Puerto",
+    "scheduled_service": "yes",
+    "gps_code": "MMTL",
+    "iata_code": "TQO",
+    "local_code": "",
+    "home_link": "https://aitulum.com/en",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tulum_International_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304819",
+        "code": "MX-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

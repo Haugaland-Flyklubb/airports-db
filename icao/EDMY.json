@@ -24,7 +24,7 @@
             "airport_ident": "EDMY",
             "length_ft": "2789",
             "width_ft": "",
-            "surface": "UNK",
+            "surface": "Concrete",
             "lighted": "0",
             "closed": "0",
             "le_ident": "08",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "1325",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "520018",
+            "airport_ref": "28650",
+            "airport_ident": "EDMY",
+            "type": "Radio",
+            "description": "Muehldorf Radio",
+            "frequency_mhz": "119.78"
         }
     ],
     "country": {
