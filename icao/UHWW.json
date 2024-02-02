@@ -133,6 +133,14 @@
             "frequency_mhz": "126.4"
         },
         {
+            "id": "520115",
+            "airport_ref": "6462",
+            "airport_ident": "UHWW",
+            "type": "RDR",
+            "description": "Vladivostok Radar",
+            "frequency_mhz": "123.4"
+        },
+        {
             "id": "315118",
             "airport_ref": "6462",
             "airport_ident": "UHWW",
@@ -153,8 +161,8 @@
             "airport_ref": "6462",
             "airport_ident": "UHWW",
             "type": "TWR",
-            "description": "",
-            "frequency_mhz": "126"
+            "description": "Vladivostok Start",
+            "frequency_mhz": "119.5"
         }
     ],
     "country": {
