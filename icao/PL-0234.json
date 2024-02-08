@@ -1,0 +1,38 @@
+{
+    "id": "520493",
+    "ident": "PL-0234",
+    "type": "small_airport",
+    "name": "Szczodrkowice Private Airstrip",
+    "latitude_deg": "50.18897",
+    "longitude_deg": "19.89162",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-MA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305149",
+        "code": "PL-MA",
+        "local_code": "MA",
+        "name": "Lesser Poland Voivodeship",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lesser_Poland_Voivodeship",
+        "keywords": "Małopolskie"
+    }
+}
