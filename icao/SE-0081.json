@@ -1,0 +1,38 @@
+{
+    "id": "520544",
+    "ident": "SE-0081",
+    "type": "heliport",
+    "name": "Tärnaby Heliport",
+    "latitude_deg": "65.71402",
+    "longitude_deg": "15.21674",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-AC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305412",
+        "code": "SE-AC",
+        "local_code": "AC",
+        "name": "Västerbottens län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västerbottens_län",
+        "keywords": "Västerbotten County"
+    }
+}
