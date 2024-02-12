@@ -1,14 +1,14 @@
 {
     "id": "344827",
     "ident": "DE-0452",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Fallschirmsportclub Oberhausen",
     "latitude_deg": "49.5491",
     "longitude_deg": "9.95173",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "DE",
-    "iso_region": "DE-NW",
+    "iso_region": "DE-BY",
     "municipality": "Oberhausen",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Flughäfen in Deutschland"
     },
     "region": {
-        "id": "303556",
-        "code": "DE-NW",
-        "local_code": "NW",
-        "name": "North Rhine-Westphalia",
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
         "continent": "EU",
         "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
-        "keywords": "Nordrhein-Westfalen"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
     }
 }
