@@ -17,6 +17,30 @@
     "home_link": "http://www.sfc-ehingen.de",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "521195",
+            "airport_ref": "315567",
+            "airport_ident": "DE-0229",
+            "length_ft": "1000",
+            "width_ft": "100",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "48.285051",
+            "le_longitude_deg": "9.672616",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "344",
+            "he_ident": "33",
+            "he_latitude_deg": "48.283707",
+            "he_longitude_deg": "9.674459",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "121"
+        }
+    ],
     "freqs": [
         {
             "id": "317751",

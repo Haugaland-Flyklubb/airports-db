@@ -17,6 +17,62 @@
     "home_link": "http://www.flugplatz-leibertingen.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Leibertingen",
     "keywords": "",
+    "runways": [
+        {
+            "id": "521201",
+            "airport_ref": "316018",
+            "airport_ident": "DE-0313",
+            "length_ft": "3068",
+            "width_ft": "93",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "48.045421",
+            "le_longitude_deg": "9.024292",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "100",
+            "he_ident": "28",
+            "he_latitude_deg": "48.043873",
+            "he_longitude_deg": "9.03664",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "521203",
+            "airport_ref": "316018",
+            "airport_ident": "DE-0313",
+            "length_ft": "819",
+            "width_ft": "97",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10G",
+            "le_latitude_deg": "48.044227",
+            "le_longitude_deg": "9.03475",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "233",
+            "he_ident": "28G",
+            "he_latitude_deg": "48.043836",
+            "he_longitude_deg": "9.038036",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "133"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "521200",
+            "airport_ref": "316018",
+            "airport_ident": "DE-0313",
+            "type": "CTAF",
+            "description": "Leibertingen",
+            "frequency_mhz": "121.21"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

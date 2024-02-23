@@ -17,6 +17,62 @@
     "home_link": "http://www.segelfliegen-in-celle.de/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "521192",
+            "airport_ref": "311069",
+            "airport_ident": "DE-0118",
+            "length_ft": "1623",
+            "width_ft": "100",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08L",
+            "le_latitude_deg": "52.669365",
+            "le_longitude_deg": "10.089356",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "520",
+            "he_ident": "26R",
+            "he_latitude_deg": "52.669455",
+            "he_longitude_deg": "10.096691",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "110"
+        },
+        {
+            "id": "521191",
+            "airport_ref": "311069",
+            "airport_ident": "DE-0118",
+            "length_ft": "1475",
+            "width_ft": "108",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08R",
+            "le_latitude_deg": "52.668486",
+            "le_longitude_deg": "10.080163",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "136",
+            "he_ident": "26L",
+            "he_latitude_deg": "52.669009",
+            "he_longitude_deg": "10.086725",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "521193",
+            "airport_ref": "311069",
+            "airport_ident": "DE-0118",
+            "type": "CTAF",
+            "description": "Scheuen Info",
+            "frequency_mhz": "134.535"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
