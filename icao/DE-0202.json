@@ -17,6 +17,40 @@
     "home_link": "http://www.fsv-rottenburg-horb.de",
     "wikipedia_link": "",
     "keywords": "EUT1",
+    "runways": [
+        {
+            "id": "521245",
+            "airport_ref": "315403",
+            "airport_ident": "DE-0202",
+            "length_ft": "2736",
+            "width_ft": "97",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "48.483499",
+            "le_longitude_deg": "8.77322",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "90",
+            "he_ident": "24",
+            "he_latitude_deg": "48.487392",
+            "he_longitude_deg": "8.78287",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "180"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "521244",
+            "airport_ref": "315403",
+            "airport_ident": "DE-0202",
+            "type": "CTAF",
+            "description": "Eutingen Info",
+            "frequency_mhz": "133.385"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
