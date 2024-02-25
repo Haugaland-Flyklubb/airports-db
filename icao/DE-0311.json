@@ -17,6 +17,62 @@
     "home_link": "http://www.lsg-isny.de/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "521337",
+            "airport_ref": "316016",
+            "airport_ident": "DE-0311",
+            "length_ft": "1492",
+            "width_ft": "98",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "47.699689",
+            "le_longitude_deg": "10.017729",
+            "le_elevation_ft": "2247",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "710",
+            "he_ident": "25",
+            "he_latitude_deg": "47.70069",
+            "he_longitude_deg": "10.023606",
+            "he_elevation_ft": "2247",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "521338",
+            "airport_ref": "316016",
+            "airport_ident": "DE-0311",
+            "length_ft": "657",
+            "width_ft": "150",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07G",
+            "le_latitude_deg": "47.701037",
+            "le_longitude_deg": "10.026569",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "131",
+            "he_ident": "27G",
+            "he_latitude_deg": "47.701421",
+            "he_longitude_deg": "10.028818",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "521336",
+            "airport_ref": "316016",
+            "airport_ident": "DE-0311",
+            "type": "CTAF",
+            "description": "Isny Information",
+            "frequency_mhz": "118.08"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
