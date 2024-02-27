@@ -1,0 +1,62 @@
+{
+    "id": "521475",
+    "ident": "KE75",
+    "type": "seaplane_base",
+    "name": "Lake Erie Landing Area",
+    "latitude_deg": "42.170939",
+    "longitude_deg": "-80.111661",
+    "elevation_ft": "571",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Erie",
+    "scheduled_service": "no",
+    "gps_code": "KE75",
+    "iata_code": "",
+    "local_code": "E75",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "521476",
+            "airport_ref": "521475",
+            "airport_ident": "KE75",
+            "length_ft": "2830",
+            "width_ft": "200",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "6W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": "Airports in Pennsylvania"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": "521473",
+    "ident": "K1R3",
+    "type": "heliport",
+    "name": "Daniel Island Helipad",
+    "latitude_deg": "32.867564",
+    "longitude_deg": "-79.906125",
+    "elevation_ft": "11",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Moncks Corner",
+    "scheduled_service": "no",
+    "gps_code": "K1R3",
+    "iata_code": "",
+    "local_code": "1R3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "521474",
+            "airport_ref": "521473",
+            "airport_ident": "K1R3",
+            "length_ft": "30",
+            "width_ft": "30",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": "Airports in South Carolina"
+    }
+}
