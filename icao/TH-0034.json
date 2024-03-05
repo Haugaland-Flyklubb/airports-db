@@ -5,7 +5,7 @@
     "name": "TFT Airfield",
     "latitude_deg": "14.08045",
     "longitude_deg": "100.852589",
-    "elevation_ft": "",
+    "elevation_ft": "20",
     "continent": "AS",
     "iso_country": "TH",
     "iso_region": "TH-13",
@@ -16,7 +16,49 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Klong 11",
+    "runways": [
+        {
+            "id": "522013",
+            "airport_ref": "429713",
+            "airport_ident": "TH-0034",
+            "length_ft": "2690",
+            "width_ft": "75",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "522017",
+            "airport_ref": "429713",
+            "airport_ident": "TH-0034",
+            "type": "Approach",
+            "description": "Bangkok Approach",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "522014",
+            "airport_ref": "429713",
+            "airport_ident": "TH-0034",
+            "type": "CTAF",
+            "description": "Klong 11",
+            "frequency_mhz": "123.8"
+        }
+    ],
     "country": {
         "id": "302663",
         "code": "TH",
