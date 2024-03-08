@@ -1,0 +1,38 @@
+{
+    "id": "522267",
+    "ident": "BR-1879",
+    "type": "small_airport",
+    "name": "Miguel Rodrigues de Barros",
+    "latitude_deg": "-17.306389",
+    "longitude_deg": "-49.960833",
+    "elevation_ft": "1860",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Edéia",
+    "scheduled_service": "no",
+    "gps_code": "SSZM",
+    "iata_code": "",
+    "local_code": "GO0113",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303207",
+        "code": "BR-GO",
+        "local_code": "GO",
+        "name": "Goiás",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
+        "keywords": "Airports in Goiás"
+    }
+}
