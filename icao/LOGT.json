@@ -27,18 +27,28 @@
             "surface": "GRASS",
             "lighted": "0",
             "closed": "0",
-            "le_ident": "12",
-            "le_latitude_deg": "47.38090133666992",
-            "le_longitude_deg": "14.96049976348877",
+            "le_ident": "11",
+            "le_latitude_deg": "47.380901",
+            "le_longitude_deg": "14.9605",
             "le_elevation_ft": "",
             "le_heading_degT": "",
             "le_displaced_threshold_ft": "",
-            "he_ident": "30",
-            "he_latitude_deg": "47.37839889526367",
-            "he_longitude_deg": "14.968199729919434",
+            "he_ident": "29",
+            "he_latitude_deg": "47.378399",
+            "he_longitude_deg": "14.9682",
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "523272",
+            "airport_ref": "29456",
+            "airport_ident": "LOGT",
+            "type": "CTAF",
+            "description": "Timmersdorf Radio",
+            "frequency_mhz": "122.305"
         }
     ],
     "country": {
