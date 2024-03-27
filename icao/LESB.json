@@ -5,8 +5,8 @@
     "name": "Son Bonet Airfield",
     "latitude_deg": "39.5989",
     "longitude_deg": "2.70278",
-    "elevation_ft": "157",
-    "continent": "EU",
+    "elevation_ft": "153",
+    "continent": "AF",
     "iso_country": "ES",
     "iso_region": "ES-IB",
     "municipality": "Marratxí",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "https://www.aena.es/en/son-bonet.html",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Son_Bonet_Aerodrome",
-    "keywords": "",
+    "keywords": "Mallorca",
     "runways": [
         {
             "id": "238926",
@@ -51,11 +51,27 @@
             "frequency_mhz": "119.4"
         },
         {
+            "id": "523802",
+            "airport_ref": "4034",
+            "airport_ident": "LESB",
+            "type": "ATIS",
+            "description": "Son Bonet MET",
+            "frequency_mhz": "128.275"
+        },
+        {
+            "id": "523801",
+            "airport_ref": "4034",
+            "airport_ident": "LESB",
+            "type": "CTAF",
+            "description": "Son Bonet Radio",
+            "frequency_mhz": "122.705"
+        },
+        {
             "id": "57298",
             "airport_ref": "4034",
             "airport_ident": "LESB",
             "type": "CTAF",
-            "description": "CTAF",
+            "description": "Mallorca VFR",
             "frequency_mhz": "123.5"
         },
         {
