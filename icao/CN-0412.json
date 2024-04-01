@@ -1,0 +1,38 @@
+{
+    "id": "524237",
+    "ident": "CN-0412",
+    "type": "seaplane_base",
+    "name": "Zhongshan Ferry Port",
+    "latitude_deg": "22.519296",
+    "longitude_deg": "113.361307",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-44",
+    "municipality": "Zhongshan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "ZGN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303440",
+        "code": "CN-44",
+        "local_code": "44",
+        "name": "Guangdong Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guangdong",
+        "keywords": "Canton Province, Kwangtung Province"
+    }
+}

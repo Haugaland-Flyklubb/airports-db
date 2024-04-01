@@ -1,0 +1,38 @@
+{
+    "id": "524225",
+    "ident": "PL-0236",
+    "type": "small_airport",
+    "name": "Lipowa Airfield",
+    "latitude_deg": "49.69775",
+    "longitude_deg": "19.09678",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-SL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EPLP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305156",
+        "code": "PL-SL",
+        "local_code": "SL",
+        "name": "Silesian Voivodeship",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Silesian_Voivodship",
+        "keywords": "Śląskie, Silesia"
+    }
+}
