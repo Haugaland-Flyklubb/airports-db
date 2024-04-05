@@ -1,0 +1,38 @@
+{
+    "id": "524654",
+    "ident": "VYFS",
+    "type": "small_airport",
+    "name": "Surbung Airport",
+    "latitude_deg": "22.939167",
+    "longitude_deg": "93.615333",
+    "elevation_ft": "6012",
+    "continent": "AS",
+    "iso_country": "MM",
+    "iso_region": "MM-14",
+    "municipality": "Falam",
+    "scheduled_service": "no",
+    "gps_code": "VYFS",
+    "iata_code": "SRU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Surbung_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302649",
+        "code": "MM",
+        "name": "Myanmar",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
+        "keywords": "Myanmar"
+    },
+    "region": {
+        "id": "304676",
+        "code": "MM-14",
+        "local_code": "14",
+        "name": "Chin State",
+        "continent": "AS",
+        "iso_country": "MM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chin_State",
+        "keywords": "Airports in Chin State"
+    }
+}

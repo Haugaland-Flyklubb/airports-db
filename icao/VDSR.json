@@ -1,7 +1,7 @@
 {
     "id": "26476",
     "ident": "VDSR",
-    "type": "large_airport",
+    "type": "closed",
     "name": "Siem Reap International Airport",
     "latitude_deg": "13.41155",
     "longitude_deg": "103.813044",
@@ -11,12 +11,12 @@
     "iso_region": "KH-17",
     "municipality": "Siem Reap",
     "scheduled_service": "yes",
-    "gps_code": "VDSR",
-    "iata_code": "REP",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "http://www.cambodia-airports.com/siemreap/en",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Siem_Reap_International_Airport",
-    "keywords": "Angkor International Airport",
+    "keywords": "Angkor International Airport, REP, VDSR",
     "runways": [
         {
             "id": "235102",
