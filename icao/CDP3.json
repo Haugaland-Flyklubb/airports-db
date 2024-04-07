@@ -1,0 +1,38 @@
+{
+    "id": "524821",
+    "ident": "CDP3",
+    "type": "small_airport",
+    "name": "Dennis G Punches Field",
+    "latitude_deg": "55.291105",
+    "longitude_deg": "-95.804263",
+    "elevation_ft": "675",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Utik Lake",
+    "scheduled_service": "no",
+    "gps_code": "CDP3",
+    "iata_code": "",
+    "local_code": "CDP3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "North Haven, Goddard Island",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303296",
+        "code": "CA-MB",
+        "local_code": "MB",
+        "name": "Manitoba",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
+        "keywords": "Airports in Manitoba"
+    }
+}

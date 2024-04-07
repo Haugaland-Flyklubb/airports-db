@@ -14,31 +14,41 @@
     "gps_code": "EDXE",
     "iata_code": "",
     "local_code": "",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://edxe.de/",
+    "wikipedia_link": "https://de.m.wikipedia.org/wiki/Flugplatz_Rheine-Eschendorf",
     "keywords": "",
     "runways": [
         {
             "id": "259811",
             "airport_ref": "28704",
             "airport_ident": "EDXE",
-            "length_ft": "3018",
+            "length_ft": "2093",
             "width_ft": "",
-            "surface": "UNK",
+            "surface": "Gras",
             "lighted": "0",
             "closed": "0",
-            "le_ident": "11",
+            "le_ident": "10",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
             "le_elevation_ft": "131",
-            "le_heading_degT": "",
+            "le_heading_degT": "104",
             "le_displaced_threshold_ft": "",
-            "he_ident": "29",
+            "he_ident": "28",
             "he_latitude_deg": "",
             "he_longitude_deg": "",
             "he_elevation_ft": "131",
-            "he_heading_degT": "",
+            "he_heading_degT": "284",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "524837",
+            "airport_ref": "28704",
+            "airport_ident": "EDXE",
+            "type": "INFO",
+            "description": "Rheine Radio",
+            "frequency_mhz": "126.685"
         }
     ],
     "country": {
