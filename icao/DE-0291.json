@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Sonderlandeplatz Morschenich",
+    "freqs": [
+        {
+            "id": "524948",
+            "airport_ref": "315944",
+            "airport_ident": "DE-0291",
+            "type": "AFIS",
+            "description": "AFIS/Info",
+            "frequency_mhz": "123.425"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

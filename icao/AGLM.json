@@ -1,0 +1,62 @@
+{
+    "id": "524977",
+    "ident": "AGLM",
+    "type": "small_airport",
+    "name": "Lomlom Airport",
+    "latitude_deg": "-10.296828",
+    "longitude_deg": "166.327322",
+    "elevation_ft": "55",
+    "continent": "OC",
+    "iso_country": "SB",
+    "iso_region": "SB-TE",
+    "municipality": "Lomlom",
+    "scheduled_service": "no",
+    "gps_code": "AGLM",
+    "iata_code": "LLM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lomlom_Airport",
+    "keywords": "Ngawa Island",
+    "runways": [
+        {
+            "id": "524981",
+            "airport_ref": "524977",
+            "airport_ident": "AGLM",
+            "length_ft": "3477",
+            "width_ft": "98",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-10.29597",
+            "le_longitude_deg": "16632257",
+            "le_elevation_ft": "37",
+            "le_heading_degT": "100",
+            "le_displaced_threshold_ft": "98",
+            "he_ident": "28",
+            "he_latitude_deg": "-10.29753",
+            "he_longitude_deg": "166.33184",
+            "he_elevation_ft": "39",
+            "he_heading_degT": "280",
+            "he_displaced_threshold_ft": "98"
+        }
+    ],
+    "country": {
+        "id": "302781",
+        "code": "SB",
+        "name": "Solomon Islands",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Solomon_Islands",
+        "keywords": "Airports in Solomon Islands"
+    },
+    "region": {
+        "id": "305380",
+        "code": "SB-TE",
+        "local_code": "TE",
+        "name": "Temotu Province",
+        "continent": "OC",
+        "iso_country": "SB",
+        "wikipedia_link": "https://en.m.wikipedia.org/wiki/Temotu_Province",
+        "keywords": "Airports in Temotu Province"
+    }
+}
