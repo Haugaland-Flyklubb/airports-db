@@ -1,0 +1,38 @@
+{
+    "id": "525056",
+    "ident": "LTFN",
+    "type": "small_airport",
+    "name": "Isparta/Kilic Airport",
+    "latitude_deg": "37.863665",
+    "longitude_deg": "30.355",
+    "elevation_ft": "2874",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-32",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LTFN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305867",
+        "code": "TR-32",
+        "local_code": "32",
+        "name": "Isparta Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Isparta_Province",
+        "keywords": "Airports in Isparta Province"
+    }
+}

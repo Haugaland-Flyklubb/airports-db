@@ -1,0 +1,38 @@
+{
+    "id": "525052",
+    "ident": "YTHN",
+    "type": "small_airport",
+    "name": "Thunderbox Airport",
+    "latitude_deg": "-28.153333",
+    "longitude_deg": "120.94",
+    "elevation_ft": "1706",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Leinster",
+    "scheduled_service": "no",
+    "gps_code": "YTHN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": "Western Australian airports"
+    }
+}

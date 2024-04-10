@@ -3,15 +3,15 @@
     "ident": "WRLF",
     "type": "small_airport",
     "name": "Nunukan Airport",
-    "latitude_deg": "4.13333333333",
-    "longitude_deg": "117.666666667",
-    "elevation_ft": "30",
+    "latitude_deg": "4.133333",
+    "longitude_deg": "117.666667",
+    "elevation_ft": "46",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-KU",
+    "iso_region": "ID-KI",
     "municipality": "Nunukan-Nunukan Island",
     "scheduled_service": "yes",
-    "gps_code": "WALF",
+    "gps_code": "WAQA",
     "iata_code": "NNX",
     "local_code": "",
     "home_link": "",
@@ -68,13 +68,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "316679",
-        "code": "ID-KU",
-        "local_code": "KU",
-        "name": "Kalimantan Utara (North Kalimantan)",
+        "id": "306379",
+        "code": "ID-KI",
+        "local_code": "KI",
+        "name": "Kalimantan Timur (East Kalimantan)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Kalimantan",
-        "keywords": "Kalimantan Utara"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kalimantan",
+        "keywords": "Airports in East Kalimantan"
     }
 }
