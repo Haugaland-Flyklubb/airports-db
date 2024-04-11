@@ -1,0 +1,38 @@
+{
+    "id": "525141",
+    "ident": "VLSP",
+    "type": "small_airport",
+    "name": "Sepon Airport",
+    "latitude_deg": "16.95917",
+    "longitude_deg": "105.98167",
+    "elevation_ft": "702",
+    "continent": "AS",
+    "iso_country": "LA",
+    "iso_region": "LA-SV",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "VLSP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302646",
+        "code": "LA",
+        "name": "Laos",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Laos",
+        "keywords": "Laotian airports"
+    },
+    "region": {
+        "id": "304452",
+        "code": "LA-SV",
+        "local_code": "SV",
+        "name": "Savannakhet Province",
+        "continent": "AS",
+        "iso_country": "LA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Savannakhet_Province",
+        "keywords": "Airports in Savannakhet Province"
+    }
+}

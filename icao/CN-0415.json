@@ -1,0 +1,38 @@
+{
+    "id": "525153",
+    "ident": "CN-0415",
+    "type": "small_airport",
+    "name": "Bayinbuluke airport (under construction, location to be confirmed)",
+    "latitude_deg": "42.9766",
+    "longitude_deg": "83.9729",
+    "elevation_ft": "8219",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-65",
+    "municipality": "Hejing",
+    "scheduled_service": "no",
+    "gps_code": "ZWHJ",
+    "iata_code": "HJB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hejing_Bayinbuluke_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303452",
+        "code": "CN-65",
+        "local_code": "65",
+        "name": "Xinjiang Autonomous Region",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Xinjiang",
+        "keywords": "Airports in Xinjiang Autonomous Region"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "525140",
+    "ident": "00XA",
+    "type": "small_airport",
+    "name": "Weeski Ranch Airport",
+    "latitude_deg": "30.224",
+    "longitude_deg": "-96.01417",
+    "elevation_ft": "271",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "00XA",
+    "iata_code": "",
+    "local_code": "00XA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": "Texan airports"
+    }
+}

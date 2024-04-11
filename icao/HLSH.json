@@ -1,0 +1,38 @@
+{
+    "id": "525139",
+    "ident": "HLSH",
+    "type": "small_airport",
+    "name": "Sahil Airport",
+    "latitude_deg": "29.54",
+    "longitude_deg": "20.17",
+    "elevation_ft": "105",
+    "continent": "AF",
+    "iso_country": "LY",
+    "iso_region": "LY-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "HLSH",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302583",
+        "code": "LY",
+        "name": "Libya",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Libya",
+        "keywords": "مطارات في ليبيا"
+    },
+    "region": {
+        "id": "304560",
+        "code": "LY-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "LY",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
