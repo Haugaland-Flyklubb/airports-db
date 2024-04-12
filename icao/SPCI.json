@@ -1,0 +1,38 @@
+{
+    "id": "525298",
+    "ident": "SPCI",
+    "type": "small_airport",
+    "name": "Campamento De Ilo Aerodrome",
+    "latitude_deg": "-17.615403",
+    "longitude_deg": "-71.330883",
+    "elevation_ft": "197",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-MOQ",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SPCI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305024",
+        "code": "PE-MOQ",
+        "local_code": "MOQ",
+        "name": "Moquegua Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Moquegua_Region",
+        "keywords": "Airports in Moquegua Region"
+    }
+}

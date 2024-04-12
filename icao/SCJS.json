@@ -1,0 +1,38 @@
+{
+    "id": "525314",
+    "ident": "SCJS",
+    "type": "small_airport",
+    "name": "José Abel Sepúlveda Aerodrome",
+    "latitude_deg": "-36.234129",
+    "longitude_deg": "-72.05951",
+    "elevation_ft": "486",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-BI",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SCJS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303401",
+        "code": "CL-BI",
+        "local_code": "BI",
+        "name": "Bío-Bío Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bío-Bío_Region",
+        "keywords": "Airports in Bío-Bío Region"
+    }
+}

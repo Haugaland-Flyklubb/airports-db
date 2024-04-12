@@ -1,0 +1,38 @@
+{
+    "id": "525311",
+    "ident": "SERI",
+    "type": "small_airport",
+    "name": "Maria Cristina Airport",
+    "latitude_deg": "-1.177302",
+    "longitude_deg": "-79.496123",
+    "elevation_ft": "269",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-R",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SERI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303666",
+        "code": "EC-R",
+        "local_code": "R",
+        "name": "Los Rios Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Los_Rios_Province",
+        "keywords": "Airports in Los Rios Province"
+    }
+}

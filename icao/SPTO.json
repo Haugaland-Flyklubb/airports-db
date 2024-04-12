@@ -1,0 +1,38 @@
+{
+    "id": "525269",
+    "ident": "SPTO",
+    "type": "small_airport",
+    "name": "Tulpo Airport",
+    "latitude_deg": "-8.127167",
+    "longitude_deg": "-77.988",
+    "elevation_ft": "10702",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LAL",
+    "municipality": "Santa Clara de Tulpo",
+    "scheduled_service": "no",
+    "gps_code": "SPTO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tulpo_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305019",
+        "code": "PE-LAL",
+        "local_code": "LAL",
+        "name": "La Libertad Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Libertad_Region",
+        "keywords": "Airports in La Libertad Region"
+    }
+}

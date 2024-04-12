@@ -1,0 +1,38 @@
+{
+    "id": "525306",
+    "ident": "SPDU",
+    "type": "small_airport",
+    "name": "Pueblo Libre Del Codo Airport",
+    "latitude_deg": "-9.664617",
+    "longitude_deg": "-75.285337",
+    "elevation_ft": "900",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-HUC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SPDU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305015",
+        "code": "PE-HUC",
+        "local_code": "HUC",
+        "name": "Huánuco Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Huánuco_Region",
+        "keywords": "Airports in Huánuco Region"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "525286",
+    "ident": "SCUU",
+    "type": "small_airport",
+    "name": "El Peral Airport",
+    "latitude_deg": "-31.653369",
+    "longitude_deg": "-71.243344",
+    "elevation_ft": "1064",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-CO",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SCUU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303402",
+        "code": "CL-CO",
+        "local_code": "CO",
+        "name": "Coquimbo Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Coquimbo_Region",
+        "keywords": "Airports in Coquimbo Region"
+    }
+}

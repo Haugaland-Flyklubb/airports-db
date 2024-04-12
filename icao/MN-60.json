@@ -1,17 +1,17 @@
 {
-    "id": "507381",
-    "ident": "ZE5Z",
+    "id": "507382",
+    "ident": "MN-60",
     "type": "small_airport",
-    "name": "Bayan Suma Airport",
-    "latitude_deg": "47.3667",
-    "longitude_deg": "107.4567",
+    "name": "Bayantal Air Base",
+    "latitude_deg": "46.5767",
+    "longitude_deg": "108.3233",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "MN",
-    "iso_region": "MN-U-A",
-    "municipality": "",
+    "iso_region": "MN-064",
+    "municipality": "Bayantal",
     "scheduled_service": "no",
-    "gps_code": "ZE5Z",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
@@ -26,13 +26,13 @@
         "keywords": "Mongolian airports"
     },
     "region": {
-        "id": "304703",
-        "code": "MN-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304696",
+        "code": "MN-064",
+        "local_code": "064",
+        "name": "Govisümber Province",
         "continent": "AS",
         "iso_country": "MN",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Govis%C3%BCmber_Province",
+        "keywords": "Airports in Govisümber"
     }
 }

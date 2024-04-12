@@ -1,0 +1,38 @@
+{
+    "id": "525279",
+    "ident": "WAMS",
+    "type": "small_airport",
+    "name": "Miangas Airport",
+    "latitude_deg": "5.560419",
+    "longitude_deg": "126.580095",
+    "elevation_ft": "9",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-SA",
+    "municipality": "Miangas",
+    "scheduled_service": "no",
+    "gps_code": "WAMS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Miangas_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304120",
+        "code": "ID-SA",
+        "local_code": "SA",
+        "name": "Sulawesi Utara (North Sulawesi)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Utara",
+        "keywords": "Airports in Sulawesi Utara"
+    }
+}

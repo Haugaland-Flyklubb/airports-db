@@ -1,15 +1,15 @@
 {
     "id": "507385",
     "ident": "MN-0005",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Shine Bulagin Hural Air Base",
     "latitude_deg": "45.9467",
     "longitude_deg": "109.1233",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "MN",
-    "iso_region": "MN-U-A",
-    "municipality": "",
+    "iso_region": "MN-063",
+    "municipality": "Dalanjargalan",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Mongolian airports"
     },
     "region": {
-        "id": "304703",
-        "code": "MN-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304695",
+        "code": "MN-063",
+        "local_code": "063",
+        "name": "Dornogovi Province",
         "continent": "AS",
         "iso_country": "MN",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dornogovi_Province",
+        "keywords": "East Gobi"
     }
 }

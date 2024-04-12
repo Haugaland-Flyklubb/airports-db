@@ -1,0 +1,38 @@
+{
+    "id": "525308",
+    "ident": "WPSM",
+    "type": "small_airport",
+    "name": "Same Airport",
+    "latitude_deg": "-9.000988",
+    "longitude_deg": "125.683942",
+    "elevation_ft": "1100",
+    "continent": "AS",
+    "iso_country": "TL",
+    "iso_region": "TL-MF",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "WPSM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302665",
+        "code": "TL",
+        "name": "Timor-Leste",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Timor-Leste",
+        "keywords": "East Timor"
+    },
+    "region": {
+        "id": "305799",
+        "code": "TL-MF",
+        "local_code": "MF",
+        "name": "Manafahi",
+        "continent": "AS",
+        "iso_country": "TL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Manafahi",
+        "keywords": "Airports in Manafahi"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "525284",
+    "ident": "GOOG",
+    "type": "small_airport",
+    "name": "Linguère Airport",
+    "latitude_deg": "15.402134",
+    "longitude_deg": "-15.080629",
+    "elevation_ft": "66",
+    "continent": "AF",
+    "iso_country": "SN",
+    "iso_region": "SN-LG",
+    "municipality": "Linguère",
+    "scheduled_service": "no",
+    "gps_code": "GOOG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lingu%C3%A8re_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302600",
+        "code": "SN",
+        "name": "Senegal",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Senegal",
+        "keywords": "Aéroports du Sénégal, Senegalese airports"
+    },
+    "region": {
+        "id": "305611",
+        "code": "SN-LG",
+        "local_code": "LG",
+        "name": "Louga Region",
+        "continent": "AF",
+        "iso_country": "SN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louga_Region",
+        "keywords": "Airports in Louga Region"
+    }
+}
