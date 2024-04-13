@@ -3,14 +3,14 @@
     "ident": "ENNO",
     "type": "medium_airport",
     "name": "Notodden Airport",
-    "latitude_deg": "59.565701",
-    "longitude_deg": "9.21222",
+    "latitude_deg": "59.565071",
+    "longitude_deg": "9.213152",
     "elevation_ft": "63",
     "continent": "EU",
     "iso_country": "NO",
-    "iso_region": "NO-38",
+    "iso_region": "NO-40",
     "municipality": "Notodden",
-    "scheduled_service": "yes",
+    "scheduled_service": "no",
     "gps_code": "ENNO",
     "iata_code": "NTB",
     "local_code": "",
@@ -60,14 +60,14 @@
         "keywords": "Flyplasser i Norge"
     },
     "region": {
-        "id": "349853",
-        "code": "NO-38",
-        "local_code": "38",
-        "name": "Vestfold og Telemark",
+        "id": "525413",
+        "code": "NO-40",
+        "local_code": "40",
+        "name": "Telemark",
         "continent": "EU",
         "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vestfold_og_Telemark",
-        "keywords": "Airports in Vestfold og Telemark"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Telemark",
+        "keywords": ""
     },
     "navaids": [
         {
