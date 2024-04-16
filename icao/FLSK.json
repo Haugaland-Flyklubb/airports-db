@@ -1,0 +1,62 @@
+{
+    "id": "525659",
+    "ident": "FLSK",
+    "type": "medium_airport",
+    "name": "Simon Mwansa Kapwepwe International Airport",
+    "latitude_deg": "-12.961667",
+    "longitude_deg": "28.516667",
+    "elevation_ft": "4308",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-08",
+    "municipality": "Ndola",
+    "scheduled_service": "yes",
+    "gps_code": "FLSK",
+    "iata_code": "NLA",
+    "local_code": "",
+    "home_link": "https://www.zacl.co.zm/airport-section/airports/smkia",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Simon_Mwansa_Kapwepwe_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "525660",
+            "airport_ref": "525659",
+            "airport_ident": "FLSK",
+            "length_ft": "11483",
+            "width_ft": "141",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302611",
+        "code": "ZM",
+        "name": "Zambia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zambia",
+        "keywords": "Zambian airports"
+    },
+    "region": {
+        "id": "306307",
+        "code": "ZM-08",
+        "local_code": "08",
+        "name": "Copperbelt Province",
+        "continent": "AF",
+        "iso_country": "ZM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Copperbelt_Province",
+        "keywords": "Airports in Copperbelt Province"
+    }
+}
