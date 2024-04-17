@@ -1,0 +1,62 @@
+{
+    "id": "525703",
+    "ident": "BR-1881",
+    "type": "small_airport",
+    "name": "Fazenda Planalto das Emas Airport",
+    "latitude_deg": "-14.098546",
+    "longitude_deg": "-46.135549",
+    "elevation_ft": "3205",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Jaborandi",
+    "scheduled_service": "no",
+    "gps_code": "SWIE",
+    "iata_code": "",
+    "local_code": "BA0179",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "525719",
+            "airport_ref": "525703",
+            "airport_ident": "BR-1881",
+            "length_ft": "4921",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-14.09851",
+            "le_longitude_deg": "-46.14132",
+            "le_elevation_ft": "",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "426",
+            "he_ident": "29",
+            "he_latitude_deg": "-14.09855",
+            "he_longitude_deg": "-46.12863",
+            "he_elevation_ft": "",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303203",
+        "code": "BR-BA",
+        "local_code": "BA",
+        "name": "Bahia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
+        "keywords": "Airports in Bahia"
+    }
+}

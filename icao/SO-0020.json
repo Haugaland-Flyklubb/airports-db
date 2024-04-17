@@ -1,0 +1,38 @@
+{
+    "id": "525783",
+    "ident": "SO-0020",
+    "type": "small_airport",
+    "name": "Guriel Airport",
+    "latitude_deg": "5.317412",
+    "longitude_deg": "45.985308",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SO",
+    "iso_region": "SO-GA",
+    "municipality": "Guriel",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "GUO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Guriel_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302601",
+        "code": "SO",
+        "name": "Somalia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Somalia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305623",
+        "code": "SO-GA",
+        "local_code": "GA",
+        "name": "Galguduud",
+        "continent": "AF",
+        "iso_country": "SO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Galguduud",
+        "keywords": "Airports in Galguduud"
+    }
+}

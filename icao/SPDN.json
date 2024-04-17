@@ -1,0 +1,38 @@
+{
+    "id": "525724",
+    "ident": "SPDN",
+    "type": "small_airport",
+    "name": "Colonia Angamos Airport",
+    "latitude_deg": "-5.137125",
+    "longitude_deg": "-72.867889",
+    "elevation_ft": "427",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LOR",
+    "municipality": "Colonia Angamos",
+    "scheduled_service": "no",
+    "gps_code": "SPDN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Colonia_Angamos_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305022",
+        "code": "PE-LOR",
+        "local_code": "LOR",
+        "name": "Loreto Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Loreto_Region",
+        "keywords": "Airports in Loreto Region"
+    }
+}

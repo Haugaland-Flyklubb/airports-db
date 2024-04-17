@@ -1,0 +1,38 @@
+{
+    "id": "525749",
+    "ident": "IE-0072",
+    "type": "small_airport",
+    "name": "Adamstown Airfield",
+    "latitude_deg": "53.536388",
+    "longitude_deg": "-6.735",
+    "elevation_ft": "200",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "EI01",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302694",
+        "code": "IE",
+        "name": "Ireland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
+        "keywords": "Eire"
+    },
+    "region": {
+        "id": "304151",
+        "code": "IE-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "IE",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

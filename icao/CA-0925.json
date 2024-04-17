@@ -1,0 +1,38 @@
+{
+    "id": "525713",
+    "ident": "CA-0925",
+    "type": "small_airport",
+    "name": "Misaw Lake Airport",
+    "latitude_deg": "59.753883",
+    "longitude_deg": "-102.422852",
+    "elevation_ft": "1301",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CAM2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303305",
+        "code": "CA-SK",
+        "local_code": "SK",
+        "name": "Saskatchewan",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
+        "keywords": "Airports in Saskatchewan"
+    }
+}

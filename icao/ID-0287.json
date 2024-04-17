@@ -1,0 +1,38 @@
+{
+    "id": "525696",
+    "ident": "ID-0287",
+    "type": "small_airport",
+    "name": "Tebelian Airport",
+    "latitude_deg": "-0.041667",
+    "longitude_deg": "111.45639",
+    "elevation_ft": "97",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "WIOS",
+    "iata_code": "SQG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tebelian_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304127",
+        "code": "ID-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

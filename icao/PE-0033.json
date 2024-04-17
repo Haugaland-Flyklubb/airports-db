@@ -1,0 +1,38 @@
+{
+    "id": "525722",
+    "ident": "PE-0033",
+    "type": "small_airport",
+    "name": "Bolognesi Airport",
+    "latitude_deg": "-10.029555",
+    "longitude_deg": "-73.943375",
+    "elevation_ft": "630",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "SPBL",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bolognesi_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305031",
+        "code": "PE-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

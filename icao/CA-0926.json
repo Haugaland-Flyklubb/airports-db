@@ -1,0 +1,62 @@
+{
+    "id": "525735",
+    "ident": "CA-0926",
+    "type": "small_airport",
+    "name": "Clayton Air 1 Airport",
+    "latitude_deg": "52.932952",
+    "longitude_deg": "-106.639813",
+    "elevation_ft": "1715",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CMC4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "525761",
+            "airport_ref": "525735",
+            "airport_ident": "CA-0926",
+            "length_ft": "3261",
+            "width_ft": "30",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303305",
+        "code": "CA-SK",
+        "local_code": "SK",
+        "name": "Saskatchewan",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
+        "keywords": "Airports in Saskatchewan"
+    }
+}

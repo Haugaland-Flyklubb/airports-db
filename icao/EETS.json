@@ -1,0 +1,38 @@
+{
+    "id": "525741",
+    "ident": "EETS",
+    "type": "small_airport",
+    "name": "Teenuse-Saare Aerodrome",
+    "latitude_deg": "58.809444",
+    "longitude_deg": "24.184723",
+    "elevation_ft": "31",
+    "continent": "EU",
+    "iso_country": "EE",
+    "iso_region": "EE-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EETS",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302683",
+        "code": "EE",
+        "name": "Estonia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
+        "keywords": "Estonian airports"
+    },
+    "region": {
+        "id": "303690",
+        "code": "EE-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "EE",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
