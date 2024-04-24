@@ -1,0 +1,38 @@
+{
+    "id": "526467",
+    "ident": "FR-0562",
+    "type": "small_airport",
+    "name": "Vieux-Ferrette Airfield",
+    "latitude_deg": "47.515833",
+    "longitude_deg": "7.306944",
+    "elevation_ft": "1499",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "Vieux-Ferrette",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF6822",
+    "home_link": "https://site.ulm-regio.eu/fr/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306353",
+        "code": "FR-GES",
+        "local_code": "GES",
+        "name": "Grand Est",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
+        "keywords": "Airports in Grand Est"
+    }
+}

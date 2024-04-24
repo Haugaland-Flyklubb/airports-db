@@ -1,0 +1,38 @@
+{
+    "id": "526473",
+    "ident": "HLRF",
+    "type": "small_airport",
+    "name": "Jaref Airport",
+    "latitude_deg": "31.2075",
+    "longitude_deg": "16.423",
+    "elevation_ft": "35",
+    "continent": "AF",
+    "iso_country": "LY",
+    "iso_region": "LY-SR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "HLRF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302583",
+        "code": "LY",
+        "name": "Libya",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Libya",
+        "keywords": "مطارات في ليبيا"
+    },
+    "region": {
+        "id": "304558",
+        "code": "LY-SR",
+        "local_code": "SR",
+        "name": "Surt District",
+        "continent": "AF",
+        "iso_country": "LY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Surt_District",
+        "keywords": "Airports in Surt District"
+    }
+}

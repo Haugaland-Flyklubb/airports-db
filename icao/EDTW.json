@@ -17,6 +17,30 @@
     "home_link": "http://www.lsv-schwarzwald.de/flugplatz/",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Winzeln-Schramberg",
     "keywords": "Flugplatz Winzeln-Schramberg",
+    "runways": [
+        {
+            "id": "526465",
+            "airport_ref": "28760",
+            "airport_ident": "EDTW",
+            "length_ft": "2310",
+            "width_ft": "48",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "48.281768",
+            "le_longitude_deg": "8.425521",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "48.276681",
+            "he_longitude_deg": "8.431162",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
