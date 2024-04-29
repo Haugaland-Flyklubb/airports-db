@@ -1,0 +1,62 @@
+{
+    "id": "527053",
+    "ident": "SN2O",
+    "type": "heliport",
+    "name": "Magazine Decor Heliport",
+    "latitude_deg": "-26.435325",
+    "longitude_deg": "-53.52072",
+    "elevation_ft": "2363",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "São José do Cedro",
+    "scheduled_service": "no",
+    "gps_code": "SN2O",
+    "iata_code": "",
+    "local_code": "SC0236",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "527056",
+            "airport_ref": "527053",
+            "airport_ident": "SN2O",
+            "length_ft": "66",
+            "width_ft": "",
+            "surface": "Concrete disk",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303222",
+        "code": "BR-SC",
+        "local_code": "SC",
+        "name": "Santa Catarina",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina_(state)",
+        "keywords": "Airports in Santa Catarina"
+    }
+}
