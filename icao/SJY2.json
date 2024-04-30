@@ -1,0 +1,62 @@
+{
+    "id": "527137",
+    "ident": "SJY2",
+    "type": "small_airport",
+    "name": "Fazenda Aguão Airport",
+    "latitude_deg": "-11.503738",
+    "longitude_deg": "-54.202544",
+    "elevation_ft": "1220",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "União do Sul",
+    "scheduled_service": "no",
+    "gps_code": "SJY2",
+    "iata_code": "",
+    "local_code": "MT0945",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "527140",
+            "airport_ref": "527137",
+            "airport_ident": "SJY2",
+            "length_ft": "2625",
+            "width_ft": "59",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303211",
+        "code": "BR-MT",
+        "local_code": "MT",
+        "name": "Mato Grosso",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
+        "keywords": "Airports in Mato Grosso"
+    }
+}
