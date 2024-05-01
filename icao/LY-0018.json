@@ -1,0 +1,38 @@
+{
+    "id": "527229",
+    "ident": "LY-0018",
+    "type": "small_airport",
+    "name": "Athadi Airport",
+    "latitude_deg": "29.6175",
+    "longitude_deg": "19.650556",
+    "elevation_ft": "56",
+    "continent": "AF",
+    "iso_country": "LY",
+    "iso_region": "LY-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HLATH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302583",
+        "code": "LY",
+        "name": "Libya",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Libya",
+        "keywords": "مطارات في ليبيا"
+    },
+    "region": {
+        "id": "304560",
+        "code": "LY-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "LY",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

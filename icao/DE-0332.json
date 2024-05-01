@@ -17,6 +17,30 @@
     "home_link": "http://www.lsv-rossfeld.de/home/index.php?",
     "wikipedia_link": "",
     "keywords": "Rossfeld",
+    "runways": [
+        {
+            "id": "527224",
+            "airport_ref": "316051",
+            "airport_ident": "DE-0332",
+            "length_ft": "2076",
+            "width_ft": "102",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "48.512434",
+            "le_longitude_deg": "9.329049",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "48.51413",
+            "he_longitude_deg": "9.33725",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

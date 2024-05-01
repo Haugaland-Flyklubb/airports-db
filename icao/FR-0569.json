@@ -1,0 +1,38 @@
+{
+    "id": "527235",
+    "ident": "FR-0569",
+    "type": "small_airport",
+    "name": "Fontaine Simon Airfield",
+    "latitude_deg": "48.506944",
+    "longitude_deg": "0.9925",
+    "elevation_ft": "689",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF2827",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "303819",
+        "code": "FR-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

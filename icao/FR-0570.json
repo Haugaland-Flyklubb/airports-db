@@ -1,0 +1,62 @@
+{
+    "id": "527244",
+    "ident": "FR-0570",
+    "type": "small_airport",
+    "name": "Base ULM Banelle",
+    "latitude_deg": "46.124953",
+    "longitude_deg": "3.286886",
+    "elevation_ft": "1165",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "Banelle",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF0355",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "527245",
+            "airport_ref": "527244",
+            "airport_ident": "FR-0570",
+            "length_ft": "984",
+            "width_ft": "66",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306351",
+        "code": "FR-ARA",
+        "local_code": "ARA",
+        "name": "Auvergne-Rhône-Alpes",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
+        "keywords": "Airports in Auvergne-Rhône-Alpes"
+    }
+}
