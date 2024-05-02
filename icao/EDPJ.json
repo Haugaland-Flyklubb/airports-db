@@ -17,6 +17,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "527291",
+            "airport_ref": "28629",
+            "airport_ident": "EDPJ",
+            "length_ft": "1588",
+            "width_ft": "26",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "48.496163",
+            "le_longitude_deg": "9.637248",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "823",
+            "he_ident": "25",
+            "he_latitude_deg": "48.497665",
+            "he_longitude_deg": "9.643404",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "624"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "527292",
+            "airport_ref": "28629",
+            "airport_ident": "EDPJ",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "127.7"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -17,6 +17,40 @@
     "home_link": "https://www.wolfhirth.de/flugplatz/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Nabern/Teck",
     "keywords": "",
+    "runways": [
+        {
+            "id": "527301",
+            "airport_ref": "28653",
+            "airport_ident": "EDTN",
+            "length_ft": "2019",
+            "width_ft": "116",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "48.61467",
+            "le_longitude_deg": "9.474533",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "48.610573",
+            "he_longitude_deg": "9.480153",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "527302",
+            "airport_ref": "28653",
+            "airport_ident": "EDTN",
+            "type": "CTAF",
+            "description": "Nabern Radio",
+            "frequency_mhz": "118.33"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -17,6 +17,62 @@
     "home_link": "http://www.fliegergruppehuelben.de/",
     "wikipedia_link": "",
     "keywords": "Huelben",
+    "runways": [
+        {
+            "id": "527279",
+            "airport_ref": "316012",
+            "airport_ident": "DE-0309",
+            "length_ft": "2237",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "48.529126",
+            "le_longitude_deg": "9.392886",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "48.529402",
+            "he_longitude_deg": "9.402125",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "527280",
+            "airport_ref": "316012",
+            "airport_ident": "DE-0309",
+            "length_ft": "1280",
+            "width_ft": "99",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "48.529697",
+            "le_longitude_deg": "9.397015",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "90",
+            "he_ident": "29",
+            "he_latitude_deg": "48.529256",
+            "he_longitude_deg": "9.402261",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "200"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "527281",
+            "airport_ref": "316012",
+            "airport_ident": "DE-0309",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "119.75"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
