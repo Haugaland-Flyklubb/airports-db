@@ -1,0 +1,72 @@
+{
+    "id": "527373",
+    "ident": "GB-1102",
+    "type": "small_airport",
+    "name": "Baldardo Field",
+    "latitude_deg": "56.666793",
+    "longitude_deg": "-2.800847",
+    "elevation_ft": "500",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-SCT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "527376",
+            "airport_ref": "527373",
+            "airport_ident": "GB-1102",
+            "length_ft": "1640",
+            "width_ft": "40",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "527378",
+            "airport_ref": "527373",
+            "airport_ident": "GB-1102",
+            "type": "SAFETYCOM",
+            "description": "Baldardo Trattic",
+            "frequency_mhz": "135.48"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306377",
+        "code": "GB-SCT",
+        "local_code": "SCT",
+        "name": "Scotland",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
+        "keywords": "keep"
+    }
+}

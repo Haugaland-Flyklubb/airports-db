@@ -3,13 +3,13 @@
     "ident": "EPRD",
     "type": "small_airport",
     "name": "Mazury Air Camp Airfield",
-    "latitude_deg": "54.13361",
-    "longitude_deg": "21.598612",
+    "latitude_deg": "54.134375",
+    "longitude_deg": "21.598754",
     "elevation_ft": "398",
     "continent": "EU",
     "iso_country": "PL",
-    "iso_region": "PL-U-A",
-    "municipality": "",
+    "iso_region": "PL-WN",
+    "municipality": "Radzieje",
     "scheduled_service": "no",
     "gps_code": "EPRD",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Lotniska Polski"
     },
     "region": {
-        "id": "305157",
-        "code": "PL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305158",
+        "code": "PL-WN",
+        "local_code": "WN",
+        "name": "Warmian-Masurian Voivodeship",
         "continent": "EU",
         "iso_country": "PL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Warmian-Masurian_Voivodeship",
+        "keywords": "Warmińsko-Mazurskie"
     }
 }
