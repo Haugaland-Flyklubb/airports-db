@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "SA",
-    "iso_region": "SA-U-A",
+    "iso_region": "SA-01",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "OEKF",
@@ -17,6 +17,52 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "527689",
+            "airport_ref": "526432",
+            "airport_ident": "OEKF",
+            "length_ft": "12139",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15L",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33R",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "527690",
+            "airport_ref": "526432",
+            "airport_ident": "OEKF",
+            "length_ft": "8203",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15R",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33L",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302660",
         "code": "SA",
@@ -26,13 +72,13 @@
         "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
     },
     "region": {
-        "id": "305373",
-        "code": "SA-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305360",
+        "code": "SA-01",
+        "local_code": "01",
+        "name": "Riyadh Region",
         "continent": "AS",
         "iso_country": "SA",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Riyadh_Region",
+        "keywords": "Riyad"
     }
 }

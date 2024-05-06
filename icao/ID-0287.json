@@ -1,16 +1,16 @@
 {
     "id": "525696",
     "ident": "ID-0287",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Tebelian Airport",
-    "latitude_deg": "-0.041667",
-    "longitude_deg": "111.45639",
+    "latitude_deg": "-0.045214",
+    "longitude_deg": "111.458049",
     "elevation_ft": "97",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-U-A",
-    "municipality": "",
-    "scheduled_service": "no",
+    "iso_region": "ID-KB",
+    "municipality": "Sintang",
+    "scheduled_service": "yes",
     "gps_code": "WIOS",
     "iata_code": "SQG",
     "local_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304127",
-        "code": "ID-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304109",
+        "code": "ID-KB",
+        "local_code": "KB",
+        "name": "Kalimantan Barat (West Kalimantan)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kalimantan_Barat",
+        "keywords": "Airports in Kalimantan Barat"
     }
 }
