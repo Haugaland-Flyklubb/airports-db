@@ -17,6 +17,30 @@
     "home_link": "http://www.aero-club-esslingen.de/",
     "wikipedia_link": "",
     "keywords": "Eßlingen",
+    "runways": [
+        {
+            "id": "527752",
+            "airport_ref": "315886",
+            "airport_ident": "DE-0279",
+            "length_ft": "2295",
+            "width_ft": "166",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "48.764037",
+            "le_longitude_deg": "9.329912",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "48.760639",
+            "he_longitude_deg": "9.337942",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
