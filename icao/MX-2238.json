@@ -1,0 +1,38 @@
+{
+    "id": "528236",
+    "ident": "MX-2238",
+    "type": "heliport",
+    "name": "El Sauz Heliport",
+    "latitude_deg": "20.164242",
+    "longitude_deg": "-99.686983",
+    "elevation_ft": "8537",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-MEX",
+    "municipality": "Polotitlan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HUZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304804",
+        "code": "MX-MEX",
+        "local_code": "MEX",
+        "name": "México (state)",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/State_of_Mexico",
+        "keywords": "Airports in México (state)"
+    }
+}

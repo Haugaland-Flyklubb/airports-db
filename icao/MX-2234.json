@@ -1,0 +1,38 @@
+{
+    "id": "528230",
+    "ident": "MX-2234",
+    "type": "small_airport",
+    "name": "Rancho El Cura Airstrip",
+    "latitude_deg": "24.509458",
+    "longitude_deg": "-104.932192",
+    "elevation_ft": "8442",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-DUR",
+    "municipality": "Canatlan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CUR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304799",
+        "code": "MX-DUR",
+        "local_code": "DUR",
+        "name": "Durango",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Durango",
+        "keywords": "Airports in Durango"
+    }
+}

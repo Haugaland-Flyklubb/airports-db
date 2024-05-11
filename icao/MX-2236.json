@@ -1,0 +1,38 @@
+{
+    "id": "528234",
+    "ident": "MX-2236",
+    "type": "heliport",
+    "name": "Monarca II Heliport",
+    "latitude_deg": "19.484004",
+    "longitude_deg": "-100.392627",
+    "elevation_ft": "6299",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-MIC",
+    "municipality": "Zitacuaro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HUE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304805",
+        "code": "MX-MIC",
+        "local_code": "MIC",
+        "name": "Michoacán",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michoac%C3%A1n",
+        "keywords": "Airports in Michoacán"
+    }
+}

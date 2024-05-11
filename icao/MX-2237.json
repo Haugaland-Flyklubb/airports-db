@@ -1,0 +1,38 @@
+{
+    "id": "528235",
+    "ident": "MX-2237",
+    "type": "heliport",
+    "name": "Baron Balche Heliport",
+    "latitude_deg": "32.099694",
+    "longitude_deg": "-116.634125",
+    "elevation_ft": "1112",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-BCN",
+    "municipality": "Ensenada",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HKH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304791",
+        "code": "MX-BCN",
+        "local_code": "BCN",
+        "name": "Baja California",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California",
+        "keywords": "Airports in Baja California"
+    }
+}
