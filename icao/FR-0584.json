@@ -1,0 +1,38 @@
+{
+    "id": "528483",
+    "ident": "FR-0584",
+    "type": "small_airport",
+    "name": "domaine Aliso Rossi Airfield",
+    "latitude_deg": "42.646944",
+    "longitude_deg": "9.288056",
+    "elevation_ft": "49",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-COR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF2B24",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306345",
+        "code": "FR-COR",
+        "local_code": "COR",
+        "name": "Corsica",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Corsica",
+        "keywords": "Corse"
+    }
+}
