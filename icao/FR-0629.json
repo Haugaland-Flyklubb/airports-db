@@ -1,0 +1,38 @@
+{
+    "id": "528630",
+    "ident": "FR-0629",
+    "type": "small_airport",
+    "name": "Fourques Airfield",
+    "latitude_deg": "44.466667",
+    "longitude_deg": "0.161944",
+    "elevation_ft": "70",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NAQ",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF4751",
+    "home_link": "https://www.ulmfourques.fr",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306352",
+        "code": "FR-NAQ",
+        "local_code": "NAQ",
+        "name": "Nouvelle-Aquitaine",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
+        "keywords": "Limousin, Poitou-Charentes"
+    }
+}

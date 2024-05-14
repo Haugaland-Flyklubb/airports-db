@@ -3,13 +3,13 @@
     "ident": "FR-0569",
     "type": "small_airport",
     "name": "Fontaine Simon Airfield",
-    "latitude_deg": "48.506944",
-    "longitude_deg": "0.9925",
+    "latitude_deg": "48.506027",
+    "longitude_deg": "0.991064",
     "elevation_ft": "689",
     "continent": "EU",
     "iso_country": "FR",
-    "iso_region": "FR-U-A",
-    "municipality": "",
+    "iso_region": "FR-CVL",
+    "municipality": "Fontaine-Simon",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "528665",
+            "airport_ref": "527235",
+            "airport_ident": "FR-0569",
+            "length_ft": "3281",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",
@@ -26,13 +50,13 @@
         "keywords": "Aéroports de France"
     },
     "region": {
-        "id": "303819",
-        "code": "FR-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306347",
+        "code": "FR-CVL",
+        "local_code": "CVL",
+        "name": "Centre-Val de Loire",
         "continent": "EU",
         "iso_country": "FR",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Centre-Val_de_Loire",
+        "keywords": "Airports in Centre-Val de Loire"
     }
 }
