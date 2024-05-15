@@ -1,0 +1,38 @@
+{
+    "id": "528840",
+    "ident": "FR-0762",
+    "type": "small_airport",
+    "name": "Harricourt la Gonio Airfield",
+    "latitude_deg": "48.280278",
+    "longitude_deg": "4.914444",
+    "elevation_ft": "1214",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF5224",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306353",
+        "code": "FR-GES",
+        "local_code": "GES",
+        "name": "Grand Est",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
+        "keywords": "Airports in Grand Est"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "529107",
+    "ident": "FR-1020",
+    "type": "small_airport",
+    "name": "Etoile Rhône Airfield",
+    "latitude_deg": "44.830833",
+    "longitude_deg": "4.866111",
+    "elevation_ft": "345",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-ARA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF2628",
+    "home_link": "http://club-ulm-folairvanne.fr/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306351",
+        "code": "FR-ARA",
+        "local_code": "ARA",
+        "name": "Auvergne-Rhône-Alpes",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
+        "keywords": "Airports in Auvergne-Rhône-Alpes"
+    }
+}

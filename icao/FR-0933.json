@@ -1,0 +1,38 @@
+{
+    "id": "529020",
+    "ident": "FR-0933",
+    "type": "small_airport",
+    "name": "Herlies Airfield",
+    "latitude_deg": "50.585278",
+    "longitude_deg": "2.838889",
+    "elevation_ft": "102",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-HDF",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF5930",
+    "home_link": "https://www.aliz-air.fr/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306337",
+        "code": "FR-HDF",
+        "local_code": "HDF",
+        "name": "Hauts-de-France",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
+        "keywords": "Airports in Hauts-de-France"
+    }
+}

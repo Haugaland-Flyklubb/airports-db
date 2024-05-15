@@ -1,0 +1,38 @@
+{
+    "id": "528788",
+    "ident": "FR-0724",
+    "type": "small_airport",
+    "name": "Ferme de la Braudière Airfield",
+    "latitude_deg": "47.562222",
+    "longitude_deg": "0.307222",
+    "elevation_ft": "256",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-CVL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF3760",
+    "home_link": "http://www.aero-hesbaye.eu/Voyages/labaudriere/labaudriere.htm",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306347",
+        "code": "FR-CVL",
+        "local_code": "CVL",
+        "name": "Centre-Val de Loire",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Centre-Val_de_Loire",
+        "keywords": "Airports in Centre-Val de Loire"
+    }
+}

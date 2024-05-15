@@ -1,0 +1,38 @@
+{
+    "id": "529134",
+    "ident": "FR-1047",
+    "type": "small_airport",
+    "name": "Luçon Airfield",
+    "latitude_deg": "46.424722",
+    "longitude_deg": "-1.193333",
+    "elevation_ft": "11",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NOR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF8528",
+    "home_link": "http://club.ulm.luconnais.free.fr/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306343",
+        "code": "FR-NOR",
+        "local_code": "NOR",
+        "name": "Normandy",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Normandy",
+        "keywords": "Haute-Normandie"
+    }
+}

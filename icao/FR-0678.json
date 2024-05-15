@@ -1,0 +1,38 @@
+{
+    "id": "528738",
+    "ident": "FR-0678",
+    "type": "small_airport",
+    "name": "Queneleuc Airfield",
+    "latitude_deg": "48.098333",
+    "longitude_deg": "-2.076389",
+    "elevation_ft": "246",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-BRE",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF3558",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306348",
+        "code": "FR-BRE",
+        "local_code": "BRE",
+        "name": "Brittany",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
+        "keywords": "Bretagne"
+    }
+}

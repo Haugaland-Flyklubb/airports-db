@@ -1,0 +1,38 @@
+{
+    "id": "528948",
+    "ident": "FR-0861",
+    "type": "small_airport",
+    "name": "Dragey Airfield",
+    "latitude_deg": "48.705278",
+    "longitude_deg": "-1.493889",
+    "elevation_ft": "147",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NOR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF5021",
+    "home_link": "http://www.ulm-mont-saint-michel.com/Site_de_Dragey.html",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306343",
+        "code": "FR-NOR",
+        "local_code": "NOR",
+        "name": "Normandy",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Normandy",
+        "keywords": "Haute-Normandie"
+    }
+}

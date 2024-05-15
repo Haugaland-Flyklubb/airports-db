@@ -1,0 +1,38 @@
+{
+    "id": "528989",
+    "ident": "FR-0902",
+    "type": "small_airport",
+    "name": "Vers Airfield",
+    "latitude_deg": "44.486389",
+    "longitude_deg": "1.533056",
+    "elevation_ft": "981",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF4631",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitania_(administrative_region)",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    }
+}

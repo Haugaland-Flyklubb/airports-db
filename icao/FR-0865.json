@@ -1,0 +1,38 @@
+{
+    "id": "528952",
+    "ident": "FR-0865",
+    "type": "small_airport",
+    "name": "Assé le Riboul Airfield",
+    "latitude_deg": "48.195278",
+    "longitude_deg": "0.099444",
+    "elevation_ft": "300",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PDL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF7258",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306336",
+        "code": "FR-PDL",
+        "local_code": "PDL",
+        "name": "Pays-de-la-Loire",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pays-de-la-Loire",
+        "keywords": "Airports in Pays-de-la-Loire"
+    }
+}

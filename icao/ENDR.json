@@ -2,20 +2,20 @@
     "id": "526543",
     "ident": "ENDR",
     "type": "heliport",
-    "name": "Draugen",
+    "name": "Draugen Platform Helipad",
     "latitude_deg": "64.35556",
     "longitude_deg": "7.79167",
-    "elevation_ft": "",
+    "elevation_ft": "377",
     "continent": "EU",
     "iso_country": "NO",
-    "iso_region": "NO-U-A",
-    "municipality": "",
+    "iso_region": "NO-XX",
+    "municipality": "Norwegian Sea",
     "scheduled_service": "no",
     "gps_code": "ENDR",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Draugen_oil_field",
     "keywords": "",
     "country": {
         "id": "302709",
@@ -26,13 +26,13 @@
         "keywords": "Flyplasser i Norge"
     },
     "region": {
-        "id": "304966",
-        "code": "NO-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "349859",
+        "code": "NO-XX",
+        "local_code": "XX",
+        "name": "*Offshore Oil Platforms",
         "continent": "EU",
         "iso_country": "NO",
         "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "keywords": "Airports in *Offshore Oil Platforms"
     }
 }

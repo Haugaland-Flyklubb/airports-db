@@ -1,0 +1,38 @@
+{
+    "id": "528971",
+    "ident": "FR-0884",
+    "type": "small_airport",
+    "name": "Manent Montane Airfield",
+    "latitude_deg": "43.346944",
+    "longitude_deg": "0.610833",
+    "elevation_ft": "1001",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF3227",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitania_(administrative_region)",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    }
+}

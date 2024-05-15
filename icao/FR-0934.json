@@ -1,0 +1,38 @@
+{
+    "id": "529021",
+    "ident": "FR-0934",
+    "type": "small_airport",
+    "name": "Bonavis Airfield",
+    "latitude_deg": "50.084167",
+    "longitude_deg": "3.196111",
+    "elevation_ft": "403",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-HDF",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF5953",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306337",
+        "code": "FR-HDF",
+        "local_code": "HDF",
+        "name": "Hauts-de-France",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
+        "keywords": "Airports in Hauts-de-France"
+    }
+}

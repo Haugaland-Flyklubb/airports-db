@@ -1,0 +1,38 @@
+{
+    "id": "528947",
+    "ident": "FR-0860",
+    "type": "small_airport",
+    "name": "Mont Saint Michel Airfield",
+    "latitude_deg": "48.604444",
+    "longitude_deg": "-1.551667",
+    "elevation_ft": "16",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-NOR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF3553",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306343",
+        "code": "FR-NOR",
+        "local_code": "NOR",
+        "name": "Normandy",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Normandy",
+        "keywords": "Haute-Normandie"
+    }
+}

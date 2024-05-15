@@ -1,0 +1,38 @@
+{
+    "id": "529027",
+    "ident": "FR-0940",
+    "type": "small_airport",
+    "name": "Campbon La Berthelière Airfield",
+    "latitude_deg": "47.420833",
+    "longitude_deg": "-2.011944",
+    "elevation_ft": "146",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-PDL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF4457",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306336",
+        "code": "FR-PDL",
+        "local_code": "PDL",
+        "name": "Pays-de-la-Loire",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pays-de-la-Loire",
+        "keywords": "Airports in Pays-de-la-Loire"
+    }
+}

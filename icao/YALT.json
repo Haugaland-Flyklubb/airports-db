@@ -1,0 +1,62 @@
+{
+    "id": "529148",
+    "ident": "YALT",
+    "type": "small_airport",
+    "name": "Althorpe Island Airstrip",
+    "latitude_deg": "-35.370791",
+    "longitude_deg": "136.86164",
+    "elevation_ft": "278",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Althorpe Island",
+    "scheduled_service": "no",
+    "gps_code": "YALT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "529149",
+            "airport_ref": "529148",
+            "airport_ident": "YALT",
+            "length_ft": "2297",
+            "width_ft": "98",
+            "surface": "Dirt",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": "South Australian airports"
+    }
+}
