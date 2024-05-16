@@ -1,0 +1,38 @@
+{
+    "id": "529333",
+    "ident": "FR-1149",
+    "type": "heliport",
+    "name": "Versailles Centre Hospitalier Heliport",
+    "latitude_deg": "48.830833",
+    "longitude_deg": "2.127778",
+    "elevation_ft": "492",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-IDF",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306342",
+        "code": "FR-IDF",
+        "local_code": "IDF",
+        "name": "Île-de-France",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Île-de-France",
+        "keywords": "Airports in Île-de-France"
+    }
+}

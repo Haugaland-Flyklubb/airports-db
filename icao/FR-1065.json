@@ -1,0 +1,38 @@
+{
+    "id": "529229",
+    "ident": "FR-1065",
+    "type": "small_airport",
+    "name": "ULM HIGHLANDER Airfield",
+    "latitude_deg": "49.121667",
+    "longitude_deg": "6.991667",
+    "elevation_ft": "1033",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF5765",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306353",
+        "code": "FR-GES",
+        "local_code": "GES",
+        "name": "Grand Est",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
+        "keywords": "Airports in Grand Est"
+    }
+}

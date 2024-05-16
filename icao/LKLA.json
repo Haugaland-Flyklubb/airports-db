@@ -1,0 +1,38 @@
+{
+    "id": "529385",
+    "ident": "LKLA",
+    "type": "heliport",
+    "name": "Liberec Heliport",
+    "latitude_deg": "50.733889",
+    "longitude_deg": "15.0375",
+    "elevation_ft": "1405",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-LI",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LKLA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303536",
+        "code": "CZ-LI",
+        "local_code": "LI",
+        "name": "Liberec Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Liberec_Region",
+        "keywords": "Liberecký kraj"
+    }
+}

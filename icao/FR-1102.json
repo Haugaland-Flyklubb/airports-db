@@ -1,0 +1,38 @@
+{
+    "id": "529278",
+    "ident": "FR-1102",
+    "type": "small_airport",
+    "name": "Ville sur Arce Airfield",
+    "latitude_deg": "48.088333",
+    "longitude_deg": "4.435833",
+    "elevation_ft": "910",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF1022",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306353",
+        "code": "FR-GES",
+        "local_code": "GES",
+        "name": "Grand Est",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
+        "keywords": "Airports in Grand Est"
+    }
+}
