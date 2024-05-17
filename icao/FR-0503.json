@@ -2,13 +2,13 @@
     "id": "356278",
     "ident": "FR-0503",
     "type": "small_airport",
-    "name": "MOUY",
+    "name": "Mouy Airfield",
     "latitude_deg": "49.313914",
     "longitude_deg": "2.298397",
     "elevation_ft": "371",
     "continent": "EU",
     "iso_country": "FR",
-    "iso_region": "FR-IDF",
+    "iso_region": "FR-HDF",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aéroports de France"
     },
     "region": {
-        "id": "306342",
-        "code": "FR-IDF",
-        "local_code": "IDF",
-        "name": "Île-de-France",
+        "id": "306337",
+        "code": "FR-HDF",
+        "local_code": "HDF",
+        "name": "Hauts-de-France",
         "continent": "EU",
         "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Île-de-France",
-        "keywords": "Airports in Île-de-France"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
+        "keywords": "Airports in Hauts-de-France"
     }
 }

@@ -3,12 +3,12 @@
     "ident": "LFSS",
     "type": "small_airport",
     "name": "Saint Sulpice des Landes",
-    "latitude_deg": "47.7916667",
+    "latitude_deg": "47.791667",
     "longitude_deg": "-1.643611",
-    "elevation_ft": "",
+    "elevation_ft": "312",
     "continent": "EU",
     "iso_country": "FR",
-    "iso_region": "FR-PDL",
+    "iso_region": "FR-BRE",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "LFSS",
@@ -26,13 +26,13 @@
         "keywords": "Aéroports de France"
     },
     "region": {
-        "id": "306336",
-        "code": "FR-PDL",
-        "local_code": "PDL",
-        "name": "Pays-de-la-Loire",
+        "id": "306348",
+        "code": "FR-BRE",
+        "local_code": "BRE",
+        "name": "Brittany",
         "continent": "EU",
         "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pays-de-la-Loire",
-        "keywords": "Airports in Pays-de-la-Loire"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
+        "keywords": "Bretagne"
     }
 }

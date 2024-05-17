@@ -1,0 +1,38 @@
+{
+    "id": "529503",
+    "ident": "ZA-0326",
+    "type": "small_airport",
+    "name": "Farm Grootfontein Airfield",
+    "latitude_deg": "-29.192692",
+    "longitude_deg": "24.739475",
+    "elevation_ft": "3800",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-FS",
+    "municipality": "Jacobsdal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": "South African airports"
+    },
+    "region": {
+        "id": "306296",
+        "code": "ZA-FS",
+        "local_code": "FS",
+        "name": "Free State",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Free_State_(province)",
+        "keywords": "Airports in Free State"
+    }
+}
