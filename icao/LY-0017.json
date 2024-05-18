@@ -2,13 +2,13 @@
     "id": "527228",
     "ident": "LY-0017",
     "type": "small_airport",
-    "name": "Atshan field",
+    "name": "Atshan Field",
     "latitude_deg": "27.753056",
     "longitude_deg": "11.043611",
     "elevation_ft": "1648",
     "continent": "AF",
     "iso_country": "LY",
-    "iso_region": "LY-U-A",
+    "iso_region": "LY-SH",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "مطارات في ليبيا"
     },
     "region": {
-        "id": "304560",
-        "code": "LY-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304557",
+        "code": "LY-SH",
+        "local_code": "SH",
+        "name": "Wadi Al Shatii District",
         "continent": "AF",
         "iso_country": "LY",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wadi_Al_Shatii_District",
+        "keywords": "Ash Shāţi'"
     }
 }

@@ -3,12 +3,12 @@
     "ident": "LY-0018",
     "type": "small_airport",
     "name": "Athadi Airport",
-    "latitude_deg": "29.6175",
-    "longitude_deg": "19.650556",
+    "latitude_deg": "29.62058",
+    "longitude_deg": "19.64761",
     "elevation_ft": "56",
     "continent": "AF",
     "iso_country": "LY",
-    "iso_region": "LY-U-A",
+    "iso_region": "LY-WA",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "مطارات في ليبيا"
     },
     "region": {
-        "id": "304560",
-        "code": "LY-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304561",
+        "code": "LY-WA",
+        "local_code": "WA",
+        "name": "Al Wahat District",
         "continent": "AF",
         "iso_country": "LY",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Wahat_District",
+        "keywords": "Al Wāḩah"
     }
 }
