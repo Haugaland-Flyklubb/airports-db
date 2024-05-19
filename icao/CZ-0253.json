@@ -1,15 +1,15 @@
 {
-    "id": "321089",
-    "ident": "CZ-0135",
+    "id": "529689",
+    "ident": "CZ-0253",
     "type": "small_airport",
-    "name": "Litomyšl ULM",
-    "latitude_deg": "49.874138",
-    "longitude_deg": "16.336405",
-    "elevation_ft": "1258",
+    "name": "Kozmice Airstrip",
+    "latitude_deg": "49.91333",
+    "longitude_deg": "18.1643",
+    "elevation_ft": "",
     "continent": "EU",
     "iso_country": "CZ",
-    "iso_region": "CZ-PA",
-    "municipality": "Litomyšl",
+    "iso_region": "CZ-MO",
+    "municipality": "Kozmice",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Letiště České republiky, Czechia"
     },
     "region": {
-        "id": "303539",
-        "code": "CZ-PA",
-        "local_code": "PA",
-        "name": "Pardubice Region",
+        "id": "303537",
+        "code": "CZ-MO",
+        "local_code": "MO",
+        "name": "Moravian-Silesian Region",
         "continent": "EU",
         "iso_country": "CZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pardubice_Region",
-        "keywords": "Pardubický kraj"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Moravian-Silesian_Region",
+        "keywords": "Moravskoslezský kraj"
     }
 }
