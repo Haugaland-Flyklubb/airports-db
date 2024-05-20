@@ -1,0 +1,62 @@
+{
+    "id": "529859",
+    "ident": "K93M",
+    "type": "small_airport",
+    "name": "Rueter Airfield",
+    "latitude_deg": "39.849076",
+    "longitude_deg": "-91.594932",
+    "elevation_ft": "657",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Palmyra",
+    "scheduled_service": "no",
+    "gps_code": "K93M",
+    "iata_code": "",
+    "local_code": "93M",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "529860",
+            "airport_ref": "529859",
+            "airport_ident": "K93M",
+            "length_ft": "2551",
+            "width_ft": "45",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": "Airports in Missouri"
+    }
+}

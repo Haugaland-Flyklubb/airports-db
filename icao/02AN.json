@@ -1,0 +1,62 @@
+{
+    "id": "529870",
+    "ident": "02AN",
+    "type": "small_airport",
+    "name": "Emerald Ridge Airport",
+    "latitude_deg": "59.704223",
+    "longitude_deg": "-151.295869",
+    "elevation_ft": "222",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Homer",
+    "scheduled_service": "no",
+    "gps_code": "02AN",
+    "iata_code": "",
+    "local_code": "02AN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "529871",
+            "airport_ref": "529870",
+            "airport_ident": "02AN",
+            "length_ft": "1800",
+            "width_ft": "100",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "2",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": "Airports in Alaska"
+    }
+}

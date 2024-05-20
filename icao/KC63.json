@@ -1,0 +1,62 @@
+{
+    "id": "529864",
+    "ident": "KC63",
+    "type": "seaplane_base",
+    "name": "Rayray Seaplane Base",
+    "latitude_deg": "43.251958",
+    "longitude_deg": "-85.059396",
+    "elevation_ft": "839",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Stanton",
+    "scheduled_service": "no",
+    "gps_code": "KC63",
+    "iata_code": "",
+    "local_code": "C63",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Half Moon Lake",
+    "runways": [
+        {
+            "id": "529865",
+            "airport_ref": "529864",
+            "airport_ident": "KC63",
+            "length_ft": "2900",
+            "width_ft": "100",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "839",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "839",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": "Airports in Michigan"
+    }
+}
