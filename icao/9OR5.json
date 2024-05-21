@@ -3,8 +3,8 @@
     "ident": "9OR5",
     "type": "heliport",
     "name": "Portland Adventist Medical Center Heliport",
-    "latitude_deg": "45.51399994",
-    "longitude_deg": "-122.5579987",
+    "latitude_deg": "45.513215",
+    "longitude_deg": "-122.558599",
     "elevation_ft": "322",
     "continent": "NA",
     "iso_country": "US",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "9OR5",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Adventist_Health_Portland",
     "keywords": "",
     "runways": [
         {
@@ -38,6 +38,28 @@
             "he_longitude_deg": "",
             "he_elevation_ft": "",
             "he_heading_degT": "11",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "529988",
+            "airport_ref": "15920",
+            "airport_ident": "9OR5",
+            "length_ft": "45",
+            "width_ft": "45",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H2",
+            "le_latitude_deg": "45.5128",
+            "le_longitude_deg": "-122.5547",
+            "le_elevation_ft": "263",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         }
     ],
