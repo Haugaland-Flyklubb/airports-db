@@ -1,0 +1,38 @@
+{
+    "id": "530121",
+    "ident": "RE-0008",
+    "type": "small_airport",
+    "name": "Cambaie Airfield",
+    "latitude_deg": "-20.963333",
+    "longitude_deg": "55.281667",
+    "elevation_ft": "45",
+    "continent": "AF",
+    "iso_country": "RE",
+    "iso_region": "RE-SP",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF9742",
+    "home_link": "",
+    "wikipedia_link": "https://fr.wikipedia.org/wiki/Base_ULM_de_Cambaie",
+    "keywords": "",
+    "country": {
+        "id": "302594",
+        "code": "RE",
+        "name": "Réunion",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Réunion",
+        "keywords": "Île Bourbon, La Réunion"
+    },
+    "region": {
+        "id": "505681",
+        "code": "RE-SP",
+        "local_code": "SP",
+        "name": "Saint-Paul Arrondissement",
+        "continent": "AF",
+        "iso_country": "RE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arrondissement_of_Saint-Paul",
+        "keywords": "Airports of Saint-Paul Arrondissement"
+    }
+}
