@@ -1,0 +1,38 @@
+{
+    "id": "530233",
+    "ident": "RE-0009",
+    "type": "small_airport",
+    "name": "Grand Coude Altisurface",
+    "latitude_deg": "-21.288889",
+    "longitude_deg": "55.623611",
+    "elevation_ft": "3250",
+    "continent": "AF",
+    "iso_country": "RE",
+    "iso_region": "RE-U-A",
+    "municipality": "Grand Coude",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF9743",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302594",
+        "code": "RE",
+        "name": "Réunion",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Réunion",
+        "keywords": "Île Bourbon, La Réunion"
+    },
+    "region": {
+        "id": "305217",
+        "code": "RE-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "RE",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
