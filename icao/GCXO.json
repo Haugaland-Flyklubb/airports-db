@@ -48,7 +48,15 @@
             "airport_ident": "GCXO",
             "type": "APP",
             "description": "APP",
-            "frequency_mhz": "119.7"
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "530899",
+            "airport_ref": "3084",
+            "airport_ident": "GCXO",
+            "type": "APP",
+            "description": "App secondary",
+            "frequency_mhz": "128.85"
         },
         {
             "id": "57235",
@@ -57,6 +65,14 @@
             "type": "ATIS",
             "description": "ATIS",
             "frequency_mhz": "118.575"
+        },
+        {
+            "id": "530897",
+            "airport_ref": "3084",
+            "airport_ident": "GCXO",
+            "type": "Emer",
+            "description": "Emergency airport",
+            "frequency_mhz": "243"
         },
         {
             "id": "57236",
@@ -73,6 +89,14 @@
             "type": "TWR",
             "description": "TWR",
             "frequency_mhz": "118.7"
+        },
+        {
+            "id": "530898",
+            "airport_ref": "3084",
+            "airport_ident": "GCXO",
+            "type": "TWR",
+            "description": "Local Mil",
+            "frequency_mhz": "257.8"
         }
     ],
     "country": {
