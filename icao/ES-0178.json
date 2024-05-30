@@ -17,6 +17,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "531170",
+            "airport_ref": "321478",
+            "airport_ident": "ES-0178",
+            "length_ft": "1300",
+            "width_ft": "45",
+            "surface": "concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "531171",
+            "airport_ref": "321478",
+            "airport_ident": "ES-0178",
+            "type": "VHF",
+            "description": "",
+            "frequency_mhz": "130.125"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",
