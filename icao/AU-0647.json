@@ -1,0 +1,38 @@
+{
+    "id": "531528",
+    "ident": "AU-0647",
+    "type": "heliport",
+    "name": "Woodgate Helicopter Landing Site",
+    "latitude_deg": "-25.116596",
+    "longitude_deg": "152.570256",
+    "elevation_ft": "25",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Woodgate Beach",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "OZHFU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": "Airports in Queensland"
+    }
+}
