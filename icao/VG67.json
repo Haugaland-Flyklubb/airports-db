@@ -1,0 +1,62 @@
+{
+    "id": "531720",
+    "ident": "VG67",
+    "type": "small_airport",
+    "name": "Stuart Red House Field",
+    "latitude_deg": "37.204247",
+    "longitude_deg": "-78.834036",
+    "elevation_ft": "713",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Appomattox",
+    "scheduled_service": "no",
+    "gps_code": "VG67",
+    "iata_code": "",
+    "local_code": "VG67",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "531722",
+            "airport_ref": "531720",
+            "airport_ident": "VG67",
+            "length_ft": "2100",
+            "width_ft": "75",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "8",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": "Virginian airports"
+    }
+}

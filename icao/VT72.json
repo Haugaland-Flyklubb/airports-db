@@ -1,0 +1,62 @@
+{
+    "id": "531723",
+    "ident": "VT72",
+    "type": "small_airport",
+    "name": "Villeneuve Field",
+    "latitude_deg": "44.515682",
+    "longitude_deg": "-72.95452",
+    "elevation_ft": "668",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VT",
+    "municipality": "Jericho",
+    "scheduled_service": "no",
+    "gps_code": "VT72",
+    "iata_code": "",
+    "local_code": "VT72",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "531724",
+            "airport_ref": "531723",
+            "airport_ident": "VT72",
+            "length_ft": "2105",
+            "width_ft": "50",
+            "surface": "GVL",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "7",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306123",
+        "code": "US-VT",
+        "local_code": "VT",
+        "name": "Vermont",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vermont",
+        "keywords": "Airports in Vermont"
+    }
+}
