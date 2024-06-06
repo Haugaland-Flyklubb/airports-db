@@ -68,17 +68,17 @@
             "id": "57405",
             "airport_ref": "2710",
             "airport_ident": "ESSV",
-            "type": "ARR",
-            "description": "CON",
-            "frequency_mhz": "126.15"
+            "type": "APP",
+            "description": "Visby APP",
+            "frequency_mhz": "126.155"
         },
         {
             "id": "57406",
             "airport_ref": "2710",
             "airport_ident": "ESSV",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.3"
+            "description": "Visby TWR",
+            "frequency_mhz": "120.305"
         }
     ],
     "country": {

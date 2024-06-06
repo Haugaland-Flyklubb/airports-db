@@ -1,0 +1,38 @@
+{
+    "id": "532069",
+    "ident": "BR-1898",
+    "type": "small_airport",
+    "name": "Pastoreio Airport",
+    "latitude_deg": "-33.185828",
+    "longitude_deg": "-52.999231",
+    "elevation_ft": "98",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Santa Vitória do Palmar",
+    "scheduled_service": "no",
+    "gps_code": "SIQ9",
+    "iata_code": "",
+    "local_code": "RS0207",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303221",
+        "code": "BR-RS",
+        "local_code": "RS",
+        "name": "Rio Grande do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
+        "keywords": "Airports in Rio Grande do Sul"
+    }
+}
