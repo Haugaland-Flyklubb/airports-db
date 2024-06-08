@@ -69,24 +69,24 @@
             "airport_ref": "2196",
             "airport_ident": "EDBH",
             "type": "AFIS",
-            "description": "BERLIN INFO",
+            "description": "Langen INFO",
             "frequency_mhz": "132.65"
         },
         {
             "id": "53141",
             "airport_ref": "2196",
             "airport_ident": "EDBH",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "118.075"
+            "type": "RDO",
+            "description": "Barth RDO",
+            "frequency_mhz": "118.08"
         },
         {
             "id": "53142",
             "airport_ref": "2196",
             "airport_ident": "EDBH",
             "type": "RDR",
-            "description": "BERLIN RADAR",
-            "frequency_mhz": "126.425"
+            "description": "Bremen RADAR",
+            "frequency_mhz": "124.175"
         }
     ],
     "country": {

@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Gdynia-Kosakowo_Airport",
-    "keywords": "Oksywie Airport, Gdynia-Oksywie, Gdynia-Babie Doły, Gdynia-Kosakowo Airport",
+    "keywords": "QYD, Oksywie Airport, Gdynia-Oksywie, Gdynia-Babie Doły, Gdynia-Kosakowo Airport",
     "runways": [
         {
             "id": "238263",
@@ -68,9 +68,17 @@
             "id": "56206",
             "airport_ref": "2623",
             "airport_ident": "EPOK",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "128.5"
+            "type": "APP",
+            "description": "Oksywie APP",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "532318",
+            "airport_ref": "2623",
+            "airport_ident": "EPOK",
+            "type": "TWR",
+            "description": "Oksywie TWR",
+            "frequency_mhz": "119.85"
         }
     ],
     "country": {
