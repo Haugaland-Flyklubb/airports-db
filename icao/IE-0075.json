@@ -1,0 +1,38 @@
+{
+    "id": "533267",
+    "ident": "IE-0075",
+    "type": "heliport",
+    "name": "Crumlin Children's Hospital Heliport",
+    "latitude_deg": "53.325197",
+    "longitude_deg": "-6.319065",
+    "elevation_ft": "150",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-D",
+    "municipality": "Dublin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CHIC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302694",
+        "code": "IE",
+        "name": "Ireland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
+        "keywords": "Eire"
+    },
+    "region": {
+        "id": "304133",
+        "code": "IE-D",
+        "local_code": "D",
+        "name": "County Dublin",
+        "continent": "EU",
+        "iso_country": "IE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dublin",
+        "keywords": "Airports in County Dublin"
+    }
+}
