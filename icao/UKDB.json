@@ -1,7 +1,7 @@
 {
     "id": "31019",
     "ident": "UKDB",
-    "type": "heliport",
+    "type": "medium_airport",
     "name": "Berdyansk Airport",
     "latitude_deg": "46.814999",
     "longitude_deg": "36.758099",
@@ -11,12 +11,12 @@
     "iso_region": "UA-23",
     "municipality": "Berdyansk",
     "scheduled_service": "no",
-    "gps_code": "",
-    "iata_code": "",
+    "gps_code": "UKDB",
+    "iata_code": "ERD",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Berdyansk_Airport",
-    "keywords": "UKDB, ERD",
+    "keywords": "",
     "runways": [
         {
             "id": "342671",
