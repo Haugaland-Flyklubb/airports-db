@@ -1,0 +1,38 @@
+{
+    "id": "533664",
+    "ident": "GB-1119",
+    "type": "closed",
+    "name": "RAF Matching",
+    "latitude_deg": "51.78219",
+    "longitude_deg": "0.24013",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Harlow, Essex",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": "English airports"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": "533742",
+    "ident": "US-8515",
+    "type": "small_airport",
+    "name": "Green Berry Airport",
+    "latitude_deg": "36.555645",
+    "longitude_deg": "-93.743955",
+    "elevation_ft": "1067",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Eagle Rock",
+    "scheduled_service": "no",
+    "gps_code": "95MO",
+    "iata_code": "",
+    "local_code": "95MO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "533745",
+            "airport_ref": "533742",
+            "airport_ident": "US-8515",
+            "length_ft": "1400",
+            "width_ft": "70",
+            "surface": "Turf/Dirt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": "Airports in Missouri"
+    }
+}

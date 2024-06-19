@@ -1,0 +1,38 @@
+{
+    "id": "533628",
+    "ident": "PL-0240",
+    "type": "small_airport",
+    "name": "Wysoka Airfield",
+    "latitude_deg": "52.76275",
+    "longitude_deg": "15.00426",
+    "elevation_ft": "243",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-WP",
+    "municipality": "Wysoka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Lądowisko Wysoka",
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305159",
+        "code": "PL-WP",
+        "local_code": "WP",
+        "name": "Greater Poland Voivodeship",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greater_Poland_Voivodeship",
+        "keywords": "Wielkopolskie"
+    }
+}

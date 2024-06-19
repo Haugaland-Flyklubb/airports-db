@@ -1,0 +1,38 @@
+{
+    "id": "533622",
+    "ident": "PL-0239",
+    "type": "small_airport",
+    "name": "Poręba Airfield",
+    "latitude_deg": "50.4878",
+    "longitude_deg": "19.37662",
+    "elevation_ft": "1083",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-SL",
+    "municipality": "Poręba",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Lądowisko Poręba",
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305156",
+        "code": "PL-SL",
+        "local_code": "SL",
+        "name": "Silesian Voivodeship",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Silesian_Voivodship",
+        "keywords": "Śląskie, Silesia"
+    }
+}

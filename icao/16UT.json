@@ -1,0 +1,62 @@
+{
+    "id": "533578",
+    "ident": "16UT",
+    "type": "small_airport",
+    "name": "Henrichsen Field",
+    "latitude_deg": "41.444317",
+    "longitude_deg": "-112.048074",
+    "elevation_ft": "4266",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Perry",
+    "scheduled_service": "no",
+    "gps_code": "16UT",
+    "iata_code": "",
+    "local_code": "16UT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "533579",
+            "airport_ref": "533578",
+            "airport_ident": "16UT",
+            "length_ft": "1000",
+            "width_ft": "50",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "9",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306121",
+        "code": "US-UT",
+        "local_code": "UT",
+        "name": "Utah",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
+        "keywords": "Airports in Utah"
+    }
+}

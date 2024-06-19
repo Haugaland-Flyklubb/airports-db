@@ -1,0 +1,62 @@
+{
+    "id": "533584",
+    "ident": "US-8505",
+    "type": "heliport",
+    "name": "Adin Helicopter Base",
+    "latitude_deg": "41.189407",
+    "longitude_deg": "-120.940974",
+    "elevation_ft": "4238",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Adin",
+    "scheduled_service": "no",
+    "gps_code": "1CA8",
+    "iata_code": "",
+    "local_code": "1CA8",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "533585",
+            "airport_ref": "533584",
+            "airport_ident": "US-8505",
+            "length_ft": "50",
+            "width_ft": "20",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": "Californian airports"
+    }
+}
