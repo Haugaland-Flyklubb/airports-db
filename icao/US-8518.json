@@ -1,0 +1,38 @@
+{
+    "id": "533868",
+    "ident": "US-8518",
+    "type": "small_airport",
+    "name": "Taylor Ranch Airport",
+    "latitude_deg": "43.47266",
+    "longitude_deg": "-118.78133",
+    "elevation_ft": "4122",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Burns",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": "Airports in Oregon"
+    }
+}

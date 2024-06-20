@@ -1,0 +1,38 @@
+{
+    "id": "533881",
+    "ident": "IT-0768",
+    "type": "small_airport",
+    "name": "Balbido Airfield",
+    "latitude_deg": "46.00909",
+    "longitude_deg": "10.82986",
+    "elevation_ft": "2176",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-32",
+    "municipality": "Fiavè (TN)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Campo Volo Balbido",
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306358",
+        "code": "IT-32",
+        "local_code": "32",
+        "name": "Trentino-Alto Adige",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Trentino-Alto_Adige",
+        "keywords": "TT"
+    }
+}

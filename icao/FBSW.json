@@ -17,6 +17,30 @@
     "home_link": "http://www.dca.gov.bw/index.php?sectid=248",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Shakawe_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "533850",
+            "airport_ref": "30411",
+            "airport_ident": "FBSW",
+            "length_ft": "6102",
+            "width_ft": "",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-18.3739",
+            "le_longitude_deg": "21.8326",
+            "le_elevation_ft": "3379",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "-18.3739",
+            "he_longitude_deg": "21.8326",
+            "he_elevation_ft": "3379",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302560",
         "code": "BW",
