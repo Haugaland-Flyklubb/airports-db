@@ -1,0 +1,38 @@
+{
+    "id": "534122",
+    "ident": "ES-0347",
+    "type": "small_airport",
+    "name": "Castejón de Sos field",
+    "latitude_deg": "42.52247",
+    "longitude_deg": "0.48111",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AR",
+    "municipality": "Castejón de Sos",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ES0205",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303730",
+        "code": "ES-AR",
+        "local_code": "AR",
+        "name": "Aragón",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aragon",
+        "keywords": "Airports in Aragón"
+    }
+}
