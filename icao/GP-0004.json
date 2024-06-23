@@ -1,0 +1,62 @@
+{
+    "id": "534380",
+    "ident": "GP-0004",
+    "type": "seaplane_base",
+    "name": "Grand Baie Seaplane Base",
+    "latitude_deg": "16.211667",
+    "longitude_deg": "-61.512778",
+    "elevation_ft": "0",
+    "continent": "NA",
+    "iso_country": "GP",
+    "iso_region": "GP-U-A",
+    "municipality": "Grande-Terre",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://ulm-guadeloupe.com/",
+    "wikipedia_link": "",
+    "keywords": "LF97101",
+    "runways": [
+        {
+            "id": "534382",
+            "airport_ref": "534380",
+            "airport_ident": "GP-0004",
+            "length_ft": "984",
+            "width_ft": "984",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "Omni",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "Dir",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302737",
+        "code": "GP",
+        "name": "Guadeloupe",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guadeloupe",
+        "keywords": "Airports in Guadeloupe"
+    },
+    "region": {
+        "id": "303896",
+        "code": "GP-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "GP",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
