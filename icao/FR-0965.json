@@ -1,22 +1,22 @@
 {
     "id": "529052",
     "ident": "FR-0965",
-    "type": "small_airport",
-    "name": "Neuflieux Airfield",
-    "latitude_deg": "49.611111",
-    "longitude_deg": "3.148611",
-    "elevation_ft": "195",
+    "type": "heliport",
+    "name": "Gonesse Hospital Heliport",
+    "latitude_deg": "48.99208",
+    "longitude_deg": "2.45152",
+    "elevation_ft": "230",
     "continent": "EU",
     "iso_country": "FR",
-    "iso_region": "FR-HDF",
-    "municipality": "",
+    "iso_region": "FR-IDF",
+    "municipality": "Gonesse, Val-d'Oise",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "LF0253",
-    "home_link": "http://ulm.chauny.com/",
+    "local_code": "",
+    "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Centre Hospitalier de Gonesse",
     "country": {
         "id": "302687",
         "code": "FR",
@@ -26,13 +26,13 @@
         "keywords": "Aéroports de France"
     },
     "region": {
-        "id": "306337",
-        "code": "FR-HDF",
-        "local_code": "HDF",
-        "name": "Hauts-de-France",
+        "id": "306342",
+        "code": "FR-IDF",
+        "local_code": "IDF",
+        "name": "Île-de-France",
         "continent": "EU",
         "iso_country": "FR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
-        "keywords": "Airports in Hauts-de-France"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Île-de-France",
+        "keywords": "Airports in Île-de-France"
     }
 }
