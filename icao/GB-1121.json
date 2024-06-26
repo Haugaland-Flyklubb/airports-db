@@ -6,9 +6,9 @@
     "latitude_deg": "52.46671",
     "longitude_deg": "1.30889",
     "elevation_ft": "",
-    "continent": "NA",
-    "iso_country": "US",
-    "iso_region": "US-U-A",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
     "municipality": "Bungay, Suffolk",
     "scheduled_service": "no",
     "gps_code": "",
@@ -18,21 +18,21 @@
     "wikipedia_link": "",
     "keywords": "",
     "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
     },
     "region": {
-        "id": "306120",
-        "code": "US-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": "English airports"
     }
 }

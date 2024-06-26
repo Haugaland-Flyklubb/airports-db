@@ -1,0 +1,38 @@
+{
+    "id": "534741",
+    "ident": "US-8558",
+    "type": "small_airport",
+    "name": "Horse Creek Airport",
+    "latitude_deg": "44.60546",
+    "longitude_deg": "-105.6747",
+    "elevation_ft": "4216",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WY",
+    "municipality": "Gillette",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306127",
+        "code": "US-WY",
+        "local_code": "WY",
+        "name": "Wyoming",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
+        "keywords": "Airports in Wyoming"
+    }
+}
