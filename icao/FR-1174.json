@@ -1,0 +1,38 @@
+{
+    "id": "534882",
+    "ident": "FR-1174",
+    "type": "small_airport",
+    "name": "Bonneville la Louvet Airfield",
+    "latitude_deg": "49.263476",
+    "longitude_deg": "0.371935",
+    "elevation_ft": "361",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LF1422",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "303819",
+        "code": "FR-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

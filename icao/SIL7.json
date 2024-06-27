@@ -1,0 +1,62 @@
+{
+    "id": "534913",
+    "ident": "SIL7",
+    "type": "heliport",
+    "name": "Helipark Pará",
+    "latitude_deg": "-5.38283",
+    "longitude_deg": "-49.076452",
+    "elevation_ft": "344",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Marabá",
+    "scheduled_service": "no",
+    "gps_code": "SIL7",
+    "iata_code": "",
+    "local_code": "PA0384",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "534914",
+            "airport_ref": "534913",
+            "airport_ident": "SIL7",
+            "length_ft": "59",
+            "width_ft": "59",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "20",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303212",
+        "code": "BR-PA",
+        "local_code": "PA",
+        "name": "Pará",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
+        "keywords": "Airports in Pará"
+    }
+}
