@@ -14,7 +14,7 @@
     "gps_code": "SCQL",
     "iata_code": "",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://clubaereoquillota.cl/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/El_Boco_Airport",
     "keywords": "",
     "runways": [
@@ -22,8 +22,8 @@
             "id": "264835",
             "airport_ref": "39259",
             "airport_ident": "SCQL",
-            "length_ft": "1969",
-            "width_ft": "66",
+            "length_ft": "1640",
+            "width_ft": "32",
             "surface": "GRASS",
             "lighted": "0",
             "closed": "0",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "535154",
+            "airport_ref": "39259",
+            "airport_ident": "SCQL",
+            "type": "TIBA",
+            "description": "TIBA",
+            "frequency_mhz": "118.2"
         }
     ],
     "country": {

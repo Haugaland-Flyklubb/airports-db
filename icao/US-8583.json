@@ -1,0 +1,38 @@
+{
+    "id": "535123",
+    "ident": "US-8583",
+    "type": "closed",
+    "name": "Brown Airport",
+    "latitude_deg": "43.375499",
+    "longitude_deg": "-99.87535",
+    "elevation_ft": "1971",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SD",
+    "municipality": "Winner",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306117",
+        "code": "US-SD",
+        "local_code": "SD",
+        "name": "South Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
+        "keywords": "Airports in South Dakota"
+    }
+}
