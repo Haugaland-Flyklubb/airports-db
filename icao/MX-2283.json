@@ -1,0 +1,38 @@
+{
+    "id": "535440",
+    "ident": "MX-2283",
+    "type": "small_airport",
+    "name": "Mazatlan Aerospace Park Airport",
+    "latitude_deg": "23.355",
+    "longitude_deg": "-106.464167",
+    "elevation_ft": "82",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-SIN",
+    "municipality": "Mazatlan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "MAP",
+    "home_link": "https://aerospacepark.mx/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304813",
+        "code": "MX-SIN",
+        "local_code": "SIN",
+        "name": "Sinaloa",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sinaloa",
+        "keywords": "Airports in Sinaloa"
+    }
+}

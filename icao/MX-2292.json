@@ -1,0 +1,38 @@
+{
+    "id": "535481",
+    "ident": "MX-2292",
+    "type": "small_airport",
+    "name": "El Cubilete Airport",
+    "latitude_deg": "17.816047",
+    "longitude_deg": "-95.020533",
+    "elevation_ft": "446",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-VER",
+    "municipality": "Sayula de Aleman",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CBE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304820",
+        "code": "MX-VER",
+        "local_code": "VER",
+        "name": "Veracruz",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Veracruz",
+        "keywords": "Airports in Veracruz"
+    }
+}

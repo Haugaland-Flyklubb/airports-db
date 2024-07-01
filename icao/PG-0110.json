@@ -3,12 +3,12 @@
     "ident": "PG-0110",
     "type": "small_airport",
     "name": "Yifki Airstrip",
-    "latitude_deg": "-5.126709",
-    "longitude_deg": "142.828222",
+    "latitude_deg": "-5.125941",
+    "longitude_deg": "142.825963",
     "elevation_ft": "3250",
     "continent": "OC",
     "iso_country": "PG",
-    "iso_region": "PG-U-A",
+    "iso_region": "PG-EPW",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Papua New Guinea"
     },
     "region": {
-        "id": "305051",
-        "code": "PG-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305038",
+        "code": "PG-EPW",
+        "local_code": "EPW",
+        "name": "Enga Province",
         "continent": "OC",
         "iso_country": "PG",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Enga_Province",
+        "keywords": "Airports in Enga Province"
     }
 }
