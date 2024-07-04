@@ -1,0 +1,38 @@
+{
+    "id": "535799",
+    "ident": "US-8614",
+    "type": "small_airport",
+    "name": "Lightner Ranch Airport",
+    "latitude_deg": "42.66876",
+    "longitude_deg": "-98.22308",
+    "elevation_ft": "1607",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NE",
+    "municipality": "Western",
+    "scheduled_service": "no",
+    "gps_code": "95NE",
+    "iata_code": "",
+    "local_code": "95NE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Verdigre",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306105",
+        "code": "US-NE",
+        "local_code": "NE",
+        "name": "Nebraska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
+        "keywords": "Airports in Nebraska"
+    }
+}

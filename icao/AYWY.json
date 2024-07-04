@@ -1,0 +1,62 @@
+{
+    "id": "535816",
+    "ident": "AYWY",
+    "type": "small_airport",
+    "name": "Waro Airstrip",
+    "latitude_deg": "-6.536847",
+    "longitude_deg": "143.197869",
+    "elevation_ft": "1458",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-SHM",
+    "municipality": "Iorogobayu",
+    "scheduled_service": "no",
+    "gps_code": "AYWY",
+    "iata_code": "",
+    "local_code": "WARO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "535817",
+            "airport_ref": "535816",
+            "airport_ident": "AYWY",
+            "length_ft": "2198",
+            "width_ft": "",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10A",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28D",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302778",
+        "code": "PG",
+        "name": "Papua New Guinea",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+        "keywords": "Airports in Papua New Guinea"
+    },
+    "region": {
+        "id": "305050",
+        "code": "PG-SHM",
+        "local_code": "SHM",
+        "name": "Southern Highlands Province",
+        "continent": "OC",
+        "iso_country": "PG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Highlands_Province",
+        "keywords": "Airports in Southern Highlands Province"
+    }
+}
