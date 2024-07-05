@@ -5,7 +5,7 @@
     "name": "Pruszcz Gdanski Air Base",
     "latitude_deg": "54.248001",
     "longitude_deg": "18.6716",
-    "elevation_ft": "21",
+    "elevation_ft": "17",
     "continent": "EU",
     "iso_country": "PL",
     "iso_region": "PL-PM",
@@ -46,9 +46,9 @@
             "id": "56201",
             "airport_ref": "2626",
             "airport_ident": "EPPR",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "128.5"
+            "type": "TWR",
+            "description": "PRUSZCZ TWR",
+            "frequency_mhz": "126.5"
         }
     ],
     "country": {
