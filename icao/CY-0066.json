@@ -1,0 +1,62 @@
+{
+    "id": "536154",
+    "ident": "CY-0066",
+    "type": "small_airport",
+    "name": "Mammari Aerial Firefighting Base",
+    "latitude_deg": "35.16884",
+    "longitude_deg": "33.219964",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CY",
+    "iso_region": "CY-02",
+    "municipality": "Mammari",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "536155",
+            "airport_ref": "536154",
+            "airport_ident": "CY-0066",
+            "length_ft": "3940",
+            "width_ft": "",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302629",
+        "code": "CY",
+        "name": "Cyprus",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cyprus",
+        "keywords": "Cypriot airports"
+    },
+    "region": {
+        "id": "303526",
+        "code": "CY-02",
+        "local_code": "02",
+        "name": "Nicosia District",
+        "continent": "AS",
+        "iso_country": "CY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nicosia_District",
+        "keywords": "Airports in Nicosia District"
+    }
+}
