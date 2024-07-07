@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kotlas_Airport",
     "keywords": "Аэропорт Котлас",
+    "runways": [
+        {
+            "id": "536336",
+            "airport_ref": "31780",
+            "airport_ident": "ULKK",
+            "length_ft": "4757",
+            "width_ft": "",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

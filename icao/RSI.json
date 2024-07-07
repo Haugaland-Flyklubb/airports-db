@@ -17,6 +17,30 @@
     "home_link": "https://www.redseaglobal.com/our-destinations/the-red-sea/red-sea-international-airport",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Red_Sea_International_Airport",
     "keywords": "RSI",
+    "runways": [
+        {
+            "id": "536354",
+            "airport_ref": "350214",
+            "airport_ident": "RSI",
+            "length_ft": "12139",
+            "width_ft": "",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302660",
         "code": "SA",
