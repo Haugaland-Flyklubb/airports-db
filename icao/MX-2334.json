@@ -1,0 +1,38 @@
+{
+    "id": "536433",
+    "ident": "MX-2334",
+    "type": "small_airport",
+    "name": "Loma La Cuca Airport",
+    "latitude_deg": "28.35013",
+    "longitude_deg": "-109.576",
+    "elevation_ft": "620",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-SON",
+    "municipality": "Rosario de Tesopaco",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304815",
+        "code": "MX-SON",
+        "local_code": "SON",
+        "name": "Sonora",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sonora",
+        "keywords": "Airports in Sonora"
+    }
+}

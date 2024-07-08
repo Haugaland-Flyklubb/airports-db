@@ -65,44 +65,92 @@
     ],
     "freqs": [
         {
-            "id": "56702",
+            "id": "536473",
             "airport_ref": "6489",
             "airport_ident": "ULLI",
-            "type": "APP",
-            "description": "PETERBURG APP",
-            "frequency_mhz": "129.8"
+            "type": "Apron",
+            "description": "Pulkovo Apron",
+            "frequency_mhz": "120.9"
         },
         {
-            "id": "56703",
+            "id": "536472",
             "airport_ref": "6489",
             "airport_ident": "ULLI",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "ATIS (ENG)",
             "frequency_mhz": "127.3"
         },
         {
-            "id": "56704",
+            "id": "536471",
+            "airport_ref": "6489",
+            "airport_ident": "ULLI",
+            "type": "ATIS",
+            "description": "ATIS (RUS)",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "536470",
+            "airport_ref": "6489",
+            "airport_ident": "ULLI",
+            "type": "DEL",
+            "description": "Pulkovo Delivery",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "536469",
             "airport_ref": "6489",
             "airport_ident": "ULLI",
             "type": "GND",
-            "description": "TAXIING",
+            "description": "Pulkovo Ground",
             "frequency_mhz": "121.7"
         },
         {
-            "id": "56705",
+            "id": "536465",
             "airport_ref": "6489",
             "airport_ident": "ULLI",
             "type": "RDR",
-            "description": "KRUG",
+            "description": "Pulkovo Radar",
             "frequency_mhz": "120.3"
         },
         {
-            "id": "56706",
+            "id": "536474",
+            "airport_ref": "6489",
+            "airport_ident": "ULLI",
+            "type": "RMP",
+            "description": "Pulkovo Ramp",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "536475",
+            "airport_ref": "6489",
+            "airport_ident": "ULLI",
+            "type": "Transit",
+            "description": "Pulkovo Transit",
+            "frequency_mhz": "131.8"
+        },
+        {
+            "id": "536467",
             "airport_ref": "6489",
             "airport_ident": "ULLI",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Pulkovo Tower",
             "frequency_mhz": "118.1"
+        },
+        {
+            "id": "536466",
+            "airport_ref": "6489",
+            "airport_ident": "ULLI",
+            "type": "TWR",
+            "description": "Pulkovo Tower",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "536468",
+            "airport_ref": "6489",
+            "airport_ident": "ULLI",
+            "type": "TWR",
+            "description": "Pulkovo Tower (for VFR)",
+            "frequency_mhz": "133.5"
         }
     ],
     "country": {

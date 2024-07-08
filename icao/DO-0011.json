@@ -1,0 +1,62 @@
+{
+    "id": "536494",
+    "ident": "DO-0011",
+    "type": "closed",
+    "name": "Punta Aguila international Airport",
+    "latitude_deg": "18.41",
+    "longitude_deg": "-68.939",
+    "elevation_ft": "16",
+    "continent": "NA",
+    "iso_country": "DO",
+    "iso_region": "DO-12",
+    "municipality": "La Romana",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.casadecampo.com.do/blog/2020/05/06/old-airport-runway-on-teeth-of-the-dog/",
+    "wikipedia_link": "",
+    "keywords": "LRM",
+    "runways": [
+        {
+            "id": "536497",
+            "airport_ref": "536494",
+            "airport_ident": "DO-0011",
+            "length_ft": "6570",
+            "width_ft": "100",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302734",
+        "code": "DO",
+        "name": "Dominican Republic",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dominican_Republic",
+        "keywords": "Airports in Dominican Republic"
+    },
+    "region": {
+        "id": "303583",
+        "code": "DO-12",
+        "local_code": "12",
+        "name": "La Romana Province",
+        "continent": "NA",
+        "iso_country": "DO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Romana_Province",
+        "keywords": "Airports in La Romana Province"
+    }
+}
