@@ -2,14 +2,14 @@
     "id": "509496",
     "ident": "JO-0015",
     "type": "small_airport",
-    "name": "Al-Omari",
+    "name": "Al-Omari Airfield",
     "latitude_deg": "31.568827",
     "longitude_deg": "36.778292",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "JO",
-    "iso_region": "JO-U-A",
-    "municipality": "",
+    "iso_region": "JO-AM",
+    "municipality": "Jizah",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "مطارات في الأردن"
     },
     "region": {
-        "id": "304285",
-        "code": "JO-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304274",
+        "code": "JO-AM",
+        "local_code": "AM",
+        "name": "Amman Governorate",
         "continent": "AS",
         "iso_country": "JO",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amman_Governorate",
+        "keywords": "Airports in Amman Governorate"
     }
 }
