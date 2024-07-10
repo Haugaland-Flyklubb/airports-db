@@ -1,0 +1,38 @@
+{
+    "id": "536735",
+    "ident": "LOGZ",
+    "type": "heliport",
+    "name": "Graz Children's Hospital Helipad",
+    "latitude_deg": "47.084404",
+    "longitude_deg": "15.468957",
+    "elevation_ft": "1431",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-6",
+    "municipality": "Graz",
+    "scheduled_service": "no",
+    "gps_code": "LOGZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302962",
+        "code": "AT-6",
+        "local_code": "6",
+        "name": "Styria",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Styria",
+        "keywords": "Steiermark"
+    }
+}
