@@ -1,0 +1,38 @@
+{
+    "id": "537120",
+    "ident": "RU-1039",
+    "type": "heliport",
+    "name": "Kanchalan Heliport",
+    "latitude_deg": "65.174988",
+    "longitude_deg": "176.761193",
+    "elevation_ft": "92",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-CHU",
+    "municipality": "Kanchalan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305275",
+        "code": "RU-CHU",
+        "local_code": "CHU",
+        "name": "Chukotka Autonomous Okrug",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chukotka_Autonomous_Okrug",
+        "keywords": "Airports in Chukotka Autonomous Okrug"
+    }
+}

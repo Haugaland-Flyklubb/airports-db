@@ -1,0 +1,38 @@
+{
+    "id": "537113",
+    "ident": "US-8665",
+    "type": "closed",
+    "name": "Nelson Airport",
+    "latitude_deg": "45.94913",
+    "longitude_deg": "-103.09423",
+    "elevation_ft": "2685",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Haley",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306104",
+        "code": "US-ND",
+        "local_code": "ND",
+        "name": "North Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
+        "keywords": "Airports in North Dakota"
+    }
+}
