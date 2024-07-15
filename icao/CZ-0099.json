@@ -2,7 +2,7 @@
     "id": "317698",
     "ident": "CZ-0099",
     "type": "small_airport",
-    "name": "Bystřice nad Pernštejnem Airport",
+    "name": "Bystřice nad Pernštejnem Airfield",
     "latitude_deg": "49.522778",
     "longitude_deg": "16.232222",
     "elevation_ft": "1942",
@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Bystřice nad Pernštejnem",
+    "freqs": [
+        {
+            "id": "537309",
+            "airport_ref": "317698",
+            "airport_ident": "CZ-0099",
+            "type": "Info",
+            "description": "",
+            "frequency_mhz": "125.83"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",
