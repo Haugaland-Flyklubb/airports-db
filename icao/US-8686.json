@@ -1,0 +1,62 @@
+{
+    "id": "537460",
+    "ident": "US-8686",
+    "type": "small_airport",
+    "name": "Long Island Airport",
+    "latitude_deg": "37.104101",
+    "longitude_deg": "-79.091192",
+    "elevation_ft": "636",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Long Island",
+    "scheduled_service": "no",
+    "gps_code": "7VA5",
+    "iata_code": "",
+    "local_code": "7VA5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "537461",
+            "airport_ref": "537460",
+            "airport_ident": "US-8686",
+            "length_ft": "1800",
+            "width_ft": "50",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "3",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "630",
+            "le_heading_degT": "21",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "640",
+            "he_heading_degT": "201",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": "Virginian airports"
+    }
+}

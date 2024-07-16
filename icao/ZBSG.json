@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Shuozhou_Zirun_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "537401",
+            "airport_ref": "526860",
+            "airport_ident": "ZBSG",
+            "length_ft": "8530",
+            "width_ft": "148",
+            "surface": "Concrete",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "65",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "245",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

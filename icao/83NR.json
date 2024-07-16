@@ -1,0 +1,62 @@
+{
+    "id": "537471",
+    "ident": "83NR",
+    "type": "small_airport",
+    "name": "Wootens Airport",
+    "latitude_deg": "35.711192",
+    "longitude_deg": "-80.969599",
+    "elevation_ft": "944",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Statesville",
+    "scheduled_service": "no",
+    "gps_code": "83NR",
+    "iata_code": "",
+    "local_code": "83NR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "537472",
+            "airport_ref": "537471",
+            "airport_ident": "83NR",
+            "length_ft": "2020",
+            "width_ft": "60",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "9",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "888",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "944",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": "Airports in North Carolina"
+    }
+}

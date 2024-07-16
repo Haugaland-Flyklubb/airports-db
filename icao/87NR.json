@@ -1,0 +1,62 @@
+{
+    "id": "537474",
+    "ident": "87NR",
+    "type": "small_airport",
+    "name": "Columbia Airstrip",
+    "latitude_deg": "35.983562",
+    "longitude_deg": "-76.197927",
+    "elevation_ft": "3",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Columbia",
+    "scheduled_service": "no",
+    "gps_code": "87NR",
+    "iata_code": "",
+    "local_code": "87NR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "537475",
+            "airport_ref": "537474",
+            "airport_ident": "87NR",
+            "length_ft": "1200",
+            "width_ft": "130",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "3",
+            "le_heading_degT": "163",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "2",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "343"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": "Airports in North Carolina"
+    }
+}

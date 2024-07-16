@@ -1,0 +1,62 @@
+{
+    "id": "537458",
+    "ident": "US-8685",
+    "type": "heliport",
+    "name": "Coopers Mountain Heliport",
+    "latitude_deg": "36.838895",
+    "longitude_deg": "-79.812177",
+    "elevation_ft": "1090",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Martinsville",
+    "scheduled_service": "no",
+    "gps_code": "77VA",
+    "iata_code": "",
+    "local_code": "77VA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "537459",
+            "airport_ref": "537458",
+            "airport_ident": "US-8685",
+            "length_ft": "35",
+            "width_ft": "35",
+            "surface": "Dirt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": "Virginian airports"
+    }
+}
