@@ -1,0 +1,38 @@
+{
+    "id": "538192",
+    "ident": "EG-0074",
+    "type": "heliport",
+    "name": "Helwan University Heliport",
+    "latitude_deg": "29.86491",
+    "longitude_deg": "31.32082",
+    "elevation_ft": "131",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-C",
+    "municipality": "Helwan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر, Egyptian airports"
+    },
+    "region": {
+        "id": "303697",
+        "code": "EG-C",
+        "local_code": "C",
+        "name": "Cairo Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cairo_Governorate",
+        "keywords": "Airports in Cairo Governorate"
+    }
+}

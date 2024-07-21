@@ -1,0 +1,62 @@
+{
+    "id": "538225",
+    "ident": "SIZ6",
+    "type": "small_airport",
+    "name": "Fazenda Tarumã Airstrip",
+    "latitude_deg": "-10.229688",
+    "longitude_deg": "-47.879113",
+    "elevation_ft": "1194",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-TO",
+    "municipality": "Palmas",
+    "scheduled_service": "no",
+    "gps_code": "SIZ6",
+    "iata_code": "",
+    "local_code": "TO0142",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "538226",
+            "airport_ref": "538225",
+            "airport_ident": "SIZ6",
+            "length_ft": "3281",
+            "width_ft": "59",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303225",
+        "code": "BR-TO",
+        "local_code": "TO",
+        "name": "Tocantins",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tocantins",
+        "keywords": "Airports in Tocatins"
+    }
+}

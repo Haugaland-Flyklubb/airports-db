@@ -2,21 +2,21 @@
     "id": "510029",
     "ident": "EG-0058",
     "type": "small_airport",
-    "name": "Sahra' Muhafadhat al-Jeezah",
-    "latitude_deg": "29.800041",
-    "longitude_deg": "31.082695",
+    "name": "Sahra' Muhafadhat al-Jeezah Airfield",
+    "latitude_deg": "29.800373",
+    "longitude_deg": "31.084539",
     "elevation_ft": "",
     "continent": "AF",
     "iso_country": "EG",
-    "iso_region": "EG-U-A",
-    "municipality": "",
+    "iso_region": "EG-GZ",
+    "municipality": "6th of October",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "West Cairo",
     "country": {
         "id": "302569",
         "code": "EG",
@@ -26,13 +26,13 @@
         "keywords": "مطارات مصر, Egyptian airports"
     },
     "region": {
-        "id": "303716",
-        "code": "EG-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303702",
+        "code": "EG-GZ",
+        "local_code": "GZ",
+        "name": "Giza Governorate",
         "continent": "AF",
         "iso_country": "EG",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Giza_Governorate",
+        "keywords": "Airports in Giza Governorate"
     }
 }
