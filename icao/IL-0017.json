@@ -2,14 +2,14 @@
     "id": "530243",
     "ident": "IL-0017",
     "type": "closed",
-    "name": "Plugot",
+    "name": "Plugot Airfield",
     "latitude_deg": "31.640741",
     "longitude_deg": "34.745581",
-    "elevation_ft": "",
+    "elevation_ft": "344",
     "continent": "AS",
     "iso_country": "IL",
-    "iso_region": "IL-U-A",
-    "municipality": "",
+    "iso_region": "IL-D",
+    "municipality": "Revaha",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "שדות התעופה של ישראל"
     },
     "region": {
-        "id": "304161",
-        "code": "IL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304156",
+        "code": "IL-D",
+        "local_code": "D",
+        "name": "Southern District",
         "continent": "AS",
         "iso_country": "IL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_District_(Israel)",
+        "keywords": "Mehoz HaDarom"
     }
 }

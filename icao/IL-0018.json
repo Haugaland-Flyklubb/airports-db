@@ -1,0 +1,38 @@
+{
+    "id": "538906",
+    "ident": "IL-0018",
+    "type": "heliport",
+    "name": "Jerusalem Airport Helipad",
+    "latitude_deg": "31.86512",
+    "longitude_deg": "35.21785",
+    "elevation_ft": "2461",
+    "continent": "AS",
+    "iso_country": "IL",
+    "iso_region": "IL-JM",
+    "municipality": "Jerusalem",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302633",
+        "code": "IL",
+        "name": "Israel",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Israel",
+        "keywords": "שדות התעופה של ישראל"
+    },
+    "region": {
+        "id": "304158",
+        "code": "IL-JM",
+        "local_code": "JM",
+        "name": "Jerusalem District",
+        "continent": "AS",
+        "iso_country": "IL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jerusalem_District",
+        "keywords": "Mehoz Yerushalayim"
+    }
+}
