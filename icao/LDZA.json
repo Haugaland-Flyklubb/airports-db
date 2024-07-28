@@ -2,14 +2,14 @@
     "id": "3993",
     "ident": "LDZA",
     "type": "large_airport",
-    "name": "Zagreb Airport",
+    "name": "Zagreb Franjo Tuđman International Airport",
     "latitude_deg": "45.742901",
     "longitude_deg": "16.0688",
     "elevation_ft": "353",
     "continent": "EU",
     "iso_country": "HR",
-    "iso_region": "HR-21",
-    "municipality": "Zagreb",
+    "iso_region": "HR-01",
+    "municipality": "Velika Gorica",
     "scheduled_service": "yes",
     "gps_code": "LDZA",
     "iata_code": "ZAG",
@@ -100,14 +100,14 @@
         "keywords": "Croatian airports"
     },
     "region": {
-        "id": "306726",
-        "code": "HR-21",
-        "local_code": "21",
-        "name": "Zagreb (city)",
+        "id": "304025",
+        "code": "HR-01",
+        "local_code": "01",
+        "name": "Zagreb County",
         "continent": "EU",
         "iso_country": "HR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zagreb",
-        "keywords": "Airports in Zagreb (city)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zagreb_County",
+        "keywords": "Airports in Zagreb County"
     },
     "navaids": [
         {

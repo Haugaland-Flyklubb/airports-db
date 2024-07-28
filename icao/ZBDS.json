@@ -24,21 +24,79 @@
             "airport_ident": "ZBDS",
             "length_ft": "10499",
             "width_ft": "148",
-            "surface": "ASP",
+            "surface": "ASPH",
             "lighted": "1",
             "closed": "0",
             "le_ident": "13",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
+            "le_elevation_ft": "4592",
+            "le_heading_degT": "128",
             "le_displaced_threshold_ft": "",
             "he_ident": "31",
             "he_latitude_deg": "",
             "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
+            "he_elevation_ft": "4578",
+            "he_heading_degT": "308",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "539133",
+            "airport_ref": "300513",
+            "airport_ident": "ZBDS",
+            "type": "ATIS",
+            "description": "Automatic Terminal Information Services Frequency",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "539132",
+            "airport_ref": "300513",
+            "airport_ident": "ZBDS",
+            "type": "RWY 13 DME",
+            "description": "IDS DME",
+            "frequency_mhz": "110.1"
+        },
+        {
+            "id": "539130",
+            "airport_ref": "300513",
+            "airport_ident": "ZBDS",
+            "type": "RWY 13 ILS",
+            "description": "IDS ILS",
+            "frequency_mhz": "110.1"
+        },
+        {
+            "id": "539129",
+            "airport_ref": "300513",
+            "airport_ident": "ZBDS",
+            "type": "RWY 31 DME",
+            "description": "IGG DME",
+            "frequency_mhz": "108.7"
+        },
+        {
+            "id": "539128",
+            "airport_ref": "300513",
+            "airport_ident": "ZBDS",
+            "type": "RWY 31 ILS",
+            "description": "IGG ILS",
+            "frequency_mhz": "108.7"
+        },
+        {
+            "id": "539126",
+            "airport_ref": "300513",
+            "airport_ident": "ZBDS",
+            "type": "TWR",
+            "description": "Ordos Tower Frequency",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "539127",
+            "airport_ref": "300513",
+            "airport_ident": "ZBDS",
+            "type": "VOR",
+            "description": "HDS VOR",
+            "frequency_mhz": "116.1"
         }
     ],
     "country": {

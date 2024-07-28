@@ -1,19 +1,19 @@
 {
     "id": "349592",
     "ident": "US-5670",
-    "type": "heliport",
-    "name": "Choctaw Nation Healthcare Center Heliport",
-    "latitude_deg": "34.756713",
-    "longitude_deg": "-95.083609",
-    "elevation_ft": "817",
+    "type": "small_airport",
+    "name": "Fitzgerald Field",
+    "latitude_deg": "29.66912",
+    "longitude_deg": "-94.59132",
+    "elevation_ft": "10",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-OK",
-    "municipality": "Talihina",
+    "iso_region": "US-TX",
+    "municipality": "Double Bayou",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "OK35",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
@@ -50,13 +50,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306112",
-        "code": "US-OK",
-        "local_code": "OK",
-        "name": "Oklahoma",
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
-        "keywords": "Airports in Oklahoma"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": "Texan airports"
     }
 }
