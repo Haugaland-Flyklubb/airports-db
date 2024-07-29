@@ -1,0 +1,38 @@
+{
+    "id": "539321",
+    "ident": "GR-0090",
+    "type": "heliport",
+    "name": "Megalopoli Airfield",
+    "latitude_deg": "37.43286",
+    "longitude_deg": "22.10709",
+    "elevation_ft": "1358",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-G",
+    "municipality": "Megalopoli",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "353667",
+        "code": "GR-G",
+        "local_code": "G",
+        "name": "Western Greece",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Greece",
+        "keywords": "Airports in Western Greece"
+    }
+}

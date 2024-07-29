@@ -1,0 +1,38 @@
+{
+    "id": "539319",
+    "ident": "RO-0076",
+    "type": "small_airport",
+    "name": "Cremenari Airfield",
+    "latitude_deg": "44.97906",
+    "longitude_deg": "24.29719",
+    "elevation_ft": "902",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-VL",
+    "municipality": "Galicea",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302712",
+        "code": "RO",
+        "name": "Romania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
+        "keywords": "Aeroporturi din România"
+    },
+    "region": {
+        "id": "305258",
+        "code": "RO-VL",
+        "local_code": "VL",
+        "name": "Vâlcea County",
+        "continent": "EU",
+        "iso_country": "RO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vâlcea_County",
+        "keywords": "Southern Romania (Wallachia), Wallachian"
+    }
+}

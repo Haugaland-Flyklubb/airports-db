@@ -1,0 +1,38 @@
+{
+    "id": "539324",
+    "ident": "BG-0151",
+    "type": "small_airport",
+    "name": "Mokresh Airfield",
+    "latitude_deg": "43.15716",
+    "longitude_deg": "26.86366",
+    "elevation_ft": "449",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-27",
+    "municipality": "Veliki Preslav",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Milanovo",
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303151",
+        "code": "BG-27",
+        "local_code": "27",
+        "name": "Shumen Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shumen_Province",
+        "keywords": "Airports in Shumen Province"
+    }
+}

@@ -73,10 +73,18 @@
             "frequency_mhz": "124.9"
         },
         {
+            "id": "539348",
+            "airport_ref": "5235",
+            "airport_ident": "OMDB",
+            "type": "ATIS ARR",
+            "description": "",
+            "frequency_mhz": "126.275"
+        },
+        {
             "id": "48218",
             "airport_ref": "5235",
             "airport_ident": "OMDB",
-            "type": "ATIS",
+            "type": "ATIS DEP",
             "description": "ATIS",
             "frequency_mhz": "131.7"
         },

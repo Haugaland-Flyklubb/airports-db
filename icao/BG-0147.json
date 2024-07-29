@@ -1,0 +1,38 @@
+{
+    "id": "539256",
+    "ident": "BG-0147",
+    "type": "small_airport",
+    "name": "Alfatar Airfield",
+    "latitude_deg": "43.91055",
+    "longitude_deg": "27.29674",
+    "elevation_ft": "643",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-19",
+    "municipality": "Alfatar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303144",
+        "code": "BG-19",
+        "local_code": "19",
+        "name": "Silistra Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Silistra_Province",
+        "keywords": "Airports in Silistra Province"
+    }
+}

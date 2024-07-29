@@ -1,0 +1,38 @@
+{
+    "id": "539325",
+    "ident": "BG-0152",
+    "type": "small_airport",
+    "name": "Veliki Preslav Airfield",
+    "latitude_deg": "43.16865",
+    "longitude_deg": "26.7936",
+    "elevation_ft": "587",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-27",
+    "municipality": "Veliki Preslav",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303151",
+        "code": "BG-27",
+        "local_code": "27",
+        "name": "Shumen Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shumen_Province",
+        "keywords": "Airports in Shumen Province"
+    }
+}
