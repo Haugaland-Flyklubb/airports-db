@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "539712",
+            "airport_ref": "2302",
+            "airport_ident": "EETU",
+            "type": "ATIS",
+            "description": "Tartu ATIS",
+            "frequency_mhz": "123.13"
+        },
+        {
             "id": "51960",
             "airport_ref": "2302",
             "airport_ident": "EETU",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "133.9"
+            "type": "FIZ",
+            "description": "Tartu Flight Information Zone",
+            "frequency_mhz": "133.905"
         }
     ],
     "country": {

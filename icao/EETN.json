@@ -47,24 +47,24 @@
             "airport_ref": "2301",
             "airport_ident": "EETN",
             "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "127.9"
+            "description": "Tallinn Radar",
+            "frequency_mhz": "127.905"
         },
         {
             "id": "51963",
             "airport_ref": "2301",
             "airport_ident": "EETN",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "124.875"
+            "description": "Tallinn ATIS",
+            "frequency_mhz": "124.88"
         },
         {
             "id": "51964",
             "airport_ref": "2301",
             "airport_ident": "EETN",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.6"
+            "description": "Tallinn Tower",
+            "frequency_mhz": "135.905"
         }
     ],
     "country": {
