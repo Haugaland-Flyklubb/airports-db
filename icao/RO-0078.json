@@ -1,0 +1,38 @@
+{
+    "id": "540000",
+    "ident": "RO-0078",
+    "type": "small_airport",
+    "name": "Onesti Airifeld",
+    "latitude_deg": "46.29927",
+    "longitude_deg": "26.75578",
+    "elevation_ft": "686",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-BC",
+    "municipality": "Brătila",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302712",
+        "code": "RO",
+        "name": "Romania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
+        "keywords": "Aeroporturi din România"
+    },
+    "region": {
+        "id": "305222",
+        "code": "RO-BC",
+        "local_code": "BC",
+        "name": "Bacău County",
+        "continent": "EU",
+        "iso_country": "RO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bacău_County",
+        "keywords": "Moldavia, Moldavian"
+    }
+}
