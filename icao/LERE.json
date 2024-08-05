@@ -43,20 +43,20 @@
     ],
     "freqs": [
         {
-            "id": "335842",
-            "airport_ref": "43294",
-            "airport_ident": "LERE",
-            "type": "LERE_RADIO",
-            "description": "Requena Radio",
-            "frequency_mhz": "123.5"
-        },
-        {
             "id": "335843",
             "airport_ref": "43294",
             "airport_ident": "LERE",
             "type": "LEVC_N_TACC",
             "description": "Valencia Approach",
             "frequency_mhz": "120.1"
+        },
+        {
+            "id": "335842",
+            "airport_ref": "43294",
+            "airport_ident": "LERE",
+            "type": "RADIO",
+            "description": "Requena Radio",
+            "frequency_mhz": "123.325"
         }
     ],
     "country": {

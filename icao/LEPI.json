@@ -17,6 +17,40 @@
     "home_link": "",
     "wikipedia_link": "https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Casas_de_los_Pinos",
     "keywords": "",
+    "runways": [
+        {
+            "id": "540284",
+            "airport_ref": "43246",
+            "airport_ident": "LEPI",
+            "length_ft": "3041",
+            "width_ft": "60",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "475",
+            "le_heading_degT": "118",
+            "le_displaced_threshold_ft": "377",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "475",
+            "he_heading_degT": "298",
+            "he_displaced_threshold_ft": "417"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "540282",
+            "airport_ref": "43246",
+            "airport_ident": "LEPI",
+            "type": "RADIO",
+            "description": "Casas De Los Pinos Radio",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",
