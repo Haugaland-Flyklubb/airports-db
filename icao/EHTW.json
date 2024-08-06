@@ -68,16 +68,16 @@
             "id": "325726",
             "airport_ref": "2526",
             "airport_ident": "EHTW",
-            "type": "Dutch mil",
-            "description": "",
-            "frequency_mhz": "132.53"
+            "type": "INFO",
+            "description": "Dutch Mil Info",
+            "frequency_mhz": "132.355"
         },
         {
             "id": "55787",
             "airport_ref": "2526",
             "airport_ident": "EHTW",
             "type": "RADIO",
-            "description": "INFO",
+            "description": "Twente Radio",
             "frequency_mhz": "119.955"
         }
     ],
