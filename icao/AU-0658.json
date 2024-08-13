@@ -1,0 +1,38 @@
+{
+    "id": "541480",
+    "ident": "AU-0658",
+    "type": "small_airport",
+    "name": "(Duplicate)Airfield",
+    "latitude_deg": "-0.027",
+    "longitude_deg": "0.015",
+    "elevation_ft": "1250",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-XX",
+    "municipality": "Jondaryan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "YMCF",
+    "home_link": "http://www.ddsc.org.au",
+    "wikipedia_link": "",
+    "keywords": "DDSC",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "430671",
+        "code": "AU-XX",
+        "local_code": "XX",
+        "name": "(FPSOs)",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}
