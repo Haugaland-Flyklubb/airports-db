@@ -1,0 +1,62 @@
+{
+    "id": "541624",
+    "ident": "SIO2",
+    "type": "small_airport",
+    "name": "Haras Mourão Airport",
+    "latitude_deg": "-4.395833",
+    "longitude_deg": "-40.375578",
+    "elevation_ft": "679",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-CE",
+    "municipality": "Hidrolândia",
+    "scheduled_service": "no",
+    "gps_code": "SIO2",
+    "iata_code": "",
+    "local_code": "CE0176",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "541625",
+            "airport_ref": "541624",
+            "airport_ident": "SIO2",
+            "length_ft": "1641",
+            "width_ft": "59",
+            "surface": "Piçarra",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303204",
+        "code": "BR-CE",
+        "local_code": "CE",
+        "name": "Ceará",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ceará",
+        "keywords": "Airports in Ceará"
+    }
+}
