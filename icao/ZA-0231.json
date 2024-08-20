@@ -3,15 +3,15 @@
     "ident": "ZA-0231",
     "type": "small_airport",
     "name": "Shamwari Private Game Reserve Airfield",
-    "latitude_deg": "-33.45702",
-    "longitude_deg": "26.051422",
+    "latitude_deg": "-33.457012",
+    "longitude_deg": "26.051448",
     "elevation_ft": "695",
     "continent": "AF",
     "iso_country": "ZA",
     "iso_region": "ZA-EC",
     "municipality": "",
     "scheduled_service": "no",
-    "gps_code": "ZZZZ",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "ZA0231",
     "home_link": "",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "695",
             "he_heading_degT": "272",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "542471",
+            "airport_ref": "345900",
+            "airport_ident": "ZA-0231",
+            "type": "SRA",
+            "description": "Port Elizabeth Special Rules Area",
+            "frequency_mhz": "130.35"
         }
     ],
     "country": {
