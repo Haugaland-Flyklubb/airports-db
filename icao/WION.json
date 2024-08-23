@@ -2,13 +2,13 @@
     "id": "26846",
     "ident": "WION",
     "type": "medium_airport",
-    "name": "Ranai-Natuna Airport",
+    "name": "Ranai Airport",
     "latitude_deg": "3.90871",
     "longitude_deg": "108.388",
     "elevation_ft": "7",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-RI",
+    "iso_region": "ID-KR",
     "municipality": "Ranai-Natuna Besar Island",
     "scheduled_service": "yes",
     "gps_code": "WIDO",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ranai_Airport",
-    "keywords": "Natuna, Natuna-Ranai, Raden Sadjad",
+    "keywords": "WION, Natuna, Natuna-Ranai, Raden Sadjad",
     "runways": [
         {
             "id": "236533",
@@ -60,14 +60,14 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304119",
-        "code": "ID-RI",
-        "local_code": "RI",
-        "name": "Riau",
+        "id": "304110",
+        "code": "ID-KR",
+        "local_code": "KR",
+        "name": "Kepulauan Riau",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Riau",
-        "keywords": "Airports in Riau"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kepulauan_Riau",
+        "keywords": "Airports in Kepulauan Riau"
     },
     "navaids": [
         {
