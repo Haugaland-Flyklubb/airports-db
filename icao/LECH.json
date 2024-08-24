@@ -43,20 +43,20 @@
     ],
     "freqs": [
         {
-            "id": "335836",
-            "airport_ref": "300859",
-            "airport_ident": "LECH",
-            "type": "LECH_TWR",
-            "description": "Castellon Tower",
-            "frequency_mhz": "120.675"
-        },
-        {
             "id": "335837",
             "airport_ref": "300859",
             "airport_ident": "LECH",
-            "type": "LEVC_N_TACC",
+            "type": "APP",
             "description": "Valencia Approach",
             "frequency_mhz": "120.1"
+        },
+        {
+            "id": "335836",
+            "airport_ref": "300859",
+            "airport_ident": "LECH",
+            "type": "TWR",
+            "description": "Castellon Tower",
+            "frequency_mhz": "120.675"
         }
     ],
     "country": {
