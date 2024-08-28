@@ -3,12 +3,12 @@
     "ident": "NO-0031",
     "type": "small_airport",
     "name": "Feiring Airfield",
-    "latitude_deg": "60.5122939002",
-    "longitude_deg": "11.1881053448",
-    "elevation_ft": "",
+    "latitude_deg": "60.512294",
+    "longitude_deg": "11.188105",
+    "elevation_ft": "440",
     "continent": "EU",
     "iso_country": "NO",
-    "iso_region": "NO-30",
+    "iso_region": "NO-32",
     "municipality": "Feiring",
     "scheduled_service": "no",
     "gps_code": "",
@@ -60,13 +60,13 @@
         "keywords": "Flyplasser i Norge"
     },
     "region": {
-        "id": "349851",
-        "code": "NO-30",
-        "local_code": "30",
-        "name": "Viken",
+        "id": "543799",
+        "code": "NO-32",
+        "local_code": "32",
+        "name": "Akershus",
         "continent": "EU",
         "iso_country": "NO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Viken_(county)",
-        "keywords": "Airports in Viken"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Akershus",
+        "keywords": ""
     }
 }
