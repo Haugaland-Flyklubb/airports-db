@@ -1,0 +1,62 @@
+{
+    "id": "544715",
+    "ident": "SW2H",
+    "type": "small_airport",
+    "name": "KM 47 Airport",
+    "latitude_deg": "-18.751067",
+    "longitude_deg": "-40.262235",
+    "elevation_ft": "377",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-ES",
+    "municipality": "São Mateus",
+    "scheduled_service": "no",
+    "gps_code": "SW2H",
+    "iata_code": "",
+    "local_code": "ES0054",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "544716",
+            "airport_ref": "544715",
+            "airport_ident": "SW2H",
+            "length_ft": "3281",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303206",
+        "code": "BR-ES",
+        "local_code": "ES",
+        "name": "Espírito Santo",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Espírito_Santo",
+        "keywords": "Airports in Espírito Santo"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": "544721",
+    "ident": "SW2G",
+    "type": "small_airport",
+    "name": "Tailândia Airport",
+    "latitude_deg": "-2.982699",
+    "longitude_deg": "-48.934162",
+    "elevation_ft": "174",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Tailândia",
+    "scheduled_service": "no",
+    "gps_code": "SW2G",
+    "iata_code": "",
+    "local_code": "PA0408",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "544739",
+            "airport_ref": "544721",
+            "airport_ident": "SW2G",
+            "length_ft": "4264",
+            "width_ft": "59",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303212",
+        "code": "BR-PA",
+        "local_code": "PA",
+        "name": "Pará",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
+        "keywords": "Airports in Pará"
+    }
+}
