@@ -28,16 +28,16 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "11",
-            "le_latitude_deg": "52.17150115966797",
-            "le_longitude_deg": "20.946699142456055",
-            "le_elevation_ft": "361",
-            "le_heading_degT": "114.8",
+            "le_latitude_deg": "52.171501",
+            "le_longitude_deg": "20.946699",
+            "le_elevation_ft": "362",
+            "le_heading_degT": "108",
             "le_displaced_threshold_ft": "",
             "he_ident": "29",
-            "he_latitude_deg": "52.1609992980957",
-            "he_longitude_deg": "20.98390007019043",
-            "he_elevation_ft": "344",
-            "he_heading_degT": "294.8",
+            "he_latitude_deg": "52.160999",
+            "he_longitude_deg": "20.9839",
+            "he_elevation_ft": "347",
+            "he_heading_degT": "288",
             "he_displaced_threshold_ft": "1640"
         },
         {
@@ -50,27 +50,51 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "15",
-            "le_latitude_deg": "52.1786003112793",
-            "le_longitude_deg": "20.955900192260742",
-            "le_elevation_ft": "351",
-            "le_heading_degT": "152",
+            "le_latitude_deg": "52.1786",
+            "le_longitude_deg": "20.9559",
+            "le_elevation_ft": "353",
+            "le_heading_degT": "146",
             "le_displaced_threshold_ft": "",
             "he_ident": "33",
-            "he_latitude_deg": "52.14939880371094",
-            "he_longitude_deg": "20.981399536132812",
-            "he_elevation_ft": "351",
-            "he_heading_degT": "332",
+            "he_latitude_deg": "52.149399",
+            "he_longitude_deg": "20.9814",
+            "he_elevation_ft": "355",
+            "he_heading_degT": "326",
             "he_displaced_threshold_ft": ""
         }
     ],
     "freqs": [
         {
-            "id": "56231",
+            "id": "545359",
             "airport_ref": "2637",
             "airport_ident": "EPWA",
             "type": "APP",
             "description": "WARSZAWA APP",
-            "frequency_mhz": "128.8"
+            "frequency_mhz": "125.055"
+        },
+        {
+            "id": "56231",
+            "airport_ref": "2637",
+            "airport_ident": "EPWA",
+            "type": "APP",
+            "description": "WARSZAWA APP (commonly used)",
+            "frequency_mhz": "128.805"
+        },
+        {
+            "id": "545360",
+            "airport_ref": "2637",
+            "airport_ident": "EPWA",
+            "type": "APP",
+            "description": "WARSZAWA APP",
+            "frequency_mhz": "129.38"
+        },
+        {
+            "id": "545361",
+            "airport_ref": "2637",
+            "airport_ident": "EPWA",
+            "type": "APP",
+            "description": "WARSZAWA APP",
+            "frequency_mhz": "135.93"
         },
         {
             "id": "56232",
@@ -78,7 +102,15 @@
             "airport_ident": "EPWA",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "120.45"
+            "frequency_mhz": "120.455"
+        },
+        {
+            "id": "545357",
+            "airport_ref": "2637",
+            "airport_ident": "EPWA",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "123.43"
         },
         {
             "id": "56233",
@@ -86,15 +118,7 @@
             "airport_ident": "EPWA",
             "type": "CLD",
             "description": "CLNC DEL",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "56234",
-            "airport_ref": "2637",
-            "airport_ident": "EPWA",
-            "type": "DIR",
-            "description": "WARSZAWA DIR",
-            "frequency_mhz": "129.375"
+            "frequency_mhz": "121.605"
         },
         {
             "id": "56235",
@@ -102,7 +126,23 @@
             "airport_ident": "EPWA",
             "type": "GND",
             "description": "GND",
-            "frequency_mhz": "121.9"
+            "frequency_mhz": "121.905"
+        },
+        {
+            "id": "545364",
+            "airport_ref": "2637",
+            "airport_ident": "EPWA",
+            "type": "INF",
+            "description": "",
+            "frequency_mhz": "118.775"
+        },
+        {
+            "id": "545365",
+            "airport_ref": "2637",
+            "airport_ident": "EPWA",
+            "type": "INF",
+            "description": "",
+            "frequency_mhz": "128.575"
         },
         {
             "id": "56236",
@@ -110,7 +150,7 @@
             "airport_ident": "EPWA",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "118.3"
+            "frequency_mhz": "118.305"
         }
     ],
     "country": {
