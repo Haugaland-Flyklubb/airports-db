@@ -24,31 +24,63 @@
             "airport_ident": "EPWR",
             "length_ft": "8212",
             "width_ft": "147",
-            "surface": "CON",
+            "surface": "CONC-ASPH",
             "lighted": "1",
             "closed": "0",
             "le_ident": "11",
-            "le_latitude_deg": "51.10879898071289",
-            "le_longitude_deg": "16.865800857543945",
-            "le_elevation_ft": "404",
+            "le_latitude_deg": "51.108799",
+            "le_longitude_deg": "16.865801",
+            "le_elevation_ft": "405",
             "le_heading_degT": "116",
             "le_displaced_threshold_ft": "",
             "he_ident": "29",
-            "he_latitude_deg": "51.0989990234375",
-            "he_longitude_deg": "16.898000717163086",
-            "he_elevation_ft": "400",
+            "he_latitude_deg": "51.098999",
+            "he_longitude_deg": "16.898001",
+            "he_elevation_ft": "401",
             "he_heading_degT": "296",
             "he_displaced_threshold_ft": ""
         }
     ],
     "freqs": [
         {
+            "id": "546212",
+            "airport_ref": "2638",
+            "airport_ident": "EPWR",
+            "type": "APP",
+            "description": "POZNAŃ APPROACH (H24)",
+            "frequency_mhz": "123.04"
+        },
+        {
+            "id": "546213",
+            "airport_ref": "2638",
+            "airport_ident": "EPWR",
+            "type": "APP",
+            "description": "POZNAŃ APPROACH (H24)",
+            "frequency_mhz": "128.925"
+        },
+        {
+            "id": "546211",
+            "airport_ref": "2638",
+            "airport_ident": "EPWR",
+            "type": "ATIS",
+            "description": "WROCLAW ATIS (H24)",
+            "frequency_mhz": "124.33"
+        },
+        {
+            "id": "546210",
+            "airport_ref": "2638",
+            "airport_ident": "EPWR",
+            "type": "CLD",
+            "description": "WROCŁAW DELIVERY (0530-2100)",
+            "frequency_mhz": "121.805"
+        },
+        {
             "id": "56228",
             "airport_ref": "2638",
             "airport_ident": "EPWR",
             "type": "TWR",
-            "description": "WROCLAW TWR",
-            "frequency_mhz": "127.225"
+            "description": "WROCLAW TOWER (H24)",
+            "frequency_mhz": "120.255"
         }
     ],
     "country": {

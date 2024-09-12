@@ -30,33 +30,41 @@
             "le_ident": "03",
             "le_latitude_deg": "42.336159",
             "le_longitude_deg": "1.406678",
-            "le_elevation_ft": "",
-            "le_heading_degT": "39",
+            "le_elevation_ft": "2628",
+            "le_heading_degT": "31",
             "le_displaced_threshold_ft": "",
             "he_ident": "21",
             "he_latitude_deg": "42.345936",
             "he_longitude_deg": "1.4146",
-            "he_elevation_ft": "",
-            "he_heading_degT": "219",
+            "he_elevation_ft": "2628",
+            "he_heading_degT": "211",
             "he_displaced_threshold_ft": ""
         }
     ],
     "freqs": [
         {
-            "id": "335844",
-            "airport_ref": "4039",
-            "airport_ident": "LESU",
-            "type": "LESU A/A",
-            "description": "La Seu Traffic (outside its hours)",
-            "frequency_mhz": "122.2"
-        },
-        {
             "id": "327247",
             "airport_ref": "4039",
             "airport_ident": "LESU",
-            "type": "LESU_AFIS",
-            "description": "La Seu Information",
-            "frequency_mhz": "122.2"
+            "type": "AFIS",
+            "description": "H24. Outside ATS op hrs, this frq for A/A communications.",
+            "frequency_mhz": "122.205"
+        },
+        {
+            "id": "335844",
+            "airport_ref": "4039",
+            "airport_ident": "LESU",
+            "type": "AFIS",
+            "description": "ATS hours. Outside ATS op hrs, frq for G/A communications.",
+            "frequency_mhz": "131.605"
+        },
+        {
+            "id": "546219",
+            "airport_ref": "4039",
+            "airport_ident": "LESU",
+            "type": "EMERG",
+            "description": "Emergency",
+            "frequency_mhz": "121.5"
         }
     ],
     "country": {
