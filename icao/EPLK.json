@@ -49,6 +49,30 @@
             "type": "AFIS",
             "description": "INFO",
             "frequency_mhz": "128.5"
+        },
+        {
+            "id": "546410",
+            "airport_ref": "2615",
+            "airport_ident": "EPLK",
+            "type": "ATIS",
+            "description": "Łask ATIS",
+            "frequency_mhz": "126.385"
+        },
+        {
+            "id": "546408",
+            "airport_ref": "2615",
+            "airport_ident": "EPLK",
+            "type": "Wieża",
+            "description": "Łask wieża",
+            "frequency_mhz": "133.075"
+        },
+        {
+            "id": "546409",
+            "airport_ref": "2615",
+            "airport_ident": "EPLK",
+            "type": "Zbliżanie",
+            "description": "Łask zbliżanie",
+            "frequency_mhz": "125.35"
         }
     ],
     "country": {

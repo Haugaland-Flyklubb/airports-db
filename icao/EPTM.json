@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "546412",
+            "airport_ref": "31016",
+            "airport_ident": "EPTM",
+            "type": "Wieża",
+            "description": "Tomaszów wieża",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "546413",
+            "airport_ref": "31016",
+            "airport_ident": "EPTM",
+            "type": "Zbliżanie",
+            "description": "Tomaszów zbliżenie",
+            "frequency_mhz": "130.25"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",
