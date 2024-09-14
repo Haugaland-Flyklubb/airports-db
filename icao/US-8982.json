@@ -1,0 +1,62 @@
+{
+    "id": "546614",
+    "ident": "US-8982",
+    "type": "heliport",
+    "name": "Dakota Regional Medical Center Heliport",
+    "latitude_deg": "47.436873",
+    "longitude_deg": "-98.118775",
+    "elevation_ft": "1429",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ND",
+    "municipality": "Cooperstown",
+    "scheduled_service": "no",
+    "gps_code": "ND32",
+    "iata_code": "",
+    "local_code": "ND32",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "546615",
+            "airport_ref": "546614",
+            "airport_ident": "US-8982",
+            "length_ft": "40",
+            "width_ft": "40",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306104",
+        "code": "US-ND",
+        "local_code": "ND",
+        "name": "North Dakota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
+        "keywords": "Airports in North Dakota"
+    }
+}
