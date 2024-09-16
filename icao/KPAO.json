@@ -1,10 +1,10 @@
 {
     "id": "20805",
     "ident": "KPAO",
-    "type": "small_airport",
-    "name": "Palo Alto Airport of Santa Clara County",
-    "latitude_deg": "37.461101532",
-    "longitude_deg": "-122.114997864",
+    "type": "medium_airport",
+    "name": "Palo Alto Airport",
+    "latitude_deg": "37.461102",
+    "longitude_deg": "-122.114998",
     "elevation_ft": "4",
     "continent": "NA",
     "iso_country": "US",
@@ -14,9 +14,9 @@
     "gps_code": "KPAO",
     "iata_code": "PAO",
     "local_code": "PAO",
-    "home_link": "http://www.countyairports.org/pao.html",
+    "home_link": "https://www.cityofpaloalto.org/Departments/Public-Works/Palo-Alto-Airport",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Palo_Alto_Airport_of_Santa_Clara_County",
-    "keywords": "",
+    "keywords": "Santa Clara County",
     "runways": [
         {
             "id": "239765",
