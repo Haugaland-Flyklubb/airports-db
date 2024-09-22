@@ -1,0 +1,62 @@
+{
+    "id": "547941",
+    "ident": "EDSX",
+    "type": "small_airport",
+    "name": "Voelkleshofen-Lichtenberg Field",
+    "latitude_deg": "49.00946",
+    "longitude_deg": "9.354766",
+    "elevation_ft": "1301",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EDSX",
+    "iata_code": "",
+    "local_code": "EDSX",
+    "home_link": "https://sfg-backnang.de",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_V%C3%B6lkleshofen-Lichtenberg",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "547942",
+            "airport_ref": "547941",
+            "airport_ident": "EDSX",
+            "length_ft": "2890",
+            "width_ft": "98",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "49.00851",
+            "le_longitude_deg": "9.34815",
+            "le_elevation_ft": "1301",
+            "le_heading_degT": "77",
+            "le_displaced_threshold_ft": "1407",
+            "he_ident": "25",
+            "he_latitude_deg": "49.01004",
+            "he_longitude_deg": "9.35904",
+            "he_elevation_ft": "1301",
+            "he_heading_degT": "257",
+            "he_displaced_threshold_ft": "1407"
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303563",
+        "code": "DE-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
