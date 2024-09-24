@@ -17,6 +17,16 @@
     "home_link": "http://www.eera.ee/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Rapla_Airfield",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "548223",
+            "airport_ref": "30323",
+            "airport_ident": "EERA",
+            "type": "ATZ",
+            "description": "Rapla Traffic",
+            "frequency_mhz": "131.03"
+        }
+    ],
     "country": {
         "id": "302683",
         "code": "EE",

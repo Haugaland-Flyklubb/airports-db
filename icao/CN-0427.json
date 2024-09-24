@@ -1,0 +1,38 @@
+{
+    "id": "548188",
+    "ident": "CN-0427",
+    "type": "small_airport",
+    "name": "Otog Banner Wulan Airport",
+    "latitude_deg": "39.03139",
+    "longitude_deg": "107.98889",
+    "elevation_ft": "4423",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-15",
+    "municipality": "Wulan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "OTO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303426",
+        "code": "CN-15",
+        "local_code": "15",
+        "name": "Inner Mongolia Autonomous Region",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Inner_Mongolia",
+        "keywords": "Airports in Inner Mongolia Autonomous Region, Nei Mongol"
+    }
+}
