@@ -1,0 +1,62 @@
+{
+    "id": "549556",
+    "ident": "SIQ7",
+    "type": "heliport",
+    "name": "Riviera Santa Cristina XIII Heliport",
+    "latitude_deg": "-23.353196",
+    "longitude_deg": "-48.962065",
+    "elevation_ft": "2198",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Paranapanema",
+    "scheduled_service": "no",
+    "gps_code": "SIQ7",
+    "iata_code": "",
+    "local_code": "SP1444",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "549559",
+            "airport_ref": "549556",
+            "airport_ident": "SIQ7",
+            "length_ft": "69",
+            "width_ft": "69",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "8",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303224",
+        "code": "BR-SP",
+        "local_code": "SP",
+        "name": "São Paulo",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
+        "keywords": "Airports in São Paulo"
+    }
+}
