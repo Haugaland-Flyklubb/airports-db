@@ -1,0 +1,38 @@
+{
+    "id": "549725",
+    "ident": "EKSK",
+    "type": "heliport",
+    "name": "Skive HEMS Heliport",
+    "latitude_deg": "56.557277",
+    "longitude_deg": "8.975841",
+    "elevation_ft": "29",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-82",
+    "municipality": "Skive",
+    "scheduled_service": "no",
+    "gps_code": "EKSK",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302682",
+        "code": "DK",
+        "name": "Denmark",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
+        "keywords": "Lufthavnene i Danmark"
+    },
+    "region": {
+        "id": "306328",
+        "code": "DK-82",
+        "local_code": "82",
+        "name": "Central Jutland",
+        "continent": "EU",
+        "iso_country": "DK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Denmark_Region",
+        "keywords": "Central Denmark, Mid-Jutland, Midtjylland"
+    }
+}
