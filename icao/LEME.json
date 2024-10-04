@@ -1,0 +1,38 @@
+{
+    "id": "550119",
+    "ident": "LEME",
+    "type": "heliport",
+    "name": "S'Arangi Heliport",
+    "latitude_deg": "39.968221",
+    "longitude_deg": "4.093734",
+    "elevation_ft": "429",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-IB",
+    "municipality": "Es Mercadal",
+    "scheduled_service": "no",
+    "gps_code": "LEME",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Menorca",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303755",
+        "code": "ES-IB",
+        "local_code": "IB",
+        "name": "Islas Baleares",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balearic_Islands",
+        "keywords": "Airports in Baleares, Balearic Islands"
+    }
+}
