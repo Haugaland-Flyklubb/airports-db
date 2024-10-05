@@ -1,0 +1,38 @@
+{
+    "id": "550255",
+    "ident": "GA-0011",
+    "type": "small_airport",
+    "name": "Petit Bambam Airport",
+    "latitude_deg": "-0.483557",
+    "longitude_deg": "9.592044",
+    "elevation_ft": "299",
+    "continent": "AF",
+    "iso_country": "GA",
+    "iso_region": "GA-1",
+    "municipality": "Petit Bam-Bam",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Petit_Bambam_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302573",
+        "code": "GA",
+        "name": "Gabon",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gabon",
+        "keywords": "Gabonese airports"
+    },
+    "region": {
+        "id": "303820",
+        "code": "GA-1",
+        "local_code": "1",
+        "name": "Estuaire Province",
+        "continent": "AF",
+        "iso_country": "GA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Estuaire_Province",
+        "keywords": "Airports in Estuaire Province"
+    }
+}
