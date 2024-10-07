@@ -1,0 +1,62 @@
+{
+    "id": "550689",
+    "ident": "US-8996",
+    "type": "heliport",
+    "name": "Trumbull Memorial Hospital Heliport",
+    "latitude_deg": "41.23497",
+    "longitude_deg": "-80.799122",
+    "elevation_ft": "938",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Warren",
+    "scheduled_service": "no",
+    "gps_code": "70OH",
+    "iata_code": "",
+    "local_code": "70OH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "550690",
+            "airport_ref": "550689",
+            "airport_ident": "US-8996",
+            "length_ft": "44",
+            "width_ft": "44",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": "Airports in Ohio"
+    }
+}
