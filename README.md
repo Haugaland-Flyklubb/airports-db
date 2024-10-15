@@ -16,7 +16,7 @@ The repository will be updated automatically every day at 7:00 UTC. You can get 
 | Frequencies     | 29 428            |
 | Navigation aids | 11 020            |
 | Countries       | 248               |
-| Regions         | 3 944             |
+| Regions         | 3 945             |
 
 ## How to use it?
 
