@@ -2,14 +2,14 @@
     "id": "512509",
     "ident": "IR-0160",
     "type": "heliport",
-    "name": "Khorramabad",
+    "name": "Khorramabad Heliport",
     "latitude_deg": "33.548977",
     "longitude_deg": "48.208742",
-    "elevation_ft": "",
+    "elevation_ft": "4758",
     "continent": "AS",
     "iso_country": "IR",
-    "iso_region": "IR-U-A",
-    "municipality": "",
+    "iso_region": "IR-15",
+    "municipality": "Khorramabad",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "فرودگاه های ایران"
     },
     "region": {
-        "id": "304246",
-        "code": "IR-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304237",
+        "code": "IR-15",
+        "local_code": "15",
+        "name": "Lorestan Province",
         "continent": "AS",
         "iso_country": "IR",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lorestan_Province",
+        "keywords": "Airports in Lorestan Province"
     }
 }
