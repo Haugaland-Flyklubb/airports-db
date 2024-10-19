@@ -1,22 +1,22 @@
 {
     "id": "327032",
     "ident": "KR-0299",
-    "type": "heliport",
-    "name": "ROK Ministry of SMEs & Starups",
-    "latitude_deg": "36.361598",
-    "longitude_deg": "127.383943",
-    "elevation_ft": "",
+    "type": "small_airport",
+    "name": "Sky Nuri Flight School Airstrip",
+    "latitude_deg": "37.10731",
+    "longitude_deg": "126.7644",
+    "elevation_ft": "20",
     "continent": "AS",
     "iso_country": "KR",
-    "iso_region": "KR-44",
-    "municipality": "Daejon",
+    "iso_region": "KR-41",
+    "municipality": "Hwaseong",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Ministry of SMEs and Startups",
+    "keywords": "",
     "country": {
         "id": "302643",
         "code": "KR",
@@ -26,13 +26,13 @@
         "keywords": "한국의 공항"
     },
     "region": {
-        "id": "304410",
-        "code": "KR-44",
-        "local_code": "44",
-        "name": "Chungcheongnamdo",
+        "id": "304407",
+        "code": "KR-41",
+        "local_code": "41",
+        "name": "Gyeonggi-do (Gyeonggi Province)",
         "continent": "AS",
         "iso_country": "KR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chungcheongnamdo",
-        "keywords": "Airports in Chungcheongnamdo"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggi_Province",
+        "keywords": "Airports in Gyeonggi-do"
     }
 }

@@ -1,8 +1,8 @@
 {
     "id": "5632",
     "ident": "RKJM",
-    "type": "closed",
-    "name": "Mokpo Airport",
+    "type": "small_airport",
+    "name": "Mokpo Air Base",
     "latitude_deg": "34.758979",
     "longitude_deg": "126.380324",
     "elevation_ft": "23",
@@ -11,12 +11,12 @@
     "iso_region": "KR-46",
     "municipality": "Gonghang-ro (Mokpo)",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "RKJM",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Mokpo_Airport",
-    "keywords": "RKJM, RKJM, MPK",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mokpo_Air_Base",
+    "keywords": "RKJM, MPK",
     "runways": [
         {
             "id": "237315",
@@ -87,11 +87,11 @@
         "id": "304412",
         "code": "KR-46",
         "local_code": "46",
-        "name": "Jeonranamdo",
+        "name": "Jeollanam-do (South Jeolla Province)",
         "continent": "AS",
         "iso_country": "KR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jeonranamdo",
-        "keywords": "Airports in Jeonranamdo"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Jeolla_Province",
+        "keywords": "Airports in Jeollanam-do (South Jeolla)"
     },
     "navaids": [
         {
