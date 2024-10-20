@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "98"
         }
     ],
+    "freqs": [
+        {
+            "id": "552871",
+            "airport_ref": "28613",
+            "airport_ident": "EDMJ",
+            "type": "RADIO",
+            "description": "Jesenwang Radio",
+            "frequency_mhz": "120.055"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

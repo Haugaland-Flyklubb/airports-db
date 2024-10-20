@@ -1,0 +1,62 @@
+{
+    "id": "552920",
+    "ident": "SND7",
+    "type": "heliport",
+    "name": "DGL Heliport",
+    "latitude_deg": "-20.313756",
+    "longitude_deg": "-46.301092",
+    "elevation_ft": "2707",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "São Roque de Minas",
+    "scheduled_service": "no",
+    "gps_code": "SND7",
+    "iata_code": "",
+    "local_code": "MG0616",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "552925",
+            "airport_ref": "552920",
+            "airport_ident": "SND7",
+            "length_ft": "69",
+            "width_ft": "69",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303209",
+        "code": "BR-MG",
+        "local_code": "MG",
+        "name": "Minas Gerais",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
+        "keywords": "Airports in Minas Gerais"
+    }
+}
