@@ -1,0 +1,38 @@
+{
+    "id": "553615",
+    "ident": "GB-1144",
+    "type": "closed",
+    "name": "RAF Welford",
+    "latitude_deg": "51.46666",
+    "longitude_deg": "-1.39591",
+    "elevation_ft": "512",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-U-A",
+    "municipality": "Newbury, Berkshire",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "303830",
+        "code": "GB-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "",
+        "keywords": "keep"
+    }
+}

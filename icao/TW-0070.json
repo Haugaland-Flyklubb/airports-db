@@ -1,0 +1,38 @@
+{
+    "id": "553655",
+    "ident": "TW-0070",
+    "type": "small_airport",
+    "name": "Hualien Taroko Paraglider Field",
+    "latitude_deg": "24.10927",
+    "longitude_deg": "121.62397",
+    "elevation_ft": "56",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-HUA",
+    "municipality": "Xincheng",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": "Taiwanese airports"
+    },
+    "region": {
+        "id": "305939",
+        "code": "TW-HUA",
+        "local_code": "HUA",
+        "name": "Hualien County",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hualien_County",
+        "keywords": "Airports in Hualien County"
+    }
+}
