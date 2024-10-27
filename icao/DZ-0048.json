@@ -1,0 +1,38 @@
+{
+    "id": "554274",
+    "ident": "DZ-0048",
+    "type": "small_airport",
+    "name": "Omanet Airport",
+    "latitude_deg": "28.73085",
+    "longitude_deg": "8.88037",
+    "elevation_ft": "1762",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-33",
+    "municipality": "In Aménas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302568",
+        "code": "DZ",
+        "name": "Algeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Algeria",
+        "keywords": "مطارات الجزائر"
+    },
+    "region": {
+        "id": "303635",
+        "code": "DZ-33",
+        "local_code": "33",
+        "name": "Illizi Province",
+        "continent": "AF",
+        "iso_country": "DZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illizi_Province",
+        "keywords": "Airports in Illizi Province"
+    }
+}

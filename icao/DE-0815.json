@@ -1,0 +1,38 @@
+{
+    "id": "554300",
+    "ident": "DE-0815",
+    "type": "medium_airport",
+    "name": "Cologne central station",
+    "latitude_deg": "50.9433",
+    "longitude_deg": "6.9583",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-NW",
+    "municipality": "Cologne",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "QKL",
+    "local_code": "",
+    "home_link": "https://www.bahnhof.de/koeln-hbf",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/K%C3%B6ln_Hauptbahnhof",
+    "keywords": "",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303556",
+        "code": "DE-NW",
+        "local_code": "NW",
+        "name": "North Rhine-Westphalia",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
+        "keywords": "Nordrhein-Westfalen"
+    }
+}
