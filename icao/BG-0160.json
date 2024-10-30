@@ -1,0 +1,38 @@
+{
+    "id": "554638",
+    "ident": "BG-0160",
+    "type": "small_airport",
+    "name": "Borisovo Airfield",
+    "latitude_deg": "43.92375",
+    "longitude_deg": "26.24698",
+    "elevation_ft": "179",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-18",
+    "municipality": "Slivo Pole",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303143",
+        "code": "BG-18",
+        "local_code": "18",
+        "name": "Ruse Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ruse_Province",
+        "keywords": "Airports in Ruse Province"
+    }
+}
