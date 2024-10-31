@@ -1,0 +1,62 @@
+{
+    "id": "554921",
+    "ident": "ZUBC",
+    "type": "small_airport",
+    "name": "Beichuan Yongchang Airport",
+    "latitude_deg": "31.581474",
+    "longitude_deg": "104.459701",
+    "elevation_ft": "2012",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-51",
+    "municipality": "Mianyang",
+    "scheduled_service": "no",
+    "gps_code": "ZUBC",
+    "iata_code": "BCJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "北川通用机场",
+    "runways": [
+        {
+            "id": "554933",
+            "airport_ref": "554921",
+            "airport_ident": "ZUBC",
+            "length_ft": "3281",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303444",
+        "code": "CN-51",
+        "local_code": "51",
+        "name": "Sichuan Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sichuan",
+        "keywords": "Airports in Sichuan Province"
+    }
+}
