@@ -1,0 +1,38 @@
+{
+    "id": "555233",
+    "ident": "RO-0092",
+    "type": "small_airport",
+    "name": "Golden Wings Airfield",
+    "latitude_deg": "45.682004",
+    "longitude_deg": "21.022897",
+    "elevation_ft": "266",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-TM",
+    "municipality": "Sânmihaiu Român",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302712",
+        "code": "RO",
+        "name": "Romania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
+        "keywords": "Aeroporturi din România"
+    },
+    "region": {
+        "id": "305255",
+        "code": "RO-TM",
+        "local_code": "TM",
+        "name": "Timiş County",
+        "continent": "EU",
+        "iso_country": "RO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Timiş_County",
+        "keywords": "Transylvania, Transylvanian Region"
+    }
+}
