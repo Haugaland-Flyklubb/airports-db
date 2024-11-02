@@ -57,6 +57,14 @@
             "type": "UNIC",
             "description": "CTAF/UNICOM",
             "frequency_mhz": "122.7"
+        },
+        {
+            "id": "555356",
+            "airport_ref": "19331",
+            "airport_ident": "KAVX",
+            "type": "WX ASOS",
+            "description": "Weather ASOS",
+            "frequency_mhz": "120.675"
         }
     ],
     "country": {
