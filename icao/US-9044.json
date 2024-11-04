@@ -1,22 +1,22 @@
 {
-    "id": "14333",
-    "ident": "7OK5",
-    "type": "closed",
-    "name": "Atrium Heliport",
-    "latitude_deg": "35.537156",
-    "longitude_deg": "-97.580925",
-    "elevation_ft": "1270",
+    "id": "555778",
+    "ident": "US-9044",
+    "type": "heliport",
+    "name": "Marshfield Emergency Heliport",
+    "latitude_deg": "37.34623",
+    "longitude_deg": "-92.9254",
+    "elevation_ft": "1475",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-OK",
-    "municipality": "Oklahoma City",
+    "iso_region": "US-MO",
+    "municipality": "Marshfield",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "7OK5",
+    "keywords": "",
     "country": {
         "id": "302755",
         "code": "US",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306112",
-        "code": "US-OK",
-        "local_code": "OK",
-        "name": "Oklahoma",
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
-        "keywords": "Airports in Oklahoma"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": "Airports in Missouri"
     }
 }
