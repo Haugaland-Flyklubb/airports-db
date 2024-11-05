@@ -1,0 +1,38 @@
+{
+    "id": "555833",
+    "ident": "US-9062",
+    "type": "closed",
+    "name": "6666 Ranch North Airport",
+    "latitude_deg": "33.70823",
+    "longitude_deg": "-100.3456",
+    "elevation_ft": "1840",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Guthrie",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": "Texan airports"
+    }
+}
