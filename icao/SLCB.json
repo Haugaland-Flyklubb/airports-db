@@ -92,9 +92,17 @@
             "id": "49451",
             "airport_ref": "6180",
             "airport_ident": "SLCB",
-            "type": "TWR",
+            "type": "TMA",
             "description": "COCHABAMBA TWR",
             "frequency_mhz": "123.5"
+        },
+        {
+            "id": "556076",
+            "airport_ref": "6180",
+            "airport_ident": "SLCB",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "118.1"
         }
     ],
     "country": {
