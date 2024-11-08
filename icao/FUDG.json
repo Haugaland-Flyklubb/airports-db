@@ -1,0 +1,62 @@
+{
+    "id": "556489",
+    "ident": "FUDG",
+    "type": "small_airport",
+    "name": "Vandalism",
+    "latitude_deg": "0.02",
+    "longitude_deg": "-0.038",
+    "elevation_ft": "5000",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-NB",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "FUDG",
+    "iata_code": "PIG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "556495",
+            "airport_ref": "556489",
+            "airport_ident": "FUDG",
+            "length_ft": "10000",
+            "width_ft": "2",
+            "surface": "jello",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "98u",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "huh",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "552946",
+        "code": "CL-NB",
+        "local_code": "NB",
+        "name": "Ñuble Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/%C3%91uble_Region",
+        "keywords": ""
+    }
+}
