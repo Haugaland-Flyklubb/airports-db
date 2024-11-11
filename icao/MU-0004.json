@@ -1,0 +1,62 @@
+{
+    "id": "557052",
+    "ident": "MU-0004",
+    "type": "medium_airport",
+    "name": "IAF Agalega",
+    "latitude_deg": "-10.372483",
+    "longitude_deg": "56.603537",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "MU",
+    "iso_region": "MU-AG",
+    "municipality": "Vingt Cinq",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Military, India, Agaléga",
+    "runways": [
+        {
+            "id": "557054",
+            "airport_ref": "557052",
+            "airport_ident": "MU-0004",
+            "length_ft": "9842",
+            "width_ft": "147",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "-10.360562",
+            "le_longitude_deg": "56.595302",
+            "le_elevation_ft": "3",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "-10.382844",
+            "he_longitude_deg": "56.610981",
+            "he_elevation_ft": "9",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302588",
+        "code": "MU",
+        "name": "Mauritius",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mauritius",
+        "keywords": "Airports in Mauritius"
+    },
+    "region": {
+        "id": "304723",
+        "code": "MU-AG",
+        "local_code": "AG",
+        "name": "Agalega Islands",
+        "continent": "AF",
+        "iso_country": "MU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Agalega_Islands",
+        "keywords": "Airports in Agalega Islands"
+    }
+}
