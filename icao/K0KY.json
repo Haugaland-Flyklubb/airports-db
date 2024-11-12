@@ -1,0 +1,62 @@
+{
+    "id": "557286",
+    "ident": "K0KY",
+    "type": "heliport",
+    "name": "Jamestown Marina/Pela Heliport",
+    "latitude_deg": "36.937254",
+    "longitude_deg": "-85.046645",
+    "elevation_ft": "745",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Jamestown",
+    "scheduled_service": "no",
+    "gps_code": "K0KY",
+    "iata_code": "",
+    "local_code": "0KY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "557288",
+            "airport_ref": "557286",
+            "airport_ident": "K0KY",
+            "length_ft": "90",
+            "width_ft": "20",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "31",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "13",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": "Airports in Kentucky"
+    }
+}

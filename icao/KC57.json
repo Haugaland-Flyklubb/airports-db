@@ -1,0 +1,62 @@
+{
+    "id": "557299",
+    "ident": "KC57",
+    "type": "small_airport",
+    "name": "Millers Landing",
+    "latitude_deg": "43.095701",
+    "longitude_deg": "-84.349643",
+    "elevation_ft": "757",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Elsie",
+    "scheduled_service": "no",
+    "gps_code": "KC57",
+    "iata_code": "",
+    "local_code": "C57",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "557300",
+            "airport_ref": "557299",
+            "airport_ident": "KC57",
+            "length_ft": "1875",
+            "width_ft": "60",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": "Airports in Michigan"
+    }
+}
