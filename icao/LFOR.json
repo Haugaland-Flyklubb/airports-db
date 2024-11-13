@@ -25,7 +25,7 @@
             "length_ft": "2756",
             "width_ft": "82",
             "surface": "ASPH",
-            "lighted": "0",
+            "lighted": "1",
             "closed": "0",
             "le_ident": "09",
             "le_latitude_deg": "48.457165",
@@ -36,9 +36,19 @@
             "he_ident": "27",
             "he_latitude_deg": "48.456787",
             "he_longitude_deg": "1.525586",
-            "he_elevation_ft": "509",
+            "he_elevation_ft": "495",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "557610",
+            "airport_ref": "28965",
+            "airport_ident": "LFOR",
+            "type": "A/A",
+            "description": "Chartres",
+            "frequency_mhz": "119.205"
         }
     ],
     "country": {
