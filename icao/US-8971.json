@@ -1,0 +1,62 @@
+{
+    "id": "557979",
+    "ident": "US-8971",
+    "type": "small_airport",
+    "name": "Victor Curtis Airport",
+    "latitude_deg": "41.871962",
+    "longitude_deg": "-76.950101",
+    "elevation_ft": "1717",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Mansfield",
+    "scheduled_service": "no",
+    "gps_code": "57PN",
+    "iata_code": "",
+    "local_code": "57PN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "557980",
+            "airport_ref": "557979",
+            "airport_ident": "US-8971",
+            "length_ft": "1798",
+            "width_ft": "200",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": "Airports in Pennsylvania"
+    }
+}
