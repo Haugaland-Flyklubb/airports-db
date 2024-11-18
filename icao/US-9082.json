@@ -1,0 +1,62 @@
+{
+    "id": "558517",
+    "ident": "US-9082",
+    "type": "seaplane_base",
+    "name": "JCM Seaplane Base",
+    "latitude_deg": "45.188821",
+    "longitude_deg": "-84.776347",
+    "elevation_ft": "1044",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-U-A",
+    "municipality": "Vanderbilt",
+    "scheduled_service": "no",
+    "gps_code": "MI79",
+    "iata_code": "",
+    "local_code": "MI79",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Thumb Lake",
+    "runways": [
+        {
+            "id": "558519",
+            "airport_ref": "558517",
+            "airport_ident": "US-9082",
+            "length_ft": "3776",
+            "width_ft": "100",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306120",
+        "code": "US-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

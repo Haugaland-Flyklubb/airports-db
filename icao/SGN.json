@@ -1,0 +1,38 @@
+{
+    "id": "558549",
+    "ident": "SGN",
+    "type": "small_airport",
+    "name": "Spam spam spam",
+    "latitude_deg": "1.1",
+    "longitude_deg": "1.1",
+    "elevation_ft": "1",
+    "continent": "AS",
+    "iso_country": "VN",
+    "iso_region": "VN-CH",
+    "municipality": "Hồ Chí Minh",
+    "scheduled_service": "no",
+    "gps_code": "SGN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302670",
+        "code": "VN",
+        "name": "Vietnam",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vietnam",
+        "keywords": "Các sân bay của Việt Nam"
+    },
+    "region": {
+        "id": "351367",
+        "code": "VN-CH",
+        "local_code": "CH",
+        "name": "Central Highlands Region",
+        "continent": "AS",
+        "iso_country": "VN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Highlands_(Vietnam)",
+        "keywords": "Airports in Central Highlands Region"
+    }
+}

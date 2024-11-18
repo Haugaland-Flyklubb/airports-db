@@ -1,0 +1,38 @@
+{
+    "id": "558469",
+    "ident": "SE-0083",
+    "type": "small_airport",
+    "name": "Ekeryd - Ekelanda private airstrip",
+    "latitude_deg": "56.596257",
+    "longitude_deg": "13.490785",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-G",
+    "municipality": "Ekelanda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305418",
+        "code": "SE-G",
+        "local_code": "G",
+        "name": "Kronoberge län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kronoberge_län",
+        "keywords": "Kronoberg County"
+    }
+}
