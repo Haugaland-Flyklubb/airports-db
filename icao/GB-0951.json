@@ -3,20 +3,20 @@
     "ident": "GB-0951",
     "type": "small_airport",
     "name": "The Plassey Airstrip",
-    "latitude_deg": "53.004592",
-    "longitude_deg": "-2.974098",
+    "latitude_deg": "53.005876",
+    "longitude_deg": "-2.97369",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "GB",
-    "iso_region": "GB-ENG",
-    "municipality": "",
+    "iso_region": "GB-WLS",
+    "municipality": "Wrexham",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Eyton",
     "country": {
         "id": "302688",
         "code": "GB",
@@ -26,13 +26,13 @@
         "keywords": "Great Britain"
     },
     "region": {
-        "id": "306374",
-        "code": "GB-ENG",
-        "local_code": "ENG",
-        "name": "England",
+        "id": "306376",
+        "code": "GB-WLS",
+        "local_code": "WLS",
+        "name": "Wales",
         "continent": "EU",
         "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
-        "keywords": "English airports"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
+        "keywords": "Welsh airports, Cymru, Meysydd awyr Cymru"
     }
 }
