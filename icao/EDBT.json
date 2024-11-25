@@ -46,17 +46,17 @@
             "id": "52971",
             "airport_ref": "2201",
             "airport_ident": "EDBT",
-            "type": "AAS",
-            "description": "INFO",
-            "frequency_mhz": "122"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.925"
         },
         {
             "id": "52972",
             "airport_ref": "2201",
             "airport_ident": "EDBT",
             "type": "INFO",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "125.8"
+            "description": "Allstedt Radio",
+            "frequency_mhz": "122.315"
         }
     ],
     "country": {

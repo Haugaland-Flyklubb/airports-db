@@ -55,24 +55,24 @@
             "airport_ref": "2229",
             "airport_ident": "EDFQ",
             "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.175"
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
         },
         {
             "id": "52748",
             "airport_ref": "2229",
             "airport_ident": "EDFQ",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "118.825"
+            "description": "Allendorf ATIS",
+            "frequency_mhz": "120.465"
         },
         {
             "id": "52749",
             "airport_ref": "2229",
             "airport_ident": "EDFQ",
             "type": "INFO",
-            "description": "LANGEN INFO",
-            "frequency_mhz": "123.525"
+            "description": "Allendorf Information",
+            "frequency_mhz": "135.165"
         }
     ],
     "country": {

@@ -43,11 +43,27 @@
     ],
     "freqs": [
         {
+            "id": "559768",
+            "airport_ref": "28490",
+            "airport_ident": "EDKA",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "0.875"
+        },
+        {
+            "id": "559767",
+            "airport_ref": "28490",
+            "airport_ident": "EDKA",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.525"
+        },
+        {
             "id": "337299",
             "airport_ref": "28490",
             "airport_ident": "EDKA",
             "type": "Info",
-            "description": "Aachen Info",
+            "description": "Aachen Radio",
             "frequency_mhz": "122.88"
         }
     ],
