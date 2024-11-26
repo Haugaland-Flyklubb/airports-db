@@ -46,8 +46,16 @@
             "id": "511823",
             "airport_ref": "28495",
             "airport_ident": "EDBA",
-            "type": "A/G",
-            "description": "",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "559949",
+            "airport_ref": "28495",
+            "airport_ident": "EDBA",
+            "type": "INFO",
+            "description": "Arnstadt Radio",
             "frequency_mhz": "131.26"
         }
     ],

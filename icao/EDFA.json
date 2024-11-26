@@ -46,9 +46,17 @@
             "id": "316311",
             "airport_ref": "28500",
             "airport_ident": "EDFA",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "121.025"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "559946",
+            "airport_ref": "28500",
+            "airport_ident": "EDFA",
+            "type": "INFO",
+            "description": "Anspach Radio",
+            "frequency_mhz": "121.03"
         }
     ],
     "country": {

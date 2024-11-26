@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "559941",
+            "airport_ref": "28498",
+            "airport_ident": "EDNA",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "559942",
+            "airport_ref": "28498",
+            "airport_ident": "EDNA",
+            "type": "INFO",
+            "description": "Ampfing Radio",
+            "frequency_mhz": "118.735"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

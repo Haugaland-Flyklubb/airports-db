@@ -68,17 +68,17 @@
             "id": "53249",
             "airport_ref": "2203",
             "airport_ident": "EDCA",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "122.65"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
         },
         {
             "id": "53248",
             "airport_ref": "2203",
             "airport_ident": "EDCA",
             "type": "INFO",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "132.65"
+            "description": "Anklam Radio",
+            "frequency_mhz": "122.655"
         }
     ],
     "country": {

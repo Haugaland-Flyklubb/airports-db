@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "559937",
+            "airport_ref": "28496",
+            "airport_ident": "EDSW",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "559938",
+            "airport_ref": "28496",
+            "airport_ident": "EDSW",
+            "type": "INFO",
+            "description": "Altdorf Radio",
+            "frequency_mhz": "127.155"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
