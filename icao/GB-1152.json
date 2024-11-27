@@ -2,14 +2,14 @@
     "id": "553884",
     "ident": "GB-1152",
     "type": "small_airport",
-    "name": "Hazlewood Gallops / Tadcaster",
+    "name": "Hazlewood Gallop / Tadcaster Airfield",
     "latitude_deg": "53.845833",
     "longitude_deg": "-1.3205",
     "elevation_ft": "210",
     "continent": "EU",
     "iso_country": "GB",
-    "iso_region": "GB-U-A",
-    "municipality": "",
+    "iso_region": "GB-ENG",
+    "municipality": "Tadcaster, North Yorkshire",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Great Britain"
     },
     "region": {
-        "id": "303830",
-        "code": "GB-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
         "continent": "EU",
         "iso_country": "GB",
-        "wikipedia_link": "",
-        "keywords": "keep"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": "English airports"
     }
 }
