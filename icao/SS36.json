@@ -1,0 +1,62 @@
+{
+    "id": "560603",
+    "ident": "SS36",
+    "type": "heliport",
+    "name": "Base Grifo Heliport",
+    "latitude_deg": "-24.075519",
+    "longitude_deg": "-54.253044",
+    "elevation_ft": "732",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Guaíra",
+    "scheduled_service": "no",
+    "gps_code": "SS36",
+    "iata_code": "",
+    "local_code": "PR0248",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "560604",
+            "airport_ref": "560603",
+            "airport_ident": "SS36",
+            "length_ft": "64",
+            "width_ft": "64",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303216",
+        "code": "BR-PR",
+        "local_code": "PR",
+        "name": "Paraná",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
+        "keywords": "Airports in Paraná"
+    }
+}
