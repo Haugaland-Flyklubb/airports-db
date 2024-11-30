@@ -93,16 +93,40 @@
             "airport_ref": "5910",
             "airport_ident": "SBGR",
             "type": "GND",
-            "description": "GND",
+            "description": "GUARULHOS GROUND",
             "frequency_mhz": "121.7"
+        },
+        {
+            "id": "560812",
+            "airport_ref": "5910",
+            "airport_ident": "SBGR",
+            "type": "ILS",
+            "description": "RWY 10L - IUC",
+            "frequency_mhz": "110.7"
         },
         {
             "id": "75553",
             "airport_ref": "5910",
             "airport_ident": "SBGR",
-            "type": "ILS:",
-            "description": "RWY 27L",
+            "type": "ILS",
+            "description": "RWY 28L - IBC",
             "frequency_mhz": "111.1"
+        },
+        {
+            "id": "560813",
+            "airport_ref": "5910",
+            "airport_ident": "SBGR",
+            "type": "ILS",
+            "description": "RWY 10R - IGH",
+            "frequency_mhz": "111.7"
+        },
+        {
+            "id": "560811",
+            "airport_ref": "5910",
+            "airport_ident": "SBGR",
+            "type": "ILS",
+            "description": "RWY 28R - IGS",
+            "frequency_mhz": "111.9"
         },
         {
             "id": "49691",
@@ -117,8 +141,8 @@
             "airport_ref": "5910",
             "airport_ident": "SBGR",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
+            "description": "GUARULHOS TWR",
+            "frequency_mhz": "132.75"
         }
     ],
     "country": {
