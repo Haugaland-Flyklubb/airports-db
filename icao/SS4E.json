@@ -1,0 +1,62 @@
+{
+    "id": "561191",
+    "ident": "SS4E",
+    "type": "heliport",
+    "name": "Fazenda Casa da Pedra Heliport",
+    "latitude_deg": "-13.946032",
+    "longitude_deg": "-38.932773",
+    "elevation_ft": "20",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Maraú",
+    "scheduled_service": "no",
+    "gps_code": "SS4E",
+    "iata_code": "",
+    "local_code": "BA0284",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Taipú de Fora",
+    "runways": [
+        {
+            "id": "561192",
+            "airport_ref": "561191",
+            "airport_ident": "SS4E",
+            "length_ft": "59",
+            "width_ft": "59",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303203",
+        "code": "BR-BA",
+        "local_code": "BA",
+        "name": "Bahia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
+        "keywords": "Airports in Bahia"
+    }
+}
