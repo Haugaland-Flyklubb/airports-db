@@ -1,22 +1,22 @@
 {
-    "id": "319113",
-    "ident": "IT-0246",
+    "id": "561367",
+    "ident": "IT-0785",
     "type": "small_airport",
-    "name": "AliVara Airfield",
-    "latitude_deg": "44.227697",
-    "longitude_deg": "9.720077",
-    "elevation_ft": "311",
+    "name": "Ghiacciaio del Lys",
+    "latitude_deg": "45.917118",
+    "longitude_deg": "7.855349",
+    "elevation_ft": "",
     "continent": "EU",
     "iso_country": "IT",
-    "iso_region": "IT-42",
-    "municipality": "Borghetto di Vara (SP)",
+    "iso_region": "IT-23",
+    "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "SPBRV",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "AliVara",
+    "keywords": "",
     "country": {
         "id": "302697",
         "code": "IT",
@@ -26,13 +26,13 @@
         "keywords": "Aeroporti d'Italia"
     },
     "region": {
-        "id": "306364",
-        "code": "IT-42",
-        "local_code": "42",
-        "name": "Liguria",
+        "id": "306355",
+        "code": "IT-23",
+        "local_code": "23",
+        "name": "Valle d'Aosta",
         "continent": "EU",
         "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Liguria",
-        "keywords": "LG"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valle_d'Aosta",
+        "keywords": "VD"
     }
 }
