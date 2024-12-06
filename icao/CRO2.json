@@ -1,0 +1,38 @@
+{
+    "id": "562134",
+    "ident": "CRO2",
+    "type": "heliport",
+    "name": "Onward Aviation Heliport",
+    "latitude_deg": "43.312522",
+    "longitude_deg": "-80.129401",
+    "elevation_ft": "836",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Rockton",
+    "scheduled_service": "no",
+    "gps_code": "CRO2",
+    "iata_code": "",
+    "local_code": "CRO2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": "Airports in Ontario"
+    }
+}

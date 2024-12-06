@@ -1,0 +1,62 @@
+{
+    "id": "562156",
+    "ident": "CSR2",
+    "type": "small_airport",
+    "name": "PVA1 Airport",
+    "latitude_deg": "52.168543",
+    "longitude_deg": "-101.59113",
+    "elevation_ft": "1420",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-MB",
+    "municipality": "Swan River",
+    "scheduled_service": "no",
+    "gps_code": "CSR2",
+    "iata_code": "",
+    "local_code": "CSR2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "562158",
+            "airport_ref": "562156",
+            "airport_ident": "CSR2",
+            "length_ft": "3506",
+            "width_ft": "90",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303296",
+        "code": "CA-MB",
+        "local_code": "MB",
+        "name": "Manitoba",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
+        "keywords": "Airports in Manitoba"
+    }
+}

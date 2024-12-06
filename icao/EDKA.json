@@ -43,20 +43,20 @@
     ],
     "freqs": [
         {
-            "id": "559768",
-            "airport_ref": "28490",
-            "airport_ident": "EDKA",
-            "type": "AFIS",
-            "description": "Langen Information",
-            "frequency_mhz": "0.875"
-        },
-        {
             "id": "559767",
             "airport_ref": "28490",
             "airport_ident": "EDKA",
             "type": "AFIS",
             "description": "Langen Information",
             "frequency_mhz": "125.525"
+        },
+        {
+            "id": "559768",
+            "airport_ref": "28490",
+            "airport_ident": "EDKA",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
         },
         {
             "id": "337299",

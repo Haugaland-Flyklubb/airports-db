@@ -1,0 +1,62 @@
+{
+    "id": "562088",
+    "ident": "US-9113",
+    "type": "heliport",
+    "name": "Santa Anita Dam Emergency Heliport",
+    "latitude_deg": "34.183925",
+    "longitude_deg": "-118.02049",
+    "elevation_ft": "1430",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Monrovia",
+    "scheduled_service": "no",
+    "gps_code": "CL48",
+    "iata_code": "",
+    "local_code": "CL48",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "562090",
+            "airport_ref": "562088",
+            "airport_ident": "US-9113",
+            "length_ft": "36",
+            "width_ft": "36",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": "Californian airports"
+    }
+}

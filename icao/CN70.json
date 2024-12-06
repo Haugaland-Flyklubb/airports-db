@@ -1,0 +1,62 @@
+{
+    "id": "562101",
+    "ident": "CN70",
+    "type": "heliport",
+    "name": "CalEnergy Salton Sea Heliport",
+    "latitude_deg": "33.152269",
+    "longitude_deg": "-115.635525",
+    "elevation_ft": "-223",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Calipatria",
+    "scheduled_service": "no",
+    "gps_code": "CN70",
+    "iata_code": "",
+    "local_code": "CN70",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "562102",
+            "airport_ref": "562101",
+            "airport_ident": "CN70",
+            "length_ft": "57",
+            "width_ft": "57",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": "Californian airports"
+    }
+}

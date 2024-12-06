@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Renard_Aerodrome",
     "keywords": "",
+    "runways": [
+        {
+            "id": "562104",
+            "airport_ref": "320595",
+            "airport_ident": "CFX5",
+            "length_ft": "4902",
+            "width_ft": "98",
+            "surface": "Gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1552",
+            "le_heading_degT": "58",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "1558",
+            "he_heading_degT": "238",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",
