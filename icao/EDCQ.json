@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "562242",
+            "airport_ref": "28503",
+            "airport_ident": "EDCQ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "562243",
+            "airport_ref": "28503",
+            "airport_ident": "EDCQ",
+            "type": "Info",
+            "description": "Aschersleben Radio",
+            "frequency_mhz": "127.56"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

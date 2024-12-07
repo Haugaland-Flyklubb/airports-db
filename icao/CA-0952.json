@@ -1,0 +1,38 @@
+{
+    "id": "562360",
+    "ident": "CA-0952",
+    "type": "heliport",
+    "name": "Waldhof Heliport",
+    "latitude_deg": "51.255",
+    "longitude_deg": "-114.073667",
+    "elevation_ft": "3690",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Airdrie",
+    "scheduled_service": "no",
+    "gps_code": "CAW3",
+    "iata_code": "",
+    "local_code": "CAW3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": "Albertan airports"
+    }
+}

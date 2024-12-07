@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "562250",
+            "airport_ref": "28507",
+            "airport_ident": "EDOB",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
             "id": "511824",
             "airport_ref": "28507",
             "airport_ident": "EDOB",
-            "type": "A/G",
-            "description": "",
+            "type": "Info",
+            "description": "Bad Berka Radio",
             "frequency_mhz": "120.835"
         }
     ],

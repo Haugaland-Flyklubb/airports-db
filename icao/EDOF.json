@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bad_Frankenhausen",
     "keywords": "Flugplatz Bad Frankenhausen",
+    "freqs": [
+        {
+            "id": "562255",
+            "airport_ref": "28510",
+            "airport_ident": "EDOF",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "562256",
+            "airport_ref": "28510",
+            "airport_ident": "EDOF",
+            "type": "Info",
+            "description": "Bad Frankenhausen Radio",
+            "frequency_mhz": "121.19"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

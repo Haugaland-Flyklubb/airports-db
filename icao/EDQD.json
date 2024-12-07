@@ -47,15 +47,23 @@
             "airport_ref": "2261",
             "airport_ident": "EDQD",
             "type": "AFIS",
-            "description": "MUNCHEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "125.8"
+        },
+        {
+            "id": "562287",
+            "airport_ref": "2261",
+            "airport_ident": "EDQD",
+            "type": "ATIS",
+            "description": "Bayreuth ATIS",
+            "frequency_mhz": "119.56"
         },
         {
             "id": "52836",
             "airport_ref": "2261",
             "airport_ident": "EDQD",
             "type": "INFO",
-            "description": "INFO",
+            "description": "Bayreuth Information",
             "frequency_mhz": "127.53"
         },
         {

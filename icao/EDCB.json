@@ -46,16 +46,16 @@
             "id": "310110",
             "airport_ref": "28519",
             "airport_ident": "EDCB",
-            "type": "GE",
-            "description": "Ballenstedt Info",
-            "frequency_mhz": "0"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
         },
         {
             "id": "315838",
             "airport_ref": "28519",
             "airport_ident": "EDCB",
             "type": "INFO",
-            "description": "Ballenstedt Info",
+            "description": "Ballenstedt Radio",
             "frequency_mhz": "122.705"
         }
     ],

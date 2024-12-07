@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "562282",
+            "airport_ref": "29085",
+            "airport_ident": "EDPU",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

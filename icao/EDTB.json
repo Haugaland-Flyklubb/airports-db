@@ -69,7 +69,7 @@
             "airport_ref": "2272",
             "airport_ident": "EDTB",
             "type": "AFIS",
-            "description": "LANGEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "128.95"
         },
         {
@@ -77,16 +77,16 @@
             "airport_ref": "2272",
             "airport_ident": "EDTB",
             "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "121"
+            "description": "Oos Radio",
+            "frequency_mhz": "125.915"
         },
         {
             "id": "53193",
             "airport_ref": "2272",
             "airport_ident": "EDTB",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "125.875"
+            "description": "Baden Tower / Turm",
+            "frequency_mhz": "134.105"
         }
     ],
     "country": {

@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Betzdorf-Kirchen",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "562488",
+            "airport_ref": "28524",
+            "airport_ident": "EDKI",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "562489",
+            "airport_ref": "28524",
+            "airport_ident": "EDKI",
+            "type": "Info",
+            "description": "Betzdorf Radio",
+            "frequency_mhz": "122.23"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

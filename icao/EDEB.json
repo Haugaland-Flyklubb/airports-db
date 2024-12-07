@@ -19,11 +19,19 @@
     "keywords": "Flugplatz Bad Langensalza",
     "freqs": [
         {
+            "id": "562262",
+            "airport_ref": "29070",
+            "airport_ident": "EDEB",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
             "id": "511825",
             "airport_ref": "29070",
             "airport_ident": "EDEB",
-            "type": "A/G",
-            "description": "",
+            "type": "Info",
+            "description": "Bad Langensalza Radio",
             "frequency_mhz": "125.365"
         }
     ],

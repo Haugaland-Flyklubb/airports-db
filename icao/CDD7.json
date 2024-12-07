@@ -1,0 +1,62 @@
+{
+    "id": "562374",
+    "ident": "CDD7",
+    "type": "heliport",
+    "name": "Didsbury District Health Services Heliport",
+    "latitude_deg": "51.661693",
+    "longitude_deg": "-114.122919",
+    "elevation_ft": "3374",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Didsbury",
+    "scheduled_service": "no",
+    "gps_code": "CDD7",
+    "iata_code": "",
+    "local_code": "CDD7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "562375",
+            "airport_ref": "562374",
+            "airport_ident": "CDD7",
+            "length_ft": "86",
+            "width_ft": "86",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": "Albertan airports"
+    }
+}

@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Beilngries",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "562474",
+            "airport_ref": "28522",
+            "airport_ident": "EDNC",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "562475",
+            "airport_ref": "28522",
+            "airport_ident": "EDNC",
+            "type": "Info",
+            "description": "Beilingen Radio",
+            "frequency_mhz": "118.355"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

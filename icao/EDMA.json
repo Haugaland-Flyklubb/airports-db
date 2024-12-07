@@ -65,20 +65,20 @@
     ],
     "freqs": [
         {
+            "id": "53149",
+            "airport_ref": "2248",
+            "airport_ident": "EDMA",
+            "type": "AFIS",
+            "description": "LANGEN INFORMATION",
+            "frequency_mhz": "120.65"
+        },
+        {
             "id": "53148",
             "airport_ref": "2248",
             "airport_ident": "EDMA",
             "type": "ATIS",
             "description": "ATIS",
             "frequency_mhz": "119.665"
-        },
-        {
-            "id": "53149",
-            "airport_ref": "2248",
-            "airport_ident": "EDMA",
-            "type": "INFORMATIION",
-            "description": "LANGEN INFORMATION",
-            "frequency_mhz": "120.65"
         },
         {
             "id": "53150",
@@ -93,8 +93,16 @@
             "airport_ref": "2248",
             "airport_ident": "EDMA",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.975"
+            "description": "Augsburg Tower / Augsburg Turm",
+            "frequency_mhz": "124.98"
+        },
+        {
+            "id": "562248",
+            "airport_ref": "2248",
+            "airport_ident": "EDMA",
+            "type": "VDF",
+            "description": "Augsburg Tower / Augsburg Turm",
+            "frequency_mhz": "124.98"
         }
     ],
     "country": {

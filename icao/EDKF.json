@@ -17,6 +17,24 @@
     "home_link": "https://www.lsc-duempel.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bergneustadt_Auf_dem_D%C3%BCmpel",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "562478",
+            "airport_ref": "505117",
+            "airport_ident": "EDKF",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "562479",
+            "airport_ref": "505117",
+            "airport_ident": "EDKF",
+            "type": "Info",
+            "description": "Bergneustadt Radio",
+            "frequency_mhz": "125.84"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

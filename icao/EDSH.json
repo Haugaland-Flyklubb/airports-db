@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "562249",
+            "airport_ref": "28506",
+            "airport_ident": "EDSH",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
             "id": "308108",
             "airport_ref": "28506",
             "airport_ident": "EDSH",
             "type": "Info",
-            "description": "Backnang Info",
+            "description": "Backnang Radio",
             "frequency_mhz": "123.71"
         }
     ],

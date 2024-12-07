@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "562259",
+            "airport_ref": "314001",
+            "airport_ident": "EDEN",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
             "id": "317812",
             "airport_ref": "314001",
             "airport_ident": "EDEN",
             "type": "Info",
-            "description": "",
+            "description": "Hersfeld Radio",
             "frequency_mhz": "119.005"
         }
     ],

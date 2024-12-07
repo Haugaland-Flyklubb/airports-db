@@ -1,0 +1,62 @@
+{
+    "id": "562355",
+    "ident": "CAD9",
+    "type": "heliport",
+    "name": "Norwood Dale Field",
+    "latitude_deg": "44.526492",
+    "longitude_deg": "-79.634725",
+    "elevation_ft": "1214",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Coulson",
+    "scheduled_service": "no",
+    "gps_code": "CAD9",
+    "iata_code": "",
+    "local_code": "CAD9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "562356",
+            "airport_ref": "562355",
+            "airport_ident": "CAD9",
+            "length_ft": "60",
+            "width_ft": "50",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": "Airports in Ontario"
+    }
+}

@@ -17,6 +17,24 @@
     "home_link": "http://www.edpc.de/Willkommen.html",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bad_Endorf/Jolling",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "562253",
+            "airport_ref": "29678",
+            "airport_ident": "EDPC",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "562254",
+            "airport_ref": "29678",
+            "airport_ident": "EDPC",
+            "type": "Info",
+            "description": "Endorf Radio",
+            "frequency_mhz": "118.915"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

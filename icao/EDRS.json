@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bad_Sobernheim-Domberg",
     "keywords": "Flugplatz Bad Sobernheim-Domberg",
+    "freqs": [
+        {
+            "id": "562269",
+            "airport_ref": "28729",
+            "airport_ident": "EDRS",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "562270",
+            "airport_ref": "28729",
+            "airport_ident": "EDRS",
+            "type": "Info",
+            "description": "Sobernheim Radio",
+            "frequency_mhz": "118.93"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

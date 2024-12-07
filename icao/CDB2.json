@@ -1,0 +1,38 @@
+{
+    "id": "562371",
+    "ident": "CDB2",
+    "type": "heliport",
+    "name": "DeBolt Fire Hall Heliport",
+    "latitude_deg": "55.217234",
+    "longitude_deg": "-118.029302",
+    "elevation_ft": "2093",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "DeBolt",
+    "scheduled_service": "no",
+    "gps_code": "CDB2",
+    "iata_code": "",
+    "local_code": "CDB2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": "Albertan airports"
+    }
+}

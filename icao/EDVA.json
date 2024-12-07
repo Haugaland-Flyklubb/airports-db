@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bad_Gandersheim_Aerodrome",
     "keywords": "Gandersheim-Seesen",
+    "freqs": [
+        {
+            "id": "562257",
+            "airport_ref": "28511",
+            "airport_ident": "EDVA",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "562258",
+            "airport_ref": "28511",
+            "airport_ident": "EDVA",
+            "type": "Info",
+            "description": "Gandersheim Radio",
+            "frequency_mhz": "123.005"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

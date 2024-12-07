@@ -19,12 +19,28 @@
     "keywords": "",
     "freqs": [
         {
+            "id": "562271",
+            "airport_ref": "28517",
+            "airport_ident": "EDQB",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
             "id": "510474",
             "airport_ref": "28517",
             "airport_ident": "EDQB",
             "type": "INFO",
-            "description": "",
+            "description": "Windsheim Radio",
             "frequency_mhz": "118.26"
+        },
+        {
+            "id": "562272",
+            "airport_ref": "28517",
+            "airport_ident": "EDQB",
+            "type": "TWR",
+            "description": "Illeshaim Tower / Turm",
+            "frequency_mhz": "129.85"
         }
     ],
     "country": {

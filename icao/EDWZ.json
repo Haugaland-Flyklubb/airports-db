@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "562275",
+            "airport_ref": "28520",
+            "airport_ident": "EDWZ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
+        },
+        {
+            "id": "562276",
+            "airport_ref": "28520",
+            "airport_ident": "EDWZ",
+            "type": "Info",
+            "description": "Baltrum Radio",
+            "frequency_mhz": "132.015"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

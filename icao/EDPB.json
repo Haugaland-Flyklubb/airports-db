@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bad_Ditzenbach",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "562251",
+            "airport_ref": "28508",
+            "airport_ident": "EDPB",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "562252",
+            "airport_ref": "28508",
+            "airport_ident": "EDPB",
+            "type": "Info",
+            "description": "Ditzenbach Radio",
+            "frequency_mhz": "135.985"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -69,16 +69,24 @@
             "airport_ref": "2183",
             "airport_ident": "EDAB",
             "type": "AFIS",
-            "description": "MUNCHEN RADAR",
-            "frequency_mhz": "125.625"
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "562285",
+            "airport_ref": "2183",
+            "airport_ident": "EDAB",
+            "type": "ATIS",
+            "description": "Bautzen ATIS",
+            "frequency_mhz": "123.29"
         },
         {
             "id": "52829",
             "airport_ref": "2183",
             "airport_ident": "EDAB",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "129.15"
+            "type": "INFORMATION",
+            "description": "Bautzen Information",
+            "frequency_mhz": "120.605"
         }
     ],
     "country": {

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "562279",
+            "airport_ref": "28521",
+            "airport_ident": "EDXL",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
+        },
+        {
+            "id": "562280",
+            "airport_ref": "28521",
+            "airport_ident": "EDXL",
+            "type": "Info",
+            "description": "Brassel Radio",
+            "frequency_mhz": "129.135"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

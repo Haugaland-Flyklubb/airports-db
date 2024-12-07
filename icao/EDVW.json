@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bad_Pyrmont",
     "keywords": "Flugplatz Hameln-Pyrmont, Hameln-Pyrmont",
+    "freqs": [
+        {
+            "id": "562266",
+            "airport_ref": "28516",
+            "airport_ident": "EDVW",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "562267",
+            "airport_ref": "28516",
+            "airport_ident": "EDVW",
+            "type": "Info",
+            "description": "Pyrmont Radio",
+            "frequency_mhz": "121.18"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

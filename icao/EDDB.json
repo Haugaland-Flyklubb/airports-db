@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "562480",
+            "airport_ref": "301881",
+            "airport_ident": "EDDB",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "562482",
+            "airport_ref": "301881",
+            "airport_ident": "EDDB",
+            "type": "ATIS",
+            "description": "Berlin ATIS",
+            "frequency_mhz": "123.78"
+        },
+        {
+            "id": "562485",
+            "airport_ref": "301881",
+            "airport_ident": "EDDB",
+            "type": "ATIS",
+            "description": "Berlin VFR ATIS",
+            "frequency_mhz": "133.63"
+        },
+        {
+            "id": "562486",
+            "airport_ref": "301881",
+            "airport_ident": "EDDB",
+            "type": "GND",
+            "description": "Berlin Ground",
+            "frequency_mhz": "129.505"
+        },
+        {
+            "id": "562484",
+            "airport_ref": "301881",
+            "airport_ident": "EDDB",
+            "type": "TWR",
+            "description": "Berlin Tower (Süd)",
+            "frequency_mhz": "118.805"
+        },
+        {
+            "id": "562483",
+            "airport_ref": "301881",
+            "airport_ident": "EDDB",
+            "type": "TWR",
+            "description": "Berlin Tower (Nord)",
+            "frequency_mhz": "120.03"
+        },
+        {
+            "id": "562481",
+            "airport_ref": "301881",
+            "airport_ident": "EDDB",
+            "type": "VOLMET",
+            "description": "Berlin Volmet",
+            "frequency_mhz": "128.405"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

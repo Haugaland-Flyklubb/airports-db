@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "562260",
+            "airport_ref": "28512",
+            "airport_ident": "EDFK",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "562261",
+            "airport_ref": "28512",
+            "airport_ident": "EDFK",
+            "type": "Info",
+            "description": "Bad Kissingen Radio",
+            "frequency_mhz": "124.755"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

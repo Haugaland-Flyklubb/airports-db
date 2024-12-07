@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "562244",
+            "airport_ref": "28504",
+            "airport_ident": "EDKU",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
             "id": "299162",
             "airport_ref": "28504",
             "airport_ident": "EDKU",
             "type": "INFO",
-            "description": "ATTENDORN INFO",
+            "description": "ATTENDORN RADIO",
             "frequency_mhz": "121.405"
         }
     ],
