@@ -1,0 +1,38 @@
+{
+    "id": "562974",
+    "ident": "GB-1168",
+    "type": "heliport",
+    "name": "Milton Keynes University Hospital Heliport",
+    "latitude_deg": "52.025499",
+    "longitude_deg": "-0.734462",
+    "elevation_ft": "249",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Milton Keynes, Buckinghamshire",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": "English airports"
+    }
+}
