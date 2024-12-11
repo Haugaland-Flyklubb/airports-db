@@ -1,0 +1,38 @@
+{
+    "id": "563306",
+    "ident": "ES-0351",
+    "type": "heliport",
+    "name": "El Cabril Heliport",
+    "latitude_deg": "38.075984",
+    "longitude_deg": "-5.414768",
+    "elevation_ft": "1356",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AN",
+    "municipality": "El Cabril",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303729",
+        "code": "ES-AN",
+        "local_code": "AN",
+        "name": "Andalucía",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
+        "keywords": "Airports in Andalucía"
+    }
+}
