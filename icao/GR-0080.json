@@ -2,21 +2,21 @@
     "id": "514703",
     "ident": "GR-0080",
     "type": "heliport",
-    "name": "Megisti Lavra Heliport",
+    "name": "Megisti Lavra Monastery Heliport",
     "latitude_deg": "40.17149",
     "longitude_deg": "24.38132",
     "elevation_ft": "525",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-B",
-    "municipality": "Agio Oros",
+    "iso_region": "GR-AO",
+    "municipality": "Agio Oros (Mount Athos)",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Great Lavra",
     "country": {
         "id": "302691",
         "code": "GR",
@@ -26,13 +26,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "430179",
-        "code": "GR-B",
-        "local_code": "B",
-        "name": "Central Macedonia",
+        "id": "563555",
+        "code": "GR-AO",
+        "local_code": "AO",
+        "name": "Agio Oros (Mount Athos)",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Macedonia",
-        "keywords": "Κεντρική Μακεδονία"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Monastic_community_of_Mount_Athos",
+        "keywords": "Holy Mountain, Monastic Community of Mount Athos"
     }
 }
