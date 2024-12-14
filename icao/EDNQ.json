@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bopfingen",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "563971",
+            "airport_ref": "28533",
+            "airport_ident": "EDNQ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "563972",
+            "airport_ref": "28533",
+            "airport_ident": "EDNQ",
+            "type": "Info",
+            "description": "Bopfingen Radio",
+            "frequency_mhz": "123.19"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -43,10 +43,18 @@
     ],
     "freqs": [
         {
+            "id": "563973",
+            "airport_ref": "28536",
+            "airport_ident": "EDLB",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
             "id": "75297",
             "airport_ref": "28536",
             "airport_ident": "EDLB",
-            "type": "TOWER / RADIO",
+            "type": "Info",
             "description": "Borkenberge Radio",
             "frequency_mhz": "135.005"
         }

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "563980",
+            "airport_ref": "28538",
+            "airport_ident": "EDGB",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "563981",
+            "airport_ref": "28538",
+            "airport_ident": "EDGB",
+            "type": "Info",
+            "description": "Breitscheid Radio",
+            "frequency_mhz": "122.53"
+        },
+        {
+            "id": "563982",
+            "airport_ref": "28538",
+            "airport_ident": "EDGB",
+            "type": "Listneing Watch",
+            "description": "Siegerland Information",
+            "frequency_mhz": "120.38"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

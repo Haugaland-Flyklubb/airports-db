@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bottenhorn",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "563976",
+            "airport_ref": "28537",
+            "airport_ident": "EDGT",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "563977",
+            "airport_ref": "28537",
+            "airport_ident": "EDGT",
+            "type": "Info",
+            "description": "Bottenhorn Radio",
+            "frequency_mhz": "132.81"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

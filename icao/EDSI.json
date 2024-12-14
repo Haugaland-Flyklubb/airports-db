@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "563955",
+            "airport_ref": "28526",
+            "airport_ident": "EDSI",
+            "type": "FIS",
+            "description": "FIS Zürich",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "563956",
+            "airport_ref": "28526",
+            "airport_ident": "EDSI",
+            "type": "Info",
+            "description": "Binningen Radio",
+            "frequency_mhz": "124.535"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

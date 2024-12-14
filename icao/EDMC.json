@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "345"
         }
     ],
+    "freqs": [
+        {
+            "id": "563958",
+            "airport_ref": "28527",
+            "airport_ident": "EDMC",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.925"
+        },
+        {
+            "id": "563959",
+            "airport_ref": "28527",
+            "airport_ident": "EDMC",
+            "type": "Info",
+            "description": "Blaubeuren Radio",
+            "frequency_mhz": "130.661"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

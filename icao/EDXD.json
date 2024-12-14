@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bohmte-Bad_Essen",
     "keywords": "Flugplatz Bohmte-Bad Essen",
+    "freqs": [
+        {
+            "id": "563967",
+            "airport_ref": "28531",
+            "airport_ident": "EDXD",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "563968",
+            "airport_ref": "28531",
+            "airport_ident": "EDXD",
+            "type": "Info",
+            "description": "Boehmte Radio",
+            "frequency_mhz": "118.985"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

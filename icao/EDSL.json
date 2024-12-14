@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "563963",
+            "airport_ref": "28529",
+            "airport_ident": "EDSL",
+            "type": "FIS",
+            "description": "Zürich Information",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "563964",
+            "airport_ref": "28529",
+            "airport_ident": "EDSL",
+            "type": "Info",
+            "description": "Blumberg Radio",
+            "frequency_mhz": "135.005"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

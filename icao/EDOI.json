@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "563954",
+            "airport_ref": "28525",
+            "airport_ident": "EDOI",
+            "type": "ATIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
             "id": "324813",
             "airport_ref": "28525",
             "airport_ident": "EDOI",
             "type": "INFO",
-            "description": "Bienenfarm Info",
-            "frequency_mhz": "122.85"
+            "description": "Bienenfarm Radio",
+            "frequency_mhz": "134.99"
         }
     ],
     "country": {
