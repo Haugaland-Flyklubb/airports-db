@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hobart_Barracks",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "564220",
+            "airport_ref": "29826",
+            "airport_ident": "EDLJ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "564221",
+            "airport_ref": "29826",
+            "airport_ident": "EDLJ",
+            "type": "Info",
+            "description": "Detmold Radio",
+            "frequency_mhz": "135.06"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

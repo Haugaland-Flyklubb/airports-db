@@ -43,20 +43,28 @@
     ],
     "freqs": [
         {
+            "id": "317895",
+            "airport_ref": "28544",
+            "airport_ident": "EDQC",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "564206",
+            "airport_ref": "28544",
+            "airport_ident": "EDQC",
+            "type": "ATIS",
+            "description": "Coburg ATIS",
+            "frequency_mhz": "120.1"
+        },
+        {
             "id": "317893",
             "airport_ref": "28544",
             "airport_ident": "EDQC",
             "type": "INFO",
-            "description": "COBURG INFO",
-            "frequency_mhz": "128.675"
-        },
-        {
-            "id": "317895",
-            "airport_ref": "28544",
-            "airport_ident": "EDQC",
-            "type": "INFORMATION",
-            "description": "MUNICH INFORMATION",
-            "frequency_mhz": "125.8"
+            "description": "COBURG INFORMATION",
+            "frequency_mhz": "128.68"
         },
         {
             "id": "317894",

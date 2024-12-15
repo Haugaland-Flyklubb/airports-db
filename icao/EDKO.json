@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "564195",
+            "airport_ref": "28540",
+            "airport_ident": "EDKO",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "564196",
+            "airport_ref": "28540",
+            "airport_ident": "EDKO",
+            "type": "Info",
+            "description": "Brilon Radio",
+            "frequency_mhz": "129.38"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

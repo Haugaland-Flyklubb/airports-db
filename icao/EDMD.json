@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "672"
         }
     ],
+    "freqs": [
+        {
+            "id": "564211",
+            "airport_ref": "28547",
+            "airport_ident": "EDMD",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "564212",
+            "airport_ref": "28547",
+            "airport_ident": "EDMD",
+            "type": "Info",
+            "description": "Dachau Radio",
+            "frequency_mhz": "133.01"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

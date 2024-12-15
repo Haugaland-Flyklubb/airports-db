@@ -69,8 +69,16 @@
             "airport_ref": "2225",
             "airport_ident": "EDDW",
             "type": "AFIS",
-            "description": "LANGEN INFORMATION",
+            "description": "Langen Information",
             "frequency_mhz": "125.1"
+        },
+        {
+            "id": "564189",
+            "airport_ref": "2225",
+            "airport_ident": "EDDW",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
         },
         {
             "id": "52824",
@@ -85,24 +93,40 @@
             "airport_ref": "2225",
             "airport_ident": "EDDW",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "117.45"
+            "description": "Bremen ATIS",
+            "frequency_mhz": "132.38"
         },
         {
             "id": "52826",
             "airport_ref": "2225",
             "airport_ident": "EDDW",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.75"
+            "description": "Bremen Ground",
+            "frequency_mhz": "121.755"
         },
         {
             "id": "52827",
             "airport_ref": "2225",
             "airport_ident": "EDDW",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.325"
+            "description": "Bremen Tower",
+            "frequency_mhz": "120.33"
+        },
+        {
+            "id": "564191",
+            "airport_ref": "2225",
+            "airport_ident": "EDDW",
+            "type": "TWR",
+            "description": "Bremen Tower",
+            "frequency_mhz": "134.83"
+        },
+        {
+            "id": "564190",
+            "airport_ref": "2225",
+            "airport_ident": "EDDW",
+            "type": "VOLMET",
+            "description": "Bremen VOLMET",
+            "frequency_mhz": "147.41"
         }
     ],
     "country": {

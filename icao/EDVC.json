@@ -47,16 +47,24 @@
             "airport_ref": "28542",
             "airport_ident": "EDVC",
             "type": "AFIS",
-            "description": "Arloh Info",
-            "frequency_mhz": "123.65"
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "564204",
+            "airport_ref": "28542",
+            "airport_ident": "EDVC",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
         },
         {
             "id": "326506",
             "airport_ref": "28542",
             "airport_ident": "EDVC",
-            "type": "TWR",
-            "description": "Celle Tower",
-            "frequency_mhz": "118.25"
+            "type": "Info",
+            "description": "Arloh Radio",
+            "frequency_mhz": "123.655"
         }
     ],
     "country": {

@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "564205",
+            "airport_ref": "29067",
+            "airport_ident": "EDCJ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
             "id": "336315",
             "airport_ref": "29067",
             "airport_ident": "EDCJ",
             "type": "INFO",
-            "description": "Jahnsdorf Info",
+            "description": "Jahnsdorf Radio",
             "frequency_mhz": "132.74"
         }
     ],

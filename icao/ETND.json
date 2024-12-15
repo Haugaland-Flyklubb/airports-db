@@ -43,28 +43,28 @@
     ],
     "freqs": [
         {
-            "id": "53194",
-            "airport_ref": "2735",
-            "airport_ident": "ETND",
-            "type": "ACC",
-            "description": "BREMEN CON",
-            "frequency_mhz": "124.65"
-        },
-        {
             "id": "53195",
             "airport_ref": "2735",
             "airport_ident": "ETND",
             "type": "AFIS",
-            "description": "BREMEN INFO",
-            "frequency_mhz": "119.825"
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "53194",
+            "airport_ref": "2735",
+            "airport_ident": "ETND",
+            "type": "Info",
+            "description": "Diepholz Radio",
+            "frequency_mhz": "122.53"
         },
         {
             "id": "53196",
             "airport_ref": "2735",
             "airport_ident": "ETND",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
+            "description": "Diepholz Tower",
+            "frequency_mhz": "135.13"
         }
     ],
     "country": {

@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "564215",
+            "airport_ref": "28548",
+            "airport_ident": "EDWC",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
             "id": "309847",
             "airport_ref": "28548",
             "airport_ident": "EDWC",
             "type": "INFO",
-            "description": "Damme Info",
-            "frequency_mhz": "133.3"
+            "description": "Damme Radio",
+            "frequency_mhz": "133.305"
         }
     ],
     "country": {

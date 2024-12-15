@@ -43,12 +43,28 @@
     ],
     "freqs": [
         {
+            "id": "564207",
+            "airport_ref": "28545",
+            "airport_ident": "EDQY",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "564209",
+            "airport_ref": "28545",
+            "airport_ident": "EDQY",
+            "type": "AFIS",
+            "description": "COBURG INFORMATION",
+            "frequency_mhz": "128.68"
+        },
+        {
             "id": "317897",
             "airport_ref": "28545",
             "airport_ident": "EDQY",
             "type": "INFO",
-            "description": "STEINRUECKEN INFO",
-            "frequency_mhz": "129.8"
+            "description": "STEINRUECKEN RADIO",
+            "frequency_mhz": "129.805"
         }
     ],
     "country": {
