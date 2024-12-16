@@ -46,17 +46,17 @@
             "id": "52743",
             "airport_ref": "2190",
             "airport_ident": "EDAQ",
-            "type": "AAS",
-            "description": "München Information",
+            "type": "FIS",
+            "description": "Langen Information",
             "frequency_mhz": "125.8"
         },
         {
             "id": "52744",
             "airport_ref": "2190",
             "airport_ident": "EDAQ",
-            "type": "INFO",
-            "description": "OPPIN INFO",
-            "frequency_mhz": "135.15"
+            "type": "Radio",
+            "description": "OPPIN Radio",
+            "frequency_mhz": "135.155"
         },
         {
             "id": "52745",

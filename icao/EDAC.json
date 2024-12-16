@@ -43,19 +43,19 @@
     ],
     "freqs": [
         {
-            "id": "52857",
+            "id": "52860",
             "airport_ref": "2184",
             "airport_ident": "EDAC",
-            "type": "AAS",
-            "description": "INFO",
-            "frequency_mhz": "123.575"
+            "type": "AFIS",
+            "description": "Altenburg Information",
+            "frequency_mhz": "123.58"
         },
         {
             "id": "52858",
             "airport_ref": "2184",
             "airport_ident": "EDAC",
-            "type": "INFO",
-            "description": "MUNCHEN INFO",
+            "type": "FIS",
+            "description": "Langen Information",
             "frequency_mhz": "125.8"
         },
         {
@@ -64,15 +64,7 @@
             "airport_ident": "EDAC",
             "type": "RDR",
             "description": "MUNCHEN RADAR",
-            "frequency_mhz": "132.3"
-        },
-        {
-            "id": "52860",
-            "airport_ref": "2184",
-            "airport_ident": "EDAC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.575"
+            "frequency_mhz": "126.175"
         }
     ],
     "country": {

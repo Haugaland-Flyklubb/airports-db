@@ -2,7 +2,7 @@
     "id": "2193",
     "ident": "EDAX",
     "type": "small_airport",
-    "name": "Rechlin-Lärz Airport",
+    "name": "MUERITZ AIRPARK",
     "latitude_deg": "53.306389",
     "longitude_deg": "12.752222",
     "elevation_ft": "220",
@@ -43,20 +43,20 @@
     ],
     "freqs": [
         {
-            "id": "52997",
-            "airport_ref": "2193",
-            "airport_ident": "EDAX",
-            "type": "INFO",
-            "description": "LARZ INFO",
-            "frequency_mhz": "129.975"
-        },
-        {
             "id": "52998",
             "airport_ref": "2193",
             "airport_ident": "EDAX",
-            "type": "INFO",
-            "description": "BERLIN INFO",
+            "type": "FIS",
+            "description": "LANGEN INFORMATION",
             "frequency_mhz": "132.65"
+        },
+        {
+            "id": "52997",
+            "airport_ref": "2193",
+            "airport_ident": "EDAX",
+            "type": "Radio",
+            "description": "MUERITZ RADIO",
+            "frequency_mhz": "118.99"
         }
     ],
     "country": {
