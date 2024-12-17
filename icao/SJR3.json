@@ -1,0 +1,62 @@
+{
+    "id": "564701",
+    "ident": "SJR3",
+    "type": "small_airport",
+    "name": "Fazenda Caaguassu Airport",
+    "latitude_deg": "-12.28",
+    "longitude_deg": "-54.124722",
+    "elevation_ft": "1168",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Nova Ubiratã",
+    "scheduled_service": "no",
+    "gps_code": "SJR3",
+    "iata_code": "",
+    "local_code": "MT0936",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "564702",
+            "airport_ref": "564701",
+            "airport_ident": "SJR3",
+            "length_ft": "4593",
+            "width_ft": "75",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303211",
+        "code": "BR-MT",
+        "local_code": "MT",
+        "name": "Mato Grosso",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
+        "keywords": "Airports in Mato Grosso"
+    }
+}
