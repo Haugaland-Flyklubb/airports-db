@@ -1,20 +1,20 @@
 {
     "id": "315585",
     "ident": "DE-0243",
-    "type": "small_airport",
-    "name": "Völkleshofen Airfield",
-    "latitude_deg": "49.0094",
-    "longitude_deg": "9.3542",
-    "elevation_ft": "1305",
+    "type": "heliport",
+    "name": "Lobeda Heliport",
+    "latitude_deg": "50.89538",
+    "longitude_deg": "11.6027",
+    "elevation_ft": "492",
     "continent": "EU",
     "iso_country": "DE",
-    "iso_region": "DE-BW",
-    "municipality": "Aspach",
+    "iso_region": "DE-TH",
+    "municipality": "Jena",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
-    "home_link": "http://www.sfgbacknang.de/",
+    "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
     "freqs": [
@@ -36,13 +36,13 @@
         "keywords": "Flughäfen in Deutschland"
     },
     "region": {
-        "id": "303549",
-        "code": "DE-BW",
-        "local_code": "BW",
-        "name": "Baden-Württemberg",
+        "id": "303562",
+        "code": "DE-TH",
+        "local_code": "TH",
+        "name": "Thuringia",
         "continent": "EU",
         "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
-        "keywords": "Baden-Wuerttemberg"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thuringia",
+        "keywords": "Thueringen, Freistaat Thüringen"
     }
 }

@@ -2,14 +2,14 @@
     "id": "547941",
     "ident": "EDSX",
     "type": "small_airport",
-    "name": "Voelkleshofen-Lichtenberg Field",
-    "latitude_deg": "49.00946",
-    "longitude_deg": "9.354766",
+    "name": "Völkleshofen-Lichtenberg Airfield",
+    "latitude_deg": "49.009332",
+    "longitude_deg": "9.354601",
     "elevation_ft": "1301",
     "continent": "EU",
     "iso_country": "DE",
-    "iso_region": "DE-U-A",
-    "municipality": "",
+    "iso_region": "DE-BW",
+    "municipality": "Aspach",
     "scheduled_service": "no",
     "gps_code": "EDSX",
     "iata_code": "",
@@ -50,13 +50,13 @@
         "keywords": "Flughäfen in Deutschland"
     },
     "region": {
-        "id": "303563",
-        "code": "DE-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
         "continent": "EU",
         "iso_country": "DE",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
     }
 }

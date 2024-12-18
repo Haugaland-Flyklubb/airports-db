@@ -1,0 +1,62 @@
+{
+    "id": "564905",
+    "ident": "BR-1266",
+    "type": "heliport",
+    "name": "Veja Heliport",
+    "latitude_deg": "-2.525524",
+    "longitude_deg": "-44.125453",
+    "elevation_ft": "138",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MA",
+    "municipality": "Paço do Lumiar",
+    "scheduled_service": "no",
+    "gps_code": "SSYG",
+    "iata_code": "",
+    "local_code": "MA0072",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "564906",
+            "airport_ref": "564905",
+            "airport_ident": "BR-1266",
+            "length_ft": "64",
+            "width_ft": "64",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303208",
+        "code": "BR-MA",
+        "local_code": "MA",
+        "name": "Maranhão",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maranhão",
+        "keywords": "Airports in Maranhão"
+    }
+}
