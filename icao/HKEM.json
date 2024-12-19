@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Embu_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "565176",
+            "airport_ref": "31580",
+            "airport_ident": "HKEM",
+            "length_ft": "5246",
+            "width_ft": "65",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "4173",
+            "le_heading_degT": "140",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "4173",
+            "he_heading_degT": "320",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302579",
         "code": "KE",
