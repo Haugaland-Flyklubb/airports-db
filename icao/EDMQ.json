@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "566739",
+            "airport_ref": "28554",
+            "airport_ident": "EDMQ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "566740",
+            "airport_ref": "28554",
+            "airport_ident": "EDMQ",
+            "type": "AFIS",
+            "description": "AIRBUS INFORMATION",
+            "frequency_mhz": "122.055"
+        },
+        {
+            "id": "566741",
+            "airport_ref": "28554",
+            "airport_ident": "EDMQ",
+            "type": "ATIS",
+            "description": "AIRBUS ATIS",
+            "frequency_mhz": "124.33"
+        },
+        {
+            "id": "566742",
+            "airport_ref": "28554",
+            "airport_ident": "EDMQ",
+            "type": "INFO",
+            "description": "Genderkingen Radio",
+            "frequency_mhz": "134.13"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

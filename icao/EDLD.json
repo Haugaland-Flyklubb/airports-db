@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "566736",
+            "airport_ref": "28553",
+            "airport_ident": "EDLD",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "566737",
+            "airport_ref": "28553",
+            "airport_ident": "EDLD",
+            "type": "INFO",
+            "description": "Dinslaken Radio",
+            "frequency_mhz": "122.705"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

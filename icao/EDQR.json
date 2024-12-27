@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "566785",
+            "airport_ref": "28556",
+            "airport_ident": "EDQR",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
             "id": "317930",
             "airport_ref": "28556",
             "airport_ident": "EDQR",
             "type": "INFO",
-            "description": "EBERN-SENDELBACH INFO",
-            "frequency_mhz": "122.5"
+            "description": "Ebern Radio",
+            "frequency_mhz": "118.005"
         }
     ],
     "country": {

@@ -43,10 +43,18 @@
     ],
     "freqs": [
         {
+            "id": "566743",
+            "airport_ref": "28555",
+            "airport_ident": "EDPM",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
             "id": "508543",
             "airport_ref": "28555",
             "airport_ident": "EDPM",
-            "type": "TWR",
+            "type": "INFO",
             "description": "Donzdorf Radio",
             "frequency_mhz": "118.205"
         }

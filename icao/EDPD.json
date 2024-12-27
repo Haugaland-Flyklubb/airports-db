@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Dingolfing",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "566730",
+            "airport_ref": "28551",
+            "airport_ident": "EDPD",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "566731",
+            "airport_ref": "28551",
+            "airport_ident": "EDPD",
+            "type": "INFO",
+            "description": "Dingolfing Radio",
+            "frequency_mhz": "125.615"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

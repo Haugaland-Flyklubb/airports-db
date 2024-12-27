@@ -63,7 +63,7 @@
             "airport_ref": "2210",
             "airport_ident": "EDDC",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "Dresden ATIS",
             "frequency_mhz": "118.88"
         },
         {
@@ -71,7 +71,7 @@
             "airport_ref": "2210",
             "airport_ident": "EDDC",
             "type": "GND",
-            "description": "DRESDEN GROUND",
+            "description": "DRESDEN GROUND / ROLLKOKNTROLLE",
             "frequency_mhz": "121.98"
         },
         {
@@ -79,7 +79,7 @@
             "airport_ref": "2210",
             "airport_ident": "EDDC",
             "type": "RMP",
-            "description": "DRESDEN APRON",
+            "description": "DRESDEN APRON / VORFELD",
             "frequency_mhz": "121.755"
         },
         {
@@ -87,7 +87,7 @@
             "airport_ref": "2210",
             "airport_ident": "EDDC",
             "type": "TWR",
-            "description": "DRESDEN TOWER",
+            "description": "DRESDEN TOWER / TURM",
             "frequency_mhz": "122.93"
         }
     ],

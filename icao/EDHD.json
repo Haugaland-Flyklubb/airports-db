@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_G%C3%B6ttingen-Heilbad_Heiligenstadt",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "566795",
+            "airport_ref": "308604",
+            "airport_ident": "EDHD",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "566796",
+            "airport_ref": "308604",
+            "airport_ident": "EDHD",
+            "type": "INFO",
+            "description": "Eichsfeld Radio",
+            "frequency_mhz": "124.03"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

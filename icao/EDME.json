@@ -47,7 +47,7 @@
             "airport_ref": "2250",
             "airport_ident": "EDME",
             "type": "AFIS",
-            "description": "MUNCHEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "120.65"
         },
         {
@@ -55,15 +55,15 @@
             "airport_ref": "2250",
             "airport_ident": "EDME",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "125.075"
+            "description": "Eggenfelden ATIS",
+            "frequency_mhz": "125.08"
         },
         {
             "id": "52738",
             "airport_ref": "2250",
             "airport_ident": "EDME",
             "type": "INFO",
-            "description": "INFO",
+            "description": "Eggenfelden Information",
             "frequency_mhz": "120.305"
         }
     ],

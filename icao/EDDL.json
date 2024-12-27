@@ -73,6 +73,14 @@
             "frequency_mhz": "128.55"
         },
         {
+            "id": "52985",
+            "airport_ref": "2217",
+            "airport_ident": "EDDL",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
             "id": "52981",
             "airport_ref": "2217",
             "airport_ident": "EDDL",
@@ -85,7 +93,7 @@
             "airport_ref": "2217",
             "airport_ident": "EDDL",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "Duesseldorf ATIS",
             "frequency_mhz": "123.78"
         },
         {
@@ -97,20 +105,20 @@
             "frequency_mhz": "121.775"
         },
         {
+            "id": "566747",
+            "airport_ref": "2217",
+            "airport_ident": "EDDL",
+            "type": "DELIVERY",
+            "description": "Duesseldorf Delivery",
+            "frequency_mhz": "121.78"
+        },
+        {
             "id": "52984",
             "airport_ref": "2217",
             "airport_ident": "EDDL",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "52985",
-            "airport_ref": "2217",
-            "airport_ident": "EDDL",
-            "type": "INFO",
-            "description": "LANGEN INFO",
-            "frequency_mhz": "129.875"
+            "description": "Duesseldorf Ground / Rollkontrolle",
+            "frequency_mhz": "121.905"
         },
         {
             "id": "52986",
@@ -125,8 +133,8 @@
             "airport_ref": "2217",
             "airport_ident": "EDDL",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
+            "description": "Duesseldorf Tower / Turm",
+            "frequency_mhz": "118.305"
         }
     ],
     "country": {

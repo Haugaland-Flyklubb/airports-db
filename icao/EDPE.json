@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Eichst%C3%A4tt",
     "keywords": "Flugplatz Eichstätt",
+    "freqs": [
+        {
+            "id": "566798",
+            "airport_ref": "28558",
+            "airport_ident": "EDPE",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "566799",
+            "airport_ref": "28558",
+            "airport_ident": "EDPE",
+            "type": "INFO",
+            "description": "Eichstaett Radio",
+            "frequency_mhz": "123.005"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -47,16 +47,16 @@
             "airport_ref": "2273",
             "airport_ident": "EDTD",
             "type": "AFIS",
-            "description": "ZURICH INFO",
+            "description": "ZURICH INFORMATION",
             "frequency_mhz": "120.7"
         },
         {
             "id": "53130",
             "airport_ref": "2273",
             "airport_ident": "EDTD",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "124.25"
+            "type": "FIS",
+            "description": "Donaueschingen Information",
+            "frequency_mhz": "126.69"
         }
     ],
     "country": {

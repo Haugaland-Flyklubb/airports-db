@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Dinkelsb%C3%BChl-Sinbronn",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "566734",
+            "airport_ref": "28552",
+            "airport_ident": "EDND",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "566735",
+            "airport_ref": "28552",
+            "airport_ident": "EDND",
+            "type": "INFO",
+            "description": "Dingelsbuehl Radio",
+            "frequency_mhz": "134.535"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

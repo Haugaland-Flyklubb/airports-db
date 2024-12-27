@@ -47,7 +47,7 @@
             "airport_ref": "2247",
             "airport_ident": "EDLW",
             "type": "AFIS",
-            "description": "LANGEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "129.875"
         },
         {
@@ -63,15 +63,15 @@
             "airport_ref": "2247",
             "airport_ident": "EDLW",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "125.125"
+            "description": "Dortmund AtIS",
+            "frequency_mhz": "125.13"
         },
         {
             "id": "53146",
             "airport_ref": "2247",
             "airport_ident": "EDLW",
             "type": "GND",
-            "description": "GND",
+            "description": "Dortmund Ground / Rollkontrolle",
             "frequency_mhz": "121.83"
         },
         {
@@ -79,7 +79,7 @@
             "airport_ref": "2247",
             "airport_ident": "EDLW",
             "type": "TWR",
-            "description": "TWR",
+            "description": "DOrtmund Tower / Turm",
             "frequency_mhz": "134.18"
         }
     ],
