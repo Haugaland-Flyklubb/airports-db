@@ -43,44 +43,28 @@
     ],
     "freqs": [
         {
-            "id": "52951",
-            "airport_ref": "2724",
-            "airport_ident": "ETHF",
-            "type": "A/D",
-            "description": "LANGEN CON",
-            "frequency_mhz": "124.425"
-        },
-        {
             "id": "52952",
             "airport_ref": "2724",
             "airport_ident": "ETHF",
-            "type": "A/G",
-            "description": "A/G RDO",
-            "frequency_mhz": "40.6"
-        },
-        {
-            "id": "52954",
-            "airport_ref": "2724",
-            "airport_ident": "ETHF",
-            "type": "RDR",
-            "description": "RADAR",
-            "frequency_mhz": "38.735"
-        },
-        {
-            "id": "52953",
-            "airport_ref": "2724",
-            "airport_ident": "ETHF",
-            "type": "RDR",
-            "description": "RADAR",
-            "frequency_mhz": "123.3"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
         },
         {
             "id": "52955",
             "airport_ref": "2724",
             "airport_ident": "ETHF",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "52951",
+            "airport_ref": "2724",
+            "airport_ident": "ETHF",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "40.6"
+            "description": "Fritzlar Tower / Turm",
+            "frequency_mhz": "122.1"
         }
     ],
     "country": {

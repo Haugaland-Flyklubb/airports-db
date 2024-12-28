@@ -46,9 +46,17 @@
             "id": "307319",
             "airport_ref": "28571",
             "airport_ident": "EDNG",
-            "type": "TOWER",
-            "description": "Giengen Info",
-            "frequency_mhz": "122.35"
+            "type": "INFO",
+            "description": "Giengen Radio",
+            "frequency_mhz": "122.355"
+        },
+        {
+            "id": "567051",
+            "airport_ref": "28571",
+            "airport_ident": "EDNG",
+            "type": "TWR",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
         }
     ],
     "country": {

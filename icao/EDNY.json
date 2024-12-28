@@ -43,6 +43,14 @@
     ],
     "freqs": [
         {
+            "id": "53134",
+            "airport_ref": "2256",
+            "airport_ident": "EDNY",
+            "type": "AFIS",
+            "description": "ZURICH INFORMATION",
+            "frequency_mhz": "124.7"
+        },
+        {
             "id": "53131",
             "airport_ref": "2256",
             "airport_ident": "EDNY",
@@ -55,32 +63,24 @@
             "airport_ref": "2256",
             "airport_ident": "EDNY",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "129.6"
-        },
-        {
-            "id": "53133",
-            "airport_ref": "2256",
-            "airport_ident": "EDNY",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "53134",
-            "airport_ref": "2256",
-            "airport_ident": "EDNY",
-            "type": "RDO",
-            "description": "MUNCHEN INFO",
-            "frequency_mhz": "126.95"
+            "description": "Friedrichsfafen ATIS",
+            "frequency_mhz": "129.605"
         },
         {
             "id": "53135",
             "airport_ref": "2256",
             "airport_ident": "EDNY",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.075"
+            "description": "Friedrichsfafen Tower / Turm",
+            "frequency_mhz": "120.08"
+        },
+        {
+            "id": "53133",
+            "airport_ref": "2256",
+            "airport_ident": "EDNY",
+            "type": "Twr",
+            "description": "Friedrichsfafen Tower / Turm",
+            "frequency_mhz": "134.305"
         }
     ],
     "country": {

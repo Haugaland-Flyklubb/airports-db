@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "566969",
+            "airport_ref": "29087",
+            "airport_ident": "EDPY",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "566970",
+            "airport_ref": "29087",
+            "airport_ident": "EDPY",
+            "type": "INFO",
+            "description": "Ellwangen Radio",
+            "frequency_mhz": "121.235"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

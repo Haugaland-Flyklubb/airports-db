@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "566976",
+            "airport_ref": "315403",
+            "airport_ident": "DE-0202",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
             "id": "521244",
             "airport_ref": "315403",
             "airport_ident": "DE-0202",
             "type": "CTAF",
-            "description": "Eutingen Info",
+            "description": "Eutingen Radio",
             "frequency_mhz": "133.385"
         }
     ],

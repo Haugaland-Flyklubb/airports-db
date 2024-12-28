@@ -43,12 +43,12 @@
     ],
     "freqs": [
         {
-            "id": "53187",
+            "id": "53189",
             "airport_ref": "2288",
             "airport_ident": "EDWE",
             "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.6"
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
         },
         {
             "id": "53188",
@@ -59,12 +59,12 @@
             "frequency_mhz": "123.6"
         },
         {
-            "id": "53189",
+            "id": "53187",
             "airport_ref": "2288",
             "airport_ident": "EDWE",
             "type": "INFO",
-            "description": "BREMEN INFO",
-            "frequency_mhz": "125.1"
+            "description": "ENDEM INFORMATION",
+            "frequency_mhz": "118.605"
         },
         {
             "id": "53190",

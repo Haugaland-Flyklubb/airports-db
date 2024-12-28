@@ -129,15 +129,23 @@
             "airport_ref": "2212",
             "airport_ident": "EDDF",
             "type": "AFIS",
-            "description": "LANGEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "119.15"
+        },
+        {
+            "id": "566981",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
         },
         {
             "id": "52764",
             "airport_ref": "2212",
             "airport_ident": "EDDF",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "Frankfurt ATIS (ARR)",
             "frequency_mhz": "118.03"
         },
         {
@@ -145,7 +153,7 @@
             "airport_ref": "2212",
             "airport_ident": "EDDF",
             "type": "ATIS",
-            "description": "",
+            "description": "Frankfurt ATIS (DEP)",
             "frequency_mhz": "118.73"
         },
         {
@@ -153,8 +161,8 @@
             "airport_ref": "2212",
             "airport_ident": "EDDF",
             "type": "CLD",
-            "description": "DELIVERY",
-            "frequency_mhz": "121.9"
+            "description": "Frankfurt Delivery (initial call)",
+            "frequency_mhz": "122.035"
         },
         {
             "id": "52766",
@@ -169,32 +177,56 @@
             "airport_ref": "2212",
             "airport_ident": "EDDF",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
+            "description": "Frankfurt Ground / Rollkontrolle",
+            "frequency_mhz": "121.805"
         },
         {
             "id": "52768",
             "airport_ref": "2212",
             "airport_ident": "EDDF",
             "type": "RMP",
-            "description": "APN",
-            "frequency_mhz": "121.7"
+            "description": "Frankfurt Apron / Vorfeld",
+            "frequency_mhz": "121.655"
         },
         {
             "id": "52769",
             "airport_ref": "2212",
             "airport_ident": "EDDF",
             "type": "TWR",
-            "description": "FRANKFURT TOWER (SOUTH)",
-            "frequency_mhz": "119.9"
+            "description": "FRANKFURT TOWER / TURM (SOUTH)",
+            "frequency_mhz": "119.905"
+        },
+        {
+            "id": "566985",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "TWR",
+            "description": "Frankfurt Tower / TURM (RWY 18)",
+            "frequency_mhz": "124.855"
         },
         {
             "id": "328967",
             "airport_ref": "2212",
             "airport_ident": "EDDF",
             "type": "TWR",
-            "description": "FRANKFURT TOWER (NORTH)",
+            "description": "FRANKFURT TOWER / TURM (NORTH)",
             "frequency_mhz": "136.5"
+        },
+        {
+            "id": "566983",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "VOLMET",
+            "description": "Frankfurt 1 VOLMET",
+            "frequency_mhz": "127.605"
+        },
+        {
+            "id": "566984",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "VOLMET",
+            "description": "Frankfurt 2 VOLMET",
+            "frequency_mhz": "135.78"
         }
     ],
     "country": {

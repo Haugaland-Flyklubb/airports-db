@@ -43,6 +43,14 @@
     ],
     "freqs": [
         {
+            "id": "53064",
+            "airport_ref": "2211",
+            "airport_ident": "EDDE",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
             "id": "53061",
             "airport_ref": "2211",
             "airport_ident": "EDDE",
@@ -55,24 +63,16 @@
             "airport_ref": "2211",
             "airport_ident": "EDDE",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "133.45"
+            "description": "Erfurt ATIS",
+            "frequency_mhz": "133.455"
         },
         {
             "id": "53063",
             "airport_ref": "2211",
             "airport_ident": "EDDE",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "53064",
-            "airport_ref": "2211",
-            "airport_ident": "EDDE",
-            "type": "INFO",
-            "description": "MUNCHEN INFO",
-            "frequency_mhz": "120.65"
+            "description": "Erfurt Ground / Rollkontrolle",
+            "frequency_mhz": "121.755"
         },
         {
             "id": "53065",
@@ -87,8 +87,8 @@
             "airport_ref": "2211",
             "airport_ident": "EDDE",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "121.15"
+            "description": "Erfurt Tower / Turm",
+            "frequency_mhz": "121.155"
         }
     ],
     "country": {

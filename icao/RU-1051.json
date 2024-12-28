@@ -1,0 +1,62 @@
+{
+    "id": "567070",
+    "ident": "RU-1051",
+    "type": "medium_airport",
+    "name": "Aereodromo Borovaya(Боровая)",
+    "latitude_deg": "61.244065",
+    "longitude_deg": "73.322221",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-TYU",
+    "municipality": "Surgut (Сургу́т)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.aviabarsov.com/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "567071",
+            "airport_ref": "567070",
+            "airport_ident": "RU-1051",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "asphalt runway.",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305335",
+        "code": "RU-TYU",
+        "local_code": "TYU",
+        "name": "Tyumen Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tyumen_Oblast",
+        "keywords": "Airports in Tyumen Oblast"
+    }
+}

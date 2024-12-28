@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "566971",
+            "airport_ref": "29848",
+            "airport_ident": "EDNF",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
             "id": "331089",
             "airport_ref": "29848",
             "airport_ident": "EDNF",
             "type": "INFO",
-            "description": "Grafenau Info",
+            "description": "Grafenau Radio",
             "frequency_mhz": "118.935"
         }
     ],

@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "567044",
+            "airport_ref": "28569",
+            "airport_ident": "EDAJ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
             "id": "75262",
             "airport_ref": "28569",
             "airport_ident": "EDAJ",
-            "type": "A/G",
-            "description": "Gera-Info",
+            "type": "INFO",
+            "description": "Gera Radio",
             "frequency_mhz": "118.08"
         }
     ],

@@ -47,7 +47,7 @@
             "airport_ref": "2227",
             "airport_ident": "EDFH",
             "type": "AFIS",
-            "description": "LANGEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "123.525"
         },
         {
@@ -63,24 +63,32 @@
             "airport_ref": "2227",
             "airport_ident": "EDFH",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "136.35"
+            "description": "Hahn ATIS",
+            "frequency_mhz": "136.355"
         },
         {
             "id": "53093",
             "airport_ref": "2227",
             "airport_ident": "EDFH",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.975"
+            "description": "Hahn Grond / Rollkontrolle",
+            "frequency_mhz": "121.98"
         },
         {
             "id": "53094",
             "airport_ref": "2227",
             "airport_ident": "EDFH",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.65"
+            "description": "Hahn Tower / Turm",
+            "frequency_mhz": "119.655"
+        },
+        {
+            "id": "566980",
+            "airport_ref": "2227",
+            "airport_ident": "EDFH",
+            "type": "TWR",
+            "description": "Hahn Tower / Turm",
+            "frequency_mhz": "120.905"
         }
     ],
     "country": {

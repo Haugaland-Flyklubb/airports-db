@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "567048",
+            "airport_ref": "43125",
+            "airport_ident": "EDQG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "567050",
+            "airport_ref": "43125",
+            "airport_ident": "EDQG",
+            "type": "INFO",
+            "description": "Giebelstadt Information",
+            "frequency_mhz": "125.505"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

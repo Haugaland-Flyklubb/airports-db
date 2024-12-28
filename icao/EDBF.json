@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "566977",
+            "airport_ref": "28561",
+            "airport_ident": "EDBF",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
             "id": "333665",
             "airport_ref": "28561",
             "airport_ident": "EDBF",
             "type": "CTAF",
-            "description": "",
+            "description": "Fehrbellin Radio",
             "frequency_mhz": "133.94"
         }
     ],

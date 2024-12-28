@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "567039",
+            "airport_ref": "28566",
+            "airport_ident": "EDWQ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
+        },
+        {
             "id": "331049",
             "airport_ref": "28566",
             "airport_ident": "EDWQ",
             "type": "Info",
-            "description": "",
+            "description": "Ganderkesee Radio",
             "frequency_mhz": "118.63"
         }
     ],

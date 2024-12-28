@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_F%C3%BCrstenzell",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "566987",
+            "airport_ref": "28564",
+            "airport_ident": "EDMF",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "566988",
+            "airport_ref": "28564",
+            "airport_ident": "EDMF",
+            "type": "AFIS",
+            "description": "Fuerstenzell Radio",
+            "frequency_mhz": "128.74"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
