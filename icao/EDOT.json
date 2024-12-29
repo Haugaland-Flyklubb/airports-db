@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "567251",
+            "airport_ref": "28578",
+            "airport_ident": "EDOT",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
             "id": "511827",
             "airport_ref": "28578",
             "airport_ident": "EDOT",
-            "type": "A/G",
-            "description": "",
+            "type": "INFO",
+            "description": "Greiz Radio",
             "frequency_mhz": "132.015"
         }
     ],

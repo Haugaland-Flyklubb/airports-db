@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Goch-Asperden",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "567239",
+            "airport_ref": "29075",
+            "airport_ident": "EDLG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "567240",
+            "airport_ref": "29075",
+            "airport_ident": "EDLG",
+            "type": "INFO",
+            "description": "Goch Radio",
+            "frequency_mhz": "118.445"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

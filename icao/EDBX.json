@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_G%C3%B6rlitz",
     "keywords": "Goerlitz",
+    "freqs": [
+        {
+            "id": "567243",
+            "airport_ref": "28574",
+            "airport_ident": "EDBX",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "567244",
+            "airport_ref": "28574",
+            "airport_ident": "EDBX",
+            "type": "AFIS",
+            "description": "Goerlitz Radio",
+            "frequency_mhz": "133.585"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "567248",
+            "airport_ref": "43126",
+            "airport_ident": "EDSG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "567249",
+            "airport_ref": "43126",
+            "airport_ident": "EDSG",
+            "type": "INFO",
+            "description": "Grabenstetten Radio",
+            "frequency_mhz": "118.19"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

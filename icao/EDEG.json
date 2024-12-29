@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "567245",
+            "airport_ref": "28575",
+            "airport_ident": "EDEG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
             "id": "511826",
             "airport_ref": "28575",
             "airport_ident": "EDEG",
-            "type": "A/G",
-            "description": "",
+            "type": "INFO",
+            "description": "Gotha Radio",
             "frequency_mhz": "121.235"
         }
     ],

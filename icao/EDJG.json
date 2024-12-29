@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Grabenst%C3%A4tt",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "567246",
+            "airport_ref": "308861",
+            "airport_ident": "EDJG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "567247",
+            "airport_ref": "308861",
+            "airport_ident": "EDJG",
+            "type": "INFO",
+            "description": "Grabenstaett Radio",
+            "frequency_mhz": "135.985"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
