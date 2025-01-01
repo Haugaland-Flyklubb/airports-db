@@ -77,15 +77,15 @@
             "airport_ref": "5051",
             "airport_ident": "NZQN",
             "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "118.1"
+            "description": "Queenstown Approach",
+            "frequency_mhz": "125.75"
         },
         {
             "id": "56031",
             "airport_ref": "5051",
             "airport_ident": "NZQN",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "Queenstown ATIS",
             "frequency_mhz": "126.4"
         },
         {
@@ -100,8 +100,8 @@
             "id": "56033",
             "airport_ref": "5051",
             "airport_ident": "NZQN",
-            "type": "GND",
-            "description": "GND",
+            "type": "DLV",
+            "description": "Queenstown Delivery",
             "frequency_mhz": "121.9"
         },
         {
@@ -109,7 +109,7 @@
             "airport_ref": "5051",
             "airport_ident": "NZQN",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Queenstown Tower",
             "frequency_mhz": "118.1"
         }
     ],
