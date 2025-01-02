@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "568164",
+            "airport_ref": "28589",
+            "airport_ident": "EDHM",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "568165",
+            "airport_ref": "28589",
+            "airport_ident": "EDHM",
+            "type": "INFO",
+            "description": "Hartenholm Radio",
+            "frequency_mhz": "118.13"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

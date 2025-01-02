@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "568211",
+            "airport_ref": "29073",
+            "airport_ident": "EDHF",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "568212",
+            "airport_ref": "29073",
+            "airport_ident": "EDHF",
+            "type": "INFO",
+            "description": "Itzehoe Radio",
+            "frequency_mhz": "127.11"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

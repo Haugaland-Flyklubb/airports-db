@@ -17,6 +17,24 @@
     "home_link": "https://fsvi.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Imsweiler",
     "keywords": "Flugplatz Imsweiler, UL-Flugplatz Imsweiler-Donnersberg",
+    "freqs": [
+        {
+            "id": "568200",
+            "airport_ref": "315942",
+            "airport_ident": "DE-0289",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "568201",
+            "airport_ref": "315942",
+            "airport_ident": "DE-0289",
+            "type": "INFO",
+            "description": "Imsweiler Radio",
+            "frequency_mhz": "130.78"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

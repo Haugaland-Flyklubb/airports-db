@@ -69,7 +69,7 @@
             "airport_ref": "2187",
             "airport_ident": "EDAH",
             "type": "AFIS",
-            "description": "BERLIN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "132.65"
         },
         {
@@ -77,16 +77,16 @@
             "airport_ref": "2187",
             "airport_ident": "EDAH",
             "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "132.825"
+            "description": "Heringsdorf Radio",
+            "frequency_mhz": "132.83"
         },
         {
             "id": "52806",
             "airport_ref": "2187",
             "airport_ident": "EDAH",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "132.825"
+            "description": "Heringsdorf Tower / Turm",
+            "frequency_mhz": "132.83"
         }
     ],
     "country": {

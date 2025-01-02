@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "568155",
+            "airport_ref": "309630",
+            "airport_ident": "EDST",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "568156",
+            "airport_ref": "309630",
+            "airport_ident": "EDST",
+            "type": "INFO",
+            "description": "Hahnweide Radio",
+            "frequency_mhz": "125.615"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

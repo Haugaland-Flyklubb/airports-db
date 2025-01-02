@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "568170",
+            "airport_ref": "28592",
+            "airport_ident": "EDEH",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
             "id": "518525",
             "airport_ref": "28592",
             "airport_ident": "EDEH",
             "type": "Info",
-            "description": "",
+            "description": "Herrenteich Radio",
             "frequency_mhz": "132.055"
         }
     ],

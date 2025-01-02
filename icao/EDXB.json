@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "568167",
+            "airport_ref": "28590",
+            "airport_ident": "EDXB",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
             "id": "75436",
             "airport_ref": "28590",
             "airport_ident": "EDXB",
-            "type": "TWR",
-            "description": "Büsum Info",
-            "frequency_mhz": "122.6"
+            "type": "INFO",
+            "description": "Buesum Radio",
+            "frequency_mhz": "125.86"
         }
     ],
     "country": {

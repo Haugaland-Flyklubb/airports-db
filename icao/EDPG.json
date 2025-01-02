@@ -17,6 +17,32 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Griesau",
     "keywords": "Sonderlandeplatz Griesau",
+    "freqs": [
+        {
+            "id": "568139",
+            "airport_ref": "28579",
+            "airport_ident": "EDPG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "568140",
+            "airport_ref": "28579",
+            "airport_ident": "EDPG",
+            "type": "FIS",
+            "description": "Straubing Info",
+            "frequency_mhz": "127.155"
+        },
+        {
+            "id": "568141",
+            "airport_ref": "28579",
+            "airport_ident": "EDPG",
+            "type": "INFO",
+            "description": "Griesau Radio",
+            "frequency_mhz": "125.74"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

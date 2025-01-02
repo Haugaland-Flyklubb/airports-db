@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "568161",
+            "airport_ref": "28586",
+            "airport_ident": "EDLH",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
             "id": "309848",
             "airport_ref": "28586",
             "airport_ident": "EDLH",
             "type": "INFO",
-            "description": "HAMM INFO",
-            "frequency_mhz": "134.05"
+            "description": "HAMM RADIO",
+            "frequency_mhz": "134.055"
         }
     ],
     "country": {

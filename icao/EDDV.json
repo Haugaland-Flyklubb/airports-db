@@ -107,16 +107,16 @@
             "airport_ref": "2224",
             "airport_ident": "EDDV",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "132.125"
+            "description": "Hannover ATIS",
+            "frequency_mhz": "136.575"
         },
         {
             "id": "53044",
             "airport_ref": "2224",
             "airport_ident": "EDDV",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.95"
+            "description": "Hannover Ground / Rollkontrolle",
+            "frequency_mhz": "121.955"
         },
         {
             "id": "53046",
@@ -131,8 +131,16 @@
             "airport_ref": "2224",
             "airport_ident": "EDDV",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.175"
+            "description": "Hannover Tower / Turm",
+            "frequency_mhz": "120.18"
+        },
+        {
+            "id": "568162",
+            "airport_ref": "2224",
+            "airport_ident": "EDDV",
+            "type": "TWR",
+            "description": "Hannover Tower / Turm",
+            "frequency_mhz": "120.405"
         }
     ],
     "country": {

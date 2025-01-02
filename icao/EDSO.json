@@ -43,10 +43,18 @@
     ],
     "freqs": [
         {
+            "id": "568146",
+            "airport_ref": "315964",
+            "airport_ident": "EDSO",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
             "id": "508541",
             "airport_ref": "315964",
             "airport_ident": "EDSO",
-            "type": "TWR",
+            "type": "INFO",
             "description": "Nortel Radio",
             "frequency_mhz": "128.74"
         }

@@ -65,20 +65,20 @@
     ],
     "freqs": [
         {
-            "id": "52741",
-            "airport_ref": "2197",
-            "airport_ident": "EDBJ",
-            "type": "A/G",
-            "description": "Jena Radio",
-            "frequency_mhz": "118.735"
-        },
-        {
             "id": "52742",
             "airport_ref": "2197",
             "airport_ident": "EDBJ",
             "type": "AFIS",
-            "description": "BERLIN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "125.8"
+        },
+        {
+            "id": "52741",
+            "airport_ref": "2197",
+            "airport_ident": "EDBJ",
+            "type": "INFO",
+            "description": "Jena Radio",
+            "frequency_mhz": "118.735"
         }
     ],
     "country": {

@@ -55,7 +55,7 @@
             "airport_ref": "2234",
             "airport_ident": "EDHI",
             "type": "AFIS",
-            "description": "BREMEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "125.1"
         },
         {
@@ -63,15 +63,39 @@
             "airport_ref": "2234",
             "airport_ident": "EDHI",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "123.125"
+            "description": "Finkenwerder ATIS",
+            "frequency_mhz": "135.965"
+        },
+        {
+            "id": "568160",
+            "airport_ref": "2234",
+            "airport_ident": "EDHI",
+            "type": "RMP",
+            "description": "Finkenwerder Apron / Vorfeld",
+            "frequency_mhz": "121.655"
+        },
+        {
+            "id": "568158",
+            "airport_ref": "2234",
+            "airport_ident": "EDHI",
+            "type": "TWR",
+            "description": "Hahn Tower / Turm",
+            "frequency_mhz": "121.28"
+        },
+        {
+            "id": "568159",
+            "airport_ref": "2234",
+            "airport_ident": "EDHI",
+            "type": "TWR",
+            "description": "Hamburg Tower / Turm",
+            "frequency_mhz": "121.28"
         },
         {
             "id": "53070",
             "airport_ref": "2234",
             "airport_ident": "EDHI",
             "type": "TWR",
-            "description": "FINKENWERDER TWR",
+            "description": "FINKENWERDER TOWER / TURM",
             "frequency_mhz": "123.25"
         }
     ],

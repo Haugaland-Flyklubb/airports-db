@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "568169",
+            "airport_ref": "29946",
+            "airport_ident": "EDEP",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
             "id": "326319",
             "airport_ref": "29946",
             "airport_ident": "EDEP",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "122.475"
+            "type": "INFO",
+            "description": "Heppenheim Radio",
+            "frequency_mhz": "122.48"
         }
     ],
     "country": {

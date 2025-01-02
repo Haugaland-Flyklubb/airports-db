@@ -17,6 +17,24 @@
     "home_link": "http://www.sfv-hoya.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Hoya",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "568191",
+            "airport_ref": "310081",
+            "airport_ident": "DE-0106",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "568192",
+            "airport_ref": "310081",
+            "airport_ident": "DE-0106",
+            "type": "INFO",
+            "description": "Hoya Radio",
+            "frequency_mhz": "120.71"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

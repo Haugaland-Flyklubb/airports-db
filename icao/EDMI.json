@@ -46,8 +46,16 @@
             "id": "329587",
             "airport_ref": "28609",
             "airport_ident": "EDMI",
-            "type": "AFIS non-certifi",
-            "description": "Illertissen Info",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "568199",
+            "airport_ref": "28609",
+            "airport_ident": "EDMI",
+            "type": "INFO",
+            "description": "Illertissen Radio",
             "frequency_mhz": "128.865"
         }
     ],

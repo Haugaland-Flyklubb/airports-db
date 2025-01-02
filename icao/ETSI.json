@@ -65,52 +65,68 @@
     ],
     "freqs": [
         {
-            "id": "53156",
-            "airport_ref": "2753",
-            "airport_ident": "ETSI",
-            "type": "APP",
-            "description": "MUNCHEN RADAR",
-            "frequency_mhz": "136.525"
-        },
-        {
-            "id": "53158",
-            "airport_ref": "2753",
-            "airport_ident": "ETSI",
-            "type": "RDR",
-            "description": "RADAR",
-            "frequency_mhz": "27.81"
-        },
-        {
-            "id": "53159",
-            "airport_ref": "2753",
-            "airport_ident": "ETSI",
-            "type": "RDR",
-            "description": "RADAR",
-            "frequency_mhz": "37.975"
-        },
-        {
             "id": "53157",
             "airport_ref": "2753",
             "airport_ident": "ETSI",
-            "type": "RDR",
-            "description": "RADAR",
-            "frequency_mhz": "120.6"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
         },
         {
-            "id": "53161",
+            "id": "568204",
             "airport_ref": "2753",
             "airport_ident": "ETSI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "24.095"
+            "type": "ATIS",
+            "description": "Ingo ATIS",
+            "frequency_mhz": "118.865"
+        },
+        {
+            "id": "568207",
+            "airport_ref": "2753",
+            "airport_ident": "ETSI",
+            "type": "RADAR",
+            "description": "Ingo Radar",
+            "frequency_mhz": "120.605"
+        },
+        {
+            "id": "568206",
+            "airport_ref": "2753",
+            "airport_ident": "ETSI",
+            "type": "RADAR",
+            "description": "Ingo Radar O/R",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "568205",
+            "airport_ref": "2753",
+            "airport_ident": "ETSI",
+            "type": "RADAR",
+            "description": "Ingo Radar",
+            "frequency_mhz": "125.58"
         },
         {
             "id": "53160",
             "airport_ref": "2753",
             "airport_ident": "ETSI",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Ingo Tower / Turm",
             "frequency_mhz": "122.1"
+        },
+        {
+            "id": "568208",
+            "airport_ref": "2753",
+            "airport_ident": "ETSI",
+            "type": "TWR",
+            "description": "Ingo Tower / Turm",
+            "frequency_mhz": "125.255"
+        },
+        {
+            "id": "53156",
+            "airport_ref": "2753",
+            "airport_ident": "ETSI",
+            "type": "VOLMET",
+            "description": "Frankfurt 2 VOLMET",
+            "frequency_mhz": "135.78"
         }
     ],
     "country": {

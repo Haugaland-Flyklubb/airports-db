@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "568187",
+            "airport_ref": "28602",
+            "airport_ident": "EDVI",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
             "id": "314923",
             "airport_ref": "28602",
             "airport_ident": "EDVI",
             "type": "INFO",
-            "description": "Höxter Info",
+            "description": "Hoexter Radio",
             "frequency_mhz": "130.28"
         }
     ],

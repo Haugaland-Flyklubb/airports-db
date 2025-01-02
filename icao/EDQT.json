@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "568166",
+            "airport_ref": "2264",
+            "airport_ident": "EDQT",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
             "id": "53232",
             "airport_ref": "2264",
             "airport_ident": "EDQT",
             "type": "INFO",
-            "description": "HASSFURT INFO",
+            "description": "HASSFURT RADIO",
             "frequency_mhz": "119.805"
         }
     ],

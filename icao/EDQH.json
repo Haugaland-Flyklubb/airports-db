@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "568173",
+            "airport_ref": "28594",
+            "airport_ident": "EDQH",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
             "id": "319030",
             "airport_ref": "28594",
             "airport_ident": "EDQH",
             "type": "INFO",
-            "description": "HERZOGENAURACH INFO",
+            "description": "HERZOGENAURACH RADIO",
             "frequency_mhz": "134.555"
         }
     ],

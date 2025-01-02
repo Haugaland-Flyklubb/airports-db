@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Gunzenhausen-Reutberg",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "568153",
+            "airport_ref": "28585",
+            "airport_ident": "EDMH",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "568154",
+            "airport_ref": "28585",
+            "airport_ident": "EDMH",
+            "type": "INFO",
+            "description": "Gutzenhausen Radio",
+            "frequency_mhz": "118.96"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

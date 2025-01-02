@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "568142",
+            "airport_ref": "28580",
+            "airport_ident": "EDAG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "568143",
+            "airport_ref": "28580",
+            "airport_ident": "EDAG",
+            "type": "INFO",
+            "description": "Grossenrueckrswalde Radio",
+            "frequency_mhz": "118.585"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

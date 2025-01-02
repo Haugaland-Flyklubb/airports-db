@@ -17,6 +17,24 @@
     "home_link": "http://www.ithwiesen.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Ithwiesen",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "568209",
+            "airport_ref": "311065",
+            "airport_ident": "EDVT",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "568210",
+            "airport_ref": "311065",
+            "airport_ident": "EDVT",
+            "type": "INFO",
+            "description": "Ithwiesen Radio",
+            "frequency_mhz": "130.655"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

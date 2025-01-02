@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "568181",
+            "airport_ref": "28599",
+            "airport_ident": "EDFX",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "568182",
+            "airport_ref": "28599",
+            "airport_ident": "EDFX",
+            "type": "INFO",
+            "description": "Hockenheim Radio",
+            "frequency_mhz": "121.19"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

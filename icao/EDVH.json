@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "328"
         }
     ],
+    "freqs": [
+        {
+            "id": "568183",
+            "airport_ref": "28600",
+            "airport_ident": "EDVH",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "568184",
+            "airport_ref": "28600",
+            "airport_ident": "EDVH",
+            "type": "INFO",
+            "description": "Hodenhagen Radio",
+            "frequency_mhz": "119.005"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

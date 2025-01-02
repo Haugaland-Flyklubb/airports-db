@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_G%C3%BCnzburg-Donauried",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "568149",
+            "airport_ref": "28582",
+            "airport_ident": "EDMG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "568150",
+            "airport_ref": "28582",
+            "airport_ident": "EDMG",
+            "type": "INFO",
+            "description": "Guenzburg Radio",
+            "frequency_mhz": "118.83"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

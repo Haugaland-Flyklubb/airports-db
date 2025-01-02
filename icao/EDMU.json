@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "534"
         }
     ],
+    "freqs": [
+        {
+            "id": "568151",
+            "airport_ref": "29076",
+            "airport_ident": "EDMU",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "568152",
+            "airport_ref": "29076",
+            "airport_ident": "EDMU",
+            "type": "INFO",
+            "description": "Gundelfingen Radio",
+            "frequency_mhz": "122.93"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

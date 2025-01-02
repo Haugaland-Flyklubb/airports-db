@@ -107,6 +107,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "568214",
+            "airport_ref": "28614",
+            "airport_ident": "EDWJ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
+        },
+        {
+            "id": "568215",
+            "airport_ref": "28614",
+            "airport_ident": "EDWJ",
+            "type": "INFO",
+            "description": "Juist Radio",
+            "frequency_mhz": "120.505"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

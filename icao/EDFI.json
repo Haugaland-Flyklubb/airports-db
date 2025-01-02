@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Hirzenhain",
     "keywords": "Flugplatz Hirzenhain, Sonderlandeplatz Hirzenhain",
+    "freqs": [
+        {
+            "id": "568180",
+            "airport_ref": "28598",
+            "airport_ident": "EDFI",
+            "type": "AFIS",
+            "description": "Hirzenhaim Radio",
+            "frequency_mhz": "118.33"
+        },
+        {
+            "id": "568179",
+            "airport_ref": "28598",
+            "airport_ident": "EDFI",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

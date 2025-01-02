@@ -77,8 +77,8 @@
             "airport_ref": "2214",
             "airport_ident": "EDDH",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "123.125"
+            "description": "Hamburg ATIS",
+            "frequency_mhz": "124.325"
         },
         {
             "id": "53113",
@@ -93,8 +93,8 @@
             "airport_ref": "2214",
             "airport_ident": "EDDH",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
+            "description": "Hamburg Ground / Rollkontrolle",
+            "frequency_mhz": "121.805"
         },
         {
             "id": "53115",
@@ -109,16 +109,24 @@
             "airport_ref": "2214",
             "airport_ident": "EDDH",
             "type": "RMP",
-            "description": "APRON",
-            "frequency_mhz": "121.7"
+            "description": "Hamburg Apron / Vorfeld",
+            "frequency_mhz": "121.705"
         },
         {
             "id": "53117",
             "airport_ref": "2214",
             "airport_ident": "EDDH",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.85"
+            "description": "Hamburg Tower / Turm",
+            "frequency_mhz": "121.28"
+        },
+        {
+            "id": "568157",
+            "airport_ref": "2214",
+            "airport_ident": "EDDH",
+            "type": "TWR",
+            "description": "Hahn Tower / Turm",
+            "frequency_mhz": "126.855"
         }
     ],
     "country": {

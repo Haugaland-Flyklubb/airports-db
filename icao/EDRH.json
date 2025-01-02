@@ -17,6 +17,24 @@
     "home_link": "https://www.fsvhowei.de/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hoppst%C3%A4dten-Weiersbach_Airfield",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "568188",
+            "airport_ref": "28605",
+            "airport_ident": "EDRH",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "568190",
+            "airport_ref": "28605",
+            "airport_ident": "EDRH",
+            "type": "INFO",
+            "description": "Hoppstaedten Radio",
+            "frequency_mhz": "130.655"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
