@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "568396",
+            "airport_ref": "28625",
+            "airport_ident": "EDLK",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "568397",
+            "airport_ref": "28625",
+            "airport_ident": "EDLK",
+            "type": "INFO",
+            "description": "Krefeld Radio",
+            "frequency_mhz": "120.68"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

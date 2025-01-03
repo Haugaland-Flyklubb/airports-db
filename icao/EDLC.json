@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "568370",
+            "airport_ref": "28615",
+            "airport_ident": "EDLC",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "568372",
+            "airport_ref": "28615",
+            "airport_ident": "EDLC",
+            "type": "INFO",
+            "description": "Kamp-Lintfort Radio",
+            "frequency_mhz": "125.315"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

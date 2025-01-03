@@ -87,12 +87,20 @@
     ],
     "freqs": [
         {
+            "id": "52901",
+            "airport_ref": "2216",
+            "airport_ident": "EDDK",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
             "id": "52897",
             "airport_ref": "2216",
             "airport_ident": "EDDK",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "112.15"
+            "description": "Koeln/Bonn ATIS",
+            "frequency_mhz": "132.13"
         },
         {
             "id": "334376",
@@ -107,8 +115,8 @@
             "airport_ref": "2216",
             "airport_ident": "EDDK",
             "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.85"
+            "description": "Koeln/Bonn Delivery",
+            "frequency_mhz": "121.855"
         },
         {
             "id": "52899",
@@ -123,16 +131,8 @@
             "airport_ref": "2216",
             "airport_ident": "EDDK",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.725"
-        },
-        {
-            "id": "52901",
-            "airport_ref": "2216",
-            "airport_ident": "EDDK",
-            "type": "INFO",
-            "description": "LANGEN INFO",
-            "frequency_mhz": "129.875"
+            "description": "Koeln/Bonn Ground / Rollkontrolle",
+            "frequency_mhz": "121.73"
         },
         {
             "id": "52902",
@@ -163,8 +163,16 @@
             "airport_ref": "2216",
             "airport_ident": "EDDK",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.975"
+            "description": "Koeln/Bonn Tower / Turm",
+            "frequency_mhz": "124.98"
+        },
+        {
+            "id": "568389",
+            "airport_ref": "2216",
+            "airport_ident": "EDDK",
+            "type": "VOLMET",
+            "description": "Bremen VOLMET",
+            "frequency_mhz": "127.41"
         }
     ],
     "country": {

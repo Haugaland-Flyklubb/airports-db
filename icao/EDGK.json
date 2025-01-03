@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Korbach",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "568394",
+            "airport_ref": "28624",
+            "airport_ident": "EDGK",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "568395",
+            "airport_ref": "28624",
+            "airport_ident": "EDGK",
+            "type": "INFO",
+            "description": "Korbach Radio",
+            "frequency_mhz": "125.815"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

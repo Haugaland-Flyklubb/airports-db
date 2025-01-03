@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "475"
         }
     ],
+    "freqs": [
+        {
+            "id": "568392",
+            "airport_ref": "28623",
+            "airport_ident": "EDTZ",
+            "type": "AFIS",
+            "description": "Zürich Information",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "568393",
+            "airport_ref": "28623",
+            "airport_ident": "EDTZ",
+            "type": "INFO",
+            "description": "Konstanz Radio",
+            "frequency_mhz": "123.355"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

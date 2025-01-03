@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "568376",
+            "airport_ref": "28618",
+            "airport_ident": "EDSK",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
             "id": "337657",
             "airport_ref": "28618",
             "airport_ident": "EDSK",
             "type": "CTAF",
-            "description": "",
+            "description": "Kehl Radio",
             "frequency_mhz": "122.755"
         }
     ],

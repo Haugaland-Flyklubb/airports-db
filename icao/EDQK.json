@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "568400",
+            "airport_ref": "28627",
+            "airport_ident": "EDQK",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
             "id": "317921",
             "airport_ref": "28627",
             "airport_ident": "EDQK",
             "type": "INFO",
-            "description": "KULMBACH INFO",
-            "frequency_mhz": "118.525"
+            "description": "KULMBACH RADIO",
+            "frequency_mhz": "118.53"
         }
     ],
     "country": {

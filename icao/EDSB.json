@@ -51,6 +51,14 @@
             "frequency_mhz": "124.1"
         },
         {
+            "id": "568375",
+            "airport_ref": "2270",
+            "airport_ident": "EDSB",
+            "type": "AFIS",
+            "description": "Strasbourg Info",
+            "frequency_mhz": "119.58"
+        },
+        {
             "id": "52712",
             "airport_ref": "2270",
             "airport_ident": "EDSB",
@@ -64,22 +72,22 @@
             "airport_ident": "EDSB",
             "type": "ATIS",
             "description": "BADEN ATIS",
-            "frequency_mhz": "121.275"
+            "frequency_mhz": "121.28"
         },
         {
             "id": "52714",
             "airport_ref": "2270",
             "airport_ident": "EDSB",
             "type": "GND",
-            "description": "BADEN GND",
-            "frequency_mhz": "121.825"
+            "description": "Baden Ground / Rollkontrolle",
+            "frequency_mhz": "121.83"
         },
         {
             "id": "52715",
             "airport_ref": "2270",
             "airport_ident": "EDSB",
             "type": "INFO",
-            "description": "LANGEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "128.95"
         },
         {
@@ -87,8 +95,8 @@
             "airport_ref": "2270",
             "airport_ident": "EDSB",
             "type": "TWR",
-            "description": "BADEN TWR",
-            "frequency_mhz": "124"
+            "description": "Baden Tower / Turm",
+            "frequency_mhz": "134.105"
         }
     ],
     "country": {

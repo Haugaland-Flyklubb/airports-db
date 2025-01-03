@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "568390",
+            "airport_ref": "28622",
+            "airport_ident": "EDCK",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "568391",
+            "airport_ref": "28622",
+            "airport_ident": "EDCK",
+            "type": "INFO",
+            "description": "Koethen Radio",
+            "frequency_mhz": "121.205"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

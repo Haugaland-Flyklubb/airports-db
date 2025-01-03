@@ -69,8 +69,16 @@
             "airport_ref": "2235",
             "airport_ident": "EDHK",
             "type": "AFIS",
-            "description": "BREMEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "125.1"
+        },
+        {
+            "id": "52796",
+            "airport_ref": "2235",
+            "airport_ident": "EDHK",
+            "type": "FIS",
+            "description": "Kiel Information",
+            "frequency_mhz": "119.96"
         },
         {
             "id": "52792",
@@ -105,12 +113,12 @@
             "frequency_mhz": "121.9"
         },
         {
-            "id": "52796",
+            "id": "568379",
             "airport_ref": "2235",
             "airport_ident": "EDHK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.975"
+            "type": "VOLMET",
+            "description": "Bremen VOLMET",
+            "frequency_mhz": "127.41"
         }
     ],
     "country": {

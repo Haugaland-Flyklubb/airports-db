@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Klietz/Scharlibbe",
     "keywords": "Scharlibbe",
+    "freqs": [
+        {
+            "id": "568385",
+            "airport_ref": "29068",
+            "airport_ident": "EDCL",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "568386",
+            "airport_ref": "29068",
+            "airport_ident": "EDCL",
+            "type": "INFO",
+            "description": "Klietz Radio",
+            "frequency_mhz": "122.38"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -46,25 +46,17 @@
             "id": "52943",
             "airport_ref": "2733",
             "airport_ident": "ETIN",
-            "type": "PMSV",
-            "description": "GIEBELSTADT METRO",
-            "frequency_mhz": "140.3"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
         },
         {
             "id": "52944",
             "airport_ref": "2733",
             "airport_ident": "ETIN",
-            "type": "PTD",
-            "description": "GIEBELSTADT DISPATCH",
-            "frequency_mhz": "33.7"
-        },
-        {
-            "id": "52945",
-            "airport_ref": "2733",
-            "airport_ident": "ETIN",
-            "type": "TWR",
-            "description": "GIEBELSTADT TWR",
-            "frequency_mhz": "31.8"
+            "type": "INFO",
+            "description": "Kitzingen Radio",
+            "frequency_mhz": "118.255"
         }
     ],
     "country": {

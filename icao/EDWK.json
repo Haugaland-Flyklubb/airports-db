@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Karlsh%C3%B6fen",
     "keywords": "Flugplatz Karlshöfen",
+    "freqs": [
+        {
+            "id": "568373",
+            "airport_ref": "28616",
+            "airport_ident": "EDWK",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "568374",
+            "airport_ref": "28616",
+            "airport_ident": "EDWK",
+            "type": "INFO",
+            "description": "Karlshoefen Radio",
+            "frequency_mhz": "118.93"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
