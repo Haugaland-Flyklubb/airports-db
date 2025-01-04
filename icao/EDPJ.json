@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "568752",
+            "airport_ref": "28629",
+            "airport_ident": "EDPJ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
             "id": "527292",
             "airport_ref": "28629",
             "airport_ident": "EDPJ",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "127.7"
+            "type": "INFO",
+            "description": "Laichingen Radio",
+            "frequency_mhz": "127.705"
         }
     ],
     "country": {

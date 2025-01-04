@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "568754",
+            "airport_ref": "28630",
+            "airport_ident": "EDML",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
             "id": "75300",
             "airport_ref": "28630",
             "airport_ident": "EDML",
             "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "129.8"
+            "description": "Landshut Radio",
+            "frequency_mhz": "129.805"
         }
     ],
     "country": {

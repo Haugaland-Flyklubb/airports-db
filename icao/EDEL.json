@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "568755",
+            "airport_ref": "28631",
+            "airport_ident": "EDEL",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "568756",
+            "airport_ref": "28631",
+            "airport_ident": "EDEL",
+            "type": "INFO",
+            "description": "Langenlonsheim Radio",
+            "frequency_mhz": "124.03"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

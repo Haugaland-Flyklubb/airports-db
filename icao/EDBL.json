@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "568761",
+            "airport_ref": "43122",
+            "airport_ident": "EDBL",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
             "id": "521180",
             "airport_ref": "43122",
             "airport_ident": "EDBL",
             "type": "CTAF",
-            "description": "Laucha Info",
+            "description": "Laucha Radio",
             "frequency_mhz": "118.96"
         }
     ],

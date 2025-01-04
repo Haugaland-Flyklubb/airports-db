@@ -54,17 +54,17 @@
             "id": "53165",
             "airport_ref": "2739",
             "airport_ident": "ETNL",
-            "type": "INFO",
-            "description": "BERLIN INFO",
+            "type": "AFIS",
+            "description": "Langen Information",
             "frequency_mhz": "132.65"
         },
         {
             "id": "53167",
             "airport_ref": "2739",
             "airport_ident": "ETNL",
-            "type": "RDR",
-            "description": "RADAR",
-            "frequency_mhz": "34.4"
+            "type": "ATIS",
+            "description": "Laage ATIS",
+            "frequency_mhz": "134.605"
         },
         {
             "id": "53166",
@@ -79,8 +79,8 @@
             "airport_ref": "2739",
             "airport_ident": "ETNL",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.425"
+            "description": "Laage Tower / Turm",
+            "frequency_mhz": "118.43"
         }
     ],
     "country": {
