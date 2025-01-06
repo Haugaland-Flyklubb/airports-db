@@ -1,0 +1,38 @@
+{
+    "id": "569168",
+    "ident": "US-9137",
+    "type": "closed",
+    "name": "Newport Bay Airport",
+    "latitude_deg": "33.64806",
+    "longitude_deg": "-117.93505",
+    "elevation_ft": "100",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Newport Beach",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": "Californian airports"
+    }
+}

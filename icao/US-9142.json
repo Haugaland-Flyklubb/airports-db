@@ -1,0 +1,62 @@
+{
+    "id": "569184",
+    "ident": "US-9142",
+    "type": "small_airport",
+    "name": "Alos Field",
+    "latitude_deg": "35.730892",
+    "longitude_deg": "-90.794951",
+    "elevation_ft": "252",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Jonesboro",
+    "scheduled_service": "no",
+    "gps_code": "90AR",
+    "iata_code": "",
+    "local_code": "90AR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "569185",
+            "airport_ref": "569184",
+            "airport_ident": "US-9142",
+            "length_ft": "2450",
+            "width_ft": "23",
+            "surface": "Asphalt/Gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": "Airports in Arkansas"
+    }
+}
