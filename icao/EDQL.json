@@ -43,11 +43,27 @@
     ],
     "freqs": [
         {
+            "id": "569370",
+            "airport_ref": "28638",
+            "airport_ident": "EDQL",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "569371",
+            "airport_ref": "28638",
+            "airport_ident": "EDQL",
+            "type": "AFIS",
+            "description": "Coburg Information",
+            "frequency_mhz": "128.68"
+        },
+        {
             "id": "302172",
             "airport_ref": "28638",
             "airport_ident": "EDQL",
             "type": "INFO",
-            "description": "Lichtenfels Info",
+            "description": "Lichtenfels radio",
             "frequency_mhz": "118.19"
         }
     ],

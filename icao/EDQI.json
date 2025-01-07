@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "569359",
+            "airport_ref": "28634",
+            "airport_ident": "EDQI",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "569360",
+            "airport_ref": "28634",
+            "airport_ident": "EDQI",
+            "type": "INFO",
+            "description": "Lauf Radio",
+            "frequency_mhz": "128.585"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

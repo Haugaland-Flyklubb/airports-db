@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Sonderlandeplatz Locktow",
+    "freqs": [
+        {
+            "id": "569373",
+            "airport_ref": "43128",
+            "airport_ident": "DE-0006",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "569374",
+            "airport_ref": "43128",
+            "airport_ident": "DE-0006",
+            "type": "INFO",
+            "description": "Locktow Info",
+            "frequency_mhz": "132.34"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "569361",
+            "airport_ref": "28635",
+            "airport_ident": "EDFT",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
             "id": "328901",
             "airport_ref": "28635",
             "airport_ident": "EDFT",
             "type": "INFO",
-            "description": "Lauterbach Info",
-            "frequency_mhz": "122.175"
+            "description": "Lauterbach Radio",
+            "frequency_mhz": "122.18"
         }
     ],
     "country": {

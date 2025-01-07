@@ -47,24 +47,48 @@
             "airport_ref": "2184",
             "airport_ident": "EDAC",
             "type": "AFIS",
-            "description": "Altenburg Information",
-            "frequency_mhz": "123.58"
-        },
-        {
-            "id": "52858",
-            "airport_ref": "2184",
-            "airport_ident": "EDAC",
-            "type": "FIS",
             "description": "Langen Information",
             "frequency_mhz": "125.8"
+        },
+        {
+            "id": "569364",
+            "airport_ref": "2184",
+            "airport_ident": "EDAC",
+            "type": "ATIS",
+            "description": "Leipzig ATIS",
+            "frequency_mhz": "123.855"
+        },
+        {
+            "id": "569366",
+            "airport_ref": "2184",
+            "airport_ident": "EDAC",
+            "type": "GND",
+            "description": "Leipzig Ground / Rollkontrolle",
+            "frequency_mhz": "121.805"
         },
         {
             "id": "52859",
             "airport_ref": "2184",
             "airport_ident": "EDAC",
-            "type": "RDR",
-            "description": "MUNCHEN RADAR",
-            "frequency_mhz": "126.175"
+            "type": "TWR",
+            "description": "Leipzig Tower / Turm (South / Süd)",
+            "frequency_mhz": "121.105"
+        },
+        {
+            "id": "52858",
+            "airport_ref": "2184",
+            "airport_ident": "EDAC",
+            "type": "TWR",
+            "description": "Leipzig Tower / Turm (North / Nord)",
+            "frequency_mhz": "125.955"
+        },
+        {
+            "id": "569367",
+            "airport_ref": "2184",
+            "airport_ident": "EDAC",
+            "type": "VOLMET",
+            "description": "Bremen VOLMET",
+            "frequency_mhz": "128.405"
         }
     ],
     "country": {

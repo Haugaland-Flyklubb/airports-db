@@ -47,7 +47,7 @@
             "airport_ref": "2236",
             "airport_ident": "EDHL",
             "type": "AFIS",
-            "description": "BREMEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "125.1"
         },
         {
@@ -55,24 +55,24 @@
             "airport_ref": "2236",
             "airport_ident": "EDHL",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119.925"
+            "description": "Luebeck ATIS",
+            "frequency_mhz": "119.93"
         },
         {
             "id": "52923",
             "airport_ref": "2236",
             "airport_ident": "EDHL",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.775"
+            "description": "Luebeck Ground",
+            "frequency_mhz": "121.78"
         },
         {
             "id": "52924",
             "airport_ref": "2236",
             "airport_ident": "EDHL",
             "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "128.7"
+            "description": "Luebeck Radio",
+            "frequency_mhz": "128.705"
         },
         {
             "id": "52925",
@@ -87,8 +87,8 @@
             "airport_ref": "2236",
             "airport_ident": "EDHL",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "128.7"
+            "description": "Luebeck Tower / Turm",
+            "frequency_mhz": "128.705"
         }
     ],
     "country": {
