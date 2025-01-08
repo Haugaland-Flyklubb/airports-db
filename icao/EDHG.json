@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "569653",
+            "airport_ref": "29074",
+            "airport_ident": "EDHG",
+            "type": "AFIS",
+            "description": "Lueneburg Radio",
+            "frequency_mhz": "122.18"
+        },
+        {
+            "id": "569652",
+            "airport_ref": "29074",
+            "airport_ident": "EDHG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

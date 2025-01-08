@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "569654",
+            "airport_ref": "28641",
+            "airport_ident": "EDOJ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "569655",
+            "airport_ref": "28641",
+            "airport_ident": "EDOJ",
+            "type": "INFO",
+            "description": "Luesse Radio",
+            "frequency_mhz": "128.755"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
