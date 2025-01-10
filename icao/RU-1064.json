@@ -1,0 +1,38 @@
+{
+    "id": "570165",
+    "ident": "RU-1064",
+    "type": "small_airport",
+    "name": "Prigorodnoye Airfield",
+    "latitude_deg": "44.2273",
+    "longitude_deg": "42.10827",
+    "elevation_ft": "2047",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KC",
+    "municipality": "Prigorodnoye",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305283",
+        "code": "RU-KC",
+        "local_code": "KC",
+        "name": "Karachay-Cherkess Republic",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Karachay-Cherkess_Republic",
+        "keywords": "Airports in Karachay-Cherkess Republic"
+    }
+}

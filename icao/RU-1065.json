@@ -1,0 +1,38 @@
+{
+    "id": "570167",
+    "ident": "RU-1065",
+    "type": "small_airport",
+    "name": "Progress Airfield",
+    "latitude_deg": "44.881707",
+    "longitude_deg": "40.232148",
+    "elevation_ft": "522",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AD",
+    "municipality": "Progress",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305262",
+        "code": "RU-AD",
+        "local_code": "AD",
+        "name": "Republic of Adygea",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Republic_of_Adygea",
+        "keywords": "Adygeya"
+    }
+}
