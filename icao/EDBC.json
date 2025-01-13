@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "570831",
+            "airport_ref": "28546",
+            "airport_ident": "EDBC",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "570832",
+            "airport_ref": "28546",
+            "airport_ident": "EDBC",
+            "type": "INFO",
+            "description": "Cochstedt Radio",
+            "frequency_mhz": "131.13"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

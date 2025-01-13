@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "570839",
+            "airport_ref": "28644",
+            "airport_ident": "EDLM",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "570840",
+            "airport_ref": "28644",
+            "airport_ident": "EDLM",
+            "type": "INFO",
+            "description": "Marl Radio",
+            "frequency_mhz": "134.61"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

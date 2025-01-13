@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "98"
         }
     ],
+    "freqs": [
+        {
+            "id": "570854",
+            "airport_ref": "28649",
+            "airport_ident": "EDGM",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "570856",
+            "airport_ref": "28649",
+            "airport_ident": "EDGM",
+            "type": "INFO",
+            "description": "Mosbach Radio",
+            "frequency_mhz": "128.34"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

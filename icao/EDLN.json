@@ -43,36 +43,36 @@
     ],
     "freqs": [
         {
-            "id": "52851",
-            "airport_ref": "2243",
-            "airport_ident": "EDLN",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.925"
-        },
-        {
             "id": "52852",
             "airport_ref": "2243",
             "airport_ident": "EDLN",
-            "type": "INFO",
-            "description": "LANGEN INFO",
+            "type": "AFIS",
+            "description": "Langen Information",
             "frequency_mhz": "129.875"
         },
         {
             "id": "52853",
             "airport_ref": "2243",
             "airport_ident": "EDLN",
-            "type": "RDR",
-            "description": "LANGEN RADAR",
-            "frequency_mhz": "133.775"
+            "type": "ATIS",
+            "description": "Moenchengladbach ATIS",
+            "frequency_mhz": "109.8"
+        },
+        {
+            "id": "52851",
+            "airport_ref": "2243",
+            "airport_ident": "EDLN",
+            "type": "GND",
+            "description": "Moenchengladbach Ground / Rollkontrolle",
+            "frequency_mhz": "121.93"
         },
         {
             "id": "52854",
             "airport_ref": "2243",
             "airport_ident": "EDLN",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.45"
+            "description": "Moenchengladbach Tower / Turm",
+            "frequency_mhz": "120.455"
         }
     ],
     "country": {

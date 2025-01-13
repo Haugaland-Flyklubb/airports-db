@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Marpingen",
     "keywords": "Segelfluggelände Marpingen",
+    "freqs": [
+        {
+            "id": "570841",
+            "airport_ref": "308863",
+            "airport_ident": "EDRC",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "570842",
+            "airport_ref": "308863",
+            "airport_ident": "EDRC",
+            "type": "INFO",
+            "description": "Marpingen Radio",
+            "frequency_mhz": "120.185"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

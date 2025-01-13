@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "570843",
+            "airport_ref": "28645",
+            "airport_ident": "EDXG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "570844",
+            "airport_ref": "28645",
+            "airport_ident": "EDXG",
+            "type": "INFO",
+            "description": "Melle Radio",
+            "frequency_mhz": "125.835"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

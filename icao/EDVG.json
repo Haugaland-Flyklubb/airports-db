@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "570847",
+            "airport_ref": "28646",
+            "airport_ident": "EDVG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "570848",
+            "airport_ref": "28646",
+            "airport_ident": "EDVG",
+            "type": "INFO",
+            "description": "Mengeringhausen Radio",
+            "frequency_mhz": "119.735"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

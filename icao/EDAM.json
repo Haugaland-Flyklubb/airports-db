@@ -47,7 +47,7 @@
             "airport_ref": "2189",
             "airport_ident": "EDAM",
             "type": "AFIS",
-            "description": "BERLIN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "125.8"
         },
         {
@@ -55,16 +55,8 @@
             "airport_ref": "2189",
             "airport_ident": "EDAM",
             "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "52931",
-            "airport_ref": "2189",
-            "airport_ident": "EDAM",
-            "type": "RDR",
-            "description": "BERLIN RADAR",
-            "frequency_mhz": "124.175"
+            "description": "Merseburg Radio",
+            "frequency_mhz": "118.99"
         }
     ],
     "country": {

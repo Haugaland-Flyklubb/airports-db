@@ -46,17 +46,17 @@
             "id": "53227",
             "airport_ref": "2726",
             "airport_ident": "ETHM",
-            "type": "APP",
-            "description": "BUCHEL RADAR",
-            "frequency_mhz": "25.33"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
         },
         {
             "id": "53228",
             "airport_ref": "2726",
             "airport_ident": "ETHM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "40.6"
+            "type": "INFO",
+            "description": "Mendig Radio",
+            "frequency_mhz": "135.06"
         }
     ],
     "country": {

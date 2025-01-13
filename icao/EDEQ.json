@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "570861",
+            "airport_ref": "28651",
+            "airport_ident": "EDEQ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "570862",
+            "airport_ref": "28651",
+            "airport_ident": "EDEQ",
+            "type": "INFO",
+            "description": "Muehlhausen Radio",
+            "frequency_mhz": "122.855"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

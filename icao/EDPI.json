@@ -17,6 +17,24 @@
     "home_link": "https://www.moosburg.org/info/tour/kippe.html",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Moosburg_auf_der_Kippe",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "570851",
+            "airport_ref": "314005",
+            "airport_ident": "EDPI",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "570852",
+            "airport_ref": "314005",
+            "airport_ident": "EDPI",
+            "type": "INFO",
+            "description": "Moosburg Radio",
+            "frequency_mhz": "125.815"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

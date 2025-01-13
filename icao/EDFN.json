@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "570837",
+            "airport_ref": "28643",
+            "airport_ident": "EDFN",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "570838",
+            "airport_ref": "28643",
+            "airport_ident": "EDFN",
+            "type": "INFO",
+            "description": "Marburg Radio",
+            "frequency_mhz": "134.915"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

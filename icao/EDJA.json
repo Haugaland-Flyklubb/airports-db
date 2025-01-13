@@ -47,16 +47,32 @@
             "airport_ref": "2237",
             "airport_ident": "EDJA",
             "type": "AFIS",
-            "description": "MUNCHEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "126.95"
+        },
+        {
+            "id": "570845",
+            "airport_ref": "2237",
+            "airport_ident": "EDJA",
+            "type": "ATIS",
+            "description": "Memmingen ATIS",
+            "frequency_mhz": "118.855"
+        },
+        {
+            "id": "570846",
+            "airport_ref": "2237",
+            "airport_ident": "EDJA",
+            "type": "GND",
+            "description": "Memmingen Ground / Rollkontrolle",
+            "frequency_mhz": "121.68"
         },
         {
             "id": "53036",
             "airport_ref": "2237",
             "airport_ident": "EDJA",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "135.6"
+            "type": "TWR",
+            "description": "Memmingen Tower / Turm",
+            "frequency_mhz": "126.855"
         }
     ],
     "country": {

@@ -65,35 +65,43 @@
     ],
     "freqs": [
         {
+            "id": "53240",
+            "airport_ref": "2228",
+            "airport_ident": "EDFM",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
             "id": "53238",
             "airport_ref": "2228",
             "airport_ident": "EDFM",
-            "type": "APP",
-            "description": "COLEMAN APP",
-            "frequency_mhz": "130.5"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
         },
         {
             "id": "53239",
             "airport_ref": "2228",
             "airport_ident": "EDFM",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "Mannheim ATIS",
             "frequency_mhz": "132.415"
         },
         {
-            "id": "53240",
+            "id": "570835",
             "airport_ref": "2228",
             "airport_ident": "EDFM",
-            "type": "CNTR",
-            "description": "LANGEN RADAR",
-            "frequency_mhz": "127.5"
+            "type": "INFO",
+            "description": "Mannheim Information",
+            "frequency_mhz": "129.78"
         },
         {
             "id": "324814",
             "airport_ref": "2228",
             "airport_ident": "EDFM",
             "type": "TWR",
-            "description": "Mannheim Tower",
+            "description": "Mannheim Tower / Turm",
             "frequency_mhz": "129.78"
         }
     ],

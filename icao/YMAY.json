@@ -47,8 +47,16 @@
             "airport_ref": "27044",
             "airport_ident": "YMAY",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "Albury ATIS",
             "frequency_mhz": "115.6"
+        },
+        {
+            "id": "570931",
+            "airport_ref": "27044",
+            "airport_ident": "YMAY",
+            "type": "ATIS",
+            "description": "Albury ATIS",
+            "frequency_mhz": "133.85"
         },
         {
             "id": "48780",
@@ -67,12 +75,20 @@
             "frequency_mhz": "125.2"
         },
         {
+            "id": "570932",
+            "airport_ref": "27044",
+            "airport_ident": "YMAY",
+            "type": "GCA",
+            "description": "Albury Ground Control",
+            "frequency_mhz": "121.8"
+        },
+        {
             "id": "48782",
             "airport_ref": "27044",
             "airport_ident": "YMAY",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.2"
+            "description": "Albury Tower",
+            "frequency_mhz": "123.25"
         }
     ],
     "country": {
