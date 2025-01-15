@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/El_Jag%C3%BCel_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "571412",
+            "airport_ref": "32390",
+            "airport_ident": "SUPE",
+            "length_ft": "1870",
+            "width_ft": "65",
+            "surface": "concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "34.91",
+            "le_longitude_deg": "-54.92",
+            "le_elevation_ft": "66",
+            "le_heading_degT": "17",
+            "le_displaced_threshold_ft": "885",
+            "he_ident": "20",
+            "he_latitude_deg": "34.9",
+            "he_longitude_deg": "-54.91",
+            "he_elevation_ft": "33",
+            "he_heading_degT": "197",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "301522",
