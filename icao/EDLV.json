@@ -47,15 +47,15 @@
             "airport_ref": "2246",
             "airport_ident": "EDLV",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "124.45"
+            "description": "Niederrhein ATIS",
+            "frequency_mhz": "124.455"
         },
         {
             "id": "52724",
             "airport_ref": "2246",
             "airport_ident": "EDLV",
             "type": "INFO",
-            "description": "LANGEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "129.875"
         },
         {
@@ -71,8 +71,8 @@
             "airport_ref": "2246",
             "airport_ident": "EDLV",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "129.4"
+            "description": "Niederrhein Tower / Turm",
+            "frequency_mhz": "129.405"
         }
     ],
     "country": {

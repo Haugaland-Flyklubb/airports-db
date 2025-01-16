@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "571860",
+            "airport_ref": "28671",
+            "airport_ident": "EDXN",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "571859",
+            "airport_ref": "28671",
+            "airport_ident": "EDXN",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
+        },
+        {
+            "id": "571861",
+            "airport_ref": "28671",
+            "airport_ident": "EDXN",
+            "type": "INFO",
+            "description": "Spieka Radio",
+            "frequency_mhz": "121.03"
+        },
+        {
+            "id": "571862",
+            "airport_ref": "28671",
+            "airport_ident": "EDXN",
+            "type": "TWR",
+            "description": "Nordholz Tower",
+            "frequency_mhz": "131.525"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

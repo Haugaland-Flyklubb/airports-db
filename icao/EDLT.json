@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "571814",
+            "airport_ref": "28652",
+            "airport_ident": "EDLT",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "571815",
+            "airport_ref": "28652",
+            "airport_ident": "EDLT",
+            "type": "INFO",
+            "description": "Telgte Radio",
+            "frequency_mhz": "122.855"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -47,40 +47,56 @@
             "airport_ref": "2213",
             "airport_ident": "EDDG",
             "type": "AFIS",
-            "description": "LANGEN INFO",
-            "frequency_mhz": "123.525"
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
         },
         {
             "id": "52947",
             "airport_ref": "2213",
             "airport_ident": "EDDG",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.175"
+            "description": "Muenster Osnabrueck ATIS",
+            "frequency_mhz": "127.18"
         },
         {
             "id": "52948",
             "airport_ref": "2213",
             "airport_ident": "EDDG",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.875"
+            "description": "Muenster Osnabrueck Ground / Rollkontrolle",
+            "frequency_mhz": "121.88"
         },
         {
             "id": "52949",
             "airport_ref": "2213",
             "airport_ident": "EDDG",
-            "type": "RDR",
-            "description": "LANGEN RADAR",
-            "frequency_mhz": "129.3"
+            "type": "GND",
+            "description": "Muenster Osnabrueck Ground / Rollkontrolle",
+            "frequency_mhz": "282.125"
+        },
+        {
+            "id": "571812",
+            "airport_ref": "2213",
+            "airport_ident": "EDDG",
+            "type": "TWR",
+            "description": "Muenster Osnabrueck Tower / Turm",
+            "frequency_mhz": "120.365"
         },
         {
             "id": "52950",
             "airport_ref": "2213",
             "airport_ident": "EDDG",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "129.8"
+            "description": "Muenster Osnabrueck Tower / Turm",
+            "frequency_mhz": "129.805"
+        },
+        {
+            "id": "571813",
+            "airport_ref": "2213",
+            "airport_ident": "EDDG",
+            "type": "TWR",
+            "description": "Muenster Osnabrueck Tower / Turm",
+            "frequency_mhz": "282.125"
         }
     ],
     "country": {

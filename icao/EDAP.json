@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "571825",
+            "airport_ref": "28659",
+            "airport_ident": "EDAP",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "571826",
+            "airport_ref": "28659",
+            "airport_ident": "EDAP",
+            "type": "INFO",
+            "description": "Neuhausen Info",
+            "frequency_mhz": "122.73"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

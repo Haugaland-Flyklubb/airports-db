@@ -1,0 +1,38 @@
+{
+    "id": "571697",
+    "ident": "PE-0034",
+    "type": "heliport",
+    "name": "Central FAP Hospital Helipad",
+    "latitude_deg": "-12.103711",
+    "longitude_deg": "-77.030216",
+    "elevation_ft": "440",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LIM",
+    "municipality": "Miraflores",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305021",
+        "code": "PE-LIM",
+        "local_code": "LIM",
+        "name": "Lima Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lima_Region",
+        "keywords": "Airports in Lima Region"
+    }
+}

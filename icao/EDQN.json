@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "571835",
+            "airport_ref": "28664",
+            "airport_ident": "EDQN",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
             "id": "308771",
             "airport_ref": "28664",
             "airport_ident": "EDQN",
             "type": "INFO",
-            "description": "Neustadt/Aisch Info",
-            "frequency_mhz": "118.25"
+            "description": "Neustadt/Aisch Radio",
+            "frequency_mhz": "118.93"
         }
     ],
     "country": {

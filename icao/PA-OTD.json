@@ -17,6 +17,48 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Contadora_Airport",
     "keywords": "Contadora Airport",
+    "runways": [
+        {
+            "id": "571671",
+            "airport_ref": "35195",
+            "airport_ident": "PA-OTD",
+            "length_ft": "2297",
+            "width_ft": "49",
+            "surface": "HARD",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "37",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "36",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "571672",
+            "airport_ref": "35195",
+            "airport_ident": "PA-OTD",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "132.2"
+        },
+        {
+            "id": "571674",
+            "airport_ref": "35195",
+            "airport_ident": "PA-OTD",
+            "type": "Unicom",
+            "description": "",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302749",
         "code": "PA",

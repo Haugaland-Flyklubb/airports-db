@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "571836",
+            "airport_ref": "28663",
+            "airport_ident": "EDAN",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "571838",
+            "airport_ref": "28663",
+            "airport_ident": "EDAN",
+            "type": "INFO",
+            "description": "Neustadt-Glewe Radio",
+            "frequency_mhz": "118.815"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

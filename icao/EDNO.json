@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "571848",
+            "airport_ref": "28673",
+            "airport_ident": "EDNO",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "571846",
+            "airport_ref": "28673",
+            "airport_ident": "EDNO",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "571849",
+            "airport_ref": "28673",
+            "airport_ident": "EDNO",
+            "type": "INFO",
+            "description": "Noerdlingen Radio",
+            "frequency_mhz": "133.08"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

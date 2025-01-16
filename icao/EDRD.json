@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Neumagen-Dhron",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "571828",
+            "airport_ref": "28660",
+            "airport_ident": "EDRD",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "571829",
+            "airport_ref": "28660",
+            "airport_ident": "EDRD",
+            "type": "INFO",
+            "description": "Neumagen Radio",
+            "frequency_mhz": "129.285"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -23,8 +23,16 @@
             "airport_ref": "505079",
             "airport_ident": "EDAO",
             "type": "A/G",
-            "description": "",
+            "description": "Nordhausen Radio",
             "frequency_mhz": "120.31"
+        },
+        {
+            "id": "571854",
+            "airport_ref": "505079",
+            "airport_ident": "EDAO",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
         }
     ],
     "country": {

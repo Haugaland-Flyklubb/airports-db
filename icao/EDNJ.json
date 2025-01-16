@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "269"
         }
     ],
+    "freqs": [
+        {
+            "id": "571823",
+            "airport_ref": "28658",
+            "airport_ident": "EDNJ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "571824",
+            "airport_ref": "28658",
+            "airport_ident": "EDNJ",
+            "type": "INFO",
+            "description": "Egweil Radio",
+            "frequency_mhz": "132.005"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

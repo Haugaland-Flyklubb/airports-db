@@ -43,43 +43,35 @@
     ],
     "freqs": [
         {
-            "id": "52798",
+            "id": "52800",
             "airport_ref": "2727",
             "airport_ident": "ETHN",
-            "type": "A/D",
-            "description": "STETTEN RADAR",
-            "frequency_mhz": "34.4"
-        },
-        {
-            "id": "52797",
-            "airport_ref": "2727",
-            "airport_ident": "ETHN",
-            "type": "A/D",
-            "description": "STETTEN RADAR",
-            "frequency_mhz": "123.3"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
         },
         {
             "id": "52799",
             "airport_ref": "2727",
             "airport_ident": "ETHN",
-            "type": "A/G",
-            "description": "A/G",
-            "frequency_mhz": "40.6"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
         },
         {
-            "id": "52800",
+            "id": "52798",
             "airport_ref": "2727",
             "airport_ident": "ETHN",
-            "type": "ACC",
-            "description": "LANGEN RADAR",
-            "frequency_mhz": "135.725"
+            "type": "INFO",
+            "description": "Stetten Radio",
+            "frequency_mhz": "119.78"
         },
         {
             "id": "52801",
             "airport_ref": "2727",
             "airport_ident": "ETHN",
             "type": "TWR",
-            "description": "STETTEN TWR",
+            "description": "Stetten Tower",
             "frequency_mhz": "122.1"
         }
     ],

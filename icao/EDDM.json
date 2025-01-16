@@ -73,6 +73,22 @@
             "frequency_mhz": "123.9"
         },
         {
+            "id": "53021",
+            "airport_ref": "2218",
+            "airport_ident": "EDDM",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "571799",
+            "airport_ref": "2218",
+            "airport_ident": "EDDM",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "126.95"
+        },
+        {
             "id": "53016",
             "airport_ref": "2218",
             "airport_ident": "EDDM",
@@ -85,7 +101,7 @@
             "airport_ref": "2218",
             "airport_ident": "EDDM",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "Muenchen ATIS",
             "frequency_mhz": "123.13"
         },
         {
@@ -93,8 +109,8 @@
             "airport_ref": "2218",
             "airport_ident": "EDDM",
             "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.725"
+            "description": "Muenchen Delivery",
+            "frequency_mhz": "121.73"
         },
         {
             "id": "53019",
@@ -105,20 +121,20 @@
             "frequency_mhz": "118.825"
         },
         {
-            "id": "53020",
+            "id": "571809",
             "airport_ref": "2218",
             "airport_ident": "EDDM",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "119.4"
+            "description": "Muenchen Ground / Rollkontrolle",
+            "frequency_mhz": "121.83"
         },
         {
-            "id": "53021",
+            "id": "571810",
             "airport_ref": "2218",
             "airport_ident": "EDDM",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "120.65"
+            "type": "GND",
+            "description": "Muenchen Ground / Rollkontrolle",
+            "frequency_mhz": "121.98"
         },
         {
             "id": "53022",
@@ -133,32 +149,56 @@
             "airport_ref": "2218",
             "airport_ident": "EDDM",
             "type": "RMP",
-            "description": "Apron 2",
-            "frequency_mhz": "121.7"
+            "description": "Muenchen Apron 2 / Vorfeld 2",
+            "frequency_mhz": "121.71"
         },
         {
             "id": "313834",
             "airport_ref": "2218",
             "airport_ident": "EDDM",
             "type": "RMP",
-            "description": "Apron 1",
-            "frequency_mhz": "121.775"
+            "description": "Muenchen Apron 1 / Vorfeld 1",
+            "frequency_mhz": "121.78"
         },
         {
             "id": "313835",
             "airport_ref": "2218",
             "airport_ident": "EDDM",
             "type": "RMP",
-            "description": "Aron 3",
-            "frequency_mhz": "121.925"
+            "description": "Muenchen Apron 3 / Vorfeld 3",
+            "frequency_mhz": "121.93"
         },
         {
             "id": "53024",
             "airport_ref": "2218",
             "airport_ident": "EDDM",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
+            "description": "Muenchen Tower North / Turm Nord",
+            "frequency_mhz": "118.705"
+        },
+        {
+            "id": "53020",
+            "airport_ref": "2218",
+            "airport_ident": "EDDM",
+            "type": "TWR",
+            "description": "Muenchen Tower / Turm",
+            "frequency_mhz": "119.405"
+        },
+        {
+            "id": "571803",
+            "airport_ref": "2218",
+            "airport_ident": "EDDM",
+            "type": "TWR",
+            "description": "Muenchen Tower South / Turm Süd",
+            "frequency_mhz": "120.505"
+        },
+        {
+            "id": "571800",
+            "airport_ref": "2218",
+            "airport_ident": "EDDM",
+            "type": "VOLMET",
+            "description": "Frankfurt 2 VOLMET",
+            "frequency_mhz": "135.78"
         }
     ],
     "country": {

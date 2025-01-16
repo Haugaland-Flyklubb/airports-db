@@ -17,6 +17,24 @@
     "home_link": "https://www.edrn.de/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Nannhausen_Airfield",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "571817",
+            "airport_ref": "28654",
+            "airport_ident": "EDRN",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "571819",
+            "airport_ref": "28654",
+            "airport_ident": "EDRN",
+            "type": "INFO",
+            "description": "Nannhausen Radio",
+            "frequency_mhz": "131.285"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

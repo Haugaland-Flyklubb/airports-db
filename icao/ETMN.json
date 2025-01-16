@@ -43,52 +43,36 @@
     ],
     "freqs": [
         {
-            "id": "53203",
-            "airport_ref": "2734",
-            "airport_ident": "ETMN",
-            "type": "A/D",
-            "description": "RADAR",
-            "frequency_mhz": "35.612"
-        },
-        {
-            "id": "53202",
-            "airport_ref": "2734",
-            "airport_ident": "ETMN",
-            "type": "A/D",
-            "description": "RADAR",
-            "frequency_mhz": "123.3"
-        },
-        {
-            "id": "53204",
-            "airport_ref": "2734",
-            "airport_ident": "ETMN",
-            "type": "ACC",
-            "description": "BREMEN CON",
-            "frequency_mhz": "124.075"
-        },
-        {
             "id": "53205",
             "airport_ref": "2734",
             "airport_ident": "ETMN",
             "type": "AFIS",
-            "description": "BREMEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "125.1"
         },
         {
             "id": "53206",
             "airport_ref": "2734",
             "airport_ident": "ETMN",
-            "type": "OPS",
-            "description": "WING OPS",
-            "frequency_mhz": "28.252"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
         },
         {
             "id": "53207",
             "airport_ref": "2734",
             "airport_ident": "ETMN",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Nordholz Tower",
             "frequency_mhz": "122.1"
+        },
+        {
+            "id": "53203",
+            "airport_ref": "2734",
+            "airport_ident": "ETMN",
+            "type": "TWR",
+            "description": "Nordholz Tower / Turm",
+            "frequency_mhz": "131.265"
         }
     ],
     "country": {

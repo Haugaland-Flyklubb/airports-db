@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "571863",
+            "airport_ref": "28672",
+            "airport_ident": "EDWN",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
             "id": "320581",
             "airport_ref": "28672",
             "airport_ident": "EDWN",
             "type": "Info",
-            "description": "Nordhorn-Lingen Info",
-            "frequency_mhz": "122.65"
+            "description": "Nordhorn Radio",
+            "frequency_mhz": "122.655"
         }
     ],
     "country": {

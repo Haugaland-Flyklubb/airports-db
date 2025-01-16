@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "571842",
+            "airport_ref": "28666",
+            "airport_ident": "EDXI",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "571844",
+            "airport_ref": "28666",
+            "airport_ident": "EDXI",
+            "type": "INFO",
+            "description": "Nienburg Radio",
+            "frequency_mhz": "133.165"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

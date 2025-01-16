@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Neum%C3%BCnster",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "571832",
+            "airport_ref": "28662",
+            "airport_ident": "EDHN",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "571833",
+            "airport_ref": "28662",
+            "airport_ident": "EDHN",
+            "type": "INFO",
+            "description": "Neumuenster Radio",
+            "frequency_mhz": "136.41"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

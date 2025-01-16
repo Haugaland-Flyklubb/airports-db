@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Norden-Norddeich_Airfield",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "571850",
+            "airport_ref": "28668",
+            "airport_ident": "EDWS",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
+        },
+        {
+            "id": "571851",
+            "airport_ref": "28668",
+            "airport_ident": "EDWS",
+            "type": "INFO",
+            "description": "Norddeich Radio",
+            "frequency_mhz": "123.03"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
