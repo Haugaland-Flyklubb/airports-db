@@ -43,20 +43,20 @@
     ],
     "freqs": [
         {
-            "id": "318777",
-            "airport_ref": "28686",
-            "airport_ident": "EDLR",
-            "type": "AFIS",
-            "description": "Haxterberg Info",
-            "frequency_mhz": "125.275"
-        },
-        {
             "id": "318778",
             "airport_ref": "28686",
             "airport_ident": "EDLR",
-            "type": "ATIS",
-            "description": "ATIS EDLP",
-            "frequency_mhz": "125.725"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "318777",
+            "airport_ref": "28686",
+            "airport_ident": "EDLR",
+            "type": "INFO",
+            "description": "Haxterberg Radio",
+            "frequency_mhz": "125.035"
         }
     ],
     "country": {

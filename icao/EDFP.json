@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Ober-M%C3%B6rlen",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "572224",
+            "airport_ref": "505089",
+            "airport_ident": "EDFP",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "572225",
+            "airport_ref": "505089",
+            "airport_ident": "EDFP",
+            "type": "INFO",
+            "description": "Ober-Moehrlen Radio",
+            "frequency_mhz": "122.34"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

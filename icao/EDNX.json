@@ -47,15 +47,31 @@
             "airport_ref": "29078",
             "airport_ident": "EDNX",
             "type": "AFIS",
-            "description": "Muenchen Information",
+            "description": "Langen Information",
             "frequency_mhz": "126.95"
+        },
+        {
+            "id": "572230",
+            "airport_ref": "29078",
+            "airport_ident": "EDNX",
+            "type": "ATIS",
+            "description": "Muenchen ATIS",
+            "frequency_mhz": "123.13"
+        },
+        {
+            "id": "572231",
+            "airport_ref": "29078",
+            "airport_ident": "EDNX",
+            "type": "FIS",
+            "description": "Schleissheim Information (IFR flight ops)",
+            "frequency_mhz": "131.13"
         },
         {
             "id": "298333",
             "airport_ref": "29078",
             "airport_ident": "EDNX",
             "type": "INFO",
-            "description": "Schleissheim Info",
+            "description": "Schleissheim Radio",
             "frequency_mhz": "131.13"
         }
     ],

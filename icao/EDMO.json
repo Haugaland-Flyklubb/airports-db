@@ -47,7 +47,7 @@
             "airport_ref": "2252",
             "airport_ident": "EDMO",
             "type": "AFIS",
-            "description": "MUNCHEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "126.95"
         },
         {
@@ -57,6 +57,14 @@
             "type": "ARR",
             "description": "MUNCHEN ARR",
             "frequency_mhz": "120.775"
+        },
+        {
+            "id": "572226",
+            "airport_ref": "2252",
+            "airport_ident": "EDMO",
+            "type": "ATIS",
+            "description": "Oberpfaffenhofen ATIS",
+            "frequency_mhz": "126.58"
         },
         {
             "id": "52840",
@@ -71,8 +79,16 @@
             "airport_ref": "2252",
             "airport_ident": "EDMO",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.55"
+            "description": "Oberpfaffenhofen Tower / Turm",
+            "frequency_mhz": "119.555"
+        },
+        {
+            "id": "572227",
+            "airport_ref": "2252",
+            "airport_ident": "EDMO",
+            "type": "VOLMET",
+            "description": "Frankfurt 2 VOLMET",
+            "frequency_mhz": "135.78"
         }
     ],
     "country": {

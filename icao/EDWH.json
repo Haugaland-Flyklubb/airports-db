@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "572238",
+            "airport_ref": "28680",
+            "airport_ident": "EDWH",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
+        },
+        {
+            "id": "572240",
+            "airport_ref": "28680",
+            "airport_ident": "EDWH",
+            "type": "INFO",
+            "description": "Oldenburg Radio",
+            "frequency_mhz": "118.18"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -17,6 +17,24 @@
     "home_link": "https://www.edqo.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Ottengr%C3%BCner_Heide",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "572252",
+            "airport_ref": "28685",
+            "airport_ident": "EDQO",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "572253",
+            "airport_ref": "28685",
+            "airport_ident": "EDQO",
+            "type": "INFO",
+            "description": "Ottengruener Heide Radio",
+            "frequency_mhz": "133.585"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

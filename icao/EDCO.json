@@ -43,20 +43,20 @@
     ],
     "freqs": [
         {
-            "id": "52718",
-            "airport_ref": "2206",
-            "airport_ident": "EDCO",
-            "type": "A/G",
-            "description": "INFO",
-            "frequency_mhz": "125.51"
-        },
-        {
             "id": "52717",
             "airport_ref": "2206",
             "airport_ident": "EDCO",
             "type": "AFIS",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "125.8"
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "52718",
+            "airport_ref": "2206",
+            "airport_ident": "EDCO",
+            "type": "INFO",
+            "description": "Obermehler Radio",
+            "frequency_mhz": "125.51"
         }
     ],
     "country": {
