@@ -3,12 +3,12 @@
     "ident": "US-9167",
     "type": "small_airport",
     "name": "Huckins Ranch Airport",
-    "latitude_deg": "45.21507",
-    "longitude_deg": "-105.73395",
+    "latitude_deg": "45.215222",
+    "longitude_deg": "-105.734294",
     "elevation_ft": "3232",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-U-A",
+    "iso_region": "US-MT",
     "municipality": "Broadus",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306120",
-        "code": "US-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": "Airports in Montana"
     }
 }

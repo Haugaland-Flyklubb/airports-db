@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "573190",
+            "airport_ref": "29090",
+            "airport_ident": "EDTQ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "573191",
+            "airport_ref": "29090",
+            "airport_ident": "EDTQ",
+            "type": "INFO",
+            "description": "Pattonville Radio",
+            "frequency_mhz": "124.61"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

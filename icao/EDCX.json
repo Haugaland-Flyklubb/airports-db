@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "573218",
+            "airport_ref": "28698",
+            "airport_ident": "EDCX",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
             "id": "310369",
             "airport_ref": "28698",
             "airport_ident": "EDCX",
             "type": "INFO",
-            "description": "Purkshof Info",
-            "frequency_mhz": "122.4"
+            "description": "Purkshof Radio",
+            "frequency_mhz": "135.005"
         }
     ],
     "country": {

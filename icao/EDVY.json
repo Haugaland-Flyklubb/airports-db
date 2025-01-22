@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "573214",
+            "airport_ref": "28697",
+            "airport_ident": "EDVY",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "573215",
+            "airport_ref": "28697",
+            "airport_ident": "EDVY",
+            "type": "INFO",
+            "description": "Porta Radio",
+            "frequency_mhz": "130.64"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

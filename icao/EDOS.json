@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "573199",
+            "airport_ref": "28691",
+            "airport_ident": "EDOS",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
             "id": "511829",
             "airport_ref": "28691",
             "airport_ident": "EDOS",
-            "type": "A/G",
-            "description": "",
+            "type": "INFO",
+            "description": "Pennewitz Radio",
             "frequency_mhz": "130.64"
         }
     ],

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "573197",
+            "airport_ref": "43123",
+            "airport_ident": "EDHP",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "573198",
+            "airport_ref": "43123",
+            "airport_ident": "EDHP",
+            "type": "INFO",
+            "description": "Pellworm Radio",
+            "frequency_mhz": "123.91"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

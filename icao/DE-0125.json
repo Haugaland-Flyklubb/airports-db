@@ -17,6 +17,24 @@
     "home_link": "http://www.uhlenflug-peine.de/index.php/peine-kippe",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Peine-Glindbruchkippe",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "573194",
+            "airport_ref": "311668",
+            "airport_ident": "DE-0125",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "573195",
+            "airport_ref": "311668",
+            "airport_ident": "DE-0125",
+            "type": "INFO",
+            "description": "Peine Radio",
+            "frequency_mhz": "122.83"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

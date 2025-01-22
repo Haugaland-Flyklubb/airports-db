@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "573207",
+            "airport_ref": "28694",
+            "airport_ident": "EDRP",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "573208",
+            "airport_ref": "28694",
+            "airport_ident": "EDRP",
+            "type": "FIS",
+            "description": "Zweibruekcen Information",
+            "frequency_mhz": "123.83"
+        },
+        {
+            "id": "573209",
+            "airport_ref": "28694",
+            "airport_ident": "EDRP",
+            "type": "INFO",
+            "description": "Pirmasens Radio",
+            "frequency_mhz": "122.355"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

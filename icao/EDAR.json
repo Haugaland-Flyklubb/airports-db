@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "573210",
+            "airport_ref": "28695",
+            "airport_ident": "EDAR",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "573211",
+            "airport_ref": "28695",
+            "airport_ident": "EDAR",
+            "type": "INFO",
+            "description": "Pirna Radio",
+            "frequency_mhz": "118.63"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

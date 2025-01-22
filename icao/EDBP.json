@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "573205",
+            "airport_ref": "28726",
+            "airport_ident": "EDBP",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "573206",
+            "airport_ref": "28726",
+            "airport_ident": "EDBP",
+            "type": "INFO",
+            "description": "Pinnow Radio",
+            "frequency_mhz": "118.005"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -3,12 +3,12 @@
     "ident": "US-9125",
     "type": "heliport",
     "name": "Borrego Medical Center Heliport",
-    "latitude_deg": "33.193672",
-    "longitude_deg": "-116.329663",
+    "latitude_deg": "33.193678",
+    "longitude_deg": "-116.329669",
     "elevation_ft": "738",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-U-A",
+    "iso_region": "US-CA",
     "municipality": "Borrego Springs",
     "scheduled_service": "no",
     "gps_code": "43CA",
@@ -50,13 +50,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306120",
-        "code": "US-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": "Californian airports"
     }
 }

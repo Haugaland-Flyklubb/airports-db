@@ -55,16 +55,16 @@
             "airport_ref": "2244",
             "airport_ident": "EDLP",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "125.725"
+            "description": "Paderborn ATIS",
+            "frequency_mhz": "125.73"
         },
         {
             "id": "52933",
             "airport_ref": "2244",
             "airport_ident": "EDLP",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.925"
+            "description": "Paderborn Ground / Rollkontrolle",
+            "frequency_mhz": "121.93"
         },
         {
             "id": "52935",
@@ -87,8 +87,8 @@
             "airport_ref": "2244",
             "airport_ident": "EDLP",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "133.375"
+            "description": "Paderborn Tower / Turm",
+            "frequency_mhz": "133.38"
         }
     ],
     "country": {

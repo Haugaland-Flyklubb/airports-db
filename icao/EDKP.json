@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "573212",
+            "airport_ref": "28696",
+            "airport_ident": "EDKP",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "573213",
+            "airport_ref": "28696",
+            "airport_ident": "EDKP",
+            "type": "INFO",
+            "description": "Plettenberg Radio",
+            "frequency_mhz": "127.11"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

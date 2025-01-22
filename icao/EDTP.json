@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Pfullendorf",
     "keywords": "Flugplatz Pfullendorf",
+    "freqs": [
+        {
+            "id": "573203",
+            "airport_ref": "28693",
+            "airport_ident": "EDTP",
+            "type": "AFIS",
+            "description": "Zürich Information",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "573204",
+            "airport_ref": "28693",
+            "airport_ident": "EDTP",
+            "type": "INFO",
+            "description": "Pfullendorf Radio",
+            "frequency_mhz": "122.435"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

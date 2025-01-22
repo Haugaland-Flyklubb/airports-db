@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "573290",
+            "airport_ref": "28702",
+            "airport_ident": "EDOX",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "573291",
+            "airport_ref": "28702",
+            "airport_ident": "EDOX",
+            "type": "INFO",
+            "description": "Renneritz Radio",
+            "frequency_mhz": "128.86"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

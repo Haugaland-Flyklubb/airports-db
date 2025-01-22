@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "573288",
+            "airport_ref": "28701",
+            "airport_ident": "EDOD",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "573289",
+            "airport_ref": "28701",
+            "airport_ident": "EDOD",
+            "type": "INFO",
+            "description": "Reinsdorf Radio",
+            "frequency_mhz": "130.655"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

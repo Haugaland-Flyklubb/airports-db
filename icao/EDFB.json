@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": "229"
         }
     ],
+    "freqs": [
+        {
+            "id": "573286",
+            "airport_ref": "28700",
+            "airport_ident": "EDFB",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "573287",
+            "airport_ref": "28700",
+            "airport_ident": "EDFB",
+            "type": "INFO",
+            "description": "Reichelsheim Radio",
+            "frequency_mhz": "120.43"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
