@@ -175,6 +175,14 @@
             "frequency_mhz": "127.875"
         },
         {
+            "id": "573910",
+            "airport_ref": "26396",
+            "airport_ident": "UUEE",
+            "type": "RADAR",
+            "description": "",
+            "frequency_mhz": "122.7"
+        },
+        {
             "id": "56689",
             "airport_ref": "26396",
             "airport_ident": "UUEE",
@@ -189,6 +197,14 @@
             "type": "TWR",
             "description": "TWR",
             "frequency_mhz": "120.7"
+        },
+        {
+            "id": "573909",
+            "airport_ref": "26396",
+            "airport_ident": "UUEE",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "131.5"
         }
     ],
     "country": {

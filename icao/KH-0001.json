@@ -17,6 +17,30 @@
     "home_link": "http://darasakor-airport.com/en/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Dara_Sakor_International_Airport",
     "keywords": "Krong Khemara Phoumin, អាកាសយានដ្ឋានអន្តរជាតិតារាសាគរ",
+    "runways": [
+        {
+            "id": "573980",
+            "airport_ref": "339963",
+            "airport_ident": "KH-0001",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302641",
         "code": "KH",
