@@ -2,7 +2,7 @@
     "id": "314007",
     "ident": "EDSR",
     "type": "small_airport",
-    "name": "Stahringen-Wahlwies Airfield",
+    "name": "RADOLFZELL-STAHRINGEN Airfield",
     "latitude_deg": "47.802587",
     "longitude_deg": "8.979378",
     "elevation_ft": "",
@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Radolfzell-Stahringen",
     "keywords": "Flugplatz Stahringen-Wahlwies",
+    "runways": [
+        {
+            "id": "574257",
+            "airport_ref": "314007",
+            "airport_ident": "EDSR",
+            "length_ft": "2329",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1381",
+            "le_heading_degT": "11",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "1345",
+            "he_heading_degT": "191",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "573282",

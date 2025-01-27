@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "150"
         }
     ],
+    "freqs": [
+        {
+            "id": "574313",
+            "airport_ref": "28584",
+            "airport_ident": "EDCG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "574314",
+            "airport_ref": "28584",
+            "airport_ident": "EDCG",
+            "type": "INFO",
+            "description": "Ruegen Radio",
+            "frequency_mhz": "123.005"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

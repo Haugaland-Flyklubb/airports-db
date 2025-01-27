@@ -68,8 +68,8 @@
             "id": "52819",
             "airport_ref": "2200",
             "airport_ident": "EDBR",
-            "type": "AAS",
-            "description": "BERLIN INFO",
+            "type": "AFIS",
+            "description": "Langen Information",
             "frequency_mhz": "125.8"
         },
         {
@@ -77,8 +77,8 @@
             "airport_ref": "2200",
             "airport_ident": "EDBR",
             "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "123.25"
+            "description": "Rothenburg Radio",
+            "frequency_mhz": "123.255"
         }
     ],
     "country": {

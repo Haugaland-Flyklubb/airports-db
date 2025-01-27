@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574305",
+            "airport_ref": "28706",
+            "airport_ident": "EDAW",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "574306",
+            "airport_ref": "28706",
+            "airport_ident": "EDAW",
+            "type": "INFO",
+            "description": "Roitzschjora Radio",
+            "frequency_mhz": "123.98"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

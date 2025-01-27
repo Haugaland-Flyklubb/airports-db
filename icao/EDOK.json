@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "574312",
+            "airport_ref": "28710",
+            "airport_ident": "EDOK",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
             "id": "511830",
             "airport_ref": "28710",
             "airport_ident": "EDOK",
-            "type": "A/G",
-            "description": "",
+            "type": "INFO",
+            "description": "Rudolfstadt Radio",
             "frequency_mhz": "118.33"
         }
     ],
