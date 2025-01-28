@@ -1,0 +1,62 @@
+{
+    "id": "574534",
+    "ident": "US-9265",
+    "type": "seaplane_base",
+    "name": "Baby Lake Seaplane Base",
+    "latitude_deg": "46.967706",
+    "longitude_deg": "-94.361947",
+    "elevation_ft": "1394",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Hackensack",
+    "scheduled_service": "no",
+    "gps_code": "64MN",
+    "iata_code": "",
+    "local_code": "64MN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "574536",
+            "airport_ref": "574534",
+            "airport_ident": "US-9265",
+            "length_ft": "6848",
+            "width_ft": "100",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "2W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": "Airports in Minnesota"
+    }
+}
