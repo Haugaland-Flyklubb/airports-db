@@ -43,20 +43,12 @@
     ],
     "freqs": [
         {
-            "id": "298907",
-            "airport_ref": "4339",
-            "airport_ident": "LIMB",
-            "type": "NDB",
-            "description": "UNOFFICIAL - NO ID",
-            "frequency_mhz": "0.514"
-        },
-        {
             "id": "54152",
             "airport_ref": "4339",
             "airport_ident": "LIMB",
             "type": "RDO",
             "description": "Bresso Radio [IT/EN]",
-            "frequency_mhz": "122"
+            "frequency_mhz": "122.005"
         }
     ],
     "country": {
