@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574856",
+            "airport_ref": "28725",
+            "airport_ident": "EDTS",
+            "type": "AFIS",
+            "description": "Zürich Information",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "574857",
+            "airport_ref": "28725",
+            "airport_ident": "EDTS",
+            "type": "FIS",
+            "description": "Donaueschingen Information",
+            "frequency_mhz": "126.69"
+        },
+        {
+            "id": "574858",
+            "airport_ref": "28725",
+            "airport_ident": "EDTS",
+            "type": "INFO",
+            "description": "Schwenningen Radio",
+            "frequency_mhz": "127.535"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

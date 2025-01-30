@@ -69,15 +69,23 @@
             "airport_ref": "2278",
             "airport_ident": "EDTY",
             "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "129.225"
+            "description": "Schwaebisch Hall Information",
+            "frequency_mhz": "129.23"
+        },
+        {
+            "id": "574846",
+            "airport_ref": "2278",
+            "airport_ident": "EDTY",
+            "type": "ATIS",
+            "description": "Schwaebisch Hall ATIS",
+            "frequency_mhz": "133.88"
         },
         {
             "id": "53272",
             "airport_ref": "2278",
             "airport_ident": "EDTY",
             "type": "INFO",
-            "description": "LANGEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "128.95"
         },
         {

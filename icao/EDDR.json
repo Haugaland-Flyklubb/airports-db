@@ -69,7 +69,7 @@
             "airport_ref": "2221",
             "airport_ident": "EDDR",
             "type": "AFIS",
-            "description": "LANGEN INFO",
+            "description": "Langen Information",
             "frequency_mhz": "123.525"
         },
         {
@@ -77,8 +77,16 @@
             "airport_ref": "2221",
             "airport_ident": "EDDR",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "125.3"
+            "description": "Saarbruekcen ATIS",
+            "frequency_mhz": "125.48"
+        },
+        {
+            "id": "574813",
+            "airport_ref": "2221",
+            "airport_ident": "EDDR",
+            "type": "GND",
+            "description": "Saarbruekcen Ground / Rollkontrolle",
+            "frequency_mhz": "118.555"
         },
         {
             "id": "52978",
@@ -93,8 +101,8 @@
             "airport_ref": "2221",
             "airport_ident": "EDDR",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.35"
+            "description": "Saarbruekcen Tower / Turm",
+            "frequency_mhz": "118.355"
         }
     ],
     "country": {

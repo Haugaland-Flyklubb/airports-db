@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574814",
+            "airport_ref": "28711",
+            "airport_ident": "EDRJ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "574815",
+            "airport_ref": "28711",
+            "airport_ident": "EDRJ",
+            "type": "INFO",
+            "description": "Saarlouis Radio",
+            "frequency_mhz": "121.21"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

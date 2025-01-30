@@ -17,6 +17,32 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Saulgau",
     "keywords": "Flugplatz Bad Saulgau, Flugplatz Saulgau",
+    "freqs": [
+        {
+            "id": "574822",
+            "airport_ref": "28714",
+            "airport_ident": "EDTU",
+            "type": "AFIS",
+            "description": "Zürich Information",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "574823",
+            "airport_ref": "28714",
+            "airport_ident": "EDTU",
+            "type": "FIS",
+            "description": "Mengen Information",
+            "frequency_mhz": "135.18"
+        },
+        {
+            "id": "574824",
+            "airport_ref": "28714",
+            "airport_ident": "EDTU",
+            "type": "INFO",
+            "description": "Saulgau Radio",
+            "frequency_mhz": "123.605"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Schameder",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "574825",
+            "airport_ref": "28715",
+            "airport_ident": "EDGQ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "574827",
+            "airport_ref": "28715",
+            "airport_ident": "EDGQ",
+            "type": "INFO",
+            "description": "Schameder Radio",
+            "frequency_mhz": "133.585"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

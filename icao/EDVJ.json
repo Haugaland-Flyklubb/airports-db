@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574820",
+            "airport_ref": "29095",
+            "airport_ident": "EDVJ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "574821",
+            "airport_ref": "29095",
+            "airport_ident": "EDVJ",
+            "type": "INFO",
+            "description": "Schaeferstuhl Radio",
+            "frequency_mhz": "132.99"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

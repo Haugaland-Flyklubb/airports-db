@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574833",
+            "airport_ref": "29064",
+            "airport_ident": "EDBY",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "574834",
+            "airport_ref": "29064",
+            "airport_ident": "EDBY",
+            "type": "INFO",
+            "description": "Scholdow Radio",
+            "frequency_mhz": "136.015"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

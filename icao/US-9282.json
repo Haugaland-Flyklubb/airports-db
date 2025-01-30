@@ -1,0 +1,62 @@
+{
+    "id": "574901",
+    "ident": "US-9282",
+    "type": "heliport",
+    "name": "Christus Mother Frances Lindale Heliport",
+    "latitude_deg": "32.473962",
+    "longitude_deg": "-95.392923",
+    "elevation_ft": "482",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lindale",
+    "scheduled_service": "no",
+    "gps_code": "XA28",
+    "iata_code": "",
+    "local_code": "XA28",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "574902",
+            "airport_ref": "574901",
+            "airport_ident": "US-9282",
+            "length_ft": "50",
+            "width_ft": "50",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": "Texan airports"
+    }
+}

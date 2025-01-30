@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574854",
+            "airport_ref": "28724",
+            "airport_ident": "EDFS",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "574855",
+            "airport_ref": "28724",
+            "airport_ident": "EDFS",
+            "type": "INFO",
+            "description": "Schweinfurt Radio",
+            "frequency_mhz": "119.98"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

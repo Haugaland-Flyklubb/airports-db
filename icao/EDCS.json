@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574816",
+            "airport_ref": "28712",
+            "airport_ident": "EDCS",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "574817",
+            "airport_ref": "28712",
+            "airport_ident": "EDCS",
+            "type": "INFO",
+            "description": "Saarmund Radio",
+            "frequency_mhz": "123.655"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

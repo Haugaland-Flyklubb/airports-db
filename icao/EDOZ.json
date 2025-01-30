@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574837",
+            "airport_ref": "28719",
+            "airport_ident": "EDOZ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "574838",
+            "airport_ref": "28719",
+            "airport_ident": "EDOZ",
+            "type": "INFO",
+            "description": "Schoenebeck Radio",
+            "frequency_mhz": "125.85"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

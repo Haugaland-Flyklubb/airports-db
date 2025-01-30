@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574862",
+            "airport_ref": "28728",
+            "airport_ident": "EDAI",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "574863",
+            "airport_ref": "28728",
+            "airport_ident": "EDAI",
+            "type": "INFO",
+            "description": "Segeletz Radio",
+            "frequency_mhz": "126.01"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574847",
+            "airport_ref": "28543",
+            "airport_ident": "EDPF",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "574848",
+            "airport_ref": "28543",
+            "airport_ident": "EDPF",
+            "type": "INFO",
+            "description": "Schwandorf Radio",
+            "frequency_mhz": "121.205"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

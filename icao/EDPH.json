@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Schwabach-B%C3%BCchenbach",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "574840",
+            "airport_ref": "28720",
+            "airport_ident": "EDPH",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "574841",
+            "airport_ref": "28720",
+            "airport_ident": "EDPH",
+            "type": "INFO",
+            "description": "Schwabach Radio",
+            "frequency_mhz": "135.43"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

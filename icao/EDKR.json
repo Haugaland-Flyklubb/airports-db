@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "574830",
+            "airport_ref": "28717",
+            "airport_ident": "EDKR",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.875"
+        },
+        {
             "id": "354097",
             "airport_ref": "28717",
             "airport_ident": "EDKR",
             "type": "INFO",
-            "description": "Schmallenberg Info",
+            "description": "Schmallenberg Radio",
             "frequency_mhz": "127.09"
         }
     ],
