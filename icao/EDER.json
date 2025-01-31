@@ -65,11 +65,19 @@
     ],
     "freqs": [
         {
+            "id": "575041",
+            "airport_ref": "29072",
+            "airport_ident": "EDER",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
             "id": "331916",
             "airport_ref": "29072",
             "airport_ident": "EDER",
             "type": "INFO",
-            "description": "Wasserkuppe",
+            "description": "Wasserkuppe Radio",
             "frequency_mhz": "120.13"
         }
     ],

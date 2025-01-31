@@ -1,0 +1,38 @@
+{
+    "id": "575131",
+    "ident": "SS-0064",
+    "type": "small_airport",
+    "name": "Alek Airfield",
+    "latitude_deg": "8.6662",
+    "longitude_deg": "28.15377",
+    "elevation_ft": "1355",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-21",
+    "municipality": "Alek",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Marial Bai",
+    "country": {
+        "id": "302614",
+        "code": "SS",
+        "name": "South Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Sudan",
+        "keywords": "South Sudanese airports"
+    },
+    "region": {
+        "id": "305404",
+        "code": "SS-21",
+        "local_code": "21",
+        "name": "Warrap State",
+        "continent": "AF",
+        "iso_country": "SS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Warrap",
+        "keywords": "Airports in Warrap State"
+    }
+}

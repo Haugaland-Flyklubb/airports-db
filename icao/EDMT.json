@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "575003",
+            "airport_ref": "28737",
+            "airport_ident": "EDMT",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "575004",
+            "airport_ref": "28737",
+            "airport_ident": "EDMT",
+            "type": "INFO",
+            "description": "Tannheim Radio",
+            "frequency_mhz": "122.83"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

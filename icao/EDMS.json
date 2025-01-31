@@ -55,7 +55,7 @@
             "airport_ref": "2253",
             "airport_ident": "EDMS",
             "type": "AFIS",
-            "description": "INFO",
+            "description": "Langen Information",
             "frequency_mhz": "124.65"
         },
         {
@@ -63,8 +63,16 @@
             "airport_ref": "2253",
             "airport_ident": "EDMS",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "135.525"
+            "description": "Straubing ATIS",
+            "frequency_mhz": "135.53"
+        },
+        {
+            "id": "574986",
+            "airport_ref": "2253",
+            "airport_ident": "EDMS",
+            "type": "FIS",
+            "description": "Straubing Information",
+            "frequency_mhz": "127.155"
         },
         {
             "id": "53226",

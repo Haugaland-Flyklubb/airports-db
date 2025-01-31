@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "575063",
+            "airport_ref": "28759",
+            "airport_ident": "EDWX",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
+        },
+        {
             "id": "328719",
             "airport_ref": "28759",
             "airport_ident": "EDWX",
-            "type": "CTAF",
-            "description": "Felde Info",
-            "frequency_mhz": "123.65"
+            "type": "INFO",
+            "description": "Westerstede Radio",
+            "frequency_mhz": "123.685"
         }
     ],
     "country": {

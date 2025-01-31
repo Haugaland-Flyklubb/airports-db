@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574978",
+            "airport_ref": "28735",
+            "airport_ident": "EDHS",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "574979",
+            "airport_ref": "28735",
+            "airport_ident": "EDHS",
+            "type": "INFO",
+            "description": "Stade Radio",
+            "frequency_mhz": "132.74"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "575037",
+            "airport_ref": "28751",
+            "airport_ident": "EDWG",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
+        },
+        {
+            "id": "575038",
+            "airport_ref": "28751",
+            "airport_ident": "EDWG",
+            "type": "INFO",
+            "description": "Wooge Radio",
+            "frequency_mhz": "122.405"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

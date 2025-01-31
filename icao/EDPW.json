@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Thalm%C3%A4ssing-Waizenhofen",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "575006",
+            "airport_ref": "29086",
+            "airport_ident": "EDPW",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "575007",
+            "airport_ref": "29086",
+            "airport_ident": "EDPW",
+            "type": "INFO",
+            "description": "Thalmaessing Radio",
+            "frequency_mhz": "128.86"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

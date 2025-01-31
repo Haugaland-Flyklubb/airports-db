@@ -43,6 +43,14 @@
     ],
     "freqs": [
         {
+            "id": "53029",
+            "airport_ref": "2222",
+            "airport_ident": "EDDS",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
             "id": "352837",
             "airport_ref": "2222",
             "airport_ident": "EDDS",
@@ -55,7 +63,7 @@
             "airport_ref": "2222",
             "airport_ident": "EDDS",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "Stuttgart ATIS",
             "frequency_mhz": "126.13"
         },
         {
@@ -63,7 +71,7 @@
             "airport_ref": "2222",
             "airport_ident": "EDDS",
             "type": "CLD",
-            "description": "CLNC DEL",
+            "description": "Stuttgart Delivery",
             "frequency_mhz": "121.915"
         },
         {
@@ -79,16 +87,8 @@
             "airport_ref": "2222",
             "airport_ident": "EDDS",
             "type": "GND",
-            "description": "Stuttgart Ground",
+            "description": "Stuttgart Ground / Rollkontrolle",
             "frequency_mhz": "118.605"
-        },
-        {
-            "id": "53029",
-            "airport_ref": "2222",
-            "airport_ident": "EDDS",
-            "type": "INFO",
-            "description": "LANGEN INFO",
-            "frequency_mhz": "128.95"
         },
         {
             "id": "53030",
@@ -119,8 +119,24 @@
             "airport_ref": "2222",
             "airport_ident": "EDDS",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Stuttgart Tower / Turm",
             "frequency_mhz": "118.805"
+        },
+        {
+            "id": "574988",
+            "airport_ref": "2222",
+            "airport_ident": "EDDS",
+            "type": "TWR",
+            "description": "Stuttgart Tower / Turm",
+            "frequency_mhz": "119.065"
+        },
+        {
+            "id": "574987",
+            "airport_ref": "2222",
+            "airport_ident": "EDDS",
+            "type": "VOLMET",
+            "description": "Frankfurt 2 VOLMET",
+            "frequency_mhz": "135.78"
         }
     ],
     "country": {

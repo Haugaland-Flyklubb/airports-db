@@ -43,20 +43,20 @@
     ],
     "freqs": [
         {
-            "id": "53052",
-            "airport_ref": "2269",
-            "airport_ident": "EDRZ",
-            "type": "AFIS",
-            "description": "TWR",
-            "frequency_mhz": "123.825"
-        },
-        {
             "id": "53053",
             "airport_ref": "2269",
             "airport_ident": "EDRZ",
-            "type": "INFO",
-            "description": "LANGEN INFO",
+            "type": "AFIS",
+            "description": "Langen Information",
             "frequency_mhz": "123.525"
+        },
+        {
+            "id": "53052",
+            "airport_ref": "2269",
+            "airport_ident": "EDRZ",
+            "type": "FIS",
+            "description": "Zweibruecken Information",
+            "frequency_mhz": "123.83"
         },
         {
             "id": "53054",

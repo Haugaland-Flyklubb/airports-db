@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Vogtareuth",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "575025",
+            "airport_ref": "28747",
+            "airport_ident": "EDNV",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "575027",
+            "airport_ref": "28747",
+            "airport_ident": "EDNV",
+            "type": "INFO",
+            "description": "Vogtareuth Radio",
+            "frequency_mhz": "121.03"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

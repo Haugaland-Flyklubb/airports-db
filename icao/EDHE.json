@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "575014",
+            "airport_ref": "28742",
+            "airport_ident": "EDHE",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
             "id": "312696",
             "airport_ref": "28742",
             "airport_ident": "EDHE",
-            "type": "TWR",
-            "description": "Uetersen Info",
-            "frequency_mhz": "122.7"
+            "type": "INFO",
+            "description": "Uetersen Radio",
+            "frequency_mhz": "122.705"
         }
     ],
     "country": {

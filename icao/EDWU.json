@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "575018",
+            "airport_ref": "28744",
+            "airport_ident": "EDWU",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
+        },
+        {
             "id": "330871",
             "airport_ref": "28744",
             "airport_ident": "EDWU",
             "type": "Info",
-            "description": "Varrelbusch Info",
+            "description": "Varrelbusch Radio",
             "frequency_mhz": "132.565"
         }
     ],

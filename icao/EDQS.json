@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Suhl-Goldlauter",
     "keywords": "Flugplatz Suhl-Goldlauter",
+    "freqs": [
+        {
+            "id": "574990",
+            "airport_ref": "28736",
+            "airport_ident": "EDQS",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "574991",
+            "airport_ref": "28736",
+            "airport_ident": "EDQS",
+            "type": "INFO",
+            "description": "Suhl Radio",
+            "frequency_mhz": "127.465"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

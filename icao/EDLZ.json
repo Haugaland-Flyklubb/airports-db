@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "574971",
+            "airport_ref": "28730",
+            "airport_ident": "EDLZ",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "129.825"
+        },
+        {
+            "id": "574973",
+            "airport_ref": "28730",
+            "airport_ident": "EDLZ",
+            "type": "INFO",
+            "description": "Soest Radio",
+            "frequency_mhz": "133.465"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -87,28 +87,28 @@
     ],
     "freqs": [
         {
-            "id": "53055",
+            "id": "53057",
             "airport_ref": "2233",
             "airport_ident": "EDGS",
             "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "120.375"
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
         },
         {
             "id": "53056",
             "airport_ref": "2233",
             "airport_ident": "EDGS",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.625"
+            "description": "Siegerland ATIS",
+            "frequency_mhz": "128.705"
         },
         {
-            "id": "53057",
+            "id": "53055",
             "airport_ref": "2233",
             "airport_ident": "EDGS",
-            "type": "INFO",
-            "description": "LANGEN INFO",
-            "frequency_mhz": "123.525"
+            "type": "FIS",
+            "description": "Siegerland Information",
+            "frequency_mhz": "120.38"
         },
         {
             "id": "53058",

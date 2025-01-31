@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Untersch%C3%BCpf",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "575016",
+            "airport_ref": "28743",
+            "airport_ident": "EDGU",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "575017",
+            "airport_ref": "28743",
+            "airport_ident": "EDGU",
+            "type": "INFO",
+            "description": "Uenterschuepf Radio",
+            "frequency_mhz": "132.015"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

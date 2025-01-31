@@ -46,8 +46,8 @@
             "id": "53208",
             "airport_ref": "2254",
             "airport_ident": "EDMV",
-            "type": "AAS",
-            "description": "MUNCHEN INFO",
+            "type": "AFIS",
+            "description": "Langen Information",
             "frequency_mhz": "120.65"
         },
         {
@@ -55,8 +55,8 @@
             "airport_ref": "2254",
             "airport_ident": "EDMV",
             "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "119.175"
+            "description": "Vilshofen Radio",
+            "frequency_mhz": "119.18"
         }
     ],
     "country": {

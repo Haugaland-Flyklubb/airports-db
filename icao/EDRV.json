@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Wershofen/Eifel",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "575057",
+            "airport_ref": "29088",
+            "airport_ident": "EDRV",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "575058",
+            "airport_ref": "29088",
+            "airport_ident": "EDRV",
+            "type": "INFO",
+            "description": "Wershofen Radio",
+            "frequency_mhz": "121.39"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

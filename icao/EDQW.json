@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
-            "id": "75293",
+            "id": "575048",
             "airport_ref": "28753",
             "airport_ident": "EDQW",
             "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "120.25"
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "75293",
+            "airport_ref": "28753",
+            "airport_ident": "EDQW",
+            "type": "INFO",
+            "description": "Weiden Radio",
+            "frequency_mhz": "120.255"
         }
     ],
     "country": {

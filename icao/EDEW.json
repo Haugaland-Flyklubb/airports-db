@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "575035",
+            "airport_ref": "28750",
+            "airport_ident": "EDEW",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "575036",
+            "airport_ref": "28750",
+            "airport_ident": "EDEW",
+            "type": "INFO",
+            "description": "Wallduern Radio",
+            "frequency_mhz": "131.01"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

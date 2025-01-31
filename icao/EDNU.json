@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "575008",
+            "airport_ref": "28738",
+            "airport_ident": "EDNU",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "126.95"
+        },
+        {
             "id": "349406",
             "airport_ref": "28738",
             "airport_ident": "EDNU",
             "type": "Thannhausen Info",
-            "description": "",
+            "description": "Thannhausen Radio",
             "frequency_mhz": "118.18"
         }
     ],

@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "574989",
+            "airport_ref": "28733",
+            "airport_ident": "EDXM",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
             "id": "333449",
             "airport_ref": "28733",
             "airport_ident": "EDXM",
             "type": "INFO",
-            "description": "St Michel Info",
+            "description": "St Michel Radio",
             "frequency_mhz": "132.99"
         }
     ],

@@ -1,0 +1,38 @@
+{
+    "id": "575121",
+    "ident": "SS-0058",
+    "type": "small_airport",
+    "name": "Mankien Airstrip",
+    "latitude_deg": "9.04958",
+    "longitude_deg": "29.0835",
+    "elevation_ft": "1302",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-22",
+    "municipality": "Mankien",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302614",
+        "code": "SS",
+        "name": "South Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Sudan",
+        "keywords": "South Sudanese airports"
+    },
+    "region": {
+        "id": "305405",
+        "code": "SS-22",
+        "local_code": "22",
+        "name": "Unity State",
+        "continent": "AF",
+        "iso_country": "SS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Unity",
+        "keywords": "Airports in Unity State"
+    }
+}

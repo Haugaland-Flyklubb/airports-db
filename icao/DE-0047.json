@@ -65,11 +65,19 @@
     ],
     "freqs": [
         {
+            "id": "575030",
+            "airport_ref": "308197",
+            "airport_ident": "DE-0047",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
             "id": "331219",
             "airport_ref": "308197",
             "airport_ident": "DE-0047",
             "type": "INFO",
-            "description": "WAECHTERSBERG INFO",
+            "description": "Waechtersberg Radio",
             "frequency_mhz": "119.415"
         }
     ],

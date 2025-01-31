@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Vilsbiburg",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "575023",
+            "airport_ref": "28746",
+            "airport_ident": "EDMP",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "575024",
+            "airport_ref": "28746",
+            "airport_ident": "EDMP",
+            "type": "INFO",
+            "description": "Vilsbiburg Radio",
+            "frequency_mhz": "118.06"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

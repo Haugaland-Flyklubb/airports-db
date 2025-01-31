@@ -69,24 +69,16 @@
             "airport_ref": "2290",
             "airport_ident": "EDWI",
             "type": "AFIS",
-            "description": "BREMEN INFO",
-            "frequency_mhz": "125.1"
+            "description": "Langen Information",
+            "frequency_mhz": "128.525"
         },
         {
             "id": "52974",
             "airport_ref": "2290",
             "airport_ident": "EDWI",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "129.25"
-        },
-        {
-            "id": "52975",
-            "airport_ref": "2290",
-            "airport_ident": "EDWI",
-            "type": "TWR",
-            "description": "JEVER TWR",
-            "frequency_mhz": "118.725"
+            "type": "FIS",
+            "description": "Wilhelmshave Information",
+            "frequency_mhz": "129.255"
         }
     ],
     "country": {

@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Wilsche",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "575066",
+            "airport_ref": "308187",
+            "airport_ident": "DE-0043",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "575067",
+            "airport_ref": "308187",
+            "airport_ident": "DE-0043",
+            "type": "INFO",
+            "description": "Wilsche Radio",
+            "frequency_mhz": "121.41"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -43,11 +43,19 @@
     ],
     "freqs": [
         {
+            "id": "574980",
+            "airport_ref": "29091",
+            "airport_ident": "EDUA",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
             "id": "343190",
             "airport_ref": "29091",
             "airport_ident": "EDUA",
             "type": "Info",
-            "description": "",
+            "description": "Stechow Radio",
             "frequency_mhz": "133.585"
         }
     ],

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "575061",
+            "airport_ref": "28758",
+            "airport_ident": "EDWM",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "575062",
+            "airport_ref": "28758",
+            "airport_ident": "EDWM",
+            "type": "INFO",
+            "description": "Weser-Wuemme Radio",
+            "frequency_mhz": "133.705"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

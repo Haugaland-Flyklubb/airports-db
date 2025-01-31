@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Sonnen",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "574974",
+            "airport_ref": "28732",
+            "airport_ident": "EDPS",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "574975",
+            "airport_ref": "28732",
+            "airport_ident": "EDPS",
+            "type": "INFO",
+            "description": "Sonnen Radio",
+            "frequency_mhz": "118.965"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

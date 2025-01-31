@@ -87,10 +87,18 @@
     ],
     "freqs": [
         {
+            "id": "575075",
+            "airport_ref": "2230",
+            "airport_ident": "EDFV",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
             "id": "52731",
             "airport_ref": "2230",
             "airport_ident": "EDFV",
-            "type": "Radio",
+            "type": "Info",
             "description": "Worms Radio",
             "frequency_mhz": "124.605"
         }

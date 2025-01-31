@@ -43,20 +43,20 @@
     ],
     "freqs": [
         {
-            "id": "322918",
-            "airport_ref": "28764",
-            "airport_ident": "EDFW",
-            "type": "AFIS",
-            "description": "Schenkenturm Info",
-            "frequency_mhz": "122.175"
-        },
-        {
             "id": "322919",
             "airport_ref": "28764",
             "airport_ident": "EDFW",
-            "type": "FIS",
+            "type": "AFIS",
             "description": "Langen Information",
             "frequency_mhz": "119.15"
+        },
+        {
+            "id": "322918",
+            "airport_ref": "28764",
+            "airport_ident": "EDFW",
+            "type": "Info",
+            "description": "Schenkenturm Info",
+            "frequency_mhz": "122.175"
         }
     ],
     "country": {

@@ -43,12 +43,20 @@
     ],
     "freqs": [
         {
+            "id": "575013",
+            "airport_ref": "28741",
+            "airport_ident": "EDVU",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
             "id": "314142",
             "airport_ref": "28741",
             "airport_ident": "EDVU",
-            "type": "TWR",
-            "description": "Uelzen INFO",
-            "frequency_mhz": "130.9"
+            "type": "INFO",
+            "description": "Uelzen Radio",
+            "frequency_mhz": "130.905"
         }
     ],
     "country": {

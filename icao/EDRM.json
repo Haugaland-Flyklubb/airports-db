@@ -46,9 +46,17 @@
             "id": "299623",
             "airport_ref": "28739",
             "airport_ident": "EDRM",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "123"
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "123.525"
+        },
+        {
+            "id": "575010",
+            "airport_ref": "28739",
+            "airport_ident": "EDRM",
+            "type": "INFO",
+            "description": "Traben-Trarbach Radio",
+            "frequency_mhz": "129.035"
         }
     ],
     "country": {

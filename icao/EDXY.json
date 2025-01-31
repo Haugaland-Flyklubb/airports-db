@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": "1574"
         }
     ],
+    "freqs": [
+        {
+            "id": "575076",
+            "airport_ref": "28765",
+            "airport_ident": "EDXY",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "575077",
+            "airport_ref": "28765",
+            "airport_ident": "EDXY",
+            "type": "INFO",
+            "description": "Wyk Radio",
+            "frequency_mhz": "118.255"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

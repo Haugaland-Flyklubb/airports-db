@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "575068",
+            "airport_ref": "28760",
+            "airport_ident": "EDTW",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "575069",
+            "airport_ref": "28760",
+            "airport_ident": "EDTW",
+            "type": "INFO",
+            "description": "Winzen Radio",
+            "frequency_mhz": "118.39"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -19,11 +19,19 @@
     "keywords": "Flugplatz Weimar-Umpferstedt",
     "freqs": [
         {
+            "id": "575049",
+            "airport_ref": "29083",
+            "airport_ident": "EDOU",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
             "id": "511831",
             "airport_ref": "29083",
             "airport_ident": "EDOU",
-            "type": "A/G",
-            "description": "",
+            "type": "INFO",
+            "description": "Weimar Radio",
             "frequency_mhz": "134.535"
         }
     ],

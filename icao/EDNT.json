@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "575011",
+            "airport_ref": "28740",
+            "airport_ident": "EDNT",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "120.65"
+        },
+        {
+            "id": "575012",
+            "airport_ref": "28740",
+            "airport_ident": "EDNT",
+            "type": "INFO",
+            "description": "Treuchlingen Radio",
+            "frequency_mhz": "122.605"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

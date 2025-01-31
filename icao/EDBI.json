@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "575082",
+            "airport_ref": "28766",
+            "airport_ident": "EDBI",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "575083",
+            "airport_ref": "28766",
+            "airport_ident": "EDBI",
+            "type": "INFO",
+            "description": "Zwickau Radio",
+            "frequency_mhz": "130.66"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

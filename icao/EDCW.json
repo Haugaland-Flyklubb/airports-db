@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "575071",
+            "airport_ref": "28762",
+            "airport_ident": "EDCW",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "575072",
+            "airport_ref": "28762",
+            "airport_ident": "EDCW",
+            "type": "INFO",
+            "description": "Wismar Radio",
+            "frequency_mhz": "125.915"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

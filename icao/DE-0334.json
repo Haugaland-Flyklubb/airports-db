@@ -17,6 +17,24 @@
     "home_link": "http://www.flugsportring-kraichgau.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Sinsheim",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "574968",
+            "airport_ref": "316053",
+            "airport_ident": "DE-0334",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "574967",
+            "airport_ref": "316053",
+            "airport_ident": "DE-0334",
+            "type": "INFO",
+            "description": "Sinsheim Radio",
+            "frequency_mhz": "119.885"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

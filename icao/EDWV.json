@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Verden-Scharnhorst",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "575021",
+            "airport_ref": "28745",
+            "airport_ident": "EDWV",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "575022",
+            "airport_ref": "28745",
+            "airport_ident": "EDWV",
+            "type": "INFO",
+            "description": "Verden Radio",
+            "frequency_mhz": "130.66"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

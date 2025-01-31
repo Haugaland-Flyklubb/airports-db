@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Walldorf",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "575033",
+            "airport_ref": "28749",
+            "airport_ident": "EDGX",
+            "type": "AFIS",
+            "description": "Langen Information",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "575034",
+            "airport_ref": "28749",
+            "airport_ident": "EDGX",
+            "type": "INFO",
+            "description": "Walldorf Radio",
+            "frequency_mhz": "128.265"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

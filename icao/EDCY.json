@@ -46,8 +46,8 @@
             "id": "53169",
             "airport_ref": "2208",
             "airport_ident": "EDCY",
-            "type": "FIS",
-            "description": "Muenchen Information",
+            "type": "AFIS",
+            "description": "Langen Information",
             "frequency_mhz": "125.8"
         },
         {
@@ -55,7 +55,7 @@
             "airport_ref": "2208",
             "airport_ident": "EDCY",
             "type": "INFO",
-            "description": "INFO",
+            "description": "Welzow Radio",
             "frequency_mhz": "134.855"
         }
     ],

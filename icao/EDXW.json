@@ -68,9 +68,25 @@
             "id": "52756",
             "airport_ref": "2296",
             "airport_ident": "EDXW",
-            "type": "INFO",
-            "description": "BREMEN INFO",
+            "type": "AFIS",
+            "description": "Langen Information",
             "frequency_mhz": "125.1"
+        },
+        {
+            "id": "574992",
+            "airport_ref": "2296",
+            "airport_ident": "EDXW",
+            "type": "ATIS",
+            "description": "Sylt ATIS",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "574993",
+            "airport_ref": "2296",
+            "airport_ident": "EDXW",
+            "type": "INFO",
+            "description": "Sylt Radio",
+            "frequency_mhz": "119.75"
         },
         {
             "id": "52757",
@@ -85,7 +101,7 @@
             "airport_ref": "2296",
             "airport_ident": "EDXW",
             "type": "TWR",
-            "description": "SYLT TWR",
+            "description": "SYLT Tower / Turm",
             "frequency_mhz": "119.75"
         }
     ],
