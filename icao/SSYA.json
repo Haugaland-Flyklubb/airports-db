@@ -1,7 +1,7 @@
 {
     "id": "513",
     "ident": "SSYA",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Avelino Vieira Airport",
     "latitude_deg": "-24.103901",
     "longitude_deg": "-49.789101",
@@ -12,11 +12,11 @@
     "municipality": "Arapoti",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "AAG",
-    "local_code": "PR0020",
+    "iata_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Arapoti_Airport",
-    "keywords": "SSYA",
+    "keywords": "SSYA, AAG, PR0020",
     "runways": [
         {
             "id": "234173",
@@ -27,7 +27,7 @@
             "surface": "ASP",
             "lighted": "0",
             "closed": "0",
-            "le_ident": "5",
+            "le_ident": "05",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
             "le_elevation_ft": "",

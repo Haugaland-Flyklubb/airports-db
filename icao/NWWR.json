@@ -3,12 +3,12 @@
     "ident": "NWWR",
     "type": "medium_airport",
     "name": "Maré Airport",
-    "latitude_deg": "-21.481700897216797",
-    "longitude_deg": "168.03799438476562",
+    "latitude_deg": "-21.482438",
+    "longitude_deg": "168.038465",
     "elevation_ft": "141",
     "continent": "OC",
     "iso_country": "NC",
-    "iso_region": "NC-U-A",
+    "iso_region": "NC-01",
     "municipality": "Maré",
     "scheduled_service": "yes",
     "gps_code": "NWWR",
@@ -68,14 +68,14 @@
         "keywords": "Airports in New Caledonia"
     },
     "region": {
-        "id": "304865",
-        "code": "NC-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "509499",
+        "code": "NC-01",
+        "local_code": "1",
+        "name": "Province des îles Loyauté",
         "continent": "OC",
         "iso_country": "NC",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Loyalty_Islands_Province",
+        "keywords": ""
     },
     "navaids": [
         {

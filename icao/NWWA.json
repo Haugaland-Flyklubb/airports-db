@@ -3,12 +3,12 @@
     "ident": "NWWA",
     "type": "medium_airport",
     "name": "Tiga Airport",
-    "latitude_deg": "-21.096099853515625",
-    "longitude_deg": "167.8040008544922",
+    "latitude_deg": "-21.096407",
+    "longitude_deg": "167.80379",
     "elevation_ft": "128",
     "continent": "OC",
     "iso_country": "NC",
-    "iso_region": "NC-U-A",
+    "iso_region": "NC-01",
     "municipality": "Tiga",
     "scheduled_service": "yes",
     "gps_code": "NWWA",
@@ -26,13 +26,13 @@
         "keywords": "Airports in New Caledonia"
     },
     "region": {
-        "id": "304865",
-        "code": "NC-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "509499",
+        "code": "NC-01",
+        "local_code": "1",
+        "name": "Province des îles Loyauté",
         "continent": "OC",
         "iso_country": "NC",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Loyalty_Islands_Province",
+        "keywords": ""
     }
 }

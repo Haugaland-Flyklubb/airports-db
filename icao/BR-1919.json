@@ -3,12 +3,12 @@
     "ident": "BR-1919",
     "type": "heliport",
     "name": "Bon Voyage Heliport",
-    "latitude_deg": "-26.760735",
-    "longitude_deg": "-49.173809",
+    "latitude_deg": "-26.760776",
+    "longitude_deg": "-49.174032",
     "elevation_ft": "194",
     "continent": "SA",
     "iso_country": "BR",
-    "iso_region": "BR-U-A",
+    "iso_region": "BR-SC",
     "municipality": "Pomerode",
     "scheduled_service": "no",
     "gps_code": "SD40",
@@ -26,13 +26,13 @@
         "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
     },
     "region": {
-        "id": "303226",
-        "code": "BR-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303222",
+        "code": "BR-SC",
+        "local_code": "SC",
+        "name": "Santa Catarina",
         "continent": "SA",
         "iso_country": "BR",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina_(state)",
+        "keywords": "Airports in Santa Catarina"
     }
 }

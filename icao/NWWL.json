@@ -3,12 +3,12 @@
     "ident": "NWWL",
     "type": "medium_airport",
     "name": "Lifou Airport",
-    "latitude_deg": "-20.774799346923828",
-    "longitude_deg": "167.24000549316406",
+    "latitude_deg": "-20.774563",
+    "longitude_deg": "167.239328",
     "elevation_ft": "92",
     "continent": "OC",
     "iso_country": "NC",
-    "iso_region": "NC-U-A",
+    "iso_region": "NC-01",
     "municipality": "Lifou",
     "scheduled_service": "yes",
     "gps_code": "NWWL",
@@ -76,14 +76,14 @@
         "keywords": "Airports in New Caledonia"
     },
     "region": {
-        "id": "304865",
-        "code": "NC-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "509499",
+        "code": "NC-01",
+        "local_code": "1",
+        "name": "Province des îles Loyauté",
         "continent": "OC",
         "iso_country": "NC",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Loyalty_Islands_Province",
+        "keywords": ""
     },
     "navaids": [
         {

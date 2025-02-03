@@ -3,12 +3,12 @@
     "ident": "NWWV",
     "type": "medium_airport",
     "name": "Ouvéa Airport",
-    "latitude_deg": "-20.640600204467773",
-    "longitude_deg": "166.572998046875",
+    "latitude_deg": "-20.640932",
+    "longitude_deg": "166.573024",
     "elevation_ft": "23",
     "continent": "OC",
     "iso_country": "NC",
-    "iso_region": "NC-U-A",
+    "iso_region": "NC-01",
     "municipality": "Ouvéa",
     "scheduled_service": "yes",
     "gps_code": "NWWV",
@@ -68,14 +68,14 @@
         "keywords": "Airports in New Caledonia"
     },
     "region": {
-        "id": "304865",
-        "code": "NC-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "509499",
+        "code": "NC-01",
+        "local_code": "1",
+        "name": "Province des îles Loyauté",
         "continent": "OC",
         "iso_country": "NC",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Loyalty_Islands_Province",
+        "keywords": ""
     },
     "navaids": [
         {
