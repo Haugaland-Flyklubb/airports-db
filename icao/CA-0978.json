@@ -1,0 +1,38 @@
+{
+    "id": "575745",
+    "ident": "CA-0978",
+    "type": "heliport",
+    "name": "CMH Bobbie Burns Helipad",
+    "latitude_deg": "51.05952",
+    "longitude_deg": "-116.65393",
+    "elevation_ft": "2635",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Columbia-Shuswap",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": "British Columbian airports"
+    }
+}

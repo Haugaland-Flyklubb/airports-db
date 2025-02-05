@@ -1,0 +1,38 @@
+{
+    "id": "575835",
+    "ident": "ID-0303",
+    "type": "small_airport",
+    "name": "Mbugulo Airstrip",
+    "latitude_deg": "-3.70788",
+    "longitude_deg": "136.74285",
+    "elevation_ft": "6683",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Mapa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304118",
+        "code": "ID-PA",
+        "local_code": "PA",
+        "name": "Papua",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
+        "keywords": "Airports in Papua"
+    }
+}
