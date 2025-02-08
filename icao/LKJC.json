@@ -43,19 +43,19 @@
     ],
     "freqs": [
         {
-            "id": "307500",
-            "airport_ref": "29993",
-            "airport_ident": "LKJC",
-            "type": "RADIO",
-            "description": "Jičín RADIO",
-            "frequency_mhz": "118.08"
-        },
-        {
             "id": "333234",
             "airport_ref": "29993",
             "airport_ident": "LKJC",
             "type": "RADIO",
             "description": "",
+            "frequency_mhz": "118.08"
+        },
+        {
+            "id": "307500",
+            "airport_ref": "29993",
+            "airport_ident": "LKJC",
+            "type": "RADIO",
+            "description": "Jičín RADIO",
             "frequency_mhz": "118.08"
         }
     ],

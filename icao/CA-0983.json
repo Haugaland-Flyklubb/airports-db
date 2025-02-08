@@ -1,0 +1,62 @@
+{
+    "id": "576216",
+    "ident": "CA-0983",
+    "type": "heliport",
+    "name": "Pr Muskoka Helideck",
+    "latitude_deg": "44.956111",
+    "longitude_deg": "-79.411944",
+    "elevation_ft": "742",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Gravenhurst",
+    "scheduled_service": "no",
+    "gps_code": "CGV4",
+    "iata_code": "",
+    "local_code": "CGV4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "576217",
+            "airport_ref": "576216",
+            "airport_ident": "CA-0983",
+            "length_ft": "20",
+            "width_ft": "20",
+            "surface": "Wood",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": "Airports in Ontario"
+    }
+}
