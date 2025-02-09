@@ -1,0 +1,38 @@
+{
+    "id": "576361",
+    "ident": "CA-0987",
+    "type": "seaplane_base",
+    "name": "Peterson's Landing Water Aerodrome",
+    "latitude_deg": "49.8424",
+    "longitude_deg": "-94.457",
+    "elevation_ft": "1038",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Kenora",
+    "scheduled_service": "no",
+    "gps_code": "CPL7",
+    "iata_code": "",
+    "local_code": "CPL7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": "Airports in Ontario"
+    }
+}

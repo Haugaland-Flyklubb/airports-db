@@ -1,0 +1,38 @@
+{
+    "id": "576371",
+    "ident": "CA-0989",
+    "type": "seaplane_base",
+    "name": "Paces Lake Water Aerodrome",
+    "latitude_deg": "44.82",
+    "longitude_deg": "-63.214",
+    "elevation_ft": "56",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NS",
+    "municipality": "Musquodoboit Harbour",
+    "scheduled_service": "no",
+    "gps_code": "CPL5",
+    "iata_code": "",
+    "local_code": "CPL5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303299",
+        "code": "CA-NS",
+        "local_code": "NS",
+        "name": "Nova Scotia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nova_Scotia",
+        "keywords": "Nova Scotian airports"
+    }
+}
