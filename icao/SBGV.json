@@ -1,0 +1,96 @@
+{
+    "id": "5912",
+    "ident": "SBGV",
+    "type": "medium_airport",
+    "name": "Coronel Altino Machado Airport",
+    "latitude_deg": "-18.895882",
+    "longitude_deg": "-41.982869",
+    "elevation_ft": "561",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Governador Valadares",
+    "scheduled_service": "yes",
+    "gps_code": "SBGV",
+    "iata_code": "GVR",
+    "local_code": "MG0032",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Governador_Valadares_Airport",
+    "keywords": "Governador Valadares Airport",
+    "runways": [
+        {
+            "id": "576742",
+            "airport_ref": "5912",
+            "airport_ident": "SBGV",
+            "length_ft": "5581",
+            "width_ft": "98",
+            "surface": "ASPH",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "-18.90168",
+            "le_longitude_deg": "-41.988903",
+            "le_elevation_ft": "562",
+            "le_heading_degT": "45",
+            "le_displaced_threshold_ft": "659",
+            "he_ident": "25",
+            "he_latitude_deg": "-18.890741",
+            "he_longitude_deg": "-41.977566",
+            "he_elevation_ft": "561",
+            "he_heading_degT": "225",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "576609",
+            "airport_ref": "5912",
+            "airport_ident": "SBGV",
+            "type": "AFIS",
+            "description": "VALADARES RDO",
+            "frequency_mhz": "132.05"
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303209",
+        "code": "BR-MG",
+        "local_code": "MG",
+        "name": "Minas Gerais",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
+        "keywords": "Airports in Minas Gerais"
+    },
+    "navaids": [
+        {
+            "id": "95040",
+            "filename": "Valadares_NDB_BR",
+            "ident": "VAL",
+            "name": "Valadares",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "-18.898500442504883",
+            "longitude_deg": "-41.987701416015625",
+            "elevation_ft": "561",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.279",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBGV"
+        }
+    ]
+}

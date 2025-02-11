@@ -1,0 +1,158 @@
+{
+    "id": "3684",
+    "ident": "KMHT",
+    "type": "medium_airport",
+    "name": "Manchester-Boston Regional Airport",
+    "latitude_deg": "42.932598",
+    "longitude_deg": "-71.435699",
+    "elevation_ft": "266",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NH",
+    "municipality": "Manchester",
+    "scheduled_service": "yes",
+    "gps_code": "KMHT",
+    "iata_code": "MHT",
+    "local_code": "MHT",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Manchester-Boston_Regional_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "576812",
+            "airport_ref": "3684",
+            "airport_ident": "KMHT",
+            "length_ft": "6850",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "42.928902",
+            "le_longitude_deg": "-71.448303",
+            "le_elevation_ft": "220",
+            "le_heading_degT": "42",
+            "le_displaced_threshold_ft": "442",
+            "he_ident": "24",
+            "he_latitude_deg": "42.942799",
+            "he_longitude_deg": "-71.431",
+            "he_elevation_ft": "238",
+            "he_heading_degT": "222",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "576813",
+            "airport_ref": "3684",
+            "airport_ident": "KMHT",
+            "length_ft": "9250",
+            "width_ft": "150",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "42.94179916381836",
+            "le_longitude_deg": "-71.4395980834961",
+            "le_elevation_ft": "218",
+            "le_heading_degT": "157",
+            "le_displaced_threshold_ft": "336",
+            "he_ident": "35",
+            "he_latitude_deg": "42.91849899291992",
+            "he_longitude_deg": "-71.42579650878906",
+            "he_elevation_ft": "265",
+            "he_heading_degT": "337",
+            "he_displaced_threshold_ft": "850"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "576654",
+            "airport_ref": "3684",
+            "airport_ident": "KMHT",
+            "type": "A/D",
+            "description": "Boston Approach/Departure (Below 4000')",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "576662",
+            "airport_ref": "3684",
+            "airport_ident": "KMHT",
+            "type": "A/D",
+            "description": "Boston Approach/Departure (4000'-10000')",
+            "frequency_mhz": "134.75"
+        },
+        {
+            "id": "576655",
+            "airport_ref": "3684",
+            "airport_ident": "KMHT",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.55"
+        },
+        {
+            "id": "576656",
+            "airport_ref": "3684",
+            "airport_ident": "KMHT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.55"
+        },
+        {
+            "id": "576657",
+            "airport_ref": "3684",
+            "airport_ident": "KMHT",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "135.9"
+        },
+        {
+            "id": "576658",
+            "airport_ref": "3684",
+            "airport_ident": "KMHT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "576659",
+            "airport_ref": "3684",
+            "airport_ident": "KMHT",
+            "type": "RDO",
+            "description": "BANGOR RDO",
+            "frequency_mhz": "114.4"
+        },
+        {
+            "id": "576660",
+            "airport_ref": "3684",
+            "airport_ident": "KMHT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "576661",
+            "airport_ref": "3684",
+            "airport_ident": "KMHT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306106",
+        "code": "US-NH",
+        "local_code": "NH",
+        "name": "New Hampshire",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Hampshire",
+        "keywords": "Airports in New Hampshire"
+    }
+}
