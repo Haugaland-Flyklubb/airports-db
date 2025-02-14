@@ -2,14 +2,14 @@
     "id": "556165",
     "ident": "OERG",
     "type": "small_airport",
-    "name": "OERG",
+    "name": "Al-Rass Airport",
     "latitude_deg": "25.669",
     "longitude_deg": "43.54969",
     "elevation_ft": "2417",
     "continent": "AS",
     "iso_country": "SA",
-    "iso_region": "SA-U-A",
-    "municipality": "Alrass",
+    "iso_region": "SA-05",
+    "municipality": "Al-Rass",
     "scheduled_service": "no",
     "gps_code": "OERG",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
     },
     "region": {
-        "id": "305373",
-        "code": "SA-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305364",
+        "code": "SA-05",
+        "local_code": "05",
+        "name": "Al Qasim Region",
         "continent": "AS",
         "iso_country": "SA",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Al-Qassim_Province",
+        "keywords": "Airports in Al Qasim Region"
     }
 }
