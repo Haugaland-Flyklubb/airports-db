@@ -1,0 +1,38 @@
+{
+    "id": "577231",
+    "ident": "TW-0078",
+    "type": "heliport",
+    "name": "Camp Shimen Heliport",
+    "latitude_deg": "25.29345",
+    "longitude_deg": "121.53747",
+    "elevation_ft": "94",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-NWT",
+    "municipality": "New Taipei City",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": "Taiwanese airports"
+    },
+    "region": {
+        "id": "305949",
+        "code": "TW-NWT",
+        "local_code": "NWT",
+        "name": "New Taipei City",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Taipei_City",
+        "keywords": "Airports in New Taipei City, Taipei County"
+    }
+}

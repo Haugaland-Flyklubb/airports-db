@@ -1,0 +1,38 @@
+{
+    "id": "577180",
+    "ident": "US-6819",
+    "type": "closed",
+    "name": "Northside Airport",
+    "latitude_deg": "43.29063",
+    "longitude_deg": "-86.19119",
+    "elevation_ft": "651",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Muskegon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": "Airports in Michigan"
+    }
+}

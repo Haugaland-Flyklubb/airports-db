@@ -1,0 +1,38 @@
+{
+    "id": "577174",
+    "ident": "BE-0042",
+    "type": "heliport",
+    "name": "Vivalia Princess Paola Hospital Heliport",
+    "latitude_deg": "50.22757",
+    "longitude_deg": "5.32145",
+    "elevation_ft": "751",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-WLX",
+    "municipality": "Marche-en-Famenne",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302676",
+        "code": "BE",
+        "name": "Belgium",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
+        "keywords": "Aéroports de Belgique,Luchthavens van België"
+    },
+    "region": {
+        "id": "303078",
+        "code": "BE-WLX",
+        "local_code": "WLX",
+        "name": "Luxembourg Province",
+        "continent": "EU",
+        "iso_country": "BE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Luxembourg_(Belgium)",
+        "keywords": "Wallonia, Walloon Region"
+    }
+}

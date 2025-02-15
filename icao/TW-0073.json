@@ -1,0 +1,38 @@
+{
+    "id": "577184",
+    "ident": "TW-0073",
+    "type": "heliport",
+    "name": "Hutoushan Heliport",
+    "latitude_deg": "25.0102",
+    "longitude_deg": "121.33259",
+    "elevation_ft": "781",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-TAO",
+    "municipality": "Guishang",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": "Taiwanese airports"
+    },
+    "region": {
+        "id": "305947",
+        "code": "TW-TAO",
+        "local_code": "TAO",
+        "name": "Taoyuan City",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taoyuan,_Taiwan",
+        "keywords": "Airports in Taoyuan City"
+    }
+}

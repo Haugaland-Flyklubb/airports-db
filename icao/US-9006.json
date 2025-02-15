@@ -1,15 +1,15 @@
 {
-    "id": "551570",
+    "id": "577223",
     "ident": "US-9006",
-    "type": "small_airport",
-    "name": "Cloyds Airport (duplicate)",
-    "latitude_deg": "59.88172",
-    "longitude_deg": "-151.75027",
-    "elevation_ft": "201",
+    "type": "closed",
+    "name": "United Heliport",
+    "latitude_deg": "39.27891",
+    "longitude_deg": "-84.35941",
+    "elevation_ft": "861",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-AK",
-    "municipality": "Anchor Point",
+    "iso_region": "US-OH",
+    "municipality": "Cincinnati",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306076",
-        "code": "US-AK",
-        "local_code": "AK",
-        "name": "Alaska",
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
-        "keywords": "Airports in Alaska"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": "Airports in Ohio"
     }
 }
