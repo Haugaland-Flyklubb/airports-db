@@ -2,13 +2,13 @@
     "id": "27310",
     "ident": "EIWT",
     "type": "medium_airport",
-    "name": "Weston Airfield",
-    "latitude_deg": "53.3522",
-    "longitude_deg": "-6.48611",
+    "name": "Weston Airport",
+    "latitude_deg": "53.351622",
+    "longitude_deg": "-6.490357",
     "elevation_ft": "150",
     "continent": "EU",
     "iso_country": "IE",
-    "iso_region": "IE-KE",
+    "iso_region": "IE-D",
     "municipality": "Leixlip",
     "scheduled_service": "no",
     "gps_code": "EIWT",
@@ -76,14 +76,14 @@
         "keywords": "Eire"
     },
     "region": {
-        "id": "304136",
-        "code": "IE-KE",
-        "local_code": "KE",
-        "name": "County Kildare",
+        "id": "304133",
+        "code": "IE-D",
+        "local_code": "D",
+        "name": "County Dublin",
         "continent": "EU",
         "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kildare",
-        "keywords": "Airports in County Kildare"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/County_Dublin",
+        "keywords": "Airports in County Dublin"
     },
     "navaids": [
         {

@@ -1,0 +1,38 @@
+{
+    "id": "577255",
+    "ident": "TW-0082",
+    "type": "heliport",
+    "name": "Camp Hunan Heliport",
+    "latitude_deg": "24.87784",
+    "longitude_deg": "121.03172",
+    "elevation_ft": "308",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-HSQ",
+    "municipality": "Hukou",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": "Taiwanese airports"
+    },
+    "region": {
+        "id": "305938",
+        "code": "TW-HSQ",
+        "local_code": "HSQ",
+        "name": "Hsinchu County",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hsinchu_County",
+        "keywords": "Airports in Hsinchu County"
+    }
+}

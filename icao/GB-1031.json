@@ -3,13 +3,13 @@
     "ident": "GB-1031",
     "type": "small_airport",
     "name": "Eccles Newton Farm Airstrip",
-    "latitude_deg": "55.65838",
-    "longitude_deg": "-2.354529",
-    "elevation_ft": "",
+    "latitude_deg": "55.65592",
+    "longitude_deg": "-2.35326",
+    "elevation_ft": "171",
     "continent": "EU",
     "iso_country": "GB",
-    "iso_region": "GB-ENG",
-    "municipality": "",
+    "iso_region": "GB-SCT",
+    "municipality": "Coldstream, Scottish Borders",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Great Britain"
     },
     "region": {
-        "id": "306374",
-        "code": "GB-ENG",
-        "local_code": "ENG",
-        "name": "England",
+        "id": "306377",
+        "code": "GB-SCT",
+        "local_code": "SCT",
+        "name": "Scotland",
         "continent": "EU",
         "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
-        "keywords": "English airports"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
+        "keywords": "Scottish airports, Puirt-adhair Albannach"
     }
 }
