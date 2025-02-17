@@ -59,20 +59,20 @@
             "frequency_mhz": "125.85"
         },
         {
+            "id": "313786",
+            "airport_ref": "2415",
+            "airport_ident": "EGFF",
+            "type": "Area Control",
+            "description": "Cardiff Radar",
+            "frequency_mhz": "133.6"
+        },
+        {
             "id": "58517",
             "airport_ref": "2415",
             "airport_ident": "EGFF",
             "type": "ATIS",
             "description": "ATIS",
             "frequency_mhz": "132.475"
-        },
-        {
-            "id": "313786",
-            "airport_ref": "2415",
-            "airport_ident": "EGFF",
-            "type": "Radar",
-            "description": "",
-            "frequency_mhz": "133.6"
         },
         {
             "id": "58518",
