@@ -11,8 +11,9 @@
     "iso_region": "VN-RRD",
     "municipality": "Hanoi (Soc Son)",
     "scheduled_service": "yes",
-    "gps_code": "VVNB",
+    "icao_code": "VVNB",
     "iata_code": "HAN",
+    "gps_code": "VVNB",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Noi_Bai_International_Airport",
@@ -65,12 +66,108 @@
     ],
     "freqs": [
         {
+            "id": "577444",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "APP/DEP",
+            "description": "APP/DEP",
+            "frequency_mhz": "120.075"
+        },
+        {
+            "id": "577445",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "APP/DEP",
+            "description": "APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
             "id": "71747",
             "airport_ref": "26700",
             "airport_ident": "VVNB",
-            "type": "APP",
-            "description": "APP",
+            "type": "APP/DEP",
+            "description": "APP/DEP",
             "frequency_mhz": "125.1"
+        },
+        {
+            "id": "577447",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "APP/DEP",
+            "description": "APP/DEP",
+            "frequency_mhz": "126.575"
+        },
+        {
+            "id": "577448",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "577456",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "CTR",
+            "description": "CTR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "577459",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "CTR",
+            "description": "CTR",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "577457",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "CTR",
+            "description": "CTR",
+            "frequency_mhz": "132.3"
+        },
+        {
+            "id": "577458",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "CTR",
+            "description": "CTR",
+            "frequency_mhz": "133.65"
+        },
+        {
+            "id": "577450",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "DEL",
+            "description": "DEL",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "577455",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "DEL/TWR",
+            "description": "DEL/TWR",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "577451",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "DEL/TWR",
+            "description": "DEL/TWR",
+            "frequency_mhz": "125.225"
+        },
+        {
+            "id": "577453",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.65"
         },
         {
             "id": "71748",
@@ -86,7 +183,15 @@
             "airport_ident": "VVNB",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "118.2"
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "577454",
+            "airport_ref": "26700",
+            "airport_ident": "VVNB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
         }
     ],
     "country": {

@@ -1,0 +1,63 @@
+{
+    "id": "301010",
+    "ident": "ZLJC",
+    "type": "small_airport",
+    "name": "Jinchang Jinchuan Airport",
+    "latitude_deg": "38.542222",
+    "longitude_deg": "102.348333",
+    "elevation_ft": "4740",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-62",
+    "municipality": "Jinchang",
+    "scheduled_service": "yes",
+    "icao_code": "ZLJC",
+    "iata_code": "JIC",
+    "gps_code": "ZLJC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jinchang_Jinchuan_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "350737",
+            "airport_ref": "301010",
+            "airport_ident": "ZLJC",
+            "length_ft": "9843",
+            "width_ft": "",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303449",
+        "code": "CN-62",
+        "local_code": "62",
+        "name": "Gansu Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gansu",
+        "keywords": "Airports in Gansu Province"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "42528",
+    "ident": "OITH",
+    "type": "small_airport",
+    "name": "Khaneh Airport",
+    "latitude_deg": "36.733341",
+    "longitude_deg": "45.150002",
+    "elevation_ft": "4804",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-04",
+    "municipality": "Khaneh",
+    "scheduled_service": "no",
+    "icao_code": "OITH",
+    "iata_code": "KHA",
+    "gps_code": "OITH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%BE%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304220",
+        "code": "IR-04",
+        "local_code": "04",
+        "name": "West Azerbaijan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Azerbaijan_province",
+        "keywords": "Airports in West Azerbaijan Province"
+    }
+}

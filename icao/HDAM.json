@@ -11,8 +11,9 @@
     "iso_region": "DJ-DJ",
     "municipality": "Djibouti City",
     "scheduled_service": "yes",
-    "gps_code": "HDAM",
+    "icao_code": "HDAM",
     "iata_code": "JIB",
+    "gps_code": "HDAM",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Djibouti-Ambouli_International_Airport",
@@ -54,9 +55,17 @@
             "id": "51753",
             "airport_ref": "3174",
             "airport_ident": "HDAM",
-            "type": "APP",
-            "description": "APP",
+            "type": "APP/DEP",
+            "description": "APP/DEP",
             "frequency_mhz": "121.1"
+        },
+        {
+            "id": "577462",
+            "airport_ref": "3174",
+            "airport_ident": "HDAM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.4"
         },
         {
             "id": "51754",
@@ -73,6 +82,14 @@
             "type": "TWR",
             "description": "TWR",
             "frequency_mhz": "122.1"
+        },
+        {
+            "id": "577463",
+            "airport_ref": "3174",
+            "airport_ident": "HDAM",
+            "type": "UC",
+            "description": "UC",
+            "frequency_mhz": "128.1"
         }
     ],
     "country": {

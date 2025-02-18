@@ -1,0 +1,39 @@
+{
+    "id": "32342",
+    "ident": "SKRU",
+    "type": "small_airport",
+    "name": "Las Cruces Airport",
+    "latitude_deg": "7.38322",
+    "longitude_deg": "-73.505402",
+    "elevation_ft": "440",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-SAN",
+    "municipality": "Sabana de Torres",
+    "scheduled_service": "no",
+    "icao_code": "SKRU",
+    "iata_code": "SNT",
+    "gps_code": "SKRU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Las_Cruces_Airport_(Colombia)",
+    "keywords": "",
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303483",
+        "code": "CO-SAN",
+        "local_code": "SAN",
+        "name": "Santander Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santander_Department",
+        "keywords": "Airports in Santander Department"
+    }
+}

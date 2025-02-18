@@ -11,8 +11,9 @@
     "iso_region": "BT-33",
     "municipality": "Jakar",
     "scheduled_service": "yes",
-    "gps_code": "VQBT",
+    "icao_code": "VQBT",
     "iata_code": "BUT",
+    "gps_code": "VQBT",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bathpalathang_Airport",
@@ -39,6 +40,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "577467",
+            "airport_ref": "315554",
+            "airport_ident": "VQBT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.55"
         }
     ],
     "country": {

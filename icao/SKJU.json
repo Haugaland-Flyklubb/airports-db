@@ -1,0 +1,39 @@
+{
+    "id": "41003",
+    "ident": "SKJU",
+    "type": "small_airport",
+    "name": "Juradó Airport",
+    "latitude_deg": "7.07181",
+    "longitude_deg": "-77.727117",
+    "elevation_ft": "33",
+    "continent": "NA",
+    "iso_country": "CO",
+    "iso_region": "CO-CHO",
+    "municipality": "Juradó",
+    "scheduled_service": "no",
+    "icao_code": "SKJU",
+    "iata_code": "JUO",
+    "gps_code": "SKJU",
+    "local_code": "JUR",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jurad%C3%B3_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303468",
+        "code": "CO-CHO",
+        "local_code": "CHO",
+        "name": "Chocó Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chocó_Department",
+        "keywords": "Airports in Chocó Department"
+    }
+}

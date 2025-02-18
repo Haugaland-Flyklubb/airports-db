@@ -11,8 +11,9 @@
     "iso_region": "FM-KSA",
     "municipality": "Okat",
     "scheduled_service": "yes",
-    "gps_code": "PTSA",
+    "icao_code": "PTSA",
     "iata_code": "KSA",
+    "gps_code": "PTSA",
     "local_code": "TTK",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kosrae_International_Airport",
@@ -48,6 +49,14 @@
             "airport_ident": "PTSA",
             "type": "CTAF",
             "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "577468",
+            "airport_ref": "5502",
+            "airport_ident": "PTSA",
+            "type": "MC",
+            "description": "MC",
             "frequency_mhz": "123.6"
         },
         {

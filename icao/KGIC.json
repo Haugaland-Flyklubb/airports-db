@@ -1,0 +1,81 @@
+{
+    "id": "21022",
+    "ident": "KGIC",
+    "type": "small_airport",
+    "name": "Idaho County Airport",
+    "latitude_deg": "45.9426",
+    "longitude_deg": "-116.123001",
+    "elevation_ft": "3314",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Grangeville",
+    "scheduled_service": "no",
+    "icao_code": "KGIC",
+    "iata_code": "IDH",
+    "gps_code": "KGIC",
+    "local_code": "GIC",
+    "home_link": "http://idahocountyairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho_County_Airport",
+    "keywords": "S80",
+    "runways": [
+        {
+            "id": "241544",
+            "airport_ref": "21022",
+            "airport_ident": "KGIC",
+            "length_ft": "5100",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "45.94260025024414",
+            "le_longitude_deg": "-116.13300323486328",
+            "le_elevation_ft": "3282",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "100",
+            "he_ident": "25",
+            "he_latitude_deg": "45.942501068115234",
+            "he_longitude_deg": "-116.11299896240234",
+            "he_elevation_ft": "3310",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "62092",
+            "airport_ref": "21022",
+            "airport_ident": "KGIC",
+            "type": "A/D",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "123.95"
+        },
+        {
+            "id": "62093",
+            "airport_ref": "21022",
+            "airport_ident": "KGIC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": "Airports in Idaho"
+    }
+}

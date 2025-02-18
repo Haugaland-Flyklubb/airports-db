@@ -11,8 +11,9 @@
     "iso_region": "HT-OU",
     "municipality": "Port-au-Prince",
     "scheduled_service": "yes",
-    "gps_code": "MTPP",
+    "icao_code": "MTPP",
     "iata_code": "PAP",
+    "gps_code": "MTPP",
     "local_code": "",
     "home_link": "https://www.portauprinceairport.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Toussaint_Louverture_International_Airport",
@@ -46,9 +47,33 @@
             "id": "53470",
             "airport_ref": "4825",
             "airport_ident": "MTPP",
-            "type": "APP",
-            "description": "APP",
+            "type": "APP/DEP",
+            "description": "APP/DEP",
             "frequency_mhz": "119.8"
+        },
+        {
+            "id": "577464",
+            "airport_ref": "4825",
+            "airport_ident": "MTPP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.075"
+        },
+        {
+            "id": "577465",
+            "airport_ref": "4825",
+            "airport_ident": "MTPP",
+            "type": "CTR",
+            "description": "CTR",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "577466",
+            "airport_ref": "4825",
+            "airport_ident": "MTPP",
+            "type": "CTR",
+            "description": "CTR",
+            "frequency_mhz": "134.15"
         },
         {
             "id": "53471",

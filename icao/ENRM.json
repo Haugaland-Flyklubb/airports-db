@@ -11,8 +11,9 @@
     "iso_region": "NO-50",
     "municipality": "Rørvik",
     "scheduled_service": "yes",
-    "gps_code": "ENRM",
+    "icao_code": "ENRM",
     "iata_code": "RVK",
+    "gps_code": "ENRM",
     "local_code": "",
     "home_link": "https://avinor.no/en/airport/rorvik-airport/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/R%C3%B8rvik_Airport%2C_Ryum",
@@ -39,6 +40,24 @@
             "he_elevation_ft": "14",
             "he_heading_degT": "220",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "577460",
+            "airport_ref": "29278",
+            "airport_ident": "ENRM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.025"
+        },
+        {
+            "id": "577461",
+            "airport_ref": "29278",
+            "airport_ident": "ENRM",
+            "type": "UC",
+            "description": "UC",
+            "frequency_mhz": "119.8"
         }
     ],
     "country": {

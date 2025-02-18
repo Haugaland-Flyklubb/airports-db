@@ -1,0 +1,63 @@
+{
+    "id": "342094",
+    "ident": "VOGA",
+    "type": "large_airport",
+    "name": "Manohar International Airport",
+    "latitude_deg": "15.744257",
+    "longitude_deg": "73.860625",
+    "elevation_ft": "552",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-GA",
+    "municipality": "Mopa",
+    "scheduled_service": "yes",
+    "icao_code": "VOGA",
+    "iata_code": "GOX",
+    "gps_code": "VOGA",
+    "local_code": "",
+    "home_link": "https://www.miagoaairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Manohar_International_Airport",
+    "keywords": "Mopa International",
+    "runways": [
+        {
+            "id": "352588",
+            "airport_ref": "342094",
+            "airport_ident": "VOGA",
+            "length_ft": "11483",
+            "width_ft": "148",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "15.745697",
+            "le_longitude_deg": "73.844513",
+            "le_elevation_ft": "534",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "15.743109",
+            "he_longitude_deg": "73.877076",
+            "he_elevation_ft": "534",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": "Airports in India, Indian airports"
+    },
+    "region": {
+        "id": "304173",
+        "code": "IN-GA",
+        "local_code": "GA",
+        "name": "Goa",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Goa",
+        "keywords": "Airports in Goa"
+    }
+}

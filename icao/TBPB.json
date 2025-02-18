@@ -11,8 +11,9 @@
     "iso_region": "BB-01",
     "municipality": "Bridgetown",
     "scheduled_service": "yes",
-    "gps_code": "TBPB",
+    "icao_code": "TBPB",
     "iata_code": "BGI",
+    "gps_code": "TBPB",
     "local_code": "",
     "home_link": "http://www.gaia.bb/content/about-gaia-inc",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Grantley_Adams_International_Airport",
@@ -46,17 +47,9 @@
             "id": "49291",
             "airport_ref": "6360",
             "airport_ident": "TBPB",
-            "type": "APP",
-            "description": "ADAMS APP",
+            "type": "APP/DEP",
+            "description": "ADAMS APP/DEP",
             "frequency_mhz": "129.35"
-        },
-        {
-            "id": "49292",
-            "airport_ref": "6360",
-            "airport_ident": "TBPB",
-            "type": "ARR",
-            "description": "ADAMS ARR",
-            "frequency_mhz": "128.85"
         },
         {
             "id": "49293",

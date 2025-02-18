@@ -1,0 +1,63 @@
+{
+    "id": "43692",
+    "ident": "USHQ",
+    "type": "medium_airport",
+    "name": "Beloyarskiy Airport",
+    "latitude_deg": "63.686901",
+    "longitude_deg": "66.698601",
+    "elevation_ft": "82",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KHM",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "icao_code": "USHQ",
+    "iata_code": "EYK",
+    "gps_code": "USHQ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Beloyarsk_Airport",
+    "keywords": "Beloyarsky Airport, Аэропорт Белоярский, УСХЯ",
+    "runways": [
+        {
+            "id": "354285",
+            "airport_ref": "43692",
+            "airport_ident": "USHQ",
+            "length_ft": "7028",
+            "width_ft": "144",
+            "surface": "CONC",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "63.697575",
+            "le_longitude_deg": "66.700623",
+            "le_elevation_ft": "",
+            "le_heading_degT": "161",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "63.678371",
+            "he_longitude_deg": "66.69886",
+            "he_elevation_ft": "74",
+            "he_heading_degT": "341",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305289",
+        "code": "RU-KHM",
+        "local_code": "KHM",
+        "name": "Khanty-Mansi Autonomous Okrug",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Khanty-Mansi_Autonomous_Okrug",
+        "keywords": "Airports in Khanty-Mansi Autonomous Okrug"
+    }
+}

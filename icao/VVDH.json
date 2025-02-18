@@ -1,0 +1,63 @@
+{
+    "id": "35144",
+    "ident": "VVDH",
+    "type": "medium_airport",
+    "name": "Dong Hoi Airport",
+    "latitude_deg": "17.515",
+    "longitude_deg": "106.590556",
+    "elevation_ft": "59",
+    "continent": "AS",
+    "iso_country": "VN",
+    "iso_region": "VN-NC",
+    "municipality": "Dong Hoi",
+    "scheduled_service": "yes",
+    "icao_code": "VVDH",
+    "iata_code": "VDH",
+    "gps_code": "VVDH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dong_Hoi_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "350974",
+            "airport_ref": "35144",
+            "airport_ident": "VVDH",
+            "length_ft": "7874",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "17.517799",
+            "le_longitude_deg": "106.584999",
+            "le_elevation_ft": "44",
+            "le_heading_degT": "114",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "17.509001",
+            "he_longitude_deg": "106.605003",
+            "he_elevation_ft": "44",
+            "he_heading_degT": "294",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302670",
+        "code": "VN",
+        "name": "Vietnam",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vietnam",
+        "keywords": "Các sân bay của Việt Nam"
+    },
+    "region": {
+        "id": "351365",
+        "code": "VN-NC",
+        "local_code": "NC",
+        "name": "North Central Region",
+        "continent": "AS",
+        "iso_country": "VN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Central_Coast",
+        "keywords": "the airports"
+    }
+}

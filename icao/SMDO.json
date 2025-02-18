@@ -1,0 +1,39 @@
+{
+    "id": "41503",
+    "ident": "SMDO",
+    "type": "small_airport",
+    "name": "Ladouanie Airport",
+    "latitude_deg": "4.376108",
+    "longitude_deg": "-55.407057",
+    "elevation_ft": "236",
+    "continent": "SA",
+    "iso_country": "SR",
+    "iso_region": "SR-SI",
+    "municipality": "Aurora",
+    "scheduled_service": "no",
+    "icao_code": "SMDO",
+    "iata_code": "LDO",
+    "gps_code": "SMDO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Laduani_Airstrip",
+    "keywords": "Aurora Airstrip",
+    "country": {
+        "id": "302800",
+        "code": "SR",
+        "name": "Suriname",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Suriname",
+        "keywords": "Surinamese airports"
+    },
+    "region": {
+        "id": "305645",
+        "code": "SR-SI",
+        "local_code": "SI",
+        "name": "Sipaliwini",
+        "continent": "SA",
+        "iso_country": "SR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sipaliwini",
+        "keywords": "Airports in Sipaliwini"
+    }
+}

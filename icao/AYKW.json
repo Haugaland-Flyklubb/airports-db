@@ -1,0 +1,39 @@
+{
+    "id": "42764",
+    "ident": "AYKW",
+    "type": "small_airport",
+    "name": "Kawito Airport",
+    "latitude_deg": "-7.977006912229999",
+    "longitude_deg": "142.823577881",
+    "elevation_ft": "72",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-WPD",
+    "municipality": "Kawito",
+    "scheduled_service": "no",
+    "icao_code": "AYKW",
+    "iata_code": "KWO",
+    "gps_code": "AYKW",
+    "local_code": "KWT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302778",
+        "code": "PG",
+        "name": "Papua New Guinea",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+        "keywords": "Airports in Papua New Guinea"
+    },
+    "region": {
+        "id": "305054",
+        "code": "PG-WPD",
+        "local_code": "WPD",
+        "name": "Western Province",
+        "continent": "OC",
+        "iso_country": "PG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Province_(Papua_New_Guinea)",
+        "keywords": "Airports in Western Province"
+    }
+}

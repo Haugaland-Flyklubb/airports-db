@@ -1,0 +1,63 @@
+{
+    "id": "300865",
+    "ident": "ZUQJ",
+    "type": "medium_airport",
+    "name": "Qianjiang Wulingshan Airport",
+    "latitude_deg": "29.5133333333",
+    "longitude_deg": "108.831111111",
+    "elevation_ft": "2075",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-50",
+    "municipality": "Qianjiang",
+    "scheduled_service": "yes",
+    "icao_code": "ZUQJ",
+    "iata_code": "JIQ",
+    "gps_code": "ZUQJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Qianjiang_Wulingshan_Airport",
+    "keywords": "Zhoubai",
+    "runways": [
+        {
+            "id": "348932",
+            "airport_ref": "300865",
+            "airport_ident": "ZUQJ",
+            "length_ft": "7874",
+            "width_ft": "",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303443",
+        "code": "CN-50",
+        "local_code": "50",
+        "name": "Chongqing Municipality",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chongqing",
+        "keywords": "Airports in Chongqing Municipality"
+    }
+}

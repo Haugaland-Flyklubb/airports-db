@@ -1,0 +1,81 @@
+{
+    "id": "26820",
+    "ident": "WBTM",
+    "type": "small_airport",
+    "name": "Tanjung Manis Airport",
+    "latitude_deg": "2.17784",
+    "longitude_deg": "111.202003",
+    "elevation_ft": "15",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-13",
+    "municipality": "Belawai",
+    "scheduled_service": "no",
+    "icao_code": "WBTM",
+    "iata_code": "TGC",
+    "gps_code": "WBTM",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tanjung_Manis_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237806",
+            "airport_ref": "26820",
+            "airport_ident": "WBTM",
+            "length_ft": "4912",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "2.1733601093292236",
+            "le_longitude_deg": "111.1969985961914",
+            "le_elevation_ft": "",
+            "le_heading_degT": "48.5",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "2.1823201179504395",
+            "he_longitude_deg": "111.20700073242188",
+            "he_elevation_ft": "",
+            "he_heading_degT": "228.5",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55545",
+            "airport_ref": "26820",
+            "airport_ident": "WBTM",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "682.5"
+        },
+        {
+            "id": "55546",
+            "airport_ref": "26820",
+            "airport_ident": "WBTM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
+    "country": {
+        "id": "302653",
+        "code": "MY",
+        "name": "Malaysia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
+        "keywords": "Lapangan Terbang Malaysia"
+    },
+    "region": {
+        "id": "304835",
+        "code": "MY-13",
+        "local_code": "13",
+        "name": "Sarawak",
+        "continent": "AS",
+        "iso_country": "MY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
+        "keywords": "Airports in Sarawak"
+    }
+}
