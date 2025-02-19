@@ -47,9 +47,25 @@
             "id": "308433",
             "airport_ref": "44790",
             "airport_ident": "LTCT",
-            "type": "APP",
-            "description": "Igdir Approach",
+            "type": "APP/DEP",
+            "description": "Igdir Approach/Departure",
             "frequency_mhz": "119.6"
+        },
+        {
+            "id": "593100",
+            "airport_ref": "44790",
+            "airport_ident": "LTCT",
+            "type": "APP/DEP",
+            "description": "Igdir Approach/Departure",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "593101",
+            "airport_ref": "44790",
+            "airport_ident": "LTCT",
+            "type": "APP/DEP",
+            "description": "Igdir Approach/Departure",
+            "frequency_mhz": "126"
         },
         {
             "id": "308431",

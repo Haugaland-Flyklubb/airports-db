@@ -44,14 +44,6 @@
     ],
     "freqs": [
         {
-            "id": "53286",
-            "airport_ref": "6364",
-            "airport_ident": "TFFG",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "119.2"
-        },
-        {
             "id": "53287",
             "airport_ref": "6364",
             "airport_ident": "TFFG",
@@ -66,6 +58,22 @@
             "type": "CTAF",
             "description": "CTAF",
             "frequency_mhz": "123.5"
+        },
+        {
+            "id": "593086",
+            "airport_ref": "6364",
+            "airport_ident": "TFFG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "53286",
+            "airport_ref": "6364",
+            "airport_ident": "TFFG",
+            "type": "UC",
+            "description": "UC",
+            "frequency_mhz": "119.2"
         }
     ],
     "country": {

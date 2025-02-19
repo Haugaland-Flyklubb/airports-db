@@ -1,0 +1,39 @@
+{
+    "id": "593146",
+    "ident": "SS3I",
+    "type": "small_airport",
+    "name": "Rio Bonito Airport",
+    "latitude_deg": "-6.261964",
+    "longitude_deg": "-55.834708",
+    "elevation_ft": "692",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Itaituba",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SS3I",
+    "local_code": "PA0423",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303212",
+        "code": "BR-PA",
+        "local_code": "PA",
+        "name": "Pará",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
+        "keywords": "Airports in Pará"
+    }
+}

@@ -52,20 +52,36 @@
             "frequency_mhz": "129.35"
         },
         {
+            "id": "593084",
+            "airport_ref": "6360",
+            "airport_ident": "TBPB",
+            "type": "APP/DEP/D",
+            "description": "APP/DEP/D",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "593085",
+            "airport_ref": "6360",
+            "airport_ident": "TBPB",
+            "type": "APP/DEP/D",
+            "description": "APP/DEP/D",
+            "frequency_mhz": "121.2"
+        },
+        {
+            "id": "49294",
+            "airport_ref": "6360",
+            "airport_ident": "TBPB",
+            "type": "APP/DEP/D",
+            "description": "ADAMS APP/DEP/D",
+            "frequency_mhz": "128.85"
+        },
+        {
             "id": "49293",
             "airport_ref": "6360",
             "airport_ident": "TBPB",
             "type": "ATIS",
             "description": "ATIS",
             "frequency_mhz": "132.725"
-        },
-        {
-            "id": "49294",
-            "airport_ref": "6360",
-            "airport_ident": "TBPB",
-            "type": "DEP",
-            "description": "ADAMS DEP",
-            "frequency_mhz": "128.85"
         },
         {
             "id": "49295",

@@ -42,6 +42,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "593096",
+            "airport_ref": "2137",
+            "airport_ident": "DTTG",
+            "type": "APP/DEP",
+            "description": "APP/DEP",
+            "frequency_mhz": "129.15"
+        },
+        {
+            "id": "593097",
+            "airport_ref": "2137",
+            "airport_ident": "DTTG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.15"
+        }
+    ],
     "country": {
         "id": "302606",
         "code": "TN",

@@ -42,6 +42,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "593090",
+            "airport_ref": "44571",
+            "airport_ident": "NGFU",
+            "type": "FSS",
+            "description": "FSS",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302784",
         "code": "TV",

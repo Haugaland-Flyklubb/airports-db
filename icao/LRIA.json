@@ -47,9 +47,17 @@
             "id": "56457",
             "airport_ref": "4480",
             "airport_ident": "LRIA",
-            "type": "APP",
-            "description": "APP",
+            "type": "APP/DEP/TWR",
+            "description": "APP/DEP/TWR",
             "frequency_mhz": "119.2"
+        },
+        {
+            "id": "593094",
+            "airport_ref": "4480",
+            "airport_ident": "LRIA",
+            "type": "CTR",
+            "description": "CTR",
+            "frequency_mhz": "128.61"
         },
         {
             "id": "56458",
@@ -63,9 +71,9 @@
             "id": "56459",
             "airport_ref": "4480",
             "airport_ident": "LRIA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.2"
+            "type": "TWR/APP/DEP",
+            "description": "TWR/APP/DEP",
+            "frequency_mhz": "119.55"
         }
     ],
     "country": {

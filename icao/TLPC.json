@@ -44,12 +44,28 @@
     ],
     "freqs": [
         {
+            "id": "593087",
+            "airport_ref": "6388",
+            "airport_ident": "TLPC",
+            "type": "APP/DEP",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "593088",
+            "airport_ref": "6388",
+            "airport_ident": "TLPC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.6"
+        },
+        {
             "id": "57368",
             "airport_ref": "6388",
             "airport_ident": "TLPC",
             "type": "GND",
             "description": "GND",
-            "frequency_mhz": "121.9"
+            "frequency_mhz": "121.8"
         },
         {
             "id": "57369",

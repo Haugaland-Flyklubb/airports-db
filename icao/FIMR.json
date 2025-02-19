@@ -42,6 +42,24 @@
             "he_displaced_threshold_ft": "240"
         }
     ],
+    "freqs": [
+        {
+            "id": "593099",
+            "airport_ref": "2879",
+            "airport_ident": "FIMR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "593098",
+            "airport_ref": "2879",
+            "airport_ident": "FIMR",
+            "type": "TWR/UC",
+            "description": "TWR/UC",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302588",
         "code": "MU",

@@ -69,9 +69,17 @@
             "id": "48902",
             "airport_ref": "27119",
             "airport_ident": "YPPH",
-            "type": "APP",
-            "description": "APP",
+            "type": "APP/DEL",
+            "description": "APP/DEL",
             "frequency_mhz": "123.6"
+        },
+        {
+            "id": "593103",
+            "airport_ref": "27119",
+            "airport_ident": "YPPH",
+            "type": "APP/DEP",
+            "description": "APP/DEP",
+            "frequency_mhz": "132.95"
         },
         {
             "id": "48903",
@@ -82,28 +90,28 @@
             "frequency_mhz": "123.8"
         },
         {
-            "id": "48904",
+            "id": "48906",
             "airport_ref": "27119",
             "airport_ident": "YPPH",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "118.55"
+            "type": "CTR",
+            "description": "PERTH RADAR",
+            "frequency_mhz": "135.25"
         },
         {
             "id": "48905",
             "airport_ref": "27119",
             "airport_ident": "YPPH",
-            "type": "DEP",
-            "description": "DEP",
+            "type": "D",
+            "description": "D",
             "frequency_mhz": "118.7"
         },
         {
-            "id": "48906",
+            "id": "48904",
             "airport_ref": "27119",
             "airport_ident": "YPPH",
-            "type": "FSS",
-            "description": "PERTH RADAR",
-            "frequency_mhz": "135.25"
+            "type": "DEL",
+            "description": "DEL",
+            "frequency_mhz": "118.55"
         },
         {
             "id": "48907",
@@ -112,6 +120,14 @@
             "type": "GND",
             "description": "GND",
             "frequency_mhz": "121.7"
+        },
+        {
+            "id": "593104",
+            "airport_ref": "27119",
+            "airport_ident": "YPPH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.2"
         },
         {
             "id": "48908",
@@ -127,7 +143,7 @@
             "airport_ident": "YPPH",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "120.5"
+            "frequency_mhz": "127.4"
         }
     ],
     "country": {
