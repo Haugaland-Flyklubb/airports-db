@@ -1,14 +1,14 @@
 {
     "id": "3103",
     "ident": "GMFF",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Fes Saïss International Airport",
     "latitude_deg": "33.927299",
     "longitude_deg": "-4.97796",
     "elevation_ft": "1900",
     "continent": "AF",
     "iso_country": "MA",
-    "iso_region": "MA-FES",
+    "iso_region": "MA-03",
     "municipality": "Saïss",
     "scheduled_service": "yes",
     "icao_code": "GMFF",
@@ -61,14 +61,14 @@
         "keywords": "مطارات المغرب"
     },
     "region": {
-        "id": "304579",
-        "code": "MA-FES",
-        "local_code": "FES",
-        "name": "Fès Province",
+        "id": "593280",
+        "code": "MA-03",
+        "local_code": "03",
+        "name": "Fès-Meknès Region",
         "continent": "AF",
         "iso_country": "MA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Fès_Province",
-        "keywords": "Airports in Fès Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/F%C3%A8s-Mekn%C3%A8s",
+        "keywords": "جهة فاس مكناس"
     },
     "navaids": [
         {

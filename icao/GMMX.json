@@ -1,14 +1,14 @@
 {
     "id": "3115",
     "ident": "GMMX",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Menara Airport",
-    "latitude_deg": "31.606899261499997",
-    "longitude_deg": "-8.03629970551",
+    "latitude_deg": "31.606899",
+    "longitude_deg": "-8.0363",
     "elevation_ft": "1545",
     "continent": "AF",
     "iso_country": "MA",
-    "iso_region": "MA-MAR",
+    "iso_region": "MA-07",
     "municipality": "Marrakech",
     "scheduled_service": "yes",
     "icao_code": "GMMX",
@@ -69,14 +69,14 @@
         "keywords": "مطارات المغرب"
     },
     "region": {
-        "id": "304595",
-        "code": "MA-MAR",
-        "local_code": "MAR",
-        "name": "Marrakech Province",
+        "id": "593284",
+        "code": "MA-07",
+        "local_code": "07",
+        "name": "Marrakech-Safi Region",
         "continent": "AF",
         "iso_country": "MA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Marrakech_Province",
-        "keywords": "Airports in Marrakech Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Marrakesh-Safi",
+        "keywords": "مراكش آسفي"
     },
     "navaids": [
         {

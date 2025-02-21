@@ -3,14 +3,14 @@
     "ident": "GMTA",
     "type": "medium_airport",
     "name": "Cherif Al Idrissi Airport",
-    "latitude_deg": "35.177101135253906",
-    "longitude_deg": "-3.83951997756958",
+    "latitude_deg": "35.177101",
+    "longitude_deg": "-3.83952",
     "elevation_ft": "95",
     "continent": "AF",
     "iso_country": "MA",
-    "iso_region": "MA-HOC",
+    "iso_region": "MA-01",
     "municipality": "Al Hoceima",
-    "scheduled_service": "yes",
+    "scheduled_service": "no",
     "icao_code": "GMTA",
     "iata_code": "AHU",
     "gps_code": "GMTA",
@@ -61,14 +61,14 @@
         "keywords": "مطارات المغرب"
     },
     "region": {
-        "id": "304584",
-        "code": "MA-HOC",
-        "local_code": "HOC",
-        "name": "Al Hoceïma Province",
+        "id": "593287",
+        "code": "MA-01",
+        "local_code": "01",
+        "name": "Tanger-Tétouan-Al Hoceïma Region",
         "continent": "AF",
         "iso_country": "MA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Hoceïma_Province",
-        "keywords": "Airports in Al Hoceïma Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanger-Tetouan-Al_Hoceima",
+        "keywords": "طنجة - تطوان - الحسيمة"
     },
     "navaids": [
         {

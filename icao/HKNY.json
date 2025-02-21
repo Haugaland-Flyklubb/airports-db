@@ -1,22 +1,22 @@
 {
-    "id": "32066",
+    "id": "44467",
     "ident": "HKNY",
     "type": "medium_airport",
-    "name": "Nanyuki Airport",
-    "latitude_deg": "-0.062399",
-    "longitude_deg": "37.041008",
-    "elevation_ft": "6250",
+    "name": "Laikipia Air Base",
+    "latitude_deg": "0.032933",
+    "longitude_deg": "37.026901",
+    "elevation_ft": "",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-200",
+    "iso_region": "KE-700",
     "municipality": "Nanyuki",
-    "scheduled_service": "yes",
-    "icao_code": "",
-    "iata_code": "NYK",
-    "gps_code": "HKNL",
+    "scheduled_service": "no",
+    "icao_code": "HKNY",
+    "iata_code": "",
+    "gps_code": "HKNY",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Nanyuki_Airport",
+    "wikipedia_link": "",
     "keywords": "",
     "country": {
         "id": "302579",
@@ -27,37 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304335",
-        "code": "KE-200",
-        "local_code": "200",
-        "name": "Central Province",
+        "id": "304340",
+        "code": "KE-700",
+        "local_code": "700",
+        "name": "Rift Valley Province",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Province_(Kenya)",
-        "keywords": "Kati"
-    },
-    "navaids": [
-        {
-            "id": "91796",
-            "filename": "Nanyuki_NDB_KE",
-            "ident": "NYK",
-            "name": "Nanyuki",
-            "type": "NDB",
-            "frequency_khz": "306",
-            "latitude_deg": "-0.06936100125312805",
-            "longitude_deg": "37.00080108642578",
-            "elevation_ft": "",
-            "iso_country": "KE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.202",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HKNY"
-        }
-    ]
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rift_Valley_Province",
+        "keywords": "Airports in Rift Valley Province"
+    }
 }

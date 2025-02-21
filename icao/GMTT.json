@@ -1,14 +1,14 @@
 {
     "id": "3121",
     "ident": "GMTT",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Tangier Ibn Battuta Airport",
     "latitude_deg": "35.731741",
     "longitude_deg": "-5.921459",
     "elevation_ft": "62",
     "continent": "AF",
     "iso_country": "MA",
-    "iso_region": "MA-TNG",
+    "iso_region": "MA-01",
     "municipality": "Tangier",
     "scheduled_service": "yes",
     "icao_code": "GMTT",
@@ -91,14 +91,14 @@
         "keywords": "مطارات المغرب"
     },
     "region": {
-        "id": "304613",
-        "code": "MA-TNG",
-        "local_code": "TNG",
-        "name": "Tanger Province",
+        "id": "593287",
+        "code": "MA-01",
+        "local_code": "01",
+        "name": "Tanger-Tétouan-Al Hoceïma Region",
         "continent": "AF",
         "iso_country": "MA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanger_Province",
-        "keywords": "Airports in Tanger Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanger-Tetouan-Al_Hoceima",
+        "keywords": "طنجة - تطوان - الحسيمة"
     },
     "navaids": [
         {

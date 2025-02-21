@@ -1,0 +1,63 @@
+{
+    "id": "30573",
+    "ident": "MA-0011",
+    "type": "closed",
+    "name": "Former Zagora Airport",
+    "latitude_deg": "30.320299",
+    "longitude_deg": "-5.86667",
+    "elevation_ft": "2631",
+    "continent": "AF",
+    "iso_country": "MA",
+    "iso_region": "MA-08",
+    "municipality": "Zagora",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "329795",
+            "airport_ref": "30573",
+            "airport_ident": "MA-0011",
+            "length_ft": "9843",
+            "width_ft": "98",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "30.270000457763672",
+            "le_longitude_deg": "-5.877500057220459",
+            "le_elevation_ft": "",
+            "le_heading_degT": "108",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "30.262500762939453",
+            "he_longitude_deg": "-5.847670078277588",
+            "he_elevation_ft": "",
+            "he_heading_degT": "288",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302584",
+        "code": "MA",
+        "name": "Morocco",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morocco",
+        "keywords": "مطارات المغرب"
+    },
+    "region": {
+        "id": "593279",
+        "code": "MA-08",
+        "local_code": "08",
+        "name": "Drâa-Tafilalet Region",
+        "continent": "AF",
+        "iso_country": "MA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dr%C3%A2a-Tafilalet",
+        "keywords": "درعة - تافيلالت"
+    }
+}

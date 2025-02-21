@@ -1,0 +1,39 @@
+{
+    "id": "309431",
+    "ident": "EH-0024",
+    "type": "small_airport",
+    "name": "Tarfaya Airport",
+    "latitude_deg": "27.9487",
+    "longitude_deg": "-12.9166",
+    "elevation_ft": "20",
+    "continent": "AF",
+    "iso_country": "EH",
+    "iso_region": "EH-U-A",
+    "municipality": "Tarfaya",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "TFY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Cap-Juby",
+    "country": {
+        "id": "302570",
+        "code": "EH",
+        "name": "Western Sahara (disputed territory)",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Sahara",
+        "keywords": "Sahrawian, مطارات الصحراء الغربية"
+    },
+    "region": {
+        "id": "303718",
+        "code": "EH-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "EH",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
