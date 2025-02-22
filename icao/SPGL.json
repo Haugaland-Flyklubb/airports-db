@@ -1,0 +1,39 @@
+{
+    "id": "313312",
+    "ident": "SPGL",
+    "type": "small_airport",
+    "name": "Chagual Airport",
+    "latitude_deg": "-7.798106",
+    "longitude_deg": "-77.6495",
+    "elevation_ft": "3967",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LAL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SPGL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chagual_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305019",
+        "code": "PE-LAL",
+        "local_code": "LAL",
+        "name": "La Libertad Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Libertad_Region",
+        "keywords": "Airports in La Libertad Region"
+    }
+}

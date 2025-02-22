@@ -1,0 +1,39 @@
+{
+    "id": "301617",
+    "ident": "MDER",
+    "type": "small_airport",
+    "name": "El Ranchito Airport",
+    "latitude_deg": "19.184813237599997",
+    "longitude_deg": "-70.36496400829999",
+    "elevation_ft": "240",
+    "continent": "NA",
+    "iso_country": "DO",
+    "iso_region": "DO-13",
+    "municipality": "La Vega",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "MDER",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302734",
+        "code": "DO",
+        "name": "Dominican Republic",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dominican_Republic",
+        "keywords": "Airports in Dominican Republic"
+    },
+    "region": {
+        "id": "303584",
+        "code": "DO-13",
+        "local_code": "13",
+        "name": "La Vega Province",
+        "continent": "NA",
+        "iso_country": "DO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Vega_Province",
+        "keywords": "Airports in La Vega Province"
+    }
+}
