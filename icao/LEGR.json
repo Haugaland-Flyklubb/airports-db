@@ -44,12 +44,20 @@
     ],
     "freqs": [
         {
+            "id": "593447",
+            "airport_ref": "4011",
+            "airport_ident": "LEGR",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "120.625"
+        },
+        {
             "id": "57322",
             "airport_ref": "4011",
             "airport_ident": "LEGR",
             "type": "GND",
             "description": "GND",
-            "frequency_mhz": "121.7"
+            "frequency_mhz": "121.925"
         },
         {
             "id": "57323",

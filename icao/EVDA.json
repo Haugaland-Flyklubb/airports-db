@@ -1,7 +1,7 @@
 {
     "id": "44006",
     "ident": "EVDA",
-    "type": "medium_airport",
+    "type": "closed",
     "name": "Daugavpils International Airport",
     "latitude_deg": "55.944721",
     "longitude_deg": "26.665001",
@@ -11,13 +11,13 @@
     "iso_region": "LV-111",
     "municipality": "Daugavpils",
     "scheduled_service": "no",
-    "icao_code": "EVDA",
-    "iata_code": "DGP",
-    "gps_code": "EVDA",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Daugavpils_International_Airport",
-    "keywords": "",
+    "keywords": "EVDA, DGP",
     "runways": [
         {
             "id": "353836",

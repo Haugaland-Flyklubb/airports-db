@@ -48,8 +48,8 @@
             "airport_ref": "2415",
             "airport_ident": "EGFF",
             "type": "APP",
-            "description": "Cardiff App",
-            "frequency_mhz": "119.15"
+            "description": "Cardiff Approach",
+            "frequency_mhz": "119.155"
         },
         {
             "id": "58516",
@@ -57,7 +57,7 @@
             "airport_ident": "EGFF",
             "type": "APP",
             "description": "Cardiff Radar",
-            "frequency_mhz": "125.85"
+            "frequency_mhz": "125.855"
         },
         {
             "id": "313786",
@@ -73,15 +73,23 @@
             "airport_ident": "EGFF",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "132.475"
+            "frequency_mhz": "132.48"
+        },
+        {
+            "id": "593417",
+            "airport_ref": "2415",
+            "airport_ident": "EGFF",
+            "type": "FIRE",
+            "description": "Cardiff Fire",
+            "frequency_mhz": "121.6"
         },
         {
             "id": "58518",
             "airport_ref": "2415",
             "airport_ident": "EGFF",
             "type": "TWR",
-            "description": "Cardiff Twr",
-            "frequency_mhz": "133.1"
+            "description": "Cardiff Tower",
+            "frequency_mhz": "133.105"
         }
     ],
     "country": {

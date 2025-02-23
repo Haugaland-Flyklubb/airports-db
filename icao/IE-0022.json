@@ -1,14 +1,14 @@
 {
     "id": "321226",
     "ident": "IE-0022",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Morriscastle Airstrip",
     "latitude_deg": "52.516621",
     "longitude_deg": "-6.26371",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "IE",
-    "iso_region": "IE-WH",
+    "iso_region": "IE-WX",
     "municipality": "Morriscastle",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Eire"
     },
     "region": {
-        "id": "304153",
-        "code": "IE-WH",
-        "local_code": "WH",
-        "name": "County Westmeath",
+        "id": "304155",
+        "code": "IE-WX",
+        "local_code": "WX",
+        "name": "County Wexford",
         "continent": "EU",
         "iso_country": "IE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Westmeath",
-        "keywords": "Airports in County Westmeath"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wexford",
+        "keywords": "Airports in County Wexford"
     }
 }

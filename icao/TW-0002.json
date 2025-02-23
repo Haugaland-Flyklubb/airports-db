@@ -1,0 +1,39 @@
+{
+    "id": "593418",
+    "ident": "TW-0002",
+    "type": "small_airport",
+    "name": "AsiaTec Airport",
+    "latitude_deg": "24.26482",
+    "longitude_deg": "120.81644",
+    "elevation_ft": "1050",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-TXG",
+    "municipality": "Shigang, Taichung",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": "Taiwanese airports"
+    },
+    "region": {
+        "id": "306755",
+        "code": "TW-TXG",
+        "local_code": "TXG",
+        "name": "Taichung City",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taichung",
+        "keywords": "Airports in Taichung City"
+    }
+}

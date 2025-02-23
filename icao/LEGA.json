@@ -44,12 +44,36 @@
     ],
     "freqs": [
         {
+            "id": "593448",
+            "airport_ref": "4009",
+            "airport_ident": "LEGA",
+            "type": "GND",
+            "description": "",
+            "frequency_mhz": "121.825"
+        },
+        {
+            "id": "593449",
+            "airport_ref": "4009",
+            "airport_ident": "LEGA",
+            "type": "MIL",
+            "description": "",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "593450",
+            "airport_ref": "4009",
+            "airport_ident": "LEGA",
+            "type": "MIL",
+            "description": "",
+            "frequency_mhz": "139.3"
+        },
+        {
             "id": "57205",
             "airport_ref": "4009",
             "airport_ident": "LEGA",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "122.1"
+            "frequency_mhz": "118.7"
         }
     ],
     "country": {
