@@ -1,0 +1,39 @@
+{
+    "id": "31664",
+    "ident": "CU-0106",
+    "type": "closed",
+    "name": "Nicaro Airport",
+    "latitude_deg": "20.688601",
+    "longitude_deg": "-75.531502",
+    "elevation_ft": "26",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-11",
+    "municipality": "Nicaro",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nicaro_Airport",
+    "keywords": "ICR, MUNC",
+    "country": {
+        "id": "302732",
+        "code": "CU",
+        "name": "Cuba",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuba",
+        "keywords": "Aeropuertos de Cuba"
+    },
+    "region": {
+        "id": "303509",
+        "code": "CU-11",
+        "local_code": "11",
+        "name": "Holguín Province",
+        "continent": "NA",
+        "iso_country": "CU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Holgu%C3%ADn_Province",
+        "keywords": "Airports in Holguín Province"
+    }
+}

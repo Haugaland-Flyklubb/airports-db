@@ -1,0 +1,63 @@
+{
+    "id": "31781",
+    "ident": "KH-0004",
+    "type": "closed",
+    "name": "Kratie Airport",
+    "latitude_deg": "12.489017",
+    "longitude_deg": "106.05469",
+    "elevation_ft": "102",
+    "continent": "AS",
+    "iso_country": "KH",
+    "iso_region": "KH-10",
+    "municipality": "Kratie",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Krati%C3%A9_Airport",
+    "keywords": "KTI, VDKT",
+    "runways": [
+        {
+            "id": "527756",
+            "airport_ref": "31781",
+            "airport_ident": "KH-0004",
+            "length_ft": "3871",
+            "width_ft": "",
+            "surface": "LAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302641",
+        "code": "KH",
+        "name": "Cambodia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cambodia",
+        "keywords": "Cambodian airports"
+    },
+    "region": {
+        "id": "304353",
+        "code": "KH-10",
+        "local_code": "10",
+        "name": "Kratié province",
+        "continent": "AS",
+        "iso_country": "KH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Krati%C3%A9_province",
+        "keywords": "Airports in Krachoh, ក្រចេះ"
+    }
+}

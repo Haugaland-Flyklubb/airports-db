@@ -1,0 +1,39 @@
+{
+    "id": "44004",
+    "ident": "IT-0804",
+    "type": "closed",
+    "name": "Mantova Airport",
+    "latitude_deg": "45.135834",
+    "longitude_deg": "10.794444",
+    "elevation_ft": "57",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-25",
+    "municipality": "Mantova",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LIDM, LIDM",
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306363",
+        "code": "IT-25",
+        "local_code": "25",
+        "name": "Lombardy",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lombardy",
+        "keywords": "LM"
+    }
+}

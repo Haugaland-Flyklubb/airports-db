@@ -1,0 +1,39 @@
+{
+    "id": "39591",
+    "ident": "PE-0041",
+    "type": "closed",
+    "name": "Bayóvar Airport",
+    "latitude_deg": "-5.83075",
+    "longitude_deg": "-81.025803",
+    "elevation_ft": "88",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-PIU",
+    "municipality": "Bayóvar",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SPBY, SPBY",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305026",
+        "code": "PE-PIU",
+        "local_code": "PIU",
+        "name": "Piura Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Piura_Region",
+        "keywords": "Airports in Piura Region"
+    }
+}

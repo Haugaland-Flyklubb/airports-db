@@ -44,12 +44,20 @@
     ],
     "freqs": [
         {
+            "id": "54808",
+            "airport_ref": "2426",
+            "airport_ident": "EGJJ",
+            "type": "APP/DEP",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.555"
+        },
+        {
             "id": "54805",
             "airport_ref": "2426",
             "airport_ident": "EGJJ",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.3"
+            "type": "APP/DEP",
+            "description": "APP/DEP",
+            "frequency_mhz": "120.305"
         },
         {
             "id": "54806",
@@ -57,15 +65,7 @@
             "airport_ident": "EGJJ",
             "type": "ATIS",
             "description": "INFO",
-            "frequency_mhz": "112.2"
-        },
-        {
-            "id": "316267",
-            "airport_ref": "2426",
-            "airport_ident": "EGJJ",
-            "type": "ATIS",
-            "description": "INFO",
-            "frequency_mhz": "129.725"
+            "frequency_mhz": "134.68"
         },
         {
             "id": "54807",
@@ -73,15 +73,7 @@
             "airport_ident": "EGJJ",
             "type": "GND",
             "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "54808",
-            "airport_ref": "2426",
-            "airport_ident": "EGJJ",
-            "type": "RDR",
-            "description": "RDR",
-            "frequency_mhz": "118.55"
+            "frequency_mhz": "121.905"
         },
         {
             "id": "54809",
@@ -89,7 +81,23 @@
             "airport_ident": "EGJJ",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "119.45"
+            "frequency_mhz": "119.455"
+        },
+        {
+            "id": "593607",
+            "airport_ref": "2426",
+            "airport_ident": "EGJJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "593608",
+            "airport_ref": "2426",
+            "airport_ident": "EGJJ",
+            "type": "TWR/APP/DEP",
+            "description": "TWR/APP/DEP",
+            "frequency_mhz": "125.205"
         }
     ],
     "country": {

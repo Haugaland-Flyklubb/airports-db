@@ -1,0 +1,73 @@
+{
+    "id": "3817",
+    "ident": "KR-1088",
+    "type": "closed",
+    "name": "G-225 Airport",
+    "latitude_deg": "38.022685",
+    "longitude_deg": "126.971534",
+    "elevation_ft": "138",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-41",
+    "municipality": "Sunguijeon-ro",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "RK35, RK35, RK35",
+    "runways": [
+        {
+            "id": "237356",
+            "airport_ref": "3817",
+            "airport_ident": "KR-1088",
+            "length_ft": "1155",
+            "width_ft": "40",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "38.017799377441406",
+            "le_longitude_deg": "126.9749984741211",
+            "le_elevation_ft": "128",
+            "le_heading_degT": "47.3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "38.02000045776367",
+            "he_longitude_deg": "126.97799682617188",
+            "he_elevation_ft": "138",
+            "he_heading_degT": "227.3",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55079",
+            "airport_ref": "3817",
+            "airport_ident": "KR-1088",
+            "type": "FCC",
+            "description": "FCC EVENREACH",
+            "frequency_mhz": "36.9"
+        }
+    ],
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304407",
+        "code": "KR-41",
+        "local_code": "41",
+        "name": "Gyeonggi-do (Gyeonggi Province)",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggi_Province",
+        "keywords": "Airports in Gyeonggi-do"
+    }
+}

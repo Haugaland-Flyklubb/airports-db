@@ -1,0 +1,39 @@
+{
+    "id": "43752",
+    "ident": "BE-0065",
+    "type": "closed",
+    "name": "Trazegnies Heliport",
+    "latitude_deg": "50.476665",
+    "longitude_deg": "4.355556",
+    "elevation_ft": "574",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-WHT",
+    "municipality": "Courcelles",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EBTR",
+    "country": {
+        "id": "302676",
+        "code": "BE",
+        "name": "Belgium",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
+        "keywords": "Aéroports de Belgique,Luchthavens van België"
+    },
+    "region": {
+        "id": "303076",
+        "code": "BE-WHT",
+        "local_code": "WHT",
+        "name": "Hainaut Province",
+        "continent": "EU",
+        "iso_country": "BE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hainaut_Province",
+        "keywords": "Wallonia, Walloon Region"
+    }
+}

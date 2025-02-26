@@ -1,0 +1,39 @@
+{
+    "id": "43248",
+    "ident": "ES-0361",
+    "type": "closed",
+    "name": "Ciudad Sanitaria y Universitaria de Bellvitge Heliport",
+    "latitude_deg": "41.345299",
+    "longitude_deg": "2.10729",
+    "elevation_ft": "35",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CT",
+    "municipality": "Barcelona",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LEHB",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303745",
+        "code": "ES-CT",
+        "local_code": "CT",
+        "name": "Catalonia",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Catalonia",
+        "keywords": "Airports in Catalonia"
+    }
+}

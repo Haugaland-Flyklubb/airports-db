@@ -1,0 +1,81 @@
+{
+    "id": "17665",
+    "ident": "US-11327",
+    "type": "closed",
+    "name": "Old Morehead-Rowan County Airport",
+    "latitude_deg": "38.133399963379",
+    "longitude_deg": "-83.53800201416",
+    "elevation_ft": "845",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "Morehead",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "I32, I32",
+    "runways": [
+        {
+            "id": "316839",
+            "airport_ref": "17665",
+            "airport_ident": "US-11327",
+            "length_ft": "5500",
+            "width_ft": "100",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "2",
+            "le_latitude_deg": "38.20790100097656",
+            "le_longitude_deg": "-83.5907974243164",
+            "le_elevation_ft": "1028",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "38.22209930419922",
+            "he_longitude_deg": "-83.58439636230469",
+            "he_elevation_ft": "1010",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "316841",
+            "airport_ref": "17665",
+            "airport_ident": "US-11327",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "119.95"
+        },
+        {
+            "id": "316840",
+            "airport_ref": "17665",
+            "airport_ident": "US-11327",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.7"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": "Airports in Kentucky"
+    }
+}

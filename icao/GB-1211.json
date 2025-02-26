@@ -1,0 +1,81 @@
+{
+    "id": "2399",
+    "ident": "GB-1211",
+    "type": "closed",
+    "name": "Manchester Woodford Airport",
+    "latitude_deg": "53.3381",
+    "longitude_deg": "-2.14889",
+    "elevation_ft": "295",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Stockport, Greater Manchester",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Woodford_Aerodrome",
+    "keywords": "EGCD, XXB",
+    "runways": [
+        {
+            "id": "239587",
+            "airport_ref": "2399",
+            "airport_ident": "GB-1211",
+            "length_ft": "7519",
+            "width_ft": "151",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "53.333900451660156",
+            "le_longitude_deg": "-2.1649999618530273",
+            "le_elevation_ft": "282",
+            "le_heading_degT": "67",
+            "le_displaced_threshold_ft": "758",
+            "he_ident": "25",
+            "he_latitude_deg": "53.34189987182617",
+            "he_longitude_deg": "-2.1333301067352295",
+            "he_elevation_ft": "288",
+            "he_heading_degT": "247",
+            "he_displaced_threshold_ft": "2038"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "58506",
+            "airport_ref": "2399",
+            "airport_ident": "GB-1211",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "130.75"
+        },
+        {
+            "id": "58507",
+            "airport_ref": "2399",
+            "airport_ident": "GB-1211",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.7"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": "English airports"
+    }
+}

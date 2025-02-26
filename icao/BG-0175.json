@@ -1,0 +1,63 @@
+{
+    "id": "104",
+    "ident": "BG-0175",
+    "type": "closed",
+    "name": "Stanke Dimitrov Highway Strip",
+    "latitude_deg": "42.175697",
+    "longitude_deg": "23.050475",
+    "elevation_ft": "3447",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-10",
+    "municipality": "Boboshevo",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LB37",
+    "runways": [
+        {
+            "id": "234413",
+            "airport_ref": "104",
+            "airport_ident": "BG-0175",
+            "length_ft": "4748",
+            "width_ft": "50",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "42.169700622558594",
+            "le_longitude_deg": "23.047399520874023",
+            "le_elevation_ft": "",
+            "le_heading_degT": "23.2",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "42.18170166015625",
+            "he_longitude_deg": "23.05430030822754",
+            "he_elevation_ft": "",
+            "he_heading_degT": "203.2",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303135",
+        "code": "BG-10",
+        "local_code": "10",
+        "name": "Kyustendil Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyustendil_Province",
+        "keywords": "Kjstendil"
+    }
+}

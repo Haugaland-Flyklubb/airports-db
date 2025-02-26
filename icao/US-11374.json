@@ -1,0 +1,63 @@
+{
+    "id": "17808",
+    "ident": "US-11374",
+    "type": "closed",
+    "name": "Young Heliport",
+    "latitude_deg": "43.716599",
+    "longitude_deg": "-116.389",
+    "elevation_ft": "2625",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Eagle",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ID31",
+    "runways": [
+        {
+            "id": "267658",
+            "airport_ref": "17808",
+            "airport_ident": "US-11374",
+            "length_ft": "20",
+            "width_ft": "20",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "300.6",
+            "he_displaced_threshold_ft": "3324"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": "Airports in Idaho"
+    }
+}

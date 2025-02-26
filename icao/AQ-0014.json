@@ -1,0 +1,81 @@
+{
+    "id": "5048",
+    "ident": "AQ-0014",
+    "type": "closed",
+    "name": "McMurdo Station Pegasus Field",
+    "latitude_deg": "-77.963402",
+    "longitude_deg": "166.524994",
+    "elevation_ft": "18",
+    "continent": "AN",
+    "iso_country": "AQ",
+    "iso_region": "AQ-U-A",
+    "municipality": "McMurdo Station",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pegasus_blue_ice_runway",
+    "keywords": "NZPG, NZPG",
+    "runways": [
+        {
+            "id": "233592",
+            "airport_ref": "5048",
+            "airport_ident": "AQ-0014",
+            "length_ft": "10000",
+            "width_ft": "220",
+            "surface": "ICE",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49267",
+            "airport_ref": "5048",
+            "airport_ident": "AQ-0014",
+            "type": "CNTR",
+            "description": "MCMURDO CNTR",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "49268",
+            "airport_ref": "5048",
+            "airport_ident": "AQ-0014",
+            "type": "EMR",
+            "description": "INTL DISTRESS",
+            "frequency_mhz": "218.2"
+        }
+    ],
+    "country": {
+        "id": "302615",
+        "code": "AQ",
+        "name": "Antarctica",
+        "continent": "AN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antarctica",
+        "keywords": "Airports in Antarctica"
+    },
+    "region": {
+        "id": "302931",
+        "code": "AQ-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AN",
+        "iso_country": "AQ",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

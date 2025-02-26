@@ -1,0 +1,39 @@
+{
+    "id": "29838",
+    "ident": "US-12493",
+    "type": "closed",
+    "name": "East Hartford Airport",
+    "latitude_deg": "41.754199981689",
+    "longitude_deg": "-72.624702453613",
+    "elevation_ft": "49",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "Hartford",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "KEHT, KEHT, EHT",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306082",
+        "code": "US-CT",
+        "local_code": "CT",
+        "name": "Connecticut",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Connecticut",
+        "keywords": "Airports in Connecticut"
+    }
+}

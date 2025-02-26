@@ -1,0 +1,63 @@
+{
+    "id": "31704",
+    "ident": "PK-0083",
+    "type": "closed",
+    "name": "Jiwani Airport",
+    "latitude_deg": "25.067801",
+    "longitude_deg": "61.805401",
+    "elevation_ft": "186",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Jiwani",
+    "scheduled_service": "yes",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jiwani_Airport",
+    "keywords": "OPJI, JIW",
+    "runways": [
+        {
+            "id": "260181",
+            "airport_ref": "31704",
+            "airport_ident": "PK-0083",
+            "length_ft": "5850",
+            "width_ft": "",
+            "surface": "UNK",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "180",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "186",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302657",
+        "code": "PK",
+        "name": "Pakistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pakistan",
+        "keywords": "پاکستان کے ہوائی اڈوں"
+    },
+    "region": {
+        "id": "305135",
+        "code": "PK-BA",
+        "local_code": "BA",
+        "name": "Balochistan",
+        "continent": "AS",
+        "iso_country": "PK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
+        "keywords": "Baluchistan"
+    }
+}

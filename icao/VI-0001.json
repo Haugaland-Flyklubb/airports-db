@@ -1,0 +1,63 @@
+{
+    "id": "25493",
+    "ident": "VI-0001",
+    "type": "closed",
+    "name": "Frenchman's Reef Heliport",
+    "latitude_deg": "18.319921",
+    "longitude_deg": "-64.921882",
+    "elevation_ft": "20",
+    "continent": "NA",
+    "iso_country": "VI",
+    "iso_region": "VI-U-A",
+    "municipality": "St Thomas",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "VI03",
+    "runways": [
+        {
+            "id": "505809",
+            "airport_ref": "25493",
+            "airport_ident": "VI-0001",
+            "length_ft": "60",
+            "width_ft": "16",
+            "surface": "Wood",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302758",
+        "code": "VI",
+        "name": "U.S. Virgin Islands",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/U.S._Virgin_Islands",
+        "keywords": "Airports in U.S. Virgin Islands"
+    },
+    "region": {
+        "id": "306192",
+        "code": "VI-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "VI",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

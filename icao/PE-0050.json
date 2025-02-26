@@ -1,0 +1,39 @@
+{
+    "id": "39627",
+    "ident": "PE-0050",
+    "type": "closed",
+    "name": "Olmos Airport",
+    "latitude_deg": "-5.984722",
+    "longitude_deg": "-79.745277",
+    "elevation_ft": "585",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LAM",
+    "municipality": "Olmos",
+    "scheduled_service": "yes",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SPHL, SPHL",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305020",
+        "code": "PE-LAM",
+        "local_code": "LAM",
+        "name": "Lambayeque Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lambayeque_Region",
+        "keywords": "Airports in Lambayeque Region"
+    }
+}

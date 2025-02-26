@@ -1,0 +1,63 @@
+{
+    "id": "3261",
+    "ident": "HU-0074",
+    "type": "closed",
+    "name": "Csákvár Air Base",
+    "latitude_deg": "47.350899",
+    "longitude_deg": "18.43",
+    "elevation_ft": "1000",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-FE",
+    "municipality": "Csákvár",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LH58",
+    "runways": [
+        {
+            "id": "236444",
+            "airport_ref": "3261",
+            "airport_ident": "HU-0074",
+            "length_ft": "6740",
+            "width_ft": "62",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "47.34389877319336",
+            "le_longitude_deg": "18.421199798583984",
+            "le_elevation_ft": "",
+            "le_heading_degT": "40.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "47.3578987121582",
+            "he_longitude_deg": "18.438899993896484",
+            "he_elevation_ft": "",
+            "he_heading_degT": "220.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304065",
+        "code": "HU-FE",
+        "local_code": "FE",
+        "name": "Fejér County",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fejér_County",
+        "keywords": "Airports in Fejér County"
+    }
+}

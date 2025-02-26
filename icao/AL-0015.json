@@ -1,0 +1,63 @@
+{
+    "id": "3973",
+    "ident": "AL-0015",
+    "type": "closed",
+    "name": "Vlorë Air Base",
+    "latitude_deg": "40.476101",
+    "longitude_deg": "19.474199",
+    "elevation_ft": "3",
+    "continent": "EU",
+    "iso_country": "AL",
+    "iso_region": "AL-12",
+    "municipality": "Vlorë",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Vlora Air Base, LAVL",
+    "runways": [
+        {
+            "id": "576734",
+            "airport_ref": "3973",
+            "airport_ident": "AL-0015",
+            "length_ft": "2813",
+            "width_ft": "195",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "40.479698181152344",
+            "le_longitude_deg": "19.47260093688965",
+            "le_elevation_ft": "",
+            "le_heading_degT": "161.6",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "40.4724006652832",
+            "he_longitude_deg": "19.475799560546875",
+            "he_elevation_ft": "",
+            "he_heading_degT": "341.6",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302673",
+        "code": "AL",
+        "name": "Albania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Albania",
+        "keywords": "Albanian airports"
+    },
+    "region": {
+        "id": "302898",
+        "code": "AL-12",
+        "local_code": "12",
+        "name": "Vlorë County",
+        "continent": "EU",
+        "iso_country": "AL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vlorë_County",
+        "keywords": "Airports in Vlorë County"
+    }
+}

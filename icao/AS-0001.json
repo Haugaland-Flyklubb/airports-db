@@ -1,0 +1,39 @@
+{
+    "id": "32422",
+    "ident": "AS-0001",
+    "type": "closed",
+    "name": "Tau Airport",
+    "latitude_deg": "-14.23178",
+    "longitude_deg": "-169.51101",
+    "elevation_ft": "185",
+    "continent": "OC",
+    "iso_country": "AS",
+    "iso_region": "AS-MA",
+    "municipality": "Tau",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tau_Airport",
+    "keywords": "TAV, TAV, HI36",
+    "country": {
+        "id": "302763",
+        "code": "AS",
+        "name": "American Samoa",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/American_Samoa",
+        "keywords": "Samoan airports"
+    },
+    "region": {
+        "id": "349783",
+        "code": "AS-MA",
+        "local_code": "MA",
+        "name": "Manuʻa District",
+        "continent": "OC",
+        "iso_country": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Manu%CA%BBa_District",
+        "keywords": "Airports in Manuʻa District"
+    }
+}

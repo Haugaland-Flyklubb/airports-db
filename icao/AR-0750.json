@@ -1,0 +1,39 @@
+{
+    "id": "39061",
+    "ident": "AR-0750",
+    "type": "closed",
+    "name": "Chepes Airport",
+    "latitude_deg": "-31.356142",
+    "longitude_deg": "-66.591888",
+    "elevation_ft": "714",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-F",
+    "municipality": "Chepes",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "CHE, SACP",
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "306324",
+        "code": "AR-F",
+        "local_code": "F",
+        "name": "La Rioja Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Rioja_Province_(Argentina)",
+        "keywords": "Airports in La Rioja Province"
+    }
+}

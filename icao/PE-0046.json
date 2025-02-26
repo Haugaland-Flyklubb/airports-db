@@ -1,0 +1,39 @@
+{
+    "id": "39615",
+    "ident": "PE-0046",
+    "type": "closed",
+    "name": "San Juan Aposento Airport",
+    "latitude_deg": "-15.3539",
+    "longitude_deg": "-75.167099",
+    "elevation_ft": "23",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-ICA",
+    "municipality": "San Juan Aposento",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SPAO, SPAO, APE",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305017",
+        "code": "PE-ICA",
+        "local_code": "ICA",
+        "name": "Ica Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ica_Region",
+        "keywords": "Airports in Ica Region"
+    }
+}

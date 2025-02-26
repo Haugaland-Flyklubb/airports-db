@@ -1,0 +1,63 @@
+{
+    "id": "5256",
+    "ident": "PK-0081",
+    "type": "closed",
+    "name": "Kharan Airport",
+    "latitude_deg": "28.5972",
+    "longitude_deg": "65.422501",
+    "elevation_ft": "2408",
+    "continent": "AS",
+    "iso_country": "PK",
+    "iso_region": "PK-BA",
+    "municipality": "Kharan",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "OPKN",
+    "runways": [
+        {
+            "id": "238241",
+            "airport_ref": "5256",
+            "airport_ident": "PK-0081",
+            "length_ft": "2945",
+            "width_ft": "93",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "28.60099983215332",
+            "le_longitude_deg": "65.42109680175781",
+            "le_elevation_ft": "",
+            "le_heading_degT": "161",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "28.593399047851562",
+            "he_longitude_deg": "65.42400360107422",
+            "he_elevation_ft": "",
+            "he_heading_degT": "341",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302657",
+        "code": "PK",
+        "name": "Pakistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pakistan",
+        "keywords": "پاکستان کے ہوائی اڈوں"
+    },
+    "region": {
+        "id": "305135",
+        "code": "PK-BA",
+        "local_code": "BA",
+        "name": "Balochistan",
+        "continent": "AS",
+        "iso_country": "PK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
+        "keywords": "Baluchistan"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "32239",
+    "ident": "RU-9999",
+    "type": "closed",
+    "name": "Rzhevka Airport",
+    "latitude_deg": "59.98",
+    "longitude_deg": "30.5856",
+    "elevation_ft": "56",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-LEN",
+    "municipality": "St. Petersburg",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "http://www.airport-rzhevka.ru/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rzhevka_Airport",
+    "keywords": "Smolnaya Airfield, Smolnoye Airfield, Аэропорт Ржевка, Аэродром Смольная, Аэродром Смольное, RVH, ULSS",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305299",
+        "code": "RU-LEN",
+        "local_code": "LEN",
+        "name": "Leningrad Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Leningrad_Oblast",
+        "keywords": "Airports in Leningrad Oblast"
+    }
+}

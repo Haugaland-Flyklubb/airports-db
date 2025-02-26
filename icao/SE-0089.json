@@ -1,0 +1,81 @@
+{
+    "id": "2688",
+    "ident": "SE-0089",
+    "type": "closed",
+    "name": "Sättna Airport",
+    "latitude_deg": "62.4814",
+    "longitude_deg": "17.002899",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Y",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ESNT",
+    "runways": [
+        {
+            "id": "239044",
+            "airport_ref": "2688",
+            "airport_ident": "SE-0089",
+            "length_ft": "6562",
+            "width_ft": "82",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "12",
+            "le_latitude_deg": "62.486",
+            "le_longitude_deg": "16.9864",
+            "le_elevation_ft": "",
+            "le_heading_degT": "121",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "62.4767",
+            "he_longitude_deg": "17.019501",
+            "he_elevation_ft": "",
+            "he_heading_degT": "301",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57474",
+            "airport_ref": "2688",
+            "airport_ident": "SE-0089",
+            "type": "OPS",
+            "description": "MIF",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "57475",
+            "airport_ref": "2688",
+            "airport_ident": "SE-0089",
+            "type": "TWR",
+            "description": "APP",
+            "frequency_mhz": "133.5"
+        }
+    ],
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305431",
+        "code": "SE-Y",
+        "local_code": "Y",
+        "name": "Västernorrlands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västernorrlands_län",
+        "keywords": "Västernorrland County"
+    }
+}

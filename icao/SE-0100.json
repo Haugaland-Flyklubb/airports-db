@@ -1,0 +1,39 @@
+{
+    "id": "29356",
+    "ident": "SE-0100",
+    "type": "closed",
+    "name": "Färila Air Base",
+    "latitude_deg": "61.897999",
+    "longitude_deg": "15.7053",
+    "elevation_ft": "676",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-X",
+    "municipality": "Färila",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://sv.wikipedia.org/wiki/F%C3%A4rila_flygbas",
+    "keywords": "ESNF, Föne",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305430",
+        "code": "SE-X",
+        "local_code": "X",
+        "name": "Gävleborge län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gävleborge_län",
+        "keywords": "Gävleborg County"
+    }
+}

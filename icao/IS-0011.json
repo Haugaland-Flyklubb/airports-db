@@ -1,0 +1,39 @@
+{
+    "id": "30737",
+    "ident": "IS-0011",
+    "type": "closed",
+    "name": "Melanes Airport",
+    "latitude_deg": "65.525829",
+    "longitude_deg": "-22.409813",
+    "elevation_ft": "148",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-4",
+    "municipality": "Melanes",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "BIMN",
+    "country": {
+        "id": "302696",
+        "code": "IS",
+        "name": "Iceland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iceland",
+        "keywords": "Icelandic airports"
+    },
+    "region": {
+        "id": "304250",
+        "code": "IS-4",
+        "local_code": "4",
+        "name": "Westfjords",
+        "continent": "EU",
+        "iso_country": "IS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Westfjords",
+        "keywords": "Vestfirðir"
+    }
+}

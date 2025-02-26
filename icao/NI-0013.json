@@ -1,0 +1,39 @@
+{
+    "id": "42168",
+    "ident": "NI-0013",
+    "type": "closed",
+    "name": "Nueva Guinea Airport",
+    "latitude_deg": "11.686994",
+    "longitude_deg": "-84.457011",
+    "elevation_ft": "606",
+    "continent": "NA",
+    "iso_country": "NI",
+    "iso_region": "NI-AS",
+    "municipality": "Nueva Guinea",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nueva_Guinea_Airport",
+    "keywords": "MNNG, MNNG, NVG",
+    "country": {
+        "id": "302748",
+        "code": "NI",
+        "name": "Nicaragua",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nicaragua",
+        "keywords": "Aeropuertos de Nicaragua"
+    },
+    "region": {
+        "id": "304915",
+        "code": "NI-AS",
+        "local_code": "AS",
+        "name": "South Caribbean Coast Autonomous Region",
+        "continent": "NA",
+        "iso_country": "NI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Caribbean_Coast_Autonomous_Region",
+        "keywords": "Atlántico Sur"
+    }
+}

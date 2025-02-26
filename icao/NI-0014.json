@@ -1,0 +1,39 @@
+{
+    "id": "42174",
+    "ident": "NI-0014",
+    "type": "closed",
+    "name": "Juigalpa Airport",
+    "latitude_deg": "12.1",
+    "longitude_deg": "-85.366669",
+    "elevation_ft": "295",
+    "continent": "NA",
+    "iso_country": "NI",
+    "iso_region": "NI-CO",
+    "municipality": "Juigalpa",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "MNJU, MNJU",
+    "country": {
+        "id": "302748",
+        "code": "NI",
+        "name": "Nicaragua",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nicaragua",
+        "keywords": "Aeropuertos de Nicaragua"
+    },
+    "region": {
+        "id": "304919",
+        "code": "NI-CO",
+        "local_code": "CO",
+        "name": "Chontales Department",
+        "continent": "NA",
+        "iso_country": "NI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chontales_Department",
+        "keywords": "Airports in Chontales"
+    }
+}
