@@ -1,0 +1,39 @@
+{
+    "id": "43798",
+    "ident": "AT-0042",
+    "type": "heliport",
+    "name": "Deutsch-Ordens-Spital Heliport",
+    "latitude_deg": "46.94722366333",
+    "longitude_deg": "14.410833358765",
+    "elevation_ft": "2113",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Friesach",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOKP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302958",
+        "code": "AT-2",
+        "local_code": "2",
+        "name": "Carinthia",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Carinthia",
+        "keywords": "Kärnten"
+    }
+}

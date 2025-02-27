@@ -1,0 +1,63 @@
+{
+    "id": "41445",
+    "ident": "WAES",
+    "type": "small_airport",
+    "name": "Emalamo Sanana Airport",
+    "latitude_deg": "-2.097833",
+    "longitude_deg": "125.963833",
+    "elevation_ft": "11",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-MU",
+    "municipality": "Sanana",
+    "scheduled_service": "no",
+    "icao_code": "WAES",
+    "iata_code": "SQN",
+    "gps_code": "WAES",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Emalamo_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304115",
+        "code": "ID-MU",
+        "local_code": "MU",
+        "name": "Maluku Utara (North Maluku)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maluku_Utara",
+        "keywords": "Airports in Maluku Utara"
+    },
+    "navaids": [
+        {
+            "id": "85613",
+            "filename": "Sanana_NDB_ID",
+            "ident": "AS",
+            "name": "Sanana",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "-2.094589948654175",
+            "longitude_deg": "125.96399688720703",
+            "elevation_ft": "7",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.413",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAES"
+        }
+    ]
+}

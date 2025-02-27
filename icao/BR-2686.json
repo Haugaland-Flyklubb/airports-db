@@ -1,0 +1,63 @@
+{
+    "id": "36814",
+    "ident": "BR-2686",
+    "type": "small_airport",
+    "name": "Dona Iracema Airport",
+    "latitude_deg": "-10.606389045715",
+    "longitude_deg": "-48.348609924316",
+    "elevation_ft": "919",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-TO",
+    "municipality": "Porto Nacional",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SJQZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SJQZ",
+    "runways": [
+        {
+            "id": "261694",
+            "airport_ref": "36814",
+            "airport_ident": "BR-2686",
+            "length_ft": "3990",
+            "width_ft": "131",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "5",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303225",
+        "code": "BR-TO",
+        "local_code": "TO",
+        "name": "Tocantins",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tocantins",
+        "keywords": "Airports in Tocatins"
+    }
+}

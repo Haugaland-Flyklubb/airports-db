@@ -1,0 +1,39 @@
+{
+    "id": "35377",
+    "ident": "AF-0023",
+    "type": "small_airport",
+    "name": "Muqur Airport",
+    "latitude_deg": "32.879601",
+    "longitude_deg": "67.848602",
+    "elevation_ft": "6600",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-GHA",
+    "municipality": "Muqur",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "OAMK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302619",
+        "code": "AF",
+        "name": "Afghanistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Afghanistan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302834",
+        "code": "AF-GHA",
+        "local_code": "GHA",
+        "name": "Ghazni Province",
+        "continent": "AS",
+        "iso_country": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ghazni_Province",
+        "keywords": "Airports in Ghazni Province"
+    }
+}

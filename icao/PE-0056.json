@@ -1,0 +1,39 @@
+{
+    "id": "30772",
+    "ident": "PE-0056",
+    "type": "small_airport",
+    "name": "Huallaga Airport",
+    "latitude_deg": "-7.06056",
+    "longitude_deg": "-76.582199",
+    "elevation_ft": "980",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-SAM",
+    "municipality": "Bellavista",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "BLP",
+    "gps_code": "",
+    "local_code": "SPBL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SPBL",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305028",
+        "code": "PE-SAM",
+        "local_code": "SAM",
+        "name": "San Martín Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Martín_Region",
+        "keywords": "Airports in San Martín Region"
+    }
+}

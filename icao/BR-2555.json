@@ -1,0 +1,63 @@
+{
+    "id": "36384",
+    "ident": "BR-2555",
+    "type": "small_airport",
+    "name": "Tapurá Airport",
+    "latitude_deg": "-12.791666984558",
+    "longitude_deg": "-56.498611450195",
+    "elevation_ft": "1310",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Tapurá",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SIYQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SIYQ",
+    "runways": [
+        {
+            "id": "261739",
+            "airport_ref": "36384",
+            "airport_ident": "BR-2555",
+            "length_ft": "4921",
+            "width_ft": "75",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "5",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303211",
+        "code": "BR-MT",
+        "local_code": "MT",
+        "name": "Mato Grosso",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
+        "keywords": "Airports in Mato Grosso"
+    }
+}

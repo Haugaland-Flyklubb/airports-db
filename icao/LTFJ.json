@@ -71,7 +71,15 @@
             "airport_ident": "LTFJ",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "128.55"
+            "frequency_mhz": "128.2"
+        },
+        {
+            "id": "593687",
+            "airport_ref": "4569",
+            "airport_ident": "LTFJ",
+            "type": "CLNC DEL",
+            "description": "",
+            "frequency_mhz": "126.425"
         },
         {
             "id": "57838",

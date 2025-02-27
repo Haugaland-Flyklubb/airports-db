@@ -1,0 +1,63 @@
+{
+    "id": "43669",
+    "ident": "RU-10059",
+    "type": "medium_airport",
+    "name": "Dyagilevo Air Base",
+    "latitude_deg": "54.642284",
+    "longitude_deg": "39.569047",
+    "elevation_ft": "440",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-RYA",
+    "municipality": "Ryazan",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "XUBD",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dyagilevo",
+    "keywords": "Dyaghilevo Air Base, Аэродром Дягилево, UUBD, ЬУБД, УУБД, RU-10059",
+    "runways": [
+        {
+            "id": "507295",
+            "airport_ref": "43669",
+            "airport_ident": "RU-10059",
+            "length_ft": "9842",
+            "width_ft": "223",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305319",
+        "code": "RU-RYA",
+        "local_code": "RYA",
+        "name": "Ryazan Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ryazan_Oblast",
+        "keywords": "Airports in Ryazan Oblast"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "43018",
+    "ident": "RU-10058",
+    "type": "medium_airport",
+    "name": "Severomorsk-3 Naval Air Base",
+    "latitude_deg": "68.866669",
+    "longitude_deg": "33.716667",
+    "elevation_ft": "564",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MUR",
+    "municipality": "Severomorsk",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "XLMV",
+    "home_link": "http://severomorsk.3dn.ru/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Severomorsk-3_(air_base)",
+    "keywords": "Malyavr, Murmansk Northeast, RU-10058",
+    "runways": [
+        {
+            "id": "507549",
+            "airport_ref": "43018",
+            "airport_ident": "RU-10058",
+            "length_ft": "8202",
+            "width_ft": "197",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305306",
+        "code": "RU-MUR",
+        "local_code": "MUR",
+        "name": "Murmansk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Murmansk_Oblast",
+        "keywords": "Airports in Murmansk Oblast"
+    }
+}

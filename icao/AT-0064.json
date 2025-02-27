@@ -1,0 +1,39 @@
+{
+    "id": "43829",
+    "ident": "AT-0064",
+    "type": "heliport",
+    "name": "Judenburg Heliport",
+    "latitude_deg": "47.165000915527",
+    "longitude_deg": "14.654999732971",
+    "elevation_ft": "2448",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-6",
+    "municipality": "Judenburg",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOGJ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302962",
+        "code": "AT-6",
+        "local_code": "6",
+        "name": "Styria",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Styria",
+        "keywords": "Steiermark"
+    }
+}

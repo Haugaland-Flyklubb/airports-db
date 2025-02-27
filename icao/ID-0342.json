@@ -1,0 +1,39 @@
+{
+    "id": "32654",
+    "ident": "ID-0342",
+    "type": "small_airport",
+    "name": "Helvetia Airport",
+    "latitude_deg": "3.68306",
+    "longitude_deg": "98.644203",
+    "elevation_ft": "49",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-SU",
+    "municipality": "Medan",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "WIMH",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "WIMH",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304126",
+        "code": "ID-SU",
+        "local_code": "SU",
+        "name": "Sumatera Utara (North Sumatra)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Sumatra",
+        "keywords": "Airports in Sumatra Utara"
+    }
+}

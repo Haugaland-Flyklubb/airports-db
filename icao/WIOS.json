@@ -1,57 +1,23 @@
 {
-    "id": "26849",
+    "id": "525696",
     "ident": "WIOS",
     "type": "medium_airport",
-    "name": "Susilo Airport",
-    "latitude_deg": "0.063851",
-    "longitude_deg": "111.473572",
-    "elevation_ft": "98",
+    "name": "Tebelian Airport",
+    "latitude_deg": "-0.045214",
+    "longitude_deg": "111.458049",
+    "elevation_ft": "97",
     "continent": "AS",
     "iso_country": "ID",
     "iso_region": "ID-KB",
     "municipality": "Sintang",
-    "scheduled_service": "no",
-    "icao_code": "",
-    "iata_code": "",
-    "gps_code": "",
+    "scheduled_service": "yes",
+    "icao_code": "WIOS",
+    "iata_code": "SQG",
+    "gps_code": "WIOS",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Susilo_Airport",
-    "keywords": "SQG, WIOS",
-    "runways": [
-        {
-            "id": "236561",
-            "airport_ref": "26849",
-            "airport_ident": "WIOS",
-            "length_ft": "4256",
-            "width_ft": "98",
-            "surface": "ASP",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "08",
-            "le_latitude_deg": "0.06278599798679352",
-            "le_longitude_deg": "111.46800231933594",
-            "le_elevation_ft": "102",
-            "le_heading_degT": "81.8",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "26",
-            "he_latitude_deg": "0.06445299834012985",
-            "he_longitude_deg": "111.47899627685547",
-            "he_elevation_ft": "102",
-            "he_heading_degT": "261.8",
-            "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "53729",
-            "airport_ref": "26849",
-            "airport_ident": "WIOS",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "130.1"
-        }
-    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tebelian_Airport",
+    "keywords": "",
     "country": {
         "id": "302632",
         "code": "ID",
@@ -69,29 +35,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kalimantan_Barat",
         "keywords": "Airports in Kalimantan Barat"
-    },
-    "navaids": [
-        {
-            "id": "93538",
-            "filename": "Susilo_NDB_ID",
-            "ident": "SG",
-            "name": "Susilo",
-            "type": "NDB",
-            "frequency_khz": "405",
-            "latitude_deg": "0.06750000268220901",
-            "longitude_deg": "111.46700286865234",
-            "elevation_ft": "98",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.556",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WIOS"
-        }
-    ]
+    }
 }

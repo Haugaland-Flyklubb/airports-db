@@ -1,0 +1,63 @@
+{
+    "id": "37271",
+    "ident": "BR-2853",
+    "type": "small_airport",
+    "name": "Litorânea Airport",
+    "latitude_deg": "-1.301944",
+    "longitude_deg": "-44.904999",
+    "elevation_ft": "26",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MA",
+    "municipality": "Cururupu",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SNTX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SNTX",
+    "runways": [
+        {
+            "id": "262538",
+            "airport_ref": "37271",
+            "airport_ident": "BR-2853",
+            "length_ft": "2198",
+            "width_ft": "59",
+            "surface": "GRE",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303208",
+        "code": "BR-MA",
+        "local_code": "MA",
+        "name": "Maranhão",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maranhão",
+        "keywords": "Airports in Maranhão"
+    }
+}

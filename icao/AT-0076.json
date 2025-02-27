@@ -1,0 +1,39 @@
+{
+    "id": "43848",
+    "ident": "AT-0076",
+    "type": "heliport",
+    "name": "Innsbruck Air Rescue Center ÖAMTC Heliport",
+    "latitude_deg": "47.255034",
+    "longitude_deg": "11.345485",
+    "elevation_ft": "1998",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Innsbruck",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOJO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Christophorus 1, Flugrettungszentrum",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302963",
+        "code": "AT-7",
+        "local_code": "7",
+        "name": "Tyrol",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tyrol",
+        "keywords": "Tirol"
+    }
+}

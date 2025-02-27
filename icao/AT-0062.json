@@ -1,0 +1,39 @@
+{
+    "id": "43823",
+    "ident": "AT-0062",
+    "type": "heliport",
+    "name": "Schwarzach Heliport",
+    "latitude_deg": "47.324443817139",
+    "longitude_deg": "13.154999732971",
+    "elevation_ft": "2046",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-5",
+    "municipality": "Schwarzach",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOSS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302961",
+        "code": "AT-5",
+        "local_code": "5",
+        "name": "Salzburg",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Salzburg",
+        "keywords": "Airports in Salzburg"
+    }
+}

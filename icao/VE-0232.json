@@ -1,0 +1,39 @@
+{
+    "id": "40273",
+    "ident": "VE-0232",
+    "type": "small_airport",
+    "name": "Santa Rita Airport",
+    "latitude_deg": "7.516667",
+    "longitude_deg": "-68.683334",
+    "elevation_ft": "367",
+    "continent": "NA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "El Diero",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVQR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SVQR",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306167",
+        "code": "VE-C",
+        "local_code": "C",
+        "name": "Apure State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Apure",
+        "keywords": "Airports in Apure State"
+    }
+}

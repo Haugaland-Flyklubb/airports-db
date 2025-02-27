@@ -1,0 +1,63 @@
+{
+    "id": "44756",
+    "ident": "RU-10068",
+    "type": "small_airport",
+    "name": "Pertominsk Airstrip",
+    "latitude_deg": "64.790463",
+    "longitude_deg": "38.422472",
+    "elevation_ft": "56",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-ARK",
+    "municipality": "Pertominsk",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "ULAT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Пертоминск, УЛАТ, RU-10068",
+    "runways": [
+        {
+            "id": "521551",
+            "airport_ref": "44756",
+            "airport_ident": "RU-10068",
+            "length_ft": "2133",
+            "width_ft": "197",
+            "surface": "Dirt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "161",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "341",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305266",
+        "code": "RU-ARK",
+        "local_code": "ARK",
+        "name": "Arkhangelsk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkhangelsk_Oblast",
+        "keywords": "Airports in Arkhangelsk Oblast"
+    }
+}

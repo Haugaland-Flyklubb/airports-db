@@ -1,0 +1,63 @@
+{
+    "id": "36956",
+    "ident": "BR-2737",
+    "type": "heliport",
+    "name": "Dimensão Indústria",
+    "latitude_deg": "-2.658607",
+    "longitude_deg": "-44.301211",
+    "elevation_ft": "92",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MA",
+    "municipality": "São Luís",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "MA0066",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SJWU, BR-2737",
+    "runways": [
+        {
+            "id": "262096",
+            "airport_ref": "36956",
+            "airport_ident": "BR-2737",
+            "length_ft": "66",
+            "width_ft": "66",
+            "surface": "CONC",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303208",
+        "code": "BR-MA",
+        "local_code": "MA",
+        "name": "Maranhão",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maranhão",
+        "keywords": "Airports in Maranhão"
+    }
+}

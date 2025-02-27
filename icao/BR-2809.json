@@ -1,0 +1,63 @@
+{
+    "id": "37158",
+    "ident": "BR-2809",
+    "type": "small_airport",
+    "name": "Agropecuária Ferreira Penço Ltda Airport",
+    "latitude_deg": "-9.69848",
+    "longitude_deg": "-61.023919",
+    "elevation_ft": "3297",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Aripuanã",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SNLK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SNLK",
+    "runways": [
+        {
+            "id": "261500",
+            "airport_ref": "37158",
+            "airport_ident": "BR-2809",
+            "length_ft": "2952",
+            "width_ft": "66",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "-61.023919",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "35",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "-9.695099",
+            "he_longitude_deg": "-61.021437",
+            "he_elevation_ft": "",
+            "he_heading_degT": "215",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303211",
+        "code": "BR-MT",
+        "local_code": "MT",
+        "name": "Mato Grosso",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
+        "keywords": "Airports in Mato Grosso"
+    }
+}

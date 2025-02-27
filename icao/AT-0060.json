@@ -1,0 +1,39 @@
+{
+    "id": "43821",
+    "ident": "AT-0060",
+    "type": "heliport",
+    "name": "St. Johann Im Pongau Heliport",
+    "latitude_deg": "47.39416885376",
+    "longitude_deg": "13.222222328186",
+    "elevation_ft": "1803",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-5",
+    "municipality": "St. Johann Im Pongau",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOSJ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302961",
+        "code": "AT-5",
+        "local_code": "5",
+        "name": "Salzburg",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Salzburg",
+        "keywords": "Airports in Salzburg"
+    }
+}

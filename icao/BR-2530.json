@@ -1,0 +1,63 @@
+{
+    "id": "36303",
+    "ident": "BR-2530",
+    "type": "small_airport",
+    "name": "Boa Esperança Airport",
+    "latitude_deg": "-7.661388874054",
+    "longitude_deg": "-55.960277557373",
+    "elevation_ft": "788",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PA",
+    "municipality": "Novo Progresso",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SIUZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SIUZ",
+    "runways": [
+        {
+            "id": "261342",
+            "airport_ref": "36303",
+            "airport_ident": "BR-2530",
+            "length_ft": "2953",
+            "width_ft": "115",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "3",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303212",
+        "code": "BR-PA",
+        "local_code": "PA",
+        "name": "Pará",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
+        "keywords": "Airports in Pará"
+    }
+}

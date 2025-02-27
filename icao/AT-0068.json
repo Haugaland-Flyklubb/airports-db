@@ -1,0 +1,39 @@
+{
+    "id": "43839",
+    "ident": "AT-0068",
+    "type": "heliport",
+    "name": "Ischgl Idalp Heliport",
+    "latitude_deg": "46.980419",
+    "longitude_deg": "10.315908",
+    "elevation_ft": "7522",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-7",
+    "municipality": "Ischgl",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOIP",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Idalpe",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302963",
+        "code": "AT-7",
+        "local_code": "7",
+        "name": "Tyrol",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tyrol",
+        "keywords": "Tirol"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "43824",
+    "ident": "AT-0063",
+    "type": "heliport",
+    "name": "Schwarzenbergkaserne Military Heliport",
+    "latitude_deg": "47.797500610352",
+    "longitude_deg": "12.981666564941",
+    "elevation_ft": "1433",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-5",
+    "municipality": "Salzburg",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOXS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302961",
+        "code": "AT-5",
+        "local_code": "5",
+        "name": "Salzburg",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Salzburg",
+        "keywords": "Airports in Salzburg"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "44849",
+    "ident": "RU-10074",
+    "type": "small_airport",
+    "name": "Shoyna Airstrip",
+    "latitude_deg": "67.869003",
+    "longitude_deg": "44.151001",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-NEN",
+    "municipality": "Shoyna",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "ULBO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Аэропорт Шойна, УЛБО, RU-10074",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305307",
+        "code": "RU-NEN",
+        "local_code": "NEN",
+        "name": "Nenets Autonomous Okrug",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nenets_Autonomous_Okrug",
+        "keywords": "Airports in Nenets Autonomous Okrug"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "319707",
+    "ident": "BR-3229",
+    "type": "small_airport",
+    "name": "Fazenda Scheffer Airport",
+    "latitude_deg": "-8.343408",
+    "longitude_deg": "-65.713456",
+    "elevation_ft": "293",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Lábrea",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SDDS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SDDS",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303201",
+        "code": "BR-AM",
+        "local_code": "AM",
+        "name": "Amazonas",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)",
+        "keywords": "Airports in Amazonas"
+    }
+}

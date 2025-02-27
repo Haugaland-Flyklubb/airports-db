@@ -1,0 +1,89 @@
+{
+    "id": "308633",
+    "ident": "RPMY",
+    "type": "medium_airport",
+    "name": "Laguindingan International Airport",
+    "latitude_deg": "8.612203",
+    "longitude_deg": "124.456496",
+    "elevation_ft": "190",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-MSR",
+    "municipality": "Laguindingan",
+    "scheduled_service": "yes",
+    "icao_code": "RPMY",
+    "iata_code": "CGY",
+    "gps_code": "RPMY",
+    "local_code": "",
+    "home_link": "http://laguindinganinternationalairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Laguindingan_International_Airport",
+    "keywords": "CGY, IGN, RPML, Cagayan de Oro",
+    "runways": [
+        {
+            "id": "308634",
+            "airport_ref": "308633",
+            "airport_ident": "RPMY",
+            "length_ft": "6890",
+            "width_ft": "148",
+            "surface": "Concrete",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "8.611470222473145",
+            "le_longitude_deg": "124.4469985961914",
+            "le_elevation_ft": "189",
+            "le_heading_degT": "86",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "8.612939834594727",
+            "he_longitude_deg": "124.46600341796875",
+            "he_elevation_ft": "189",
+            "he_heading_degT": "266",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "320956",
+            "airport_ref": "308633",
+            "airport_ident": "RPMY",
+            "type": "APPR",
+            "description": "",
+            "frequency_mhz": "124.27"
+        },
+        {
+            "id": "308879",
+            "airport_ref": "308633",
+            "airport_ident": "RPMY",
+            "type": "FSS",
+            "description": "Laguindingan Radio",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "320955",
+            "airport_ref": "308633",
+            "airport_ident": "RPMY",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "116.1"
+        }
+    ],
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305104",
+        "code": "PH-MSR",
+        "local_code": "MSR",
+        "name": "Misamis Oriental Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Misamis_Oriental_Province",
+        "keywords": "Airports in Misamis Oriental Province"
+    }
+}

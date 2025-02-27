@@ -1,0 +1,39 @@
+{
+    "id": "43863",
+    "ident": "AT-0086",
+    "type": "heliport",
+    "name": "Wien-Aspern ÖAMTC Heliport",
+    "latitude_deg": "48.222244",
+    "longitude_deg": "16.512693",
+    "elevation_ft": "516",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-9",
+    "municipality": "Aspern",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOAJ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Austrian Motor Club, Christophorus 9",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302965",
+        "code": "AT-9",
+        "local_code": "9",
+        "name": "Vienna",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vienna",
+        "keywords": "Wien"
+    }
+}

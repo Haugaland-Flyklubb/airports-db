@@ -1,0 +1,39 @@
+{
+    "id": "43860",
+    "ident": "AT-0083",
+    "type": "heliport",
+    "name": "Feldkirch Heliport",
+    "latitude_deg": "47.274818",
+    "longitude_deg": "9.591209",
+    "elevation_ft": "1449",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-8",
+    "municipality": "Feldkirch",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOIQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Doctor Schenk Heliport",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302964",
+        "code": "AT-8",
+        "local_code": "8",
+        "name": "Vorarlberg",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vorarlberg",
+        "keywords": "Airports in Vorarlberg"
+    }
+}

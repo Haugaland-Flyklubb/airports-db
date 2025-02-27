@@ -1,0 +1,39 @@
+{
+    "id": "35375",
+    "ident": "AF-0021",
+    "type": "small_airport",
+    "name": "Logar Airport",
+    "latitude_deg": "33.986499786377",
+    "longitude_deg": "69.023101806641",
+    "elevation_ft": "6333",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-LOW",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "OALG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302619",
+        "code": "AF",
+        "name": "Afghanistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Afghanistan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302846",
+        "code": "AF-LOW",
+        "local_code": "LOW",
+        "name": "Logar Province",
+        "continent": "AS",
+        "iso_country": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Logar_Province",
+        "keywords": "Airports in Logar Province"
+    }
+}

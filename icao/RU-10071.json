@@ -1,0 +1,63 @@
+{
+    "id": "44762",
+    "ident": "RU-10071",
+    "type": "small_airport",
+    "name": "Krasnoshchelye Airstrip",
+    "latitude_deg": "67.348",
+    "longitude_deg": "37.077",
+    "elevation_ft": "492",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MUR",
+    "municipality": "Krasnoshchelye",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "ULMX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Krasnoschelye Airport, Аэропорт Краснощелье, УЛМЬ, RU-10071",
+    "runways": [
+        {
+            "id": "260438",
+            "airport_ref": "44762",
+            "airport_ident": "RU-10071",
+            "length_ft": "2133",
+            "width_ft": "328",
+            "surface": "Ground",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305306",
+        "code": "RU-MUR",
+        "local_code": "MUR",
+        "name": "Murmansk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Murmansk_Oblast",
+        "keywords": "Airports in Murmansk Oblast"
+    }
+}

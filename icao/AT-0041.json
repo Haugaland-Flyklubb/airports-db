@@ -1,0 +1,39 @@
+{
+    "id": "43797",
+    "ident": "AT-0041",
+    "type": "heliport",
+    "name": "Hallegg Heliport",
+    "latitude_deg": "46.648056030273",
+    "longitude_deg": "14.245833396912",
+    "elevation_ft": "1493",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-2",
+    "municipality": "Halleg",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOKK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302958",
+        "code": "AT-2",
+        "local_code": "2",
+        "name": "Carinthia",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Carinthia",
+        "keywords": "Kärnten"
+    }
+}

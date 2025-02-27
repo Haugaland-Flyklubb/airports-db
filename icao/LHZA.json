@@ -11,13 +11,47 @@
     "iso_region": "HU-ZA",
     "municipality": "Zalaegerszeg",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "LHZA",
     "iata_code": "",
     "gps_code": "LHZA",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://lhza.hu",
     "wikipedia_link": "",
     "keywords": "Zalaegerszeg, Andráshida",
+    "runways": [
+        {
+            "id": "593683",
+            "airport_ref": "30575",
+            "airport_ident": "LHZA",
+            "length_ft": "4921",
+            "width_ft": "82",
+            "surface": "gras",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "46.890408",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "643",
+            "le_heading_degT": "173",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "46.877265",
+            "he_longitude_deg": "16.790493",
+            "he_elevation_ft": "643",
+            "he_heading_degT": "353",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "593684",
+            "airport_ref": "30575",
+            "airport_ident": "LHZA",
+            "type": "VHF",
+            "description": "Zalaegerszeg INFO",
+            "frequency_mhz": "0"
+        }
+    ],
     "country": {
         "id": "302693",
         "code": "HU",

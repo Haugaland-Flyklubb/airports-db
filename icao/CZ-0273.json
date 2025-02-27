@@ -1,0 +1,39 @@
+{
+    "id": "43206",
+    "ident": "CZ-0273",
+    "type": "small_airport",
+    "name": "Hradčany Airfield",
+    "latitude_deg": "50.619247",
+    "longitude_deg": "14.732753",
+    "elevation_ft": "912",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-LI",
+    "municipality": "Kuřívody",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LKHRAD",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hrad%C4%8Dany_Air_Base",
+    "keywords": "LKHR, Hradčany Air Base, Letecká základna Hradčany, Letiště Hradčany, CZ-0273",
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303536",
+        "code": "CZ-LI",
+        "local_code": "LI",
+        "name": "Liberec Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Liberec_Region",
+        "keywords": "Liberecký kraj"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "36849",
+    "ident": "BR-2695",
+    "type": "small_airport",
+    "name": "Fazenda São José do Cangalha Airport",
+    "latitude_deg": "-19.515556335449",
+    "longitude_deg": "-52.604721069336",
+    "elevation_ft": "1201",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Água Clara",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SJSJ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SJSJ",
+    "runways": [
+        {
+            "id": "261062",
+            "airport_ref": "36849",
+            "airport_ident": "BR-2695",
+            "length_ft": "3281",
+            "width_ft": "197",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": "Airports in Mato Grosso do Sul"
+    }
+}

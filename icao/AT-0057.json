@@ -1,0 +1,39 @@
+{
+    "id": "43815",
+    "ident": "AT-0057",
+    "type": "heliport",
+    "name": "Kilb Heliport",
+    "latitude_deg": "48.086067",
+    "longitude_deg": "15.428381",
+    "elevation_ft": "1388",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Kilb",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOAY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Heli-Line",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302959",
+        "code": "AT-3",
+        "local_code": "3",
+        "name": "Lower Austria",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Austria",
+        "keywords": "Niederösterreich"
+    }
+}

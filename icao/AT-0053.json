@@ -1,0 +1,39 @@
+{
+    "id": "43810",
+    "ident": "AT-0053",
+    "type": "heliport",
+    "name": "Krems Heliport",
+    "latitude_deg": "48.412753",
+    "longitude_deg": "15.615224",
+    "elevation_ft": "647",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Krems",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LOAK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Christophorus 2, Krems Hospital",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302959",
+        "code": "AT-3",
+        "local_code": "3",
+        "name": "Lower Austria",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Austria",
+        "keywords": "Niederösterreich"
+    }
+}
