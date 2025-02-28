@@ -44,20 +44,20 @@
     ],
     "freqs": [
         {
-            "id": "71983",
-            "airport_ref": "29112",
-            "airport_ident": "EGBS",
-            "type": "A/G",
-            "description": "Shobdon A/G",
-            "frequency_mhz": "123.5"
-        },
-        {
             "id": "71984",
             "airport_ref": "29112",
             "airport_ident": "EGBS",
             "type": "AFIS",
-            "description": "Shobdon AFIS",
-            "frequency_mhz": "123.5"
+            "description": "Shobdon Information",
+            "frequency_mhz": "118.155"
+        },
+        {
+            "id": "71983",
+            "airport_ref": "29112",
+            "airport_ident": "EGBS",
+            "type": "RDO",
+            "description": "Shobdon Radio",
+            "frequency_mhz": "118.155"
         }
     ],
     "country": {

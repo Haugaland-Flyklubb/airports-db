@@ -1,0 +1,39 @@
+{
+    "id": "354409",
+    "ident": "XP-0004",
+    "type": "heliport",
+    "name": "Chenhang Dao Heliport",
+    "latitude_deg": "16.454206",
+    "longitude_deg": "111.706946",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "XP",
+    "iso_region": "XP-U-A",
+    "municipality": "Duncan Island",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://sv.wikipedia.org/wiki/Duncan_Islands_(%C3%B6)",
+    "keywords": "",
+    "country": {
+        "id": "593722",
+        "code": "XP",
+        "name": "Paracel Islands (disputed)",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paracel_Islands",
+        "keywords": "China, Vietnam, Taiwan"
+    },
+    "region": {
+        "id": "593723",
+        "code": "XP-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "XP",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

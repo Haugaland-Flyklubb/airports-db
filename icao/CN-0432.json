@@ -2,13 +2,13 @@
     "id": "557189",
     "ident": "CN-0432",
     "type": "small_airport",
-    "name": "Taizhou Bay",
+    "name": "Taizhou Bay Airport",
     "latitude_deg": "28.572398",
     "longitude_deg": "121.576485",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "CN",
-    "iso_region": "CN-U-A",
+    "iso_region": "CN-33",
     "municipality": "",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "中国的机场"
     },
     "region": {
-        "id": "303456",
-        "code": "CN-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303432",
+        "code": "CN-33",
+        "local_code": "33",
+        "name": "Zhejiang Province",
         "continent": "AS",
         "iso_country": "CN",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zhejiang",
+        "keywords": "Airports in Zhejiang Province"
     }
 }

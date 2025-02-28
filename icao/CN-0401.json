@@ -2,13 +2,13 @@
     "id": "507629",
     "ident": "CN-0401",
     "type": "medium_airport",
-    "name": "Ningxiang",
+    "name": "Ningxiang Airport",
     "latitude_deg": "27.987589",
     "longitude_deg": "112.604971",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "CN",
-    "iso_region": "CN-U-A",
+    "iso_region": "CN-43",
     "municipality": "",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "中国的机场"
     },
     "region": {
-        "id": "303456",
-        "code": "CN-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303439",
+        "code": "CN-43",
+        "local_code": "43",
+        "name": "Hunan Province",
         "continent": "AS",
         "iso_country": "CN",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hunan",
+        "keywords": "Airports in Hunan Province"
     }
 }

@@ -2,7 +2,7 @@
     "id": "308179",
     "ident": "DE-0042",
     "type": "small_airport",
-    "name": "Weißenburg-Wülzburg Gliderport",
+    "name": "Weißenburg-Wülzburg Glider Field",
     "latitude_deg": "49.025666",
     "longitude_deg": "11.018422",
     "elevation_ft": "2027",
@@ -18,6 +18,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Segelflugplatz Weißenburg-Wülzburg",
+    "freqs": [
+        {
+            "id": "593706",
+            "airport_ref": "308179",
+            "airport_ident": "DE-0042",
+            "type": "Info",
+            "description": "",
+            "frequency_mhz": "126.035"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

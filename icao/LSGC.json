@@ -69,29 +69,5 @@
         "iso_country": "CH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Neuchâtel",
         "keywords": "Airports in Canton of Neuchâtel, Neuenburg"
-    },
-    "navaids": [
-        {
-            "id": "90501",
-            "filename": "Les_Eplatures_NDB_CH",
-            "ident": "LPS",
-            "name": "Les Eplatures",
-            "type": "NDB",
-            "frequency_khz": "403",
-            "latitude_deg": "47.08369827270508",
-            "longitude_deg": "6.793889999389648",
-            "elevation_ft": "",
-            "iso_country": "CH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.237",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LSGC"
-        }
-    ]
+    }
 }

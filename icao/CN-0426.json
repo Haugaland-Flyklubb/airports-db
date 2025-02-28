@@ -2,13 +2,13 @@
     "id": "542685",
     "ident": "CN-0426",
     "type": "small_airport",
-    "name": "Huhe Tata",
+    "name": "Huhe Tata Airport",
     "latitude_deg": "39.665872",
     "longitude_deg": "105.464137",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "CN",
-    "iso_region": "CN-U-A",
+    "iso_region": "CN-15",
     "municipality": "",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "中国的机场"
     },
     "region": {
-        "id": "303456",
-        "code": "CN-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303426",
+        "code": "CN-15",
+        "local_code": "15",
+        "name": "Inner Mongolia Autonomous Region",
         "continent": "AS",
         "iso_country": "CN",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Inner_Mongolia",
+        "keywords": "Airports in Inner Mongolia Autonomous Region, Nei Mongol"
     }
 }

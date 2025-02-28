@@ -159,51 +159,5 @@
         "iso_country": "CH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_Solothurn",
         "keywords": "Airports in Canton of Solothurn, Soloturn, Soleure, Soletta"
-    },
-    "navaids": [
-        {
-            "id": "88553",
-            "filename": "Grenchen_VOR-DME_CH",
-            "ident": "GRE",
-            "name": "Grenchen",
-            "type": "VOR-DME",
-            "frequency_khz": "115450",
-            "latitude_deg": "47.18320083618164",
-            "longitude_deg": "7.418179988861084",
-            "elevation_ft": "1435",
-            "iso_country": "CH",
-            "dme_frequency_khz": "115450",
-            "dme_channel": "101Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.337",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LSZG"
-        },
-        {
-            "id": "88555",
-            "filename": "Grenchen_NDB_CH",
-            "ident": "GRE",
-            "name": "Grenchen",
-            "type": "NDB",
-            "frequency_khz": "326",
-            "latitude_deg": "47.18339920043945",
-            "longitude_deg": "7.414599895477295",
-            "elevation_ft": "1411",
-            "iso_country": "CH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.336",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LSZG"
-        }
-    ]
+    }
 }
