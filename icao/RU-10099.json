@@ -1,0 +1,39 @@
+{
+    "id": "594118",
+    "ident": "RU-10099",
+    "type": "small_airport",
+    "name": "Gagarin Aerodrome",
+    "latitude_deg": "55.6371",
+    "longitude_deg": "34.828751",
+    "elevation_ft": "624",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-SMO",
+    "municipality": "Rodomanovo",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "ZD92",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ЗД92, Гагарин, Родоманово",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305325",
+        "code": "RU-SMO",
+        "local_code": "SMO",
+        "name": "Smolensk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Smolensk_Oblast",
+        "keywords": "Airports in Smolensk Oblast"
+    }
+}

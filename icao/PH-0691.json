@@ -1,0 +1,39 @@
+{
+    "id": "594058",
+    "ident": "PH-0691",
+    "type": "small_airport",
+    "name": "UDEV Airport",
+    "latitude_deg": "8.47261",
+    "longitude_deg": "126.08529",
+    "elevation_ft": "164",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-SUR",
+    "municipality": "Barobo",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305126",
+        "code": "PH-SUR",
+        "local_code": "SUR",
+        "name": "Surigao del Sur Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Surigao_del_Sur_Province",
+        "keywords": "Airports in Surigao del Sur Province"
+    }
+}
