@@ -1,0 +1,39 @@
+{
+    "id": "594130",
+    "ident": "TW-0094",
+    "type": "small_airport",
+    "name": "Ligang East Airfield",
+    "latitude_deg": "22.78034",
+    "longitude_deg": "120.54403",
+    "elevation_ft": "157",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-PIF",
+    "municipality": "Ligang",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": "Taiwanese airports"
+    },
+    "region": {
+        "id": "305946",
+        "code": "TW-PIF",
+        "local_code": "PIF",
+        "name": "Pingtung County",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pingtung_County",
+        "keywords": "Airports in Pingtung County"
+    }
+}
