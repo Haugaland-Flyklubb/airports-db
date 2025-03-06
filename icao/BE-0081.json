@@ -1,0 +1,39 @@
+{
+    "id": "594419",
+    "ident": "BE-0081",
+    "type": "closed",
+    "name": "Oostakker Airfield",
+    "latitude_deg": "51.09728",
+    "longitude_deg": "3.80086",
+    "elevation_ft": "33",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VOV",
+    "municipality": "Lochristi",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302676",
+        "code": "BE",
+        "name": "Belgium",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
+        "keywords": "Aéroports de Belgique,Luchthavens van België"
+    },
+    "region": {
+        "id": "303073",
+        "code": "BE-VOV",
+        "local_code": "VOV",
+        "name": "East Flanders Province",
+        "continent": "EU",
+        "iso_country": "BE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/East_Flanders",
+        "keywords": "Oost-Vlaanderen, Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
+    }
+}
