@@ -306,6 +306,14 @@
             "frequency_mhz": "127.87"
         },
         {
+            "id": "352569",
+            "airport_ref": "2513",
+            "airport_ident": "EHAM",
+            "type": "TWR",
+            "description": "RWY 18C/36L",
+            "frequency_mhz": "118.105"
+        },
+        {
             "id": "352570",
             "airport_ref": "2513",
             "airport_ident": "EHAM",
@@ -328,14 +336,6 @@
             "type": "TWR",
             "description": "RWY 6/24",
             "frequency_mhz": "135.11"
-        },
-        {
-            "id": "352569",
-            "airport_ref": "2513",
-            "airport_ident": "EHAM",
-            "type": "TWR",
-            "description": "RWY 18C/36L",
-            "frequency_mhz": "181.105"
         }
     ],
     "country": {
