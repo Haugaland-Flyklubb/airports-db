@@ -1,0 +1,39 @@
+{
+    "id": "594591",
+    "ident": "EICD",
+    "type": "small_airport",
+    "name": "Craddenstown Airfield",
+    "latitude_deg": "53.542749",
+    "longitude_deg": "-7.061153",
+    "elevation_ft": "256",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-WH",
+    "municipality": "Craddenstown",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "EICD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Raharney",
+    "country": {
+        "id": "302694",
+        "code": "IE",
+        "name": "Ireland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
+        "keywords": "Eire"
+    },
+    "region": {
+        "id": "304153",
+        "code": "IE-WH",
+        "local_code": "WH",
+        "name": "County Westmeath",
+        "continent": "EU",
+        "iso_country": "IE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Westmeath",
+        "keywords": "Airports in County Westmeath"
+    }
+}
