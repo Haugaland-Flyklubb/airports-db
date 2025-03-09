@@ -1,0 +1,39 @@
+{
+    "id": "594713",
+    "ident": "AU-0731",
+    "type": "small_airport",
+    "name": "Arkells Airfield",
+    "latitude_deg": "-37.36936",
+    "longitude_deg": "144.94017",
+    "elevation_ft": "1362",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "Bylands",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": "Victorian airports"
+    }
+}

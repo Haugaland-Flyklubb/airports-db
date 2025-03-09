@@ -1,0 +1,39 @@
+{
+    "id": "594735",
+    "ident": "SCNL",
+    "type": "small_airport",
+    "name": "Villa Cerro Castillo Airport",
+    "latitude_deg": "-46.12999",
+    "longitude_deg": "-72.14587",
+    "elevation_ft": "997",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-AI",
+    "municipality": "Villa Cerro Castillo",
+    "scheduled_service": "no",
+    "icao_code": "SCNL",
+    "iata_code": "",
+    "gps_code": "SCNL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cerro_Castillo_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303397",
+        "code": "CL-AI",
+        "local_code": "AI",
+        "name": "Aysén Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ays%C3%A9n_Region",
+        "keywords": "XI Aysén del General Carlos Ibáñez del Campo Region"
+    }
+}
