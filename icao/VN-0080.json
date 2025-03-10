@@ -1,0 +1,39 @@
+{
+    "id": "594870",
+    "ident": "VN-0080",
+    "type": "small_airport",
+    "name": "1gom College",
+    "latitude_deg": "0.000005",
+    "longitude_deg": "-0.000005",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "VN",
+    "iso_region": "VN-SE",
+    "municipality": "Ho Chi Minh",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "VN23",
+    "home_link": "https://1gom.college/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302670",
+        "code": "VN",
+        "name": "Vietnam",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vietnam",
+        "keywords": "Các sân bay của Việt Nam"
+    },
+    "region": {
+        "id": "351368",
+        "code": "VN-SE",
+        "local_code": "SE",
+        "name": "Southeast Region",
+        "continent": "AS",
+        "iso_country": "VN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Southeast_(Vietnam)",
+        "keywords": "Airports in Southeast Region"
+    }
+}
