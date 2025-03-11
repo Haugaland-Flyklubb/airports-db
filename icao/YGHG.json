@@ -1,8 +1,8 @@
 {
     "id": "27590",
     "ident": "YGHG",
-    "type": "small_airport",
-    "name": "Glen Harding Airport - CLOSED",
+    "type": "closed",
+    "name": "Glen Harding Airport",
     "latitude_deg": "-18.248608",
     "longitude_deg": "145.125958",
     "elevation_ft": "",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "YGHG",
+    "gps_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "YGHG",
     "runways": [
         {
             "id": "258653",
