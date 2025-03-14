@@ -3,12 +3,12 @@
     "ident": "MV-0013",
     "type": "small_airport",
     "name": "Muli Airport",
-    "latitude_deg": "2.911867",
-    "longitude_deg": "73.579526",
+    "latitude_deg": "2.911389",
+    "longitude_deg": "73.583611",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "MV",
-    "iso_region": "MV-U-A",
+    "iso_region": "MV-12",
     "municipality": "Muli",
     "scheduled_service": "no",
     "icao_code": "",
@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "595017",
+            "airport_ref": "595013",
+            "airport_ident": "MV-0013",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302652",
         "code": "MV",
@@ -27,13 +51,13 @@
         "keywords": "Airports in Maldives"
     },
     "region": {
-        "id": "304761",
-        "code": "MV-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304748",
+        "code": "MV-12",
+        "local_code": "12",
+        "name": "Meemu Atoll",
         "continent": "AS",
         "iso_country": "MV",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Meemu_Atoll",
+        "keywords": "Airports in Meemu Atoll"
     }
 }

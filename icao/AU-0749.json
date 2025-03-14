@@ -1,0 +1,39 @@
+{
+    "id": "595028",
+    "ident": "AU-0749",
+    "type": "small_airport",
+    "name": "Mahanewo Road Airstrip",
+    "latitude_deg": "-31.66526",
+    "longitude_deg": "137.05512",
+    "elevation_ft": "318",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Oakden Hills",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": "South Australian airports"
+    }
+}
