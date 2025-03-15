@@ -1,0 +1,39 @@
+{
+    "id": "595101",
+    "ident": "HK-0105",
+    "type": "heliport",
+    "name": "Mai Po Heliport",
+    "latitude_deg": "22.48224",
+    "longitude_deg": "114.03248",
+    "elevation_ft": "3",
+    "continent": "AS",
+    "iso_country": "HK",
+    "iso_region": "HK-NT",
+    "municipality": "Yuen Long",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302631",
+        "code": "HK",
+        "name": "Hong Kong",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong",
+        "keywords": "Airports in Hong Kong"
+    },
+    "region": {
+        "id": "504838",
+        "code": "HK-NT",
+        "local_code": "NT",
+        "name": "New Territories",
+        "continent": "AS",
+        "iso_country": "HK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Territories",
+        "keywords": ""
+    }
+}

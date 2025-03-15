@@ -1,15 +1,15 @@
 {
-    "id": "339202",
-    "ident": "HK-0060",
-    "type": "heliport",
-    "name": "Island Resort Tower 9 Helipad",
-    "latitude_deg": "22.266887",
-    "longitude_deg": "114.250733",
+    "id": "595081",
+    "ident": "HK-0103",
+    "type": "closed",
+    "name": "Shek Kong Village Heliport",
+    "latitude_deg": "22.42769",
+    "longitude_deg": "114.10826",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "HK",
-    "iso_region": "HK-HK",
-    "municipality": "Eastern",
+    "iso_region": "HK-NT",
+    "municipality": "Tai Lam",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Airports in Hong Kong"
     },
     "region": {
-        "id": "504837",
-        "code": "HK-HK",
-        "local_code": "HK",
-        "name": "Hong Kong Island",
+        "id": "504838",
+        "code": "HK-NT",
+        "local_code": "NT",
+        "name": "New Territories",
         "continent": "AS",
         "iso_country": "HK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong_Island",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Territories",
         "keywords": ""
     }
 }

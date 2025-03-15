@@ -1,15 +1,15 @@
 {
-    "id": "339200",
-    "ident": "HK-0058",
+    "id": "595082",
+    "ident": "HK-0104",
     "type": "heliport",
-    "name": "Island Resort Tower 7 Helipad",
-    "latitude_deg": "22.26632",
-    "longitude_deg": "114.251371",
-    "elevation_ft": "",
+    "name": "Kau Tung Heliport",
+    "latitude_deg": "22.35605",
+    "longitude_deg": "114.32358",
+    "elevation_ft": "220",
     "continent": "AS",
     "iso_country": "HK",
-    "iso_region": "HK-HK",
-    "municipality": "Eastern",
+    "iso_region": "HK-NT",
+    "municipality": "Sai Kung",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Airports in Hong Kong"
     },
     "region": {
-        "id": "504837",
-        "code": "HK-HK",
-        "local_code": "HK",
-        "name": "Hong Kong Island",
+        "id": "504838",
+        "code": "HK-NT",
+        "local_code": "NT",
+        "name": "New Territories",
         "continent": "AS",
         "iso_country": "HK",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong_Island",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Territories",
         "keywords": ""
     }
 }

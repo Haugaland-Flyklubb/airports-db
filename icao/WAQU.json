@@ -1,0 +1,39 @@
+{
+    "id": "595148",
+    "ident": "WAQU",
+    "type": "small_airport",
+    "name": "Long Layu Airport",
+    "latitude_deg": "3.611585",
+    "longitude_deg": "115.69921",
+    "elevation_ft": "2882",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-KU",
+    "municipality": "Long Layu",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "WAQU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "316679",
+        "code": "ID-KU",
+        "local_code": "KU",
+        "name": "Kalimantan Utara (North Kalimantan)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Kalimantan",
+        "keywords": "Kalimantan Utara"
+    }
+}
