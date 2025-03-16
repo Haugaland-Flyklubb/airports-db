@@ -1,0 +1,39 @@
+{
+    "id": "595226",
+    "ident": "TW-0095",
+    "type": "heliport",
+    "name": "Camp Waipu Heliport",
+    "latitude_deg": "24.65642",
+    "longitude_deg": "120.78092",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-MIA",
+    "municipality": "Houlong",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": "Taiwanese airports"
+    },
+    "region": {
+        "id": "305943",
+        "code": "TW-MIA",
+        "local_code": "MIA",
+        "name": "Miaoli County",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Miaoli_County",
+        "keywords": "Airports in Miaoli County"
+    }
+}

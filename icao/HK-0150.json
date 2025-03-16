@@ -1,0 +1,39 @@
+{
+    "id": "595194",
+    "ident": "HK-0150",
+    "type": "heliport",
+    "name": "Hong Kong University of Science and Technology Emergency Heliport",
+    "latitude_deg": "22.33907",
+    "longitude_deg": "114.26383",
+    "elevation_ft": "308",
+    "continent": "AS",
+    "iso_country": "HK",
+    "iso_region": "HK-NT",
+    "municipality": "Sai Kung",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "IS06",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302631",
+        "code": "HK",
+        "name": "Hong Kong",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong",
+        "keywords": "Airports in Hong Kong"
+    },
+    "region": {
+        "id": "504838",
+        "code": "HK-NT",
+        "local_code": "NT",
+        "name": "New Territories",
+        "continent": "AS",
+        "iso_country": "HK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Territories",
+        "keywords": ""
+    }
+}

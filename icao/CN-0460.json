@@ -1,15 +1,15 @@
 {
-    "id": "511194",
-    "ident": "CN-0411",
-    "type": "small_airport",
-    "name": "Xinjiang",
-    "latitude_deg": "41.214308",
-    "longitude_deg": "91.525848",
+    "id": "595215",
+    "ident": "CN-0460",
+    "type": "heliport",
+    "name": "CGN Building Heliport",
+    "latitude_deg": "22.54404",
+    "longitude_deg": "114.06205",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "CN",
-    "iso_region": "CN-U-A",
-    "municipality": "",
+    "iso_region": "CN-44",
+    "municipality": "Shenzhen (Futian)",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "中国的机场"
     },
     "region": {
-        "id": "303456",
-        "code": "CN-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303440",
+        "code": "CN-44",
+        "local_code": "44",
+        "name": "Guangdong Province",
         "continent": "AS",
         "iso_country": "CN",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guangdong",
+        "keywords": "Canton Province, Kwangtung Province"
     }
 }
