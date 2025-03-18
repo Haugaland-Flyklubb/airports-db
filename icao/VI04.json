@@ -1,23 +1,23 @@
 {
     "id": "25494",
     "ident": "VI04",
-    "type": "heliport",
+    "type": "closed",
     "name": "Stouffer Grand Beach Resort Heliport",
-    "latitude_deg": "18.345800399780273",
-    "longitude_deg": "-64.90399932861328",
+    "latitude_deg": "18.345788",
+    "longitude_deg": "-64.904031",
     "elevation_ft": "125",
     "continent": "NA",
     "iso_country": "VI",
-    "iso_region": "VI-U-A",
+    "iso_region": "VI-ST",
     "municipality": "Charlotte Amalie",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "VI04",
-    "local_code": "VI04",
+    "gps_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "VI04",
     "country": {
         "id": "302758",
         "code": "VI",
@@ -27,13 +27,13 @@
         "keywords": "Airports in U.S. Virgin Islands"
     },
     "region": {
-        "id": "306192",
-        "code": "VI-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "595342",
+        "code": "VI-ST",
+        "local_code": "ST",
+        "name": "Saint Thomas",
         "continent": "NA",
         "iso_country": "VI",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Thomas,_U.S._Virgin_Islands",
+        "keywords": "Airports in Saint Thomas"
     }
 }

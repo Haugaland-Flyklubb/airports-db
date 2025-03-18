@@ -3,12 +3,12 @@
     "ident": "VI02",
     "type": "heliport",
     "name": "St. Thomas Waterfront Heliport",
-    "latitude_deg": "18.338600158691406",
-    "longitude_deg": "-64.93930053710938",
+    "latitude_deg": "18.338482",
+    "longitude_deg": "-64.93994",
     "elevation_ft": "4",
     "continent": "NA",
     "iso_country": "VI",
-    "iso_region": "VI-U-A",
+    "iso_region": "VI-ST",
     "municipality": "Charlotte Amalie",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Airports in U.S. Virgin Islands"
     },
     "region": {
-        "id": "306192",
-        "code": "VI-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "595342",
+        "code": "VI-ST",
+        "local_code": "ST",
+        "name": "Saint Thomas",
         "continent": "NA",
         "iso_country": "VI",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Thomas,_U.S._Virgin_Islands",
+        "keywords": "Airports in Saint Thomas"
     }
 }
