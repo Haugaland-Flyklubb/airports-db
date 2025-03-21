@@ -1,0 +1,39 @@
+{
+    "id": "595528",
+    "ident": "ZA-0345",
+    "type": "small_airport",
+    "name": "Garonga Airstrip",
+    "latitude_deg": "-24.09922",
+    "longitude_deg": "30.71658",
+    "elevation_ft": "1575",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Phalaborwa",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": "South African airports"
+    },
+    "region": {
+        "id": "306301",
+        "code": "ZA-NP",
+        "local_code": "NP",
+        "name": "Limpopo",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
+        "keywords": "Airports in Limpopo"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "595529",
+    "ident": "ZA-0346",
+    "type": "small_airport",
+    "name": "Askari Airstrip",
+    "latitude_deg": "-24.08148",
+    "longitude_deg": "30.57187",
+    "elevation_ft": "1575",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Tzaneen",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": "South African airports"
+    },
+    "region": {
+        "id": "306301",
+        "code": "ZA-NP",
+        "local_code": "NP",
+        "name": "Limpopo",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
+        "keywords": "Airports in Limpopo"
+    }
+}

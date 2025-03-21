@@ -1,0 +1,39 @@
+{
+    "id": "595527",
+    "ident": "ZA-0344",
+    "type": "small_airport",
+    "name": "Mica Village Airstrip",
+    "latitude_deg": "-24.15865",
+    "longitude_deg": "30.83891",
+    "elevation_ft": "1486",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Gravelotte",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": "South African airports"
+    },
+    "region": {
+        "id": "306301",
+        "code": "ZA-NP",
+        "local_code": "NP",
+        "name": "Limpopo",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
+        "keywords": "Airports in Limpopo"
+    }
+}

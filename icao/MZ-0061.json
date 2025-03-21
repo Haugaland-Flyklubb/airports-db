@@ -1,0 +1,39 @@
+{
+    "id": "595523",
+    "ident": "MZ-0061",
+    "type": "small_airport",
+    "name": "Mandimba Airport",
+    "latitude_deg": "-14.33943",
+    "longitude_deg": "35.663",
+    "elevation_ft": "2549",
+    "continent": "AF",
+    "iso_country": "MZ",
+    "iso_region": "MZ-A",
+    "municipality": "Mandimba",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302590",
+        "code": "MZ",
+        "name": "Mozambique",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mozambique",
+        "keywords": "Airports in Mozambique"
+    },
+    "region": {
+        "id": "304840",
+        "code": "MZ-A",
+        "local_code": "A",
+        "name": "Niassa Province",
+        "continent": "AF",
+        "iso_country": "MZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Niassa_Province",
+        "keywords": "Airports in Niassa Province"
+    }
+}
