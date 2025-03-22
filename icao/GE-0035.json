@@ -1,0 +1,39 @@
+{
+    "id": "595562",
+    "ident": "GE-0035",
+    "type": "heliport",
+    "name": "Camp Balaani Heliport",
+    "latitude_deg": "42.34201",
+    "longitude_deg": "44.47185",
+    "elevation_ft": "3976",
+    "continent": "AS",
+    "iso_country": "GE",
+    "iso_region": "GE-SO",
+    "municipality": "Balaani",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302630",
+        "code": "GE",
+        "name": "Georgia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia_(country)",
+        "keywords": "Georgian airports"
+    },
+    "region": {
+        "id": "595549",
+        "code": "GE-SO",
+        "local_code": "SO",
+        "name": "South Ossetia",
+        "continent": "AS",
+        "iso_country": "GE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Ossetia",
+        "keywords": "Airports in South Ossetia"
+    }
+}

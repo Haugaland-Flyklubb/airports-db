@@ -1,0 +1,39 @@
+{
+    "id": "595537",
+    "ident": "YE-0018",
+    "type": "small_airport",
+    "name": "Perim Air Base",
+    "latitude_deg": "12.66653",
+    "longitude_deg": "43.40793",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "YE",
+    "iso_region": "YE-TA",
+    "municipality": "Mayyun",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302671",
+        "code": "YE",
+        "name": "Yemen",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yemen",
+        "keywords": "مطارات اليمن"
+    },
+    "region": {
+        "id": "306292",
+        "code": "YE-TA",
+        "local_code": "TA",
+        "name": "Taiz Governorate",
+        "continent": "AS",
+        "iso_country": "YE",
+        "wikipedia_link": "https://en.wikipediaorg/wiki/Taiz_Governorate",
+        "keywords": "Airports in Taiz Governorate"
+    }
+}

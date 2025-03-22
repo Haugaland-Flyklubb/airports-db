@@ -2,14 +2,14 @@
     "id": "557987",
     "ident": "YE-0017",
     "type": "small_airport",
-    "name": "Kilmia",
+    "name": "Abd al-Kuri Air Base",
     "latitude_deg": "12.186662",
     "longitude_deg": "52.291746",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "YE",
-    "iso_region": "YE-U-A",
-    "municipality": "",
+    "iso_region": "YE-SU",
+    "municipality": "Kilmia",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "مطارات اليمن"
     },
     "region": {
-        "id": "306293",
-        "code": "YE-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "595540",
+        "code": "YE-SU",
+        "local_code": "SU",
+        "name": "Socotra Archipelago Governorate",
         "continent": "AS",
         "iso_country": "YE",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Socotra_Governorate",
+        "keywords": "Airports in Socotra Archipelago Governorate"
     }
 }

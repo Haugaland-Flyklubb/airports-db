@@ -1,23 +1,23 @@
 {
     "id": "5316",
     "ident": "OYHD",
-    "type": "medium_airport",
-    "name": "Hodeidah International Airport",
-    "latitude_deg": "14.753000259399414",
-    "longitude_deg": "42.97629928588867",
+    "type": "closed",
+    "name": "Hodeida International Airport",
+    "latitude_deg": "14.753",
+    "longitude_deg": "42.976299",
     "elevation_ft": "41",
     "continent": "AS",
     "iso_country": "YE",
     "iso_region": "YE-HU",
     "municipality": "Hodeida",
     "scheduled_service": "yes",
-    "icao_code": "OYHD",
-    "iata_code": "HOD",
-    "gps_code": "OYHD",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hodeida_International_Airport",
-    "keywords": "Al Hudaydah International Airport",
+    "keywords": "Al Hudaydah International Airport, OYHD, HOD",
     "runways": [
         {
             "id": "246244",
@@ -80,11 +80,11 @@
         "id": "306724",
         "code": "YE-HU",
         "local_code": "HU",
-        "name": "Al Hydaydah Governorate",
+        "name": "Al Hudaydah Governorate",
         "continent": "AS",
         "iso_country": "YE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Hydaydah_Governorate",
-        "keywords": "Airports in Al Hydaydah Governorate"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Hudaydah_Governorate",
+        "keywords": "Airports in Al Hudaydah Governorate"
     },
     "navaids": [
         {

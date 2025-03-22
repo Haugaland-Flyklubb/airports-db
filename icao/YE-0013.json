@@ -2,14 +2,14 @@
     "id": "517008",
     "ident": "YE-0013",
     "type": "small_airport",
-    "name": "Sayma",
+    "name": "Sayma Airfield",
     "latitude_deg": "13.020746",
     "longitude_deg": "43.467598",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "YE",
-    "iso_region": "YE-U-A",
-    "municipality": "",
+    "iso_region": "YE-TA",
+    "municipality": "Sayma",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "مطارات اليمن"
     },
     "region": {
-        "id": "306293",
-        "code": "YE-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306292",
+        "code": "YE-TA",
+        "local_code": "TA",
+        "name": "Taiz Governorate",
         "continent": "AS",
         "iso_country": "YE",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipediaorg/wiki/Taiz_Governorate",
+        "keywords": "Airports in Taiz Governorate"
     }
 }

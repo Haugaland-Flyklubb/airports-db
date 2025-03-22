@@ -3,13 +3,13 @@
     "ident": "OYSQ",
     "type": "medium_airport",
     "name": "Socotra International Airport",
-    "latitude_deg": "12.63070011138916",
-    "longitude_deg": "53.905799865722656",
+    "latitude_deg": "12.6307",
+    "longitude_deg": "53.9058",
     "elevation_ft": "146",
     "continent": "AS",
     "iso_country": "YE",
-    "iso_region": "YE-HD",
-    "municipality": "Socotra Islands",
+    "iso_region": "YE-SU",
+    "municipality": "Mori",
     "scheduled_service": "yes",
     "icao_code": "OYSQ",
     "iata_code": "SCT",
@@ -17,7 +17,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Socotra_Airport",
-    "keywords": "",
+    "keywords": "Hadibu",
     "runways": [
         {
             "id": "246252",
@@ -77,14 +77,14 @@
         "keywords": "مطارات اليمن"
     },
     "region": {
-        "id": "306281",
-        "code": "YE-HD",
-        "local_code": "HD",
-        "name": "Hadramawt Governorate",
+        "id": "595540",
+        "code": "YE-SU",
+        "local_code": "SU",
+        "name": "Socotra Archipelago Governorate",
         "continent": "AS",
         "iso_country": "YE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hadramawt_Governorate",
-        "keywords": "Airports in Hadramawt Governorate"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Socotra_Governorate",
+        "keywords": "Airports in Socotra Archipelago Governorate"
     },
     "navaids": [
         {

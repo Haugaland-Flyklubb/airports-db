@@ -1,0 +1,39 @@
+{
+    "id": "595563",
+    "ident": "GE-0036",
+    "type": "heliport",
+    "name": "Akhalgori Heliport",
+    "latitude_deg": "42.11628",
+    "longitude_deg": "44.48053",
+    "elevation_ft": "2638",
+    "continent": "AS",
+    "iso_country": "GE",
+    "iso_region": "GE-SO",
+    "municipality": "Akhalgori",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302630",
+        "code": "GE",
+        "name": "Georgia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia_(country)",
+        "keywords": "Georgian airports"
+    },
+    "region": {
+        "id": "595549",
+        "code": "GE-SO",
+        "local_code": "SO",
+        "name": "South Ossetia",
+        "continent": "AS",
+        "iso_country": "GE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Ossetia",
+        "keywords": "Airports in South Ossetia"
+    }
+}

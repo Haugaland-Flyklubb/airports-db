@@ -1,0 +1,39 @@
+{
+    "id": "595576",
+    "ident": "ZW-0064",
+    "type": "small_airport",
+    "name": "Matetsi East Airstrip",
+    "latitude_deg": "-18.37304",
+    "longitude_deg": "26.27076",
+    "elevation_ft": "2638",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MN",
+    "municipality": "Hwange",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302612",
+        "code": "ZW",
+        "name": "Zimbabwe",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zimbabwe",
+        "keywords": "Zimbabwan airports"
+    },
+    "region": {
+        "id": "306316",
+        "code": "ZW-MN",
+        "local_code": "MN",
+        "name": "Matabeleland North Province",
+        "continent": "AF",
+        "iso_country": "ZW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Matabeleland_North_Province",
+        "keywords": "Airports in Matabeleland North Province"
+    }
+}

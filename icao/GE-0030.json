@@ -1,0 +1,39 @@
+{
+    "id": "595555",
+    "ident": "GE-0030",
+    "type": "heliport",
+    "name": "Camp Arkhispiri Heliport",
+    "latitude_deg": "42.15318",
+    "longitude_deg": "44.17262",
+    "elevation_ft": "3012",
+    "continent": "AS",
+    "iso_country": "GE",
+    "iso_region": "GE-SO",
+    "municipality": "Arkhispiri",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302630",
+        "code": "GE",
+        "name": "Georgia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia_(country)",
+        "keywords": "Georgian airports"
+    },
+    "region": {
+        "id": "595549",
+        "code": "GE-SO",
+        "local_code": "SO",
+        "name": "South Ossetia",
+        "continent": "AS",
+        "iso_country": "GE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Ossetia",
+        "keywords": "Airports in South Ossetia"
+    }
+}

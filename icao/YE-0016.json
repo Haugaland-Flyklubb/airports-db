@@ -2,14 +2,14 @@
     "id": "519257",
     "ident": "YE-0016",
     "type": "small_airport",
-    "name": "Aden New",
-    "latitude_deg": "12.785641",
-    "longitude_deg": "44.828894",
+    "name": "Little Aden Airfield",
+    "latitude_deg": "12.785666",
+    "longitude_deg": "44.825802",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "YE",
-    "iso_region": "YE-U-A",
-    "municipality": "",
+    "iso_region": "YE-AD",
+    "municipality": "Little Aden",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "مطارات اليمن"
     },
     "region": {
-        "id": "306293",
-        "code": "YE-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306276",
+        "code": "YE-AD",
+        "local_code": "AD",
+        "name": "Aden Governorate",
         "continent": "AS",
         "iso_country": "YE",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aden_Governorate",
+        "keywords": "Airports in Aden Governorate"
     }
 }
