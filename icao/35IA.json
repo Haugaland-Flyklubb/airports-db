@@ -1,0 +1,63 @@
+{
+    "id": "595648",
+    "ident": "35IA",
+    "type": "small_airport",
+    "name": "Frazier Airport",
+    "latitude_deg": "41.848318",
+    "longitude_deg": "-90.595572",
+    "elevation_ft": "758",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IA",
+    "municipality": "DeWitt",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "35IA",
+    "local_code": "35IA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "595649",
+            "airport_ref": "595648",
+            "airport_ident": "35IA",
+            "length_ft": "2804",
+            "width_ft": "92",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "9",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306088",
+        "code": "US-IA",
+        "local_code": "IA",
+        "name": "Iowa",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
+        "keywords": "Airports in Iowa"
+    }
+}
