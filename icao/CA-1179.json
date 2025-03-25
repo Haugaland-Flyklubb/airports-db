@@ -1,0 +1,39 @@
+{
+    "id": "595702",
+    "ident": "CA-1179",
+    "type": "small_airport",
+    "name": "Cassiar Aerodrome",
+    "latitude_deg": "59.277137",
+    "longitude_deg": "-129.805044",
+    "elevation_ft": "3618",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Cassiar",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "AU9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": "British Columbian airports"
+    }
+}
