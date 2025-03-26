@@ -1,0 +1,39 @@
+{
+    "id": "595745",
+    "ident": "AU-0770",
+    "type": "small_airport",
+    "name": "Matheson Bore Airstrip",
+    "latitude_deg": "-28.26958",
+    "longitude_deg": "134.1489",
+    "elevation_ft": "902",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Mount Willoughby",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": "South Australian airports"
+    }
+}
