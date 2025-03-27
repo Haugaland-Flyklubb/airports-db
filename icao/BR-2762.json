@@ -3,18 +3,18 @@
     "ident": "BR-2762",
     "type": "small_airport",
     "name": "Campos Gerais Airport",
-    "latitude_deg": "-21.226110458374",
-    "longitude_deg": "-45.779167175293",
+    "latitude_deg": "-21.225872",
+    "longitude_deg": "-45.779278",
     "elevation_ft": "2838",
     "continent": "SA",
     "iso_country": "BR",
-    "iso_region": "BR-PR",
+    "iso_region": "BR-MG",
     "municipality": "Campos Gerais",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
     "gps_code": "",
-    "local_code": "SNCG",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "SNCG",
@@ -51,13 +51,13 @@
         "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
     },
     "region": {
-        "id": "303216",
-        "code": "BR-PR",
-        "local_code": "PR",
-        "name": "Paraná",
+        "id": "303209",
+        "code": "BR-MG",
+        "local_code": "MG",
+        "name": "Minas Gerais",
         "continent": "SA",
         "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
-        "keywords": "Airports in Paraná"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
+        "keywords": "Airports in Minas Gerais"
     }
 }
