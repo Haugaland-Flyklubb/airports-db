@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "595919",
+            "airport_ref": "355921",
+            "airport_ident": "CN-0357",
+            "length_ft": "1695",
+            "width_ft": "98",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01H",
+            "le_latitude_deg": "40.2833",
+            "le_longitude_deg": "116.2322",
+            "le_elevation_ft": "",
+            "le_heading_degT": "8",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19H",
+            "he_latitude_deg": "40.2879",
+            "he_longitude_deg": "116.2326",
+            "he_elevation_ft": "",
+            "he_heading_degT": "188",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",
