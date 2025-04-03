@@ -1,0 +1,39 @@
+{
+    "id": "596000",
+    "ident": "LOBK",
+    "type": "heliport",
+    "name": "OAMTC / Gneixendorf Heliport",
+    "latitude_deg": "48.446465",
+    "longitude_deg": "15.628517",
+    "elevation_ft": "1020",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Krems an der Donau",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "LOBK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Christophorus 2",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302959",
+        "code": "AT-3",
+        "local_code": "3",
+        "name": "Lower Austria",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Austria",
+        "keywords": "Niederösterreich"
+    }
+}
