@@ -28,15 +28,15 @@
             "surface": "ASPHALT",
             "lighted": "0",
             "closed": "0",
-            "le_ident": "08",
-            "le_latitude_deg": "47.29079818725586",
-            "le_longitude_deg": "12.785900115966797",
+            "le_ident": "07",
+            "le_latitude_deg": "47.290798",
+            "le_longitude_deg": "12.7859",
             "le_elevation_ft": "2471",
             "le_heading_degT": "70",
             "le_displaced_threshold_ft": "394",
-            "he_ident": "26",
-            "he_latitude_deg": "47.292301177978516",
-            "he_longitude_deg": "12.794300079345703",
+            "he_ident": "25",
+            "he_latitude_deg": "47.292301",
+            "he_longitude_deg": "12.7943",
             "he_elevation_ft": "2469",
             "he_heading_degT": "250",
             "he_displaced_threshold_ft": "394"
@@ -50,15 +50,15 @@
             "surface": "GRASS",
             "lighted": "0",
             "closed": "0",
-            "le_ident": "08R",
-            "le_latitude_deg": "47.29199981689453",
-            "le_longitude_deg": "12.78849983215332",
+            "le_ident": "07R",
+            "le_latitude_deg": "47.292",
+            "le_longitude_deg": "12.7885",
             "le_elevation_ft": "2470",
             "le_heading_degT": "70",
             "le_displaced_threshold_ft": "",
-            "he_ident": "26L",
-            "he_latitude_deg": "47.29290008544922",
-            "he_longitude_deg": "12.793100357055664",
+            "he_ident": "25L",
+            "he_latitude_deg": "47.2929",
+            "he_longitude_deg": "12.7931",
             "he_elevation_ft": "2408",
             "he_heading_degT": "250",
             "he_displaced_threshold_ft": ""
@@ -84,6 +84,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "596055",
+            "airport_ref": "28138",
+            "airport_ident": "LOWZ",
+            "type": "Zell Radio",
+            "description": "Zell am See Radio",
+            "frequency_mhz": "119.705"
         }
     ],
     "country": {
