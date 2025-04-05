@@ -1,0 +1,39 @@
+{
+    "id": "596092",
+    "ident": "CZ-0276",
+    "type": "small_airport",
+    "name": "Brusné",
+    "latitude_deg": "49.36761",
+    "longitude_deg": "17.65548",
+    "elevation_ft": "1033",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-ZL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LKBRUS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303546",
+        "code": "CZ-ZL",
+        "local_code": "ZL",
+        "name": "Zlín Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zlín_Region",
+        "keywords": "Zlínský kraj"
+    }
+}
