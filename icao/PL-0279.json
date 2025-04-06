@@ -1,0 +1,39 @@
+{
+    "id": "596165",
+    "ident": "PL-0279",
+    "type": "small_airport",
+    "name": "Dejguny Airstrip",
+    "latitude_deg": "54.021285",
+    "longitude_deg": "21.594777",
+    "elevation_ft": "397",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-MZ",
+    "municipality": "Sterławki Wielkie",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305150",
+        "code": "PL-MZ",
+        "local_code": "MZ",
+        "name": "Masovian Voivodeship",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Masovian_Voivodeship",
+        "keywords": "Mazowieckie"
+    }
+}
