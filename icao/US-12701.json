@@ -1,0 +1,39 @@
+{
+    "id": "596343",
+    "ident": "US-12701",
+    "type": "small_airport",
+    "name": "al fakher",
+    "latitude_deg": "-0.000001",
+    "longitude_deg": "0.000001",
+    "elevation_ft": "-1",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-U-A",
+    "municipality": "UK",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "NY23",
+    "home_link": "http://alfakher.es/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306120",
+        "code": "US-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
