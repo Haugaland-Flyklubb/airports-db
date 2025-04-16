@@ -2,7 +2,7 @@
     "id": "308315",
     "ident": "DE-0060",
     "type": "small_airport",
-    "name": "Karlstadt-Saupurzel Airfield",
+    "name": "Karlstadt-Saupurzel Glider Field",
     "latitude_deg": "49.971234",
     "longitude_deg": "9.790516",
     "elevation_ft": "805",
@@ -15,9 +15,19 @@
     "iata_code": "",
     "gps_code": "",
     "local_code": "",
-    "home_link": "http://home.arcor-online.de/alois.laumer/platz-te/karlstad.htm",
+    "home_link": "https://wpr.lsck.de/",
     "wikipedia_link": "",
     "keywords": "Flugplatz Karlstadt-Saupurzel, Segelflugplatz Karlstadt-Saupurzel",
+    "freqs": [
+        {
+            "id": "596526",
+            "airport_ref": "308315",
+            "airport_ident": "DE-0060",
+            "type": "Info",
+            "description": "Karlstadt Info",
+            "frequency_mhz": "122.63"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

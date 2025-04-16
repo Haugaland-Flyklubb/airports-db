@@ -1,0 +1,39 @@
+{
+    "id": "596511",
+    "ident": "BD-0044",
+    "type": "medium_airport",
+    "name": "Ok365comdev",
+    "latitude_deg": "17",
+    "longitude_deg": "20",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "BD",
+    "iso_region": "BD-1",
+    "municipality": "Hồ Chí Minh",
+    "scheduled_service": "yes",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302622",
+        "code": "BD",
+        "name": "Bangladesh",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bangladesh",
+        "keywords": "Bangladeshi airports"
+    },
+    "region": {
+        "id": "306743",
+        "code": "BD-1",
+        "local_code": "1",
+        "name": "Barisal Division",
+        "continent": "AS",
+        "iso_country": "BD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Barisal_Division",
+        "keywords": "Barisal bibhag"
+    }
+}
