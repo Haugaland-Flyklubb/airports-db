@@ -1,0 +1,39 @@
+{
+    "id": "596622",
+    "ident": "BY-9939",
+    "type": "small_airport",
+    "name": "Parakhonsk Airfield",
+    "latitude_deg": "52.214531",
+    "longitude_deg": "26.425787",
+    "elevation_ft": "497",
+    "continent": "EU",
+    "iso_country": "BY",
+    "iso_region": "BY-BR",
+    "municipality": "Parakhonsk",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "ZF5N",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ЗФ5Н, Парахонск",
+    "country": {
+        "id": "302678",
+        "code": "BY",
+        "name": "Belarus",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belarus",
+        "keywords": "Belarussian, Беларусь"
+    },
+    "region": {
+        "id": "303280",
+        "code": "BY-BR",
+        "local_code": "BR",
+        "name": "Brest Region",
+        "continent": "EU",
+        "iso_country": "BY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brest_Region",
+        "keywords": "Brèsckaja voblasc'"
+    }
+}
