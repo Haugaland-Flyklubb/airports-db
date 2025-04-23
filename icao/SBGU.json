@@ -44,10 +44,18 @@
     ],
     "freqs": [
         {
+            "id": "596799",
+            "airport_ref": "5911",
+            "airport_ident": "SBGU",
+            "type": "Afis",
+            "description": "New frequency.",
+            "frequency_mhz": "131.7"
+        },
+        {
             "id": "576610",
             "airport_ref": "5911",
             "airport_ident": "SBGU",
-            "type": "AFIS",
+            "type": "Guarapuava RDO",
             "description": "GUARAPUAVA RDO",
             "frequency_mhz": "130.75"
         }
