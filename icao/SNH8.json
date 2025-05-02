@@ -1,0 +1,63 @@
+{
+    "id": "597071",
+    "ident": "SNH8",
+    "type": "heliport",
+    "name": "Serra do Machado Heliport",
+    "latitude_deg": "-10.554189",
+    "longitude_deg": "-37.382606",
+    "elevation_ft": "774",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SE",
+    "municipality": "Ribeirópolis",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SNH8",
+    "local_code": "SE0011",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "597072",
+            "airport_ref": "597071",
+            "airport_ident": "SNH8",
+            "length_ft": "66",
+            "width_ft": "66",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303223",
+        "code": "BR-SE",
+        "local_code": "SE",
+        "name": "Sergipe",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sergipe",
+        "keywords": "Airports in Sergipe"
+    }
+}

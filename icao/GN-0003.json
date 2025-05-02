@@ -1,0 +1,63 @@
+{
+    "id": "597083",
+    "ident": "GN-0003",
+    "type": "small_airport",
+    "name": "Loila Airport",
+    "latitude_deg": "10.784886",
+    "longitude_deg": "-8.868887",
+    "elevation_ft": "1242",
+    "continent": "AF",
+    "iso_country": "GN",
+    "iso_region": "GN-K",
+    "municipality": "Loila",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "597084",
+            "airport_ref": "597083",
+            "airport_ident": "GN-0003",
+            "length_ft": "4642",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "10.781",
+            "le_longitude_deg": "-8.8732",
+            "le_elevation_ft": "",
+            "le_heading_degT": "47",
+            "le_displaced_threshold_ft": "233",
+            "he_ident": "23",
+            "he_latitude_deg": "10.7888",
+            "he_longitude_deg": "-8.86465",
+            "he_elevation_ft": "",
+            "he_heading_degT": "227",
+            "he_displaced_threshold_ft": "233"
+        }
+    ],
+    "country": {
+        "id": "302576",
+        "code": "GN",
+        "name": "Guinea",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guinea",
+        "keywords": "Aéroports de la Guinée"
+    },
+    "region": {
+        "id": "316860",
+        "code": "GN-K",
+        "local_code": "K",
+        "name": "Kankan Region",
+        "continent": "AF",
+        "iso_country": "GN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kankan_Region",
+        "keywords": "Airports in Kankan Region"
+    }
+}
