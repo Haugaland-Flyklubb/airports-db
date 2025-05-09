@@ -11,13 +11,47 @@
     "iso_region": "IT-21",
     "municipality": "Vercelli (VC)",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "LILI",
     "iata_code": "",
     "gps_code": "LILI",
     "local_code": "VC04",
     "home_link": "http://www.aeroclubvercelli.it/",
     "wikipedia_link": "https://it.wikipedia.org/wiki/Aeroporto_di_Vercelli",
-    "keywords": "Carlo del Prete",
+    "keywords": "Carlo del Prete, Aeroclub Marilla Rigazio",
+    "runways": [
+        {
+            "id": "597279",
+            "airport_ref": "29428",
+            "airport_ident": "LILI",
+            "length_ft": "1837",
+            "width_ft": "75",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "597280",
+            "airport_ref": "29428",
+            "airport_ident": "LILI",
+            "type": "Radio",
+            "description": "Vercelli Radio",
+            "frequency_mhz": "118.855"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",
