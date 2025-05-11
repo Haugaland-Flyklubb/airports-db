@@ -11,13 +11,37 @@
     "iso_region": "DE-BY",
     "municipality": "Büchenbach",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "EDPH",
     "iata_code": "",
     "gps_code": "EDPH",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Schwabach-B%C3%BCchenbach",
     "keywords": "",
+    "runways": [
+        {
+            "id": "597309",
+            "airport_ref": "28720",
+            "airport_ident": "EDPH",
+            "length_ft": "1574",
+            "width_ft": "49",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "49.268",
+            "le_longitude_deg": "11.006",
+            "le_elevation_ft": "1181",
+            "le_heading_degT": "97",
+            "le_displaced_threshold_ft": "160",
+            "he_ident": "28",
+            "he_latitude_deg": "49.267",
+            "he_longitude_deg": "11.015",
+            "he_elevation_ft": "1181",
+            "he_heading_degT": "277",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "574840",
