@@ -44,6 +44,38 @@
     ],
     "freqs": [
         {
+            "id": "597475",
+            "airport_ref": "29428",
+            "airport_ident": "LILI",
+            "type": "FIC",
+            "description": "Milano Information",
+            "frequency_mhz": "124.925"
+        },
+        {
+            "id": "597474",
+            "airport_ref": "29428",
+            "airport_ident": "LILI",
+            "type": "FIC",
+            "description": "Milano Information South",
+            "frequency_mhz": "128.925"
+        },
+        {
+            "id": "597476",
+            "airport_ref": "29428",
+            "airport_ident": "LILI",
+            "type": "FIC",
+            "description": "Milano Information North",
+            "frequency_mhz": "135.075"
+        },
+        {
+            "id": "597477",
+            "airport_ref": "29428",
+            "airport_ident": "LILI",
+            "type": "FIC",
+            "description": "Milano Information North",
+            "frequency_mhz": "135.075"
+        },
+        {
             "id": "597280",
             "airport_ref": "29428",
             "airport_ident": "LILI",

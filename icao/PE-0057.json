@@ -1,0 +1,39 @@
+{
+    "id": "597479",
+    "ident": "PE-0057",
+    "type": "small_airport",
+    "name": "La Perla Naval Base Heliport",
+    "latitude_deg": "-12.070465",
+    "longitude_deg": "-77.105331",
+    "elevation_ft": "117",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LIM",
+    "municipality": "Callao",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305021",
+        "code": "PE-LIM",
+        "local_code": "LIM",
+        "name": "Lima Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lima_Region",
+        "keywords": "Airports in Lima Region"
+    }
+}
