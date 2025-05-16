@@ -1,0 +1,39 @@
+{
+    "id": "597499",
+    "ident": "CR-0010",
+    "type": "large_airport",
+    "name": "LIR (Mislocated duplicate of ident: MRLB?)",
+    "latitude_deg": "10.465923",
+    "longitude_deg": "-85.534058",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "CR",
+    "iso_region": "CR-G",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302731",
+        "code": "CR",
+        "name": "Costa Rica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Costa_Rica",
+        "keywords": "Aeropuertos de Costa Rica"
+    },
+    "region": {
+        "id": "303493",
+        "code": "CR-G",
+        "local_code": "G",
+        "name": "Guanacaste Province",
+        "continent": "NA",
+        "iso_country": "CR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guanacaste_Province",
+        "keywords": "Airports in Guanacaste"
+    }
+}

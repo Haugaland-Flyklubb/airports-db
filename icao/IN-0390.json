@@ -1,0 +1,39 @@
+{
+    "id": "597483",
+    "ident": "IN-0390",
+    "type": "small_airport",
+    "name": "Kannur Heliport",
+    "latitude_deg": "11.862516",
+    "longitude_deg": "75.366505",
+    "elevation_ft": "24",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-KL",
+    "municipality": "Kannur",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": "Airports in India, Indian airports"
+    },
+    "region": {
+        "id": "304180",
+        "code": "IN-KL",
+        "local_code": "KL",
+        "name": "Kerala",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kerala",
+        "keywords": "Airports in Kerala"
+    }
+}
