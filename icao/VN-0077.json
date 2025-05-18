@@ -1,21 +1,21 @@
 {
-    "id": "597509",
+    "id": "597551",
     "ident": "VN-0077",
     "type": "small_airport",
-    "name": "Kwin Đặt Cược Thể Thao",
-    "latitude_deg": "23.876797",
-    "longitude_deg": "27.421875",
+    "name": "KM88 onl",
+    "latitude_deg": "0.000002",
+    "longitude_deg": "-0.000002",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "VN",
-    "iso_region": "VN-U-A",
-    "municipality": "Hà Nội",
+    "iso_region": "VN-SE",
+    "municipality": "",
     "scheduled_service": "no",
-    "icao_code": "",
-    "iata_code": "",
+    "icao_code": "KMKM",
+    "iata_code": "RKM",
     "gps_code": "",
-    "local_code": "NY23",
-    "home_link": "https://kwin.us.com/",
+    "local_code": "KM88",
+    "home_link": "https://km88.onl/",
     "wikipedia_link": "",
     "keywords": "",
     "country": {
@@ -27,13 +27,13 @@
         "keywords": "Các sân bay của Việt Nam"
     },
     "region": {
-        "id": "306254",
-        "code": "VN-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "351368",
+        "code": "VN-SE",
+        "local_code": "SE",
+        "name": "Southeast Region",
         "continent": "AS",
         "iso_country": "VN",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Southeast_(Vietnam)",
+        "keywords": "Airports in Southeast Region"
     }
 }
