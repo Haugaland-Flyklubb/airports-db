@@ -1,0 +1,63 @@
+{
+    "id": "597615",
+    "ident": "5DC3",
+    "type": "heliport",
+    "name": "Cedar Hill Regional Medical Center Helipad",
+    "latitude_deg": "38.850852",
+    "longitude_deg": "-76.994702",
+    "elevation_ft": "271",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-DC",
+    "municipality": "Washington",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "5DC3",
+    "local_code": "5DC3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "597616",
+            "airport_ref": "597615",
+            "airport_ident": "5DC3",
+            "length_ft": "55",
+            "width_ft": "55",
+            "surface": "Rooftop",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306083",
+        "code": "US-DC",
+        "local_code": "DC",
+        "name": "District of Columbia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/District_of_Columbia",
+        "keywords": "Airports in the District of Columbia"
+    }
+}

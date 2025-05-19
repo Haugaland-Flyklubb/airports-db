@@ -1,0 +1,63 @@
+{
+    "id": "597618",
+    "ident": "60AS",
+    "type": "small_airport",
+    "name": "Junior Smith Airport",
+    "latitude_deg": "34.37624",
+    "longitude_deg": "-90.931404",
+    "elevation_ft": "159",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AR",
+    "municipality": "Elaine",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "60AS",
+    "local_code": "60AS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "597619",
+            "airport_ref": "597618",
+            "airport_ident": "60AS",
+            "length_ft": "2802",
+            "width_ft": "100",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306078",
+        "code": "US-AR",
+        "local_code": "AR",
+        "name": "Arkansas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
+        "keywords": "Airports in Arkansas"
+    }
+}
