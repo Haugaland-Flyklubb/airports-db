@@ -1,10 +1,10 @@
 {
     "id": "23711",
     "ident": "OI64",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Bush Field",
-    "latitude_deg": "41.680599212646484",
-    "longitude_deg": "-81.03019714355469",
+    "latitude_deg": "41.680282",
+    "longitude_deg": "-81.031485",
     "elevation_ft": "1145",
     "continent": "NA",
     "iso_country": "US",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "OI64",
-    "local_code": "OI64",
+    "gps_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "OI64",
     "runways": [
         {
             "id": "250110",
