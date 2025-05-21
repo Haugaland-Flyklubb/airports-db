@@ -1,0 +1,63 @@
+{
+    "id": "597694",
+    "ident": "CT21",
+    "type": "small_airport",
+    "name": "Sunnyvale Field",
+    "latitude_deg": "41.460623",
+    "longitude_deg": "-71.829997",
+    "elevation_ft": "213",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CT",
+    "municipality": "North Stonington",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "CT21",
+    "local_code": "CT21",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "597695",
+            "airport_ref": "597694",
+            "airport_ident": "CT21",
+            "length_ft": "2004",
+            "width_ft": "50",
+            "surface": "Dirt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306082",
+        "code": "US-CT",
+        "local_code": "CT",
+        "name": "Connecticut",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Connecticut",
+        "keywords": "Airports in Connecticut"
+    }
+}
