@@ -18,6 +18,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "597820",
+            "airport_ref": "30344",
+            "airport_ident": "FARD",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "597821",
+            "airport_ref": "30344",
+            "airport_ident": "FARD",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "124.8"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

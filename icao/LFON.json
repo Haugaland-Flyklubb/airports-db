@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Dreux_-_Vernouillet",
     "keywords": "",
+    "runways": [
+        {
+            "id": "597805",
+            "airport_ref": "28963",
+            "airport_ident": "LFON",
+            "length_ft": "2362",
+            "width_ft": "262",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "48.703213",
+            "le_longitude_deg": "1.358408",
+            "le_elevation_ft": "441",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "48.708477",
+            "he_longitude_deg": "1.364105",
+            "he_elevation_ft": "441",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",
