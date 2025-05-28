@@ -1,0 +1,39 @@
+{
+    "id": "597879",
+    "ident": "HN-0031",
+    "type": "small_airport",
+    "name": "El Carbon Airstrip",
+    "latitude_deg": "14.800347",
+    "longitude_deg": "-85.849222",
+    "elevation_ft": "1122",
+    "continent": "NA",
+    "iso_country": "HN",
+    "iso_region": "HN-OL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "El Sembrador School",
+    "country": {
+        "id": "302739",
+        "code": "HN",
+        "name": "Honduras",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Honduras",
+        "keywords": "Aeropuertos de Honduras"
+    },
+    "region": {
+        "id": "304020",
+        "code": "HN-OL",
+        "local_code": "OL",
+        "name": "Olancho Department",
+        "continent": "NA",
+        "iso_country": "HN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Olancho_Department",
+        "keywords": "Airports in Olancho Department"
+    }
+}

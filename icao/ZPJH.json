@@ -23,33 +23,49 @@
             "id": "235168",
             "airport_ref": "27213",
             "airport_ident": "ZPJH",
-            "length_ft": "7218",
+            "length_ft": "7874",
             "width_ft": "148",
-            "surface": "CON",
+            "surface": "ASPH",
             "lighted": "1",
             "closed": "0",
             "le_ident": "16",
-            "le_latitude_deg": "21.983299255371094",
-            "le_longitude_deg": "100.75599670410156",
-            "le_elevation_ft": "1808",
+            "le_latitude_deg": "21.983299",
+            "le_longitude_deg": "100.755997",
+            "le_elevation_ft": "1807",
             "le_heading_degT": "160",
             "le_displaced_threshold_ft": "",
             "he_ident": "34",
-            "he_latitude_deg": "21.964599609375",
-            "he_longitude_deg": "100.76300048828125",
-            "he_elevation_ft": "1814",
+            "he_latitude_deg": "21.9646",
+            "he_longitude_deg": "100.763",
+            "he_elevation_ft": "1813",
             "he_heading_degT": "340",
             "he_displaced_threshold_ft": ""
         }
     ],
     "freqs": [
         {
+            "id": "597869",
+            "airport_ref": "27213",
+            "airport_ident": "ZPJH",
+            "type": "APP",
+            "description": "BANNA APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "597868",
+            "airport_ref": "27213",
+            "airport_ident": "ZPJH",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "116.225"
+        },
+        {
             "id": "51189",
             "airport_ref": "27213",
             "airport_ident": "ZPJH",
             "type": "TWR",
             "description": "BANNA TWR",
-            "frequency_mhz": "130"
+            "frequency_mhz": "118.6"
         }
     ],
     "country": {
