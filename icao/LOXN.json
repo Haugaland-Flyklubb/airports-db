@@ -152,6 +152,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "597894",
+            "airport_ref": "29483",
+            "airport_ident": "LOXN",
+            "type": "TWR",
+            "description": "Wiener Neustadt West TWR",
+            "frequency_mhz": "130.15"
+        }
+    ],
     "country": {
         "id": "302674",
         "code": "AT",

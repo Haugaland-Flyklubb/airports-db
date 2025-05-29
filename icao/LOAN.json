@@ -44,6 +44,14 @@
     ],
     "freqs": [
         {
+            "id": "49247",
+            "airport_ref": "4428",
+            "airport_ident": "LOAN",
+            "type": "A/D",
+            "description": "Wiener Neustadt Aerodrome",
+            "frequency_mhz": "130.005"
+        },
+        {
             "id": "49246",
             "airport_ref": "4428",
             "airport_ident": "LOAN",
@@ -52,20 +60,12 @@
             "frequency_mhz": "122.65"
         },
         {
-            "id": "49247",
-            "airport_ref": "4428",
-            "airport_ident": "LOAN",
-            "type": "APP",
-            "description": "WIEN APP",
-            "frequency_mhz": "134.675"
-        },
-        {
             "id": "49248",
             "airport_ref": "4428",
             "airport_ident": "LOAN",
             "type": "INFO",
             "description": "WIEN INFO",
-            "frequency_mhz": "124.4"
+            "frequency_mhz": "118.52"
         }
     ],
     "country": {

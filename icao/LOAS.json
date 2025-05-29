@@ -42,6 +42,24 @@
             "he_displaced_threshold_ft": "213"
         }
     ],
+    "freqs": [
+        {
+            "id": "597904",
+            "airport_ref": "29447",
+            "airport_ident": "LOAS",
+            "type": "Info",
+            "description": "Vienna Info",
+            "frequency_mhz": "118.52"
+        },
+        {
+            "id": "597903",
+            "airport_ref": "29447",
+            "airport_ident": "LOAS",
+            "type": "TWR",
+            "description": "Spitzer Berg Radio",
+            "frequency_mhz": "122.08"
+        }
+    ],
     "country": {
         "id": "302674",
         "code": "AT",

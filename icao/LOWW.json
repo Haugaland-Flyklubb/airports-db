@@ -78,8 +78,16 @@
             "airport_ref": "4434",
             "airport_ident": "LOWW",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "ATIS DEP",
             "frequency_mhz": "121.73"
+        },
+        {
+            "id": "597898",
+            "airport_ref": "4434",
+            "airport_ident": "LOWW",
+            "type": "ATIS",
+            "description": "ATIS ARR",
+            "frequency_mhz": "122.955"
         },
         {
             "id": "49240",
@@ -111,7 +119,7 @@
             "airport_ident": "LOWW",
             "type": "INFO",
             "description": "INFO",
-            "frequency_mhz": "118.525"
+            "frequency_mhz": "118.52"
         },
         {
             "id": "49244",

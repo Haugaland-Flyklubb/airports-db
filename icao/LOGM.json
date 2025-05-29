@@ -42,6 +42,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "597901",
+            "airport_ref": "29453",
+            "airport_ident": "LOGM",
+            "type": "TWR",
+            "description": "Mariazell Flugplatz",
+            "frequency_mhz": "122.105"
+        }
+    ],
     "country": {
         "id": "302674",
         "code": "AT",

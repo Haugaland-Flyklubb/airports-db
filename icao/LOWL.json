@@ -88,12 +88,20 @@
     ],
     "freqs": [
         {
+            "id": "597899",
+            "airport_ref": "4432",
+            "airport_ident": "LOWL",
+            "type": "A/D",
+            "description": "Linz Radar",
+            "frequency_mhz": "119.75"
+        },
+        {
             "id": "49261",
             "airport_ref": "4432",
             "airport_ident": "LOWL",
             "type": "APP",
             "description": "RADAR",
-            "frequency_mhz": "129.625"
+            "frequency_mhz": "129.62"
         },
         {
             "id": "49262",
@@ -101,7 +109,7 @@
             "airport_ident": "LOWL",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "128.125"
+            "frequency_mhz": "128.12"
         },
         {
             "id": "49263",

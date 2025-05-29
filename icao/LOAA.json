@@ -42,6 +42,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "597897",
+            "airport_ref": "29444",
+            "airport_ident": "LOAA",
+            "type": "Info",
+            "description": "Vienna Info",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "597896",
+            "airport_ref": "29444",
+            "airport_ident": "LOAA",
+            "type": "TWR",
+            "description": "Ottenschlag TWR",
+            "frequency_mhz": "122.305"
+        }
+    ],
     "country": {
         "id": "302674",
         "code": "AT",

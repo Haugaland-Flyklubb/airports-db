@@ -42,6 +42,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "597902",
+            "airport_ref": "28133",
+            "airport_ident": "LOGG",
+            "type": "TWR",
+            "description": "Tower",
+            "frequency_mhz": "123.205"
+        }
+    ],
     "country": {
         "id": "302674",
         "code": "AT",
