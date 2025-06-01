@@ -1,0 +1,39 @@
+{
+    "id": "597967",
+    "ident": "GB-1329",
+    "type": "heliport",
+    "name": "HMS Queen Elizabeth carrier",
+    "latitude_deg": "50.80275",
+    "longitude_deg": "-1.11194",
+    "elevation_ft": "45",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "303830",
+        "code": "GB-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "",
+        "keywords": "keep"
+    }
+}

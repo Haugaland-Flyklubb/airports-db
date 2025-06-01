@@ -18,6 +18,30 @@
     "home_link": "http://www.londonglidingclub.co.uk",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "597966",
+            "airport_ref": "331679",
+            "airport_ident": "GB-0615",
+            "length_ft": "2953",
+            "width_ft": "164",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "51.902",
+            "le_longitude_deg": "-0.504",
+            "le_elevation_ft": "500",
+            "le_heading_degT": "40",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "51.8965",
+            "he_longitude_deg": "-0.5135",
+            "he_elevation_ft": "500",
+            "he_heading_degT": "220",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

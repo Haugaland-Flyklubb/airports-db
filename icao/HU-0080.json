@@ -1,0 +1,39 @@
+{
+    "id": "597970",
+    "ident": "HU-0080",
+    "type": "small_airport",
+    "name": "Pilis Airfield",
+    "latitude_deg": "47.30361",
+    "longitude_deg": "19.52895",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-PE",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "LHPL",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304079",
+        "code": "HU-PE",
+        "local_code": "PE",
+        "name": "Pest County",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pest_County",
+        "keywords": "Airports in Pest County"
+    }
+}
