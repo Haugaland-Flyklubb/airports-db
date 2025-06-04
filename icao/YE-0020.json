@@ -1,0 +1,39 @@
+{
+    "id": "598011",
+    "ident": "YE-0020",
+    "type": "small_airport",
+    "name": "New Mocha",
+    "latitude_deg": "12.873542",
+    "longitude_deg": "43.511844",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "YE",
+    "iso_region": "YE-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302671",
+        "code": "YE",
+        "name": "Yemen",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yemen",
+        "keywords": "مطارات اليمن"
+    },
+    "region": {
+        "id": "306293",
+        "code": "YE-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "YE",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

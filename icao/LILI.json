@@ -1,8 +1,8 @@
 {
     "id": "29428",
     "ident": "LILI",
-    "type": "medium_airport",
-    "name": "Vercelli Airfield",
+    "type": "small_airport",
+    "name": "Vercelli Airport",
     "latitude_deg": "45.309935",
     "longitude_deg": "8.417931",
     "elevation_ft": "417",
@@ -17,7 +17,7 @@
     "local_code": "VC04",
     "home_link": "http://www.aeroclubvercelli.it/",
     "wikipedia_link": "https://it.wikipedia.org/wiki/Aeroporto_di_Vercelli",
-    "keywords": "Carlo del Prete, Aeroclub Marilla Rigazio",
+    "keywords": "Aeroporto \"Carlo del Prete\", Aeroclub Vercelli \"Marilla Rigazio\"",
     "runways": [
         {
             "id": "597279",
@@ -61,14 +61,6 @@
         },
         {
             "id": "597476",
-            "airport_ref": "29428",
-            "airport_ident": "LILI",
-            "type": "FIC",
-            "description": "Milano Information North",
-            "frequency_mhz": "135.075"
-        },
-        {
-            "id": "597477",
             "airport_ref": "29428",
             "airport_ident": "LILI",
             "type": "FIC",
