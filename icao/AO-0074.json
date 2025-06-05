@@ -1,0 +1,39 @@
+{
+    "id": "598034",
+    "ident": "AO-0074",
+    "type": "small_airport",
+    "name": "Huambo Airport",
+    "latitude_deg": "-12.786306",
+    "longitude_deg": "15.774528",
+    "elevation_ft": "5443",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-HUA",
+    "municipality": "Huambo",
+    "scheduled_service": "no",
+    "icao_code": "FNNL",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Huambo_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302556",
+        "code": "AO",
+        "name": "Angola",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Angola",
+        "keywords": "Angolan airports"
+    },
+    "region": {
+        "id": "302920",
+        "code": "AO-HUA",
+        "local_code": "HUA",
+        "name": "Huambo Province",
+        "continent": "AF",
+        "iso_country": "AO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Huambo_ Province",
+        "keywords": "Airports in Huambo Province"
+    }
+}
