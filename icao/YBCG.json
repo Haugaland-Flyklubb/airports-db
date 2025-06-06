@@ -66,19 +66,27 @@
     ],
     "freqs": [
         {
-            "id": "48669",
+            "id": "48673",
             "airport_ref": "26902",
             "airport_ident": "YBCG",
-            "type": "APP",
-            "description": "BRISBANE APP",
-            "frequency_mhz": "123.5"
+            "type": "ACD",
+            "description": "Clearance Delivery",
+            "frequency_mhz": "128.75"
+        },
+        {
+            "id": "598040",
+            "airport_ref": "26902",
+            "airport_ident": "YBCG",
+            "type": "ATIS",
+            "description": "H24",
+            "frequency_mhz": "112.3"
         },
         {
             "id": "48670",
             "airport_ref": "26902",
             "airport_ident": "YBCG",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "ATIS (TWR HR)",
             "frequency_mhz": "134.5"
         },
         {
@@ -93,16 +101,16 @@
             "id": "48672",
             "airport_ref": "26902",
             "airport_ident": "YBCG",
-            "type": "FSS",
-            "description": "BRISBANE RADAR",
+            "type": "FIA",
+            "description": "Brisbane Center",
             "frequency_mhz": "119.5"
         },
         {
-            "id": "48673",
+            "id": "598041",
             "airport_ref": "26902",
             "airport_ident": "YBCG",
-            "type": "GCCD",
-            "description": "GND",
+            "type": "SMC",
+            "description": "Ground",
             "frequency_mhz": "121.8"
         },
         {
@@ -110,7 +118,7 @@
             "airport_ref": "26902",
             "airport_ident": "YBCG",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Tower",
             "frequency_mhz": "118.7"
         }
     ],
