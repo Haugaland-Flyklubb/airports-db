@@ -1,0 +1,39 @@
+{
+    "id": "598074",
+    "ident": "PL-0282",
+    "type": "heliport",
+    "name": "Szczecin Hospital Heliport",
+    "latitude_deg": "53.450159",
+    "longitude_deg": "14.50603",
+    "elevation_ft": "157",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-ZP",
+    "municipality": "Szczecin",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "H767",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305160",
+        "code": "PL-ZP",
+        "local_code": "ZP",
+        "name": "West Pomeranian Voivodeship",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/West_Pomeranian_Voivodeship",
+        "keywords": "Zachodniopomorskie, West Pomerania"
+    }
+}

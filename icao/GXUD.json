@@ -1,0 +1,39 @@
+{
+    "id": "598088",
+    "ident": "GXUD",
+    "type": "small_airport",
+    "name": "Kankan Airport",
+    "latitude_deg": "10.448438",
+    "longitude_deg": "-9.228757",
+    "elevation_ft": "1234",
+    "continent": "AF",
+    "iso_country": "GN",
+    "iso_region": "GN-K",
+    "municipality": "Kankan",
+    "scheduled_service": "no",
+    "icao_code": "GXUD",
+    "iata_code": "KNN",
+    "gps_code": "GXUD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kankan_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302576",
+        "code": "GN",
+        "name": "Guinea",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guinea",
+        "keywords": "Aéroports de la Guinée"
+    },
+    "region": {
+        "id": "316860",
+        "code": "GN-K",
+        "local_code": "K",
+        "name": "Kankan Region",
+        "continent": "AF",
+        "iso_country": "GN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kankan_Region",
+        "keywords": "Airports in Kankan Region"
+    }
+}

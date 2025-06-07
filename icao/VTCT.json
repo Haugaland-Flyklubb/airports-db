@@ -1,7 +1,7 @@
 {
     "id": "26653",
     "ident": "VTCT",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Mae Fah Luang - Chiang Rai International Airport",
     "latitude_deg": "19.952299",
     "longitude_deg": "99.882896",
@@ -11,9 +11,9 @@
     "iso_region": "TH-57",
     "municipality": "Chiang Rai",
     "scheduled_service": "yes",
-    "icao_code": "VTCT",
-    "iata_code": "CEI",
-    "gps_code": "VTCT",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Chiang_Rai_International_Airport",
@@ -49,7 +49,7 @@
             "airport_ident": "VTCT",
             "type": "APP",
             "description": "APP",
-            "frequency_mhz": "120.05"
+            "frequency_mhz": "163.05"
         },
         {
             "id": "57676",
@@ -57,7 +57,7 @@
             "airport_ident": "VTCT",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "27.7"
+            "frequency_mhz": "927.7"
         },
         {
             "id": "57677",
@@ -65,7 +65,7 @@
             "airport_ident": "VTCT",
             "type": "RDO",
             "description": "RDO",
-            "frequency_mhz": "666.7"
+            "frequency_mhz": "0.7"
         },
         {
             "id": "57678",
@@ -73,7 +73,7 @@
             "airport_ident": "VTCT",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "118.4"
+            "frequency_mhz": "118.8"
         }
     ],
     "country": {

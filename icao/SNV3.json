@@ -1,0 +1,39 @@
+{
+    "id": "598072",
+    "ident": "SNV3",
+    "type": "heliport",
+    "name": "Miguel Pereira Hospital Heliport",
+    "latitude_deg": "-22.450656",
+    "longitude_deg": "-43.456744",
+    "elevation_ft": "2034",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Miguel Pereira",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SNV3",
+    "local_code": "RJ0392",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303217",
+        "code": "BR-RJ",
+        "local_code": "RJ",
+        "name": "Rio de Janeiro",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
+        "keywords": "Airports in Rio de Janeiro"
+    }
+}
