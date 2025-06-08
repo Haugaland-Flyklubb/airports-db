@@ -1,0 +1,39 @@
+{
+    "id": "598095",
+    "ident": "GECT",
+    "type": "heliport",
+    "name": "Ceuta Military Heliport",
+    "latitude_deg": "35.889018",
+    "longitude_deg": "-5.346354",
+    "elevation_ft": "267",
+    "continent": "AF",
+    "iso_country": "ES",
+    "iso_region": "ES-CE",
+    "municipality": "Ceuta",
+    "scheduled_service": "no",
+    "icao_code": "GECT",
+    "iata_code": "",
+    "gps_code": "GECT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303739",
+        "code": "ES-CE",
+        "local_code": "CE",
+        "name": "Ceuta (city)",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ceuta",
+        "keywords": "Airports in Ceuta"
+    }
+}
