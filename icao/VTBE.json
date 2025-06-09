@@ -1,0 +1,39 @@
+{
+    "id": "598125",
+    "ident": "VTBE",
+    "type": "heliport",
+    "name": "Pak Phreaw Airport",
+    "latitude_deg": "14.513001",
+    "longitude_deg": "100.917426",
+    "elevation_ft": "46",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-19",
+    "municipality": "Mueang Saraburi",
+    "scheduled_service": "no",
+    "icao_code": "VTBE",
+    "iata_code": "",
+    "gps_code": "VTBE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Saraburi Field",
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305716",
+        "code": "TH-19",
+        "local_code": "19",
+        "name": "Saraburi Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saraburi_province",
+        "keywords": "Airports in Saraburi Province"
+    }
+}

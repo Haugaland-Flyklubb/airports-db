@@ -1,0 +1,39 @@
+{
+    "id": "598124",
+    "ident": "VTBV",
+    "type": "small_airport",
+    "name": "Koh Takian Airport",
+    "latitude_deg": "12.254042",
+    "longitude_deg": "102.518522",
+    "elevation_ft": "-1",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-23",
+    "municipality": "Mueang Trat",
+    "scheduled_service": "no",
+    "icao_code": "VTBV",
+    "iata_code": "",
+    "gps_code": "VTBV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305720",
+        "code": "TH-23",
+        "local_code": "23",
+        "name": "Trat Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Trat_province",
+        "keywords": "Airports in Trat Province"
+    }
+}
