@@ -5,17 +5,17 @@
     "name": "Ludvika Airfield",
     "latitude_deg": "60.088299",
     "longitude_deg": "15.0964",
-    "elevation_ft": "900",
+    "elevation_ft": "894",
     "continent": "EU",
     "iso_country": "SE",
     "iso_region": "SE-W",
     "municipality": "Ludvika",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "ESSG",
     "iata_code": "",
     "gps_code": "ESSG",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://ludvikaflyg.se/Flygplatsen/",
     "wikipedia_link": "",
     "keywords": "",
     "runways": [
@@ -26,7 +26,7 @@
             "length_ft": "2687",
             "width_ft": "98",
             "surface": "ASP",
-            "lighted": "0",
+            "lighted": "1",
             "closed": "0",
             "le_ident": "01",
             "le_latitude_deg": "",
@@ -40,6 +40,16 @@
             "he_elevation_ft": "894",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "598140",
+            "airport_ref": "29365",
+            "airport_ident": "ESSG",
+            "type": "Radio",
+            "description": "",
+            "frequency_mhz": "123.15"
         }
     ],
     "country": {

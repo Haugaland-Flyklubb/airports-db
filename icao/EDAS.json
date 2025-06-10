@@ -11,13 +11,37 @@
     "iso_region": "DE-BR",
     "municipality": "Finsterwalde",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "EDAS",
     "iata_code": "",
     "gps_code": "EDAS",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Finsterwalde-Heinrichsruh",
     "keywords": "Flugplatz Finsterwalde/Heinrichsruh",
+    "runways": [
+        {
+            "id": "598147",
+            "airport_ref": "29868",
+            "airport_ident": "EDAS",
+            "length_ft": "3133",
+            "width_ft": "131",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "84",
+            "le_displaced_threshold_ft": "833",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "264",
+            "he_displaced_threshold_ft": "328"
+        }
+    ],
     "freqs": [
         {
             "id": "566978",
