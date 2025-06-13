@@ -1,0 +1,39 @@
+{
+    "id": "598188",
+    "ident": "SNV6",
+    "type": "small_airport",
+    "name": "Fazenda Vitória Airport",
+    "latitude_deg": "-3.315799",
+    "longitude_deg": "-39.883598",
+    "elevation_ft": "200",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-CE",
+    "municipality": "Amontada",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SNV6",
+    "local_code": "CE0179",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303204",
+        "code": "BR-CE",
+        "local_code": "CE",
+        "name": "Ceará",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ceará",
+        "keywords": "Airports in Ceará"
+    }
+}
