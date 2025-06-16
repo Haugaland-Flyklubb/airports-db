@@ -1,7 +1,7 @@
 {
     "id": "45430",
     "ident": "5KY6",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Jake's Field",
     "latitude_deg": "38.420556",
     "longitude_deg": "-85.257778",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "5KY6",
-    "local_code": "5KY6",
+    "gps_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "5KY6",
     "runways": [
         {
             "id": "264067",
@@ -28,7 +28,7 @@
             "surface": "TURF-G",
             "lighted": "0",
             "closed": "0",
-            "le_ident": "03",
+            "le_ident": "3",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
             "le_elevation_ft": "",

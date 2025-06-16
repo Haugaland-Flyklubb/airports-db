@@ -1,7 +1,7 @@
 {
     "id": "5082",
     "ident": "OEAB",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Abha International Airport",
     "latitude_deg": "18.2404",
     "longitude_deg": "42.656601",
@@ -15,9 +15,9 @@
     "iata_code": "AHB",
     "gps_code": "OEAB",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://abha-airport.com",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Abha_International_Airport",
-    "keywords": "Abha Regional Airport",
+    "keywords": "Abha International Airport",
     "runways": [
         {
             "id": "238678",
