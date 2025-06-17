@@ -1,0 +1,39 @@
+{
+    "id": "598302",
+    "ident": "WILW",
+    "type": "small_airport",
+    "name": "Way Jepara Airport",
+    "latitude_deg": "-5.051246",
+    "longitude_deg": "105.655461",
+    "elevation_ft": "103",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-LA",
+    "municipality": "Sukadana",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "WILW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304113",
+        "code": "ID-LA",
+        "local_code": "LA",
+        "name": "Lampung",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lampung",
+        "keywords": "Airports in Lampung"
+    }
+}
