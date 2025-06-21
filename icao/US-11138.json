@@ -1,8 +1,8 @@
 {
     "id": "16503",
     "ident": "US-11138",
-    "type": "closed",
-    "name": "Bolling Air Force Base",
+    "type": "heliport",
+    "name": "Anacostia USN Heliport",
     "latitude_deg": "38.854049",
     "longitude_deg": "-77.012046",
     "elevation_ft": "20",
@@ -11,13 +11,13 @@
     "iso_region": "US-DC",
     "municipality": "Washington",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "KNDV",
     "iata_code": "",
-    "gps_code": "",
-    "local_code": "",
+    "gps_code": "KNDV",
+    "local_code": "NDV",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Joint_Base_Anacostia-Bolling",
-    "keywords": "BOF, KBOF",
+    "keywords": "BOF, KBOF, Bolling AFB, Marine One",
     "runways": [
         {
             "id": "267091",
