@@ -1,0 +1,39 @@
+{
+    "id": "598484",
+    "ident": "SSYP",
+    "type": "small_airport",
+    "name": "Gessomar Airport",
+    "latitude_deg": "-4.521275",
+    "longitude_deg": "-43.919575",
+    "elevation_ft": "190",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MA",
+    "municipality": "Codó",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SSYP",
+    "local_code": "MA0048",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303208",
+        "code": "BR-MA",
+        "local_code": "MA",
+        "name": "Maranhão",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maranhão",
+        "keywords": "Airports in Maranhão"
+    }
+}
