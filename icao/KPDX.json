@@ -96,20 +96,20 @@
             "frequency_mhz": "124.35"
         },
         {
-            "id": "67287",
-            "airport_ref": "3768",
-            "airport_ident": "KPDX",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "29.92"
-        },
-        {
             "id": "67286",
             "airport_ref": "3768",
             "airport_ident": "KPDX",
             "type": "APP",
             "description": "APP",
             "frequency_mhz": "118.1"
+        },
+        {
+            "id": "67287",
+            "airport_ref": "3768",
+            "airport_ident": "KPDX",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "129.92"
         },
         {
             "id": "67288",
@@ -149,7 +149,7 @@
             "airport_ident": "KPDX",
             "type": "OPS",
             "description": "ANG BASE OPS",
-            "frequency_mhz": "28.05"
+            "frequency_mhz": "128.05"
         },
         {
             "id": "67293",
