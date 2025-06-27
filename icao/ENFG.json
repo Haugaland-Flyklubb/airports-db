@@ -1,7 +1,7 @@
 {
     "id": "2576",
     "ident": "ENFG",
-    "type": "medium_airport",
+    "type": "closed",
     "name": "Fagernes Airport, Leirin",
     "latitude_deg": "61.015598",
     "longitude_deg": "9.28806",
@@ -11,13 +11,13 @@
     "iso_region": "NO-34",
     "municipality": "Fagernes",
     "scheduled_service": "no",
-    "icao_code": "ENFG",
+    "icao_code": "",
     "iata_code": "",
-    "gps_code": "ENFG",
+    "gps_code": "",
     "local_code": "",
     "home_link": "https://avinor.no/en/airport/fagernes-airport/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Fagernes_Airport%2C_Leirin",
-    "keywords": "VDB",
+    "keywords": "VDB, ENFG",
     "runways": [
         {
             "id": "237950",
