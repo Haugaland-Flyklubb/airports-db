@@ -1,0 +1,63 @@
+{
+    "id": "598609",
+    "ident": "SR-0009",
+    "type": "small_airport",
+    "name": "Eduard Alexander Gummels Airport",
+    "latitude_deg": "5.8604",
+    "longitude_deg": "-55.192",
+    "elevation_ft": "49",
+    "continent": "SA",
+    "iso_country": "SR",
+    "iso_region": "SR-PM",
+    "municipality": "Kwatta",
+    "scheduled_service": "yes",
+    "icao_code": "SMEG",
+    "iata_code": "EAX",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "https://eagairport.sr/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Eduard_Alexander_Gummels_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "598610",
+            "airport_ref": "598609",
+            "airport_ident": "SR-0009",
+            "length_ft": "3934",
+            "width_ft": "75",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302800",
+        "code": "SR",
+        "name": "Suriname",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Suriname",
+        "keywords": "Surinamese airports"
+    },
+    "region": {
+        "id": "305642",
+        "code": "SR-PM",
+        "local_code": "PM",
+        "name": "Paramaribo",
+        "continent": "SA",
+        "iso_country": "SR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paramaribo",
+        "keywords": "Airports in Paramaribo"
+    }
+}
