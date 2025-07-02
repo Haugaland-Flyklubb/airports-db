@@ -1,0 +1,39 @@
+{
+    "id": "598682",
+    "ident": "GE-0040",
+    "type": "heliport",
+    "name": "Tskhinvali Heliport",
+    "latitude_deg": "42.232158",
+    "longitude_deg": "43.936895",
+    "elevation_ft": "3182",
+    "continent": "AS",
+    "iso_country": "GE",
+    "iso_region": "GE-SO",
+    "municipality": "Tskhinvali",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "HEN2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ХЕН2, Цхинвал",
+    "country": {
+        "id": "302630",
+        "code": "GE",
+        "name": "Georgia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia_(country)",
+        "keywords": "Georgian airports"
+    },
+    "region": {
+        "id": "595549",
+        "code": "GE-SO",
+        "local_code": "SO",
+        "name": "South Ossetia",
+        "continent": "AS",
+        "iso_country": "GE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Ossetia",
+        "keywords": "Airports in South Ossetia"
+    }
+}
