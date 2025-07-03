@@ -1,0 +1,39 @@
+{
+    "id": "598704",
+    "ident": "ES-0368",
+    "type": "small_airport",
+    "name": "(??Duplicate??)LEVS AIRPORT",
+    "latitude_deg": "12.862546",
+    "longitude_deg": "-13.818091",
+    "elevation_ft": "2269",
+    "continent": "AF",
+    "iso_country": "ES",
+    "iso_region": "ES-MD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "LEVS",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303761",
+        "code": "ES-MD",
+        "local_code": "MD",
+        "name": "Madrid (community)",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Community_of_Madrid",
+        "keywords": "Airports in Madrid"
+    }
+}
