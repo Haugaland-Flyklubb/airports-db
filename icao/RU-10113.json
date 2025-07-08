@@ -1,0 +1,39 @@
+{
+    "id": "598812",
+    "ident": "RU-10113",
+    "type": "heliport",
+    "name": "Pivan-1 Heliport",
+    "latitude_deg": "50.345048",
+    "longitude_deg": "137.190895",
+    "elevation_ft": "178",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-KHA",
+    "municipality": "Pivan",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "HG34",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ХГ34, Пивань",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305288",
+        "code": "RU-KHA",
+        "local_code": "KHA",
+        "name": "Khabarovsk Krai",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Khabarovsk_Krai",
+        "keywords": "Airports in Khabarovsk Krai"
+    }
+}

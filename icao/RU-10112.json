@@ -1,0 +1,39 @@
+{
+    "id": "598811",
+    "ident": "RU-10112",
+    "type": "heliport",
+    "name": "Ostrovnoy Heliport",
+    "latitude_deg": "68.076371",
+    "longitude_deg": "39.45939",
+    "elevation_ft": "3",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MUR",
+    "municipality": "Ostrovnoy",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "HFM3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ХФМ3, Островной",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305306",
+        "code": "RU-MUR",
+        "local_code": "MUR",
+        "name": "Murmansk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Murmansk_Oblast",
+        "keywords": "Airports in Murmansk Oblast"
+    }
+}
