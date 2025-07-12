@@ -1,0 +1,63 @@
+{
+    "id": "598900",
+    "ident": "US-12732",
+    "type": "seaplane_base",
+    "name": "Gillespie Seaplane Base",
+    "latitude_deg": "46.665278",
+    "longitude_deg": "-94.125",
+    "elevation_ft": "1230",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Crosslake",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "0MN6",
+    "local_code": "0MN6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "598901",
+            "airport_ref": "598900",
+            "airport_ident": "US-12732",
+            "length_ft": "5065",
+            "width_ft": "200",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": "Airports in Minnesota"
+    }
+}

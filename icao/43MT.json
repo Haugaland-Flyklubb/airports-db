@@ -1,0 +1,63 @@
+{
+    "id": "598905",
+    "ident": "43MT",
+    "type": "small_airport",
+    "name": "Government Mountain Airport",
+    "latitude_deg": "47.991745",
+    "longitude_deg": "-115.751871",
+    "elevation_ft": "2310",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MT",
+    "municipality": "Noxon",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "43MT",
+    "local_code": "43MT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "598906",
+            "airport_ref": "598905",
+            "airport_ident": "43MT",
+            "length_ft": "2200",
+            "width_ft": "100",
+            "surface": "Turf/Gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "47.994225",
+            "le_longitude_deg": "-115.754425",
+            "le_elevation_ft": "2301",
+            "le_heading_degT": "145",
+            "le_displaced_threshold_ft": "649",
+            "he_ident": "31",
+            "he_latitude_deg": "47.989264",
+            "he_longitude_deg": "-115.749316",
+            "he_elevation_ft": "2301",
+            "he_heading_degT": "325",
+            "he_displaced_threshold_ft": "550"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306102",
+        "code": "US-MT",
+        "local_code": "MT",
+        "name": "Montana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
+        "keywords": "Airports in Montana"
+    }
+}
