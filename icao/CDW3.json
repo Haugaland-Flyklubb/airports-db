@@ -1,0 +1,39 @@
+{
+    "id": "598930",
+    "ident": "CDW3",
+    "type": "heliport",
+    "name": "Hamlet Heliport",
+    "latitude_deg": "50.826333",
+    "longitude_deg": "-114.023833",
+    "elevation_ft": "3593",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "De Winton",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "CDW3",
+    "local_code": "CDW3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": "Albertan airports"
+    }
+}
