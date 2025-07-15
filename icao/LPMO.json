@@ -5,19 +5,53 @@
     "name": "Morargil Airfield",
     "latitude_deg": "38.993532",
     "longitude_deg": "-8.14201",
-    "elevation_ft": "341",
+    "elevation_ft": "380",
     "continent": "EU",
     "iso_country": "PT",
-    "iso_region": "PT-12",
-    "municipality": "Montargil",
+    "iso_region": "PT-07",
+    "municipality": "Mora",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "LPMO",
     "iata_code": "",
     "gps_code": "LPMO",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Morargil_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "598970",
+            "airport_ref": "30160",
+            "airport_ident": "LPMO",
+            "length_ft": "3600",
+            "width_ft": "90",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "598971",
+            "airport_ref": "30160",
+            "airport_ident": "LPMO",
+            "type": "CTAF",
+            "description": "MORAGIL AIRFIELD",
+            "frequency_mhz": "123.35"
+        }
+    ],
     "country": {
         "id": "302711",
         "code": "PT",
@@ -27,13 +61,13 @@
         "keywords": "Aeroportos de Portugal"
     },
     "region": {
-        "id": "305178",
-        "code": "PT-12",
-        "local_code": "12",
-        "name": "Portalegre District",
+        "id": "305173",
+        "code": "PT-07",
+        "local_code": "07",
+        "name": "Évora District",
         "continent": "EU",
         "iso_country": "PT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Portalegre_District",
-        "keywords": "Airports in Portalegre District"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Évora_District",
+        "keywords": "Airports in Évora District"
     }
 }
