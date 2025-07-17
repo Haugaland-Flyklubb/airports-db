@@ -3,12 +3,12 @@
     "ident": "HLSH",
     "type": "small_airport",
     "name": "Sahil Airport",
-    "latitude_deg": "29.54",
-    "longitude_deg": "20.17",
+    "latitude_deg": "29.542447",
+    "longitude_deg": "20.17107",
     "elevation_ft": "105",
     "continent": "AF",
     "iso_country": "LY",
-    "iso_region": "LY-U-A",
+    "iso_region": "LY-WA",
     "municipality": "",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "مطارات في ليبيا"
     },
     "region": {
-        "id": "304560",
-        "code": "LY-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304561",
+        "code": "LY-WA",
+        "local_code": "WA",
+        "name": "Al Wahat District",
         "continent": "AF",
         "iso_country": "LY",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Wahat_District",
+        "keywords": "Al Wāḩah"
     }
 }

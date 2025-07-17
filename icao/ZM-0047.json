@@ -1,0 +1,39 @@
+{
+    "id": "599038",
+    "ident": "ZM-0047",
+    "type": "small_airport",
+    "name": "Chama Airstrip",
+    "latitude_deg": "-11.238236",
+    "longitude_deg": "33.160724",
+    "elevation_ft": "2560",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-10",
+    "municipality": "Chama",
+    "scheduled_service": "no",
+    "icao_code": "FLAM",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "FLAM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302611",
+        "code": "ZM",
+        "name": "Zambia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zambia",
+        "keywords": "Zambian airports"
+    },
+    "region": {
+        "id": "504569",
+        "code": "ZM-10",
+        "local_code": "10",
+        "name": "Muchinga Province",
+        "continent": "AF",
+        "iso_country": "ZM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Muchinga_Province",
+        "keywords": "Airports in Muchinga Province"
+    }
+}

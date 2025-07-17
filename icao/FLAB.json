@@ -1,0 +1,39 @@
+{
+    "id": "599037",
+    "ident": "FLAB",
+    "type": "small_airport",
+    "name": "Kakumbi Airstrip",
+    "latitude_deg": "-13.067913",
+    "longitude_deg": "31.763252",
+    "elevation_ft": "1738",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-U-A",
+    "municipality": "Kakumbi",
+    "scheduled_service": "no",
+    "icao_code": "FLAB",
+    "iata_code": "",
+    "gps_code": "FLAB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Mfuwe",
+    "country": {
+        "id": "302611",
+        "code": "ZM",
+        "name": "Zambia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zambia",
+        "keywords": "Zambian airports"
+    },
+    "region": {
+        "id": "306309",
+        "code": "ZM-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "ZM",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
