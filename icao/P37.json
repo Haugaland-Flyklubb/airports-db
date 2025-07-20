@@ -86,6 +86,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "599111",
+            "airport_ref": "23961",
+            "airport_ident": "P37",
+            "type": "UNICOM",
+            "description": "McVille Traffic",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",
