@@ -1,0 +1,39 @@
+{
+    "id": "599134",
+    "ident": "US-12737",
+    "type": "heliport",
+    "name": "III Corps HQ Heliport",
+    "latitude_deg": "31.13506",
+    "longitude_deg": "-97.772328",
+    "elevation_ft": "906",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Kileen(Ft Hood)",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": "Texan airports"
+    }
+}
