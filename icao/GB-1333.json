@@ -1,0 +1,39 @@
+{
+    "id": "599256",
+    "ident": "GB-1333",
+    "type": "heliport",
+    "name": "Clifton Dykes",
+    "latitude_deg": "54.644211",
+    "longitude_deg": "-2.69254",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "303830",
+        "code": "GB-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "",
+        "keywords": "keep"
+    }
+}
