@@ -1,0 +1,63 @@
+{
+    "id": "599333",
+    "ident": "SS4Q",
+    "type": "heliport",
+    "name": "CISS Helistop",
+    "latitude_deg": "-25.742186",
+    "longitude_deg": "-53.050457",
+    "elevation_ft": "1808",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PB",
+    "municipality": "Dois Vizinhos",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SS4Q",
+    "local_code": "PR0243",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "599334",
+            "airport_ref": "599333",
+            "airport_ident": "SS4Q",
+            "length_ft": "66",
+            "width_ft": "66",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "6",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303213",
+        "code": "BR-PB",
+        "local_code": "PB",
+        "name": "Paraíba",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraíba",
+        "keywords": "Airports in Paraíba"
+    }
+}
