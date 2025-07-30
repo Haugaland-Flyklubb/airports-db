@@ -52,14 +52,6 @@
             "frequency_mhz": "128.5"
         },
         {
-            "id": "53039",
-            "airport_ref": "2740",
-            "airport_ident": "ETNN",
-            "type": "RDR",
-            "description": "RADAR",
-            "frequency_mhz": "37.925"
-        },
-        {
             "id": "53038",
             "airport_ref": "2740",
             "airport_ident": "ETNN",
@@ -68,12 +60,12 @@
             "frequency_mhz": "123.3"
         },
         {
-            "id": "53041",
+            "id": "53039",
             "airport_ref": "2740",
             "airport_ident": "ETNN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "37.65"
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "129.055"
         },
         {
             "id": "53040",
@@ -82,6 +74,14 @@
             "type": "TWR",
             "description": "TWR",
             "frequency_mhz": "122.1"
+        },
+        {
+            "id": "53041",
+            "airport_ref": "2740",
+            "airport_ident": "ETNN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "136.205"
         }
     ],
     "country": {

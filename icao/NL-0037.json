@@ -18,6 +18,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "599388",
+            "airport_ref": "299518",
+            "airport_ident": "NL-0037",
+            "type": "AFIS",
+            "description": "Venlo GLIDER",
+            "frequency_mhz": "130.655"
+        }
+    ],
     "country": {
         "id": "302708",
         "code": "NL",
