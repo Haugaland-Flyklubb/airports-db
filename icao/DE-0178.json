@@ -64,6 +64,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "599409",
+            "airport_ref": "314768",
+            "airport_ident": "DE-0178",
+            "type": "RADIO",
+            "description": "Wolfsaap Glider",
+            "frequency_mhz": "118.21"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

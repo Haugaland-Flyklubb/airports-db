@@ -18,6 +18,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "599408",
+            "airport_ref": "356161",
+            "airport_ident": "MA-0003",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "118.125"
+        },
+        {
+            "id": "599407",
+            "airport_ref": "356161",
+            "airport_ident": "MA-0003",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "118.05"
+        }
+    ],
     "country": {
         "id": "302570",
         "code": "EH",
