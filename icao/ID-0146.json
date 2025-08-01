@@ -1,8 +1,8 @@
 {
     "id": "311218",
     "ident": "ID-0146",
-    "type": "closed",
-    "name": "Suswa Airstrip",
+    "type": "small_airport",
+    "name": "Suswa Airstrip [UNUSABLE]",
     "latitude_deg": "-0.942",
     "longitude_deg": "132.298",
     "elevation_ft": "583",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "",
-    "local_code": "",
+    "gps_code": "WASW",
+    "local_code": "SUS",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "WT28, SUS",
+    "keywords": "WT28",
     "runways": [
         {
             "id": "311219",
