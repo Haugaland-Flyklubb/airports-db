@@ -1,0 +1,63 @@
+{
+    "id": "599513",
+    "ident": "ID-0378",
+    "type": "small_airport",
+    "name": "Amuma Airstrip",
+    "latitude_deg": "-4.473639",
+    "longitude_deg": "138.986646",
+    "elevation_ft": "5798",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Sarumugai",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "599514",
+            "airport_ref": "599513",
+            "airport_ident": "ID-0378",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "EA",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "5707",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "WD",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "5836",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "430275",
+        "code": "ID-PP",
+        "local_code": "PP",
+        "name": "Papua Pegunungan (Highland Papua)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Highland_Papua",
+        "keywords": ""
+    }
+}
