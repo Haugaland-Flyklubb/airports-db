@@ -1,0 +1,39 @@
+{
+    "id": "599541",
+    "ident": "ES-0369",
+    "type": "small_airport",
+    "name": "Eivissa private Airstrip",
+    "latitude_deg": "38.96978",
+    "longitude_deg": "1.43786",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-IB",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303755",
+        "code": "ES-IB",
+        "local_code": "IB",
+        "name": "Islas Baleares",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balearic_Islands",
+        "keywords": "Airports in Baleares, Balearic Islands"
+    }
+}
