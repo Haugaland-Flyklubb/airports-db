@@ -1,0 +1,39 @@
+{
+    "id": "599573",
+    "ident": "AU-0781",
+    "type": "small_airport",
+    "name": "Karalundi Airport",
+    "latitude_deg": "-26.128817",
+    "longitude_deg": "118.676205",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "Y0C6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": "Western Australian airports"
+    }
+}
