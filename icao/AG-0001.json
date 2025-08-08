@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "599622",
+            "airport_ref": "336537",
+            "airport_ident": "AG-0001",
+            "length_ft": "6100",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "17.620546",
+            "le_longitude_deg": "-61.806995",
+            "le_elevation_ft": "20",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "17.621614",
+            "he_longitude_deg": "-61.789513",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302722",
         "code": "AG",
