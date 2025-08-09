@@ -1,0 +1,39 @@
+{
+    "id": "599657",
+    "ident": "ESEY",
+    "type": "heliport",
+    "name": "Lycksele Hospital Heliport",
+    "latitude_deg": "64.585356",
+    "longitude_deg": "18.681019",
+    "elevation_ft": "742",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-AC",
+    "municipality": "Lycksele",
+    "scheduled_service": "no",
+    "icao_code": "ESEY",
+    "iata_code": "",
+    "gps_code": "ESEY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305412",
+        "code": "SE-AC",
+        "local_code": "AC",
+        "name": "Västerbottens län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västerbottens_län",
+        "keywords": "Västerbotten County"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "599656",
+    "ident": "ESEW",
+    "type": "heliport",
+    "name": "Västmanland's Hospital Heliport",
+    "latitude_deg": "59.615741",
+    "longitude_deg": "16.582017",
+    "elevation_ft": "103",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-U",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "ESEW",
+    "iata_code": "",
+    "gps_code": "ESEW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305427",
+        "code": "SE-U",
+        "local_code": "U",
+        "name": "Västmanlanda län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västmanlanda_län",
+        "keywords": "Västmanland County"
+    }
+}

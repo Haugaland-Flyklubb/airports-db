@@ -1,0 +1,39 @@
+{
+    "id": "599651",
+    "ident": "SE-0116",
+    "type": "heliport",
+    "name": "Gotska Sandön Heliport",
+    "latitude_deg": "58.391302",
+    "longitude_deg": "19.191707",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-U-A",
+    "municipality": "Gotska Sandön",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305428",
+        "code": "SE-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
