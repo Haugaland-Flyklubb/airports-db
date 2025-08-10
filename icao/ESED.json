@@ -1,0 +1,39 @@
+{
+    "id": "599672",
+    "ident": "ESED",
+    "type": "heliport",
+    "name": "Sundsvalls County Hospital Heliport",
+    "latitude_deg": "62.407936",
+    "longitude_deg": "17.302258",
+    "elevation_ft": "312",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Y",
+    "municipality": "Sundsvall",
+    "scheduled_service": "no",
+    "icao_code": "ESED",
+    "iata_code": "",
+    "gps_code": "ESED",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305431",
+        "code": "SE-Y",
+        "local_code": "Y",
+        "name": "Västernorrlands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västernorrlands_län",
+        "keywords": "Västernorrland County"
+    }
+}

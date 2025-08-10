@@ -1,0 +1,39 @@
+{
+    "id": "599670",
+    "ident": "ESEB",
+    "type": "heliport",
+    "name": "Borås Hospital Heliport",
+    "latitude_deg": "57.724183",
+    "longitude_deg": "12.964318",
+    "elevation_ft": "597",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-Q",
+    "municipality": "Borås",
+    "scheduled_service": "no",
+    "icao_code": "ESEB",
+    "iata_code": "",
+    "gps_code": "ESEB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305424",
+        "code": "SE-Q",
+        "local_code": "Q",
+        "name": "Västra Götalands län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Västra_Götalands_län",
+        "keywords": "Västra Götaland County"
+    }
+}

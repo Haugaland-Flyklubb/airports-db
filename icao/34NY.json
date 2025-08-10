@@ -1,0 +1,63 @@
+{
+    "id": "599684",
+    "ident": "34NY",
+    "type": "small_airport",
+    "name": "Horizon Air Airport",
+    "latitude_deg": "42.980774",
+    "longitude_deg": "-76.930488",
+    "elevation_ft": "490",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Waterloo",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "34NY",
+    "local_code": "34NY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "599685",
+            "airport_ref": "599684",
+            "airport_ident": "34NY",
+            "length_ft": "3506",
+            "width_ft": "60",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": "Airports in New York"
+    }
+}

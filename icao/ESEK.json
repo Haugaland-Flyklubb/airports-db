@@ -1,0 +1,39 @@
+{
+    "id": "599674",
+    "ident": "ESEK",
+    "type": "heliport",
+    "name": "Lake Luossajärvi Heliport",
+    "latitude_deg": "67.859903",
+    "longitude_deg": "20.207155",
+    "elevation_ft": "1550",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-BD",
+    "municipality": "Kiruna",
+    "scheduled_service": "no",
+    "icao_code": "ESEK",
+    "iata_code": "",
+    "gps_code": "ESEK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305413",
+        "code": "SE-BD",
+        "local_code": "BD",
+        "name": "Norrbottena län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norrbottena_län",
+        "keywords": "Norrbotten County"
+    }
+}

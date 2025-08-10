@@ -1,0 +1,63 @@
+{
+    "id": "599682",
+    "ident": "33NC",
+    "type": "small_airport",
+    "name": "Easley Acres Airport",
+    "latitude_deg": "35.63473",
+    "longitude_deg": "-78.013601",
+    "elevation_ft": "132",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Lucama",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "33NC",
+    "local_code": "33NC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "599683",
+            "airport_ref": "599682",
+            "airport_ident": "33NC",
+            "length_ft": "3100",
+            "width_ft": "75",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": "Airports in North Carolina"
+    }
+}
