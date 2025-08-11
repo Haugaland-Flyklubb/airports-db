@@ -3,17 +3,17 @@
     "ident": "BR-0609",
     "type": "small_airport",
     "name": "Fazenda Uirapuru Airstrip",
-    "latitude_deg": "-1.229722",
+    "latitude_deg": "-11.229722",
     "longitude_deg": "-48.939444",
     "elevation_ft": "978",
     "continent": "SA",
     "iso_country": "BR",
-    "iso_region": "BR-PA",
+    "iso_region": "BR-TO",
     "municipality": "Crixás do Tocantins",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "",
+    "gps_code": "SJB2",
     "local_code": "TO0114",
     "home_link": "",
     "wikipedia_link": "",
@@ -51,13 +51,13 @@
         "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
     },
     "region": {
-        "id": "303212",
-        "code": "BR-PA",
-        "local_code": "PA",
-        "name": "Pará",
+        "id": "303225",
+        "code": "BR-TO",
+        "local_code": "TO",
+        "name": "Tocantins",
         "continent": "SA",
         "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
-        "keywords": "Airports in Pará"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tocantins",
+        "keywords": "Airports in Tocatins"
     }
 }

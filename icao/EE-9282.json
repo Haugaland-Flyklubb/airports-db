@@ -1,0 +1,39 @@
+{
+    "id": "599693",
+    "ident": "EE-9282",
+    "type": "small_airport",
+    "name": "Tallinn West Aerodrome",
+    "latitude_deg": "59.335726",
+    "longitude_deg": "24.520798",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "EE",
+    "iso_region": "EE-37",
+    "municipality": "Vanamõisa",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302683",
+        "code": "EE",
+        "name": "Estonia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Estonia",
+        "keywords": "Estonian airports"
+    },
+    "region": {
+        "id": "303675",
+        "code": "EE-37",
+        "local_code": "37",
+        "name": "Harju County",
+        "continent": "EU",
+        "iso_country": "EE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Harju_County",
+        "keywords": "Airports in Harju County"
+    }
+}
