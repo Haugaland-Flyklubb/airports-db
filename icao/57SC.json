@@ -1,0 +1,63 @@
+{
+    "id": "599751",
+    "ident": "57SC",
+    "type": "small_airport",
+    "name": "MUSC Health, Sea Island Heliport",
+    "latitude_deg": "32.604511",
+    "longitude_deg": "-80.151158",
+    "elevation_ft": "15",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-SC",
+    "municipality": "Kiawah Island",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "57SC",
+    "local_code": "57SC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "599752",
+            "airport_ref": "599751",
+            "airport_ident": "57SC",
+            "length_ft": "45",
+            "width_ft": "45",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306116",
+        "code": "US-SC",
+        "local_code": "SC",
+        "name": "South Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
+        "keywords": "Airports in South Carolina"
+    }
+}
