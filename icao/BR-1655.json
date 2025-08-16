@@ -3,8 +3,8 @@
     "ident": "BR-1655",
     "type": "small_airport",
     "name": "Primeira Cruz Airport",
-    "latitude_deg": "-2.50234",
-    "longitude_deg": "-43.43046",
+    "latitude_deg": "-2.504096",
+    "longitude_deg": "-43.437477",
     "elevation_ft": "23",
     "continent": "SA",
     "iso_country": "BR",
@@ -18,6 +18,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "599825",
+            "airport_ref": "348604",
+            "airport_ident": "BR-1655",
+            "length_ft": "1640",
+            "width_ft": "66",
+            "surface": "Asfalto",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-2.502822",
+            "le_longitude_deg": "-43.434253",
+            "le_elevation_ft": "49",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "1",
+            "he_ident": "28",
+            "he_latitude_deg": "-2.503846",
+            "he_longitude_deg": "-43.438631",
+            "he_elevation_ft": "23",
+            "he_heading_degT": "256",
+            "he_displaced_threshold_ft": "1"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "599827",
+            "airport_ref": "348604",
+            "airport_ident": "BR-1655",
+            "type": "CTAF",
+            "description": "Primeira Cruz Traffic",
+            "frequency_mhz": "110.3"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

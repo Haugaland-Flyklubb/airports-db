@@ -18,6 +18,40 @@
     "home_link": "http://www.flugplatz-radevormwald.de/",
     "wikipedia_link": "",
     "keywords": "RAD1",
+    "runways": [
+        {
+            "id": "599801",
+            "airport_ref": "315463",
+            "airport_ident": "DE-0207",
+            "length_ft": "2132",
+            "width_ft": "65",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "599804",
+            "airport_ref": "315463",
+            "airport_ident": "DE-0207",
+            "type": "INFO",
+            "description": "Rade Radio",
+            "frequency_mhz": "118.265"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
