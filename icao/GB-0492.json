@@ -18,6 +18,16 @@
     "home_link": "https://www.rattlesdengliding.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Rattlesden",
     "keywords": "RAF Rattlesden",
+    "freqs": [
+        {
+            "id": "599876",
+            "airport_ref": "321864",
+            "airport_ident": "GB-0492",
+            "type": "CTAF",
+            "description": "Rattlesden Base",
+            "frequency_mhz": "130.29"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",
