@@ -1,0 +1,39 @@
+{
+    "id": "599921",
+    "ident": "GB-1336",
+    "type": "small_airport",
+    "name": "(Duplicete)East Kirkby Airfield",
+    "latitude_deg": "53.13889",
+    "longitude_deg": "-0.00056",
+    "elevation_ft": "39",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "East Kirkby",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "https://lincsaviation.co.uk",
+    "wikipedia_link": "https://en.m.wikipedia.org/wiki/Lincolnshire_Aviation_Heritage_Centre?utm_source=chatgpt.com",
+    "keywords": "RAF East Kirkby; Lincolnshire Aviation Heritage Centre; Bomber Command; Avro Lancaster NX611 “Just Jane”; Mosquito HJ711; East Lindsey; WW2 airfield; museum; heritage.",
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": "English airports"
+    }
+}
