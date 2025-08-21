@@ -3,8 +3,8 @@
     "ident": "BR-1948",
     "type": "small_airport",
     "name": "Santana do Araguaia Airport",
-    "latitude_deg": "-9.31997",
-    "longitude_deg": "-50.328499",
+    "latitude_deg": "-9.319906",
+    "longitude_deg": "-50.328536",
     "elevation_ft": "614",
     "continent": "SA",
     "iso_country": "BR",
@@ -12,12 +12,12 @@
     "municipality": "Santana do Araguaia",
     "scheduled_service": "no",
     "icao_code": "",
-    "iata_code": "",
+    "iata_code": "CMP",
     "gps_code": "SD12",
     "local_code": "PA0017",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Santana_do_Araguaia_Airport",
-    "keywords": "",
+    "keywords": "SNKE",
     "runways": [
         {
             "id": "234313",
@@ -25,10 +25,10 @@
             "airport_ident": "BR-1948",
             "length_ft": "4921",
             "width_ft": "98",
-            "surface": "ASP",
+            "surface": "GVL",
             "lighted": "0",
             "closed": "0",
-            "le_ident": "1",
+            "le_ident": "01",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
             "le_elevation_ft": "",
@@ -39,7 +39,7 @@
             "he_longitude_deg": "",
             "he_elevation_ft": "",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "327"
         }
     ],
     "country": {

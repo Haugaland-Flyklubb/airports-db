@@ -1,0 +1,73 @@
+{
+    "id": "599952",
+    "ident": "ZZ-0004",
+    "type": "heliport",
+    "name": "(Bogus)Jezero Crater(Location is India not Planet Mars)",
+    "latitude_deg": "18.44",
+    "longitude_deg": "77.45",
+    "elevation_ft": "8530",
+    "continent": "AF",
+    "iso_country": "ZZ",
+    "iso_region": "ZZ-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "JZRO",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "599953",
+            "airport_ref": "599952",
+            "airport_ident": "ZZ-0004",
+            "length_ft": "33",
+            "width_ft": "33",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "1",
+            "le_latitude_deg": "18.855",
+            "le_longitude_deg": "77.519",
+            "le_elevation_ft": "8530",
+            "le_heading_degT": "270",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "18.855",
+            "he_longitude_deg": "77.519",
+            "he_elevation_ft": "8530",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "599954",
+            "airport_ref": "599952",
+            "airport_ident": "ZZ-0004",
+            "type": "Telemetry",
+            "description": "Ingenuity–Perseverance Telemetry Link",
+            "frequency_mhz": "914"
+        }
+    ],
+    "country": {
+        "id": "302613",
+        "code": "ZZ",
+        "name": "Unknown or unassigned country",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Unknown_or_unassigned_country",
+        "keywords": "Airports in Unknown or unassigned country"
+    },
+    "region": {
+        "id": "306321",
+        "code": "ZZ-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "ZZ",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

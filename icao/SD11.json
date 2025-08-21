@@ -1,0 +1,63 @@
+{
+    "id": "599965",
+    "ident": "SD11",
+    "type": "small_airport",
+    "name": "\"Amazon Runway\"",
+    "latitude_deg": "-3.231842",
+    "longitude_deg": "-60.486547",
+    "elevation_ft": "151",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Manacapuru",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SD11",
+    "local_code": "AM0120",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "599966",
+            "airport_ref": "599965",
+            "airport_ident": "SD11",
+            "length_ft": "2625",
+            "width_ft": "59",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303201",
+        "code": "BR-AM",
+        "local_code": "AM",
+        "name": "Amazonas",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)",
+        "keywords": "Airports in Amazonas"
+    }
+}
