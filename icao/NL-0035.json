@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "599977",
+            "airport_ref": "299516",
+            "airport_ident": "NL-0035",
+            "length_ft": "3877",
+            "width_ft": "216",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "76",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "284",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302708",
         "code": "NL",

@@ -18,6 +18,52 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "599975",
+            "airport_ref": "299518",
+            "airport_ident": "NL-0037",
+            "length_ft": "3556",
+            "width_ft": "262",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "85",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "265",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "599974",
+            "airport_ref": "299518",
+            "airport_ident": "NL-0037",
+            "length_ft": "3280",
+            "width_ft": "262",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "7",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "71",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "290",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "599388",
@@ -26,6 +72,14 @@
             "type": "AFIS",
             "description": "Venlo GLIDER",
             "frequency_mhz": "130.655"
+        },
+        {
+            "id": "599976",
+            "airport_ref": "299518",
+            "airport_ident": "NL-0037",
+            "type": "CTAF",
+            "description": "venlo GROUND",
+            "frequency_mhz": "144.48"
         }
     ],
     "country": {

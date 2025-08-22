@@ -47,9 +47,17 @@
             "id": "49795",
             "airport_ref": "156",
             "airport_ident": "SDCO",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "125.675"
+            "type": "GND",
+            "description": "Solo Sorocaba",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "599993",
+            "airport_ref": "156",
+            "airport_ident": "SDCO",
+            "type": "TWR",
+            "description": "Torre Sorocaba",
+            "frequency_mhz": "118.8"
         }
     ],
     "country": {
