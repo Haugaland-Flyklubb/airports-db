@@ -1,0 +1,39 @@
+{
+    "id": "600057",
+    "ident": "NZSF",
+    "type": "small_airport",
+    "name": "Springfield Airport",
+    "latitude_deg": "-43.383575",
+    "longitude_deg": "171.911266",
+    "elevation_ft": "1216",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Springfield",
+    "scheduled_service": "no",
+    "icao_code": "NZSF",
+    "iata_code": "",
+    "gps_code": "NZSF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Tawera",
+    "country": {
+        "id": "302776",
+        "code": "NZ",
+        "name": "New Zealand",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Zealand",
+        "keywords": "Airports in New Zealand"
+    },
+    "region": {
+        "id": "304972",
+        "code": "NZ-CAN",
+        "local_code": "CAN",
+        "name": "Canterbury Region",
+        "continent": "OC",
+        "iso_country": "NZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canterbury,_New_Zealand",
+        "keywords": "Airports in Canterbury Region"
+    }
+}
