@@ -1,0 +1,63 @@
+{
+    "id": "600130",
+    "ident": "SSA0",
+    "type": "small_airport",
+    "name": "Fazenda Castelo Airstrip",
+    "latitude_deg": "-8.734705",
+    "longitude_deg": "-63.754952",
+    "elevation_ft": "269",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RO",
+    "municipality": "Porto Velho",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SSA0",
+    "local_code": "RO0115",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "600131",
+            "airport_ref": "600130",
+            "airport_ident": "SSA0",
+            "length_ft": "2626",
+            "width_ft": "59",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303219",
+        "code": "BR-RO",
+        "local_code": "RO",
+        "name": "Rondônia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rondônia",
+        "keywords": "Airports in Rondônia"
+    }
+}

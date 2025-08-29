@@ -1,14 +1,14 @@
 {
     "id": "600039",
     "ident": "BE-0089",
-    "type": "small_airport",
+    "type": "heliport",
     "name": "ERQUELINNES DZ",
     "latitude_deg": "50.292177",
     "longitude_deg": "4.151947",
-    "elevation_ft": "",
+    "elevation_ft": "488",
     "continent": "EU",
     "iso_country": "BE",
-    "iso_region": "BE-U-A",
+    "iso_region": "BE-WHT",
     "municipality": "Erquelinnes",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Aéroports de Belgique,Luchthavens van België"
     },
     "region": {
-        "id": "303069",
-        "code": "BE-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303076",
+        "code": "BE-WHT",
+        "local_code": "WHT",
+        "name": "Hainaut Province",
         "continent": "EU",
         "iso_country": "BE",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hainaut_Province",
+        "keywords": "Wallonia, Walloon Region"
     }
 }
