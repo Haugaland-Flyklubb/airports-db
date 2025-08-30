@@ -1,0 +1,63 @@
+{
+    "id": "600154",
+    "ident": "SS6T",
+    "type": "small_airport",
+    "name": "MJ Marino Franz Airport",
+    "latitude_deg": "-12.367307",
+    "longitude_deg": "-56.252532",
+    "elevation_ft": "1280",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Ipiranga do Norte",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SS6T",
+    "local_code": "MT1130",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Mano Julio",
+    "runways": [
+        {
+            "id": "600155",
+            "airport_ref": "600154",
+            "airport_ident": "SS6T",
+            "length_ft": "2461",
+            "width_ft": "66",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303211",
+        "code": "BR-MT",
+        "local_code": "MT",
+        "name": "Mato Grosso",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
+        "keywords": "Airports in Mato Grosso"
+    }
+}
