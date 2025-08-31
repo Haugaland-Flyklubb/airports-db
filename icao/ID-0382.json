@@ -1,0 +1,39 @@
+{
+    "id": "600172",
+    "ident": "ID-0382",
+    "type": "small_airport",
+    "name": "Wetar Island Airport",
+    "latitude_deg": "-7.692954",
+    "longitude_deg": "126.305672",
+    "elevation_ft": "41",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-MA",
+    "municipality": "Maluku Barar Daya",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304114",
+        "code": "ID-MA",
+        "local_code": "MA",
+        "name": "Maluku",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maluku",
+        "keywords": "Airports in Maluku"
+    }
+}
