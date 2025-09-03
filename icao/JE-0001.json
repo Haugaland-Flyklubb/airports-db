@@ -1,0 +1,63 @@
+{
+    "id": "600211",
+    "ident": "JE-0001",
+    "type": "closed",
+    "name": "St Aubin's Bay Airfield",
+    "latitude_deg": "49.1875",
+    "longitude_deg": "-2.1706",
+    "elevation_ft": "98",
+    "continent": "EU",
+    "iso_country": "JE",
+    "iso_region": "JE-U-A",
+    "municipality": "St. Helier",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "https://www.abct.org.uk",
+    "wikipedia_link": "",
+    "keywords": "St. Aubin’s Bay Airfield, Jersey Airways, 1930s Beach Airport, St. Helier Aviation History, Channel Islands Aviation, ABCT Memorial, , SABA",
+    "runways": [
+        {
+            "id": "600212",
+            "airport_ref": "600211",
+            "airport_ident": "JE-0001",
+            "length_ft": "1500",
+            "width_ft": "300",
+            "surface": "Sand",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "",
+            "le_latitude_deg": "49.187",
+            "le_longitude_deg": "-2.172",
+            "le_elevation_ft": "98",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "49.188",
+            "he_longitude_deg": "-2.169",
+            "he_elevation_ft": "98",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302698",
+        "code": "JE",
+        "name": "Jersey",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jersey",
+        "keywords": "Airports in Jersey"
+    },
+    "region": {
+        "id": "304257",
+        "code": "JE-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "EU",
+        "iso_country": "JE",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
