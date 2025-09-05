@@ -1,0 +1,39 @@
+{
+    "id": "600240",
+    "ident": "BA-0015",
+    "type": "heliport",
+    "name": "Banja Luka Hospital Heliport",
+    "latitude_deg": "44.784259",
+    "longitude_deg": "17.175871",
+    "elevation_ft": "790",
+    "continent": "EU",
+    "iso_country": "BA",
+    "iso_region": "BA-SRP",
+    "municipality": "Banja Luka",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302675",
+        "code": "BA",
+        "name": "Bosnia and Herzegovina",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+        "keywords": "Bosnian airports"
+    },
+    "region": {
+        "id": "303053",
+        "code": "BA-SRP",
+        "local_code": "SRP",
+        "name": "Republika Srpska",
+        "continent": "EU",
+        "iso_country": "BA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Republika_Srpska",
+        "keywords": "Airports in Republika Srpska"
+    }
+}

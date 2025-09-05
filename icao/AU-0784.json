@@ -1,0 +1,39 @@
+{
+    "id": "600239",
+    "ident": "AU-0784",
+    "type": "heliport",
+    "name": "Wisemans Ferry Helicopter Landing Site",
+    "latitude_deg": "-33.3835",
+    "longitude_deg": "150.988667",
+    "elevation_ft": "6",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Wisemans Ferry",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "OZHFX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": "Airports in New South Wales"
+    }
+}
