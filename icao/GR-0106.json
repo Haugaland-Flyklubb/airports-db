@@ -1,0 +1,39 @@
+{
+    "id": "600275",
+    "ident": "GR-0106",
+    "type": "heliport",
+    "name": "Poros Heliport",
+    "latitude_deg": "37.505836",
+    "longitude_deg": "23.457475",
+    "elevation_ft": "16",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-I",
+    "municipality": "Poros",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Πόρος",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "353666",
+        "code": "GR-I",
+        "local_code": "I",
+        "name": "Attica",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Attica_(region)",
+        "keywords": "Airports in Attica"
+    }
+}

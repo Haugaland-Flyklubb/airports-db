@@ -1,0 +1,39 @@
+{
+    "id": "600271",
+    "ident": "GR-0105",
+    "type": "heliport",
+    "name": "Rethymno Heliport",
+    "latitude_deg": "35.366172",
+    "longitude_deg": "24.450402",
+    "elevation_ft": "76",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-M",
+    "municipality": "Rethymno",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Ρέθυμνο, Atsipopoulo, Ατσιπόπουλον",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "430180",
+        "code": "GR-M",
+        "local_code": "M",
+        "name": "Crete",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Crete#Administration",
+        "keywords": "Κρήτη"
+    }
+}
