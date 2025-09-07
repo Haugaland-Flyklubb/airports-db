@@ -18,6 +18,30 @@
     "home_link": "http://www.sfv-hoya.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Hoya",
     "keywords": "",
+    "runways": [
+        {
+            "id": "600280",
+            "airport_ref": "310081",
+            "airport_ident": "DE-0106",
+            "length_ft": "2296",
+            "width_ft": "98",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "119",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "299",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "568191",
