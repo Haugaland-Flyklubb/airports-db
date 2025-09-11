@@ -1,0 +1,39 @@
+{
+    "id": "600408",
+    "ident": "ESHD",
+    "type": "heliport",
+    "name": "Danderyds Hospital Heliport",
+    "latitude_deg": "59.391072",
+    "longitude_deg": "18.033473",
+    "elevation_ft": "5",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-AB",
+    "municipality": "Stockholm",
+    "scheduled_service": "no",
+    "icao_code": "ESHD",
+    "iata_code": "",
+    "gps_code": "ESHD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305411",
+        "code": "SE-AB",
+        "local_code": "AB",
+        "name": "Stockholms län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stockholms_län",
+        "keywords": "Stockholm County"
+    }
+}

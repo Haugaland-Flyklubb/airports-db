@@ -140,34 +140,42 @@
             "frequency_mhz": "120.9"
         },
         {
+            "id": "48704",
+            "airport_ref": "27064",
+            "airport_ident": "YMMB",
+            "type": "AWIS",
+            "description": "A/hours",
+            "frequency_mhz": "120.9"
+        },
+        {
             "id": "48702",
             "airport_ref": "27064",
             "airport_ident": "YMMB",
             "type": "CTAF",
-            "description": "CTAF",
+            "description": "When TWR not operating",
             "frequency_mhz": "118.1"
         },
         {
             "id": "48703",
             "airport_ref": "27064",
             "airport_ident": "YMMB",
-            "type": "FSS",
-            "description": "MOORABBIN CNTR",
-            "frequency_mhz": "120"
+            "type": "FIA",
+            "description": "Melb CNTR",
+            "frequency_mhz": "135.7"
         },
         {
-            "id": "48704",
+            "id": "600386",
             "airport_ref": "27064",
             "airport_ident": "YMMB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "119.9"
+            "type": "Fuel",
+            "description": "World Fuel",
+            "frequency_mhz": "121.65"
         },
         {
             "id": "430708",
             "airport_ref": "27064",
             "airport_ident": "YMMB",
-            "type": "GND",
+            "type": "SMC",
             "description": "",
             "frequency_mhz": "134.25"
         },
@@ -176,8 +184,16 @@
             "airport_ref": "27064",
             "airport_ident": "YMMB",
             "type": "TWR",
-            "description": "TWR",
+            "description": "East",
             "frequency_mhz": "118.1"
+        },
+        {
+            "id": "600385",
+            "airport_ref": "27064",
+            "airport_ident": "YMMB",
+            "type": "TWR",
+            "description": "West",
+            "frequency_mhz": "123"
         }
     ],
     "country": {

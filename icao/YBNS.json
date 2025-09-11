@@ -66,6 +66,14 @@
     ],
     "freqs": [
         {
+            "id": "600383",
+            "airport_ref": "26921",
+            "airport_ident": "YBNS",
+            "type": "AWIS",
+            "description": "",
+            "frequency_mhz": "133.725"
+        },
+        {
             "id": "48914",
             "airport_ref": "26921",
             "airport_ident": "YBNS",
@@ -80,6 +88,14 @@
             "type": "FSS",
             "description": "MELBOURNE CNTR",
             "frequency_mhz": "124"
+        },
+        {
+            "id": "600384",
+            "airport_ref": "26921",
+            "airport_ident": "YBNS",
+            "type": "PAL",
+            "description": "",
+            "frequency_mhz": "123.9"
         }
     ],
     "country": {

@@ -11,11 +11,11 @@
     "iso_region": "CL-LI",
     "municipality": "Pichilemu",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "SCPM",
     "iata_code": "",
     "gps_code": "SCPM",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://aipchile.dgac.gob.cl/aerodromo/show?designador=SCPM",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Pichilemu_Aerodrome",
     "keywords": "",
     "runways": [
@@ -23,23 +23,33 @@
             "id": "264975",
             "airport_ref": "39245",
             "airport_ident": "SCPM",
-            "length_ft": "2100",
+            "length_ft": "1939",
             "width_ft": "59",
-            "surface": "GRE",
+            "surface": "ASPH",
             "lighted": "0",
             "closed": "0",
-            "le_ident": "4",
+            "le_ident": "04",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
-            "le_elevation_ft": "",
+            "le_elevation_ft": "77",
             "le_heading_degT": "",
             "le_displaced_threshold_ft": "",
             "he_ident": "22",
             "he_latitude_deg": "",
             "he_longitude_deg": "",
-            "he_elevation_ft": "",
+            "he_elevation_ft": "115",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "600417",
+            "airport_ref": "39245",
+            "airport_ident": "SCPM",
+            "type": "TIBA",
+            "description": "",
+            "frequency_mhz": "118.2"
         }
     ],
     "country": {
