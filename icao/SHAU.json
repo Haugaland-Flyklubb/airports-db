@@ -2,16 +2,16 @@
     "id": "39333",
     "ident": "SHAU",
     "type": "heliport",
-    "name": "La Aurora Heliport",
-    "latitude_deg": "-33.42527770996094",
-    "longitude_deg": "-71.02305603027344",
-    "elevation_ft": "696",
+    "name": "Santa Rosa Heliport",
+    "latitude_deg": "-34.2552",
+    "longitude_deg": "-71.030606",
+    "elevation_ft": "971",
     "continent": "SA",
     "iso_country": "CL",
-    "iso_region": "CL-RM",
-    "municipality": "Curacavi",
+    "iso_region": "CL-LI",
+    "municipality": "Coltauco",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "SHAU",
     "iata_code": "",
     "gps_code": "SHAU",
     "local_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Aeropuertos de Chile"
     },
     "region": {
-        "id": "303407",
-        "code": "CL-RM",
-        "local_code": "RM",
-        "name": "Santiago Metropolitan Region",
+        "id": "303403",
+        "code": "CL-LI",
+        "local_code": "LI",
+        "name": "O'Higgins Region",
         "continent": "SA",
         "iso_country": "CL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_Metropolitan_Region",
-        "keywords": "Airports in Santiago Metropolitan Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/O'Higgins_Region",
+        "keywords": "VI Libertador General Bernardo O'Higgins Region"
     }
 }

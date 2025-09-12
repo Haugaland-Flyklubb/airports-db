@@ -1,0 +1,39 @@
+{
+    "id": "600435",
+    "ident": "SHAV",
+    "type": "heliport",
+    "name": "Alta Vista Heliport",
+    "latitude_deg": "-32.621739",
+    "longitude_deg": "-71.399487",
+    "elevation_ft": "440",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-VS",
+    "municipality": "Zapallar",
+    "scheduled_service": "no",
+    "icao_code": "SHAV",
+    "iata_code": "",
+    "gps_code": "SHAV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303410",
+        "code": "CL-VS",
+        "local_code": "VS",
+        "name": "Valparaíso Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valparaíso_Region",
+        "keywords": "Airports in Valparaíso Region"
+    }
+}

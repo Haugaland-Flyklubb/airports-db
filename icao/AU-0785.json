@@ -1,0 +1,39 @@
+{
+    "id": "600436",
+    "ident": "AU-0785",
+    "type": "small_airport",
+    "name": "Woodstock Station",
+    "latitude_deg": "-19.358723",
+    "longitude_deg": "142.756948",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "YWSN",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": "Airports in Queensland"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "600431",
+    "ident": "SHAD",
+    "type": "heliport",
+    "name": "Matanzas Heliport",
+    "latitude_deg": "-33.967431",
+    "longitude_deg": "-71.853008",
+    "elevation_ft": "407",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-LI",
+    "municipality": "Navidad",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SHAD",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303403",
+        "code": "CL-LI",
+        "local_code": "LI",
+        "name": "O'Higgins Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/O'Higgins_Region",
+        "keywords": "VI Libertador General Bernardo O'Higgins Region"
+    }
+}
