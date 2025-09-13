@@ -1,0 +1,63 @@
+{
+    "id": "600463",
+    "ident": "VDTI",
+    "type": "large_airport",
+    "name": "Techo International Airport",
+    "latitude_deg": "11.362917",
+    "longitude_deg": "104.916611",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "KH",
+    "iso_region": "KH-8",
+    "municipality": "Phnom Penh",
+    "scheduled_service": "yes",
+    "icao_code": "VDTI",
+    "iata_code": "KTI",
+    "gps_code": "VDTI",
+    "local_code": "",
+    "home_link": "http://www.techoairport.com.kh/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Techo_International_Airport_(Cambodia)",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "600464",
+            "airport_ref": "600463",
+            "airport_ident": "VDTI",
+            "length_ft": "13123",
+            "width_ft": "180",
+            "surface": "concrete",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "11.34773",
+            "le_longitude_deg": "104.90775",
+            "le_elevation_ft": "26",
+            "le_heading_degT": "49",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "11.37228",
+            "he_longitude_deg": "104.93471",
+            "he_elevation_ft": "20",
+            "he_heading_degT": "229",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302641",
+        "code": "KH",
+        "name": "Cambodia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cambodia",
+        "keywords": "Cambodian airports"
+    },
+    "region": {
+        "id": "304374",
+        "code": "KH-8",
+        "local_code": "8",
+        "name": "Kandal province",
+        "continent": "AS",
+        "iso_country": "KH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kandal_province",
+        "keywords": "Airports in Kandaal, កណ្ដាល"
+    }
+}
