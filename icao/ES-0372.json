@@ -1,0 +1,39 @@
+{
+    "id": "600498",
+    "ident": "ES-0372",
+    "type": "heliport",
+    "name": "Helipuerto de Emergencias de Alzira",
+    "latitude_deg": "39.155154",
+    "longitude_deg": "-0.44138",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-VC",
+    "municipality": "Alzira",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303782",
+        "code": "ES-VC",
+        "local_code": "VC",
+        "name": "Valencia (community)",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valencian_Community",
+        "keywords": "Valencian airports, Valencian Community"
+    }
+}
