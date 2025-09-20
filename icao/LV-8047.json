@@ -1,0 +1,63 @@
+{
+    "id": "600577",
+    "ident": "LV-8047",
+    "type": "closed",
+    "name": "Durbe Airfield",
+    "latitude_deg": "56.587974",
+    "longitude_deg": "21.329041",
+    "elevation_ft": "148",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-112",
+    "municipality": "Durbe",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://lv.m.wikipedia.org/wiki/Durbes_lidlauks",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "600589",
+            "airport_ref": "600577",
+            "airport_ident": "LV-8047",
+            "length_ft": "1312",
+            "width_ft": "66",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302702",
+        "code": "LV",
+        "name": "Latvia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
+        "keywords": "Latvian airports"
+    },
+    "region": {
+        "id": "353736",
+        "code": "LV-112",
+        "local_code": "112",
+        "name": "South Kurzeme Municipality",
+        "continent": "EU",
+        "iso_country": "LV",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Kurzeme_Municipality",
+        "keywords": "Airports in South Kurzeme Municipality"
+    }
+}

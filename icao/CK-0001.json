@@ -1,0 +1,39 @@
+{
+    "id": "600591",
+    "ident": "CK-0001",
+    "type": "closed",
+    "name": "Nassau Airport",
+    "latitude_deg": "-11.560277",
+    "longitude_deg": "-165.41498",
+    "elevation_ft": "52",
+    "continent": "OC",
+    "iso_country": "CK",
+    "iso_region": "CK-U-A",
+    "municipality": "Nassau Island",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "NCNS",
+    "country": {
+        "id": "302765",
+        "code": "CK",
+        "name": "Cook Islands",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cook_Islands",
+        "keywords": "Airports in Cook Islands"
+    },
+    "region": {
+        "id": "303396",
+        "code": "CK-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "CK",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
