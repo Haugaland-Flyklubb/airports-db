@@ -1,8 +1,8 @@
 {
     "id": "360",
     "ident": "SNOB",
-    "type": "small_airport",
-    "name": "Sobral Airport",
+    "type": "closed",
+    "name": "Sobral Public Airport",
     "latitude_deg": "-3.67889",
     "longitude_deg": "-40.336802",
     "elevation_ft": "210",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "SNOB",
-    "local_code": "CE0013",
+    "gps_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Sobral_Airport",
-    "keywords": "QBX, Cel. Virgílio Távora",
+    "keywords": "SNOB, CE0013, JSO, QBX, Cel. Virgílio Távora",
     "runways": [
         {
             "id": "234352",
