@@ -1,0 +1,39 @@
+{
+    "id": "600625",
+    "ident": "ZYYC",
+    "type": "small_airport",
+    "name": "Yichun Airport",
+    "latitude_deg": "47.717936",
+    "longitude_deg": "128.830519",
+    "elevation_ft": "798",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-23",
+    "municipality": "Yichun",
+    "scheduled_service": "no",
+    "icao_code": "ZYYC",
+    "iata_code": "",
+    "gps_code": "ZYYC",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LDS",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303429",
+        "code": "CN-23",
+        "local_code": "23",
+        "name": "Heilongjiang Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Heilongjiang",
+        "keywords": "Airports in Heilongjiang Province"
+    }
+}
