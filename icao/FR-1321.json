@@ -1,0 +1,39 @@
+{
+    "id": "600734",
+    "ident": "FR-1321",
+    "type": "heliport",
+    "name": "Château de Champlâtreux",
+    "latitude_deg": "49.08615",
+    "longitude_deg": "2.408645",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-IDF",
+    "municipality": "Épinay-Champlâtreux",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306342",
+        "code": "FR-IDF",
+        "local_code": "IDF",
+        "name": "Île-de-France",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Île-de-France",
+        "keywords": "Airports in Île-de-France"
+    }
+}

@@ -44,12 +44,20 @@
     ],
     "freqs": [
         {
+            "id": "600733",
+            "airport_ref": "4221",
+            "airport_ident": "LFRS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124.25"
+        },
+        {
             "id": "52431",
             "airport_ref": "4221",
             "airport_ident": "LFRS",
             "type": "APP",
             "description": "APP",
-            "frequency_mhz": "130.275"
+            "frequency_mhz": "124.43"
         },
         {
             "id": "52432",
@@ -57,7 +65,7 @@
             "airport_ident": "LFRS",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "126.925"
+            "frequency_mhz": "126.93"
         },
         {
             "id": "52433",
@@ -65,7 +73,7 @@
             "airport_ident": "LFRS",
             "type": "GND",
             "description": "GND",
-            "frequency_mhz": "121.875"
+            "frequency_mhz": "121.655"
         },
         {
             "id": "52434",
@@ -73,7 +81,7 @@
             "airport_ident": "LFRS",
             "type": "INFO",
             "description": "INFO",
-            "frequency_mhz": "129.875"
+            "frequency_mhz": "130.275"
         },
         {
             "id": "52435",
