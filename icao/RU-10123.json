@@ -1,0 +1,39 @@
+{
+    "id": "600753",
+    "ident": "RU-10123",
+    "type": "heliport",
+    "name": "Peremykino Heliport",
+    "latitude_deg": "53.173157",
+    "longitude_deg": "124.756639",
+    "elevation_ft": "1065",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AMU",
+    "municipality": "Peremykino",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "HC6K",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ХЦ6К, Перемыкино",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305265",
+        "code": "RU-AMU",
+        "local_code": "AMU",
+        "name": "Amur Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amur_Oblast",
+        "keywords": "Airports in Amur Oblast"
+    }
+}
