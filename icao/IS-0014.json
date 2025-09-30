@@ -1,0 +1,39 @@
+{
+    "id": "600786",
+    "ident": "IS-0014",
+    "type": "small_airport",
+    "name": "Möðrudalur",
+    "latitude_deg": "65.384167",
+    "longitude_deg": "-15.904444",
+    "elevation_ft": "1475",
+    "continent": "EU",
+    "iso_country": "IS",
+    "iso_region": "IS-7",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "BI55",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302696",
+        "code": "IS",
+        "name": "Iceland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iceland",
+        "keywords": "Icelandic airports"
+    },
+    "region": {
+        "id": "304253",
+        "code": "IS-7",
+        "local_code": "7",
+        "name": "Eastern Region",
+        "continent": "EU",
+        "iso_country": "IS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Region_(Iceland)",
+        "keywords": "Austurland"
+    }
+}
