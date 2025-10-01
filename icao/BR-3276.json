@@ -1,0 +1,63 @@
+{
+    "id": "600839",
+    "ident": "BR-3276",
+    "type": "small_airport",
+    "name": "Fazenda Terra Preta Airport",
+    "latitude_deg": "-0.876254",
+    "longitude_deg": "-61.933147",
+    "elevation_ft": "131",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RR",
+    "municipality": "Caracaraí",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SS7C",
+    "local_code": "RR0162",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "600840",
+            "airport_ref": "600839",
+            "airport_ident": "BR-3276",
+            "length_ft": "2953",
+            "width_ft": "59",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303220",
+        "code": "BR-RR",
+        "local_code": "RR",
+        "name": "Roraima",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Roraima",
+        "keywords": "Airports in Roraima"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "600813",
+    "ident": "SS6V",
+    "type": "small_airport",
+    "name": "Serra Vermelha Airport",
+    "latitude_deg": "-9.687297",
+    "longitude_deg": "-44.231434",
+    "elevation_ft": "2067",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PI",
+    "municipality": "Curimatá",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SS6V",
+    "local_code": "PI0058",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "600814",
+            "airport_ref": "600813",
+            "airport_ident": "SS6V",
+            "length_ft": "3938",
+            "width_ft": "66",
+            "surface": "Piçarra",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303215",
+        "code": "BR-PI",
+        "local_code": "PI",
+        "name": "Piauí",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Piauí",
+        "keywords": "Airports in Piauí"
+    }
+}

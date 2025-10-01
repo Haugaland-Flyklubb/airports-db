@@ -1,0 +1,63 @@
+{
+    "id": "600822",
+    "ident": "SS72",
+    "type": "heliport",
+    "name": "Cimatec Park Heliport",
+    "latitude_deg": "-12.708442",
+    "longitude_deg": "-38.176489",
+    "elevation_ft": "115",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Camaçari",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SS72",
+    "local_code": "BA0475",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "600823",
+            "airport_ref": "600822",
+            "airport_ident": "SS72",
+            "length_ft": "79",
+            "width_ft": "79",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303203",
+        "code": "BR-BA",
+        "local_code": "BA",
+        "name": "Bahia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
+        "keywords": "Airports in Bahia"
+    }
+}
