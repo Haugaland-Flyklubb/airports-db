@@ -1,0 +1,39 @@
+{
+    "id": "600941",
+    "ident": "UA-9887",
+    "type": "heliport",
+    "name": "Kiev - Gora Heliport",
+    "latitude_deg": "50.365525",
+    "longitude_deg": "30.838816",
+    "elevation_ft": "423",
+    "continent": "EU",
+    "iso_country": "UA",
+    "iso_region": "UA-30",
+    "municipality": "Gora",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "HGQ3, ХГЯ3, Гора",
+    "country": {
+        "id": "302719",
+        "code": "UA",
+        "name": "Ukraine",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
+        "keywords": "Аеропорти України"
+    },
+    "region": {
+        "id": "305990",
+        "code": "UA-30",
+        "local_code": "30",
+        "name": "Kyiv (city)",
+        "continent": "EU",
+        "iso_country": "UA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyiv",
+        "keywords": "Kiev"
+    }
+}
