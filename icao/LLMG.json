@@ -15,7 +15,7 @@
     "iata_code": "",
     "gps_code": "LLMG",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://www.megido-air.co.il/about-6",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Megiddo_Airport",
     "keywords": "",
     "runways": [
@@ -24,41 +24,25 @@
             "airport_ref": "4420",
             "airport_ident": "LLMG",
             "length_ft": "6982",
-            "width_ft": "70",
+            "width_ft": "78",
             "surface": "ASP",
             "lighted": "0",
             "closed": "0",
             "le_ident": "09",
-            "le_latitude_deg": "32.597599",
-            "le_longitude_deg": "35.216099",
+            "le_latitude_deg": "32.597333",
+            "le_longitude_deg": "35.219653",
             "le_elevation_ft": "200",
             "le_heading_degT": "85",
             "le_displaced_threshold_ft": "820",
             "he_ident": "27",
-            "he_latitude_deg": "32.597",
-            "he_longitude_deg": "35.241501",
+            "he_latitude_deg": "32.596939",
+            "he_longitude_deg": "35.240458",
             "he_elevation_ft": "177",
             "he_heading_degT": "265",
             "he_displaced_threshold_ft": ""
         }
     ],
     "freqs": [
-        {
-            "id": "54136",
-            "airport_ref": "4420",
-            "airport_ident": "LLMG",
-            "type": "ACC",
-            "description": "TEL AVIV CON",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "54137",
-            "airport_ref": "4420",
-            "airport_ident": "LLMG",
-            "type": "ACC",
-            "description": "TEL AVIV EAST",
-            "frequency_mhz": "132.05"
-        },
         {
             "id": "539573",
             "airport_ref": "4420",

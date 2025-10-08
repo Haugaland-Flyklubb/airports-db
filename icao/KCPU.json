@@ -44,6 +44,14 @@
     ],
     "freqs": [
         {
+            "id": "600963",
+            "airport_ref": "19542",
+            "airport_ident": "KCPU",
+            "type": "APRCH",
+            "description": "Norcal Approach/Departure",
+            "frequency_mhz": "125.1"
+        },
+        {
             "id": "65898",
             "airport_ref": "19542",
             "airport_ident": "KCPU",
@@ -60,20 +68,20 @@
             "frequency_mhz": "126.85"
         },
         {
+            "id": "65901",
+            "airport_ref": "19542",
+            "airport_ident": "KCPU",
+            "type": "CTAF",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        },
+        {
             "id": "65900",
             "airport_ref": "19542",
             "airport_ident": "KCPU",
             "type": "FSS",
             "description": "RANCHO RDO",
             "frequency_mhz": "122.3"
-        },
-        {
-            "id": "65901",
-            "airport_ref": "19542",
-            "airport_ident": "KCPU",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
         }
     ],
     "country": {

@@ -42,6 +42,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "600977",
+            "airport_ref": "34928",
+            "airport_ident": "LLFK",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.55"
+        }
+    ],
     "country": {
         "id": "302633",
         "code": "IL",
