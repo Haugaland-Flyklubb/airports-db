@@ -1,21 +1,21 @@
 {
-    "id": "601024",
-    "ident": "VN-0077",
-    "type": "medium_airport",
-    "name": "pg88cocom",
-    "latitude_deg": "23",
-    "longitude_deg": "102",
+    "id": "601036",
+    "ident": "VN-0079",
+    "type": "large_airport",
+    "name": "fun888itcom",
+    "latitude_deg": "24",
+    "longitude_deg": "105",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "VN",
-    "iso_region": "VN-CH",
-    "municipality": "",
+    "iso_region": "VN-U-A",
+    "municipality": "Hà Nội, Vietnam",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
     "gps_code": "",
     "local_code": "",
-    "home_link": "https://pg88.co.com/",
+    "home_link": "https://fun888.it.com/",
     "wikipedia_link": "",
     "keywords": "",
     "country": {
@@ -27,13 +27,13 @@
         "keywords": "Các sân bay của Việt Nam"
     },
     "region": {
-        "id": "351367",
-        "code": "VN-CH",
-        "local_code": "CH",
-        "name": "Central Highlands Region",
+        "id": "306254",
+        "code": "VN-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
         "continent": "AS",
         "iso_country": "VN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Highlands_(Vietnam)",
-        "keywords": "Airports in Central Highlands Region"
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
     }
 }
