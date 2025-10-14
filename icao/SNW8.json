@@ -1,0 +1,39 @@
+{
+    "id": "601060",
+    "ident": "SNW8",
+    "type": "small_airport",
+    "name": "Fazenda Santo Antônio Airport",
+    "latitude_deg": "-27.757578",
+    "longitude_deg": "-53.8124",
+    "elevation_ft": "1651",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Campo Novo",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SNW8",
+    "local_code": "RS0205",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303221",
+        "code": "BR-RS",
+        "local_code": "RS",
+        "name": "Rio Grande do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
+        "keywords": "Airports in Rio Grande do Sul"
+    }
+}
