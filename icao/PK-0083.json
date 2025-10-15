@@ -1,8 +1,8 @@
 {
     "id": "31704",
     "ident": "PK-0083",
-    "type": "closed",
-    "name": "Jiwani Airport",
+    "type": "small_airport",
+    "name": "Jiwani Airport (INACTIVE}",
     "latitude_deg": "25.067801",
     "longitude_deg": "61.805401",
     "elevation_ft": "186",
@@ -11,13 +11,13 @@
     "iso_region": "PK-BA",
     "municipality": "Jiwani",
     "scheduled_service": "yes",
-    "icao_code": "",
-    "iata_code": "",
-    "gps_code": "",
+    "icao_code": "OPJI",
+    "iata_code": "JIW",
+    "gps_code": "OPJI",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Jiwani_Airport",
-    "keywords": "OPJI, JIW",
+    "keywords": "",
     "runways": [
         {
             "id": "260181",
