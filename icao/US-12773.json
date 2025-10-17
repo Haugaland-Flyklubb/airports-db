@@ -1,15 +1,15 @@
 {
-    "id": "341489",
-    "ident": "US-3247",
-    "type": "small_airport",
-    "name": "Bill Rogers Airport",
-    "latitude_deg": "33.35731",
-    "longitude_deg": "-93.71983",
-    "elevation_ft": "230",
+    "id": "601093",
+    "ident": "US-12773",
+    "type": "closed",
+    "name": "Rabbit Creek Airport",
+    "latitude_deg": "61.07977",
+    "longitude_deg": "-149.827445",
+    "elevation_ft": "35",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-AR",
-    "municipality": "Garland City",
+    "iso_region": "US-AK",
+    "municipality": "Anchorage",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -17,7 +17,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "AR16",
+    "keywords": "AK92",
     "country": {
         "id": "302755",
         "code": "US",
@@ -27,13 +27,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306078",
-        "code": "US-AR",
-        "local_code": "AR",
-        "name": "Arkansas",
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
-        "keywords": "Airports in Arkansas"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": "Airports in Alaska"
     }
 }
