@@ -5,7 +5,7 @@
     "name": "Nordhausen Airfield",
     "latitude_deg": "51.493475",
     "longitude_deg": "10.837562",
-    "elevation_ft": "",
+    "elevation_ft": "689",
     "continent": "EU",
     "iso_country": "DE",
     "iso_region": "DE-TH",
@@ -18,6 +18,30 @@
     "home_link": "https://www.fliegerclub-nordhausen.com/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Nordhausen",
     "keywords": "Flugplatz Nordhausen, Sonderlandeplatz Nordhausen",
+    "runways": [
+        {
+            "id": "601123",
+            "airport_ref": "505079",
+            "airport_ident": "EDAO",
+            "length_ft": "2936",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "99",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "279",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "511828",

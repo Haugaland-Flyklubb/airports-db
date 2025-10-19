@@ -5,7 +5,7 @@
     "name": "Gera-Leumnitz Airfield",
     "latitude_deg": "50.881668",
     "longitude_deg": "12.135833",
-    "elevation_ft": "1014",
+    "elevation_ft": "1015",
     "continent": "EU",
     "iso_country": "DE",
     "iso_region": "DE-TH",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "gps_code": "EDAJ",
     "local_code": "",
-    "home_link": "http://www.flugplatz-gera.com/",
+    "home_link": "https://www.flugplatz-gera.de/",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Gera-Leumnitz",
     "keywords": "Flugplatz Gera-Leumnitz",
     "runways": [
@@ -23,7 +23,7 @@
             "id": "264030",
             "airport_ref": "28569",
             "airport_ident": "EDAJ",
-            "length_ft": "2460",
+            "length_ft": "3002",
             "width_ft": "79",
             "surface": "ASPH",
             "lighted": "0",
@@ -32,14 +32,14 @@
             "le_latitude_deg": "",
             "le_longitude_deg": "",
             "le_elevation_ft": "",
-            "le_heading_degT": "",
+            "le_heading_degT": "59",
             "le_displaced_threshold_ft": "",
             "he_ident": "24",
             "he_latitude_deg": "",
             "he_longitude_deg": "",
             "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
+            "he_heading_degT": "239",
+            "he_displaced_threshold_ft": "344"
         }
     ],
     "freqs": [
