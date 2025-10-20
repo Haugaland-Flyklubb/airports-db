@@ -5,7 +5,7 @@
     "name": "Nardt Airfield",
     "latitude_deg": "51.451111",
     "longitude_deg": "14.199444",
-    "elevation_ft": "384",
+    "elevation_ft": "382",
     "continent": "EU",
     "iso_country": "DE",
     "iso_region": "DE-SN",
@@ -15,9 +15,33 @@
     "iata_code": "",
     "gps_code": "EDAT",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://www.flugplatz-nardt.de/index.html",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Nardt",
     "keywords": "",
+    "runways": [
+        {
+            "id": "601131",
+            "airport_ref": "28655",
+            "airport_ident": "EDAT",
+            "length_ft": "3117",
+            "width_ft": "131",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "74",
+            "le_displaced_threshold_ft": "1096",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "254",
+            "he_displaced_threshold_ft": "262"
+        }
+    ],
     "freqs": [
         {
             "id": "571820",

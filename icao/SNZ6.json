@@ -1,0 +1,63 @@
+{
+    "id": "601150",
+    "ident": "SNZ6",
+    "type": "small_airport",
+    "name": "Fazenda Canaã Airport",
+    "latitude_deg": "-12.058083",
+    "longitude_deg": "-61.511473",
+    "elevation_ft": "1028",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RO",
+    "municipality": "São Felipe d'Oeste",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SNZ6",
+    "local_code": "RO0108",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Fazenda Sorocabana",
+    "runways": [
+        {
+            "id": "601151",
+            "airport_ref": "601150",
+            "airport_ident": "SNZ6",
+            "length_ft": "3937",
+            "width_ft": "59",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303219",
+        "code": "BR-RO",
+        "local_code": "RO",
+        "name": "Rondônia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rondônia",
+        "keywords": "Airports in Rondônia"
+    }
+}
