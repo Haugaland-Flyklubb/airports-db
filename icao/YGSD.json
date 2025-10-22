@@ -1,0 +1,39 @@
+{
+    "id": "601179",
+    "ident": "YGSD",
+    "type": "small_airport",
+    "name": "Greenside Airstrip",
+    "latitude_deg": "-31.52384",
+    "longitude_deg": "115.940439",
+    "elevation_ft": "184",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Muchea",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "YGSD",
+    "local_code": "",
+    "home_link": "https://www.grfc.asn.au/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": "Western Australian airports"
+    }
+}
