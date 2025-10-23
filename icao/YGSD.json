@@ -18,6 +18,40 @@
     "home_link": "https://www.grfc.asn.au/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "601195",
+            "airport_ref": "601179",
+            "airport_ident": "YGSD",
+            "length_ft": "4429",
+            "width_ft": "66",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "601194",
+            "airport_ref": "601179",
+            "airport_ident": "YGSD",
+            "type": "CTAF",
+            "description": "Pearce Tower",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",
