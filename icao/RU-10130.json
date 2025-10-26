@@ -1,0 +1,39 @@
+{
+    "id": "601235",
+    "ident": "RU-10130",
+    "type": "small_airport",
+    "name": "Koslan Airport",
+    "latitude_deg": "63.474207",
+    "longitude_deg": "48.845987",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KO",
+    "municipality": "Koslan",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305294",
+        "code": "RU-KO",
+        "local_code": "KO",
+        "name": "Komi Republic",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Komi_Republic",
+        "keywords": "Airports in Komi Republic"
+    }
+}

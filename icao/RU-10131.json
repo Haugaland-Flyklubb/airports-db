@@ -1,0 +1,39 @@
+{
+    "id": "601236",
+    "ident": "RU-10131",
+    "type": "small_airport",
+    "name": "Troitsko-Pechorsk Airport",
+    "latitude_deg": "62.7319",
+    "longitude_deg": "56.19629",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KO",
+    "municipality": "Troitsko-Pechorsk",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305294",
+        "code": "RU-KO",
+        "local_code": "KO",
+        "name": "Komi Republic",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Komi_Republic",
+        "keywords": "Airports in Komi Republic"
+    }
+}
