@@ -1,0 +1,63 @@
+{
+    "id": "601280",
+    "ident": "SS7N",
+    "type": "small_airport",
+    "name": "Fazenda Aliança Airport",
+    "latitude_deg": "-8.244556",
+    "longitude_deg": "-44.986467",
+    "elevation_ft": "1739",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PI",
+    "municipality": "Baixa Grande do Ribeiro",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SS7N",
+    "local_code": "PI0119",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "601281",
+            "airport_ref": "601280",
+            "airport_ident": "SS7N",
+            "length_ft": "4595",
+            "width_ft": "66",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303215",
+        "code": "BR-PI",
+        "local_code": "PI",
+        "name": "Piauí",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Piauí",
+        "keywords": "Airports in Piauí"
+    }
+}

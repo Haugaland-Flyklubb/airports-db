@@ -1,0 +1,63 @@
+{
+    "id": "601262",
+    "ident": "SS7E",
+    "type": "small_airport",
+    "name": "Fazenda Santa Beatriz Airport",
+    "latitude_deg": "-16.321419",
+    "longitude_deg": "-46.223564",
+    "elevation_ft": "2930",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Riachinho",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SS7E",
+    "local_code": "MG0644",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "601265",
+            "airport_ref": "601262",
+            "airport_ident": "SS7E",
+            "length_ft": "3282",
+            "width_ft": "59",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303209",
+        "code": "BR-MG",
+        "local_code": "MG",
+        "name": "Minas Gerais",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
+        "keywords": "Airports in Minas Gerais"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "601263",
+    "ident": "SS7F",
+    "type": "small_airport",
+    "name": "Fazenda Mata do Lobo Airport",
+    "latitude_deg": "-18.130484",
+    "longitude_deg": "-50.724837",
+    "elevation_ft": "2779",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Rio Verde",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SS7F",
+    "local_code": "GO0398",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "601264",
+            "airport_ref": "601263",
+            "airport_ident": "SS7F",
+            "length_ft": "2951",
+            "width_ft": "59",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303207",
+        "code": "BR-GO",
+        "local_code": "GO",
+        "name": "Goiás",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
+        "keywords": "Airports in Goiás"
+    }
+}
