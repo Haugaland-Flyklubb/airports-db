@@ -1,0 +1,63 @@
+{
+    "id": "601341",
+    "ident": "US-12776",
+    "type": "seaplane_base",
+    "name": "Stiner Cove Seaplane Base",
+    "latitude_deg": "36.393485",
+    "longitude_deg": "-83.839662",
+    "elevation_ft": "1004",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TN",
+    "municipality": "Sharps Chapel",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "3TN2",
+    "local_code": "3TN2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "601342",
+            "airport_ref": "601341",
+            "airport_ident": "US-12776",
+            "length_ft": "3000",
+            "width_ft": "100",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306118",
+        "code": "US-TN",
+        "local_code": "TN",
+        "name": "Tennessee",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
+        "keywords": "Airports in Tennessee"
+    }
+}
