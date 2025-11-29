@@ -1,0 +1,39 @@
+{
+    "id": "601537",
+    "ident": "VE-0362",
+    "type": "heliport",
+    "name": "Escuela Naval Píritu HLS",
+    "latitude_deg": "10.068509",
+    "longitude_deg": "-65.028711",
+    "elevation_ft": "49",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "Puerto Píritu",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVB9Y",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306166",
+        "code": "VE-B",
+        "local_code": "B",
+        "name": "Anzoátegui State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Anzo%C3%A1tegui",
+        "keywords": "Airports in Anzoátegui State"
+    }
+}

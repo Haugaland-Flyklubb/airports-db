@@ -1,0 +1,39 @@
+{
+    "id": "601653",
+    "ident": "VE-0417",
+    "type": "heliport",
+    "name": "PoliGuanipa HLS",
+    "latitude_deg": "8.87181",
+    "longitude_deg": "-64.174121",
+    "elevation_ft": "853",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "San José de Guanipa",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306166",
+        "code": "VE-B",
+        "local_code": "B",
+        "name": "Anzoátegui State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Anzo%C3%A1tegui",
+        "keywords": "Airports in Anzoátegui State"
+    }
+}

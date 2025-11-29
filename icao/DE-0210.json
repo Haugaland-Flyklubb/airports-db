@@ -18,6 +18,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "601942",
+            "airport_ref": "315471",
+            "airport_ident": "DE-0210",
+            "length_ft": "1755",
+            "width_ft": "100",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "51.100769",
+            "le_longitude_deg": "6.389818",
+            "le_elevation_ft": "230",
+            "le_heading_degT": "83",
+            "le_displaced_threshold_ft": "1",
+            "he_ident": "26",
+            "he_latitude_deg": "51.101373",
+            "he_longitude_deg": "6.397383",
+            "he_elevation_ft": "226",
+            "he_heading_degT": "263",
+            "he_displaced_threshold_ft": "1"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "601943",
+            "airport_ref": "315471",
+            "airport_ident": "DE-0210",
+            "type": "RADIO",
+            "description": "WANLO SEGELFLUG",
+            "frequency_mhz": "132.565"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

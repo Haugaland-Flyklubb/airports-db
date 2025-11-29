@@ -1,0 +1,63 @@
+{
+    "id": "601554",
+    "ident": "88GA",
+    "type": "small_airport",
+    "name": "Epic Field",
+    "latitude_deg": "32.752292",
+    "longitude_deg": "-84.801902",
+    "elevation_ft": "774",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Hamilton",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "88GA",
+    "local_code": "88GA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "601555",
+            "airport_ref": "601554",
+            "airport_ident": "88GA",
+            "length_ft": "2000",
+            "width_ft": "75",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "2",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": "Airports in Georgia"
+    }
+}

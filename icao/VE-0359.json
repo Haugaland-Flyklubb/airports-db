@@ -1,0 +1,39 @@
+{
+    "id": "601534",
+    "ident": "VE-0359",
+    "type": "heliport",
+    "name": "Cuartel Bacazaraza HLS",
+    "latitude_deg": "10.143602",
+    "longitude_deg": "-64.691109",
+    "elevation_ft": "12",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "Barcelona",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306166",
+        "code": "VE-B",
+        "local_code": "B",
+        "name": "Anzoátegui State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Anzo%C3%A1tegui",
+        "keywords": "Airports in Anzoátegui State"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "601410",
+    "ident": "VE-0262",
+    "type": "small_airport",
+    "name": "Campamento Nawahitón Runway",
+    "latitude_deg": "4.871984",
+    "longitude_deg": "-61.267319",
+    "elevation_ft": "3261",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Campamento Nawahitón",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "601432",
+            "airport_ref": "601410",
+            "airport_ident": "VE-0262",
+            "length_ft": "2167",
+            "width_ft": "30",
+            "surface": "ground",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306170",
+        "code": "VE-F",
+        "local_code": "F",
+        "name": "Bolívar State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
+        "keywords": "Airports in Bolívar State"
+    }
+}

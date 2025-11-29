@@ -1,0 +1,39 @@
+{
+    "id": "601688",
+    "ident": "VE-0438",
+    "type": "heliport",
+    "name": "GN Los Caracas HLS",
+    "latitude_deg": "10.626903",
+    "longitude_deg": "-66.577226",
+    "elevation_ft": "7",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-X",
+    "municipality": "Los Caracas",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SV0UY",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306188",
+        "code": "VE-X",
+        "local_code": "X",
+        "name": "La Guaira State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Guaira_(state)",
+        "keywords": "Vargas State"
+    }
+}

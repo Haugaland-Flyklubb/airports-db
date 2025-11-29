@@ -1,0 +1,39 @@
+{
+    "id": "601777",
+    "ident": "VE-0489",
+    "type": "heliport",
+    "name": "Hospital Naval HLS",
+    "latitude_deg": "10.47588",
+    "longitude_deg": "-67.976219",
+    "elevation_ft": "6",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-G",
+    "municipality": "Puerto Cabello",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVFY7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306171",
+        "code": "VE-G",
+        "local_code": "G",
+        "name": "Carabobo State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Carabobo",
+        "keywords": "Airports in Carabobo State"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "601679",
+    "ident": "VE-0429",
+    "type": "heliport",
+    "name": "Bomberos de Barlovento HLS",
+    "latitude_deg": "10.305455",
+    "longitude_deg": "-65.992794",
+    "elevation_ft": "16",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-M",
+    "municipality": "San José de Barlovento",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SV9SC",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306177",
+        "code": "VE-M",
+        "local_code": "M",
+        "name": "Miranda State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Miranda_(state)",
+        "keywords": "Airports in Miranda State"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "602262",
+    "ident": "EKAO",
+    "type": "heliport",
+    "name": "Ærø Heliport",
+    "latitude_deg": "54.89068",
+    "longitude_deg": "10.398566",
+    "elevation_ft": "50",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-83",
+    "municipality": "Ærøskøbing",
+    "scheduled_service": "no",
+    "icao_code": "EKAO",
+    "iata_code": "",
+    "gps_code": "EKAO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302682",
+        "code": "DK",
+        "name": "Denmark",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
+        "keywords": "Lufthavnene i Danmark"
+    },
+    "region": {
+        "id": "306327",
+        "code": "DK-83",
+        "local_code": "83",
+        "name": "South Denmark",
+        "continent": "EU",
+        "iso_country": "DK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Denmark",
+        "keywords": "Syddanmark"
+    }
+}

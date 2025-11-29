@@ -1,0 +1,39 @@
+{
+    "id": "601486",
+    "ident": "VE-0312",
+    "type": "heliport",
+    "name": "GN Paramaconí HLS",
+    "latitude_deg": "9.725184",
+    "longitude_deg": "-63.218379",
+    "elevation_ft": "262",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-N",
+    "municipality": "Maturín",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVS5C",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306178",
+        "code": "VE-N",
+        "local_code": "N",
+        "name": "Monagas State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Monagas",
+        "keywords": "Airports in Monagas State"
+    }
+}

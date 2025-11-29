@@ -13,7 +13,7 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "SD20",
+    "gps_code": "",
     "local_code": "SD20",
     "home_link": "",
     "wikipedia_link": "",
@@ -40,6 +40,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "602022",
+            "airport_ref": "337248",
+            "airport_ident": "SD20",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.9"
         }
     ],
     "country": {

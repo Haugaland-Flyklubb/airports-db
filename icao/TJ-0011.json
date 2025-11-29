@@ -1,0 +1,63 @@
+{
+    "id": "601910",
+    "ident": "TJ-0011",
+    "type": "medium_airport",
+    "name": "Khovaling Airport",
+    "latitude_deg": "38.364134",
+    "longitude_deg": "69.986299",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TJ",
+    "iso_region": "TJ-KT",
+    "municipality": "Khovilling",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://www.youtube.com/watch?v=auSCo5GJxUs&t=1539s",
+    "keywords": "Ховалинг",
+    "runways": [
+        {
+            "id": "601937",
+            "airport_ref": "601910",
+            "airport_ident": "TJ-0011",
+            "length_ft": "3937",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "38.36057",
+            "le_longitude_deg": "69.98325",
+            "le_elevation_ft": "4799",
+            "le_heading_degT": "34",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "38.36906",
+            "he_longitude_deg": "69.99053",
+            "he_elevation_ft": "4894",
+            "he_heading_degT": "214",
+            "he_displaced_threshold_ft": "144"
+        }
+    ],
+    "country": {
+        "id": "302664",
+        "code": "TJ",
+        "name": "Tajikistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tajikistan",
+        "keywords": "Tajik"
+    },
+    "region": {
+        "id": "305786",
+        "code": "TJ-KT",
+        "local_code": "KT",
+        "name": "Khatlon Region",
+        "continent": "AS",
+        "iso_country": "TJ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Khatlon_Region",
+        "keywords": "Хатлон, ختلان"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "601520",
+    "ident": "VE-0345",
+    "type": "heliport",
+    "name": "GN Limoncito HLS",
+    "latitude_deg": "8.815668",
+    "longitude_deg": "-64.735698",
+    "elevation_ft": "820",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "Pariaguán",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVQ45",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306166",
+        "code": "VE-B",
+        "local_code": "B",
+        "name": "Anzoátegui State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Anzo%C3%A1tegui",
+        "keywords": "Airports in Anzoátegui State"
+    }
+}

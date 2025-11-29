@@ -2,7 +2,7 @@
     "id": "6323",
     "ident": "SVSE",
     "type": "medium_airport",
-    "name": "Santa Elena de Uairen Airport",
+    "name": "Santa Elena de Uairén Airport",
     "latitude_deg": "4.554699",
     "longitude_deg": "-61.145234",
     "elevation_ft": "2938",
@@ -10,10 +10,10 @@
     "iso_country": "VE",
     "iso_region": "VE-F",
     "municipality": "Santa Elena de Uairén",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "icao_code": "SVSE",
     "iata_code": "SNV",
-    "gps_code": "SVSE",
+    "gps_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Elena_de_Uair%C3%A9n_Airport",
@@ -40,6 +40,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "282",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "601417",
+            "airport_ref": "6323",
+            "airport_ident": "SVSE",
+            "type": "LDP",
+            "description": "La Divina Pastora",
+            "frequency_mhz": "117.7"
         }
     ],
     "country": {

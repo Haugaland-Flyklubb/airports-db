@@ -1,0 +1,39 @@
+{
+    "id": "601809",
+    "ident": "VE-0519",
+    "type": "heliport",
+    "name": "Cerro Cano HLS",
+    "latitude_deg": "11.960379",
+    "longitude_deg": "-69.983401",
+    "elevation_ft": "755",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-I",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVTU2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306173",
+        "code": "VE-I",
+        "local_code": "I",
+        "name": "Falcón State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Falc%C3%B3n",
+        "keywords": "Airports in Falcón State"
+    }
+}

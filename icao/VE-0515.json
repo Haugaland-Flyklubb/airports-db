@@ -1,0 +1,39 @@
+{
+    "id": "601805",
+    "ident": "VE-0515",
+    "type": "heliport",
+    "name": "CONAS San Cristóbal HLS",
+    "latitude_deg": "7.786602",
+    "longitude_deg": "-72.19528",
+    "elevation_ft": "3576",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-S",
+    "municipality": "San Cristóbal",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVGJU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306182",
+        "code": "VE-S",
+        "local_code": "S",
+        "name": "Táchira State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/T%C3%A1chira",
+        "keywords": "Airports in Táchira State"
+    }
+}

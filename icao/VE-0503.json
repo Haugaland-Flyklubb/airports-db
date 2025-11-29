@@ -1,0 +1,39 @@
+{
+    "id": "601791",
+    "ident": "VE-0503",
+    "type": "heliport",
+    "name": "Buena Vista del Meta HLS",
+    "latitude_deg": "6.170387",
+    "longitude_deg": "-68.590117",
+    "elevation_ft": "230",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "Buena Vista del Meta",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVWPQ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306167",
+        "code": "VE-C",
+        "local_code": "C",
+        "name": "Apure State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Apure",
+        "keywords": "Airports in Apure State"
+    }
+}

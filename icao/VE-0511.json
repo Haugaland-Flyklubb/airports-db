@@ -1,0 +1,39 @@
+{
+    "id": "601801",
+    "ident": "VE-0511",
+    "type": "heliport",
+    "name": "GN Betania HLS",
+    "latitude_deg": "7.453364",
+    "longitude_deg": "-72.440879",
+    "elevation_ft": "7251",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-S",
+    "municipality": "Betania",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306182",
+        "code": "VE-S",
+        "local_code": "S",
+        "name": "Táchira State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/T%C3%A1chira",
+        "keywords": "Airports in Táchira State"
+    }
+}

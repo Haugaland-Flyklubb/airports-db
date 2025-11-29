@@ -50,6 +50,14 @@
             "type": "APP",
             "description": "Portorož Tower",
             "frequency_mhz": "124.875"
+        },
+        {
+            "id": "601643",
+            "airport_ref": "4388",
+            "airport_ident": "LJPZ",
+            "type": "ATC CTR App/Twr",
+            "description": "PortoRoz Approach/Tower",
+            "frequency_mhz": "124.88"
         }
     ],
     "country": {

@@ -69,9 +69,9 @@
             "id": "49258",
             "airport_ref": "4435",
             "airport_ident": "LOWK",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "126.825"
+            "type": "APP/RADAR",
+            "description": "Klagenfurt Radar",
+            "frequency_mhz": "123.325"
         },
         {
             "id": "49259",
@@ -79,14 +79,14 @@
             "airport_ident": "LOWK",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "124.075"
+            "frequency_mhz": "126.33"
         },
         {
             "id": "49260",
             "airport_ref": "4435",
             "airport_ident": "LOWK",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Klagenfurt Tower",
             "frequency_mhz": "118.1"
         }
     ],

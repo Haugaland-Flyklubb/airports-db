@@ -1,14 +1,14 @@
 {
     "id": "40458",
     "ident": "VE-0109",
-    "type": "small_airport",
+    "type": "closed",
     "name": "La Tortuga Punta Arena Airport",
-    "latitude_deg": "10.9266996383667",
-    "longitude_deg": "-65.40889739990234",
+    "latitude_deg": "10.926444",
+    "longitude_deg": "-65.406654",
     "elevation_ft": "3",
     "continent": "SA",
     "iso_country": "VE",
-    "iso_region": "VE-O",
+    "iso_region": "VE-W",
     "municipality": "Isla La Tortuga",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Aeropuertos de Venezuela"
     },
     "region": {
-        "id": "306179",
-        "code": "VE-O",
-        "local_code": "O",
-        "name": "Nueva Esparta State",
+        "id": "306187",
+        "code": "VE-W",
+        "local_code": "W",
+        "name": "Federal Dependencies",
         "continent": "SA",
         "iso_country": "VE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nueva_Esparta",
-        "keywords": "Airports in Nueva Esparta State"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Federal_Dependencies_of_Venezuela",
+        "keywords": "Airports in Federal Dependencies"
     }
 }

@@ -1,0 +1,39 @@
+{
+    "id": "601698",
+    "ident": "VE-0440",
+    "type": "small_airport",
+    "name": "Hoya Grande Airport",
+    "latitude_deg": "8.918486",
+    "longitude_deg": "-71.640527",
+    "elevation_ft": "59",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-V",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SVYG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "El Boche, Cuarto Esquinas",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306186",
+        "code": "VE-V",
+        "local_code": "V",
+        "name": "Zulia State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zulia",
+        "keywords": "Airports in Zulia State"
+    }
+}

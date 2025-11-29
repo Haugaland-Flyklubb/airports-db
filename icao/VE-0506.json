@@ -1,0 +1,39 @@
+{
+    "id": "601794",
+    "ident": "VE-0506",
+    "type": "heliport",
+    "name": "El Nula Heliport",
+    "latitude_deg": "7.26567",
+    "longitude_deg": "-71.9303",
+    "elevation_ft": "840",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-C",
+    "municipality": "El Nula",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVX0W",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306167",
+        "code": "VE-C",
+        "local_code": "C",
+        "name": "Apure State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Apure",
+        "keywords": "Airports in Apure State"
+    }
+}

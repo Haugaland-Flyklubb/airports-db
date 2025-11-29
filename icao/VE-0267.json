@@ -1,0 +1,63 @@
+{
+    "id": "601415",
+    "ident": "VE-0267",
+    "type": "small_airport",
+    "name": "Balamito Airstrip",
+    "latitude_deg": "4.180928",
+    "longitude_deg": "-62.112944",
+    "elevation_ft": "1683",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "601428",
+            "airport_ref": "601415",
+            "airport_ident": "VE-0267",
+            "length_ft": "1565",
+            "width_ft": "30",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306170",
+        "code": "VE-F",
+        "local_code": "F",
+        "name": "Bolívar State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
+        "keywords": "Airports in Bolívar State"
+    }
+}

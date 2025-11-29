@@ -1,0 +1,39 @@
+{
+    "id": "601498",
+    "ident": "VE-0324",
+    "type": "heliport",
+    "name": "Gasoducto El Pilar HLS",
+    "latitude_deg": "10.534199",
+    "longitude_deg": "-63.129704",
+    "elevation_ft": "33",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-R",
+    "municipality": "El Pilar",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306181",
+        "code": "VE-R",
+        "local_code": "R",
+        "name": "Sucre State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sucre_(state)",
+        "keywords": "Airports in Sucre State"
+    }
+}

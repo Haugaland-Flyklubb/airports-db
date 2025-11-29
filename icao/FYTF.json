@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "602191",
+            "airport_ref": "595415",
+            "airport_ident": "FYTF",
+            "length_ft": "6550",
+            "width_ft": "82",
+            "surface": "gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "-20.5429",
+            "le_longitude_deg": "14.3517",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "-20.546",
+            "he_longitude_deg": "14.3706",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302591",
         "code": "NA",

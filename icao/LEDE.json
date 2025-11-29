@@ -18,6 +18,30 @@
     "home_link": "https://www.aeronauticadelgado.com/web/aerodromo/",
     "wikipedia_link": "",
     "keywords": "Aerodel",
+    "runways": [
+        {
+            "id": "601404",
+            "airport_ref": "518334",
+            "airport_ident": "LEDE",
+            "length_ft": "214",
+            "width_ft": "",
+            "surface": "compacted soil",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

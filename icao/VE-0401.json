@@ -1,0 +1,39 @@
+{
+    "id": "601621",
+    "ident": "VE-0401",
+    "type": "heliport",
+    "name": "GN Matasiete HLS",
+    "latitude_deg": "11.034328",
+    "longitude_deg": "-63.849277",
+    "elevation_ft": "164",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-O",
+    "municipality": "La Asunción",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVW8F",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306179",
+        "code": "VE-O",
+        "local_code": "O",
+        "name": "Nueva Esparta State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nueva_Esparta",
+        "keywords": "Airports in Nueva Esparta State"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "602120",
+    "ident": "SN-0008",
+    "type": "closed",
+    "name": "Kolda Airport",
+    "latitude_deg": "12.880881",
+    "longitude_deg": "-14.954152",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SN",
+    "iso_region": "SN-KD",
+    "municipality": "Kolda",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "KDA, GOGK",
+    "country": {
+        "id": "302600",
+        "code": "SN",
+        "name": "Senegal",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Senegal",
+        "keywords": "Aéroports du Sénégal, Senegalese airports"
+    },
+    "region": {
+        "id": "305609",
+        "code": "SN-KD",
+        "local_code": "KD",
+        "name": "Kolda Region",
+        "continent": "AF",
+        "iso_country": "SN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kolda_Region",
+        "keywords": "Airports in Kolda Region"
+    }
+}

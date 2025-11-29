@@ -1,0 +1,39 @@
+{
+    "id": "601517",
+    "ident": "VE-0342",
+    "type": "heliport",
+    "name": "Campo Oficina HLS",
+    "latitude_deg": "8.878764",
+    "longitude_deg": "-64.259884",
+    "elevation_ft": "951",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-B",
+    "municipality": "El Tigre",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SV6EM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306166",
+        "code": "VE-B",
+        "local_code": "B",
+        "name": "Anzoátegui State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Anzo%C3%A1tegui",
+        "keywords": "Airports in Anzoátegui State"
+    }
+}

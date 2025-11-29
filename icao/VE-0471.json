@@ -1,0 +1,39 @@
+{
+    "id": "601759",
+    "ident": "VE-0471",
+    "type": "heliport",
+    "name": "Hospital Victorino Santaella HLS",
+    "latitude_deg": "10.353681",
+    "longitude_deg": "-67.035919",
+    "elevation_ft": "3786",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-M",
+    "municipality": "Los Teques",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVT6X",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306177",
+        "code": "VE-M",
+        "local_code": "M",
+        "name": "Miranda State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Miranda_(state)",
+        "keywords": "Airports in Miranda State"
+    }
+}

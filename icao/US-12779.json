@@ -1,0 +1,63 @@
+{
+    "id": "601602",
+    "ident": "US-12779",
+    "type": "seaplane_base",
+    "name": "Coastal Seaplanes Virginia Beach Seaplane Base",
+    "latitude_deg": "36.898821",
+    "longitude_deg": "-76.032274",
+    "elevation_ft": "0",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-VA",
+    "municipality": "Virginia Beach",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "VA44",
+    "local_code": "VA44",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Broad Bay",
+    "runways": [
+        {
+            "id": "601603",
+            "airport_ref": "601602",
+            "airport_ident": "US-12779",
+            "length_ft": "8144",
+            "width_ft": "1000",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
+        "keywords": "Virginian airports"
+    }
+}

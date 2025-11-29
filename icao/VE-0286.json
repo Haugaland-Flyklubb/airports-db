@@ -1,0 +1,39 @@
+{
+    "id": "601458",
+    "ident": "VE-0286",
+    "type": "heliport",
+    "name": "El Callao Heliport",
+    "latitude_deg": "7.333291",
+    "longitude_deg": "-61.831956",
+    "elevation_ft": "787",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "El Callao",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVTQL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306170",
+        "code": "VE-F",
+        "local_code": "F",
+        "name": "Bolívar State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
+        "keywords": "Airports in Bolívar State"
+    }
+}

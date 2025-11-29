@@ -1,0 +1,39 @@
+{
+    "id": "601485",
+    "ident": "VE-0311",
+    "type": "heliport",
+    "name": "Campamento Proforca HLS",
+    "latitude_deg": "8.657704",
+    "longitude_deg": "-62.796586",
+    "elevation_ft": "230",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-N",
+    "municipality": "Chaguaramas",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVICW",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306178",
+        "code": "VE-N",
+        "local_code": "N",
+        "name": "Monagas State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Monagas",
+        "keywords": "Airports in Monagas State"
+    }
+}

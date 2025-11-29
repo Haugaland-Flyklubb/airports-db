@@ -1,0 +1,39 @@
+{
+    "id": "601745",
+    "ident": "VE-0457",
+    "type": "heliport",
+    "name": "Torre Ministerial HLS",
+    "latitude_deg": "10.503415",
+    "longitude_deg": "-66.91176",
+    "elevation_ft": "3412",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-A",
+    "municipality": "Caracas",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVQX5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306165",
+        "code": "VE-A",
+        "local_code": "A",
+        "name": "Capital District",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Capital_District_(Venezuela)",
+        "keywords": "Airports in Capital District"
+    }
+}

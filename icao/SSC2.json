@@ -1,0 +1,39 @@
+{
+    "id": "602123",
+    "ident": "SSC2",
+    "type": "small_airport",
+    "name": "Aeroleves Airstrip",
+    "latitude_deg": "2.762467",
+    "longitude_deg": "-60.58895",
+    "elevation_ft": "262",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RR",
+    "municipality": "Cantá",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SSC2",
+    "local_code": "RR0169",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303220",
+        "code": "BR-RR",
+        "local_code": "RR",
+        "name": "Roraima",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Roraima",
+        "keywords": "Airports in Roraima"
+    }
+}

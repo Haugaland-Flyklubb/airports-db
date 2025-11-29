@@ -1,0 +1,39 @@
+{
+    "id": "601763",
+    "ident": "VE-0475",
+    "type": "heliport",
+    "name": "Infantería de Marina HLS",
+    "latitude_deg": "10.591927",
+    "longitude_deg": "-67.0438",
+    "elevation_ft": "295",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-X",
+    "municipality": "Catia La Mar",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVIT0",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306188",
+        "code": "VE-X",
+        "local_code": "X",
+        "name": "La Guaira State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Guaira_(state)",
+        "keywords": "Vargas State"
+    }
+}

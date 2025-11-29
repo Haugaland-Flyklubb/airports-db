@@ -6,10 +6,10 @@
     "latitude_deg": "15.121263",
     "longitude_deg": "145.704718",
     "elevation_ft": "",
-    "continent": "NA",
-    "iso_country": "US",
-    "iso_region": "US-HI",
-    "municipality": "Sapian, Northern Mariana",
+    "continent": "OC",
+    "iso_country": "MP",
+    "iso_region": "MP-U-A",
+    "municipality": "Sapian",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -19,21 +19,21 @@
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kobler_Field",
     "keywords": "",
     "country": {
-        "id": "302755",
-        "code": "US",
-        "name": "United States",
-        "continent": "NA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
-        "keywords": "American airports"
+        "id": "302771",
+        "code": "MP",
+        "name": "Northern Mariana Islands",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands",
+        "keywords": "Airports in Northern Mariana Islands"
     },
     "region": {
-        "id": "306087",
-        "code": "US-HI",
-        "local_code": "HI",
-        "name": "Hawaii",
-        "continent": "NA",
-        "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
-        "keywords": "Airports in Hawaii"
+        "id": "304705",
+        "code": "MP-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "MP",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
     }
 }

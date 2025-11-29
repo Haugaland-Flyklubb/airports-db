@@ -1,0 +1,39 @@
+{
+    "id": "601652",
+    "ident": "VE-0416",
+    "type": "heliport",
+    "name": "CICPC Ciudad Bolívar HLS",
+    "latitude_deg": "8.080977",
+    "longitude_deg": "-63.525195",
+    "elevation_ft": "394",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Ciudad Bolívar",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306170",
+        "code": "VE-F",
+        "local_code": "F",
+        "name": "Bolívar State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
+        "keywords": "Airports in Bolívar State"
+    }
+}

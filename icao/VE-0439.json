@@ -1,0 +1,39 @@
+{
+    "id": "601689",
+    "ident": "VE-0439",
+    "type": "heliport",
+    "name": "Bomberos de El Cafetal HLS",
+    "latitude_deg": "10.457769",
+    "longitude_deg": "-66.827808",
+    "elevation_ft": "2985",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-M",
+    "municipality": "Caracas",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVO4P",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306177",
+        "code": "VE-M",
+        "local_code": "M",
+        "name": "Miranda State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Miranda_(state)",
+        "keywords": "Airports in Miranda State"
+    }
+}

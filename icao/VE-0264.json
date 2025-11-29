@@ -1,0 +1,63 @@
+{
+    "id": "601412",
+    "ident": "VE-0264",
+    "type": "small_airport",
+    "name": "Apoipó Airstrip",
+    "latitude_deg": "4.757034",
+    "longitude_deg": "-61.485865",
+    "elevation_ft": "2812",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-F",
+    "municipality": "Comunidad Apoipó",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "601431",
+            "airport_ref": "601412",
+            "airport_ident": "VE-0264",
+            "length_ft": "1787",
+            "width_ft": "33",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306170",
+        "code": "VE-F",
+        "local_code": "F",
+        "name": "Bolívar State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
+        "keywords": "Airports in Bolívar State"
+    }
+}

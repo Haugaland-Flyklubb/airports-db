@@ -1,7 +1,7 @@
 {
     "id": "320143",
     "ident": "LV-0006",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Mālpils Airfield",
     "latitude_deg": "57.045431",
     "longitude_deg": "24.945953",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "EVMP",
+    "gps_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://lv.wikipedia.org/wiki/M%C4%81lpils_lidlauks",
-    "keywords": "",
+    "keywords": "EVMP",
     "country": {
         "id": "302702",
         "code": "LV",

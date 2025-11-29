@@ -1,0 +1,39 @@
+{
+    "id": "601630",
+    "ident": "VE-0410",
+    "type": "heliport",
+    "name": "Gasoducto Guayacán HLS",
+    "latitude_deg": "10.631723",
+    "longitude_deg": "-63.867729",
+    "elevation_ft": "23",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-R",
+    "municipality": "Guayacán",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306181",
+        "code": "VE-R",
+        "local_code": "R",
+        "name": "Sucre State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sucre_(state)",
+        "keywords": "Airports in Sucre State"
+    }
+}

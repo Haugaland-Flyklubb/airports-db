@@ -2,22 +2,22 @@
     "id": "6264",
     "ident": "SVCE",
     "type": "small_airport",
-    "name": "Zaraza Airport",
+    "name": "Cuenca de Unare Airport",
     "latitude_deg": "9.350306",
     "longitude_deg": "-65.280655",
     "elevation_ft": "204",
     "continent": "SA",
     "iso_country": "VE",
-    "iso_region": "VE-J",
-    "municipality": "Zaraza",
+    "iso_region": "VE-B",
+    "municipality": "Zaraza, Guárico",
     "scheduled_service": "no",
-    "icao_code": "",
-    "iata_code": "ZRZ",
-    "gps_code": "SVCE",
+    "icao_code": "SVUR",
+    "iata_code": "",
+    "gps_code": "SVUR",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SVCE, Apruna",
     "runways": [
         {
             "id": "246087",
@@ -51,13 +51,13 @@
         "keywords": "Aeropuertos de Venezuela"
     },
     "region": {
-        "id": "306174",
-        "code": "VE-J",
-        "local_code": "J",
-        "name": "Guárico State",
+        "id": "306166",
+        "code": "VE-B",
+        "local_code": "B",
+        "name": "Anzoátegui State",
         "continent": "SA",
         "iso_country": "VE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gu%C3%A1rico",
-        "keywords": "Airports in Guárico State"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Anzo%C3%A1tegui",
+        "keywords": "Airports in Anzoátegui State"
     }
 }

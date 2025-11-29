@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Pre%C5%A1ov_Air_Base",
     "keywords": "",
+    "runways": [
+        {
+            "id": "601926",
+            "airport_ref": "30288",
+            "airport_ident": "LZPW",
+            "length_ft": "961",
+            "width_ft": "66",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "49.025768",
+            "le_longitude_deg": "21.303425",
+            "le_elevation_ft": "1032",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "49.027306",
+            "he_longitude_deg": "21.306681",
+            "he_elevation_ft": "1032",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302717",
         "code": "SK",

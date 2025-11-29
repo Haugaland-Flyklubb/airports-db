@@ -1,0 +1,63 @@
+{
+    "id": "602144",
+    "ident": "SD0F",
+    "type": "heliport",
+    "name": "Falcão Aéreo Agrícola Heliport",
+    "latitude_deg": "-23.674564",
+    "longitude_deg": "-51.644981",
+    "elevation_ft": "2014",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Marumbi",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SD0F",
+    "local_code": "PR0252",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "602145",
+            "airport_ref": "602144",
+            "airport_ident": "SD0F",
+            "length_ft": "59",
+            "width_ft": "59",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "2",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303216",
+        "code": "BR-PR",
+        "local_code": "PR",
+        "name": "Paraná",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
+        "keywords": "Airports in Paraná"
+    }
+}

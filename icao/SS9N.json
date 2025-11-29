@@ -1,0 +1,63 @@
+{
+    "id": "602106",
+    "ident": "SS9N",
+    "type": "small_airport",
+    "name": "MM Airport",
+    "latitude_deg": "-10.767978",
+    "longitude_deg": "-49.64021",
+    "elevation_ft": "640",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-TO",
+    "municipality": "Lagoa da Confusão",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SS9N",
+    "local_code": "TO0120",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "602107",
+            "airport_ref": "602106",
+            "airport_ident": "SS9N",
+            "length_ft": "2303",
+            "width_ft": "59",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303225",
+        "code": "BR-TO",
+        "local_code": "TO",
+        "name": "Tocantins",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tocantins",
+        "keywords": "Airports in Tocatins"
+    }
+}

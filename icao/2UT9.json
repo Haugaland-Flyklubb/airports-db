@@ -1,0 +1,63 @@
+{
+    "id": "602252",
+    "ident": "2UT9",
+    "type": "small_airport",
+    "name": "Glogen Farms Airport",
+    "latitude_deg": "41.597622",
+    "longitude_deg": "-111.897867",
+    "elevation_ft": "4925",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Wellsville",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "2UT9",
+    "local_code": "2UT9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "602253",
+            "airport_ref": "602252",
+            "airport_ident": "2UT9",
+            "length_ft": "1500",
+            "width_ft": "75",
+            "surface": "Treated Dirt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "8",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306121",
+        "code": "US-UT",
+        "local_code": "UT",
+        "name": "Utah",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
+        "keywords": "Airports in Utah"
+    }
+}

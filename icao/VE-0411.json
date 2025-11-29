@@ -1,0 +1,39 @@
+{
+    "id": "601632",
+    "ident": "VE-0411",
+    "type": "heliport",
+    "name": "Gasoducto Guacarapo HLS",
+    "latitude_deg": "10.516635",
+    "longitude_deg": "-63.746245",
+    "elevation_ft": "33",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-R",
+    "municipality": "Guacarapo",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306181",
+        "code": "VE-R",
+        "local_code": "R",
+        "name": "Sucre State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sucre_(state)",
+        "keywords": "Airports in Sucre State"
+    }
+}

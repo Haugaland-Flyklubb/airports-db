@@ -1,0 +1,39 @@
+{
+    "id": "601742",
+    "ident": "VE-0454",
+    "type": "heliport",
+    "name": "Electricidad de Caracas HLS",
+    "latitude_deg": "10.503329",
+    "longitude_deg": "-66.893242",
+    "elevation_ft": "3281",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-A",
+    "municipality": "Caracas",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVROI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306165",
+        "code": "VE-A",
+        "local_code": "A",
+        "name": "Capital District",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Capital_District_(Venezuela)",
+        "keywords": "Airports in Capital District"
+    }
+}

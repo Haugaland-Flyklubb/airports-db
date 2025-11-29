@@ -1,0 +1,39 @@
+{
+    "id": "601482",
+    "ident": "VE-0308",
+    "type": "heliport",
+    "name": "Brigada de Marina HLS",
+    "latitude_deg": "5.670683",
+    "longitude_deg": "-67.613275",
+    "elevation_ft": "230",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-Z",
+    "municipality": "Puerto Ayacucho",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVPD4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306190",
+        "code": "VE-Z",
+        "local_code": "Z",
+        "name": "Amazonas State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Venezuelan_state)",
+        "keywords": "Airports in Amazonas State"
+    }
+}

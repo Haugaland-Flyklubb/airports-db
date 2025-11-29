@@ -1,0 +1,63 @@
+{
+    "id": "602246",
+    "ident": "9B7",
+    "type": "seaplane_base",
+    "name": "Hamlin's Marina & Seaplane Base",
+    "latitude_deg": "44.851528",
+    "longitude_deg": "-69.259167",
+    "elevation_ft": "200",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Newport",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "9B7",
+    "local_code": "9B7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Sebasticook Lake",
+    "runways": [
+        {
+            "id": "602247",
+            "airport_ref": "602246",
+            "airport_ident": "9B7",
+            "length_ft": "6996",
+            "width_ft": "1000",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "3W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306097",
+        "code": "US-ME",
+        "local_code": "ME",
+        "name": "Maine",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
+        "keywords": "Airports in Maine"
+    }
+}

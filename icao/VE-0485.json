@@ -1,0 +1,39 @@
+{
+    "id": "601773",
+    "ident": "VE-0485",
+    "type": "heliport",
+    "name": "CAVIM HLS",
+    "latitude_deg": "10.262611",
+    "longitude_deg": "-67.6375",
+    "elevation_ft": "1443",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-D",
+    "municipality": "Maracay",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVB1X",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306168",
+        "code": "VE-D",
+        "local_code": "D",
+        "name": "Aragua State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aragua",
+        "keywords": "Airports in Aragua State"
+    }
+}

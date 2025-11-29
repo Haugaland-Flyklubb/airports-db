@@ -1,0 +1,63 @@
+{
+    "id": "601633",
+    "ident": "US-12780",
+    "type": "small_airport",
+    "name": "Talus Ranch Airport",
+    "latitude_deg": "47.372868",
+    "longitude_deg": "-118.831924",
+    "elevation_ft": "1690",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WA",
+    "municipality": "Odessa",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "WA97",
+    "local_code": "WA97",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "601634",
+            "airport_ref": "601633",
+            "airport_ident": "US-12780",
+            "length_ft": "1600",
+            "width_ft": "100",
+            "surface": "Turf/Dirt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "7",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": "Airports in Washington"
+    }
+}

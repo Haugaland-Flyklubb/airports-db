@@ -1,15 +1,15 @@
 {
-    "id": "597967",
-    "ident": "GB-1329",
+    "id": "602212",
+    "ident": "GB-1342",
     "type": "heliport",
-    "name": "HMS Queen Elizabeth carrier",
-    "latitude_deg": "50.80275",
-    "longitude_deg": "-1.11194",
-    "elevation_ft": "45",
+    "name": "Harefield Hospital Heliport",
+    "latitude_deg": "51.60734",
+    "longitude_deg": "-0.48456",
+    "elevation_ft": "282",
     "continent": "EU",
     "iso_country": "GB",
-    "iso_region": "GB-U-A",
-    "municipality": "",
+    "iso_region": "GB-ENG",
+    "municipality": "Uxbridge, Greater London",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Great Britain"
     },
     "region": {
-        "id": "303830",
-        "code": "GB-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
         "continent": "EU",
         "iso_country": "GB",
-        "wikipedia_link": "",
-        "keywords": "keep"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": "English airports"
     }
 }

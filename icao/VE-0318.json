@@ -1,0 +1,39 @@
+{
+    "id": "601492",
+    "ident": "VE-0318",
+    "type": "heliport",
+    "name": "Escuela Naval Carúpano HLS",
+    "latitude_deg": "10.652478",
+    "longitude_deg": "-63.416884",
+    "elevation_ft": "98",
+    "continent": "SA",
+    "iso_country": "VE",
+    "iso_region": "VE-R",
+    "municipality": "Guaca",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "SVHP6",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302802",
+        "code": "VE",
+        "name": "Venezuela",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Venezuela",
+        "keywords": "Aeropuertos de Venezuela"
+    },
+    "region": {
+        "id": "306181",
+        "code": "VE-R",
+        "local_code": "R",
+        "name": "Sucre State",
+        "continent": "SA",
+        "iso_country": "VE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sucre_(state)",
+        "keywords": "Airports in Sucre State"
+    }
+}
