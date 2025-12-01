@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "602349",
+            "airport_ref": "506977",
+            "airport_ident": "FJ-0004",
+            "length_ft": "538",
+            "width_ft": "164",
+            "surface": "water",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-18.216359",
+            "le_longitude_deg": "177.724568",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-18.215025",
+            "he_longitude_deg": "177.725233",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302766",
         "code": "FJ",

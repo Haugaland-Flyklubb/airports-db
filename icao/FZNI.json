@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ishasha_Airport_(Democratic_Republic_of_the_Congo)",
     "keywords": "",
+    "runways": [
+        {
+            "id": "602314",
+            "airport_ref": "31419",
+            "airport_ident": "FZNI",
+            "length_ft": "3600",
+            "width_ft": "",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302561",
         "code": "CD",
