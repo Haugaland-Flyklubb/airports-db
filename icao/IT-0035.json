@@ -5,7 +5,7 @@
     "name": "Ivrea Montalto Dora Airfield",
     "latitude_deg": "45.487546",
     "longitude_deg": "7.84323",
-    "elevation_ft": "807",
+    "elevation_ft": "810",
     "continent": "EU",
     "iso_country": "IT",
     "iso_region": "IT-21",
@@ -18,6 +18,40 @@
     "home_link": "http://www.voloalto.altervista.org/",
     "wikipedia_link": "",
     "keywords": "Aviosuperficie Ivrea Montalto Dora",
+    "runways": [
+        {
+            "id": "602383",
+            "airport_ref": "308671",
+            "airport_ident": "IT-0035",
+            "length_ft": "2621",
+            "width_ft": "72",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "143",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "323",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "602382",
+            "airport_ref": "308671",
+            "airport_ident": "IT-0035",
+            "type": "CTAF",
+            "description": "Montalto",
+            "frequency_mhz": "130"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",
