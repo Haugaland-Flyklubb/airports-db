@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://pt.wikipedia.org/wiki/Aer%C3%B3dromo_Coroa_do_Avi%C3%A3o",
     "keywords": "",
+    "runways": [
+        {
+            "id": "602402",
+            "airport_ref": "335361",
+            "airport_ident": "BR-0856",
+            "length_ft": "4326",
+            "width_ft": "94",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-7.839535",
+            "le_longitude_deg": "-34.893637",
+            "le_elevation_ft": "5",
+            "le_heading_degT": "159",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-7.850673",
+            "he_longitude_deg": "-34.889397",
+            "he_elevation_ft": "22",
+            "he_heading_degT": "339",
+            "he_displaced_threshold_ft": "572"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

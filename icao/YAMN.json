@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "602386",
+            "airport_ref": "526760",
+            "airport_ident": "YAMN",
+            "length_ft": "3218",
+            "width_ft": "95",
+            "surface": "dirt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "-32.533223",
+            "le_longitude_deg": "137.692745",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "-32.542041",
+            "he_longitude_deg": "137.693165",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

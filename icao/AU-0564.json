@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Cook",
+    "runways": [
+        {
+            "id": "602387",
+            "airport_ref": "507888",
+            "airport_ident": "AU-0564",
+            "length_ft": "3450",
+            "width_ft": "262",
+            "surface": "Turf/Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-13.440697",
+            "le_longitude_deg": "142.927627",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-13.431729",
+            "he_longitude_deg": "142.930727",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",
