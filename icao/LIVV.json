@@ -11,7 +11,7 @@
     "iso_region": "IT-21",
     "municipality": "Cascina Moncucco (TO)",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "LIVV",
     "iata_code": "",
     "gps_code": "LIVV",
     "local_code": "TO03",
@@ -23,8 +23,8 @@
             "id": "312195",
             "airport_ref": "308672",
             "airport_ident": "LIVV",
-            "length_ft": "2198",
-            "width_ft": "82",
+            "length_ft": "2073",
+            "width_ft": "72",
             "surface": "Grass",
             "lighted": "0",
             "closed": "0",
@@ -43,6 +43,14 @@
         }
     ],
     "freqs": [
+        {
+            "id": "602446",
+            "airport_ref": "308672",
+            "airport_ident": "LIVV",
+            "type": "CTAF",
+            "description": "Vische",
+            "frequency_mhz": "130"
+        },
         {
             "id": "312194",
             "airport_ref": "308672",
