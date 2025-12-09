@@ -1,0 +1,63 @@
+{
+    "id": "602481",
+    "ident": "SW1B",
+    "type": "heliport",
+    "name": "Sítio Bela Vista Heliport",
+    "latitude_deg": "-22.670706",
+    "longitude_deg": "-45.881206",
+    "elevation_ft": "5282",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-U-A",
+    "municipality": "Paraisópolis",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SW1B",
+    "local_code": "MG0660",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "602487",
+            "airport_ref": "602481",
+            "airport_ident": "SW1B",
+            "length_ft": "66",
+            "width_ft": "66",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303226",
+        "code": "BR-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
