@@ -44,20 +44,20 @@
     ],
     "freqs": [
         {
-            "id": "55839",
-            "airport_ref": "2594",
-            "airport_ident": "ENSN",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "119.2"
-        },
-        {
             "id": "55840",
             "airport_ref": "2594",
             "airport_ident": "ENSN",
             "type": "APP",
             "description": "FARRIS APP",
             "frequency_mhz": "134.05"
+        },
+        {
+            "id": "55839",
+            "airport_ref": "2594",
+            "airport_ident": "ENSN",
+            "type": "CTAF",
+            "description": "Geiteryggen Traffic",
+            "frequency_mhz": "119.2"
         }
     ],
     "country": {
