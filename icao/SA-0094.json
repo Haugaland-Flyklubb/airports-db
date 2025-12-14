@@ -11,13 +11,63 @@
     "iso_region": "SA-01",
     "municipality": "Riyadh",
     "scheduled_service": "no",
-    "icao_code": "OERY",
+    "icao_code": "OESN",
     "iata_code": "",
-    "gps_code": "",
+    "gps_code": "OESN",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/King_Salman_Air_Base",
-    "keywords": "",
+    "keywords": "OERY",
+    "freqs": [
+        {
+            "id": "602596",
+            "airport_ref": "597259",
+            "airport_ident": "SA-0094",
+            "type": "ATIS",
+            "description": "ARR",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "602597",
+            "airport_ref": "597259",
+            "airport_ident": "SA-0094",
+            "type": "ATIS",
+            "description": "DEP",
+            "frequency_mhz": "133.6"
+        },
+        {
+            "id": "602594",
+            "airport_ref": "597259",
+            "airport_ident": "SA-0094",
+            "type": "SMC",
+            "description": "SALMAN GROUND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "602595",
+            "airport_ref": "597259",
+            "airport_ident": "SA-0094",
+            "type": "SMC",
+            "description": "SALMAN GROUND",
+            "frequency_mhz": "262.5"
+        },
+        {
+            "id": "602592",
+            "airport_ref": "597259",
+            "airport_ident": "SA-0094",
+            "type": "TWR",
+            "description": "SALMAN Tower",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "602593",
+            "airport_ref": "597259",
+            "airport_ident": "SA-0094",
+            "type": "TWR",
+            "description": "SALMAN Tower",
+            "frequency_mhz": "341.6"
+        }
+    ],
     "country": {
         "id": "302660",
         "code": "SA",
