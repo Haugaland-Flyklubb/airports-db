@@ -18,6 +18,16 @@
     "home_link": "https://www.letiskoholic.sk/",
     "wikipedia_link": "https://sk.wikipedia.org/wiki/Letisko_Hol%C3%AD%C4%8D",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "602614",
+            "airport_ref": "308331",
+            "airport_ident": "LZHL",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "123.675"
+        }
+    ],
     "country": {
         "id": "302717",
         "code": "SK",

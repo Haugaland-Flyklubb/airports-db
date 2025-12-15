@@ -23,23 +23,49 @@
             "id": "260750",
             "airport_ref": "35759",
             "airport_ident": "SDUL",
-            "length_ft": "2297",
-            "width_ft": "66",
-            "surface": "GRS",
-            "lighted": "0",
+            "length_ft": "3116",
+            "width_ft": "60",
+            "surface": "Asphalt",
+            "lighted": "1",
             "closed": "0",
-            "le_ident": "17",
+            "le_ident": "18",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
-            "le_elevation_ft": "",
+            "le_elevation_ft": "2282",
             "le_heading_degT": "",
             "le_displaced_threshold_ft": "",
-            "he_ident": "35",
+            "he_ident": "36",
             "he_latitude_deg": "",
             "he_longitude_deg": "",
-            "he_elevation_ft": "",
+            "he_elevation_ft": "2282",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "820"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "602619",
+            "airport_ref": "35759",
+            "airport_ident": "SDUL",
+            "type": "APP ACADEMIA",
+            "description": "Controle Academia",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "602617",
+            "airport_ref": "35759",
+            "airport_ident": "SDUL",
+            "type": "CTR Ribeirão",
+            "description": "Torre Ribeirão",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "602616",
+            "airport_ref": "35759",
+            "airport_ident": "SDUL",
+            "type": "Frequência livre",
+            "description": "",
+            "frequency_mhz": "123.45"
         }
     ],
     "country": {
