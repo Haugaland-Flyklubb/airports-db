@@ -1,0 +1,39 @@
+{
+    "id": "602706",
+    "ident": "RU-10138",
+    "type": "heliport",
+    "name": "NPS Inyakino Heliport",
+    "latitude_deg": "57.583452",
+    "longitude_deg": "37.209272",
+    "elevation_ft": "607",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-TVE",
+    "municipality": "Kesova Gora",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "HF04",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ХФ04, Кесова Гора, НПС Инякино",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305333",
+        "code": "RU-TVE",
+        "local_code": "TVE",
+        "name": "Tver Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tver_Oblast",
+        "keywords": "Airports in Tver Oblast"
+    }
+}
