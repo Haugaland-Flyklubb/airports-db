@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Fliegerhorst_Meppen",
     "keywords": "",
+    "runways": [
+        {
+            "id": "602740",
+            "airport_ref": "29405",
+            "airport_ident": "ETWM",
+            "length_ft": "1968",
+            "width_ft": "197",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "56",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "236"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

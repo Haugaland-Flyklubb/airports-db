@@ -1,0 +1,39 @@
+{
+    "id": "602742",
+    "ident": "LILU",
+    "type": "heliport",
+    "name": "Ferrero Heliport",
+    "latitude_deg": "44.701988",
+    "longitude_deg": "8.020256",
+    "elevation_ft": "544",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-21",
+    "municipality": "Alba (CN)",
+    "scheduled_service": "no",
+    "icao_code": "LILU",
+    "iata_code": "",
+    "gps_code": "LILU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306360",
+        "code": "IT-21",
+        "local_code": "21",
+        "name": "Piedmont",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
+        "keywords": "PM"
+    }
+}

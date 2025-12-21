@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "EBLB",
+    "runways": [
+        {
+            "id": "602739",
+            "airport_ref": "30971",
+            "airport_ident": "BE-0052",
+            "length_ft": "1936",
+            "width_ft": "65",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "39",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "219",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302676",
         "code": "BE",
