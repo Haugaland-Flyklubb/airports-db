@@ -23,9 +23,9 @@
             "id": "258951",
             "airport_ref": "27753",
             "airport_ident": "YMBT",
-            "length_ft": "3199",
-            "width_ft": "",
-            "surface": "GVL",
+            "length_ft": "4921",
+            "width_ft": "66",
+            "surface": "Bitumen",
             "lighted": "0",
             "closed": "0",
             "le_ident": "14",
@@ -39,7 +39,7 @@
             "he_longitude_deg": "",
             "he_elevation_ft": "",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": "721"
+            "he_displaced_threshold_ft": "1017"
         }
     ],
     "freqs": [
@@ -52,20 +52,12 @@
             "frequency_mhz": "126"
         },
         {
-            "id": "73711",
-            "airport_ref": "27753",
-            "airport_ident": "YMBT",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "118.8"
-        },
-        {
             "id": "73710",
             "airport_ref": "27753",
             "airport_ident": "YMBT",
             "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.4"
+            "description": "Melbourne Centre",
+            "frequency_mhz": "125.2"
         }
     ],
     "country": {
