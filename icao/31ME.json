@@ -1,0 +1,63 @@
+{
+    "id": "602893",
+    "ident": "31ME",
+    "type": "heliport",
+    "name": "Coastline 1 Heliport",
+    "latitude_deg": "43.593781",
+    "longitude_deg": "-70.317381",
+    "elevation_ft": "36",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Scarborough",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "31ME",
+    "local_code": "31ME",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "602894",
+            "airport_ref": "602893",
+            "airport_ident": "31ME",
+            "length_ft": "32",
+            "width_ft": "32",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306097",
+        "code": "US-ME",
+        "local_code": "ME",
+        "name": "Maine",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
+        "keywords": "Airports in Maine"
+    }
+}
