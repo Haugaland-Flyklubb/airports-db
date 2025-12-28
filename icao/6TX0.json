@@ -1,0 +1,63 @@
+{
+    "id": "602923",
+    "ident": "6TX0",
+    "type": "small_airport",
+    "name": "Yancey Creek Ranch North Airport",
+    "latitude_deg": "31.047857",
+    "longitude_deg": "-98.365507",
+    "elevation_ft": "1401",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Lampasas",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "6TX0",
+    "local_code": "6TX0",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "602924",
+            "airport_ref": "602923",
+            "airport_ident": "6TX0",
+            "length_ft": "1961",
+            "width_ft": "80",
+            "surface": "Dirt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": "Texan airports"
+    }
+}
