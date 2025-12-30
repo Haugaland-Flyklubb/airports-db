@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "602951",
+            "airport_ref": "518727",
+            "airport_ident": "ZA-0321",
+            "length_ft": "3280",
+            "width_ft": "100",
+            "surface": "Gravel / Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "45",
+            "le_heading_degT": "120",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "45",
+            "he_heading_degT": "300",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",
