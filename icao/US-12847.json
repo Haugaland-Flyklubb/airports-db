@@ -1,15 +1,15 @@
 {
-    "id": "17640",
-    "ident": "HI32",
-    "type": "closed",
-    "name": "Pepeekeo Airstrip",
-    "latitude_deg": "19.846402",
-    "longitude_deg": "-155.107021",
-    "elevation_ft": "675",
+    "id": "603038",
+    "ident": "US-12847",
+    "type": "seaplane_base",
+    "name": "Biscayne Park Airport",
+    "latitude_deg": "25.882933",
+    "longitude_deg": "-80.159597",
+    "elevation_ft": "",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-HI",
-    "municipality": "Pepeekeo",
+    "iso_region": "US-FL",
+    "municipality": "Miami",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -17,7 +17,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "HI32",
+    "keywords": "",
     "country": {
         "id": "302755",
         "code": "US",
@@ -27,13 +27,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306087",
-        "code": "US-HI",
-        "local_code": "HI",
-        "name": "Hawaii",
+        "id": "306085",
+        "code": "US-FL",
+        "local_code": "FL",
+        "name": "Florida",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
-        "keywords": "Airports in Hawaii"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
+        "keywords": "Airports in Florida"
     }
 }
