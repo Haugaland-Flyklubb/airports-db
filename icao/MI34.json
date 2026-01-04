@@ -1,0 +1,39 @@
+{
+    "id": "603072",
+    "ident": "MI34",
+    "type": "small_airport",
+    "name": "Fancy Field",
+    "latitude_deg": "44.098681",
+    "longitude_deg": "-83.715278",
+    "elevation_ft": "597",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Au Gres",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "MI34",
+    "local_code": "MI34",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": "Airports in Michigan"
+    }
+}
