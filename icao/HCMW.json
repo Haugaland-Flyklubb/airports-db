@@ -3,13 +3,13 @@
     "ident": "HCMW",
     "type": "small_airport",
     "name": "Garowe Airport",
-    "latitude_deg": "8.456412",
-    "longitude_deg": "48.564034",
+    "latitude_deg": "8.458474",
+    "longitude_deg": "48.568136",
     "elevation_ft": "1465",
-    "continent": "OC",
-    "iso_country": "UM",
-    "iso_region": "UM-95",
-    "municipality": "New orleans",
+    "continent": "AF",
+    "iso_country": "SO",
+    "iso_region": "SO-NU",
+    "municipality": "Garowe",
     "scheduled_service": "yes",
     "icao_code": "",
     "iata_code": "GGR",
@@ -53,21 +53,21 @@
         }
     ],
     "country": {
-        "id": "302785",
-        "code": "UM",
-        "name": "United States Minor Outlying Islands",
-        "continent": "OC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
-        "keywords": "Airports in United States Minor Outlying Islands"
+        "id": "302601",
+        "code": "SO",
+        "name": "Somalia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Somalia",
+        "keywords": ""
     },
     "region": {
-        "id": "306074",
-        "code": "UM-95",
-        "local_code": "95",
-        "name": "Palmyra Atoll",
-        "continent": "OC",
-        "iso_country": "UM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Palmyra_Atoll",
-        "keywords": "Airports in Palmyra Atoll"
+        "id": "305629",
+        "code": "SO-NU",
+        "local_code": "NU",
+        "name": "Nugal",
+        "continent": "AF",
+        "iso_country": "SO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nugal,_Somalia",
+        "keywords": "Airports in Nugaal"
     }
 }
