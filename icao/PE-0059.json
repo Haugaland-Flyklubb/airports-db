@@ -1,0 +1,63 @@
+{
+    "id": "603239",
+    "ident": "PE-0059",
+    "type": "small_airport",
+    "name": "Buncuyo",
+    "latitude_deg": "-6.516667",
+    "longitude_deg": "-74.583333",
+    "elevation_ft": "510",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LOR",
+    "municipality": "Ramón Castilla",
+    "scheduled_service": "no",
+    "icao_code": "SPBJ",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "603240",
+            "airport_ref": "603239",
+            "airport_ident": "PE-0059",
+            "length_ft": "1377",
+            "width_ft": "65",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "80",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "260",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305022",
+        "code": "PE-LOR",
+        "local_code": "LOR",
+        "name": "Loreto Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Loreto_Region",
+        "keywords": "Airports in Loreto Region"
+    }
+}

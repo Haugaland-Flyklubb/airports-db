@@ -18,6 +18,40 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Contamana_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "603227",
+            "airport_ref": "32349",
+            "airport_ident": "SPCM",
+            "length_ft": "2953",
+            "width_ft": "59",
+            "surface": "Sand / Cement",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "-7.335611",
+            "le_longitude_deg": "-74.996583",
+            "le_elevation_ft": "495",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "-7.335944",
+            "he_longitude_deg": "-74.988472",
+            "he_elevation_ft": "479",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "603228",
+            "airport_ref": "32349",
+            "airport_ident": "SPCM",
+            "type": "TIBA",
+            "description": "Contamana",
+            "frequency_mhz": "130.9"
+        }
+    ],
     "country": {
         "id": "302798",
         "code": "PE",

@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "603229",
+            "airport_ref": "32368",
+            "airport_ident": "SPPH",
+            "length_ft": "2296",
+            "width_ft": "59",
+            "surface": "Clay / Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "-7.203778",
+            "le_longitude_deg": "-75.295694",
+            "le_elevation_ft": "434",
+            "le_heading_degT": "30",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-7.198361",
+            "he_longitude_deg": "-75.292389",
+            "he_elevation_ft": "431",
+            "he_heading_degT": "210",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302798",
         "code": "PE",
