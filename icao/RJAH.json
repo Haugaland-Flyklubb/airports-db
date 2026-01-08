@@ -1,8 +1,8 @@
 {
     "id": "5533",
     "ident": "RJAH",
-    "type": "medium_airport",
-    "name": "Ibaraki Airport / JASDF Hyakuri Air Base",
+    "type": "large_airport",
+    "name": "Ibaraki International Airport",
     "latitude_deg": "36.181099",
     "longitude_deg": "140.414993",
     "elevation_ft": "105",
@@ -15,9 +15,9 @@
     "iata_code": "IBR",
     "gps_code": "RJAH",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://ibaraki-airport.net",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hyakuri_Airfield",
-    "keywords": "ibaraki, hyakuri",
+    "keywords": "ibaraki, hyakuri, 茨城空港",
     "runways": [
         {
             "id": "237157",

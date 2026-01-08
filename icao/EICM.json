@@ -1,7 +1,7 @@
 {
     "id": "2531",
     "ident": "EICM",
-    "type": "medium_airport",
+    "type": "closed",
     "name": "Galway Airport",
     "latitude_deg": "53.300201",
     "longitude_deg": "-8.94159",
@@ -11,13 +11,13 @@
     "iso_region": "IE-G",
     "municipality": "Galway",
     "scheduled_service": "no",
-    "icao_code": "EICM",
+    "icao_code": "",
     "iata_code": "",
-    "gps_code": "EICM",
+    "gps_code": "",
     "local_code": "",
     "home_link": "http://www.galwayairport.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Galway_Airport",
-    "keywords": "GWY",
+    "keywords": "GWY, EICM",
     "runways": [
         {
             "id": "235646",
