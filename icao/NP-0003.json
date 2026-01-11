@@ -1,7 +1,7 @@
 {
     "id": "342097",
     "ident": "NP-0003",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Pokhara International Airport",
     "latitude_deg": "28.1838",
     "longitude_deg": "84.0147",
@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Pokhara_International_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "603486",
+            "airport_ref": "342097",
+            "airport_ident": "NP-0003",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "Concrete",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302654",
         "code": "NP",
