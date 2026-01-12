@@ -44,20 +44,20 @@
     ],
     "freqs": [
         {
-            "id": "54343",
-            "airport_ref": "4322",
-            "airport_ident": "LICP",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "122.1"
-        },
-        {
             "id": "54344",
             "airport_ref": "4322",
             "airport_ident": "LICP",
             "type": "APP",
             "description": "RAISI APP",
             "frequency_mhz": "120.2"
+        },
+        {
+            "id": "54343",
+            "airport_ref": "4322",
+            "airport_ident": "LICP",
+            "type": "TIBA",
+            "description": "Boccadifalco",
+            "frequency_mhz": "122.6"
         }
     ],
     "country": {

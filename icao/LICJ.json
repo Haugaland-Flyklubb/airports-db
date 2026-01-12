@@ -70,8 +70,16 @@
             "airport_ref": "4321",
             "airport_ident": "LICJ",
             "type": "APP",
-            "description": "APP",
+            "description": "PALERMO APP",
             "frequency_mhz": "120.2"
+        },
+        {
+            "id": "603549",
+            "airport_ref": "4321",
+            "airport_ident": "LICJ",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "123.875"
         },
         {
             "id": "54157",
