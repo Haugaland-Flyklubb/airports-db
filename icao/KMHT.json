@@ -1,7 +1,7 @@
 {
     "id": "3684",
     "ident": "KMHT",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Manchester-Boston Regional Airport",
     "latitude_deg": "42.932598",
     "longitude_deg": "-71.435699",
@@ -15,9 +15,9 @@
     "iata_code": "MHT",
     "gps_code": "KMHT",
     "local_code": "MHT",
-    "home_link": "",
+    "home_link": "https://flymanchester.com",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Manchester-Boston_Regional_Airport",
-    "keywords": "",
+    "keywords": "Manchester Airport",
     "runways": [
         {
             "id": "576812",

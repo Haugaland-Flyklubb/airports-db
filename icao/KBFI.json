@@ -1,10 +1,10 @@
 {
     "id": "3401",
     "ident": "KBFI",
-    "type": "medium_airport",
-    "name": "Boeing Field King County International Airport",
-    "latitude_deg": "47.529999",
-    "longitude_deg": "-122.302002",
+    "type": "large_airport",
+    "name": "King County International Airport",
+    "latitude_deg": "47.527042",
+    "longitude_deg": "-122.29995",
     "elevation_ft": "21",
     "continent": "NA",
     "iso_country": "US",
@@ -15,9 +15,9 @@
     "iata_code": "BFI",
     "gps_code": "KBFI",
     "local_code": "BFI",
-    "home_link": "",
+    "home_link": "https://kingcounty.gov/airport",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Boeing_Field",
-    "keywords": "",
+    "keywords": "Boeing Field",
     "runways": [
         {
             "id": "244141",

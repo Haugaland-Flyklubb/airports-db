@@ -1,7 +1,7 @@
 {
     "id": "3356",
     "ident": "KABE",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Lehigh Valley International Airport",
     "latitude_deg": "40.651773",
     "longitude_deg": "-75.442797",
@@ -9,15 +9,15 @@
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-PA",
-    "municipality": "Allentown",
+    "municipality": "Allentown/Bethlehem",
     "scheduled_service": "yes",
     "icao_code": "KABE",
     "iata_code": "ABE",
     "gps_code": "KABE",
     "local_code": "ABE",
-    "home_link": "",
+    "home_link": "https://flyabe.com",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lehigh_Valley_International_Airport",
-    "keywords": "",
+    "keywords": "Allentown–Bethlehem–Easton International Airport",
     "runways": [
         {
             "id": "240632",

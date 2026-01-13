@@ -1,7 +1,7 @@
 {
     "id": "46530",
     "ident": "KECP",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Northwest Florida Beaches International Airport",
     "latitude_deg": "30.357106",
     "longitude_deg": "-85.795414",
@@ -24,7 +24,7 @@
             "airport_ref": "46530",
             "airport_ident": "KECP",
             "length_ft": "10000",
-            "width_ft": "",
+            "width_ft": "150",
             "surface": "CON",
             "lighted": "1",
             "closed": "0",

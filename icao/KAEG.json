@@ -10,7 +10,7 @@
     "iso_country": "US",
     "iso_region": "US-NM",
     "municipality": "Albuquerque",
-    "scheduled_service": "yes",
+    "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
     "gps_code": "KAEG",
@@ -88,6 +88,14 @@
             "type": "CLD",
             "description": "CLNC DEL",
             "frequency_mhz": "124.8"
+        },
+        {
+            "id": "603617",
+            "airport_ref": "19242",
+            "airport_ident": "KAEG",
+            "type": "TWR",
+            "description": "0600-2200",
+            "frequency_mhz": "120.15"
         },
         {
             "id": "65258",
