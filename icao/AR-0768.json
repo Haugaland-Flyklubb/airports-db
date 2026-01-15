@@ -1,15 +1,15 @@
 {
-    "id": "35398",
-    "ident": "AR-0004",
-    "type": "closed",
-    "name": "Merlo Airport",
-    "latitude_deg": "-32.3582",
-    "longitude_deg": "-65.017403",
-    "elevation_ft": "796",
+    "id": "603863",
+    "ident": "AR-0768",
+    "type": "medium_airport",
+    "name": "Aeropuerto Pergamino",
+    "latitude_deg": "-33.89603",
+    "longitude_deg": "-60.5748",
+    "elevation_ft": "",
     "continent": "SA",
     "iso_country": "AR",
-    "iso_region": "AR-D",
-    "municipality": "Merlo",
+    "iso_region": "AR-B",
+    "municipality": "",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -17,7 +17,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SADR, RLO",
+    "keywords": "",
     "country": {
         "id": "302789",
         "code": "AR",
@@ -27,13 +27,13 @@
         "keywords": "Aeropuertos de Argentina"
     },
     "region": {
-        "id": "302935",
-        "code": "AR-D",
-        "local_code": "D",
-        "name": "San Luis Province",
+        "id": "302933",
+        "code": "AR-B",
+        "local_code": "B",
+        "name": "Buenos Aires Province",
         "continent": "SA",
         "iso_country": "AR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/San_Luis_Province",
-        "keywords": ""
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
+        "keywords": "Airports in Buenos Aires Province"
     }
 }
