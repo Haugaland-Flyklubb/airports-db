@@ -1,0 +1,63 @@
+{
+    "id": "603888",
+    "ident": "SD5L",
+    "type": "heliport",
+    "name": "Teófilo Otoni Regional Hospital Helipad",
+    "latitude_deg": "-17.831536",
+    "longitude_deg": "-41.507514",
+    "elevation_ft": "1106",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Teófilo Otoni",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SD5L",
+    "local_code": "MG0421",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "603897",
+            "airport_ref": "603888",
+            "airport_ident": "SD5L",
+            "length_ft": "79",
+            "width_ft": "79",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "20",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303209",
+        "code": "BR-MG",
+        "local_code": "MG",
+        "name": "Minas Gerais",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
+        "keywords": "Airports in Minas Gerais"
+    }
+}
