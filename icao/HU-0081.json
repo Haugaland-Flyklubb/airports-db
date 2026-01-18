@@ -1,0 +1,39 @@
+{
+    "id": "603993",
+    "ident": "HU-0081",
+    "type": "heliport",
+    "name": "Miskolc Heliport",
+    "latitude_deg": "48.13071",
+    "longitude_deg": "20.792152",
+    "elevation_ft": "380",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-BZ",
+    "municipality": "Miskolc",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304060",
+        "code": "HU-BZ",
+        "local_code": "BZ",
+        "name": "Borsod-Abaúj-Zemplén County",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Borsod-Abaúj-Zemplén_County",
+        "keywords": "Airports in Borsod-Abaúj-Zemplén County"
+    }
+}
