@@ -1,0 +1,39 @@
+{
+    "id": "604121",
+    "ident": "US-12881",
+    "type": "small_airport",
+    "name": "Bucksaw Ridge Strip",
+    "latitude_deg": "32.800393",
+    "longitude_deg": "-87.656677",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Akron",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": "Airports in Alabama"
+    }
+}
