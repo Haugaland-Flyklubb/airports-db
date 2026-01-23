@@ -44,14 +44,6 @@
     ],
     "freqs": [
         {
-            "id": "54512",
-            "airport_ref": "5545",
-            "airport_ident": "RJCH",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119"
-        },
-        {
             "id": "54513",
             "airport_ref": "5545",
             "airport_ident": "RJCH",
@@ -60,12 +52,12 @@
             "frequency_mhz": "126.6"
         },
         {
-            "id": "54514",
+            "id": "54512",
             "airport_ref": "5545",
             "airport_ident": "RJCH",
-            "type": "DEP",
-            "description": "DEP",
-            "frequency_mhz": "121"
+            "type": "RDR",
+            "description": "Shirakami Approach",
+            "frequency_mhz": "120.85"
         },
         {
             "id": "54515",
