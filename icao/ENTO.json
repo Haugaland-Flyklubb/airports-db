@@ -1,7 +1,7 @@
 {
     "id": "2600",
     "ident": "ENTO",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Sandefjord Airport, Torp",
     "latitude_deg": "59.186699",
     "longitude_deg": "10.2586",
@@ -9,15 +9,15 @@
     "continent": "EU",
     "iso_country": "NO",
     "iso_region": "NO-39",
-    "municipality": "Torp",
+    "municipality": "Sandefjord(Torp)",
     "scheduled_service": "yes",
     "icao_code": "ENTO",
     "iata_code": "TRF",
     "gps_code": "ENTO",
     "local_code": "",
-    "home_link": "https://torp.no/en/welcome-to-torp-sandefjord-airport/",
+    "home_link": "https://torp.no/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Sandefjord_Airport%2C_Torp",
-    "keywords": "",
+    "keywords": "Torp",
     "runways": [
         {
             "id": "237976",
