@@ -1,0 +1,63 @@
+{
+    "id": "604225",
+    "ident": "SN1M",
+    "type": "small_airport",
+    "name": "Riacho do Mel Airstrip",
+    "latitude_deg": "-9.593878",
+    "longitude_deg": "-37.409671",
+    "elevation_ft": "753",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AL",
+    "municipality": "São José da Tapera",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SN1M",
+    "local_code": "AL0046",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "604226",
+            "airport_ref": "604225",
+            "airport_ident": "SN1M",
+            "length_ft": "2754",
+            "width_ft": "56",
+            "surface": "Piçarra",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303200",
+        "code": "BR-AL",
+        "local_code": "AL",
+        "name": "Alagoas",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alagoas",
+        "keywords": "Airports in Alagoas"
+    }
+}

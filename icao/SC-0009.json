@@ -1,0 +1,39 @@
+{
+    "id": "604235",
+    "ident": "SC-0009",
+    "type": "small_airport",
+    "name": "Providence Island Airport",
+    "latitude_deg": "-9.22996",
+    "longitude_deg": "51.032687",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SC",
+    "iso_region": "SC-26",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302596",
+        "code": "SC",
+        "name": "Seychelles",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Seychelles",
+        "keywords": "Airports in Seychelles"
+    },
+    "region": {
+        "id": "553968",
+        "code": "SC-26",
+        "local_code": "26",
+        "name": "Outer Islands",
+        "continent": "AF",
+        "iso_country": "SC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Outer_Islands_(Seychelles)",
+        "keywords": ""
+    }
+}
