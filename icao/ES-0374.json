@@ -1,0 +1,39 @@
+{
+    "id": "604256",
+    "ident": "ES-0374",
+    "type": "heliport",
+    "name": "Palma Hospital Heliport",
+    "latitude_deg": "39.583853",
+    "longitude_deg": "2.631692",
+    "elevation_ft": "195",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-IB",
+    "municipality": "Palma de Mallorca",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303755",
+        "code": "ES-IB",
+        "local_code": "IB",
+        "name": "Islas Baleares",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balearic_Islands",
+        "keywords": "Airports in Baleares, Balearic Islands"
+    }
+}

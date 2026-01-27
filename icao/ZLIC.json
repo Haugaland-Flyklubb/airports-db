@@ -1,7 +1,7 @@
 {
     "id": "298989",
     "ident": "ZLIC",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Yinchuan Hedong International Airport",
     "latitude_deg": "38.322758",
     "longitude_deg": "106.393214",
@@ -15,9 +15,9 @@
     "iata_code": "INC",
     "gps_code": "ZLIC",
     "local_code": "",
-    "home_link": "http://www.ningxiaairport.com/",
+    "home_link": "https://ningxia.cwag.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Yinchuan_Hedong_International_Airport",
-    "keywords": "",
+    "keywords": "银川, 银川河东国际机场，宁夏",
     "runways": [
         {
             "id": "348403",
@@ -25,7 +25,7 @@
             "airport_ident": "ZLIC",
             "length_ft": "11811",
             "width_ft": "148",
-            "surface": "CONC",
+            "surface": "CON",
             "lighted": "1",
             "closed": "0",
             "le_ident": "03",

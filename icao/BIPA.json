@@ -1,7 +1,7 @@
 {
     "id": "124",
     "ident": "BIPA",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Patreksfjörður Airport",
     "latitude_deg": "65.555801",
     "longitude_deg": "-23.965",
@@ -11,13 +11,13 @@
     "iso_region": "IS-4",
     "municipality": "Patreksfjörður",
     "scheduled_service": "no",
-    "icao_code": "BIPA",
-    "iata_code": "PFJ",
-    "gps_code": "BIPA",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Patreksfj%C3%B6r%C3%B0ur_Airport",
-    "keywords": "",
+    "keywords": "BIPA, PFJ",
     "runways": [
         {
             "id": "236471",
