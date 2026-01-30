@@ -2,7 +2,7 @@
     "id": "301881",
     "ident": "EDDB",
     "type": "large_airport",
-    "name": "Berlin Brandenburg Willy Brandt Airport",
+    "name": "Berlin Brandenburg Airport",
     "latitude_deg": "52.361738",
     "longitude_deg": "13.502341",
     "elevation_ft": "157",
@@ -17,7 +17,7 @@
     "local_code": "",
     "home_link": "https://ber.berlin-airport.de/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport",
-    "keywords": "",
+    "keywords": "Willy Brandt",
     "runways": [
         {
             "id": "337086",
@@ -47,7 +47,7 @@
             "airport_ident": "EDDB",
             "length_ft": "13123",
             "width_ft": "197",
-            "surface": "CONC",
+            "surface": "PEM",
             "lighted": "1",
             "closed": "0",
             "le_ident": "06R",

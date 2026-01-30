@@ -8,14 +8,14 @@
     "elevation_ft": "508",
     "continent": "EU",
     "iso_country": "UA",
-    "iso_region": "UA-63",
+    "iso_region": "UA-U-A",
     "municipality": "Kharkiv",
-    "scheduled_service": "yes",
+    "scheduled_service": "no",
     "icao_code": "UKHH",
     "iata_code": "HRK",
     "gps_code": "UKHH",
     "local_code": "",
-    "home_link": "http://www.airport.kharkov.ua/",
+    "home_link": "https://hrk.aero/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kharkiv_International_Airport",
     "keywords": "Osnova International Airport, Міжнародний аеропорт \"Харків\"",
     "runways": [
@@ -85,14 +85,14 @@
         "keywords": "Аеропорти України"
     },
     "region": {
-        "id": "306002",
-        "code": "UA-63",
-        "local_code": "63",
-        "name": "Kharkiv Oblast",
+        "id": "306008",
+        "code": "UA-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
         "continent": "EU",
         "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kharkiv_Oblast",
-        "keywords": "Airports in Kharkiv Oblast"
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
     },
     "navaids": [
         {
