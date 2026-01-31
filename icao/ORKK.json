@@ -1,8 +1,8 @@
 {
     "id": "5293",
     "ident": "ORKK",
-    "type": "medium_airport",
-    "name": "Kirkuk Air Base",
+    "type": "large_airport",
+    "name": "Kirkuk International Airport",
     "latitude_deg": "35.469501",
     "longitude_deg": "44.3489",
     "elevation_ft": "1061",
@@ -10,14 +10,14 @@
     "iso_country": "IQ",
     "iso_region": "IQ-TS",
     "municipality": "Kirkuk",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "icao_code": "ORKK",
     "iata_code": "KIK",
     "gps_code": "ORKK",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kirkuk_International_Airport",
-    "keywords": "",
+    "keywords": "Kirkuk Air Base",
     "runways": [
         {
             "id": "237079",

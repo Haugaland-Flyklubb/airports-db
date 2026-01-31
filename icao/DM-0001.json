@@ -1,0 +1,63 @@
+{
+    "id": "604368",
+    "ident": "DM-0001",
+    "type": "closed",
+    "name": "Dominica International Airport (Under Construction)",
+    "latitude_deg": "15.572906",
+    "longitude_deg": "-61.31357",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "DM",
+    "iso_region": "DM-02",
+    "municipality": "Wesley",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dominica_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "604370",
+            "airport_ref": "604368",
+            "airport_ident": "DM-0001",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "1",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302733",
+        "code": "DM",
+        "name": "Dominica",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dominica",
+        "keywords": "Airports in Dominica"
+    },
+    "region": {
+        "id": "306401",
+        "code": "DM-02",
+        "local_code": "02",
+        "name": "Saint Andrew Parish",
+        "continent": "NA",
+        "iso_country": "DM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Andrew_Parish,_Dominica",
+        "keywords": "Airports in Saint Andrew Parish"
+    }
+}
