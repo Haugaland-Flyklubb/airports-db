@@ -42,6 +42,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "604374",
+            "airport_ref": "512065",
+            "airport_ident": "VAHS",
+            "type": "Tower",
+            "description": "",
+            "frequency_mhz": "120.025"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

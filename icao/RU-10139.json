@@ -1,0 +1,39 @@
+{
+    "id": "604385",
+    "ident": "RU-10139",
+    "type": "small_airport",
+    "name": "Preobrazhenka Airfield",
+    "latitude_deg": "53.296747",
+    "longitude_deg": "50.723555",
+    "elevation_ft": "134",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-SAM",
+    "municipality": "Preobrazhenka",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "ZF7T",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ЗФ7Т, Преображенка",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305322",
+        "code": "RU-SAM",
+        "local_code": "SAM",
+        "name": "Samara Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Samara_Oblast",
+        "keywords": "Airports in Samara Oblast"
+    }
+}
