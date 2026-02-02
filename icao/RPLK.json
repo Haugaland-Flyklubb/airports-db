@@ -1,7 +1,7 @@
 {
     "id": "336104",
     "ident": "RPLK",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Bicol International Airport",
     "latitude_deg": "13.111915",
     "longitude_deg": "123.676829",
@@ -17,7 +17,31 @@
     "local_code": "",
     "home_link": "https://caap.gov.ph/bicol-international-airport/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bicol_International_Airport",
-    "keywords": "Daraga",
+    "keywords": "Daraga, Southern Luzon International Airport",
+    "runways": [
+        {
+            "id": "604406",
+            "airport_ref": "336104",
+            "airport_ident": "RPLK",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "PEM",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "1485",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "1970"
+        }
+    ],
     "country": {
         "id": "302656",
         "code": "PH",

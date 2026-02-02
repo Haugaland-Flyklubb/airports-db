@@ -1,0 +1,39 @@
+{
+    "id": "604408",
+    "ident": "GB-1348",
+    "type": "small_airport",
+    "name": "Fowler's Field Airstrip",
+    "latitude_deg": "51.000764",
+    "longitude_deg": "-0.444937",
+    "elevation_ft": "94",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Billingshurst, West Sussex",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": "English airports"
+    }
+}
