@@ -1,7 +1,7 @@
 {
     "id": "41925",
     "ident": "MRAN",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "La Fortuna Arenal Airport",
     "latitude_deg": "10.469311",
     "longitude_deg": "-84.579073",
@@ -10,14 +10,14 @@
     "iso_country": "CR",
     "iso_region": "CR-A",
     "municipality": "La Fortuna",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "icao_code": "MRAN",
     "iata_code": "FON",
     "gps_code": "MRAN",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/La_Fortuna_Arenal_Airport",
-    "keywords": "",
+    "keywords": "El Tanque Airport",
     "runways": [
         {
             "id": "327766",
