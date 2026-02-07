@@ -1,0 +1,63 @@
+{
+    "id": "604508",
+    "ident": "GR-0109",
+    "type": "medium_airport",
+    "name": "(Duplicate)Kasteli Hellenic Air Force Base",
+    "latitude_deg": "35.191341",
+    "longitude_deg": "25.326588",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "GR",
+    "iso_region": "GR-M",
+    "municipality": "Kasteli",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kasteli_Airport#History_as_an_Air_Force_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "604509",
+            "airport_ref": "604508",
+            "airport_ident": "GR-0109",
+            "length_ft": "9875",
+            "width_ft": "148",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "986",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "995"
+        }
+    ],
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "430180",
+        "code": "GR-M",
+        "local_code": "M",
+        "name": "Crete",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Crete#Administration",
+        "keywords": "Κρήτη"
+    }
+}
