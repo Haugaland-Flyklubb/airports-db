@@ -3,8 +3,8 @@
     "ident": "NZDN",
     "type": "medium_airport",
     "name": "Dunedin International Airport",
-    "latitude_deg": "-45.928101",
-    "longitude_deg": "170.197998",
+    "latitude_deg": "-45.929017",
+    "longitude_deg": "170.197758",
     "elevation_ft": "4",
     "continent": "OC",
     "iso_country": "NZ",
@@ -15,9 +15,9 @@
     "iata_code": "DUD",
     "gps_code": "NZDN",
     "local_code": "",
-    "home_link": "http://www.dnairport.co.nz/",
+    "home_link": "https://www.dnairport.co.nz/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Dunedin_International_Airport",
-    "keywords": "",
+    "keywords": "Momona Airport",
     "runways": [
         {
             "id": "238041",
@@ -65,7 +65,7 @@
             "airport_ident": "NZDN",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "128.8"
+            "frequency_mhz": "126.45"
         },
         {
             "id": "55952",
