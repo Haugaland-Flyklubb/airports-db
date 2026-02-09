@@ -1,0 +1,39 @@
+{
+    "id": "604544",
+    "ident": "NE-0006",
+    "type": "small_airport",
+    "name": "Tillabéri Airport",
+    "latitude_deg": "14.256092",
+    "longitude_deg": "1.435102",
+    "elevation_ft": "673",
+    "continent": "AF",
+    "iso_country": "NE",
+    "iso_region": "NE-6",
+    "municipality": "Tillabéri",
+    "scheduled_service": "no",
+    "icao_code": "DRRL",
+    "iata_code": "",
+    "gps_code": "DRRL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Tillabery",
+    "country": {
+        "id": "302592",
+        "code": "NE",
+        "name": "Niger",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Niger",
+        "keywords": "Nigerien airports"
+    },
+    "region": {
+        "id": "304870",
+        "code": "NE-6",
+        "local_code": "6",
+        "name": "Tillabéri Region",
+        "continent": "AF",
+        "iso_country": "NE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tillab%C3%A9ri_Region",
+        "keywords": "Airports in Tillabéri Region"
+    }
+}
