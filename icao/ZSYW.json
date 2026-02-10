@@ -1,7 +1,7 @@
 {
     "id": "32726",
     "ident": "ZSYW",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Yiwu Airport",
     "latitude_deg": "29.342095",
     "longitude_deg": "120.03116",
@@ -9,7 +9,7 @@
     "continent": "AS",
     "iso_country": "CN",
     "iso_region": "CN-33",
-    "municipality": "Jinhua (Yiwu)",
+    "municipality": "Yiwu/Jinhua",
     "scheduled_service": "yes",
     "icao_code": "ZSYW",
     "iata_code": "YIW",
@@ -17,7 +17,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Yiwu_Airport",
-    "keywords": "",
+    "keywords": "Jinhua",
     "runways": [
         {
             "id": "348429",
@@ -25,7 +25,7 @@
             "airport_ident": "ZSYW",
             "length_ft": "9843",
             "width_ft": "148",
-            "surface": "CONC",
+            "surface": "ASP",
             "lighted": "1",
             "closed": "0",
             "le_ident": "02",
