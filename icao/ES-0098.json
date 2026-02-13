@@ -2,7 +2,7 @@
     "id": "320753",
     "ident": "ES-0098",
     "type": "small_airport",
-    "name": "Moià El Prat",
+    "name": "Camp de Vol Prat de la Plana-Moià",
     "latitude_deg": "41.800541",
     "longitude_deg": "2.112188",
     "elevation_ft": "2264",
@@ -15,9 +15,43 @@
     "iata_code": "",
     "gps_code": "",
     "local_code": "",
-    "home_link": "http://aeroesport.com",
+    "home_link": "http://campdevolmoia.com",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Ultrallaugers, Moià, Camp de Vol",
+    "runways": [
+        {
+            "id": "604648",
+            "airport_ref": "320753",
+            "airport_ident": "ES-0098",
+            "length_ft": "1640",
+            "width_ft": "33",
+            "surface": "Formigó",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "807"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "604650",
+            "airport_ref": "320753",
+            "airport_ident": "ES-0098",
+            "type": "Banda Aèria",
+            "description": "",
+            "frequency_mhz": "130.125"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",
