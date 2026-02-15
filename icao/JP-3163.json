@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "604673",
+            "airport_ref": "508549",
+            "airport_ident": "JP-3163",
+            "length_ft": "666",
+            "width_ft": "",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "107",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "287",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

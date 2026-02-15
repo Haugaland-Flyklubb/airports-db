@@ -18,6 +18,62 @@
     "home_link": "",
     "wikipedia_link": "https://pl.wikipedia.org/wiki/L%C4%85dowisko_Chrcynno",
     "keywords": "",
+    "runways": [
+        {
+            "id": "604682",
+            "airport_ref": "43054",
+            "airport_ident": "PL-0008",
+            "length_ft": "2755",
+            "width_ft": "164",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "375",
+            "le_heading_degT": "100",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "375",
+            "he_heading_degT": "280",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "604683",
+            "airport_ref": "43054",
+            "airport_ident": "PL-0008",
+            "length_ft": "2985",
+            "width_ft": "180",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "375",
+            "le_heading_degT": "132",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "375",
+            "he_heading_degT": "312",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "604681",
+            "airport_ref": "43054",
+            "airport_ident": "PL-0008",
+            "type": "CTAF",
+            "description": "Chrcynno Radio",
+            "frequency_mhz": "125.94"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",
