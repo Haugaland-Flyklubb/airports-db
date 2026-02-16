@@ -3,12 +3,12 @@
     "ident": "SK-484",
     "type": "small_airport",
     "name": "Pacoa Airport",
-    "latitude_deg": "0.066667",
-    "longitude_deg": "-71.208333",
+    "latitude_deg": "0.053571",
+    "longitude_deg": "-71.224471",
     "elevation_ft": "549",
     "continent": "SA",
     "iso_country": "CO",
-    "iso_region": "CO-VAU",
+    "iso_region": "CO-CAQ",
     "municipality": "Pacoa",
     "scheduled_service": "no",
     "icao_code": "",
@@ -17,7 +17,7 @@
     "local_code": "PCA",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "La Victoria",
     "country": {
         "id": "302793",
         "code": "CO",
@@ -27,13 +27,13 @@
         "keywords": "Aeropuertos de Colombia"
     },
     "region": {
-        "id": "303489",
-        "code": "CO-VAU",
-        "local_code": "VAU",
-        "name": "Vaupés Department",
+        "id": "303464",
+        "code": "CO-CAQ",
+        "local_code": "CAQ",
+        "name": "Caquetá Department",
         "continent": "SA",
         "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vaupés_Department",
-        "keywords": "Airports in Vaupés Department"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Caquetá_Department",
+        "keywords": "Airports in Caquetá Department"
     }
 }

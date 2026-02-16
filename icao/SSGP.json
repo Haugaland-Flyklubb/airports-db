@@ -1,8 +1,8 @@
 {
     "id": "44561",
     "ident": "SSGP",
-    "type": "small_airport",
-    "name": "Piquet Airport (Closed?)",
+    "type": "closed",
+    "name": "Piquet Airport",
     "latitude_deg": "-15.854319",
     "longitude_deg": "-47.808639",
     "elevation_ft": "3570",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "SSGP",
-    "local_code": "DF0007",
+    "gps_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SSGP, DF0007",
     "runways": [
         {
             "id": "260739",
