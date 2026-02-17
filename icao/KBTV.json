@@ -1,7 +1,7 @@
 {
     "id": "3430",
     "ident": "KBTV",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Patrick Leahy Burlington International Airport",
     "latitude_deg": "44.471901",
     "longitude_deg": "-73.153297",
@@ -39,7 +39,7 @@
             "he_longitude_deg": "-73.153099",
             "he_elevation_ft": "329",
             "he_heading_degT": "171",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "500"
         },
         {
             "id": "243901",
@@ -51,17 +51,17 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "15",
-            "le_latitude_deg": "44.48070145",
-            "le_longitude_deg": "-73.16590118",
+            "le_latitude_deg": "44.480701",
+            "le_longitude_deg": "-73.165901",
             "le_elevation_ft": "306",
             "le_heading_degT": "131",
             "le_displaced_threshold_ft": "",
             "he_ident": "33",
-            "he_latitude_deg": "44.46580124",
-            "he_longitude_deg": "-73.14179993",
+            "he_latitude_deg": "44.465801",
+            "he_longitude_deg": "-73.1418",
             "he_elevation_ft": "334",
             "he_heading_degT": "311",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "500"
         }
     ],
     "freqs": [
