@@ -1,0 +1,39 @@
+{
+    "id": "604770",
+    "ident": "AF-0027",
+    "type": "small_airport",
+    "name": "Camp Rhino Airstrip",
+    "latitude_deg": "30.493368",
+    "longitude_deg": "64.520363",
+    "elevation_ft": "3229",
+    "continent": "AS",
+    "iso_country": "AF",
+    "iso_region": "AF-HEL",
+    "municipality": "Rigestan Desert",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Camp_Rhino",
+    "keywords": "Rhino FOB",
+    "country": {
+        "id": "302619",
+        "code": "AF",
+        "name": "Afghanistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Afghanistan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "302836",
+        "code": "AF-HEL",
+        "local_code": "HEL",
+        "name": "Helmand Province",
+        "continent": "AS",
+        "iso_country": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Helmand_Province",
+        "keywords": "Airports in Helmand Province"
+    }
+}

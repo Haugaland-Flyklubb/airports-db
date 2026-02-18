@@ -47,9 +47,25 @@
             "id": "52327",
             "airport_ref": "4238",
             "airport_ident": "LFST",
-            "type": "APP",
-            "description": "STRASBOURG APP",
-            "frequency_mhz": "119.45"
+            "type": "APP 1",
+            "description": "STRASBOURG APPROCHE",
+            "frequency_mhz": "120.41"
+        },
+        {
+            "id": "604759",
+            "airport_ref": "4238",
+            "airport_ident": "LFST",
+            "type": "APP 2",
+            "description": "STRASBOURG APPROCHE",
+            "frequency_mhz": "119.58"
+        },
+        {
+            "id": "604760",
+            "airport_ref": "4238",
+            "airport_ident": "LFST",
+            "type": "APP 3",
+            "description": "STRASBOURG APPROCHE",
+            "frequency_mhz": "133.1"
         },
         {
             "id": "52328",
@@ -57,23 +73,39 @@
             "airport_ident": "LFST",
             "type": "ATIS",
             "description": "STRASBOURG ATIS",
-            "frequency_mhz": "126.925"
+            "frequency_mhz": "126.93"
+        },
+        {
+            "id": "604761",
+            "airport_ref": "4238",
+            "airport_ident": "LFST",
+            "type": "FIS 1",
+            "description": "STRASBOURG INFORMATION",
+            "frequency_mhz": "120.41"
+        },
+        {
+            "id": "604762",
+            "airport_ref": "4238",
+            "airport_ident": "LFST",
+            "type": "FIS 2",
+            "description": "STRASBOURG INFORMATION",
+            "frequency_mhz": "119.58"
         },
         {
             "id": "52329",
             "airport_ref": "4238",
             "airport_ident": "LFST",
             "type": "GND",
-            "description": "STRASBOURG GND",
-            "frequency_mhz": "121.8"
+            "description": "STRASBOURG SOL",
+            "frequency_mhz": "121.805"
         },
         {
             "id": "52330",
             "airport_ref": "4238",
             "airport_ident": "LFST",
             "type": "TWR",
-            "description": "STRASBOURG TWR",
-            "frequency_mhz": "126.875"
+            "description": "STRASBOURG TOUR",
+            "frequency_mhz": "119.25"
         }
     ],
     "country": {
