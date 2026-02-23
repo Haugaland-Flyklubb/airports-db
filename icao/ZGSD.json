@@ -1,7 +1,7 @@
 {
     "id": "30593",
     "ident": "ZGSD",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Zhuhai Jinwan Airport",
     "latitude_deg": "22.006399",
     "longitude_deg": "113.375999",
@@ -17,15 +17,15 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Zhuhai_Jinwan_Airport",
-    "keywords": "",
+    "keywords": "珠海, 珠海金湾机场, 珠海三灶机场, Sanzao Airport",
     "runways": [
         {
             "id": "348406",
             "airport_ref": "30593",
             "airport_ident": "ZGSD",
-            "length_ft": "13123",
+            "length_ft": "13517",
             "width_ft": "148",
-            "surface": "CONC",
+            "surface": "PEM",
             "lighted": "1",
             "closed": "0",
             "le_ident": "05",

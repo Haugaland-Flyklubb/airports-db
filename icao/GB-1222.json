@@ -1,7 +1,7 @@
 {
     "id": "2491",
     "ident": "GB-1222",
-    "type": "closed",
+    "type": "small_airport",
     "name": "RAF Wyton",
     "latitude_deg": "52.357117",
     "longitude_deg": "-0.107787",
@@ -11,13 +11,13 @@
     "iso_region": "GB-ENG",
     "municipality": "St Ives, Cambridgeshire",
     "scheduled_service": "no",
-    "icao_code": "",
-    "iata_code": "",
-    "gps_code": "",
+    "icao_code": "EGUY",
+    "iata_code": "QUY",
+    "gps_code": "EGUY",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://www.raf.mod.uk/our-organisation/stations/raf-wyton/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Wyton",
-    "keywords": "EGUY, QUY",
+    "keywords": "",
     "runways": [
         {
             "id": "239498",
