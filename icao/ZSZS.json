@@ -1,10 +1,10 @@
 {
     "id": "31624",
     "ident": "ZSZS",
-    "type": "medium_airport",
-    "name": "Zhoushan Putuoshan Airport",
-    "latitude_deg": "29.9342",
-    "longitude_deg": "122.362",
+    "type": "large_airport",
+    "name": "Zhoushan Putuoshan International Airport",
+    "latitude_deg": "29.933874",
+    "longitude_deg": "122.362307",
     "elevation_ft": "3",
     "continent": "AS",
     "iso_country": "CN",
@@ -16,16 +16,16 @@
     "gps_code": "ZSZS",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Zhoushan_Putuoshan_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Zhoushan_Putuoshan_International_Airport",
     "keywords": "",
     "runways": [
         {
             "id": "348427",
             "airport_ref": "31624",
             "airport_ident": "ZSZS",
-            "length_ft": "7546",
-            "width_ft": "",
-            "surface": "",
+            "length_ft": "8202",
+            "width_ft": "148",
+            "surface": "CON",
             "lighted": "1",
             "closed": "0",
             "le_ident": "18",
@@ -39,7 +39,7 @@
             "he_longitude_deg": "",
             "he_elevation_ft": "",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "335"
         }
     ],
     "country": {
