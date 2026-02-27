@@ -1,0 +1,63 @@
+{
+    "id": "604962",
+    "ident": "NZ-0095",
+    "type": "heliport",
+    "name": "Ashburton Medical Centre Helipad",
+    "latitude_deg": "-43.894123",
+    "longitude_deg": "171.747835",
+    "elevation_ft": "338",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-CAN",
+    "municipality": "Ashburton",
+    "scheduled_service": "no",
+    "icao_code": "NZAM",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "604975",
+            "airport_ref": "604962",
+            "airport_ident": "NZ-0095",
+            "length_ft": "33",
+            "width_ft": "33",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302776",
+        "code": "NZ",
+        "name": "New Zealand",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Zealand",
+        "keywords": "Airports in New Zealand"
+    },
+    "region": {
+        "id": "304972",
+        "code": "NZ-CAN",
+        "local_code": "CAN",
+        "name": "Canterbury Region",
+        "continent": "OC",
+        "iso_country": "NZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canterbury,_New_Zealand",
+        "keywords": "Airports in Canterbury Region"
+    }
+}
