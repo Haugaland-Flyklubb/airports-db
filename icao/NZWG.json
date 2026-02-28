@@ -1,0 +1,39 @@
+{
+    "id": "605017",
+    "ident": "NZWG",
+    "type": "heliport",
+    "name": "Whangamata Helipad",
+    "latitude_deg": "-37.200527",
+    "longitude_deg": "175.866627",
+    "elevation_ft": "10",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-WKO",
+    "municipality": "Whangamata",
+    "scheduled_service": "no",
+    "icao_code": "NZWG",
+    "iata_code": "",
+    "gps_code": "NZWG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302776",
+        "code": "NZ",
+        "name": "New Zealand",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Zealand",
+        "keywords": "Airports in New Zealand"
+    },
+    "region": {
+        "id": "304985",
+        "code": "NZ-WKO",
+        "local_code": "WKO",
+        "name": "Waikato Region",
+        "continent": "OC",
+        "iso_country": "NZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Waikato",
+        "keywords": "Airports in Waikato Region"
+    }
+}
