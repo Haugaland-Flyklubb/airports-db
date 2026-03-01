@@ -1,7 +1,7 @@
 {
     "id": "509451",
     "ident": "VYHH",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Heho Airport",
     "latitude_deg": "20.74714",
     "longitude_deg": "96.792029",
@@ -9,7 +9,7 @@
     "continent": "AS",
     "iso_country": "MM",
     "iso_region": "MM-17",
-    "municipality": "Kalaw Township",
+    "municipality": "Heho",
     "scheduled_service": "yes",
     "icao_code": "VYHH",
     "iata_code": "HEH",
@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Heho_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "605051",
+            "airport_ref": "509451",
+            "airport_ident": "VYHH",
+            "length_ft": "8500",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302649",
         "code": "MM",
