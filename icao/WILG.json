@@ -1,0 +1,39 @@
+{
+    "id": "605120",
+    "ident": "WILG",
+    "type": "small_airport",
+    "name": "Gunung Batin Airport",
+    "latitude_deg": "-4.706449",
+    "longitude_deg": "105.26393",
+    "elevation_ft": "92",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-LA",
+    "municipality": "Gunung Batin",
+    "scheduled_service": "no",
+    "icao_code": "WILG",
+    "iata_code": "",
+    "gps_code": "WILG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304113",
+        "code": "ID-LA",
+        "local_code": "LA",
+        "name": "Lampung",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lampung",
+        "keywords": "Airports in Lampung"
+    }
+}

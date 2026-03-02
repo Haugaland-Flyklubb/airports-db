@@ -1,0 +1,39 @@
+{
+    "id": "605114",
+    "ident": "ID-0394",
+    "type": "small_airport",
+    "name": "Burumeso Airstrip",
+    "latitude_deg": "-2.353127",
+    "longitude_deg": "137.998064",
+    "elevation_ft": "193",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Burumeso",
+    "scheduled_service": "no",
+    "icao_code": "WABP",
+    "iata_code": "",
+    "gps_code": "WABP",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304118",
+        "code": "ID-PA",
+        "local_code": "PA",
+        "name": "Papua",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
+        "keywords": "Airports in Papua"
+    }
+}
