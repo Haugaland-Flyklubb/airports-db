@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Primrose_Aerodrome",
     "keywords": "FN6",
+    "runways": [
+        {
+            "id": "605281",
+            "airport_ref": "39943",
+            "airport_ident": "CA-0297",
+            "length_ft": "3906",
+            "width_ft": "100",
+            "surface": "Gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "2304",
+            "le_heading_degT": "135",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "2301",
+            "he_heading_degT": "315",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

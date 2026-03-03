@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kallang_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "605279",
+            "airport_ref": "339980",
+            "airport_ident": "SG-0004",
+            "length_ft": "5500",
+            "width_ft": "",
+            "surface": "Asphalt",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "65",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "245",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302661",
         "code": "SG",
