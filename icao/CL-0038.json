@@ -1,0 +1,39 @@
+{
+    "id": "605436",
+    "ident": "CL-0038",
+    "type": "heliport",
+    "name": "Alto Hospicio Hospital Helistop.",
+    "latitude_deg": "-20.295985",
+    "longitude_deg": "-70.097637",
+    "elevation_ft": "1726",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-U-A",
+    "municipality": "Alto Hospicio",
+    "scheduled_service": "no",
+    "icao_code": "SHTO",
+    "iata_code": "",
+    "gps_code": "SHTO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303409",
+        "code": "CL-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "605423",
+    "ident": "SHLJ",
+    "type": "heliport",
+    "name": "Los Junquillos Heliport",
+    "latitude_deg": "-34.956124",
+    "longitude_deg": "-71.96007",
+    "elevation_ft": "987",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-ML",
+    "municipality": "Vichuquen",
+    "scheduled_service": "no",
+    "icao_code": "SHLJ",
+    "iata_code": "",
+    "gps_code": "SHLJ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "605424",
+            "airport_ref": "605423",
+            "airport_ident": "SHLJ",
+            "length_ft": "46",
+            "width_ft": "46",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303406",
+        "code": "CL-ML",
+        "local_code": "ML",
+        "name": "Maule Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maule_Region",
+        "keywords": "Airports in Maule Region"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "605427",
+    "ident": "SHOH",
+    "type": "heliport",
+    "name": "Military School Heliport",
+    "latitude_deg": "-33.4089",
+    "longitude_deg": "-70.580866",
+    "elevation_ft": "2154",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Las Condes",
+    "scheduled_service": "no",
+    "icao_code": "SHOH",
+    "iata_code": "",
+    "gps_code": "SHOH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303407",
+        "code": "CL-RM",
+        "local_code": "RM",
+        "name": "Santiago Metropolitan Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_Metropolitan_Region",
+        "keywords": "Airports in Santiago Metropolitan Region"
+    }
+}
