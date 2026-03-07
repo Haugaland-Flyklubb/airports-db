@@ -1,15 +1,15 @@
 {
-    "id": "12748",
-    "ident": "5XS4",
+    "id": "605481",
+    "ident": "US-12918",
     "type": "closed",
-    "name": "Gary's Airport",
-    "latitude_deg": "29.5863",
-    "longitude_deg": "-98.119698",
-    "elevation_ft": "655",
+    "name": "Dennis Airport",
+    "latitude_deg": "41.002222",
+    "longitude_deg": "-85.296392",
+    "elevation_ft": "751",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-TX",
-    "municipality": "Marion",
+    "iso_region": "US-IN",
+    "municipality": "Aboite",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -17,7 +17,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "5XS4",
+    "keywords": "IN66",
     "country": {
         "id": "302755",
         "code": "US",
@@ -27,13 +27,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": "Airports in Indiana"
     }
 }
