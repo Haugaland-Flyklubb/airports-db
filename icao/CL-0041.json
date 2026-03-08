@@ -1,0 +1,63 @@
+{
+    "id": "605501",
+    "ident": "CL-0041",
+    "type": "heliport",
+    "name": "Reitz Building Two Helistop",
+    "latitude_deg": "-33.043037",
+    "longitude_deg": "-71.516654",
+    "elevation_ft": "240",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-VS",
+    "municipality": "Viña del Mar",
+    "scheduled_service": "no",
+    "icao_code": "SHRZ",
+    "iata_code": "",
+    "gps_code": "SHRZ",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "605509",
+            "airport_ref": "605501",
+            "airport_ident": "CL-0041",
+            "length_ft": "66",
+            "width_ft": "66",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303410",
+        "code": "CL-VS",
+        "local_code": "VS",
+        "name": "Valparaíso Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valparaíso_Region",
+        "keywords": "Airports in Valparaíso Region"
+    }
+}

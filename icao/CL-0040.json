@@ -1,0 +1,63 @@
+{
+    "id": "605500",
+    "ident": "CL-0040",
+    "type": "heliport",
+    "name": "Gustavo Fricke Hospital Helistop",
+    "latitude_deg": "-33.029345",
+    "longitude_deg": "-71.543095",
+    "elevation_ft": "243",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-VS",
+    "municipality": "Viña del Mar",
+    "scheduled_service": "no",
+    "icao_code": "SHGF",
+    "iata_code": "",
+    "gps_code": "SFGF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "605508",
+            "airport_ref": "605500",
+            "airport_ident": "CL-0040",
+            "length_ft": "66",
+            "width_ft": "66",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303410",
+        "code": "CL-VS",
+        "local_code": "VS",
+        "name": "Valparaíso Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valparaíso_Region",
+        "keywords": "Airports in Valparaíso Region"
+    }
+}
