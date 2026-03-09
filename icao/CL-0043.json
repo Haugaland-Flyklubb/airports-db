@@ -1,0 +1,63 @@
+{
+    "id": "605530",
+    "ident": "CL-0043",
+    "type": "heliport",
+    "name": "Quillota-Petorca Biprovincial Hospital Helistop",
+    "latitude_deg": "-32.901881",
+    "longitude_deg": "-71.252916",
+    "elevation_ft": "456",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-VS",
+    "municipality": "Quillota",
+    "scheduled_service": "no",
+    "icao_code": "SHBI",
+    "iata_code": "",
+    "gps_code": "SHBI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "605533",
+            "airport_ref": "605530",
+            "airport_ident": "CL-0043",
+            "length_ft": "89",
+            "width_ft": "89",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303410",
+        "code": "CL-VS",
+        "local_code": "VS",
+        "name": "Valparaíso Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valparaíso_Region",
+        "keywords": "Airports in Valparaíso Region"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": "605539",
+    "ident": "SYKE",
+    "type": "small_airport",
+    "name": "Kwebana Airport",
+    "latitude_deg": "7.555833",
+    "longitude_deg": "-59.141667",
+    "elevation_ft": "30",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-BA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "SYKE",
+    "iata_code": "",
+    "gps_code": "SYKE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302797",
+        "code": "GY",
+        "name": "Guyana",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guyana",
+        "keywords": "Guyanese airports"
+    },
+    "region": {
+        "id": "303994",
+        "code": "GY-BA",
+        "local_code": "BA",
+        "name": "Barima-Waini",
+        "continent": "SA",
+        "iso_country": "GY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Barima-Waini",
+        "keywords": "Airports in Barima-Waini"
+    }
+}

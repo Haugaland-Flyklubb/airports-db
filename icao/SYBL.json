@@ -1,0 +1,39 @@
+{
+    "id": "605534",
+    "ident": "SYBL",
+    "type": "small_airport",
+    "name": "Blairmont Airport",
+    "latitude_deg": "6.254107",
+    "longitude_deg": "-57.542989",
+    "elevation_ft": "3",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-ES",
+    "municipality": "Blairmont",
+    "scheduled_service": "no",
+    "icao_code": "SYBL",
+    "iata_code": "",
+    "gps_code": "SYBL",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302797",
+        "code": "GY",
+        "name": "Guyana",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guyana",
+        "keywords": "Guyanese airports"
+    },
+    "region": {
+        "id": "303998",
+        "code": "GY-ES",
+        "local_code": "ES",
+        "name": "Essequibo Islands-West Demerara",
+        "continent": "SA",
+        "iso_country": "GY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Essequibo_Islands-West_Demerara",
+        "keywords": "Airports in Essequibo Islands-West Demerara"
+    }
+}

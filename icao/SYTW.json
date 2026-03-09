@@ -1,0 +1,39 @@
+{
+    "id": "605536",
+    "ident": "SYTW",
+    "type": "small_airport",
+    "name": "Tassawani Airport",
+    "latitude_deg": "7.503827",
+    "longitude_deg": "-59.590745",
+    "elevation_ft": "98",
+    "continent": "SA",
+    "iso_country": "GY",
+    "iso_region": "GY-BA",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "SYTW",
+    "iata_code": "",
+    "gps_code": "SYTW",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Chinese Landing",
+    "country": {
+        "id": "302797",
+        "code": "GY",
+        "name": "Guyana",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guyana",
+        "keywords": "Guyanese airports"
+    },
+    "region": {
+        "id": "303994",
+        "code": "GY-BA",
+        "local_code": "BA",
+        "name": "Barima-Waini",
+        "continent": "SA",
+        "iso_country": "GY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Barima-Waini",
+        "keywords": "Airports in Barima-Waini"
+    }
+}
