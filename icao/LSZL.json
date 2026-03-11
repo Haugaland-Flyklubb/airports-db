@@ -3,8 +3,8 @@
     "ident": "LSZL",
     "type": "small_airport",
     "name": "Locarno Airport",
-    "latitude_deg": "46.160801",
-    "longitude_deg": "8.87861",
+    "latitude_deg": "46.162535",
+    "longitude_deg": "8.878908",
     "elevation_ft": "650",
     "continent": "EU",
     "iso_country": "CH",
@@ -84,6 +84,32 @@
             "he_elevation_ft": "650",
             "he_heading_degT": "258",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "605582",
+            "airport_ref": "29523",
+            "airport_ident": "LSZL",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "133.455"
+        },
+        {
+            "id": "605579",
+            "airport_ref": "29523",
+            "airport_ident": "LSZL",
+            "type": "GND",
+            "description": "",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "605580",
+            "airport_ref": "29523",
+            "airport_ident": "LSZL",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "134.825"
         }
     ],
     "country": {
