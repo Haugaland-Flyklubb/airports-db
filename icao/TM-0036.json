@@ -1,0 +1,39 @@
+{
+    "id": "605720",
+    "ident": "TM-0036",
+    "type": "heliport",
+    "name": "Serakhs Heliport",
+    "latitude_deg": "36.533081",
+    "longitude_deg": "61.188764",
+    "elevation_ft": "919",
+    "continent": "AS",
+    "iso_country": "TM",
+    "iso_region": "TM-A",
+    "municipality": "Serakhs",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302666",
+        "code": "TM",
+        "name": "Turkmenistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkmenistan",
+        "keywords": "Turkmenistani airports, Airports in Turkmenistan"
+    },
+    "region": {
+        "id": "305804",
+        "code": "TM-A",
+        "local_code": "A",
+        "name": "Ahal Region",
+        "continent": "AS",
+        "iso_country": "TM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ahal_Region",
+        "keywords": "Airports in Ahal"
+    }
+}

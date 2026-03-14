@@ -66,14 +66,6 @@
     ],
     "freqs": [
         {
-            "id": "58255",
-            "airport_ref": "2453",
-            "airport_ident": "EGOS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "126.5"
-        },
-        {
             "id": "58256",
             "airport_ref": "2453",
             "airport_ident": "EGOS",
@@ -120,6 +112,14 @@
             "type": "TWR",
             "description": "TWR",
             "frequency_mhz": "122.1"
+        },
+        {
+            "id": "58255",
+            "airport_ref": "2453",
+            "airport_ident": "EGOS",
+            "type": "ZONE",
+            "description": "APP",
+            "frequency_mhz": "133.155"
         }
     ],
     "country": {
