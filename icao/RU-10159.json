@@ -1,0 +1,39 @@
+{
+    "id": "605797",
+    "ident": "RU-10159",
+    "type": "small_airport",
+    "name": "Vasilevo Airstrip [INACTIVE]",
+    "latitude_deg": "56.55732",
+    "longitude_deg": "38.58063",
+    "elevation_ft": "664",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-YAR",
+    "municipality": "Vasilevo",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "ZB0N",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ЗБ0Н, Василёво",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305345",
+        "code": "RU-YAR",
+        "local_code": "YAR",
+        "name": "Yaroslavl Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yaroslavl_Oblast",
+        "keywords": "Airports in Yaroslavl Oblast"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "605770",
+    "ident": "UUWL",
+    "type": "heliport",
+    "name": "Luzhki Heliport",
+    "latitude_deg": "55.42536",
+    "longitude_deg": "37.1299",
+    "elevation_ft": "541",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MOS",
+    "municipality": "Luzhki",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "UUWL",
+    "local_code": "UUWL",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "УУВЛ, Лужки",
+    "runways": [
+        {
+            "id": "605771",
+            "airport_ref": "605770",
+            "airport_ident": "UUWL",
+            "length_ft": "66",
+            "width_ft": "66",
+            "surface": "grs",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "24",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "224",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305304",
+        "code": "RU-MOS",
+        "local_code": "MOS",
+        "name": "Moscow Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Moscow_Oblast",
+        "keywords": "Airports in Moscow Oblast"
+    }
+}
