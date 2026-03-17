@@ -1,0 +1,63 @@
+{
+    "id": "605813",
+    "ident": "SD5X",
+    "type": "heliport",
+    "name": "Heli Boss Heliport",
+    "latitude_deg": "-23.008569",
+    "longitude_deg": "-43.301817",
+    "elevation_ft": "20",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Rio de Janeiro",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SD5X",
+    "local_code": "RJ0402",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "605814",
+            "airport_ref": "605813",
+            "airport_ident": "SD5X",
+            "length_ft": "59",
+            "width_ft": "59",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "8",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303217",
+        "code": "BR-RJ",
+        "local_code": "RJ",
+        "name": "Rio de Janeiro",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
+        "keywords": "Airports in Rio de Janeiro"
+    }
+}
