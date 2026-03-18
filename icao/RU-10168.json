@@ -1,0 +1,63 @@
+{
+    "id": "605839",
+    "ident": "RU-10168",
+    "type": "heliport",
+    "name": "Koncel Heliport",
+    "latitude_deg": "56.01155",
+    "longitude_deg": "37.16177",
+    "elevation_ft": "713",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MOW",
+    "municipality": "Silino",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "HEH5",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ХЕХ5, Концел",
+    "runways": [
+        {
+            "id": "605840",
+            "airport_ref": "605839",
+            "airport_ident": "RU-10168",
+            "length_ft": "59",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305305",
+        "code": "RU-MOW",
+        "local_code": "MOW",
+        "name": "Moscow (city)",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Moscow_(city)",
+        "keywords": "Airports in Moscow (city)"
+    }
+}

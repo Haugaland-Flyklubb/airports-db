@@ -1,0 +1,39 @@
+{
+    "id": "605831",
+    "ident": "CN-0486",
+    "type": "small_airport",
+    "name": "Ning'an Airfield",
+    "latitude_deg": "44.213198",
+    "longitude_deg": "129.383041",
+    "elevation_ft": "1130",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-22",
+    "municipality": "Ning'an, Mudanjiang",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303428",
+        "code": "CN-22",
+        "local_code": "22",
+        "name": "Jilin Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jilin",
+        "keywords": "Airports in Jilin Province"
+    }
+}

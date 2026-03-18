@@ -2,14 +2,14 @@
     "id": "599958",
     "ident": "CN-0479",
     "type": "small_airport",
-    "name": "Neixiang",
-    "latitude_deg": "32.977467",
-    "longitude_deg": "111.881872",
+    "name": "Neixiang Air Base",
+    "latitude_deg": "32.975237",
+    "longitude_deg": "111.884194",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "CN",
-    "iso_region": "CN-U-A",
-    "municipality": "",
+    "iso_region": "CN-41",
+    "municipality": "Neixiang, Nanyang",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "中国的机场"
     },
     "region": {
-        "id": "303456",
-        "code": "CN-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303437",
+        "code": "CN-41",
+        "local_code": "41",
+        "name": "Henan Province",
         "continent": "AS",
         "iso_country": "CN",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Henan",
+        "keywords": "Airports in Henan Province"
     }
 }
