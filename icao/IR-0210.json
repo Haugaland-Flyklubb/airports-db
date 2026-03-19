@@ -1,0 +1,39 @@
+{
+    "id": "605900",
+    "ident": "IR-0210",
+    "type": "small_airport",
+    "name": "Zergh Abad Agricultural Airport",
+    "latitude_deg": "37.044625",
+    "longitude_deg": "57.278175",
+    "elevation_ft": "3458",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-28",
+    "municipality": "Zergh Abad",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "306735",
+        "code": "IR-28",
+        "local_code": "28",
+        "name": "North Khorasan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Khorasan_Province",
+        "keywords": "Airports in North Khorasan Province"
+    }
+}

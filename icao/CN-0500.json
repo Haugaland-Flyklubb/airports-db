@@ -1,0 +1,39 @@
+{
+    "id": "605894",
+    "ident": "CN-0500",
+    "type": "small_airport",
+    "name": "Xinxiang Pingyuan Airport",
+    "latitude_deg": "35.238728",
+    "longitude_deg": "113.744239",
+    "elevation_ft": "250",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-41",
+    "municipality": "Xinxiang",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303437",
+        "code": "CN-41",
+        "local_code": "41",
+        "name": "Henan Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Henan",
+        "keywords": "Airports in Henan Province"
+    }
+}

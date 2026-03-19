@@ -1,0 +1,39 @@
+{
+    "id": "605913",
+    "ident": "IR-0223",
+    "type": "small_airport",
+    "name": "Jafarabad Agricultural Airfield",
+    "latitude_deg": "34.82798",
+    "longitude_deg": "50.73128",
+    "elevation_ft": "2923",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-25",
+    "municipality": "Jafarabad",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304243",
+        "code": "IR-25",
+        "local_code": "25",
+        "name": "Qom Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Qom_Province",
+        "keywords": "Airports in Qom Province"
+    }
+}

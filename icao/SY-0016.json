@@ -2,14 +2,14 @@
     "id": "507436",
     "ident": "SY-0016",
     "type": "small_airport",
-    "name": "Omar",
-    "latitude_deg": "35.083835",
-    "longitude_deg": "40.601932",
+    "name": "Omar Airfield",
+    "latitude_deg": "35.082862",
+    "longitude_deg": "40.603157",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "SY",
-    "iso_region": "SY-U-A",
-    "municipality": "",
+    "iso_region": "SY-DY",
+    "municipality": "Theban",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "مطارات سوريا"
     },
     "region": {
-        "id": "305680",
-        "code": "SY-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305668",
+        "code": "SY-DY",
+        "local_code": "DY",
+        "name": "Deir ez-Zor Governorate",
         "continent": "AS",
         "iso_country": "SY",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Deir_ez-Zor_Governorate",
+        "keywords": "Dayr az Zawr"
     }
 }

@@ -1,0 +1,39 @@
+{
+    "id": "605890",
+    "ident": "ZWLK",
+    "type": "medium_airport",
+    "name": "Barkol Dahe Airport",
+    "latitude_deg": "43.756544",
+    "longitude_deg": "93.137164",
+    "elevation_ft": "5720",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-65",
+    "municipality": "Barkol",
+    "scheduled_service": "no",
+    "icao_code": "ZWLK",
+    "iata_code": "DHH",
+    "gps_code": "ZWLK",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Barkol_Dahe_Airport",
+    "keywords": "巴里坤大河机场, Balikun",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303452",
+        "code": "CN-65",
+        "local_code": "65",
+        "name": "Xinjiang Autonomous Region",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Xinjiang",
+        "keywords": "Airports in Xinjiang Autonomous Region"
+    }
+}
