@@ -1,0 +1,63 @@
+{
+    "id": "606038",
+    "ident": "TR-0315",
+    "type": "closed",
+    "name": "Bozüyük State Hospital Heliport",
+    "latitude_deg": "39.89328",
+    "longitude_deg": "30.05645",
+    "elevation_ft": "2526",
+    "continent": "EU",
+    "iso_country": "TR",
+    "iso_region": "TR-11",
+    "municipality": "Bozüyük",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "606040",
+            "airport_ref": "606038",
+            "airport_ident": "TR-0315",
+            "length_ft": "46",
+            "width_ft": "46",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305846",
+        "code": "TR-11",
+        "local_code": "11",
+        "name": "Bilecik Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bilecik_Province",
+        "keywords": "Airports in Bilecik Province"
+    }
+}
