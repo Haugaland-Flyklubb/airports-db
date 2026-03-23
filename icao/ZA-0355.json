@@ -1,0 +1,73 @@
+{
+    "id": "606073",
+    "ident": "ZA-0355",
+    "type": "small_airport",
+    "name": "Atlantic Aerodrome",
+    "latitude_deg": "-33.588163",
+    "longitude_deg": "18.618235",
+    "elevation_ft": "240",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-WC",
+    "municipality": "City of Cape Town",
+    "scheduled_service": "no",
+    "icao_code": "FAAA",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "FAAA",
+    "home_link": "https://flyatlantic.co.za/",
+    "wikipedia_link": "",
+    "keywords": "Atlantic, Aerodrome, regional, airport, airfield, ga, general aviation, private, luxury, atlantic aerodrome, fbo, amo, fto, restaurant, clubhouse, hangars, rental,",
+    "runways": [
+        {
+            "id": "606075",
+            "airport_ref": "606073",
+            "airport_ident": "ZA-0355",
+            "length_ft": "2770",
+            "width_ft": "76",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-33.592423",
+            "le_longitude_deg": "18.618753",
+            "le_elevation_ft": "237",
+            "le_heading_degT": "352",
+            "le_displaced_threshold_ft": "104",
+            "he_ident": "20",
+            "he_latitude_deg": "-33.584585",
+            "he_longitude_deg": "18.61769",
+            "he_elevation_ft": "246",
+            "he_heading_degT": "172",
+            "he_displaced_threshold_ft": "104"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "606074",
+            "airport_ref": "606073",
+            "airport_ident": "ZA-0355",
+            "type": "CTAF",
+            "description": "Delta 200 Traffic",
+            "frequency_mhz": "124.4"
+        }
+    ],
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": "South African airports"
+    },
+    "region": {
+        "id": "306304",
+        "code": "ZA-WC",
+        "local_code": "WC",
+        "name": "Western Cape",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Cape",
+        "keywords": "Airports in Western Cape"
+    }
+}
