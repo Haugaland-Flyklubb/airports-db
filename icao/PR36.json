@@ -1,0 +1,63 @@
+{
+    "id": "606120",
+    "ident": "PR36",
+    "type": "small_airport",
+    "name": "Cocal Airport",
+    "latitude_deg": "18.458974",
+    "longitude_deg": "-66.219149",
+    "elevation_ft": "10",
+    "continent": "NA",
+    "iso_country": "PR",
+    "iso_region": "PR-U-A",
+    "municipality": "Toa Baja",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "PR36",
+    "local_code": "PR36",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "606121",
+            "airport_ref": "606120",
+            "airport_ident": "PR36",
+            "length_ft": "4000",
+            "width_ft": "60",
+            "surface": "Asphalt/Gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "6",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302751",
+        "code": "PR",
+        "name": "Puerto Rico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Puerto_Rico",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305165",
+        "code": "PR-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "PR",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
