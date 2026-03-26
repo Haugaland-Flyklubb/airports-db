@@ -1,0 +1,39 @@
+{
+    "id": "606166",
+    "ident": "IR-0238",
+    "type": "heliport",
+    "name": "Taqi Abad Heliport",
+    "latitude_deg": "35.5796",
+    "longitude_deg": "51.46216",
+    "elevation_ft": "3435",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-23",
+    "municipality": "Tehran",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "OIG5V",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304225",
+        "code": "IR-23",
+        "local_code": "23",
+        "name": "Tehran Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tehran_Province",
+        "keywords": "Airports in Tehran Province"
+    }
+}
