@@ -20,6 +20,28 @@
     "keywords": "MI56",
     "runways": [
         {
+            "id": "606215",
+            "airport_ref": "22069",
+            "airport_ident": "MI56",
+            "length_ft": "2200",
+            "width_ft": "100",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "7",
+            "le_latitude_deg": "43.074557",
+            "le_longitude_deg": "-85.27235",
+            "le_elevation_ft": "810",
+            "le_heading_degT": "68",
+            "le_displaced_threshold_ft": "900",
+            "he_ident": "25",
+            "he_latitude_deg": "43.076857",
+            "he_longitude_deg": "-85.264728",
+            "he_elevation_ft": "823",
+            "he_heading_degT": "248",
+            "he_displaced_threshold_ft": "600"
+        },
+        {
             "id": "268064",
             "airport_ref": "22069",
             "airport_ident": "MI56",
