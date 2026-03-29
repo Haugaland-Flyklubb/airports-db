@@ -2,14 +2,14 @@
     "id": "516961",
     "ident": "IR-0163",
     "type": "small_airport",
-    "name": "Greenhouse town",
-    "latitude_deg": "32.864676",
-    "longitude_deg": "59.027235",
-    "elevation_ft": "",
+    "name": "??? 'Greenhouse town' Airport",
+    "latitude_deg": "32.86475",
+    "longitude_deg": "59.027199",
+    "elevation_ft": "4652",
     "continent": "AS",
     "iso_country": "IR",
-    "iso_region": "IR-U-A",
-    "municipality": "",
+    "iso_region": "IR-29",
+    "municipality": "Mohammadshahr",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "فرودگاه های ایران"
     },
     "region": {
-        "id": "304246",
-        "code": "IR-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306737",
+        "code": "IR-29",
+        "local_code": "29",
+        "name": "South Khorasan Province",
         "continent": "AS",
         "iso_country": "IR",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Khorasan_Province",
+        "keywords": "Airports in South Khorasan Province"
     }
 }
