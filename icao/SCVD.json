@@ -44,12 +44,28 @@
     ],
     "freqs": [
         {
+            "id": "606475",
+            "airport_ref": "6048",
+            "airport_ident": "SCVD",
+            "type": "APP",
+            "description": "Temuco APP",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "606476",
+            "airport_ref": "6048",
+            "airport_ident": "SCVD",
+            "type": "GNDC",
+            "description": "Valdivia Control Terrestre",
+            "frequency_mhz": "121.8"
+        },
+        {
             "id": "51364",
             "airport_ref": "6048",
             "airport_ident": "SCVD",
-            "type": "INFO",
-            "description": "AFIS",
-            "frequency_mhz": "127.7"
+            "type": "TWR",
+            "description": "Valdivia TWR",
+            "frequency_mhz": "118.3"
         }
     ],
     "country": {

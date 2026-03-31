@@ -42,6 +42,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "606473",
+            "airport_ref": "29812",
+            "airport_ident": "SCCV",
+            "type": "AFIS",
+            "description": "Curacavi INFO",
+            "frequency_mhz": "127.7"
+        }
+    ],
     "country": {
         "id": "302792",
         "code": "CL",

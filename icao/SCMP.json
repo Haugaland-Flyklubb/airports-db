@@ -42,6 +42,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "606465",
+            "airport_ref": "39219",
+            "airport_ident": "SCMP",
+            "type": "TIBA",
+            "description": "",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302792",
         "code": "CL",

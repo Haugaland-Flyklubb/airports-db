@@ -42,6 +42,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "606470",
+            "airport_ref": "39220",
+            "airport_ident": "SCMU",
+            "type": "TIBA",
+            "description": "",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302792",
         "code": "CL",

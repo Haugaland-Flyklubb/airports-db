@@ -42,6 +42,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "606474",
+            "airport_ref": "32565",
+            "airport_ident": "SCRD",
+            "type": "AFIS",
+            "description": "Valparaiso INFO",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302792",
         "code": "CL",
