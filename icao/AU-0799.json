@@ -1,0 +1,39 @@
+{
+    "id": "606676",
+    "ident": "AU-0799",
+    "type": "large_airport",
+    "name": "(Duplicate)Western Sydney International Airport",
+    "latitude_deg": "-33.888056",
+    "longitude_deg": "150.714722",
+    "elevation_ft": "262",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Sydney",
+    "scheduled_service": "yes",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Sydney_International_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": "Airports in Queensland"
+    }
+}

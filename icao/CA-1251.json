@@ -1,14 +1,14 @@
 {
     "id": "606493",
     "ident": "CA-1251",
-    "type": "closed",
-    "name": "McGill Artic Station (MARS)",
+    "type": "small_airport",
+    "name": "McGill Arctic Research Station (MARS)",
     "latitude_deg": "79.41596",
     "longitude_deg": "-90.761018",
     "elevation_ft": "",
     "continent": "NA",
     "iso_country": "CA",
-    "iso_region": "CA-U-A",
+    "iso_region": "CA-NU",
     "municipality": "Axel Heiberg Island",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Canadian airports"
     },
     "region": {
-        "id": "303306",
-        "code": "CA-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303301",
+        "code": "CA-NU",
+        "local_code": "NU",
+        "name": "Nunavut",
         "continent": "NA",
         "iso_country": "CA",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
+        "keywords": "Airports in Nunavut"
     }
 }
