@@ -1,0 +1,39 @@
+{
+    "id": "607055",
+    "ident": "KZ-7499",
+    "type": "small_airport",
+    "name": "Ulan Airstrip",
+    "latitude_deg": "43.23408",
+    "longitude_deg": "76.38315",
+    "elevation_ft": "2772",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-ALM",
+    "municipality": "Uzynagash",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302645",
+        "code": "KZ",
+        "name": "Kazakhstan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
+        "keywords": "Kazakh"
+    },
+    "region": {
+        "id": "304427",
+        "code": "KZ-ALM",
+        "local_code": "ALM",
+        "name": "Almaty Region",
+        "continent": "AS",
+        "iso_country": "KZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Almaty_Region",
+        "keywords": "Алматы облысы"
+    }
+}

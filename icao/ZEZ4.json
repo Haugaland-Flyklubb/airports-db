@@ -2,14 +2,14 @@
     "id": "512273",
     "ident": "ZEZ4",
     "type": "small_airport",
-    "name": "Urdzhar East Airport",
-    "latitude_deg": "47.0767",
-    "longitude_deg": "81.7867",
+    "name": "Urzhar East Airport",
+    "latitude_deg": "47.078815",
+    "longitude_deg": "81.783439",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "KZ",
-    "iso_region": "KZ-U-A",
-    "municipality": "",
+    "iso_region": "KZ-ABA",
+    "municipality": "Nauali",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Kazakh"
     },
     "region": {
-        "id": "304436",
-        "code": "KZ-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "430273",
+        "code": "KZ-ABA",
+        "local_code": "ABA",
+        "name": "Abai Region",
         "continent": "AS",
         "iso_country": "KZ",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Abai_Region",
+        "keywords": ""
     }
 }
