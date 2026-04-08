@@ -18,6 +18,40 @@
     "home_link": "http://www.hommes-volants.fr/",
     "wikipedia_link": "",
     "keywords": "Base ULM Hommes Volants, Base ULM Jacopeau, Jacopeau Ultralight Airfield",
+    "runways": [
+        {
+            "id": "607153",
+            "airport_ref": "527720",
+            "airport_ident": "FR-0573",
+            "length_ft": "1600",
+            "width_ft": "130",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "295",
+            "le_heading_degT": "168",
+            "le_displaced_threshold_ft": "260",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "288",
+            "he_heading_degT": "348",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "607156",
+            "airport_ref": "527720",
+            "airport_ident": "FR-0573",
+            "type": "Auto Info ULM",
+            "description": "",
+            "frequency_mhz": "125.335"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -18,6 +18,40 @@
     "home_link": "https://www.whiteoxmead.co.uk/",
     "wikipedia_link": "",
     "keywords": "Peasdown St John",
+    "runways": [
+        {
+            "id": "607141",
+            "airport_ref": "307379",
+            "airport_ident": "GB-0037",
+            "length_ft": "1700",
+            "width_ft": "98",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "96",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "520",
+            "le_heading_degT": "60",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "520",
+            "he_heading_degT": "240",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "607142",
+            "airport_ref": "307379",
+            "airport_ident": "GB-0037",
+            "type": "A/G",
+            "description": "White Ox Mead Traffic",
+            "frequency_mhz": "135.48"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

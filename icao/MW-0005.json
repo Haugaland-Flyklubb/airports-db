@@ -1,0 +1,39 @@
+{
+    "id": "607163",
+    "ident": "MW-0005",
+    "type": "small_airport",
+    "name": "Mponongo Airstrip",
+    "latitude_deg": "-13.990983",
+    "longitude_deg": "33.326776",
+    "elevation_ft": "3760",
+    "continent": "AF",
+    "iso_country": "MW",
+    "iso_region": "MW-MC",
+    "municipality": "Mponongo",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302589",
+        "code": "MW",
+        "name": "Malawi",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malawi",
+        "keywords": "Airports in Malawi"
+    },
+    "region": {
+        "id": "304773",
+        "code": "MW-MC",
+        "local_code": "MC",
+        "name": "Mchinji District",
+        "continent": "AF",
+        "iso_country": "MW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mchinji_District",
+        "keywords": "Airports in Mchinji District"
+    }
+}

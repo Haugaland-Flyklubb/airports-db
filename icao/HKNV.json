@@ -1,23 +1,23 @@
 {
     "id": "3214",
     "ident": "HKNV",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Naivasha Airport",
-    "latitude_deg": "-0.787953",
-    "longitude_deg": "36.433494",
+    "latitude_deg": "-0.788035",
+    "longitude_deg": "36.43329",
     "elevation_ft": "6380",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-700",
+    "iso_region": "KE-32",
     "municipality": "Naivasha",
     "scheduled_service": "no",
-    "icao_code": "HKNV",
+    "icao_code": "",
     "iata_code": "",
-    "gps_code": "HKNV",
+    "gps_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Naivasha_Airport",
-    "keywords": "Naivasha South",
+    "keywords": "Naivasha South, HKNV",
     "runways": [
         {
             "id": "237273",
@@ -52,12 +52,12 @@
     },
     "region": {
         "id": "304340",
-        "code": "KE-700",
-        "local_code": "700",
-        "name": "Rift Valley Province",
+        "code": "KE-32",
+        "local_code": "32",
+        "name": "Nakuru County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rift_Valley_Province",
-        "keywords": "Airports in Rift Valley Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nakuru_County",
+        "keywords": "Airports in Nakuru County"
     }
 }
