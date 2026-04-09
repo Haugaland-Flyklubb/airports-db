@@ -1,14 +1,14 @@
 {
     "id": "340236",
     "ident": "KE-0211",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Witu Airstrip",
     "latitude_deg": "-2.37964",
     "longitude_deg": "40.44099",
     "elevation_ft": "",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-01",
+    "iso_region": "KE-05",
     "municipality": "Witu",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304336",
-        "code": "KE-01",
-        "local_code": "01",
-        "name": "Mombasa County",
+        "id": "607167",
+        "code": "KE-05",
+        "local_code": "05",
+        "name": "Lamu County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mombasa_County",
-        "keywords": "Airports in Mombasa County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lamu_County",
+        "keywords": "Airports in Lamu County"
     }
 }

@@ -1,14 +1,14 @@
 {
     "id": "42631",
     "ident": "KE-6920",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Masalani (Fanjaa) Airport",
-    "latitude_deg": "-1.6956549882888794",
-    "longitude_deg": "40.1257209777832",
+    "latitude_deg": "-1.695655",
+    "longitude_deg": "40.125721",
     "elevation_ft": "150",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-01",
+    "iso_region": "KE-04",
     "municipality": "Masalani",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304336",
-        "code": "KE-01",
-        "local_code": "01",
-        "name": "Mombasa County",
+        "id": "607166",
+        "code": "KE-04",
+        "local_code": "04",
+        "name": "Tana River County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mombasa_County",
-        "keywords": "Airports in Mombasa County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tana_River_County",
+        "keywords": "Airports in Tana River County"
     }
 }

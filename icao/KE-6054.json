@@ -1,15 +1,15 @@
 {
     "id": "42569",
     "ident": "KE-6054",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Taveta Sisal Airport",
-    "latitude_deg": "-3.418889045715332",
-    "longitude_deg": "37.6341667175293",
+    "latitude_deg": "-3.402212",
+    "longitude_deg": "37.657592",
     "elevation_ft": "2525",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-01",
-    "municipality": "Taveta Sisal",
+    "iso_region": "KE-06",
+    "municipality": "Taveta",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304336",
-        "code": "KE-01",
-        "local_code": "01",
-        "name": "Mombasa County",
+        "id": "607168",
+        "code": "KE-06",
+        "local_code": "06",
+        "name": "Taita-Taveta County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mombasa_County",
-        "keywords": "Airports in Mombasa County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taita%E2%80%93Taveta_County",
+        "keywords": "Airports in Taita-Taveta County"
     }
 }

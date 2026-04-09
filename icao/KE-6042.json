@@ -1,14 +1,14 @@
 {
     "id": "42561",
     "ident": "KE-6042",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Ndovu Airport",
-    "latitude_deg": "2.0137779712677",
-    "longitude_deg": "38.634220123291016",
+    "latitude_deg": "2.013778",
+    "longitude_deg": "38.63422",
     "elevation_ft": "1150",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-14",
+    "iso_region": "KE-10",
     "municipality": "Ndovu",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304337",
-        "code": "KE-14",
-        "local_code": "14",
-        "name": "Embu County",
+        "id": "607171",
+        "code": "KE-10",
+        "local_code": "10",
+        "name": "Marsabit County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Embu_County",
-        "keywords": "Airports in Embu County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Marsabit_County",
+        "keywords": "Airports in Marsabit County"
     }
 }

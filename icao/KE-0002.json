@@ -1,15 +1,15 @@
 {
     "id": "42645",
     "ident": "KE-0002",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Nzoia Airport",
-    "latitude_deg": "0.1333329975605011",
-    "longitude_deg": "34.08333206176758",
+    "latitude_deg": "0.133333",
+    "longitude_deg": "34.083332",
     "elevation_ft": "3770",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-37",
-    "municipality": "Nzoia",
+    "iso_region": "KE-40",
+    "municipality": "Bulukhiro",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304341",
-        "code": "KE-37",
-        "local_code": "37",
-        "name": "Kakamega County",
+        "id": "607197",
+        "code": "KE-40",
+        "local_code": "40",
+        "name": "Busia County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kakamega_County",
-        "keywords": "Airports in Kakamega County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Busia_County",
+        "keywords": "Airports in Busia County"
     }
 }

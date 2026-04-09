@@ -3,17 +3,17 @@
     "ident": "KE-KIU",
     "type": "small_airport",
     "name": "Kiunga Airport",
-    "latitude_deg": "-1.7438290119171143",
-    "longitude_deg": "41.484344482421875",
+    "latitude_deg": "-1.741272",
+    "longitude_deg": "41.482707",
     "elevation_ft": "1",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-01",
+    "iso_region": "KE-05",
     "municipality": "Kiunga",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "HKIU",
     "iata_code": "KIU",
-    "gps_code": "",
+    "gps_code": "HKIU",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304336",
-        "code": "KE-01",
-        "local_code": "01",
-        "name": "Mombasa County",
+        "id": "607167",
+        "code": "KE-05",
+        "local_code": "05",
+        "name": "Lamu County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mombasa_County",
-        "keywords": "Airports in Mombasa County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lamu_County",
+        "keywords": "Airports in Lamu County"
     }
 }

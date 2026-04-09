@@ -1,14 +1,14 @@
 {
     "id": "42587",
     "ident": "KE-6082",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Kinna Airport",
-    "latitude_deg": "0.31666699051856995",
-    "longitude_deg": "38.20000076293945",
+    "latitude_deg": "0.316667",
+    "longitude_deg": "38.200001",
     "elevation_ft": "2211",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-14",
+    "iso_region": "KE-11",
     "municipality": "Kinna",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304337",
-        "code": "KE-14",
-        "local_code": "14",
-        "name": "Embu County",
+        "id": "607172",
+        "code": "KE-11",
+        "local_code": "11",
+        "name": "Isiolo County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Embu_County",
-        "keywords": "Airports in Embu County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Isiolo_County",
+        "keywords": "Airports in Isiolo County"
     }
 }

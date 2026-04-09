@@ -1,14 +1,14 @@
 {
     "id": "42563",
     "ident": "KE-6044",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Ngore Ngore Airport",
-    "latitude_deg": "-1.8359440565109253",
-    "longitude_deg": "37.78419494628906",
+    "latitude_deg": "-1.835944",
+    "longitude_deg": "37.784195",
     "elevation_ft": "6290",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-14",
+    "iso_region": "KE-17",
     "municipality": "Ngore Ngore",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304337",
-        "code": "KE-14",
-        "local_code": "14",
-        "name": "Embu County",
+        "id": "607177",
+        "code": "KE-17",
+        "local_code": "17",
+        "name": "Makueni County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Embu_County",
-        "keywords": "Airports in Embu County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Makueni_County",
+        "keywords": "Airports in Makueni County"
     }
 }

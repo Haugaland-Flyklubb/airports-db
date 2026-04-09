@@ -1,14 +1,14 @@
 {
     "id": "42572",
     "ident": "KE-6058",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Didima Bule Airport",
-    "latitude_deg": "-2.3691670894622803",
-    "longitude_deg": "39.617584228515625",
+    "latitude_deg": "-2.369167",
+    "longitude_deg": "39.617584",
     "elevation_ft": "500",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-01",
+    "iso_region": "KE-04",
     "municipality": "Didima Bule",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304336",
-        "code": "KE-01",
-        "local_code": "01",
-        "name": "Mombasa County",
+        "id": "607166",
+        "code": "KE-04",
+        "local_code": "04",
+        "name": "Tana River County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mombasa_County",
-        "keywords": "Airports in Mombasa County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tana_River_County",
+        "keywords": "Airports in Tana River County"
     }
 }
