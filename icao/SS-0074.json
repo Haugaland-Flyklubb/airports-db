@@ -1,0 +1,39 @@
+{
+    "id": "607349",
+    "ident": "SS-0074",
+    "type": "small_airport",
+    "name": "Akot Airstrip",
+    "latitude_deg": "6.55304",
+    "longitude_deg": "30.033899",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-LK",
+    "municipality": "Akot",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302614",
+        "code": "SS",
+        "name": "South Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Sudan",
+        "keywords": "South Sudanese airports"
+    },
+    "region": {
+        "id": "305401",
+        "code": "SS-LK",
+        "local_code": "LK",
+        "name": "Lakes State",
+        "continent": "AF",
+        "iso_country": "SS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lakes_(state)",
+        "keywords": "Airports in Lakes State"
+    }
+}

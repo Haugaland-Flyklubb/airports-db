@@ -1,14 +1,14 @@
 {
     "id": "42615",
     "ident": "KE-6647",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Nginyang (Kinkang) Airport",
-    "latitude_deg": "0.9666669964790344",
-    "longitude_deg": "36.016666412353516",
+    "latitude_deg": "0.926211",
+    "longitude_deg": "36.023547",
     "elevation_ft": "2368",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-32",
+    "iso_region": "KE-30",
     "municipality": "Nginyang",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304340",
-        "code": "KE-32",
-        "local_code": "32",
-        "name": "Nakuru County",
+        "id": "607189",
+        "code": "KE-30",
+        "local_code": "30",
+        "name": "Baringo County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nakuru_County",
-        "keywords": "Airports in Nakuru County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baringo_County",
+        "keywords": "Airports in Baringo County"
     }
 }

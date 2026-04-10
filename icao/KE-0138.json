@@ -1,15 +1,15 @@
 {
     "id": "318741",
     "ident": "KE-0138",
-    "type": "small_airport",
-    "name": "Kipipri Airport",
+    "type": "closed",
+    "name": "Kipipiri Airport",
     "latitude_deg": "-0.454084",
     "longitude_deg": "36.493097",
     "elevation_ft": "",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-32",
-    "municipality": "Kipipri",
+    "iso_region": "KE-18",
+    "municipality": "Githioro",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304340",
-        "code": "KE-32",
-        "local_code": "32",
-        "name": "Nakuru County",
+        "id": "607178",
+        "code": "KE-18",
+        "local_code": "18",
+        "name": "Nyandarua County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nakuru_County",
-        "keywords": "Airports in Nakuru County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nyandarua_County",
+        "keywords": "Airports in Nyandarua County"
     }
 }

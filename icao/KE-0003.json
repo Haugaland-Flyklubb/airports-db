@@ -3,17 +3,17 @@
     "ident": "KE-0003",
     "type": "small_airport",
     "name": "Rusinga Airport",
-    "latitude_deg": "-0.41266700625419617",
-    "longitude_deg": "34.14250183105469",
+    "latitude_deg": "-0.415645",
+    "longitude_deg": "34.141445",
     "elevation_ft": "3800",
     "continent": "AF",
     "iso_country": "KE",
-    "iso_region": "KE-42",
+    "iso_region": "KE-43",
     "municipality": "Rusinga",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "HKRK",
     "iata_code": "",
-    "gps_code": "",
+    "gps_code": "HKRK",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
@@ -27,13 +27,13 @@
         "keywords": "Kenyan airports"
     },
     "region": {
-        "id": "304339",
-        "code": "KE-42",
-        "local_code": "42",
-        "name": "Kisumu County",
+        "id": "607199",
+        "code": "KE-43",
+        "local_code": "43",
+        "name": "Homa Bay County",
         "continent": "AF",
         "iso_country": "KE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kisumu_County",
-        "keywords": "Airports in Kisumu County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Homa_Bay_County",
+        "keywords": "Airports in Homa Bay County"
     }
 }
