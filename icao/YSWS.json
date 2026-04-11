@@ -1,0 +1,39 @@
+{
+    "id": "607457",
+    "ident": "YSWS",
+    "type": "large_airport",
+    "name": "(Duplicate)Western Sydney International Airport",
+    "latitude_deg": "-33.88806",
+    "longitude_deg": "150.71472",
+    "elevation_ft": "260",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Sydney",
+    "scheduled_service": "yes",
+    "icao_code": "YSWS",
+    "iata_code": "WSI",
+    "gps_code": "YSWS",
+    "local_code": "",
+    "home_link": "https://www.wsiairport.com.au",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Sydney_International_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": "Airports in New South Wales"
+    }
+}
