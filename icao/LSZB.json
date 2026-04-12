@@ -101,7 +101,15 @@
             "airport_ident": "LSZB",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "125.125"
+            "frequency_mhz": "125.13"
+        },
+        {
+            "id": "607505",
+            "airport_ref": "4503",
+            "airport_ident": "LSZB",
+            "type": "GROUND",
+            "description": "",
+            "frequency_mhz": "131.41"
         },
         {
             "id": "57580",
@@ -120,12 +128,20 @@
             "frequency_mhz": "135.75"
         },
         {
+            "id": "607506",
+            "airport_ref": "4503",
+            "airport_ident": "LSZB",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "119.7"
+        },
+        {
             "id": "57582",
             "airport_ref": "4503",
             "airport_ident": "LSZB",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "121.025"
+            "description": "TWR (Secondary)",
+            "frequency_mhz": "121.03"
         }
     ],
     "country": {
