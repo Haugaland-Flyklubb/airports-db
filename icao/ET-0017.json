@@ -1,0 +1,63 @@
+{
+    "id": "607634",
+    "ident": "ET-0017",
+    "type": "closed",
+    "name": "Almata Airstrip",
+    "latitude_deg": "12.344751",
+    "longitude_deg": "39.585015",
+    "elevation_ft": "5000",
+    "continent": "AF",
+    "iso_country": "ET",
+    "iso_region": "ET-TI",
+    "municipality": "Alamata",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Alamat'a, Alomata, Alemata, Alomato",
+    "runways": [
+        {
+            "id": "607635",
+            "airport_ref": "607634",
+            "airport_ident": "ET-0017",
+            "length_ft": "4100",
+            "width_ft": "",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302572",
+        "code": "ET",
+        "name": "Ethiopia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ethiopia",
+        "keywords": "Ethiopian airports"
+    },
+    "region": {
+        "id": "303797",
+        "code": "ET-TI",
+        "local_code": "TI",
+        "name": "Tigray Region",
+        "continent": "AF",
+        "iso_country": "ET",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tigray_Region",
+        "keywords": "Airports in Tigray Region"
+    }
+}
