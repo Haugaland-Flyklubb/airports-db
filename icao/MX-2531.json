@@ -1,0 +1,39 @@
+{
+    "id": "607719",
+    "ident": "MX-2531",
+    "type": "heliport",
+    "name": "Center for Higher Naval Studies Heliport",
+    "latitude_deg": "19.318639",
+    "longitude_deg": "-99.11534",
+    "elevation_ft": "7358",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-DIF",
+    "municipality": "Coyoacán",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304798",
+        "code": "MX-DIF",
+        "local_code": "DIF",
+        "name": "Ciudad de México",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico_City",
+        "keywords": "Airports in Mexico City"
+    }
+}
