@@ -1,8 +1,8 @@
 {
     "id": "44053",
     "ident": "GL-0002",
-    "type": "small_airport",
-    "name": "Gisp Ice Landing Strip",
+    "type": "medium_airport",
+    "name": "Summit Camp Landing Strip",
     "latitude_deg": "72.59619",
     "longitude_deg": "-38.42145",
     "elevation_ft": "10545",
@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "GISGA",
+    "runways": [
+        {
+            "id": "607730",
+            "airport_ref": "44053",
+            "airport_ident": "GL-0002",
+            "length_ft": "17388",
+            "width_ft": "199",
+            "surface": "Snow",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302736",
         "code": "GL",
