@@ -1,0 +1,63 @@
+{
+    "id": "607803",
+    "ident": "AT-0093",
+    "type": "small_airport",
+    "name": "Spannberg Airstrip",
+    "latitude_deg": "48.45051",
+    "longitude_deg": "16.749122",
+    "elevation_ft": "682",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-3",
+    "municipality": "Spannberg",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Flugplatz Spannberg, Flugplatz Österreich, Austrian Airfield, Grass Strip, Challenging",
+    "runways": [
+        {
+            "id": "607804",
+            "airport_ref": "607803",
+            "airport_ident": "AT-0093",
+            "length_ft": "1800",
+            "width_ft": "46",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "48.45",
+            "le_longitude_deg": "16.74",
+            "le_elevation_ft": "670",
+            "le_heading_degT": "160",
+            "le_displaced_threshold_ft": "1",
+            "he_ident": "34",
+            "he_latitude_deg": "48.45",
+            "he_longitude_deg": "16.74",
+            "he_elevation_ft": "692",
+            "he_heading_degT": "340",
+            "he_displaced_threshold_ft": "100"
+        }
+    ],
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302959",
+        "code": "AT-3",
+        "local_code": "3",
+        "name": "Lower Austria",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Austria",
+        "keywords": "Niederösterreich"
+    }
+}
