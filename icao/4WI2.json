@@ -1,0 +1,63 @@
+{
+    "id": "607857",
+    "ident": "4WI2",
+    "type": "seaplane_base",
+    "name": "Loons Landing Seaplane Base",
+    "latitude_deg": "45.931997",
+    "longitude_deg": "-91.421593",
+    "elevation_ft": "1310",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Hayward",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "4WI2",
+    "local_code": "4WI2",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Grindstone Lake",
+    "runways": [
+        {
+            "id": "607858",
+            "airport_ref": "607857",
+            "airport_ident": "4WI2",
+            "length_ft": "10000",
+            "width_ft": "200",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "6W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": "Airports in Wisconsin"
+    }
+}
