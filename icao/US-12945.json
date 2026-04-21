@@ -1,0 +1,39 @@
+{
+    "id": "607877",
+    "ident": "US-12945",
+    "type": "heliport",
+    "name": "Banner Gateway Medical Center Helistop",
+    "latitude_deg": "33.384171",
+    "longitude_deg": "-111.723621",
+    "elevation_ft": "1386",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AZ",
+    "municipality": "Gilbert",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "63AZ",
+    "local_code": "63AZ",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": "Airports in Arizona"
+    }
+}
