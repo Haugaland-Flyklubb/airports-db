@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kankan_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "607951",
+            "airport_ref": "598088",
+            "airport_ident": "GXUD",
+            "length_ft": "9843",
+            "width_ft": "144",
+            "surface": "ASP/GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "10.4487",
+            "le_longitude_deg": "-9.23969",
+            "le_elevation_ft": "1262",
+            "le_heading_degT": "91",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "10.4481",
+            "he_longitude_deg": "-9.21233",
+            "he_elevation_ft": "1228",
+            "he_heading_degT": "271",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302576",
         "code": "GN",
