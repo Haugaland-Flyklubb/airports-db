@@ -1,0 +1,39 @@
+{
+    "id": "607970",
+    "ident": "ES-0377",
+    "type": "small_airport",
+    "name": "Aeródromo de La Salceda",
+    "latitude_deg": "41.06474",
+    "longitude_deg": "-3.88266",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303740",
+        "code": "ES-CL",
+        "local_code": "CL",
+        "name": "Castilla y León",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
+        "keywords": "Airports in Castilla y León, Castile and León"
+    }
+}

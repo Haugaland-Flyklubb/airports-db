@@ -1,0 +1,39 @@
+{
+    "id": "607963",
+    "ident": "FR-1328",
+    "type": "small_airport",
+    "name": "(Duplicate)Altiport de la Serre d'Aulon",
+    "latitude_deg": "42.83611",
+    "longitude_deg": "0.27222",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-OCC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "LF6525",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306341",
+        "code": "FR-OCC",
+        "local_code": "OCC",
+        "name": "Occitanie",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Occitania_(administrative_region)",
+        "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
+    }
+}
