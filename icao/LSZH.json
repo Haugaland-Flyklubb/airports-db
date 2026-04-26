@@ -92,8 +92,8 @@
             "airport_ref": "4505",
             "airport_ident": "LSZH",
             "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "118"
+            "description": "Approach (Final)",
+            "frequency_mhz": "125.325"
         },
         {
             "id": "57571",
@@ -108,8 +108,8 @@
             "airport_ref": "4505",
             "airport_ident": "LSZH",
             "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.8"
+            "description": "Clearance Delivery",
+            "frequency_mhz": "121.925"
         },
         {
             "id": "57573",
@@ -133,7 +133,7 @@
             "airport_ident": "LSZH",
             "type": "RMP",
             "description": "APRON",
-            "frequency_mhz": "121.75"
+            "frequency_mhz": "121.755"
         },
         {
             "id": "57576",
