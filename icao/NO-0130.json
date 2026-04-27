@@ -1,0 +1,39 @@
+{
+    "id": "608081",
+    "ident": "NO-0130",
+    "type": "small_airport",
+    "name": "Torod Airstrip",
+    "latitude_deg": "59.1841",
+    "longitude_deg": "10.40582",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-39",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "525412",
+        "code": "NO-39",
+        "local_code": "39",
+        "name": "Vestfold",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vestfold",
+        "keywords": ""
+    }
+}
