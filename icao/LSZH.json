@@ -96,6 +96,14 @@
             "frequency_mhz": "125.325"
         },
         {
+            "id": "608202",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "APP EAST",
+            "description": "Approach (East)",
+            "frequency_mhz": "135.225"
+        },
+        {
             "id": "57571",
             "airport_ref": "4505",
             "airport_ident": "LSZH",
@@ -116,7 +124,7 @@
             "airport_ref": "4505",
             "airport_ident": "LSZH",
             "type": "DEP",
-            "description": "DEP",
+            "description": "Departure",
             "frequency_mhz": "125.95"
         },
         {
@@ -124,31 +132,111 @@
             "airport_ref": "4505",
             "airport_ident": "LSZH",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
+            "description": "Ground",
+            "frequency_mhz": "121.902"
+        },
+        {
+            "id": "608199",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "RDR EAST",
+            "description": "Radar East",
+            "frequency_mhz": "133.9"
+        },
+        {
+            "id": "608193",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "RDR M1",
+            "description": "Radar M1",
+            "frequency_mhz": "133.05"
+        },
+        {
+            "id": "608194",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "RDR M2",
+            "description": "Radar M2",
+            "frequency_mhz": "133.405"
+        },
+        {
+            "id": "608195",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "RDR M3",
+            "description": "Radar M3",
+            "frequency_mhz": "132.815"
+        },
+        {
+            "id": "608196",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "RDR M4",
+            "description": "Radar M4",
+            "frequency_mhz": "134.6"
+        },
+        {
+            "id": "608197",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "RDR M5",
+            "description": "Radar M5",
+            "frequency_mhz": "132.833"
+        },
+        {
+            "id": "608198",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "RDR M6",
+            "description": "Radar M6",
+            "frequency_mhz": "133.69"
+        },
+        {
+            "id": "608201",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "RDR NRTH",
+            "description": "Radar North",
+            "frequency_mhz": "136.155"
+        },
+        {
+            "id": "608200",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "RDR WEST",
+            "description": "Radar West",
+            "frequency_mhz": "135.68"
+        },
+        {
+            "id": "608203",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "RMP NORTH",
+            "description": "Apron (North)",
+            "frequency_mhz": "121.855"
         },
         {
             "id": "57575",
             "airport_ref": "4505",
             "airport_ident": "LSZH",
-            "type": "RMP",
-            "description": "APRON",
+            "type": "RMP SOUTH",
+            "description": "Apron (South)",
             "frequency_mhz": "121.755"
         },
         {
             "id": "57576",
             "airport_ref": "4505",
             "airport_ident": "LSZH",
-            "type": "TCA",
-            "description": "TERMINAL",
-            "frequency_mhz": "127.75"
+            "type": "TMA",
+            "description": "Terminal",
+            "frequency_mhz": "127.755"
         },
         {
             "id": "57577",
             "airport_ref": "4505",
             "airport_ident": "LSZH",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Tower",
             "frequency_mhz": "118.1"
         }
     ],
