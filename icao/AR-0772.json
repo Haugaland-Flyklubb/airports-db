@@ -1,0 +1,39 @@
+{
+    "id": "608220",
+    "ident": "AR-0772",
+    "type": "small_airport",
+    "name": "Santa Irene Airstrip",
+    "latitude_deg": "-28.854545",
+    "longitude_deg": "-58.583495",
+    "elevation_ft": "190",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-W",
+    "municipality": "Chavarría",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "2335",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302952",
+        "code": "AR-W",
+        "local_code": "W",
+        "name": "Corrientes Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Corrientes_Province",
+        "keywords": ""
+    }
+}

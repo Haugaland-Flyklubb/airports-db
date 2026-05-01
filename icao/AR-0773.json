@@ -1,0 +1,39 @@
+{
+    "id": "608227",
+    "ident": "AR-0773",
+    "type": "small_airport",
+    "name": "Graziani Field",
+    "latitude_deg": "-32.03168",
+    "longitude_deg": "-64.357824",
+    "elevation_ft": "1883",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Monsalvo",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "2624",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302953",
+        "code": "AR-X",
+        "local_code": "X",
+        "name": "Córdoba Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province_(Argentina)",
+        "keywords": ""
+    }
+}
