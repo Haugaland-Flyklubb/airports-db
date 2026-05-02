@@ -1,12 +1,12 @@
 {
     "id": "26400",
     "ident": "UUOO",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Voronezh International Airport",
-    "latitude_deg": "51.813683",
-    "longitude_deg": "39.231711",
+    "latitude_deg": "51.814324",
+    "longitude_deg": "39.230948",
     "elevation_ft": "514",
-    "continent": "AS",
+    "continent": "EU",
     "iso_country": "RU",
     "iso_region": "RU-VOR",
     "municipality": "Voronezh",
@@ -17,7 +17,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Voronezh_International_Airport",
-    "keywords": "Chertovitskoye Airport, Chertovitskoe Airport, Аэропорт Воронеж, Аэропорт Чертовицкое",
+    "keywords": "УУОО, Chertovitskoye Airport, Chertovitskoe Airport, Аэропорт Воронеж, Аэропорт Чертовицкое",
     "runways": [
         {
             "id": "238572",
@@ -40,6 +40,28 @@
             "he_elevation_ft": "487",
             "he_heading_degT": "311",
             "he_displaced_threshold_ft": "203"
+        },
+        {
+            "id": "608245",
+            "airport_ref": "26400",
+            "airport_ident": "UUOO",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
         }
     ],
     "freqs": [
