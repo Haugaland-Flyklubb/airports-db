@@ -3,12 +3,12 @@
     "ident": "RCMT",
     "type": "medium_airport",
     "name": "Matsu Beigan Airport",
-    "latitude_deg": "26.224199",
-    "longitude_deg": "120.002998",
+    "latitude_deg": "26.22414",
+    "longitude_deg": "120.002679",
     "elevation_ft": "41",
     "continent": "AS",
     "iso_country": "TW",
-    "iso_region": "TW-X-LK",
+    "iso_region": "TW-LIE",
     "municipality": "Matsu (Beigan)",
     "scheduled_service": "yes",
     "icao_code": "RCMT",
@@ -17,7 +17,7 @@
     "local_code": "",
     "home_link": "http://www.tsa.gov.tw/tsaMFK/en/page.aspx?id=1174",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Matsu_Beigan_Airport",
-    "keywords": "Matsu Islands",
+    "keywords": "",
     "runways": [
         {
             "id": "239337",
@@ -70,13 +70,13 @@
     },
     "region": {
         "id": "306753",
-        "code": "TW-X-LK",
-        "local_code": "X-LK",
+        "code": "TW-LIE",
+        "local_code": "LIE",
         "name": "Lienchiang County",
         "continent": "AS",
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Matsu_Islands",
-        "keywords": "Matsu Islands"
+        "keywords": "Matsu Islands, Lienkiang"
     },
     "navaids": [
         {

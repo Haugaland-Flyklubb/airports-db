@@ -1,0 +1,39 @@
+{
+    "id": "608296",
+    "ident": "DE-0926",
+    "type": "heliport",
+    "name": "Helwind A",
+    "latitude_deg": "54.451897",
+    "longitude_deg": "7.740036",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-SH",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "EDYH",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EM15",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303558",
+        "code": "DE-SH",
+        "local_code": "SH",
+        "name": "Schleswig-Holstein",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Schleswig-Holstein",
+        "keywords": "Airports in Schleswig-Holstein"
+    }
+}

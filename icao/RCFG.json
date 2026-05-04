@@ -8,7 +8,7 @@
     "elevation_ft": "232",
     "continent": "AS",
     "iso_country": "TW",
-    "iso_region": "TW-X-LK",
+    "iso_region": "TW-LIE",
     "municipality": "Matsu (Nangan)",
     "scheduled_service": "yes",
     "icao_code": "RCFG",
@@ -17,7 +17,7 @@
     "local_code": "",
     "home_link": "http://www.tsa.gov.tw/tsaLZN/zh/home.aspx",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Matsu_Nangan_Airport",
-    "keywords": "Matsu Islands",
+    "keywords": "",
     "runways": [
         {
             "id": "239313",
@@ -70,12 +70,12 @@
     },
     "region": {
         "id": "306753",
-        "code": "TW-X-LK",
-        "local_code": "X-LK",
+        "code": "TW-LIE",
+        "local_code": "LIE",
         "name": "Lienchiang County",
         "continent": "AS",
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Matsu_Islands",
-        "keywords": "Matsu Islands"
+        "keywords": "Matsu Islands, Lienkiang"
     }
 }
