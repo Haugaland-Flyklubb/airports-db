@@ -26,20 +26,30 @@
             "length_ft": "1312",
             "width_ft": "",
             "surface": "CON",
-            "lighted": "0",
+            "lighted": "1",
             "closed": "0",
             "le_ident": "12",
-            "le_latitude_deg": "17.645999908447266",
-            "le_longitude_deg": "-63.2224006652832",
+            "le_latitude_deg": "17.646076",
+            "le_longitude_deg": "-63.222306",
             "le_elevation_ft": "",
             "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
+            "le_displaced_threshold_ft": "170",
             "he_ident": "30",
-            "he_latitude_deg": "17.64459991455078",
-            "he_longitude_deg": "-63.21889877319336",
+            "he_latitude_deg": "17.644697",
+            "he_longitude_deg": "-63.218814",
             "he_elevation_ft": "",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "150"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "608316",
+            "airport_ref": "32245",
+            "airport_ident": "TNCS",
+            "type": "INFO",
+            "description": "Saba Information",
+            "frequency_mhz": "118.25"
         }
     ],
     "country": {

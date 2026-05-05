@@ -1,8 +1,8 @@
 {
     "id": "34994",
     "ident": "LT-9520",
-    "type": "small_airport",
-    "name": "Jonava Air Base [CLOSED]",
+    "type": "closed",
+    "name": "Jonava Air Base",
     "latitude_deg": "55.010146",
     "longitude_deg": "24.363481",
     "elevation_ft": "246",
@@ -11,13 +11,13 @@
     "iso_region": "LT-KU",
     "municipality": "Jonava",
     "scheduled_service": "no",
-    "icao_code": "EYRU",
+    "icao_code": "",
     "iata_code": "",
-    "gps_code": "EYRU",
+    "gps_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Jonava_Airport",
-    "keywords": "Rukla, Gaižiūnai",
+    "keywords": "Rukla, Gaižiūnai, EYRU",
     "runways": [
         {
             "id": "600933",

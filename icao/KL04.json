@@ -1,8 +1,8 @@
 {
     "id": "20281",
     "ident": "KL04",
-    "type": "small_airport",
-    "name": "Holtville Airport (Closed indefinitely)",
+    "type": "closed",
+    "name": "Holtville Airport",
     "latitude_deg": "32.840302",
     "longitude_deg": "-115.266998",
     "elevation_ft": "59",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "L04",
-    "local_code": "L04",
+    "gps_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Holtville_Airport",
-    "keywords": "",
+    "keywords": "L04",
     "runways": [
         {
             "id": "240999",

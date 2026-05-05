@@ -2,14 +2,14 @@
     "id": "608296",
     "ident": "DE-0926",
     "type": "heliport",
-    "name": "Helwind A",
+    "name": "Helwin A",
     "latitude_deg": "54.451897",
     "longitude_deg": "7.740036",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "DE",
-    "iso_region": "DE-SH",
-    "municipality": "",
+    "iso_region": "DE-XX",
+    "municipality": "North Sea",
     "scheduled_service": "no",
     "icao_code": "EDYH",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Flughäfen in Deutschland"
     },
     "region": {
-        "id": "303558",
-        "code": "DE-SH",
-        "local_code": "SH",
-        "name": "Schleswig-Holstein",
+        "id": "597933",
+        "code": "DE-XX",
+        "local_code": "XX",
+        "name": "*Offshore Wind Farms",
         "continent": "EU",
         "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Schleswig-Holstein",
-        "keywords": "Airports in Schleswig-Holstein"
+        "wikipedia_link": "",
+        "keywords": ""
     }
 }

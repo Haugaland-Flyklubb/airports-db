@@ -1,8 +1,8 @@
 {
     "id": "13485",
     "ident": "6OK6",
-    "type": "small_airport",
-    "name": "Earl Henry Airport [CLOSED INDEFINITELY]",
+    "type": "closed",
+    "name": "Earl Henry Airport",
     "latitude_deg": "36.795898",
     "longitude_deg": "-97.317001",
     "elevation_ft": "1054",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "6OK6",
-    "local_code": "6OK6",
+    "gps_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://web.archive.org/web/20150212194309/http://en.wikipedia.org/wiki/Earl_Henry_Airport",
-    "keywords": "",
+    "keywords": "6OK6",
     "runways": [
         {
             "id": "248345",
