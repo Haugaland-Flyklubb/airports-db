@@ -1,0 +1,63 @@
+{
+    "id": "608357",
+    "ident": "D431",
+    "type": "heliport",
+    "name": "Stuttgart Marien Hospital Rooftop Helipad",
+    "latitude_deg": "48.761079",
+    "longitude_deg": "9.163863",
+    "elevation_ft": "997",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Stuttgart",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "D431",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "608358",
+            "airport_ref": "608357",
+            "airport_ident": "D431",
+            "length_ft": "50",
+            "width_ft": "50",
+            "surface": "ASPH",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "48.761079",
+            "le_longitude_deg": "9.163863",
+            "le_elevation_ft": "997",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
+    }
+}

@@ -2,7 +2,7 @@
     "id": "316033",
     "ident": "DE-0326",
     "type": "small_airport",
-    "name": "Oppingen-Au Airfield",
+    "name": "Oppingen-Au Gliderfield",
     "latitude_deg": "48.5566",
     "longitude_deg": "9.8219",
     "elevation_ft": "2238",
@@ -15,9 +15,43 @@
     "iata_code": "",
     "gps_code": "",
     "local_code": "",
-    "home_link": "http://www.fliegergruppe-gingen.de/sites/flugplatz/flugplatz.html",
+    "home_link": "https://www.fliegergruppe-gingen.de/anfluginformationen/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Oppingen-Au",
     "keywords": "Gingen an der Fils",
+    "runways": [
+        {
+            "id": "608383",
+            "airport_ref": "316033",
+            "airport_ident": "DE-0326",
+            "length_ft": "2034",
+            "width_ft": "98",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "48.55744",
+            "le_longitude_deg": "9.8177",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "48.556439",
+            "he_longitude_deg": "9.824149",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "608384",
+            "airport_ref": "316033",
+            "airport_ident": "DE-0326",
+            "type": "RADIO",
+            "description": "Oppingen-Radio",
+            "frequency_mhz": "123.155"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

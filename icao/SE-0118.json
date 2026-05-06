@@ -1,0 +1,39 @@
+{
+    "id": "608336",
+    "ident": "SE-0118",
+    "type": "heliport",
+    "name": "Fjällflygarna AB",
+    "latitude_deg": "66.274352",
+    "longitude_deg": "16.68746",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-BD",
+    "municipality": "Adolfström",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "https://fjallflygarna.se",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305413",
+        "code": "SE-BD",
+        "local_code": "BD",
+        "name": "Norrbottena län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norrbottena_län",
+        "keywords": "Norrbotten County"
+    }
+}

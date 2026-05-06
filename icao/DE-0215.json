@@ -18,6 +18,30 @@
     "home_link": "http://www.ssv-ludwigshafen.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Ludwigshafen-Dannstadt",
     "keywords": "LUD1",
+    "runways": [
+        {
+            "id": "608387",
+            "airport_ref": "315480",
+            "airport_ident": "DE-0215",
+            "length_ft": "3085",
+            "width_ft": "98",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "49.408979",
+            "le_longitude_deg": "8.345479",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "49.414976",
+            "he_longitude_deg": "8.354807",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -1,0 +1,63 @@
+{
+    "id": "608350",
+    "ident": "D125",
+    "type": "heliport",
+    "name": "Esslingen Klinikum Rooftop Helipad",
+    "latitude_deg": "48.7375",
+    "longitude_deg": "9.326944",
+    "elevation_ft": "876",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Esslingen",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "D125",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "608351",
+            "airport_ref": "608350",
+            "airport_ident": "D125",
+            "length_ft": "54",
+            "width_ft": "54",
+            "surface": "concrete",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "48.7375",
+            "le_longitude_deg": "9.326944",
+            "le_elevation_ft": "876",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
+    }
+}

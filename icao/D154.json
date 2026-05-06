@@ -1,0 +1,63 @@
+{
+    "id": "608365",
+    "ident": "D154",
+    "type": "heliport",
+    "name": "Gerlingen Fa. Bosch Helipad",
+    "latitude_deg": "48.785525",
+    "longitude_deg": "9.062897",
+    "elevation_ft": "1562",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Gerlingen",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "D154",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "608366",
+            "airport_ref": "608365",
+            "airport_ident": "D154",
+            "length_ft": "50",
+            "width_ft": "50",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "48.785525",
+            "le_longitude_deg": "9.062897",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
+    }
+}

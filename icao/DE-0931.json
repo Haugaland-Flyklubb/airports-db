@@ -1,0 +1,63 @@
+{
+    "id": "608355",
+    "ident": "DE-0931",
+    "type": "small_airport",
+    "name": "Bockwiese Airfield",
+    "latitude_deg": "48.509444",
+    "longitude_deg": "9.291944",
+    "elevation_ft": "1575",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Glems",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "608356",
+            "airport_ref": "608355",
+            "airport_ident": "DE-0931",
+            "length_ft": "1476",
+            "width_ft": "89",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "48.508431",
+            "le_longitude_deg": "9.291365",
+            "le_elevation_ft": "1575",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "48.510738",
+            "he_longitude_deg": "9.293086",
+            "he_elevation_ft": "1575",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
+    }
+}

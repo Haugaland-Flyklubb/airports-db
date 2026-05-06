@@ -1,0 +1,63 @@
+{
+    "id": "608359",
+    "ident": "D430",
+    "type": "heliport",
+    "name": "Stuttgart Katharinen Hospital Helistop",
+    "latitude_deg": "48.783827",
+    "longitude_deg": "9.173173",
+    "elevation_ft": "855",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BW",
+    "municipality": "Stuttgart",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "D430",
+    "runways": [
+        {
+            "id": "608360",
+            "airport_ref": "608359",
+            "airport_ident": "D430",
+            "length_ft": "50",
+            "width_ft": "50",
+            "surface": "concrete",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "48.783827",
+            "le_longitude_deg": "9.173173",
+            "le_elevation_ft": "846",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
+    }
+}
