@@ -1,0 +1,39 @@
+{
+    "id": "608420",
+    "ident": "AR-0781",
+    "type": "small_airport",
+    "name": "Estancia San Juan Airport",
+    "latitude_deg": "-32.368546",
+    "longitude_deg": "-59.481656",
+    "elevation_ft": "270",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-E",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "2933",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302936",
+        "code": "AR-E",
+        "local_code": "E",
+        "name": "Entre Ríos Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Entre_R%C3%ADos_Province",
+        "keywords": ""
+    }
+}

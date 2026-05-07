@@ -2,7 +2,7 @@
     "id": "316045",
     "ident": "DE-0328",
     "type": "small_airport",
-    "name": "Rastatt Airfield",
+    "name": "Rastatt-Baldenau Gliderfield",
     "latitude_deg": "48.8742",
     "longitude_deg": "8.2129",
     "elevation_ft": "370",
@@ -18,6 +18,40 @@
     "home_link": "http://www.flugplatz-rastatt.de/cms/front_content.php",
     "wikipedia_link": "",
     "keywords": "Rastatt-Baldenau",
+    "runways": [
+        {
+            "id": "608404",
+            "airport_ref": "316045",
+            "airport_ident": "DE-0328",
+            "length_ft": "3282",
+            "width_ft": "96",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "48.871656",
+            "le_longitude_deg": "8.207773",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "48.876967",
+            "he_longitude_deg": "8.218297",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "608406",
+            "airport_ref": "316045",
+            "airport_ident": "DE-0328",
+            "type": "RADIO",
+            "description": "Rastatt-Baldenau Radio",
+            "frequency_mhz": "132.64"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
