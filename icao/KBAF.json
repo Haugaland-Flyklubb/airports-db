@@ -94,15 +94,15 @@
             "airport_ref": "3393",
             "airport_ident": "KBAF",
             "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.9"
+            "description": "WESTFIELD TRFC",
+            "frequency_mhz": "125.075"
         },
         {
             "id": "67708",
             "airport_ref": "3393",
             "airport_ident": "KBAF",
             "type": "GND",
-            "description": "GND",
+            "description": "WESTFIELD GND",
             "frequency_mhz": "121.7"
         },
         {
@@ -135,7 +135,7 @@
             "airport_ident": "KBAF",
             "type": "TWR",
             "description": "WESTFIELD TWR",
-            "frequency_mhz": "118.9"
+            "frequency_mhz": "125.075"
         }
     ],
     "country": {

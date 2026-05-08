@@ -1,0 +1,39 @@
+{
+    "id": "608450",
+    "ident": "AR-0787",
+    "type": "small_airport",
+    "name": "El Algarrobal Airstrip",
+    "latitude_deg": "-25.083859",
+    "longitude_deg": "-64.175534",
+    "elevation_ft": "1263",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-A",
+    "municipality": "Finca El Algarrobal",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "2501",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Joaquín Victor González",
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302932",
+        "code": "AR-A",
+        "local_code": "A",
+        "name": "Salta Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Salta_Province",
+        "keywords": "Airports in Salta Province"
+    }
+}
