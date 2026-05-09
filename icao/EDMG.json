@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_G%C3%BCnzburg-Donauried",
     "keywords": "",
+    "runways": [
+        {
+            "id": "608482",
+            "airport_ref": "28582",
+            "airport_ident": "EDMG",
+            "length_ft": "1882",
+            "width_ft": "100",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "48.485015",
+            "le_longitude_deg": "10.278899",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "48.487472",
+            "he_longitude_deg": "10.285715",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "568149",

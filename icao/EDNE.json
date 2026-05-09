@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Erbach",
     "keywords": "",
+    "runways": [
+        {
+            "id": "608481",
+            "airport_ref": "28560",
+            "airport_ident": "EDNE",
+            "length_ft": "2182",
+            "width_ft": "100",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "48.339437",
+            "le_longitude_deg": "9.913814",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "48.344509",
+            "he_longitude_deg": "9.917823",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "566974",
