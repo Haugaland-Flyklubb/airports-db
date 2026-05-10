@@ -3,21 +3,21 @@
     "ident": "IT-0831",
     "type": "heliport",
     "name": "Cervinia Heliport",
-    "latitude_deg": "45.926942",
-    "longitude_deg": "7.62449",
-    "elevation_ft": "",
+    "latitude_deg": "45.926739",
+    "longitude_deg": "7.624593",
+    "elevation_ft": "6725",
     "continent": "EU",
     "iso_country": "IT",
-    "iso_region": "IT-U-A",
-    "municipality": "Valtournenche",
-    "scheduled_service": "no",
+    "iso_region": "IT-23",
+    "municipality": "Valtournenche (VO)",
+    "scheduled_service": "yes",
     "icao_code": "",
     "iata_code": "",
     "gps_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Breuil-Cervinia",
     "country": {
         "id": "302697",
         "code": "IT",
@@ -27,13 +27,13 @@
         "keywords": "Aeroporti d'Italia"
     },
     "region": {
-        "id": "304256",
-        "code": "IT-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306355",
+        "code": "IT-23",
+        "local_code": "23",
+        "name": "Valle d'Aosta",
         "continent": "EU",
         "iso_country": "IT",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valle_d'Aosta",
+        "keywords": "VD, Airports in Aosta Valley"
     }
 }

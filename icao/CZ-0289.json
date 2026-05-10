@@ -1,0 +1,39 @@
+{
+    "id": "608511",
+    "ident": "CZ-0289",
+    "type": "small_airport",
+    "name": "Vlastibořice Airstrip",
+    "latitude_deg": "50.61929",
+    "longitude_deg": "15.03542",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-ST",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303542",
+        "code": "CZ-ST",
+        "local_code": "ST",
+        "name": "Central Bohemian Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Bohemian_Region",
+        "keywords": "Středočeský kraj"
+    }
+}
