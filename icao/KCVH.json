@@ -64,6 +64,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "608571",
+            "airport_ref": "17054",
+            "airport_ident": "KCVH",
+            "type": "Appr & dep",
+            "description": "",
+            "frequency_mhz": "124.525"
+        },
+        {
+            "id": "608568",
+            "airport_ref": "17054",
+            "airport_ident": "KCVH",
+            "type": "AWOS",
+            "description": "",
+            "frequency_mhz": "120.425"
+        },
+        {
+            "id": "608570",
+            "airport_ref": "17054",
+            "airport_ident": "KCVH",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",
