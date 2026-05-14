@@ -2,7 +2,7 @@
     "id": "529101",
     "ident": "FR-1014",
     "type": "small_airport",
-    "name": "Les Eyssagnes Airfield",
+    "name": "Les Eyssagnes Ultralight Airfield",
     "latitude_deg": "44.660886",
     "longitude_deg": "6.212319",
     "elevation_ft": "3642",
@@ -18,6 +18,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Base ULM des Eyssagnes",
+    "runways": [
+        {
+            "id": "608605",
+            "airport_ref": "529101",
+            "airport_ident": "FR-1014",
+            "length_ft": "755",
+            "width_ft": "82",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "44.662028",
+            "le_longitude_deg": "6.21154",
+            "le_elevation_ft": "3642",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "44.659756",
+            "he_longitude_deg": "6.213257",
+            "he_elevation_ft": "3642",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "608606",
+            "airport_ref": "529101",
+            "airport_ident": "FR-1014",
+            "type": "RADIO",
+            "description": "Les Eyssagnes Radio",
+            "frequency_mhz": "123.065"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

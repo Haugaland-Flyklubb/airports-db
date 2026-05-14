@@ -1,0 +1,39 @@
+{
+    "id": "608621",
+    "ident": "KR-1118",
+    "type": "closed",
+    "name": "Yeouido Airport",
+    "latitude_deg": "37.525845",
+    "longitude_deg": "126.921995",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-11",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SEL, RKSS",
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304400",
+        "code": "KR-11",
+        "local_code": "11",
+        "name": "Seoul-teukbyeolsi (Seoul Special City)",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Seoul",
+        "keywords": "Airports in Seoul-teukbyeolsi"
+    }
+}
