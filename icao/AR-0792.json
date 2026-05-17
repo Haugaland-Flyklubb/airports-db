@@ -1,0 +1,39 @@
+{
+    "id": "608686",
+    "ident": "AR-0792",
+    "type": "small_airport",
+    "name": "Mangusta Airstrip",
+    "latitude_deg": "-34.504291",
+    "longitude_deg": "-63.941338",
+    "elevation_ft": "500",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-X",
+    "municipality": "Italó",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "2429",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302953",
+        "code": "AR-X",
+        "local_code": "X",
+        "name": "Córdoba Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province_(Argentina)",
+        "keywords": ""
+    }
+}

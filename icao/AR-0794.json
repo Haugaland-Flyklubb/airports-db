@@ -1,0 +1,39 @@
+{
+    "id": "608688",
+    "ident": "AR-0794",
+    "type": "small_airport",
+    "name": "Aeronorte SRL Airport",
+    "latitude_deg": "-27.074684",
+    "longitude_deg": "-61.260266",
+    "elevation_ft": "337",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-H",
+    "municipality": "Charata",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "2693",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302938",
+        "code": "AR-H",
+        "local_code": "H",
+        "name": "Chaco Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chaco_Province",
+        "keywords": "Airports in Chaco Province"
+    }
+}
