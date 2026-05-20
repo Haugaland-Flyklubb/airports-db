@@ -1,0 +1,39 @@
+{
+    "id": "608728",
+    "ident": "HR-0047",
+    "type": "small_airport",
+    "name": "Airfield Ravnice",
+    "latitude_deg": "45.995",
+    "longitude_deg": "17.205",
+    "elevation_ft": "360",
+    "continent": "EU",
+    "iso_country": "HR",
+    "iso_region": "HR-06",
+    "municipality": "Podravske Sesvete",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302692",
+        "code": "HR",
+        "name": "Croatia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Croatia",
+        "keywords": "Croatian airports"
+    },
+    "region": {
+        "id": "304030",
+        "code": "HR-06",
+        "local_code": "06",
+        "name": "Koprivnica-Križevci County",
+        "continent": "EU",
+        "iso_country": "HR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Koprivnica-Križevci_County",
+        "keywords": "Airports in Koprivnica-Križevci County"
+    }
+}
