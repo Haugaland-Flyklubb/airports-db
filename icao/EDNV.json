@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Vogtareuth",
     "keywords": "",
+    "runways": [
+        {
+            "id": "608817",
+            "airport_ref": "28747",
+            "airport_ident": "EDNV",
+            "length_ft": "1959",
+            "width_ft": "49",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "47.944925",
+            "le_longitude_deg": "12.201623",
+            "le_elevation_ft": "1525",
+            "le_heading_degT": "59",
+            "le_displaced_threshold_ft": "262",
+            "he_ident": "24",
+            "he_latitude_deg": "47.947728",
+            "he_longitude_deg": "12.208444",
+            "he_elevation_ft": "1522",
+            "he_heading_degT": "239",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "575025",

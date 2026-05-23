@@ -1,0 +1,39 @@
+{
+    "id": "608819",
+    "ident": "AR-0798",
+    "type": "small_airport",
+    "name": "Strobel Lake Airstrip",
+    "latitude_deg": "-48.465874",
+    "longitude_deg": "-71.275658",
+    "elevation_ft": "3027",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-Z",
+    "municipality": "Gobernador Gregores",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "2866",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302955",
+        "code": "AR-Z",
+        "local_code": "Z",
+        "name": "Santa Cruz Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Province_(Argentina)",
+        "keywords": "Airports in Santa Cruz Province"
+    }
+}
