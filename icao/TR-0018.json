@@ -2,10 +2,10 @@
     "id": "44782",
     "ident": "TR-0018",
     "type": "small_airport",
-    "name": "Bolu Air Base",
-    "latitude_deg": "40.74797058105469",
-    "longitude_deg": "31.650066375732422",
-    "elevation_ft": "",
+    "name": "Bolu",
+    "latitude_deg": "40.748611",
+    "longitude_deg": "31.651667",
+    "elevation_ft": "2441",
     "continent": "AS",
     "iso_country": "TR",
     "iso_region": "TR-14",
@@ -15,9 +15,51 @@
     "iata_code": "",
     "gps_code": "",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://ais.ibosoft.net.tr/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "608858",
+            "airport_ref": "44782",
+            "airport_ident": "TR-0018",
+            "length_ft": "6217",
+            "width_ft": "148",
+            "surface": "concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "40.744981",
+            "le_longitude_deg": "31.64165",
+            "le_elevation_ft": "2441",
+            "le_heading_degT": "65",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "40.752281",
+            "he_longitude_deg": "31.66195",
+            "he_elevation_ft": "2416",
+            "he_heading_degT": "245",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "608860",
+            "airport_ref": "44782",
+            "airport_ident": "TR-0018",
+            "type": "PAR",
+            "description": "Bolu Precision",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "608859",
+            "airport_ref": "44782",
+            "airport_ident": "TR-0018",
+            "type": "TWR",
+            "description": "Bolu Tower",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

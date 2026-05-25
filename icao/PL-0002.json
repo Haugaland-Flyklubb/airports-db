@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://pl.wikipedia.org/wiki/L%C4%85dowisko_Ko%C5%82obrzeg-Bagicz",
     "keywords": "",
+    "runways": [
+        {
+            "id": "608865",
+            "airport_ref": "41847",
+            "airport_ident": "PL-0002",
+            "length_ft": "2926",
+            "width_ft": "131",
+            "surface": "Concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "54.199167",
+            "le_longitude_deg": "15.6775",
+            "le_elevation_ft": "23",
+            "le_heading_degT": "75",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "54.201111",
+            "he_longitude_deg": "15.690833",
+            "he_elevation_ft": "17",
+            "he_heading_degT": "255",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "532242",

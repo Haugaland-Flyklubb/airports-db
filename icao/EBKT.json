@@ -2,7 +2,7 @@
     "id": "2161",
     "ident": "EBKT",
     "type": "medium_airport",
-    "name": "Flanders International Airport Kortrijk-Wevelgem",
+    "name": "Kortrijk-Wevelgem International Airport",
     "latitude_deg": "50.818878",
     "longitude_deg": "3.209551",
     "elevation_ft": "55",
@@ -25,7 +25,7 @@
             "airport_ident": "EBKT",
             "length_ft": "6234",
             "width_ft": "148",
-            "surface": "ASP",
+            "surface": "Asphalt",
             "lighted": "1",
             "closed": "0",
             "le_ident": "06",
@@ -47,9 +47,17 @@
             "id": "49317",
             "airport_ref": "2161",
             "airport_ident": "EBKT",
-            "type": "UNIC",
-            "description": "AFIS",
-            "frequency_mhz": "120.25"
+            "type": "AFIS",
+            "description": "Kortrijk Information",
+            "frequency_mhz": "120.255"
+        },
+        {
+            "id": "608873",
+            "airport_ref": "2161",
+            "airport_ident": "EBKT",
+            "type": "Backup AFIS",
+            "description": "Backup Kortrijk Information",
+            "frequency_mhz": "134.055"
         }
     ],
     "country": {
