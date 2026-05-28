@@ -120,28 +120,6 @@
     },
     "navaids": [
         {
-            "id": "87692",
-            "filename": "Eindhoven_NDB_NL",
-            "ident": "EHN",
-            "name": "Eindhoven",
-            "type": "NDB",
-            "frequency_khz": "397",
-            "latitude_deg": "51.46780014038086",
-            "longitude_deg": "5.394999980926514",
-            "elevation_ft": "59",
-            "iso_country": "NL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.193",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EHEH"
-        },
-        {
             "id": "87693",
             "filename": "Eindhoven_TACAN_NL",
             "ident": "EHV",
