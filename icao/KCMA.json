@@ -20,6 +20,28 @@
     "keywords": "",
     "runways": [
         {
+            "id": "608950",
+            "airport_ref": "19517",
+            "airport_ident": "KCMA",
+            "length_ft": "1700",
+            "width_ft": "20",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "34.210597",
+            "le_longitude_deg": "-119.101665",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "275",
+            "he_ident": "25",
+            "he_latitude_deg": "34.210546",
+            "he_longitude_deg": "-119.095957",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "550"
+        },
+        {
             "id": "243379",
             "airport_ref": "19517",
             "airport_ident": "KCMA",

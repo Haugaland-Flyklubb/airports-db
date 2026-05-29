@@ -1,0 +1,39 @@
+{
+    "id": "608956",
+    "ident": "LOGX",
+    "type": "heliport",
+    "name": "Rottenmann Hospital Helistop",
+    "latitude_deg": "47.525022",
+    "longitude_deg": "14.367092",
+    "elevation_ft": "2293",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-6",
+    "municipality": "Rottenmann",
+    "scheduled_service": "no",
+    "icao_code": "LOGX",
+    "iata_code": "",
+    "gps_code": "LOGX",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302962",
+        "code": "AT-6",
+        "local_code": "6",
+        "name": "Styria",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Styria",
+        "keywords": "Steiermark"
+    }
+}
