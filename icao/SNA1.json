@@ -1,0 +1,63 @@
+{
+    "id": "608994",
+    "ident": "SNA1",
+    "type": "small_airport",
+    "name": "Fazenda Morro Alto Airstrip",
+    "latitude_deg": "-12.240794",
+    "longitude_deg": "-63.806761",
+    "elevation_ft": "656",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RO",
+    "municipality": "Costa Marques",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SNA1",
+    "local_code": "RO0121",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "608995",
+            "airport_ref": "608994",
+            "airport_ident": "SNA1",
+            "length_ft": "2952",
+            "width_ft": "59",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303219",
+        "code": "BR-RO",
+        "local_code": "RO",
+        "name": "Rondônia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rondônia",
+        "keywords": "Airports in Rondônia"
+    }
+}
