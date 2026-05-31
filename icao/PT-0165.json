@@ -1,0 +1,39 @@
+{
+    "id": "609008",
+    "ident": "PT-0165",
+    "type": "small_airport",
+    "name": "Pista Agricola de Azambuja",
+    "latitude_deg": "39.065756",
+    "longitude_deg": "-8.857362",
+    "elevation_ft": "15",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-11",
+    "municipality": "Azambuja",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302711",
+        "code": "PT",
+        "name": "Portugal",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
+        "keywords": "Aeroportos de Portugal"
+    },
+    "region": {
+        "id": "305177",
+        "code": "PT-11",
+        "local_code": "11",
+        "name": "Lisbon District",
+        "continent": "EU",
+        "iso_country": "PT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lisbon_District",
+        "keywords": "Lisboa"
+    }
+}
