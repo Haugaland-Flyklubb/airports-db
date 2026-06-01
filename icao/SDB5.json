@@ -1,0 +1,63 @@
+{
+    "id": "609046",
+    "ident": "SDB5",
+    "type": "small_airport",
+    "name": "Fazenda Santa Alcides Airport",
+    "latitude_deg": "-18.099072",
+    "longitude_deg": "-50.79443",
+    "elevation_ft": "2825",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Rio Verde",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SDB5",
+    "local_code": "GO0424",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "609047",
+            "airport_ref": "609046",
+            "airport_ident": "SDB5",
+            "length_ft": "3286",
+            "width_ft": "59",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303207",
+        "code": "BR-GO",
+        "local_code": "GO",
+        "name": "Goiás",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
+        "keywords": "Airports in Goiás"
+    }
+}
