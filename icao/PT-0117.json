@@ -2,7 +2,7 @@
     "id": "326794",
     "ident": "PT-0117",
     "type": "small_airport",
-    "name": "Aerodromo do Alqueidão UL",
+    "name": "Alqueidão UL",
     "latitude_deg": "39.066847",
     "longitude_deg": "-8.804255",
     "elevation_ft": "",
@@ -18,12 +18,36 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "609082",
+            "airport_ref": "326794",
+            "airport_ident": "PT-0117",
+            "length_ft": "1584",
+            "width_ft": "39",
+            "surface": "GRAV",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "527064",
             "airport_ref": "326794",
             "airport_ident": "PT-0117",
-            "type": "Info",
+            "type": "CTAF",
             "description": "ALQUEIDÃO RADIO",
             "frequency_mhz": "130.705"
         }

@@ -2,7 +2,7 @@
     "id": "326795",
     "ident": "PT-0118",
     "type": "small_airport",
-    "name": "Aerodromo da Azambuja UL",
+    "name": "Azambuja UL",
     "latitude_deg": "39.05955",
     "longitude_deg": "-8.827193",
     "elevation_ft": "",
@@ -18,6 +18,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "609083",
+            "airport_ref": "326795",
+            "airport_ident": "PT-0118",
+            "length_ft": "1082",
+            "width_ft": "65",
+            "surface": "GRAV",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "609084",
+            "airport_ref": "326795",
+            "airport_ident": "PT-0118",
+            "type": "CTAF",
+            "description": "AZAMBUJA RADIO",
+            "frequency_mhz": "129.855"
+        }
+    ],
     "country": {
         "id": "302711",
         "code": "PT",

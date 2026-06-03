@@ -1,7 +1,7 @@
 {
     "id": "12765",
     "ident": "60A",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Brundidge Municipal Airport",
     "latitude_deg": "31.732806",
     "longitude_deg": "-85.804194",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "60A",
-    "local_code": "60A",
+    "gps_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Brundidge_Municipal_Airport",
-    "keywords": "",
+    "keywords": "60A",
     "runways": [
         {
             "id": "250354",
