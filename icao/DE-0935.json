@@ -1,0 +1,39 @@
+{
+    "id": "609097",
+    "ident": "DE-0935",
+    "type": "small_airport",
+    "name": "Eschelbach Airfield",
+    "latitude_deg": "48.569722",
+    "longitude_deg": "11.609722",
+    "elevation_ft": "1511",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Pfaffenhofen an der Ilm",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "https://dulv.de/fmwebphp/Flugplatz/details.php?id=795",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    }
+}

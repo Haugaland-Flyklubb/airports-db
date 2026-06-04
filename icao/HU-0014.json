@@ -11,13 +11,23 @@
     "iso_region": "HU-SO",
     "municipality": "Balatonkeresztúr",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "LHBK",
     "iata_code": "",
     "gps_code": "LHBK",
     "local_code": "",
-    "home_link": "http://balatonflugplatz.com/",
+    "home_link": "https://balatonairfield.com/",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "609099",
+            "airport_ref": "309444",
+            "airport_ident": "HU-0014",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "118.34"
+        }
+    ],
     "country": {
         "id": "302693",
         "code": "HU",

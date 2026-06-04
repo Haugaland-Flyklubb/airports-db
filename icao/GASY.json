@@ -1,0 +1,39 @@
+{
+    "id": "609102",
+    "ident": "GASY",
+    "type": "small_airport",
+    "name": "Syama Airport",
+    "latitude_deg": "10.788516",
+    "longitude_deg": "-6.059774",
+    "elevation_ft": "1257",
+    "continent": "AF",
+    "iso_country": "ML",
+    "iso_region": "ML-3",
+    "municipality": "Syama",
+    "scheduled_service": "no",
+    "icao_code": "GASY",
+    "iata_code": "",
+    "gps_code": "GASY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302586",
+        "code": "ML",
+        "name": "Mali",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mali",
+        "keywords": "Aéroports du Mali, Malian airports"
+    },
+    "region": {
+        "id": "304658",
+        "code": "ML-3",
+        "local_code": "3",
+        "name": "Sikasso Region",
+        "continent": "AF",
+        "iso_country": "ML",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sikasso_Region",
+        "keywords": "Airports in Sikasso Region"
+    }
+}
