@@ -1,0 +1,63 @@
+{
+    "id": "609115",
+    "ident": "AR-0807",
+    "type": "small_airport",
+    "name": "Estancia Nina",
+    "latitude_deg": "-29.453876",
+    "longitude_deg": "-58.597505",
+    "elevation_ft": "194",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-W",
+    "municipality": "Perugorria",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "1214",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "609116",
+            "airport_ref": "609115",
+            "airport_ident": "AR-0807",
+            "length_ft": "1640",
+            "width_ft": "131",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302952",
+        "code": "AR-W",
+        "local_code": "W",
+        "name": "Corrientes Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Corrientes_Province",
+        "keywords": ""
+    }
+}
