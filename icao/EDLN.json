@@ -56,7 +56,7 @@
             "airport_ref": "2243",
             "airport_ident": "EDLN",
             "type": "ATIS",
-            "description": "Moenchengladbach ATIS",
+            "description": "Moenchengladbach ATIS (MHV)",
             "frequency_mhz": "109.8"
         },
         {
@@ -66,6 +66,14 @@
             "type": "GND",
             "description": "Moenchengladbach Ground / Rollkontrolle",
             "frequency_mhz": "121.93"
+        },
+        {
+            "id": "609157",
+            "airport_ref": "2243",
+            "airport_ident": "EDLN",
+            "type": "Radar",
+            "description": "Langen Radar",
+            "frequency_mhz": "128.555"
         },
         {
             "id": "52854",
