@@ -13,7 +13,7 @@ The repository will be updated automatically every day at 7:00 UTC. You can get 
 | --------------- | ----------------- |
 | Airports        | 85 558            |
 | Runways         | 47 997            |
-| Frequencies     | 30 285            |
+| Frequencies     | 30 288            |
 | Navigation aids | 11 009            |
 | Countries       | 249               |
 | Regions         | 3 982             |

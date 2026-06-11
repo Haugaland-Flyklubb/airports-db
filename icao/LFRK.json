@@ -50,17 +50,17 @@
             "surface": "ASP",
             "lighted": "1",
             "closed": "0",
-            "le_ident": "13",
-            "le_latitude_deg": "49.180999755859375",
-            "le_longitude_deg": "-0.46641701459884644",
+            "le_ident": "12",
+            "le_latitude_deg": "49.181",
+            "le_longitude_deg": "-0.466417",
             "le_elevation_ft": "232",
-            "le_heading_degT": "125",
+            "le_heading_degT": "124",
             "le_displaced_threshold_ft": "984",
-            "he_ident": "31",
-            "he_latitude_deg": "49.17110061645508",
-            "he_longitude_deg": "-0.44516900181770325",
+            "he_ident": "30",
+            "he_latitude_deg": "49.171101",
+            "he_longitude_deg": "-0.445169",
             "he_elevation_ft": "233",
-            "he_heading_degT": "305",
+            "he_heading_degT": "304",
             "he_displaced_threshold_ft": ""
         },
         {
@@ -72,17 +72,17 @@
             "surface": "GRASS",
             "lighted": "0",
             "closed": "0",
-            "le_ident": "13L",
+            "le_ident": "12L",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
             "le_elevation_ft": "223",
-            "le_heading_degT": "125",
+            "le_heading_degT": "124",
             "le_displaced_threshold_ft": "",
-            "he_ident": "31R",
+            "he_ident": "30R",
             "he_latitude_deg": "",
             "he_longitude_deg": "",
             "he_elevation_ft": "234",
-            "he_heading_degT": "305",
+            "he_heading_degT": "304",
             "he_displaced_threshold_ft": ""
         }
     ],
@@ -96,12 +96,28 @@
             "frequency_mhz": "120.35"
         },
         {
+            "id": "609186",
+            "airport_ref": "4215",
+            "airport_ident": "LFRK",
+            "type": "ATIS",
+            "description": "CAEN",
+            "frequency_mhz": "123.08"
+        },
+        {
+            "id": "609185",
+            "airport_ref": "4215",
+            "airport_ident": "LFRK",
+            "type": "OPS",
+            "description": "CAEN OPERATION",
+            "frequency_mhz": "131.4"
+        },
+        {
             "id": "354505",
             "airport_ref": "4215",
             "airport_ident": "LFRK",
-            "type": "GROUND",
-            "description": "CAEN OPERATIONS",
-            "frequency_mhz": "131.4"
+            "type": "TWR",
+            "description": "CAEN GROUND",
+            "frequency_mhz": "121.79"
         },
         {
             "id": "52351",
@@ -109,7 +125,7 @@
             "airport_ident": "LFRK",
             "type": "TWR",
             "description": "CAEN TWR",
-            "frequency_mhz": "134.525"
+            "frequency_mhz": "134.53"
         }
     ],
     "country": {
