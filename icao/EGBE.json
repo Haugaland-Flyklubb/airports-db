@@ -1,7 +1,7 @@
 {
     "id": "2390",
     "ident": "EGBE",
-    "type": "medium_airport",
+    "type": "closed",
     "name": "Coventry Airport",
     "latitude_deg": "52.369701",
     "longitude_deg": "-1.47972",
@@ -11,13 +11,13 @@
     "iso_region": "GB-ENG",
     "municipality": "Coventry, West Midlands",
     "scheduled_service": "no",
-    "icao_code": "EGBE",
-    "iata_code": "CVT",
-    "gps_code": "EGBE",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
     "local_code": "",
     "home_link": "http://www.coventryairport.co.uk/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Coventry_Airport",
-    "keywords": "RAF Baginton",
+    "keywords": "RAF Baginton, EGBE, CVT",
     "runways": [
         {
             "id": "239435",

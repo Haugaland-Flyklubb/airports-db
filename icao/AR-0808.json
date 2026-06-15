@@ -1,0 +1,63 @@
+{
+    "id": "609275",
+    "ident": "AR-0808",
+    "type": "small_airport",
+    "name": "(Duplicate)SAAJ",
+    "latitude_deg": "-34.548139",
+    "longitude_deg": "-60.930519",
+    "elevation_ft": "260",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "SAAJ",
+    "iata_code": "JNI",
+    "gps_code": "",
+    "local_code": "NIN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "609276",
+            "airport_ref": "609275",
+            "airport_ident": "AR-0808",
+            "length_ft": "4900",
+            "width_ft": "90",
+            "surface": "Terra",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "263",
+            "le_heading_degT": "175",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "256",
+            "he_heading_degT": "355",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302933",
+        "code": "AR-B",
+        "local_code": "B",
+        "name": "Buenos Aires Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
+        "keywords": "Airports in Buenos Aires Province"
+    }
+}
