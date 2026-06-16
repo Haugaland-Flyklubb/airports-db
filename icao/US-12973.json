@@ -1,0 +1,39 @@
+{
+    "id": "609289",
+    "ident": "US-12973",
+    "type": "heliport",
+    "name": "Sea Gals Helipad",
+    "latitude_deg": "34.179217",
+    "longitude_deg": "-83.984215",
+    "elevation_ft": "1088",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Flowery Branch",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "94GA",
+    "local_code": "94GA",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": "Airports in Georgia"
+    }
+}

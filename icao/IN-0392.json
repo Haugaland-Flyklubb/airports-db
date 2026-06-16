@@ -18,6 +18,30 @@
     "home_link": "https://niairport.in/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Noida_International_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "609284",
+            "airport_ref": "597786",
+            "airport_ident": "IN-0392",
+            "length_ft": "12975",
+            "width_ft": "148",
+            "surface": "ASPH",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "28.183466",
+            "le_longitude_deg": "77.592438",
+            "le_elevation_ft": "653",
+            "le_heading_degT": "102",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "28.176308",
+            "he_longitude_deg": "77.631302",
+            "he_elevation_ft": "650",
+            "he_heading_degT": "282",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",
