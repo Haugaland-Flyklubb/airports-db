@@ -1,0 +1,73 @@
+{
+    "id": "609319",
+    "ident": "79MS",
+    "type": "small_airport",
+    "name": "Thornton Field",
+    "latitude_deg": "31.595518",
+    "longitude_deg": "-89.497076",
+    "elevation_ft": "383",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MS",
+    "municipality": "Seminary",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "79MS",
+    "local_code": "79MS",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "609320",
+            "airport_ref": "609319",
+            "airport_ident": "79MS",
+            "length_ft": "2000",
+            "width_ft": "70",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "609321",
+            "airport_ref": "609319",
+            "airport_ident": "79MS",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306101",
+        "code": "US-MS",
+        "local_code": "MS",
+        "name": "Mississippi",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
+        "keywords": "Airports in Mississippi"
+    }
+}

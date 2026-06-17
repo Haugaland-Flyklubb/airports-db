@@ -15,9 +15,43 @@
     "iata_code": "",
     "gps_code": "ESUV",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://alvsbyflygklubb.se",
     "wikipedia_link": "https://sv.wikipedia.org/wiki/%C3%84lvsbyn-H%C3%B6gheden_flygf%C3%A4lt",
     "keywords": "Alvsby",
+    "runways": [
+        {
+            "id": "609315",
+            "airport_ref": "29384",
+            "airport_ident": "ESUV",
+            "length_ft": "2395",
+            "width_ft": "98",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "65.643441",
+            "le_longitude_deg": "21.055141",
+            "le_elevation_ft": "249",
+            "le_heading_degT": "54",
+            "le_displaced_threshold_ft": "295",
+            "he_ident": "22",
+            "he_latitude_deg": "65.64735",
+            "he_longitude_deg": "21.067735",
+            "he_elevation_ft": "259",
+            "he_heading_degT": "234",
+            "he_displaced_threshold_ft": "262"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "609314",
+            "airport_ref": "29384",
+            "airport_ident": "ESUV",
+            "type": "Radio",
+            "description": "",
+            "frequency_mhz": "123.35"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

@@ -15,9 +15,43 @@
     "iata_code": "",
     "gps_code": "ESUY",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://www.facebook.com/EdsbynsFlygklubb",
     "wikipedia_link": "",
     "keywords": "Edsby Flygplats",
+    "runways": [
+        {
+            "id": "609309",
+            "airport_ref": "29385",
+            "airport_ident": "ESUY",
+            "length_ft": "2296",
+            "width_ft": "131",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "61.387311",
+            "le_longitude_deg": "15.828937",
+            "le_elevation_ft": "512",
+            "le_heading_degT": "107",
+            "le_displaced_threshold_ft": "525",
+            "he_ident": "29",
+            "he_latitude_deg": "61.385785",
+            "he_longitude_deg": "15.839085",
+            "he_elevation_ft": "515",
+            "he_heading_degT": "287",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "609310",
+            "airport_ref": "29385",
+            "airport_ident": "ESUY",
+            "type": "Radio",
+            "description": "",
+            "frequency_mhz": "123.55"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",
