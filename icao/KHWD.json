@@ -66,20 +66,28 @@
     ],
     "freqs": [
         {
-            "id": "69387",
-            "airport_ref": "20101",
-            "airport_ident": "KHWD",
-            "type": "A/D",
-            "description": "NORCAL APP/DEP",
-            "frequency_mhz": "35.41"
-        },
-        {
             "id": "69386",
             "airport_ref": "20101",
             "airport_ident": "KHWD",
             "type": "A/D",
             "description": "NORCAL APP/DEP",
             "frequency_mhz": "124.4"
+        },
+        {
+            "id": "609343",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "type": "A/D",
+            "description": "NORCAL APPROACH",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "69387",
+            "airport_ref": "20101",
+            "airport_ident": "KHWD",
+            "type": "A/D",
+            "description": "NORCAL APPROACH",
+            "frequency_mhz": "134.5"
         },
         {
             "id": "69388",
