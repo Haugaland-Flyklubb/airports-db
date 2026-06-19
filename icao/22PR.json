@@ -1,0 +1,63 @@
+{
+    "id": "609355",
+    "ident": "22PR",
+    "type": "heliport",
+    "name": "Vieques Medical Facility Heliport",
+    "latitude_deg": "18.14142",
+    "longitude_deg": "-65.439542",
+    "elevation_ft": "113",
+    "continent": "NA",
+    "iso_country": "PR",
+    "iso_region": "PR-U-A",
+    "municipality": "Isabel Segunda, Vieques",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "22PR",
+    "local_code": "22PR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "609356",
+            "airport_ref": "609355",
+            "airport_ident": "22PR",
+            "length_ft": "40",
+            "width_ft": "40",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302751",
+        "code": "PR",
+        "name": "Puerto Rico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Puerto_Rico",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305165",
+        "code": "PR-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "PR",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

@@ -5,7 +5,7 @@
     "name": "Emmerich Airfield",
     "latitude_deg": "51.8221",
     "longitude_deg": "6.2745",
-    "elevation_ft": "44",
+    "elevation_ft": "52",
     "continent": "EU",
     "iso_country": "DE",
     "iso_region": "DE-NW",
@@ -15,9 +15,43 @@
     "iata_code": "",
     "gps_code": "",
     "local_code": "",
-    "home_link": "http://fsv-emmerich.de/",
+    "home_link": "https://www.aero-club-emmerich.de/",
     "wikipedia_link": "",
     "keywords": "Palmersward",
+    "runways": [
+        {
+            "id": "609368",
+            "airport_ref": "314868",
+            "airport_ident": "DE-0179",
+            "length_ft": "3280",
+            "width_ft": "100",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "51.8248",
+            "le_longitude_deg": "6.2687",
+            "le_elevation_ft": "-1",
+            "le_heading_degT": "128",
+            "le_displaced_threshold_ft": "300",
+            "he_ident": "30",
+            "he_latitude_deg": "51.8193",
+            "he_longitude_deg": "6.28",
+            "he_elevation_ft": "",
+            "he_heading_degT": "308",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "609367",
+            "airport_ref": "314868",
+            "airport_ident": "DE-0179",
+            "type": "RADIO",
+            "description": "Emmerich Radio",
+            "frequency_mhz": "128.74"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
