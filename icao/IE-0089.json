@@ -1,0 +1,39 @@
+{
+    "id": "609498",
+    "ident": "IE-0089",
+    "type": "small_airport",
+    "name": "Coill an tSíáin Airstrip",
+    "latitude_deg": "53.60779",
+    "longitude_deg": "-9.45045",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-MO",
+    "municipality": "Killateeaun",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302694",
+        "code": "IE",
+        "name": "Ireland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
+        "keywords": "Eire"
+    },
+    "region": {
+        "id": "304146",
+        "code": "IE-MO",
+        "local_code": "MO",
+        "name": "County Mayo",
+        "continent": "EU",
+        "iso_country": "IE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mayo",
+        "keywords": "Airports in County Mayo"
+    }
+}
