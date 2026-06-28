@@ -1,0 +1,63 @@
+{
+    "id": "609512",
+    "ident": "CA-1256",
+    "type": "small_airport",
+    "name": "St-Thomas",
+    "latitude_deg": "46.007039",
+    "longitude_deg": "-73.382707",
+    "elevation_ft": "100",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Joliette",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "CJO2",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/List_of_airports_in_Quebec#Joliette/Saint-Thomas_Aerodrome",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "609513",
+            "airport_ref": "609512",
+            "airport_ident": "CA-1256",
+            "length_ft": "2862",
+            "width_ft": "40",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "3",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "183",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    }
+}
