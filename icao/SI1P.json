@@ -1,0 +1,63 @@
+{
+    "id": "609558",
+    "ident": "SI1P",
+    "type": "heliport",
+    "name": "Cristal Heliport",
+    "latitude_deg": "-28.672551",
+    "longitude_deg": "-49.3538",
+    "elevation_ft": "356",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Criciúma",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SI1P",
+    "local_code": "SC0267",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "609559",
+            "airport_ref": "609558",
+            "airport_ident": "SI1P",
+            "length_ft": "58",
+            "width_ft": "59",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303222",
+        "code": "BR-SC",
+        "local_code": "SC",
+        "name": "Santa Catarina",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina_(state)",
+        "keywords": "Airports in Santa Catarina"
+    }
+}

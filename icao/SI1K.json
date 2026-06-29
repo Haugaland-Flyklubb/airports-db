@@ -1,0 +1,63 @@
+{
+    "id": "609549",
+    "ident": "SI1K",
+    "type": "small_airport",
+    "name": "Fazenda Romaria Airport",
+    "latitude_deg": "-22.811536",
+    "longitude_deg": "-53.03067",
+    "elevation_ft": "1306",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Nova Londrina",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SI1K",
+    "local_code": "PR0262",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "609550",
+            "airport_ref": "609549",
+            "airport_ident": "SI1K",
+            "length_ft": "3609",
+            "width_ft": "74",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303216",
+        "code": "BR-PR",
+        "local_code": "PR",
+        "name": "Paraná",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
+        "keywords": "Airports in Paraná"
+    }
+}
