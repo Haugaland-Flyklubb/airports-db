@@ -1,7 +1,7 @@
 {
     "id": "46580",
     "ident": "CA-0444",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Beaverton Airport",
     "latitude_deg": "44.447473",
     "longitude_deg": "-79.100107",
@@ -13,11 +13,11 @@
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "CBV2",
-    "local_code": "CBV2",
+    "gps_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Beaverton_Aerodrome",
-    "keywords": "",
+    "keywords": "CBV2",
     "runways": [
         {
             "id": "271068",

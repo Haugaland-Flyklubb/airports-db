@@ -1,0 +1,81 @@
+{
+    "id": "609581",
+    "ident": "GB-1361",
+    "type": "small_airport",
+    "name": "Ragley Hall Airstrip",
+    "latitude_deg": "52.2283",
+    "longitude_deg": "-1.8439",
+    "elevation_ft": "210",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "Alcester",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "https://www.midlandsairfestival.com",
+    "wikipedia_link": "",
+    "keywords": "Ragley Hall, Midlands Air Festival, temporary airstrip, grass runway, private, event airfield, Alcester, Warwickshire",
+    "runways": [
+        {
+            "id": "609587",
+            "airport_ref": "609581",
+            "airport_ident": "GB-1361",
+            "length_ft": "1591",
+            "width_ft": "",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "00",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "210",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "00",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "210",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "609586",
+            "airport_ref": "609581",
+            "airport_ident": "GB-1361",
+            "type": "Airband",
+            "description": "",
+            "frequency_mhz": "122.48"
+        },
+        {
+            "id": "609585",
+            "airport_ref": "609581",
+            "airport_ident": "GB-1361",
+            "type": "EGNX",
+            "description": "",
+            "frequency_mhz": "121.905"
+        }
+    ],
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": "English airports"
+    }
+}
