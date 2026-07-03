@@ -1,0 +1,63 @@
+{
+    "id": "609618",
+    "ident": "PL-0289",
+    "type": "small_airport",
+    "name": "Krzywina Airfield",
+    "latitude_deg": "50.71386",
+    "longitude_deg": "17.16418",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-DS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "609619",
+            "airport_ref": "609618",
+            "airport_ident": "PL-0289",
+            "length_ft": "1588",
+            "width_ft": "66",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305144",
+        "code": "PL-DS",
+        "local_code": "DS",
+        "name": "Lower Silesian Voivodeship",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Silesian_Voivodeship",
+        "keywords": "Dolnośląskie"
+    }
+}

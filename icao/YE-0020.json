@@ -1,14 +1,14 @@
 {
     "id": "598011",
     "ident": "YE-0020",
-    "type": "small_airport",
-    "name": "New Mocha",
-    "latitude_deg": "12.873542",
-    "longitude_deg": "43.511844",
+    "type": "closed",
+    "name": "Falaise Airfield",
+    "latitude_deg": "12.784531",
+    "longitude_deg": "44.833446",
     "elevation_ft": "94",
     "continent": "AS",
     "iso_country": "YE",
-    "iso_region": "YE-TA",
+    "iso_region": "YE-AD",
     "municipality": "",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "مطارات اليمن"
     },
     "region": {
-        "id": "306292",
-        "code": "YE-TA",
-        "local_code": "TA",
-        "name": "Taiz Governorate",
+        "id": "306276",
+        "code": "YE-AD",
+        "local_code": "AD",
+        "name": "Aden Governorate",
         "continent": "AS",
         "iso_country": "YE",
-        "wikipedia_link": "https://en.wikipediaorg/wiki/Taiz_Governorate",
-        "keywords": "Airports in Taiz Governorate"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aden_Governorate",
+        "keywords": "Airports in Aden Governorate"
     }
 }
