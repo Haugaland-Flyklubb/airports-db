@@ -18,6 +18,24 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/CFB_Edmonton",
     "keywords": "YED, CFB Edmonton, Namao Airport",
+    "freqs": [
+        {
+            "id": "609668",
+            "airport_ref": "1715",
+            "airport_ident": "CYED",
+            "type": "ADVSY",
+            "description": "Namao Advisory",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "609669",
+            "airport_ref": "1715",
+            "airport_ident": "CYED",
+            "type": "OPS",
+            "description": "408 THS Ops",
+            "frequency_mhz": "383.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",
