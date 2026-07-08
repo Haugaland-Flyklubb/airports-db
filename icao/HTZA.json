@@ -48,15 +48,31 @@
             "airport_ref": "3260",
             "airport_ident": "HTZA",
             "type": "APP",
-            "description": "APP",
+            "description": "Zanzibar Approach",
             "frequency_mhz": "121.2"
+        },
+        {
+            "id": "609687",
+            "airport_ref": "3260",
+            "airport_ident": "HTZA",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "126.4"
+        },
+        {
+            "id": "609686",
+            "airport_ref": "3260",
+            "airport_ident": "HTZA",
+            "type": "GND",
+            "description": "Zanzibar Ground",
+            "frequency_mhz": "121.7"
         },
         {
             "id": "58074",
             "airport_ref": "3260",
             "airport_ident": "HTZA",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Zanzibar Tower",
             "frequency_mhz": "121.2"
         }
     ],
