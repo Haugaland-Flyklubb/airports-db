@@ -52,12 +52,28 @@
             "frequency_mhz": "124.475"
         },
         {
+            "id": "609752",
+            "airport_ref": "2572",
+            "airport_ident": "ENCN",
+            "type": "ATIS",
+            "description": "KRISTIANSUND/KVERNBE",
+            "frequency_mhz": "135.075"
+        },
+        {
             "id": "55795",
             "airport_ref": "2572",
             "airport_ident": "ENCN",
             "type": "TWR",
             "description": "TWR",
             "frequency_mhz": "118.1"
+        },
+        {
+            "id": "609753",
+            "airport_ref": "2572",
+            "airport_ident": "ENCN",
+            "type": "TWR",
+            "description": "KRISTIANSUND/KVERNBE",
+            "frequency_mhz": "118.3"
         }
     ],
     "country": {
