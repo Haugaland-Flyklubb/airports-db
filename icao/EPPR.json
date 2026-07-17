@@ -44,11 +44,19 @@
     ],
     "freqs": [
         {
+            "id": "609841",
+            "airport_ref": "2626",
+            "airport_ident": "EPPR",
+            "type": "TWR",
+            "description": "Aeroklub Gdański (Gdańsk Aeroklub)",
+            "frequency_mhz": "122.405"
+        },
+        {
             "id": "56201",
             "airport_ref": "2626",
             "airport_ident": "EPPR",
             "type": "TWR",
-            "description": "PRUSZCZ TWR",
+            "description": "49 Baza Lotnicza (49th Air Base)",
             "frequency_mhz": "126.5"
         }
     ],

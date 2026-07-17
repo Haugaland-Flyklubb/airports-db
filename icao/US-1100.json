@@ -18,6 +18,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "609859",
+            "airport_ref": "330938",
+            "airport_ident": "US-1100",
+            "length_ft": "1606",
+            "width_ft": "25",
+            "surface": "turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1022",
+            "le_heading_degT": "167",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "1022",
+            "he_heading_degT": "347",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "609860",
+            "airport_ref": "330938",
+            "airport_ident": "US-1100",
+            "type": "CTAF",
+            "description": "Dug Bar CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

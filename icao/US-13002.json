@@ -1,0 +1,73 @@
+{
+    "id": "609864",
+    "ident": "US-13002",
+    "type": "small_airport",
+    "name": "Ola Airstrip",
+    "latitude_deg": "44.20579",
+    "longitude_deg": "-116.25109",
+    "elevation_ft": "4085",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ID",
+    "municipality": "Ola",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Ola, High Valley, private",
+    "runways": [
+        {
+            "id": "609865",
+            "airport_ref": "609864",
+            "airport_ident": "US-13002",
+            "length_ft": "784",
+            "width_ft": "30",
+            "surface": "turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "4076",
+            "le_heading_degT": "106",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "4139",
+            "he_heading_degT": "286",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "609866",
+            "airport_ref": "609864",
+            "airport_ident": "US-13002",
+            "type": "CTAF",
+            "description": "Ola CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": "Airports in Idaho"
+    }
+}
