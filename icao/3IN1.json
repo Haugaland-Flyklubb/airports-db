@@ -1,0 +1,63 @@
+{
+    "id": "609904",
+    "ident": "3IN1",
+    "type": "small_airport",
+    "name": "Weimer Field",
+    "latitude_deg": "39.819266",
+    "longitude_deg": "-85.569015",
+    "elevation_ft": "990",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IN",
+    "municipality": "Knightstown",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "3IN1",
+    "local_code": "3IN1",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "609905",
+            "airport_ref": "609904",
+            "airport_ident": "3IN1",
+            "length_ft": "2600",
+            "width_ft": "120",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "990",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "984",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306091",
+        "code": "US-IN",
+        "local_code": "IN",
+        "name": "Indiana",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
+        "keywords": "Airports in Indiana"
+    }
+}

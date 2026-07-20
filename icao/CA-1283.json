@@ -1,0 +1,39 @@
+{
+    "id": "609920",
+    "ident": "CA-1283",
+    "type": "closed",
+    "name": "Port Alberni Airport",
+    "latitude_deg": "49.25992",
+    "longitude_deg": "-124.832475",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-BC",
+    "municipality": "Port Alberni",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": "British Columbian airports"
+    }
+}

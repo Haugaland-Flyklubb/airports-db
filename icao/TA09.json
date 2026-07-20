@@ -1,0 +1,63 @@
+{
+    "id": "609901",
+    "ident": "TA09",
+    "type": "small_airport",
+    "name": "Flying W Airstrip",
+    "latitude_deg": "29.177081",
+    "longitude_deg": "-99.914374",
+    "elevation_ft": "885",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-TX",
+    "municipality": "Uvalde",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "TA09",
+    "local_code": "TA09",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "609902",
+            "airport_ref": "609901",
+            "airport_ident": "TA09",
+            "length_ft": "4000",
+            "width_ft": "40",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "8",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "885",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "883",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": "Texan airports"
+    }
+}
