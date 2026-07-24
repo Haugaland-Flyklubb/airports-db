@@ -1,0 +1,39 @@
+{
+    "id": "609968",
+    "ident": "HU-0083",
+    "type": "small_airport",
+    "name": "Jabapuszta Airstrip",
+    "latitude_deg": "46.8025",
+    "longitude_deg": "18.0257",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-SO",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304086",
+        "code": "HU-SO",
+        "local_code": "SO",
+        "name": "Somogy County",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Somogy_County",
+        "keywords": "Airports in Somogy County"
+    }
+}
