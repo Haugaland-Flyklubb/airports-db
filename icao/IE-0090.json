@@ -1,0 +1,39 @@
+{
+    "id": "610026",
+    "ident": "IE-0090",
+    "type": "small_airport",
+    "name": "Cooley",
+    "latitude_deg": "53.98797",
+    "longitude_deg": "-6.221581",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IE",
+    "iso_region": "IE-LH",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302694",
+        "code": "IE",
+        "name": "Ireland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
+        "keywords": "Eire"
+    },
+    "region": {
+        "id": "304140",
+        "code": "IE-LH",
+        "local_code": "LH",
+        "name": "County Louth",
+        "continent": "EU",
+        "iso_country": "IE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louth",
+        "keywords": "Airports in County Louth"
+    }
+}

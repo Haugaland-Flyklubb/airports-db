@@ -1,15 +1,15 @@
 {
-    "id": "609984",
-    "ident": "IT-0989",
+    "id": "610023",
+    "ident": "IT-0996",
     "type": "heliport",
-    "name": "Lu Taz Heliport",
-    "latitude_deg": "44.213035",
-    "longitude_deg": "7.568266",
-    "elevation_ft": "3598",
+    "name": "Millesimo Heliport",
+    "latitude_deg": "44.3758",
+    "longitude_deg": "8.198716",
+    "elevation_ft": "1392",
     "continent": "EU",
     "iso_country": "IT",
-    "iso_region": "IT-21",
-    "municipality": "Limone Piemonte (CN)",
+    "iso_region": "IT-42",
+    "municipality": "Millesimo (SV)",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Aeroporti d'Italia"
     },
     "region": {
-        "id": "306360",
-        "code": "IT-21",
-        "local_code": "21",
-        "name": "Piedmont",
+        "id": "306364",
+        "code": "IT-42",
+        "local_code": "42",
+        "name": "Liguria",
         "continent": "EU",
         "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
-        "keywords": "PM, Piemonte"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Liguria",
+        "keywords": "LG"
     }
 }
