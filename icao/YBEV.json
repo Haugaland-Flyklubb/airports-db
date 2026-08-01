@@ -3,9 +3,9 @@
     "ident": "YBEV",
     "type": "small_airport",
     "name": "Beverley Airport",
-    "latitude_deg": "-32.13330078125",
-    "longitude_deg": "116.94999694824219",
-    "elevation_ft": "",
+    "latitude_deg": "-32.125341",
+    "longitude_deg": "116.949625",
+    "elevation_ft": "667",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-WA",
@@ -71,15 +71,15 @@
             "airport_ident": "YBEV",
             "type": "CTAF",
             "description": "CTAF",
-            "frequency_mhz": "120.7"
+            "frequency_mhz": "126.85"
         },
         {
             "id": "72210",
             "airport_ref": "27372",
             "airport_ident": "YBEV",
             "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "132.1"
+            "description": "Melbourn Centre",
+            "frequency_mhz": "138.3"
         }
     ],
     "country": {
