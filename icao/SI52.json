@@ -1,0 +1,63 @@
+{
+    "id": "610083",
+    "ident": "SI52",
+    "type": "small_airport",
+    "name": "Morro da Águia Airstrip",
+    "latitude_deg": "-26.537219",
+    "longitude_deg": "-53.004394",
+    "elevation_ft": "2428",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "São Bernardino",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SI52",
+    "local_code": "SC0266",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "https://aisweb.decea.mil.br/?i=aerodromos&codigo=SI52&amdt=2002",
+    "runways": [
+        {
+            "id": "610086",
+            "airport_ref": "610083",
+            "airport_ident": "SI52",
+            "length_ft": "820",
+            "width_ft": "59",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303222",
+        "code": "BR-SC",
+        "local_code": "SC",
+        "name": "Santa Catarina",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina_(state)",
+        "keywords": "Airports in Santa Catarina"
+    }
+}
