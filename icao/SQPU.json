@@ -1,0 +1,39 @@
+{
+    "id": "610096",
+    "ident": "SQPU",
+    "type": "small_airport",
+    "name": "Acapulco Ag Airport",
+    "latitude_deg": "5.408643",
+    "longitude_deg": "-71.869559",
+    "elevation_ft": "581",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-CAS",
+    "municipality": "Nunchía",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SQPU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "La Bodega",
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303465",
+        "code": "CO-CAS",
+        "local_code": "CAS",
+        "name": "Casanare Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Casanare_Department",
+        "keywords": "Airports in Casanare Department"
+    }
+}

@@ -23,7 +23,7 @@
             "id": "319651",
             "airport_ref": "316999",
             "airport_ident": "IT-0170",
-            "length_ft": "1214",
+            "length_ft": "984",
             "width_ft": "36",
             "surface": "Asfalt",
             "lighted": "0",
@@ -31,15 +31,25 @@
             "le_ident": "18",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
-            "le_elevation_ft": "",
+            "le_elevation_ft": "655",
             "le_heading_degT": "",
             "le_displaced_threshold_ft": "",
             "he_ident": "36",
             "he_latitude_deg": "",
             "he_longitude_deg": "",
-            "he_elevation_ft": "",
+            "he_elevation_ft": "656",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "610103",
+            "airport_ref": "316999",
+            "airport_ident": "IT-0170",
+            "type": "CTAF",
+            "description": "Kong",
+            "frequency_mhz": "130"
         }
     ],
     "country": {
