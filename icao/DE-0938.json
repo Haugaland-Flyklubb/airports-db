@@ -1,8 +1,8 @@
 {
-    "id": "610112",
+    "id": "610123",
     "ident": "DE-0938",
-    "type": "small_airport",
-    "name": "Mahlwinkel Solar Park Airstrip",
+    "type": "closed",
+    "name": "Mahlwinkel Solar Park Airstrip.",
     "latitude_deg": "52.388306",
     "longitude_deg": "11.825876",
     "elevation_ft": "135",
@@ -18,30 +18,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "runways": [
-        {
-            "id": "610113",
-            "airport_ref": "610112",
-            "airport_ident": "DE-0938",
-            "length_ft": "8200",
-            "width_ft": "125",
-            "surface": "CON",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "09",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "27",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",
