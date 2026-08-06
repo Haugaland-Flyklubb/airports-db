@@ -1,0 +1,39 @@
+{
+    "id": "610131",
+    "ident": "CA-1290",
+    "type": "small_airport",
+    "name": "Lloyd Lake",
+    "latitude_deg": "57.341878",
+    "longitude_deg": "-109.02669",
+    "elevation_ft": "1000",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303305",
+        "code": "CA-SK",
+        "local_code": "SK",
+        "name": "Saskatchewan",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
+        "keywords": "Airports in Saskatchewan"
+    }
+}
