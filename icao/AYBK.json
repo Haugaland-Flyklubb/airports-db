@@ -69,29 +69,5 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Bougainville",
         "keywords": "North Solomons"
-    },
-    "navaids": [
-        {
-            "id": "86434",
-            "filename": "Buka_NDB-DME_PG",
-            "ident": "BUK",
-            "name": "Buka",
-            "type": "NDB-DME",
-            "frequency_khz": "269",
-            "latitude_deg": "-5.443019866943359",
-            "longitude_deg": "154.66700744628906",
-            "elevation_ft": "54",
-            "iso_country": "PG",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.199",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "AYBK"
-        }
-    ]
+    }
 }

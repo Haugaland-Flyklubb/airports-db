@@ -145,51 +145,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rostov_Oblast",
         "keywords": "Airports in Rostov Oblast"
-    },
-    "navaids": [
-        {
-            "id": "93154",
-            "filename": "Rostov-Na-Donu_NDB_RU",
-            "ident": "RN",
-            "name": "Rostov-Na-Donu",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "47.224998474121094",
-            "longitude_deg": "39.77000045776367",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.564",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "RU-9991"
-        },
-        {
-            "id": "93295",
-            "filename": "Rostov-Na-Donu_NDB_RU",
-            "ident": "RW",
-            "name": "Rostov-Na-Donu",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "47.29169845581055",
-            "longitude_deg": "39.86669921875",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.001",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "RU-9991"
-        }
-    ]
+    }
 }

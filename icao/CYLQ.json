@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "95739",
-            "filename": "La_Tuque_NDB_CA",
-            "ident": "YLQ",
-            "name": "La Tuque",
-            "type": "NDB",
-            "frequency_khz": "289",
-            "latitude_deg": "47.416099548339844",
-            "longitude_deg": "-72.7863998413086",
-            "elevation_ft": "548",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.326",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYLQ"
-        }
-    ]
+    }
 }

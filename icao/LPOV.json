@@ -77,29 +77,5 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aveiro_District",
         "keywords": "Airports in Aveiro District"
-    },
-    "navaids": [
-        {
-            "id": "92166",
-            "filename": "Ovar_TACAN_PT",
-            "ident": "OVR",
-            "name": "Ovar",
-            "type": "TACAN",
-            "frequency_khz": "110600",
-            "latitude_deg": "40.887001037597656",
-            "longitude_deg": "-8.643349647521973",
-            "elevation_ft": "102",
-            "iso_country": "PT",
-            "dme_frequency_khz": "110600",
-            "dme_channel": "043X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.585",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LPOV"
-        }
-    ]
+    }
 }

@@ -85,51 +85,5 @@
         "iso_country": "BG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Burgas_Province",
         "keywords": "Airports in Burgas Province"
-    },
-    "navaids": [
-        {
-            "id": "86002",
-            "filename": "Burgas_VOR-DME_BG",
-            "ident": "BGS",
-            "name": "Burgas",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "42.57109832763672",
-            "longitude_deg": "27.519899368286133",
-            "elevation_ft": "197",
-            "iso_country": "BG",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "4.17",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LBBG"
-        },
-        {
-            "id": "86003",
-            "filename": "Burgas_NDB_BG",
-            "ident": "BGS",
-            "name": "Burgas",
-            "type": "NDB",
-            "frequency_khz": "356",
-            "latitude_deg": "42.62689971923828",
-            "longitude_deg": "27.589399337768555",
-            "elevation_ft": "",
-            "iso_country": "BG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.18",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "LBBG"
-        }
-    ]
+    }
 }

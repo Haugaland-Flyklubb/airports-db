@@ -107,51 +107,5 @@
         "iso_country": "LY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sabha_District",
         "keywords": "Sabhā"
-    },
-    "navaids": [
-        {
-            "id": "93495",
-            "filename": "Sebha_VOR-DME_LY",
-            "ident": "SEB",
-            "name": "Sebha",
-            "type": "VOR-DME",
-            "frequency_khz": "114700",
-            "latitude_deg": "26.969600677490234",
-            "longitude_deg": "14.493599891662598",
-            "elevation_ft": "1394",
-            "iso_country": "LY",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "1.177",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HLLS"
-        },
-        {
-            "id": "93496",
-            "filename": "Sebha_NDB_LY",
-            "ident": "SEB",
-            "name": "Sebha",
-            "type": "NDB",
-            "frequency_khz": "283",
-            "latitude_deg": "27.01449966430664",
-            "longitude_deg": "14.498800277709961",
-            "elevation_ft": "",
-            "iso_country": "LY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.18",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "HLLS"
-        }
-    ]
+    }
 }

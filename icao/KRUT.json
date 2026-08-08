@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vermont",
         "keywords": "Airports in Vermont"
-    },
-    "navaids": [
-        {
-            "id": "87605",
-            "filename": "Smuto_NDB_US",
-            "ident": "DYO",
-            "name": "Smuto",
-            "type": "NDB",
-            "frequency_khz": "221",
-            "latitude_deg": "43.706298828125",
-            "longitude_deg": "-72.95719909667969",
-            "elevation_ft": "1140",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.515",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KRUT"
-        },
-        {
-            "id": "93285",
-            "filename": "Rutland_VOR-DME_US",
-            "ident": "RUT",
-            "name": "Rutland",
-            "type": "VOR-DME",
-            "frequency_khz": "111000",
-            "latitude_deg": "43.5265998840332",
-            "longitude_deg": "-72.95069885253906",
-            "elevation_ft": "781",
-            "iso_country": "US",
-            "dme_frequency_khz": "111000",
-            "dme_channel": "047X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-15.009",
-            "magnetic_variation_deg": "-14.476",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KRUT"
-        }
-    ]
+    }
 }

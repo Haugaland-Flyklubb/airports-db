@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "94936",
-            "filename": "Nuiqsut_Village_NDB_US",
-            "ident": "UQS",
-            "name": "Nuiqsut Village",
-            "type": "NDB",
-            "frequency_khz": "241",
-            "latitude_deg": "70.2125015258789",
-            "longitude_deg": "-151",
-            "elevation_ft": "30",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "23.155",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PALP"
-        }
-    ]
+    }
 }

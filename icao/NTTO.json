@@ -59,51 +59,5 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "85516",
-            "filename": "Hao_NDB_PF",
-            "ident": "AO",
-            "name": "Hao",
-            "type": "NDB",
-            "frequency_khz": "370",
-            "latitude_deg": "-18.06329917907715",
-            "longitude_deg": "-140.96200561523438",
-            "elevation_ft": "",
-            "iso_country": "PF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.568",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NTTO"
-        },
-        {
-            "id": "88718",
-            "filename": "Hao_VOR-DME_PF",
-            "ident": "HAO",
-            "name": "Hao",
-            "type": "VOR-DME",
-            "frequency_khz": "113800",
-            "latitude_deg": "-18.081899642944336",
-            "longitude_deg": "-140.9409942626953",
-            "elevation_ft": "10",
-            "iso_country": "PF",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.011",
-            "magnetic_variation_deg": "12.571",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NTTO"
-        }
-    ]
+    }
 }

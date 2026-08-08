@@ -99,51 +99,5 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Setúbal_District",
         "keywords": "Airports in Setúbal District"
-    },
-    "navaids": [
-        {
-            "id": "90975",
-            "filename": "Montijo_NDB_PT",
-            "ident": "MIO",
-            "name": "Montijo",
-            "type": "NDB",
-            "frequency_khz": "322",
-            "latitude_deg": "38.70970153808594",
-            "longitude_deg": "-9.043230056762695",
-            "elevation_ft": "46",
-            "iso_country": "PT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.57",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LPMT"
-        },
-        {
-            "id": "91164",
-            "filename": "Montijo_TACAN_PT",
-            "ident": "MOJ",
-            "name": "Montijo",
-            "type": "TACAN",
-            "frequency_khz": "110000",
-            "latitude_deg": "38.70880126953125",
-            "longitude_deg": "-9.033220291137695",
-            "elevation_ft": "66",
-            "iso_country": "PT",
-            "dme_frequency_khz": "110000",
-            "dme_channel": "037X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.567",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LPMT"
-        }
-    ]
+    }
 }

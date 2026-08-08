@@ -93,51 +93,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "88434",
-            "filename": "La_Grande_Riviere_NDB_CA",
-            "ident": "GL",
-            "name": "La Grande Riviere",
-            "type": "NDB",
-            "frequency_khz": "201",
-            "latitude_deg": "53.630401611328125",
-            "longitude_deg": "-77.70390319824219",
-            "elevation_ft": "638",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.523",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYGL"
-        },
-        {
-            "id": "95676",
-            "filename": "La_Grande_Riviere_VOR-DME_CA",
-            "ident": "YGL",
-            "name": "La Grande Riviere",
-            "type": "VOR-DME",
-            "frequency_khz": "112200",
-            "latitude_deg": "53.6255989074707",
-            "longitude_deg": "-77.71640014648438",
-            "elevation_ft": "624",
-            "iso_country": "CA",
-            "dme_frequency_khz": "112200",
-            "dme_channel": "059X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-18.001",
-            "magnetic_variation_deg": "-16.515",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYGL"
-        }
-    ]
+    }
 }

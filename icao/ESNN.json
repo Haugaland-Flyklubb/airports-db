@@ -77,29 +77,5 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Västernorrlands_län",
         "keywords": "Västernorrland County"
-    },
-    "navaids": [
-        {
-            "id": "94043",
-            "filename": "Sundsvall_VOR-DME_SE",
-            "ident": "SUN",
-            "name": "Sundsvall",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "62.52840042114258",
-            "longitude_deg": "17.448699951171875",
-            "elevation_ft": "55",
-            "iso_country": "SE",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "4.226",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "ESNN"
-        }
-    ]
+    }
 }

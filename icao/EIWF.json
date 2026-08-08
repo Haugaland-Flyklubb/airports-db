@@ -93,29 +93,5 @@
         "iso_country": "IE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Waterford",
         "keywords": "Airports in County Waterford"
-    },
-    "navaids": [
-        {
-            "id": "95508",
-            "filename": "Waterford_NDB_IE",
-            "ident": "WTD",
-            "name": "Waterford",
-            "type": "NDB",
-            "frequency_khz": "368",
-            "latitude_deg": "52.18899917602539",
-            "longitude_deg": "-7.083340167999268",
-            "elevation_ft": "",
-            "iso_country": "IE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.104",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "EIWF"
-        }
-    ]
+    }
 }

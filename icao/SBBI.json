@@ -85,29 +85,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
         "keywords": "Airports in Paraná"
-    },
-    "navaids": [
-        {
-            "id": "85868",
-            "filename": "Bacacheri_NDB_BR",
-            "ident": "BCH",
-            "name": "Bacacheri",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "-25.402700424194336",
-            "longitude_deg": "-49.229000091552734",
-            "elevation_ft": "3057",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-17.582",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBBI"
-        }
-    ]
+    }
 }

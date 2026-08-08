@@ -69,51 +69,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Corrientes_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "86530",
-            "filename": "Corrientes_NDB_AR",
-            "ident": "C",
-            "name": "Corrientes",
-            "type": "NDB",
-            "frequency_khz": "305",
-            "latitude_deg": "-27.428199768066406",
-            "longitude_deg": "-58.7588996887207",
-            "elevation_ft": "199",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.1",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "SARC"
-        },
-        {
-            "id": "87046",
-            "filename": "Corrientes_VOR-DME_AR",
-            "ident": "CRR",
-            "name": "Corrientes",
-            "type": "VOR-DME",
-            "frequency_khz": "115400",
-            "latitude_deg": "-27.43720054626465",
-            "longitude_deg": "-58.76169967651367",
-            "elevation_ft": "203",
-            "iso_country": "AR",
-            "dme_frequency_khz": "115400",
-            "dme_channel": "101X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.097",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SARC"
-        }
-    ]
+    }
 }

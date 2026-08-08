@@ -91,51 +91,5 @@
         "iso_country": "IL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_District_(Israel)",
         "keywords": "Mehoz HaDarom"
-    },
-    "navaids": [
-        {
-            "id": "92161",
-            "filename": "Ovda_VOR-DME_IL",
-            "ident": "OVD",
-            "name": "Ovda",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "29.966699600219727",
-            "longitude_deg": "34.947200775146484",
-            "elevation_ft": "1513",
-            "iso_country": "IL",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.295",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LLOV"
-        },
-        {
-            "id": "92162",
-            "filename": "Ovda_NDB_IL",
-            "ident": "OVD",
-            "name": "Ovda",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "29.94219970703125",
-            "longitude_deg": "34.933101654052734",
-            "elevation_ft": "",
-            "iso_country": "IL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.294",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LLOV"
-        }
-    ]
+    }
 }

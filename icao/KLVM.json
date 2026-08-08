@@ -129,29 +129,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    },
-    "navaids": [
-        {
-            "id": "90624",
-            "filename": "Livingston_VORTAC_US",
-            "ident": "LVM",
-            "name": "Livingston",
-            "type": "VORTAC",
-            "frequency_khz": "116100",
-            "latitude_deg": "45.70249938964844",
-            "longitude_deg": "-110.44200134277344",
-            "elevation_ft": "4650",
-            "iso_country": "US",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "15.001",
-            "magnetic_variation_deg": "13.135",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KLVM"
-        }
-    ]
+    }
 }

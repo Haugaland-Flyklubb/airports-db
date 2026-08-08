@@ -35,29 +35,5 @@
         "iso_country": "CI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bas-Sassandra_District",
         "keywords": "Airports in Bas-Sassandra District"
-    },
-    "navaids": [
-        {
-            "id": "93938",
-            "filename": "Sassandra_NDB_CI",
-            "ident": "SS",
-            "name": "Sassandra",
-            "type": "NDB",
-            "frequency_khz": "290",
-            "latitude_deg": "4.938330173492432",
-            "longitude_deg": "-6.127779960632324",
-            "elevation_ft": "",
-            "iso_country": "CI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.539",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "DISS"
-        }
-    ]
+    }
 }

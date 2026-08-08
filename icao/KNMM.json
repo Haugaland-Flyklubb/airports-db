@@ -169,29 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    },
-    "navaids": [
-        {
-            "id": "91634",
-            "filename": "Meridian_TACAN_US",
-            "ident": "NMM",
-            "name": "Meridian",
-            "type": "TACAN",
-            "frequency_khz": "111900",
-            "latitude_deg": "32.57849884033203",
-            "longitude_deg": "-88.54530334472656",
-            "elevation_ft": "310",
-            "iso_country": "US",
-            "dme_frequency_khz": "111900",
-            "dme_channel": "056X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.001",
-            "magnetic_variation_deg": "-0.51",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KNMM"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    },
-    "navaids": [
-        {
-            "id": "90346",
-            "filename": "Linden_VORTAC_US",
-            "ident": "LIN",
-            "name": "Linden",
-            "type": "VORTAC",
-            "frequency_khz": "114800",
-            "latitude_deg": "38.07460021972656",
-            "longitude_deg": "-121.00399780273438",
-            "elevation_ft": "260",
-            "iso_country": "US",
-            "dme_frequency_khz": "114800",
-            "dme_channel": "095X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "17.001",
-            "magnetic_variation_deg": "14.364",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KRIU"
-        }
-    ]
+    }
 }

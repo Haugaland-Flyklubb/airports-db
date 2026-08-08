@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
         "keywords": "Airports in Indiana"
-    },
-    "navaids": [
-        {
-            "id": "89517",
-            "filename": "Balll_NDB_US",
-            "ident": "JN",
-            "name": "Balll",
-            "type": "NDB",
-            "frequency_khz": "365",
-            "latitude_deg": "40.18090057373047",
-            "longitude_deg": "-85.3207015991211",
-            "elevation_ft": "980",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.409",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KMIE"
-        },
-        {
-            "id": "90969",
-            "filename": "Muncie_VOR-DME_US",
-            "ident": "MIE",
-            "name": "Muncie",
-            "type": "VOR-DME",
-            "frequency_khz": "114400",
-            "latitude_deg": "40.237300872802734",
-            "longitude_deg": "-85.39399719238281",
-            "elevation_ft": "940",
-            "iso_country": "US",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.001",
-            "magnetic_variation_deg": "-4.38",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KMIE"
-        }
-    ]
+    }
 }

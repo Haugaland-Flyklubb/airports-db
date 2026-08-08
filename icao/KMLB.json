@@ -177,51 +177,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    },
-    "navaids": [
-        {
-            "id": "91053",
-            "filename": "Melbourne_VOR-DME_US",
-            "ident": "MLB",
-            "name": "Melbourne",
-            "type": "VOR-DME",
-            "frequency_khz": "110000",
-            "latitude_deg": "28.105300903320312",
-            "longitude_deg": "-80.63529968261719",
-            "elevation_ft": "30",
-            "iso_country": "US",
-            "dme_frequency_khz": "110000",
-            "dme_channel": "037X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.001",
-            "magnetic_variation_deg": "-5.409",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KMLB"
-        },
-        {
-            "id": "93904",
-            "filename": "Satellite_NDB_US",
-            "ident": "SQT",
-            "name": "Satellite",
-            "type": "NDB",
-            "frequency_khz": "257",
-            "latitude_deg": "28.09950065612793",
-            "longitude_deg": "-80.70079803466797",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.396",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KMLB"
-        }
-    ]
+    }
 }

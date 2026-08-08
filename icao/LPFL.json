@@ -69,51 +69,5 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Azores",
         "keywords": "Região Autónoma dos Açores"
-    },
-    "navaids": [
-        {
-            "id": "88047",
-            "filename": "Flores_NDB_PT",
-            "ident": "FLO",
-            "name": "Flores",
-            "type": "NDB",
-            "frequency_khz": "270",
-            "latitude_deg": "39.44609832763672",
-            "longitude_deg": "-31.167699813842773",
-            "elevation_ft": "",
-            "iso_country": "PT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.223",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LPFL"
-        },
-        {
-            "id": "88144",
-            "filename": "Flores_VOR-DME_PT",
-            "ident": "FRS",
-            "name": "Flores",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "39.4536018371582",
-            "longitude_deg": "-31.210399627685547",
-            "elevation_ft": "2358",
-            "iso_country": "PT",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.233",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LPFL"
-        }
-    ]
+    }
 }

@@ -137,51 +137,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
         "keywords": "Bretagne"
-    },
-    "navaids": [
-        {
-            "id": "86369",
-            "filename": "Lanveoc_TACAN_FR",
-            "ident": "BST",
-            "name": "Lanveoc",
-            "type": "TACAN",
-            "frequency_khz": "114700",
-            "latitude_deg": "48.28459930419922",
-            "longitude_deg": "-4.4521098136901855",
-            "elevation_ft": "286",
-            "iso_country": "FR",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.232",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFRL"
-        },
-        {
-            "id": "86370",
-            "filename": "Lanveoc_NDB_FR",
-            "ident": "BST",
-            "name": "Lanveoc",
-            "type": "NDB",
-            "frequency_khz": "428",
-            "latitude_deg": "48.283599853515625",
-            "longitude_deg": "-4.432219982147217",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.227",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LFRL"
-        }
-    ]
+    }
 }

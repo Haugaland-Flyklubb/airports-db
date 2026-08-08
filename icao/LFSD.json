@@ -115,51 +115,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9",
         "keywords": "Bourgogne"
-    },
-    "navaids": [
-        {
-            "id": "87377",
-            "filename": "Dijon_TACAN_FR",
-            "ident": "DIJ",
-            "name": "Dijon",
-            "type": "TACAN",
-            "frequency_khz": "113500",
-            "latitude_deg": "47.27190017700195",
-            "longitude_deg": "5.091529846191406",
-            "elevation_ft": "726",
-            "iso_country": "FR",
-            "dme_frequency_khz": "113500",
-            "dme_channel": "082X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "-0.06",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFSD"
-        },
-        {
-            "id": "87396",
-            "filename": "Dijon_VOR-DME_FR",
-            "ident": "DJL",
-            "name": "Dijon",
-            "type": "VOR-DME",
-            "frequency_khz": "111450",
-            "latitude_deg": "47.27080154418945",
-            "longitude_deg": "5.097330093383789",
-            "elevation_ft": "726",
-            "iso_country": "FR",
-            "dme_frequency_khz": "111450",
-            "dme_channel": "051Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.059",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFSD"
-        }
-    ]
+    }
 }

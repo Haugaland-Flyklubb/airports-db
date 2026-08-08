@@ -163,29 +163,5 @@
         "iso_country": "GU",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "94777",
-            "filename": "Andersen_TACAN_GU",
-            "ident": "UAM",
-            "name": "Andersen",
-            "type": "TACAN",
-            "frequency_khz": "111700",
-            "latitude_deg": "13.59119987487793",
-            "longitude_deg": "144.94700622558594",
-            "elevation_ft": "660",
-            "iso_country": "GU",
-            "dme_frequency_khz": "111700",
-            "dme_channel": "054X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.006",
-            "magnetic_variation_deg": "1.279",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PGUA"
-        }
-    ]
+    }
 }

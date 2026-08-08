@@ -115,29 +115,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hunan",
         "keywords": "Airports in Hunan Province"
-    },
-    "navaids": [
-        {
-            "id": "87071",
-            "filename": "Changsha_VOR-DME_CN",
-            "ident": "CSX",
-            "name": "Changsha",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "28.20330047607422",
-            "longitude_deg": "113.21700286865234",
-            "elevation_ft": "289",
-            "iso_country": "CN",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.091",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZGHA"
-        }
-    ]
+    }
 }

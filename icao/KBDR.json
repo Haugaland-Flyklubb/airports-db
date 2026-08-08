@@ -169,29 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Connecticut",
         "keywords": "Airports in Connecticut"
-    },
-    "navaids": [
-        {
-            "id": "85916",
-            "filename": "Bridgeport_VOR-DME_US",
-            "ident": "BDR",
-            "name": "Bridgeport",
-            "type": "VOR-DME",
-            "frequency_khz": "108800",
-            "latitude_deg": "41.160701751708984",
-            "longitude_deg": "-73.12449645996094",
-            "elevation_ft": "9",
-            "iso_country": "US",
-            "dme_frequency_khz": "108800",
-            "dme_channel": "025X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-12.001",
-            "magnetic_variation_deg": "-13.512",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KBDR"
-        }
-    ]
+    }
 }

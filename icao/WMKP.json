@@ -85,51 +85,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Penang",
         "keywords": "Lapangan terbang di Pulau Pinang, Airports in Penang"
-    },
-    "navaids": [
-        {
-            "id": "92570",
-            "filename": "Penang_NDB_MY",
-            "ident": "PNG",
-            "name": "Penang",
-            "type": "NDB",
-            "frequency_khz": "406",
-            "latitude_deg": "5.326310157775879",
-            "longitude_deg": "100.302001953125",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.186",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WMKP"
-        },
-        {
-            "id": "95245",
-            "filename": "Penang_VOR-DME_MY",
-            "ident": "VPG",
-            "name": "Penang",
-            "type": "VOR-DME",
-            "frequency_khz": "116200",
-            "latitude_deg": "5.279640197753906",
-            "longitude_deg": "100.26000213623047",
-            "elevation_ft": "11",
-            "iso_country": "MY",
-            "dme_frequency_khz": "116200",
-            "dme_channel": "109X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.189",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "WMKP"
-        }
-    ]
+    }
 }

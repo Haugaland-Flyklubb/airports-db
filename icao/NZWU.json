@@ -187,29 +187,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manawatu-Wanganui",
         "keywords": "Airports in Manawatu-Wanganui Region"
-    },
-    "navaids": [
-        {
-            "id": "95515",
-            "filename": "Wanganui_NDB-DME_NZ",
-            "ident": "WU",
-            "name": "Wanganui",
-            "type": "NDB-DME",
-            "frequency_khz": "382",
-            "latitude_deg": "-39.95940017700195",
-            "longitude_deg": "175.02699279785156",
-            "elevation_ft": "27",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "-39.959",
-            "dme_longitude_deg": "175.027",
-            "dme_elevation_ft": "27",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "21.14",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NZWU"
-        }
-    ]
+    }
 }

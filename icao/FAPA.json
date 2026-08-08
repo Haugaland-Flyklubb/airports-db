@@ -165,29 +165,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Cape",
         "keywords": "Airports in Eastern Cape"
-    },
-    "navaids": [
-        {
-            "id": "92237",
-            "filename": "Port_Alfred_NDB_ZA",
-            "ident": "PA",
-            "name": "Port Alfred",
-            "type": "NDB",
-            "frequency_khz": "233",
-            "latitude_deg": "-33.560298919677734",
-            "longitude_deg": "26.87809944152832",
-            "elevation_ft": "275",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-26.399",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FAPA"
-        }
-    ]
+    }
 }

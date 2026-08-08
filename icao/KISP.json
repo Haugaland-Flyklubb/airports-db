@@ -199,29 +199,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    },
-    "navaids": [
-        {
-            "id": "89338",
-            "filename": "Lokks_NDB_US",
-            "ident": "IS",
-            "name": "Lokks",
-            "type": "NDB",
-            "frequency_khz": "366",
-            "latitude_deg": "40.72890090942383",
-            "longitude_deg": "-73.19020080566406",
-            "elevation_ft": "18",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.404",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KISP"
-        }
-    ]
+    }
 }

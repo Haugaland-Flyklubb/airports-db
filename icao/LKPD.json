@@ -93,29 +93,5 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pardubice_Region",
         "keywords": "Pardubický kraj"
-    },
-    "navaids": [
-        {
-            "id": "92474",
-            "filename": "Pardubice_NDB_CZ",
-            "ident": "PK",
-            "name": "Pardubice",
-            "type": "NDB",
-            "frequency_khz": "432",
-            "latitude_deg": "50.01110076904297",
-            "longitude_deg": "15.812999725341797",
-            "elevation_ft": "",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.462",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LKPD"
-        }
-    ]
+    }
 }

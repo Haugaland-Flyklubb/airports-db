@@ -85,51 +85,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kayseri_Province",
         "keywords": "Airports in Kayseri Province"
-    },
-    "navaids": [
-        {
-            "id": "90008",
-            "filename": "Kayseri_TACAN_TR",
-            "ident": "KSR",
-            "name": "Kayseri",
-            "type": "TACAN",
-            "frequency_khz": "116900",
-            "latitude_deg": "38.76359939575195",
-            "longitude_deg": "35.477500915527344",
-            "elevation_ft": "3525",
-            "iso_country": "TR",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.347",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LTAU"
-        },
-        {
-            "id": "90009",
-            "filename": "Kayseri_VOR-DME_TR",
-            "ident": "KSR",
-            "name": "Kayseri",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "38.77560043334961",
-            "longitude_deg": "35.52170181274414",
-            "elevation_ft": "3489",
-            "iso_country": "TR",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.35",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTAU"
-        }
-    ]
+    }
 }

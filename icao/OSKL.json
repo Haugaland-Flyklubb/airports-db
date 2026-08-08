@@ -69,51 +69,5 @@
         "iso_country": "SY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al-Hasakah_Governorate",
         "keywords": "Airports in Al-Hasakah Governorate"
-    },
-    "navaids": [
-        {
-            "id": "89875",
-            "filename": "Kamishly_VOR-DME_SY",
-            "ident": "KML",
-            "name": "Kamishly",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "37.016700744628906",
-            "longitude_deg": "41.205299377441406",
-            "elevation_ft": "1480",
-            "iso_country": "SY",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.325",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OSKL"
-        },
-        {
-            "id": "89876",
-            "filename": "Kamishly_NDB_SY",
-            "ident": "KML",
-            "name": "Kamishly",
-            "type": "NDB",
-            "frequency_khz": "313",
-            "latitude_deg": "37.03030014038086",
-            "longitude_deg": "41.205299377441406",
-            "elevation_ft": "",
-            "iso_country": "SY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.327",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OSKL"
-        }
-    ]
+    }
 }

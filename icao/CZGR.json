@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "85090",
-            "filename": "Little_Grand_Rapids_NDB_CA",
-            "ident": "4B",
-            "name": "Little Grand Rapids",
-            "type": "NDB",
-            "frequency_khz": "280",
-            "latitude_deg": "52.0442008972168",
-            "longitude_deg": "-95.46189880371094",
-            "elevation_ft": "1005",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.118",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CZGR"
-        }
-    ]
+    }
 }

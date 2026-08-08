@@ -123,29 +123,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    },
-    "navaids": [
-        {
-            "id": "92510",
-            "filename": "Plattsburgh_VORTAC_US",
-            "ident": "PLB",
-            "name": "Plattsburgh",
-            "type": "VORTAC",
-            "frequency_khz": "116900",
-            "latitude_deg": "44.684898376464844",
-            "longitude_deg": "-73.52269744873047",
-            "elevation_ft": "343",
-            "iso_country": "US",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-15.003",
-            "magnetic_variation_deg": "-14.55",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "US-9349"
-        }
-    ]
+    }
 }

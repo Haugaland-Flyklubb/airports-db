@@ -123,29 +123,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
         "keywords": "Airports in Idaho"
-    },
-    "navaids": [
-        {
-            "id": "86504",
-            "filename": "Burley_VOR-DME_US",
-            "ident": "BYI",
-            "name": "Burley",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "42.5802001953125",
-            "longitude_deg": "-113.86599731445312",
-            "elevation_ft": "4230",
-            "iso_country": "US",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "18.001",
-            "magnetic_variation_deg": "13.555",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KBYI"
-        }
-    ]
+    }
 }

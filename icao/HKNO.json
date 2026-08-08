@@ -35,29 +35,5 @@
         "iso_country": "KE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Narok_County",
         "keywords": "Airports in Narok County"
-    },
-    "navaids": [
-        {
-            "id": "91591",
-            "filename": "Narok_NDB_KE",
-            "ident": "NK",
-            "name": "Narok",
-            "type": "NDB",
-            "frequency_khz": "368",
-            "latitude_deg": "-1.1026300191879272",
-            "longitude_deg": "35.850799560546875",
-            "elevation_ft": "",
-            "iso_country": "KE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.124",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HKNO"
-        }
-    ]
+    }
 }

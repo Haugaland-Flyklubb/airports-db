@@ -137,51 +137,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jalisco",
         "keywords": "Airports in Jalisco"
-    },
-    "navaids": [
-        {
-            "id": "88307",
-            "filename": "Guadalajara_NDB_MX",
-            "ident": "GD",
-            "name": "Guadalajara",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "20.465099334716797",
-            "longitude_deg": "-103.1760025024414",
-            "elevation_ft": "",
-            "iso_country": "MX",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.251",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "MMGL"
-        },
-        {
-            "id": "88317",
-            "filename": "Guadalajara_VOR-DME_MX",
-            "ident": "GDL",
-            "name": "Guadalajara",
-            "type": "VOR-DME",
-            "frequency_khz": "117300",
-            "latitude_deg": "20.523399353027344",
-            "longitude_deg": "-103.31199645996094",
-            "elevation_ft": "5016",
-            "iso_country": "MX",
-            "dme_frequency_khz": "117300",
-            "dme_channel": "120X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.011",
-            "magnetic_variation_deg": "7.277",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMGL"
-        }
-    ]
+    }
 }

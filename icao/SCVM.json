@@ -85,29 +85,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Valparaíso_Region",
         "keywords": "Airports in Valparaíso Region"
-    },
-    "navaids": [
-        {
-            "id": "93369",
-            "filename": "Salinas_NDB_CL",
-            "ident": "SAL",
-            "name": "Salinas",
-            "type": "NDB",
-            "frequency_khz": "390",
-            "latitude_deg": "-32.98569869995117",
-            "longitude_deg": "-71.53389739990234",
-            "elevation_ft": "609",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.012",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SCVM"
-        }
-    ]
+    }
 }

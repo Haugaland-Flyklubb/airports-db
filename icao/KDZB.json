@@ -69,29 +69,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "90898",
-            "filename": "Horseshoe_Bay_Resort_NDB_US",
-            "ident": "MFS",
-            "name": "Horseshoe Bay Resort",
-            "type": "NDB",
-            "frequency_khz": "403",
-            "latitude_deg": "30.5231990814209",
-            "longitude_deg": "-98.35780334472656",
-            "elevation_ft": "1117",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.34",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KDZB"
-        }
-    ]
+    }
 }

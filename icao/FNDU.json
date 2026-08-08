@@ -69,29 +69,5 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lunda_Norte_ Province",
         "keywords": "Airports in Lunda Norte Province"
-    },
-    "navaids": [
-        {
-            "id": "86739",
-            "filename": "Chitato_NDB_AO",
-            "ident": "CH",
-            "name": "Chitato",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "-7.400000095367432",
-            "longitude_deg": "20.816699981689453",
-            "elevation_ft": "2451",
-            "iso_country": "AO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.387",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FNDU"
-        }
-    ]
+    }
 }

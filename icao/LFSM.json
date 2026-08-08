@@ -77,29 +77,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bourgogne-Franche-Comt%C3%A9",
         "keywords": "Bourgogne"
-    },
-    "navaids": [
-        {
-            "id": "88984",
-            "filename": "Hericourt_NDB_FR",
-            "ident": "HR",
-            "name": "Hericourt",
-            "type": "NDB",
-            "frequency_khz": "289",
-            "latitude_deg": "47.56169891357422",
-            "longitude_deg": "6.732250213623047",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.213",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LFSM"
-        }
-    ]
+    }
 }

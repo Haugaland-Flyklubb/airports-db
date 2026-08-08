@@ -107,29 +107,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tehran_Province",
         "keywords": "Airports in Tehran Province"
-    },
-    "navaids": [
-        {
-            "id": "89210",
-            "filename": "Imam_Khomeini_VOR-DME_IR",
-            "ident": "IKA",
-            "name": "Imam Khomeini",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "35.409698486328125",
-            "longitude_deg": "51.17850112915039",
-            "elevation_ft": "3271",
-            "iso_country": "IR",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.501",
-            "magnetic_variation_deg": "3.588",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIIE"
-        }
-    ]
+    }
 }

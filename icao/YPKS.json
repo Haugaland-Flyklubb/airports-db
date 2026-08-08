@@ -115,51 +115,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "92494",
-            "filename": "Parkes_VOR-DME_AU",
-            "ident": "PKS",
-            "name": "Parkes",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "-33.131099700927734",
-            "longitude_deg": "148.23699951171875",
-            "elevation_ft": "1070",
-            "iso_country": "AU",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.007",
-            "magnetic_variation_deg": "11.224",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YPKS"
-        },
-        {
-            "id": "92495",
-            "filename": "Parkes_NDB_AU",
-            "ident": "PKS",
-            "name": "Parkes",
-            "type": "NDB",
-            "frequency_khz": "242",
-            "latitude_deg": "-33.145301818847656",
-            "longitude_deg": "148.2530059814453",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.23",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YPKS"
-        }
-    ]
+    }
 }

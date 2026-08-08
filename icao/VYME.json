@@ -77,29 +77,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tanintharyi_Region",
         "keywords": "Airports in Tanintharyi Division"
-    },
-    "navaids": [
-        {
-            "id": "90849",
-            "filename": "Myeik_NDB_MM",
-            "ident": "ME",
-            "name": "Myeik",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "12.449999809265137",
-            "longitude_deg": "98.62300109863281",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.373",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VYME"
-        }
-    ]
+    }
 }

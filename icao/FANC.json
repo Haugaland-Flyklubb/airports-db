@@ -69,29 +69,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kwazulu-Natal",
         "keywords": "Airports in Kwazulu-Natal"
-    },
-    "navaids": [
-        {
-            "id": "91483",
-            "filename": "Newcastle_NDB_ZA",
-            "ident": "NC",
-            "name": "Newcastle",
-            "type": "NDB",
-            "frequency_khz": "415",
-            "latitude_deg": "-27.770299911499023",
-            "longitude_deg": "29.994400024414062",
-            "elevation_ft": "4105",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.377",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FANC"
-        }
-    ]
+    }
 }

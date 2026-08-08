@@ -163,51 +163,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    },
-    "navaids": [
-        {
-            "id": "91151",
-            "filename": "Wisle_NDB_US",
-            "ident": "MO",
-            "name": "Wisle",
-            "type": "NDB",
-            "frequency_khz": "248",
-            "latitude_deg": "30.76059913635254",
-            "longitude_deg": "-88.30280303955078",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.47",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KMOB"
-        },
-        {
-            "id": "93652",
-            "filename": "Semmes_VORTAC_US",
-            "ident": "SJI",
-            "name": "Semmes",
-            "type": "VORTAC",
-            "frequency_khz": "115300",
-            "latitude_deg": "30.72599983215332",
-            "longitude_deg": "-88.35929870605469",
-            "elevation_ft": "190",
-            "iso_country": "US",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.001",
-            "magnetic_variation_deg": "-0.444",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KMOB"
-        }
-    ]
+    }
 }

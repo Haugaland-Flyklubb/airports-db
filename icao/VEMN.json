@@ -69,51 +69,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Assam",
         "keywords": "Airports in Assam"
-    },
-    "navaids": [
-        {
-            "id": "87294",
-            "filename": "Dibrugarh_NDB_IN",
-            "ident": "DBR",
-            "name": "Dibrugarh",
-            "type": "NDB",
-            "frequency_khz": "265",
-            "latitude_deg": "27.465499877929688",
-            "longitude_deg": "95.01860046386719",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.308",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VEMN"
-        },
-        {
-            "id": "87523",
-            "filename": "Dibrugarh_VOR-DME_IN",
-            "ident": "DRG",
-            "name": "Dibrugarh",
-            "type": "VOR-DME",
-            "frequency_khz": "117300",
-            "latitude_deg": "27.48710060119629",
-            "longitude_deg": "95.02110290527344",
-            "elevation_ft": "361",
-            "iso_country": "IN",
-            "dme_frequency_khz": "117300",
-            "dme_channel": "120X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.307",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VEMN"
-        }
-    ]
+    }
 }

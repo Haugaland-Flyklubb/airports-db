@@ -101,29 +101,5 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Moravian-Silesian_Region",
         "keywords": "Moravskoslezský kraj"
-    },
-    "navaids": [
-        {
-            "id": "92133",
-            "filename": "Ostrava_VOR-DME_CZ",
-            "ident": "OTA",
-            "name": "Ostrava",
-            "type": "VOR-DME",
-            "frequency_khz": "117450",
-            "latitude_deg": "49.6974983215332",
-            "longitude_deg": "18.109100341796875",
-            "elevation_ft": "850",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "117450",
-            "dme_channel": "121Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.194",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LKMT"
-        }
-    ]
+    }
 }

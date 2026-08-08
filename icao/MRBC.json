@@ -69,29 +69,5 @@
         "iso_country": "CR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lim%C3%B3n_Province",
         "keywords": "Airports in Limon"
-    },
-    "navaids": [
-        {
-            "id": "86952",
-            "filename": "Barra_Del_Colorado_NDB_CR",
-            "ident": "COL",
-            "name": "Barra Del Colorado",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "10.753299713134766",
-            "longitude_deg": "-83.58329772949219",
-            "elevation_ft": "10",
-            "iso_country": "CR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.358",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MRBC"
-        }
-    ]
+    }
 }

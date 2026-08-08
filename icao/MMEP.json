@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nayarit",
         "keywords": "Airports in Nayarit"
-    },
-    "navaids": [
-        {
-            "id": "94489",
-            "filename": "Tepic_VOR-DME_MX",
-            "ident": "TNY",
-            "name": "Tepic",
-            "type": "VOR-DME",
-            "frequency_khz": "113900",
-            "latitude_deg": "21.42650032043457",
-            "longitude_deg": "-104.83699798583984",
-            "elevation_ft": "3020",
-            "iso_country": "MX",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.001",
-            "magnetic_variation_deg": "7.577",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMEP"
-        }
-    ]
+    }
 }

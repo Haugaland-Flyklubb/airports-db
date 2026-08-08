@@ -161,51 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
         "keywords": "Airports in Minnesota"
-    },
-    "navaids": [
-        {
-            "id": "85778",
-            "filename": "Babco_NDB_US",
-            "ident": "BA",
-            "name": "Babco",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "44.8567008972168",
-            "longitude_deg": "-92.9844970703125",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.017",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSTP"
-        },
-        {
-            "id": "92642",
-            "filename": "Hopey_NDB_US",
-            "ident": "PPI",
-            "name": "Hopey",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "44.87310028076172",
-            "longitude_deg": "-92.94229888916016",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.593",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSTP"
-        }
-    ]
+    }
 }

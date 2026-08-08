@@ -69,29 +69,5 @@
         "iso_country": "LK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Province,_Sri_Lanka",
         "keywords": "Dakunu Palata"
-    },
-    "navaids": [
-        {
-            "id": "89751",
-            "filename": "Koggala_NDB_LK",
-            "ident": "KG",
-            "name": "Koggala",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "5.994999885559082",
-            "longitude_deg": "80.32330322265625",
-            "elevation_ft": "",
-            "iso_country": "LK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.527",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "VCCK"
-        }
-    ]
+    }
 }

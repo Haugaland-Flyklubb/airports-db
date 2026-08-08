@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    },
-    "navaids": [
-        {
-            "id": "85231",
-            "filename": "Anton_Chico_VORTAC_US",
-            "ident": "ACH",
-            "name": "Anton Chico",
-            "type": "VORTAC",
-            "frequency_khz": "117800",
-            "latitude_deg": "35.111698150634766",
-            "longitude_deg": "-105.04000091552734",
-            "elevation_ft": "5450",
-            "iso_country": "US",
-            "dme_frequency_khz": "117800",
-            "dme_channel": "125X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.001",
-            "magnetic_variation_deg": "9.091",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "US-11921"
-        }
-    ]
+    }
 }

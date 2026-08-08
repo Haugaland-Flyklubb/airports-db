@@ -93,51 +93,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Komi_Republic",
         "keywords": "Airports in Komi Republic"
-    },
-    "navaids": [
-        {
-            "id": "92827",
-            "filename": "Syktyvkar_NDB_RU",
-            "ident": "PW",
-            "name": "Syktyvkar",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "61.60499954223633",
-            "longitude_deg": "50.80830001831055",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.167",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "UUYY"
-        },
-        {
-            "id": "93908",
-            "filename": "Syktyvkar_NDB_RU",
-            "ident": "SR",
-            "name": "Syktyvkar",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "61.69499969482422",
-            "longitude_deg": "50.8849983215332",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.216",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "UUYY"
-        }
-    ]
+    }
 }

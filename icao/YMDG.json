@@ -99,51 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "90834",
-            "filename": "Mudgee_VOR_AU",
-            "ident": "MDG",
-            "name": "Mudgee",
-            "type": "VOR",
-            "frequency_khz": "112200",
-            "latitude_deg": "-32.5609016418457",
-            "longitude_deg": "149.593994140625",
-            "elevation_ft": "1545",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.007",
-            "magnetic_variation_deg": "11.388",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YMDG"
-        },
-        {
-            "id": "90835",
-            "filename": "Mudgee_NDB_AU",
-            "ident": "MDG",
-            "name": "Mudgee",
-            "type": "NDB",
-            "frequency_khz": "398",
-            "latitude_deg": "-32.565399169921875",
-            "longitude_deg": "149.61599731445312",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.393",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YMDG"
-        }
-    ]
+    }
 }

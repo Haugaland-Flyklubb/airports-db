@@ -85,51 +85,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "87299",
-            "filename": "Princeton_NDB_CA",
-            "ident": "DC",
-            "name": "Princeton",
-            "type": "NDB",
-            "frequency_khz": "326",
-            "latitude_deg": "49.469398498535156",
-            "longitude_deg": "-120.51699829101562",
-            "elevation_ft": "2298",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "17.55",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYDC"
-        },
-        {
-            "id": "95644",
-            "filename": "Princeton_VORTAC_CA",
-            "ident": "YDC",
-            "name": "Princeton",
-            "type": "VORTAC",
-            "frequency_khz": "113900",
-            "latitude_deg": "49.38169860839844",
-            "longitude_deg": "-120.3740005493164",
-            "elevation_ft": "5329",
-            "iso_country": "CA",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "21.001",
-            "magnetic_variation_deg": "17.508",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYDC"
-        }
-    ]
+    }
 }

@@ -93,29 +93,5 @@
         "iso_country": "LK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Province,_Sri_Lanka",
         "keywords": "Basnahira Palata"
-    },
-    "navaids": [
-        {
-            "id": "93137",
-            "filename": "Colombo_Ratmalana_NDB_LK",
-            "ident": "RM",
-            "name": "Colombo/Ratmalana",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "6.833680152893066",
-            "longitude_deg": "79.8853988647461",
-            "elevation_ft": "",
-            "iso_country": "LK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.454",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VCCC"
-        }
-    ]
+    }
 }

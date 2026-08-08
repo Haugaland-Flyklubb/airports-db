@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    },
-    "navaids": [
-        {
-            "id": "85633",
-            "filename": "Assis_NDB_BR",
-            "ident": "ASS",
-            "name": "Assis",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "-22.644800186157227",
-            "longitude_deg": "-50.452999114990234",
-            "elevation_ft": "1850",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-17.545",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SNAX"
-        }
-    ]
+    }
 }

@@ -85,51 +85,5 @@
         "iso_country": "WF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "88948",
-            "filename": "Wallis_NDB_WF",
-            "ident": "HO",
-            "name": "Wallis",
-            "type": "NDB",
-            "frequency_khz": "315",
-            "latitude_deg": "-13.240599632263184",
-            "longitude_deg": "-176.19700622558594",
-            "elevation_ft": "125",
-            "iso_country": "WF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.203",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NLWW"
-        },
-        {
-            "id": "88955",
-            "filename": "Wallis_VOR-DME_WF",
-            "ident": "HOI",
-            "name": "Wallis",
-            "type": "VOR-DME",
-            "frequency_khz": "113000",
-            "latitude_deg": "-13.23960018157959",
-            "longitude_deg": "-176.20199584960938",
-            "elevation_ft": "75",
-            "iso_country": "WF",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.011",
-            "magnetic_variation_deg": "11.203",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NLWW"
-        }
-    ]
+    }
 }

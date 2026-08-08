@@ -77,29 +77,5 @@
         "iso_country": "MR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hodh_ech_Chargui_Region",
         "keywords": "Airports in Hodh ech Chargui Region"
-    },
-    "navaids": [
-        {
-            "id": "91626",
-            "filename": "Nema_VOR_MR",
-            "ident": "NM",
-            "name": "Nema",
-            "type": "VOR",
-            "frequency_khz": "115300",
-            "latitude_deg": "16.62380027770996",
-            "longitude_deg": "-7.261000156402588",
-            "elevation_ft": "",
-            "iso_country": "MR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.272",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GQNI"
-        }
-    ]
+    }
 }

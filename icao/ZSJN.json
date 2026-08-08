@@ -77,29 +77,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Shandong",
         "keywords": "Airports in Shandong Province"
-    },
-    "navaids": [
-        {
-            "id": "95805",
-            "filename": "Jinan_VOR-DME_CN",
-            "ident": "YQG",
-            "name": "Jinan",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "36.83000183105469",
-            "longitude_deg": "117.21700286865234",
-            "elevation_ft": "76",
-            "iso_country": "CN",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.487",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZSJN"
-        }
-    ]
+    }
 }

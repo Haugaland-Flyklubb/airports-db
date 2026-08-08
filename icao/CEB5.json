@@ -91,29 +91,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85135",
-            "filename": "Fairview_NDB-DME_CA",
-            "ident": "8C",
-            "name": "Fairview",
-            "type": "NDB-DME",
-            "frequency_khz": "295",
-            "latitude_deg": "56.075599670410156",
-            "longitude_deg": "-118.44100189208984",
-            "elevation_ft": "2190",
-            "iso_country": "CA",
-            "dme_frequency_khz": "111400",
-            "dme_channel": "051X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.542",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CEB5"
-        }
-    ]
+    }
 }

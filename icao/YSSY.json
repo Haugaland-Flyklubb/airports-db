@@ -161,51 +161,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "88448",
-            "filename": "Glenfield_NDB_AU",
-            "ident": "GLF",
-            "name": "Glenfield",
-            "type": "NDB",
-            "frequency_khz": "428",
-            "latitude_deg": "-33.986698150634766",
-            "longitude_deg": "150.9759979248047",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.35",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YSSY"
-        },
-        {
-            "id": "94114",
-            "filename": "Sydney_DME_AU",
-            "ident": "SY",
-            "name": "Sydney",
-            "type": "DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "-33.942798614502",
-            "longitude_deg": "151.18099",
-            "elevation_ft": "44",
-            "iso_country": "AU",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12",
-            "magnetic_variation_deg": "12.4",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YSSY"
-        }
-    ]
+    }
 }

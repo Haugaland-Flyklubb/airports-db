@@ -77,51 +77,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Monagas",
         "keywords": "Airports in Monagas State"
-    },
-    "navaids": [
-        {
-            "id": "91354",
-            "filename": "Maturin_VOR-DME_VE",
-            "ident": "MUN",
-            "name": "Maturin",
-            "type": "VOR-DME",
-            "frequency_khz": "115300",
-            "latitude_deg": "9.746970176696777",
-            "longitude_deg": "-63.15230178833008",
-            "elevation_ft": "213",
-            "iso_country": "VE",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-11.007",
-            "magnetic_variation_deg": "-13.161",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVMT"
-        },
-        {
-            "id": "91355",
-            "filename": "Maturin_NDB_VE",
-            "ident": "MUN",
-            "name": "Maturin",
-            "type": "NDB",
-            "frequency_khz": "230",
-            "latitude_deg": "9.7533597946167",
-            "longitude_deg": "-63.156700134277344",
-            "elevation_ft": "213",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.16",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SVMT"
-        }
-    ]
+    }
 }

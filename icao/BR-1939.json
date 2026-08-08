@@ -59,29 +59,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
         "keywords": "Airports in Rio de Janeiro"
-    },
-    "navaids": [
-        {
-            "id": "91660",
-            "filename": "Nova_NDB_BR",
-            "ident": "NOA",
-            "name": "Nova",
-            "type": "NDB",
-            "frequency_khz": "215",
-            "latitude_deg": "-22.7185001373291",
-            "longitude_deg": "-43.480499267578125",
-            "elevation_ft": "164",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.308",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "BR-1939"
-        }
-    ]
+    }
 }

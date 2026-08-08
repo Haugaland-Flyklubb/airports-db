@@ -99,51 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "90691",
-            "filename": "Mount_Isa_VOR-DME_AU",
-            "ident": "MA",
-            "name": "Mount Isa",
-            "type": "VOR-DME",
-            "frequency_khz": "117500",
-            "latitude_deg": "-20.66469955444336",
-            "longitude_deg": "139.48599243164062",
-            "elevation_ft": "1142",
-            "iso_country": "AU",
-            "dme_frequency_khz": "117500",
-            "dme_channel": "122X",
-            "dme_latitude_deg": "-20.6667",
-            "dme_longitude_deg": "139.489",
-            "dme_elevation_ft": "1121",
-            "slaved_variation_deg": "6.007",
-            "magnetic_variation_deg": "6.115",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YBMA"
-        },
-        {
-            "id": "90693",
-            "filename": "Mount_Isa_NDB_AU",
-            "ident": "MA",
-            "name": "Mount Isa",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "-20.67530059814453",
-            "longitude_deg": "139.48699951171875",
-            "elevation_ft": "1185",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.116",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YBMA"
-        }
-    ]
+    }
 }

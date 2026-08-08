@@ -85,51 +85,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tokyo",
         "keywords": "Kanto"
-    },
-    "navaids": [
-        {
-            "id": "89205",
-            "filename": "Iwo_Jima_TACAN_JP",
-            "ident": "IJT",
-            "name": "Iwo Jima",
-            "type": "TACAN",
-            "frequency_khz": "109800",
-            "latitude_deg": "24.78420066833496",
-            "longitude_deg": "141.31700134277344",
-            "elevation_ft": "410",
-            "iso_country": "JP",
-            "dme_frequency_khz": "109800",
-            "dme_channel": "035X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.011",
-            "magnetic_variation_deg": "-2.509",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJAW"
-        },
-        {
-            "id": "92182",
-            "filename": "Iwo_Jima_NDB_JP",
-            "ident": "OX",
-            "name": "Iwo Jima",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "24.772199630737305",
-            "longitude_deg": "141.3070068359375",
-            "elevation_ft": "378",
-            "iso_country": "JP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.507",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "RJAW"
-        }
-    ]
+    }
 }

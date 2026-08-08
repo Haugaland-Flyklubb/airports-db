@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "87063",
-            "filename": "Center_Point_VORTAC_US",
-            "ident": "CSI",
-            "name": "Center Point",
-            "type": "VORTAC",
-            "frequency_khz": "117500",
-            "latitude_deg": "29.922300338745117",
-            "longitude_deg": "-99.2145004272461",
-            "elevation_ft": "2080",
-            "iso_country": "US",
-            "dme_frequency_khz": "117500",
-            "dme_channel": "122X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.012",
-            "magnetic_variation_deg": "6.008",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "64TE"
-        }
-    ]
+    }
 }

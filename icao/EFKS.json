@@ -77,51 +77,5 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Ostrobothnia",
         "keywords": "Airports in North Ostrobothnia Region"
-    },
-    "navaids": [
-        {
-            "id": "89841",
-            "filename": "Kantola_VOR-DME_FI",
-            "ident": "KLA",
-            "name": "Kantola",
-            "type": "VOR-DME",
-            "frequency_khz": "114400",
-            "latitude_deg": "65.99169921875",
-            "longitude_deg": "29.23579978942871",
-            "elevation_ft": "923",
-            "iso_country": "FI",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.007",
-            "magnetic_variation_deg": "10.494",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "EFKS"
-        },
-        {
-            "id": "89985",
-            "filename": "Kilo-Sierra_NDB_FI",
-            "ident": "KS",
-            "name": "Kilo-Sierra",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "66.04219818115234",
-            "longitude_deg": "29.09269905090332",
-            "elevation_ft": "",
-            "iso_country": "FI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.465",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "EFKS"
-        }
-    ]
+    }
 }

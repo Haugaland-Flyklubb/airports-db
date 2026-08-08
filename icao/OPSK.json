@@ -77,29 +77,5 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sindh",
         "keywords": "Sind"
-    },
-    "navaids": [
-        {
-            "id": "93671",
-            "filename": "Sukkur_NDB_PK",
-            "ident": "SK",
-            "name": "Sukkur",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "27.722299575805664",
-            "longitude_deg": "68.79609680175781",
-            "elevation_ft": "242",
-            "iso_country": "PK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.543",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "OPSK"
-        }
-    ]
+    }
 }

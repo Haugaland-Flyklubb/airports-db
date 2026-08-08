@@ -99,29 +99,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Coast,_New_Zealand",
         "keywords": "Airports in West Coast Region"
-    },
-    "navaids": [
-        {
-            "id": "88862",
-            "filename": "Hokitika_NDB-DME_NZ",
-            "ident": "HK",
-            "name": "Hokitika",
-            "type": "NDB-DME",
-            "frequency_khz": "310",
-            "latitude_deg": "-42.72930145263672",
-            "longitude_deg": "170.95599365234375",
-            "elevation_ft": "146",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "117500",
-            "dme_channel": "122X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "22.305",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NZHK"
-        }
-    ]
+    }
 }

@@ -91,51 +91,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Trentino-Alto_Adige",
         "keywords": "TT"
-    },
-    "navaids": [
-        {
-            "id": "86526",
-            "filename": "Bolzano_NDB_IT",
-            "ident": "BZO",
-            "name": "Bolzano",
-            "type": "NDB",
-            "frequency_khz": "362",
-            "latitude_deg": "46.463600158691406",
-            "longitude_deg": "11.321900367736816",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.347",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LIPB"
-        },
-        {
-            "id": "92209",
-            "filename": "Bolzano_VOR-DME_IT",
-            "ident": "OZE",
-            "name": "Bolzano",
-            "type": "VOR-DME",
-            "frequency_khz": "117050",
-            "latitude_deg": "46.40480041503906",
-            "longitude_deg": "11.29259967803955",
-            "elevation_ft": "784",
-            "iso_country": "IT",
-            "dme_frequency_khz": "117050",
-            "dme_channel": "117Y",
-            "dme_latitude_deg": "46.4049",
-            "dme_longitude_deg": "11.2928",
-            "dme_elevation_ft": "784",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.342",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LIPB"
-        }
-    ]
+    }
 }

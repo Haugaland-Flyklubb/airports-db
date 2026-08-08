@@ -213,29 +213,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    },
-    "navaids": [
-        {
-            "id": "90755",
-            "filename": "Moorabbin_NDB_AU",
-            "ident": "MB",
-            "name": "Moorabbin",
-            "type": "NDB",
-            "frequency_khz": "398",
-            "latitude_deg": "-37.97650146484375",
-            "longitude_deg": "145.08999633789062",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.441",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YMMB"
-        }
-    ]
+    }
 }

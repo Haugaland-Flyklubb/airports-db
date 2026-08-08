@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    },
-    "navaids": [
-        {
-            "id": "87177",
-            "filename": "Cachimbo_VOR-DME_BR",
-            "ident": "CXB",
-            "name": "Cachimbo",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "-9.335149765014648",
-            "longitude_deg": "-54.96780014038086",
-            "elevation_ft": "1762",
-            "iso_country": "BR",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.57",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBCC"
-        },
-        {
-            "id": "87178",
-            "filename": "Cachimbo_NDB_BR",
-            "ident": "CXB",
-            "name": "Cachimbo",
-            "type": "NDB",
-            "frequency_khz": "215",
-            "latitude_deg": "-9.339559555053711",
-            "longitude_deg": "-54.96590042114258",
-            "elevation_ft": "1762",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.57",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBCC"
-        }
-    ]
+    }
 }

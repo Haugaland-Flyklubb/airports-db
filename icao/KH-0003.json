@@ -85,51 +85,5 @@
         "iso_country": "KH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Siem_Reap_province",
         "keywords": "Airports in Siem Reab, សៀមរាប"
-    },
-    "navaids": [
-        {
-            "id": "93628",
-            "filename": "Siem_Reap_NDB_KH",
-            "ident": "SIR",
-            "name": "Siem Reap",
-            "type": "NDB",
-            "frequency_khz": "441",
-            "latitude_deg": "13.398099899291992",
-            "longitude_deg": "103.8030014038086",
-            "elevation_ft": "",
-            "iso_country": "KH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.282",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KH-0003"
-        },
-        {
-            "id": "93919",
-            "filename": "Siem_Reap_VOR-DME_KH",
-            "ident": "SRE",
-            "name": "Siem Reap",
-            "type": "VOR-DME",
-            "frequency_khz": "113800",
-            "latitude_deg": "13.414999961853027",
-            "longitude_deg": "103.8219985961914",
-            "elevation_ft": "59",
-            "iso_country": "KH",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.282",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KH-0003"
-        }
-    ]
+    }
 }

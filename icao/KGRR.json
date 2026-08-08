@@ -177,29 +177,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    },
-    "navaids": [
-        {
-            "id": "88542",
-            "filename": "Knobs_NDB_US",
-            "ident": "GR",
-            "name": "Knobs",
-            "type": "NDB",
-            "frequency_khz": "263",
-            "latitude_deg": "42.89569854736328",
-            "longitude_deg": "-85.37850189208984",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.183",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KGRR"
-        }
-    ]
+    }
 }

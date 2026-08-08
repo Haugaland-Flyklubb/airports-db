@@ -139,29 +139,5 @@
         "iso_country": "IQ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dhi_Qar_Governorate",
         "keywords": "ذي قار"
-    },
-    "navaids": [
-        {
-            "id": "94178",
-            "filename": "Tallil_TACAN_IQ",
-            "ident": "TAL",
-            "name": "Tallil",
-            "type": "TACAN",
-            "frequency_khz": "113700",
-            "latitude_deg": "30.935300827026367",
-            "longitude_deg": "46.090599060058594",
-            "elevation_ft": "19",
-            "iso_country": "IQ",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "3.217",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ORTL"
-        }
-    ]
+    }
 }

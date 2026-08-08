@@ -139,51 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    },
-    "navaids": [
-        {
-            "id": "89592",
-            "filename": "Jakso_NDB_US",
-            "ident": "JX",
-            "name": "Jakso",
-            "type": "NDB",
-            "frequency_khz": "212",
-            "latitude_deg": "42.31779861450195",
-            "longitude_deg": "-84.3655014038086",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.01",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KJXN"
-        },
-        {
-            "id": "89593",
-            "filename": "Jackson_VOR-DME_US",
-            "ident": "JXN",
-            "name": "Jackson",
-            "type": "VOR-DME",
-            "frequency_khz": "109600",
-            "latitude_deg": "42.25920104980469",
-            "longitude_deg": "-84.45850372314453",
-            "elevation_ft": "1000",
-            "iso_country": "US",
-            "dme_frequency_khz": "109600",
-            "dme_channel": "033X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.001",
-            "magnetic_variation_deg": "-5.553",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KJXN"
-        }
-    ]
+    }
 }

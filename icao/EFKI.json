@@ -77,51 +77,5 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kainuu",
         "keywords": "Airports in Kainuu Region"
-    },
-    "navaids": [
-        {
-            "id": "89643",
-            "filename": "Kajaani_NDB_FI",
-            "ident": "KAJ",
-            "name": "Kajaani",
-            "type": "NDB",
-            "frequency_khz": "337",
-            "latitude_deg": "64.27310180664062",
-            "longitude_deg": "27.52989959716797",
-            "elevation_ft": "483",
-            "iso_country": "FI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.249",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EFKI"
-        },
-        {
-            "id": "89899",
-            "filename": "Kainuu_VOR-DME_FI",
-            "ident": "KNI",
-            "name": "Kainuu",
-            "type": "VOR-DME",
-            "frequency_khz": "114900",
-            "latitude_deg": "64.28250122070312",
-            "longitude_deg": "27.655799865722656",
-            "elevation_ft": "447",
-            "iso_country": "FI",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.001",
-            "magnetic_variation_deg": "9.285",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "EFKI"
-        }
-    ]
+    }
 }

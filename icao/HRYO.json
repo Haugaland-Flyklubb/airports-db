@@ -35,29 +35,5 @@
         "iso_country": "RW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Province,_Rwanda",
         "keywords": "Intara y'Iburasirazuba, Province de l'est"
-    },
-    "navaids": [
-        {
-            "id": "95997",
-            "filename": "Gabiro_NDB_RW",
-            "ident": "ZE",
-            "name": "Gabiro",
-            "type": "NDB",
-            "frequency_khz": "264",
-            "latitude_deg": "-1.5358599424362183",
-            "longitude_deg": "30.399999618530273",
-            "elevation_ft": "",
-            "iso_country": "RW",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.161",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "HRYO"
-        }
-    ]
+    }
 }

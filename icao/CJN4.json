@@ -81,29 +81,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "91561",
-            "filename": "Assiniboia_NDB_CA",
-            "ident": "NI",
-            "name": "Assiniboia",
-            "type": "NDB",
-            "frequency_khz": "278",
-            "latitude_deg": "49.72829818725586",
-            "longitude_deg": "-105.9489974975586",
-            "elevation_ft": "2370",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.234",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CJN4"
-        }
-    ]
+    }
 }

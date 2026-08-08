@@ -185,51 +185,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "85883",
-            "filename": "Baildon_NDB_CA",
-            "ident": "BD",
-            "name": "Baildon",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "50.29169845581055",
-            "longitude_deg": "-105.44200134277344",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.071",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYMJ"
-        },
-        {
-            "id": "95746",
-            "filename": "Moose_Jaw_VORTAC_CA",
-            "ident": "YMJ",
-            "name": "Moose Jaw",
-            "type": "VORTAC",
-            "frequency_khz": "113400",
-            "latitude_deg": "50.33110046386719",
-            "longitude_deg": "-105.56300354003906",
-            "elevation_ft": "1898",
-            "iso_country": "CA",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.006",
-            "magnetic_variation_deg": "11.125",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYMJ"
-        }
-    ]
+    }
 }

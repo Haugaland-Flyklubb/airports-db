@@ -69,29 +69,5 @@
         "iso_country": "GL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sermersooq",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "86978",
-            "filename": "Constable_Pynt_NDB_GL",
-            "ident": "CP",
-            "name": "Constable Pynt",
-            "type": "NDB",
-            "frequency_khz": "386",
-            "latitude_deg": "70.74030303955078",
-            "longitude_deg": "-22.620800018310547",
-            "elevation_ft": "",
-            "iso_country": "GL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.116",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "BGCO"
-        }
-    ]
+    }
 }

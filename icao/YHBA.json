@@ -77,29 +77,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "88735",
-            "filename": "Hervey_Bay_NDB_AU",
-            "ident": "HBA",
-            "name": "Hervey Bay",
-            "type": "NDB",
-            "frequency_khz": "200",
-            "latitude_deg": "-25.324199676513672",
-            "longitude_deg": "152.88299560546875",
-            "elevation_ft": "60",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.307",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YHBA"
-        }
-    ]
+    }
 }

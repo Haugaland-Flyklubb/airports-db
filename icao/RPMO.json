@@ -59,29 +59,5 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Misamis_Occidental_Province",
         "keywords": "Airports in Misamis Occidental Province"
-    },
-    "navaids": [
-        {
-            "id": "92204",
-            "filename": "Ozamis_NDB_PH",
-            "ident": "OZ",
-            "name": "Ozamis",
-            "type": "NDB",
-            "frequency_khz": "267",
-            "latitude_deg": "8.17374038696289",
-            "longitude_deg": "123.83300018310547",
-            "elevation_ft": "16",
-            "iso_country": "PH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.042",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "RPMO"
-        }
-    ]
+    }
 }

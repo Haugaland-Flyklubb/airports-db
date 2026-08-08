@@ -59,29 +59,5 @@
         "iso_country": "CM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Centre_Province",
         "keywords": "Airports in Centre Region"
-    },
-    "navaids": [
-        {
-            "id": "95773",
-            "filename": "Yaounde_NDB_CM",
-            "ident": "YO",
-            "name": "Yaounde",
-            "type": "NDB",
-            "frequency_khz": "287",
-            "latitude_deg": "3.9013900756835938",
-            "longitude_deg": "11.5516996383667",
-            "elevation_ft": "",
-            "iso_country": "CM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.082",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FKKY"
-        }
-    ]
+    }
 }

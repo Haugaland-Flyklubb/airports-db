@@ -69,29 +69,5 @@
         "iso_country": "GE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Adjara",
         "keywords": "Ajaria, აჭარა"
-    },
-    "navaids": [
-        {
-            "id": "90583",
-            "filename": "Batumi_NDB_GE",
-            "ident": "LU",
-            "name": "Batumi",
-            "type": "NDB",
-            "frequency_khz": "430",
-            "latitude_deg": "41.600799560546875",
-            "longitude_deg": "41.61389923095703",
-            "elevation_ft": "",
-            "iso_country": "GE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.327",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "UGSB"
-        }
-    ]
+    }
 }

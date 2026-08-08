@@ -85,51 +85,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhon_Ratchasima_province",
         "keywords": "Airports in Nakhon Ratchasima Province"
-    },
-    "navaids": [
-        {
-            "id": "89954",
-            "filename": "Nakhon_Ratchasima_NDB_TH",
-            "ident": "KR",
-            "name": "Nakhon Ratchasima",
-            "type": "NDB",
-            "frequency_khz": "399",
-            "latitude_deg": "14.956500053405762",
-            "longitude_deg": "102.31500244140625",
-            "elevation_ft": "",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.352",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VTUQ"
-        },
-        {
-            "id": "91604",
-            "filename": "Nakhon_Ratchasima_VOR-DME_TH",
-            "ident": "NKR",
-            "name": "Nakhon Ratchasima",
-            "type": "VOR-DME",
-            "frequency_khz": "110200",
-            "latitude_deg": "14.946599960327148",
-            "longitude_deg": "102.31099700927734",
-            "elevation_ft": "768",
-            "iso_country": "TH",
-            "dme_frequency_khz": "110200",
-            "dme_channel": "039X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.352",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTUQ"
-        }
-    ]
+    }
 }

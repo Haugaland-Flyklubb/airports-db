@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
         "keywords": "Airports in Illinois"
-    },
-    "navaids": [
-        {
-            "id": "87777",
-            "filename": "Peotone_VORTAC_US",
-            "ident": "EON",
-            "name": "Peotone",
-            "type": "VORTAC",
-            "frequency_khz": "113200",
-            "latitude_deg": "41.26959991455078",
-            "longitude_deg": "-87.79109954833984",
-            "elevation_ft": "690",
-            "iso_country": "US",
-            "dme_frequency_khz": "113200",
-            "dme_channel": "079X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.001",
-            "magnetic_variation_deg": "-2.508",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KIKK"
-        },
-        {
-            "id": "89213",
-            "filename": "Kankakee_VOR-DME_US",
-            "ident": "IKK",
-            "name": "Kankakee",
-            "type": "VOR-DME",
-            "frequency_khz": "111600",
-            "latitude_deg": "41.07440185546875",
-            "longitude_deg": "-87.84980010986328",
-            "elevation_ft": "625",
-            "iso_country": "US",
-            "dme_frequency_khz": "111600",
-            "dme_channel": "053X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.001",
-            "magnetic_variation_deg": "-2.455",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KIKK"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kwazulu-Natal",
         "keywords": "Airports in Kwazulu-Natal"
-    },
-    "navaids": [
-        {
-            "id": "90657",
-            "filename": "Ladysmith_NDB_ZA",
-            "ident": "LY",
-            "name": "Ladysmith",
-            "type": "NDB",
-            "frequency_khz": "398",
-            "latitude_deg": "-28.55620002746582",
-            "longitude_deg": "29.760900497436523",
-            "elevation_ft": "3406",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.376",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FALY"
-        },
-        {
-            "id": "90670",
-            "filename": "Ladysmith_VOR_ZA",
-            "ident": "LYV",
-            "name": "Ladysmith",
-            "type": "VOR",
-            "frequency_khz": "116500",
-            "latitude_deg": "-28.60449981689453",
-            "longitude_deg": "29.69420051574707",
-            "elevation_ft": "3805",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.401",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FALY"
-        }
-    ]
+    }
 }

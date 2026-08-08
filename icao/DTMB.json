@@ -85,29 +85,5 @@
         "iso_country": "TN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Monastir_Governorate",
         "keywords": "Airports in Monastir Governorate"
-    },
-    "navaids": [
-        {
-            "id": "91170",
-            "filename": "Monastir_VOR-DME_TN",
-            "ident": "MON",
-            "name": "Monastir",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "35.75490188598633",
-            "longitude_deg": "10.748100280761719",
-            "elevation_ft": "32",
-            "iso_country": "TN",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-0.207",
-            "magnetic_variation_deg": "1.159",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DTMB"
-        }
-    ]
+    }
 }

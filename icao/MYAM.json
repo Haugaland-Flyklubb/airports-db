@@ -109,29 +109,5 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Abaco",
         "keywords": "Airports in Central Abaco"
-    },
-    "navaids": [
-        {
-            "id": "96061",
-            "filename": "Marsh_Harbour_NDB_BS",
-            "ident": "ZMH",
-            "name": "Marsh Harbour",
-            "type": "NDB",
-            "frequency_khz": "361",
-            "latitude_deg": "26.51110076904297",
-            "longitude_deg": "-77.07689666748047",
-            "elevation_ft": "6",
-            "iso_country": "BS",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.433",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MYAM"
-        }
-    ]
+    }
 }

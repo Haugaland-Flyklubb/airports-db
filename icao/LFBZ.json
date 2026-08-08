@@ -93,51 +93,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
         "keywords": "Limousin, Poitou-Charentes"
-    },
-    "navaids": [
-        {
-            "id": "86408",
-            "filename": "Biarritz_VOR-DME_FR",
-            "ident": "BTZ",
-            "name": "Biarritz",
-            "type": "VOR-DME",
-            "frequency_khz": "114150",
-            "latitude_deg": "43.46659851074219",
-            "longitude_deg": "-1.5102800130844116",
-            "elevation_ft": "233",
-            "iso_country": "FR",
-            "dme_frequency_khz": "114150",
-            "dme_channel": "088Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-1.48",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFBZ"
-        },
-        {
-            "id": "86510",
-            "filename": "Biarritz_NDB_FR",
-            "ident": "BZ",
-            "name": "Biarritz",
-            "type": "NDB",
-            "frequency_khz": "341",
-            "latitude_deg": "43.47050094604492",
-            "longitude_deg": "-1.403689980506897",
-            "elevation_ft": "295",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.46",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LFBZ"
-        }
-    ]
+    }
 }

@@ -191,51 +191,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
         "keywords": "Airports in Wyoming"
-    },
-    "navaids": [
-        {
-            "id": "86984",
-            "filename": "Johno_NDB_US",
-            "ident": "CP",
-            "name": "Johno",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "42.90719985961914",
-            "longitude_deg": "-106.56999969482422",
-            "elevation_ft": "5348",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.488",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KCPR"
-        },
-        {
-            "id": "87321",
-            "filename": "Muddy_Mountain_VORTAC_US",
-            "ident": "DDY",
-            "name": "Muddy Mountain",
-            "type": "VORTAC",
-            "frequency_khz": "116200",
-            "latitude_deg": "43.09090042114258",
-            "longitude_deg": "-106.2770004272461",
-            "elevation_ft": "5860",
-            "iso_country": "US",
-            "dme_frequency_khz": "116200",
-            "dme_channel": "109X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.001",
-            "magnetic_variation_deg": "10.408",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KCPR"
-        }
-    ]
+    }
 }

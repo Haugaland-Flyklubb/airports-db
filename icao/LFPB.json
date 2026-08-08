@@ -161,29 +161,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Île-de-France",
         "keywords": "Airports in Île-de-France"
-    },
-    "navaids": [
-        {
-            "id": "86376",
-            "filename": "Le Bourget_VOR-DME_FR",
-            "ident": "BT",
-            "name": "Le Bourget",
-            "type": "VOR-DME",
-            "frequency_khz": "116100",
-            "latitude_deg": "48.9747009277",
-            "longitude_deg": "2.45516991615",
-            "elevation_ft": "200",
-            "iso_country": "FR",
-            "dme_frequency_khz": "108800",
-            "dme_channel": "025X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.035",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFPB"
-        }
-    ]
+    }
 }

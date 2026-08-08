@@ -131,29 +131,5 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lima_Region",
         "keywords": "Airports in Lima Region"
-    },
-    "navaids": [
-        {
-            "id": "90345",
-            "filename": "Lima_VOR-DME_PE",
-            "ident": "LIM",
-            "name": "Lima",
-            "type": "VOR-DME",
-            "frequency_khz": "113800",
-            "latitude_deg": "-12.008600234985352",
-            "longitude_deg": "-77.122802734375",
-            "elevation_ft": "100",
-            "iso_country": "PE",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.06",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SPIM"
-        }
-    ]
+    }
 }

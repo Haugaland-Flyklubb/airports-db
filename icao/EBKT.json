@@ -77,29 +77,5 @@
         "iso_country": "BE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Flanders",
         "keywords": "West-Vlaanderen, Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
-    },
-    "navaids": [
-        {
-            "id": "91981",
-            "filename": "Kortrijk_NDB_BE",
-            "ident": "OKT",
-            "name": "Kortrijk",
-            "type": "NDB",
-            "frequency_khz": "371",
-            "latitude_deg": "50.82400131225586",
-            "longitude_deg": "3.224829912185669",
-            "elevation_ft": "60",
-            "iso_country": "BE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.597",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EBKT"
-        }
-    ]
+    }
 }

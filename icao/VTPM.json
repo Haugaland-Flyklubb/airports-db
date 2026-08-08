@@ -85,51 +85,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tak_province",
         "keywords": "Airports in Tak Province"
-    },
-    "navaids": [
-        {
-            "id": "91266",
-            "filename": "Mae_Sot_NDB_TH",
-            "ident": "MS",
-            "name": "Mae Sot",
-            "type": "NDB",
-            "frequency_khz": "316",
-            "latitude_deg": "16.701900482177734",
-            "longitude_deg": "98.53980255126953",
-            "elevation_ft": "690",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.424",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VTPM"
-        },
-        {
-            "id": "91296",
-            "filename": "Mae_Sot_VOR-DME_TH",
-            "ident": "MST",
-            "name": "Mae Sot",
-            "type": "VOR-DME",
-            "frequency_khz": "116700",
-            "latitude_deg": "16.698699951171875",
-            "longitude_deg": "98.54209899902344",
-            "elevation_ft": "690",
-            "iso_country": "TH",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.424",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTPM"
-        }
-    ]
+    }
 }

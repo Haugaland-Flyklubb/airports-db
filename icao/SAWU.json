@@ -157,29 +157,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Province_(Argentina)",
         "keywords": "Airports in Santa Cruz Province"
-    },
-    "navaids": [
-        {
-            "id": "93469",
-            "filename": "Santa_Cruz_NDB_AR",
-            "ident": "SCZ",
-            "name": "Santa Cruz",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "-50.02170181274414",
-            "longitude_deg": "-68.57939910888672",
-            "elevation_ft": "364",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.474",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SAWU"
-        }
-    ]
+    }
 }

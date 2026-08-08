@@ -93,29 +93,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/İzmir_Province",
         "keywords": "Airports in İzmir Province"
-    },
-    "navaids": [
-        {
-            "id": "86799",
-            "filename": "Cigli_TACAN_TR",
-            "ident": "CIG",
-            "name": "Cigli",
-            "type": "TACAN",
-            "frequency_khz": "113600",
-            "latitude_deg": "38.49489974975586",
-            "longitude_deg": "27.00909996032715",
-            "elevation_ft": "52",
-            "iso_country": "TR",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.445",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LTBL"
-        }
-    ]
+    }
 }

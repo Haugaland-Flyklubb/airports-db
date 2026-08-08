@@ -69,29 +69,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Karnataka",
         "keywords": "Airports in Karnataka"
-    },
-    "navaids": [
-        {
-            "id": "88732",
-            "filename": "Hubli_NDB_IN",
-            "ident": "HB",
-            "name": "Hubli",
-            "type": "NDB",
-            "frequency_khz": "402",
-            "latitude_deg": "15.358400344848633",
-            "longitude_deg": "75.08350372314453",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.282",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VAHB"
-        }
-    ]
+    }
 }

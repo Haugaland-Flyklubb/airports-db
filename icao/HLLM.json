@@ -91,29 +91,5 @@
         "iso_country": "LY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tripoli",
         "keywords": "Ţarābulus"
-    },
-    "navaids": [
-        {
-            "id": "91316",
-            "filename": "Mitiga_VOR_LY",
-            "ident": "MTG",
-            "name": "Mitiga",
-            "type": "VOR",
-            "frequency_khz": "113400",
-            "latitude_deg": "32.892799377441406",
-            "longitude_deg": "13.271100044250488",
-            "elevation_ft": "36",
-            "iso_country": "LY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "1.315",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HLLM"
-        }
-    ]
+    }
 }

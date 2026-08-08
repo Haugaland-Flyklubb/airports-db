@@ -99,51 +99,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ankara_Province",
         "keywords": "Airports in Ankara Province"
-    },
-    "navaids": [
-        {
-            "id": "85497",
-            "filename": "Ankara_NDB-DME_TR",
-            "ident": "ANK",
-            "name": "Ankara",
-            "type": "NDB-DME",
-            "frequency_khz": "356",
-            "latitude_deg": "39.95309829711914",
-            "longitude_deg": "32.82809829711914",
-            "elevation_ft": "2749",
-            "iso_country": "TR",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.323",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LTAD"
-        },
-        {
-            "id": "87854",
-            "filename": "Etimesgut_TACAN_TR",
-            "ident": "ETI",
-            "name": "Etimesgut",
-            "type": "TACAN",
-            "frequency_khz": "116600",
-            "latitude_deg": "39.95750045776367",
-            "longitude_deg": "32.674598693847656",
-            "elevation_ft": "2622",
-            "iso_country": "TR",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.314",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LTAD"
-        }
-    ]
+    }
 }

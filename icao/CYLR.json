@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "85115",
-            "filename": "Leaf_Rapids_NDB_CA",
-            "ident": "5W",
-            "name": "Leaf Rapids",
-            "type": "NDB",
-            "frequency_khz": "226",
-            "latitude_deg": "56.51169967651367",
-            "longitude_deg": "-99.98390197753906",
-            "elevation_ft": "959",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.283",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYLR"
-        }
-    ]
+    }
 }

@@ -115,29 +115,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Sinai_Governorate",
         "keywords": "Airports in North Sinai Governorate"
-    },
-    "navaids": [
-        {
-            "id": "85585",
-            "filename": "El_Arish_VOR-DME_EG",
-            "ident": "ARH",
-            "name": "El Arish",
-            "type": "VOR-DME",
-            "frequency_khz": "113600",
-            "latitude_deg": "31.072999954223633",
-            "longitude_deg": "33.83190155029297",
-            "elevation_ft": "140",
-            "iso_country": "EG",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.005",
-            "magnetic_variation_deg": "3.332",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HEAR"
-        }
-    ]
+    }
 }

@@ -91,29 +91,5 @@
         "iso_country": "ZW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Harare_Province",
         "keywords": "Airports in Harare Metropolitan Province"
-    },
-    "navaids": [
-        {
-            "id": "86987",
-            "filename": "Charles_Prince_NDB_ZW",
-            "ident": "CP",
-            "name": "Charles Prince",
-            "type": "NDB",
-            "frequency_khz": "414",
-            "latitude_deg": "-17.751399993896484",
-            "longitude_deg": "30.926599502563477",
-            "elevation_ft": "",
-            "iso_country": "ZW",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.155",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "FVCP"
-        }
-    ]
+    }
 }

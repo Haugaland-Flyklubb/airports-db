@@ -125,29 +125,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "90013",
-            "filename": "Kelly_TACAN_US",
-            "ident": "KSY",
-            "name": "Kelly",
-            "type": "TACAN",
-            "frequency_khz": "112000",
-            "latitude_deg": "29.391599655151367",
-            "longitude_deg": "-98.58100128173828",
-            "elevation_ft": "687",
-            "iso_country": "US",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.011",
-            "magnetic_variation_deg": "5.408",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KSKF"
-        }
-    ]
+    }
 }

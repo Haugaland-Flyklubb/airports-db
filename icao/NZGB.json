@@ -59,29 +59,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Auckland_Region",
         "keywords": "Airports in Auckland Region"
-    },
-    "navaids": [
-        {
-            "id": "88274",
-            "filename": "Great_Barrier_NDB_NZ",
-            "ident": "GB",
-            "name": "Great Barrier",
-            "type": "NDB",
-            "frequency_khz": "274",
-            "latitude_deg": "-36.24409866333008",
-            "longitude_deg": "175.46099853515625",
-            "elevation_ft": "",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.076",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NZGB"
-        }
-    ]
+    }
 }

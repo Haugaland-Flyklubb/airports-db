@@ -69,29 +69,5 @@
         "iso_country": "PL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Warmian-Masurian_Voivodeship",
         "keywords": "Warmińsko-Mazurskie"
-    },
-    "navaids": [
-        {
-            "id": "87578",
-            "filename": "Szczytno_NDB_PL",
-            "ident": "DW",
-            "name": "Szczytno",
-            "type": "NDB",
-            "frequency_khz": "288",
-            "latitude_deg": "53.43709945678711",
-            "longitude_deg": "20.91230010986328",
-            "elevation_ft": "",
-            "iso_country": "PL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.274",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "EPSY"
-        }
-    ]
+    }
 }

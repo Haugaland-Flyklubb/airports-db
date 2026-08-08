@@ -191,51 +191,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "90708",
-            "filename": "Farly_NDB_US",
-            "ident": "MA",
-            "name": "Farly",
-            "type": "NDB",
-            "frequency_khz": "326",
-            "latitude_deg": "31.988000869750977",
-            "longitude_deg": "-102.32499694824219",
-            "elevation_ft": "2987",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.38",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KMAF"
-        },
-        {
-            "id": "90719",
-            "filename": "Midland_VORTAC_US",
-            "ident": "MAF",
-            "name": "Midland",
-            "type": "VORTAC",
-            "frequency_khz": "114800",
-            "latitude_deg": "32.009300231933594",
-            "longitude_deg": "-102.19000244140625",
-            "elevation_ft": "2860",
-            "iso_country": "US",
-            "dme_frequency_khz": "114800",
-            "dme_channel": "095X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.012",
-            "magnetic_variation_deg": "7.342",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KMAF"
-        }
-    ]
+    }
 }

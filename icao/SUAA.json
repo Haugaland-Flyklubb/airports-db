@@ -77,29 +77,5 @@
         "iso_country": "UY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montevideo_Department",
         "keywords": "Airports in Montevideo Department"
-    },
-    "navaids": [
-        {
-            "id": "85625",
-            "filename": "Adami_NDB_UY",
-            "ident": "ASI",
-            "name": "Adami",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "-34.78950119018555",
-            "longitude_deg": "-56.26300048828125",
-            "elevation_ft": "174",
-            "iso_country": "UY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.492",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SUAA"
-        }
-    ]
+    }
 }

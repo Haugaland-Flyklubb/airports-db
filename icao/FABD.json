@@ -35,29 +35,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Cape",
         "keywords": "Airports in Eastern Cape"
-    },
-    "navaids": [
-        {
-            "id": "85920",
-            "filename": "Burgersdorp_VOR_ZA",
-            "ident": "BDV",
-            "name": "Burgersdorp",
-            "type": "VOR",
-            "frequency_khz": "113100",
-            "latitude_deg": "-30.96500015258789",
-            "longitude_deg": "26.32270050048828",
-            "elevation_ft": "4715",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-21.007",
-            "magnetic_variation_deg": "-23.287",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FABD"
-        }
-    ]
+    }
 }

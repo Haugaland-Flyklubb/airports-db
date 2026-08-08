@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
         "keywords": "Airports in Goiás"
-    },
-    "navaids": [
-        {
-            "id": "85980",
-            "filename": "Braganca_VOR-DME_BR",
-            "ident": "BGC",
-            "name": "Braganca",
-            "type": "VOR-DME",
-            "frequency_khz": "116200",
-            "latitude_deg": "-22.953100204467773",
-            "longitude_deg": "-46.56809997558594",
-            "elevation_ft": "2737",
-            "iso_country": "BR",
-            "dme_frequency_khz": "116200",
-            "dme_channel": "109X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-19.007",
-            "magnetic_variation_deg": "-20.022",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SDBP"
-        },
-        {
-            "id": "85981",
-            "filename": "Braganca_NDB_BR",
-            "ident": "BGC",
-            "name": "Braganca",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "-22.970800399780273",
-            "longitude_deg": "-46.54779815673828",
-            "elevation_ft": "2887",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.026",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SDBP"
-        }
-    ]
+    }
 }

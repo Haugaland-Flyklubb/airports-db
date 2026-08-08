@@ -101,29 +101,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "91519",
-            "filename": "Newcastle_VOR-DME_GB",
-            "ident": "NEW",
-            "name": "Newcastle",
-            "type": "VOR-DME",
-            "frequency_khz": "114250",
-            "latitude_deg": "55.03839874267578",
-            "longitude_deg": "-1.6983699798583984",
-            "elevation_ft": "274",
-            "iso_country": "GB",
-            "dme_frequency_khz": "114250",
-            "dme_channel": "089Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.001",
-            "magnetic_variation_deg": "-3.312",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "EGNT"
-        }
-    ]
+    }
 }

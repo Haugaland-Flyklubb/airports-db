@@ -123,29 +123,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
         "keywords": "Bretagne"
-    },
-    "navaids": [
-        {
-            "id": "93043",
-            "filename": "Rennes_VOR-DME_FR",
-            "ident": "REN",
-            "name": "Rennes",
-            "type": "VOR-DME",
-            "frequency_khz": "109250",
-            "latitude_deg": "48.06919860839844",
-            "longitude_deg": "-1.74167001247406",
-            "elevation_ft": "126",
-            "iso_country": "FR",
-            "dme_frequency_khz": "109250",
-            "dme_channel": "029Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-2.225",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFRN"
-        }
-    ]
+    }
 }

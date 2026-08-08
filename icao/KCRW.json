@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
         "keywords": "Airports in West Virginia"
-    },
-    "navaids": [
-        {
-            "id": "89061",
-            "filename": "Charleston_VORTAC_US",
-            "ident": "HVQ",
-            "name": "Charleston",
-            "type": "VORTAC",
-            "frequency_khz": "117400",
-            "latitude_deg": "38.349700927734375",
-            "longitude_deg": "-81.7698974609375",
-            "elevation_ft": "1100",
-            "iso_country": "US",
-            "dme_frequency_khz": "117400",
-            "dme_channel": "121X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.001",
-            "magnetic_variation_deg": "-7.047",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KCRW"
-        }
-    ]
+    }
 }

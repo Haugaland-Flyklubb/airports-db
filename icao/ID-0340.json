@@ -85,51 +85,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sumatra_Barat",
         "keywords": "Airports in Sumatra Barat"
-    },
-    "navaids": [
-        {
-            "id": "92062",
-            "filename": "Padang_NDB_ID",
-            "ident": "OQ",
-            "name": "Padang",
-            "type": "NDB",
-            "frequency_khz": "295",
-            "latitude_deg": "-0.9255470037460327",
-            "longitude_deg": "100.35700225830078",
-            "elevation_ft": "",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.177",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ID-0340"
-        },
-        {
-            "id": "92335",
-            "filename": "Padang_VOR-DME_ID",
-            "ident": "PDG",
-            "name": "Padang",
-            "type": "VOR-DME",
-            "frequency_khz": "116400",
-            "latitude_deg": "-0.8711060285568237",
-            "longitude_deg": "100.35299682617188",
-            "elevation_ft": "9",
-            "iso_country": "ID",
-            "dme_frequency_khz": "116400",
-            "dme_channel": "111X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.207",
-            "magnetic_variation_deg": "-0.176",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ID-0340"
-        }
-    ]
+    }
 }

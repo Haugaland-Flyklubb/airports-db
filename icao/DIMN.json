@@ -77,29 +77,5 @@
         "iso_country": "CI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montagnes_District",
         "keywords": "18 Montagnes"
-    },
-    "navaids": [
-        {
-            "id": "91106",
-            "filename": "Man_NDB_CI",
-            "ident": "MN",
-            "name": "Man",
-            "type": "NDB",
-            "frequency_khz": "366",
-            "latitude_deg": "7.266769886016846",
-            "longitude_deg": "-7.583079814910889",
-            "elevation_ft": "",
-            "iso_country": "CI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.412",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "DIMN"
-        }
-    ]
+    }
 }

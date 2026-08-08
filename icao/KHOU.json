@@ -199,29 +199,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "89038",
-            "filename": "Hobby_VOR-DME_US",
-            "ident": "HUB",
-            "name": "Hobby",
-            "type": "VOR-DME",
-            "frequency_khz": "117100",
-            "latitude_deg": "29.65559959411621",
-            "longitude_deg": "-95.27660369873047",
-            "elevation_ft": "82",
-            "iso_country": "US",
-            "dme_frequency_khz": "117100",
-            "dme_channel": "118X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.008",
-            "magnetic_variation_deg": "3.505",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KHOU"
-        }
-    ]
+    }
 }

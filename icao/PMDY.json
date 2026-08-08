@@ -107,29 +107,5 @@
         "iso_country": "UM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Midway_Atoll",
         "keywords": "Airports in Midway Atoll"
-    },
-    "navaids": [
-        {
-            "id": "90846",
-            "filename": "Midway_NDB_UM",
-            "ident": "MDY",
-            "name": "Midway",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "28.203699111938477",
-            "longitude_deg": "-177.3800048828125",
-            "elevation_ft": "13",
-            "iso_country": "UM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.082",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "PMDY"
-        }
-    ]
+    }
 }

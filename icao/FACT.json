@@ -147,51 +147,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Cape",
         "keywords": "Airports in Western Cape"
-    },
-    "navaids": [
-        {
-            "id": "86607",
-            "filename": "Cape_Town_NDB_ZA",
-            "ident": "CB",
-            "name": "Cape Town",
-            "type": "NDB",
-            "frequency_khz": "463",
-            "latitude_deg": "-33.8760986328125",
-            "longitude_deg": "18.573299407958984",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-24.09",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "FACT"
-        },
-        {
-            "id": "87096",
-            "filename": "Cape_Town_VORTAC_ZA",
-            "ident": "CTV",
-            "name": "Cape Town",
-            "type": "VORTAC",
-            "frequency_khz": "115700",
-            "latitude_deg": "-33.96950149536133",
-            "longitude_deg": "18.604999542236328",
-            "elevation_ft": "151",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-23.007",
-            "magnetic_variation_deg": "-24.138",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FACT"
-        }
-    ]
+    }
 }

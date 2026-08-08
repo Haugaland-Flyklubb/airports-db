@@ -69,29 +69,5 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ancash_Region",
         "keywords": "Airports in Ancash Region"
-    },
-    "navaids": [
-        {
-            "id": "86386",
-            "filename": "Chimbote_VOR_PE",
-            "ident": "BTE",
-            "name": "Chimbote",
-            "type": "VOR",
-            "frequency_khz": "112500",
-            "latitude_deg": "-9.147500038146973",
-            "longitude_deg": "-78.52189636230469",
-            "elevation_ft": "70",
-            "iso_country": "PE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "0.194",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SPEO"
-        }
-    ]
+    }
 }

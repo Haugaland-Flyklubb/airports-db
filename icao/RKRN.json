@@ -123,29 +123,5 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggi_Province",
         "keywords": "Airports in Gyeonggi-do"
-    },
-    "navaids": [
-        {
-            "id": "89141",
-            "filename": "Icheon_VOR_KR",
-            "ident": "ICN",
-            "name": "Icheon",
-            "type": "VOR",
-            "frequency_khz": "117200",
-            "latitude_deg": "37.201698303222656",
-            "longitude_deg": "127.48300170898438",
-            "elevation_ft": "255",
-            "iso_country": "KR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.011",
-            "magnetic_variation_deg": "-7.447",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "RKRN"
-        }
-    ]
+    }
 }

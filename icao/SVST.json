@@ -91,51 +91,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Anzo%C3%A1tegui",
         "keywords": "Airports in Anzoátegui State"
-    },
-    "navaids": [
-        {
-            "id": "93848",
-            "filename": "San_Tome_VOR-DME_VE",
-            "ident": "SOM",
-            "name": "San Tome",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "8.943920135498047",
-            "longitude_deg": "-64.15640258789062",
-            "elevation_ft": "831",
-            "iso_country": "VE",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-11.007",
-            "magnetic_variation_deg": "-12.398",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVST"
-        },
-        {
-            "id": "93850",
-            "filename": "San_Tome_NDB_VE",
-            "ident": "SOM",
-            "name": "San Tome",
-            "type": "NDB",
-            "frequency_khz": "220",
-            "latitude_deg": "8.952249526977539",
-            "longitude_deg": "-64.14340209960938",
-            "elevation_ft": "861",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.403",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SVST"
-        }
-    ]
+    }
 }

@@ -115,29 +115,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ankara_Province",
         "keywords": "Airports in Ankara Province"
-    },
-    "navaids": [
-        {
-            "id": "86432",
-            "filename": "Cubuk_VOR-DME_TR",
-            "ident": "BUK",
-            "name": "Cubuk",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "40.24169921875",
-            "longitude_deg": "33.104698181152344",
-            "elevation_ft": "4068",
-            "iso_country": "TR",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "4.365",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTAC"
-        }
-    ]
+    }
 }

@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "90786",
-            "filename": "Sofke_NDB_US",
-            "ident": "MC",
-            "name": "Sofke",
-            "type": "NDB",
-            "frequency_khz": "290",
-            "latitude_deg": "32.645301818847656",
-            "longitude_deg": "-83.71320343017578",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.231",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KMCN"
-        },
-        {
-            "id": "90800",
-            "filename": "Macon_VORTAC_US",
-            "ident": "MCN",
-            "name": "Macon",
-            "type": "VORTAC",
-            "frequency_khz": "114200",
-            "latitude_deg": "32.691200256347656",
-            "longitude_deg": "-83.64720153808594",
-            "elevation_ft": "350",
-            "iso_country": "US",
-            "dme_frequency_khz": "114200",
-            "dme_channel": "089X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.001",
-            "magnetic_variation_deg": "-4.265",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KMCN"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
         "keywords": "Baluchistan"
-    },
-    "navaids": [
-        {
-            "id": "92388",
-            "filename": "Panjgur_VOR-DME_PK",
-            "ident": "PG",
-            "name": "Panjgur",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "26.95560073852539",
-            "longitude_deg": "64.12529754638672",
-            "elevation_ft": "3302",
-            "iso_country": "PK",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "1.018",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OPPG"
-        },
-        {
-            "id": "92393",
-            "filename": "Panjgur_NDB_PK",
-            "ident": "PG",
-            "name": "Panjgur",
-            "type": "NDB",
-            "frequency_khz": "388",
-            "latitude_deg": "26.956199645996094",
-            "longitude_deg": "64.13829803466797",
-            "elevation_ft": "3379",
-            "iso_country": "PK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.016",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "OPPG"
-        }
-    ]
+    }
 }

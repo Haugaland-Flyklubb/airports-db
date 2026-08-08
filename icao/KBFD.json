@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    },
-    "navaids": [
-        {
-            "id": "85959",
-            "filename": "Bradford_VOR-DME_US",
-            "ident": "BFD",
-            "name": "Bradford",
-            "type": "VOR-DME",
-            "frequency_khz": "116600",
-            "latitude_deg": "41.786399841308594",
-            "longitude_deg": "-78.61940002441406",
-            "elevation_ft": "2100",
-            "iso_country": "US",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.002",
-            "magnetic_variation_deg": "-10.268",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KBFD"
-        }
-    ]
+    }
 }

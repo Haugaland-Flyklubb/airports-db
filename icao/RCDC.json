@@ -77,29 +77,5 @@
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pingtung_County",
         "keywords": "Airports in Pingtung County"
-    },
-    "navaids": [
-        {
-            "id": "92456",
-            "filename": "Pingtung_South_TACAN_TW",
-            "ident": "PIT",
-            "name": "Pingtung South",
-            "type": "TACAN",
-            "frequency_khz": "109600",
-            "latitude_deg": "22.670700073242188",
-            "longitude_deg": "120.45999908447266",
-            "elevation_ft": "103",
-            "iso_country": "TW",
-            "dme_frequency_khz": "109600",
-            "dme_channel": "033X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.011",
-            "magnetic_variation_deg": "-3.026",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "RCDC"
-        }
-    ]
+    }
 }

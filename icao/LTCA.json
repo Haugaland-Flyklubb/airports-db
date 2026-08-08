@@ -99,51 +99,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Elazığ_Province",
         "keywords": "Airports in Elazığ Province"
-    },
-    "navaids": [
-        {
-            "id": "87899",
-            "filename": "Elazig_VOR-DME_TR",
-            "ident": "EZS",
-            "name": "Elazig",
-            "type": "VOR-DME",
-            "frequency_khz": "114700",
-            "latitude_deg": "38.70690155029297",
-            "longitude_deg": "39.22439956665039",
-            "elevation_ft": "4875",
-            "iso_country": "TR",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "4.475",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTCA"
-        },
-        {
-            "id": "87900",
-            "filename": "Elazig_NDB_TR",
-            "ident": "EZS",
-            "name": "Elazig",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "38.60649871826172",
-            "longitude_deg": "39.29880142211914",
-            "elevation_ft": "2963",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.466",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTCA"
-        }
-    ]
+    }
 }

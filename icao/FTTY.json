@@ -69,29 +69,5 @@
         "iso_country": "TD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Borkou_(region_of_Chad)",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "88053",
-            "filename": "Faya_Largeau_NDB_TD",
-            "ident": "FLU",
-            "name": "Faya Largeau",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "17.921100616455078",
-            "longitude_deg": "19.113000869750977",
-            "elevation_ft": "830",
-            "iso_country": "TD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.099",
-            "usageType": "HI",
-            "power": "MEDIUM",
-            "associated_airport": "FTTY"
-        }
-    ]
+    }
 }

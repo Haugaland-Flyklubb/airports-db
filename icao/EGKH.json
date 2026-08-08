@@ -91,29 +91,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "90550",
-            "filename": "Lashenden_NDB-DME_GB",
-            "ident": "LSH",
-            "name": "Lashenden",
-            "type": "NDB-DME",
-            "frequency_khz": "340",
-            "latitude_deg": "51.154701232910156",
-            "longitude_deg": "0.6480559706687927",
-            "elevation_ft": "72",
-            "iso_country": "GB",
-            "dme_frequency_khz": "115950",
-            "dme_channel": "106Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.567",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGKH"
-        }
-    ]
+    }
 }

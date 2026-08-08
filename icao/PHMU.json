@@ -85,29 +85,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
         "keywords": "Airports in Hawaii"
-    },
-    "navaids": [
-        {
-            "id": "91352",
-            "filename": "Kamuela_VOR-DME_US",
-            "ident": "MUE",
-            "name": "Kamuela",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "19.99810028076172",
-            "longitude_deg": "-155.6699981689453",
-            "elevation_ft": "2670",
-            "iso_country": "US",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.003",
-            "magnetic_variation_deg": "9.55",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PHMU"
-        }
-    ]
+    }
 }

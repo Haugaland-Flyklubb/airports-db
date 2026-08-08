@@ -35,51 +35,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
         "keywords": "Airports in Limpopo"
-    },
-    "navaids": [
-        {
-            "id": "94346",
-            "filename": "Thohoyandou_NDB_ZA",
-            "ident": "THO",
-            "name": "Thohoyandou",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "-22.96739959716797",
-            "longitude_deg": "30.48310089111328",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.117",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FATH"
-        },
-        {
-            "id": "94530",
-            "filename": "Thohoyandou_NDB_ZA",
-            "ident": "TOY",
-            "name": "Thohoyandou",
-            "type": "NDB",
-            "frequency_khz": "285",
-            "latitude_deg": "-23.075000762939453",
-            "longitude_deg": "30.31439971923828",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.173",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FATH"
-        }
-    ]
+    }
 }

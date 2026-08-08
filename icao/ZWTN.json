@@ -69,29 +69,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Xinjiang",
         "keywords": "Airports in Xinjiang Autonomous Region"
-    },
-    "navaids": [
-        {
-            "id": "89023",
-            "filename": "Hotan_VOR-DME_CN",
-            "ident": "HTN",
-            "name": "Hotan",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "37.03670120239258",
-            "longitude_deg": "79.87169647216797",
-            "elevation_ft": "4685",
-            "iso_country": "CN",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.216",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZWTN"
-        }
-    ]
+    }
 }

@@ -35,29 +35,5 @@
         "iso_country": "TG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Centrale_Region",
         "keywords": "Centre"
-    },
-    "navaids": [
-        {
-            "id": "93673",
-            "filename": "Sokode_NDB_TG",
-            "ident": "SK",
-            "name": "Sokode",
-            "type": "NDB",
-            "frequency_khz": "302",
-            "latitude_deg": "8.996749877929688",
-            "longitude_deg": "1.1522300243377686",
-            "elevation_ft": "1345",
-            "iso_country": "TG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.286",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "DXSK"
-        }
-    ]
+    }
 }

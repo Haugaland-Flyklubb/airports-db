@@ -85,29 +85,5 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Constanţa_County",
         "keywords": "Dobrudja"
-    },
-    "navaids": [
-        {
-            "id": "86907",
-            "filename": "Constanta_VOR-DME_RO",
-            "ident": "CND",
-            "name": "Constanta",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "44.294498443603516",
-            "longitude_deg": "28.47949981689453",
-            "elevation_ft": "269",
-            "iso_country": "RO",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.403",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LRCK"
-        }
-    ]
+    }
 }

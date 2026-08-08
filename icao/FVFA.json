@@ -77,51 +77,5 @@
         "iso_country": "ZW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Matabeleland_North_Province",
         "keywords": "Airports in Matabeleland North Province"
-    },
-    "navaids": [
-        {
-            "id": "87923",
-            "filename": "Victoria_Falls_NDB_ZW",
-            "ident": "FA",
-            "name": "Victoria Falls",
-            "type": "NDB",
-            "frequency_khz": "256",
-            "latitude_deg": "-18.07029914855957",
-            "longitude_deg": "25.764999389648438",
-            "elevation_ft": "",
-            "iso_country": "ZW",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.027",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "FVFA"
-        },
-        {
-            "id": "95098",
-            "filename": "Victoria_Falls_NDB_ZW",
-            "ident": "VF",
-            "name": "Victoria Falls",
-            "type": "NDB",
-            "frequency_khz": "274",
-            "latitude_deg": "-18.089500427246094",
-            "longitude_deg": "25.819900512695312",
-            "elevation_ft": "",
-            "iso_country": "ZW",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.038",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "FVFA"
-        }
-    ]
+    }
 }

@@ -123,51 +123,5 @@
         "iso_country": "BH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Muharraq_Governorate",
         "keywords": "Airports in Muharraq Governorate"
-    },
-    "navaids": [
-        {
-            "id": "85789",
-            "filename": "Bahrain_VOR-DME_BH",
-            "ident": "BAH",
-            "name": "Bahrain",
-            "type": "VOR-DME",
-            "frequency_khz": "115300",
-            "latitude_deg": "26.26420021057129",
-            "longitude_deg": "50.64889907836914",
-            "elevation_ft": "24",
-            "iso_country": "BH",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.007",
-            "magnetic_variation_deg": "2.119",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OBBI"
-        },
-        {
-            "id": "90190",
-            "filename": "Bahrain_NDB_BH",
-            "ident": "LB",
-            "name": "Bahrain",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "26.258399963378906",
-            "longitude_deg": "50.65520095825195",
-            "elevation_ft": "",
-            "iso_country": "BH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.118",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "OBBI"
-        }
-    ]
+    }
 }

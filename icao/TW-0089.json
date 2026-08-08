@@ -59,29 +59,5 @@
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Taoyuan,_Taiwan",
         "keywords": "Airports in Taoyuan City"
-    },
-    "navaids": [
-        {
-            "id": "94736",
-            "filename": "Taoyuan_TACAN_TW",
-            "ident": "TYN",
-            "name": "Taoyuan",
-            "type": "TACAN",
-            "frequency_khz": "115800",
-            "latitude_deg": "25.0625",
-            "longitude_deg": "121.24500274658203",
-            "elevation_ft": "147",
-            "iso_country": "TW",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.011",
-            "magnetic_variation_deg": "-3.411",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "TW-0089"
-        }
-    ]
+    }
 }

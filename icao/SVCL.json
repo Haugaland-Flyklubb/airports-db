@@ -69,51 +69,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gu%C3%A1rico",
         "keywords": "Airports in Guárico State"
-    },
-    "navaids": [
-        {
-            "id": "87212",
-            "filename": "Calabozo_VOR-DME_VE",
-            "ident": "CZO",
-            "name": "Calabozo",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "8.926690101623535",
-            "longitude_deg": "-67.4092025756836",
-            "elevation_ft": "328",
-            "iso_country": "VE",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-11.007",
-            "magnetic_variation_deg": "-10.434",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVCL"
-        },
-        {
-            "id": "87213",
-            "filename": "Calabozo_NDB_VE",
-            "ident": "CZO",
-            "name": "Calabozo",
-            "type": "NDB",
-            "frequency_khz": "215",
-            "latitude_deg": "8.93002986907959",
-            "longitude_deg": "-67.41480255126953",
-            "elevation_ft": "328",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.432",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SVCL"
-        }
-    ]
+    }
 }

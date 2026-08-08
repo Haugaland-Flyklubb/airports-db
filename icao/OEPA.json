@@ -77,29 +77,5 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Province,_Saudi_Arabia",
         "keywords": "Airports in Ash Sharqiyah Region, Eastern Province"
-    },
-    "navaids": [
-        {
-            "id": "88805",
-            "filename": "Hafr_Al-Batin_VORTAC_SA",
-            "ident": "HFR",
-            "name": "Hafr Al-Batin",
-            "type": "VORTAC",
-            "frequency_khz": "113100",
-            "latitude_deg": "28.33049964904785",
-            "longitude_deg": "46.12950134277344",
-            "elevation_ft": "1185",
-            "iso_country": "SA",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.007",
-            "magnetic_variation_deg": "2.576",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OEPA"
-        }
-    ]
+    }
 }

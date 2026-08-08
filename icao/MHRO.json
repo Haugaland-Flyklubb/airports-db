@@ -77,51 +77,5 @@
         "iso_country": "HN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bay_Islands_Department",
         "keywords": "Airports in Islas de la Bahía Department"
-    },
-    "navaids": [
-        {
-            "id": "93182",
-            "filename": "Roatan_VOR-DME_HN",
-            "ident": "ROA",
-            "name": "Roatan",
-            "type": "VOR-DME",
-            "frequency_khz": "113800",
-            "latitude_deg": "16.316600799560547",
-            "longitude_deg": "-86.52179718017578",
-            "elevation_ft": "67",
-            "iso_country": "HN",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.003",
-            "magnetic_variation_deg": "0.094",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MHRO"
-        },
-        {
-            "id": "93183",
-            "filename": "Roatan_NDB_HN",
-            "ident": "ROA",
-            "name": "Roatan",
-            "type": "NDB",
-            "frequency_khz": "301",
-            "latitude_deg": "16.315799713134766",
-            "longitude_deg": "-86.52940368652344",
-            "elevation_ft": "67",
-            "iso_country": "HN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.097",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MHRO"
-        }
-    ]
+    }
 }

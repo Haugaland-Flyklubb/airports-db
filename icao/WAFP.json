@@ -69,29 +69,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Tengah",
         "keywords": "Airports in Sulawesi Tengah"
-    },
-    "navaids": [
-        {
-            "id": "87343",
-            "filename": "Kasiguncu_NDB_ID",
-            "ident": "DF",
-            "name": "Kasiguncu",
-            "type": "NDB",
-            "frequency_khz": "310",
-            "latitude_deg": "-1.4200400114059448",
-            "longitude_deg": "120.65899658203125",
-            "elevation_ft": "174",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.188",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAFP"
-        }
-    ]
+    }
 }

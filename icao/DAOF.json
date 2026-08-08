@@ -81,29 +81,5 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tindouf_Province",
         "keywords": "Airports in Tindouf Province"
-    },
-    "navaids": [
-        {
-            "id": "94274",
-            "filename": "Tindouf_VOR-DME_DZ",
-            "ident": "TDF",
-            "name": "Tindouf",
-            "type": "VOR-DME",
-            "frequency_khz": "114200",
-            "latitude_deg": "27.710100173950195",
-            "longitude_deg": "-8.130889892578125",
-            "elevation_ft": "1363",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "114200",
-            "dme_channel": "089X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.342",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DAOF"
-        }
-    ]
+    }
 }

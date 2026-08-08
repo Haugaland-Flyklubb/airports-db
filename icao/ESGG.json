@@ -93,29 +93,5 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Västra_Götalands_län",
         "keywords": "Västra Götaland County"
-    },
-    "navaids": [
-        {
-            "id": "90181",
-            "filename": "Landvetter_VOR-DME_SE",
-            "ident": "LAV",
-            "name": "Landvetter",
-            "type": "VOR-DME",
-            "frequency_khz": "114600",
-            "latitude_deg": "57.65610122680664",
-            "longitude_deg": "12.289899826049805",
-            "elevation_ft": "574",
-            "iso_country": "SE",
-            "dme_frequency_khz": "114600",
-            "dme_channel": "093X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.001",
-            "magnetic_variation_deg": "1.523",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ESGG"
-        }
-    ]
+    }
 }

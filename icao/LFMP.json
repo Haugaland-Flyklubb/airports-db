@@ -107,29 +107,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Occitania_(administrative_region)",
         "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
-    },
-    "navaids": [
-        {
-            "id": "92641",
-            "filename": "Perpignan_VOR-DME_FR",
-            "ident": "PPG",
-            "name": "Perpignan",
-            "type": "VOR-DME",
-            "frequency_khz": "116250",
-            "latitude_deg": "42.7504997253418",
-            "longitude_deg": "2.867140054702759",
-            "elevation_ft": "134",
-            "iso_country": "FR",
-            "dme_frequency_khz": "116250",
-            "dme_channel": "109Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "-0.279",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFMP"
-        }
-    ]
+    }
 }

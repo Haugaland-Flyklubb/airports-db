@@ -59,51 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    },
-    "navaids": [
-        {
-            "id": "88797",
-            "filename": "Hanchey_VOR_US",
-            "ident": "HEY",
-            "name": "Hanchey",
-            "type": "VOR",
-            "frequency_khz": "110600",
-            "latitude_deg": "31.374099731445312",
-            "longitude_deg": "-85.65280151367188",
-            "elevation_ft": "300",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.001",
-            "magnetic_variation_deg": "-2.453",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "HEY"
-        },
-        {
-            "id": "89085",
-            "filename": "Hanchey_NDB_US",
-            "ident": "HYE",
-            "name": "Hanchey",
-            "type": "NDB",
-            "frequency_khz": "221",
-            "latitude_deg": "31.36680030822754",
-            "longitude_deg": "-85.6500015258789",
-            "elevation_ft": "315",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.456",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "HEY"
-        }
-    ]
+    }
 }

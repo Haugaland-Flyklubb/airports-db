@@ -279,51 +279,5 @@
         "iso_country": "CH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_Z%C3%BCrich",
         "keywords": "Airports in Canton of Zurich"
-    },
-    "navaids": [
-        {
-            "id": "89850",
-            "filename": "Kloten_VOR-DME_CH",
-            "ident": "KLO",
-            "name": "Kloten",
-            "type": "VOR-DME",
-            "frequency_khz": "114850",
-            "latitude_deg": "47.45709991455078",
-            "longitude_deg": "8.54557991027832",
-            "elevation_ft": "1410",
-            "iso_country": "CH",
-            "dme_frequency_khz": "114850",
-            "dme_channel": "095Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.514",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LSZH"
-        },
-        {
-            "id": "96130",
-            "filename": "Zurich_East_VOR-DME_CH",
-            "ident": "ZUE",
-            "name": "Zurich East",
-            "type": "VOR-DME",
-            "frequency_khz": "110050",
-            "latitude_deg": "47.592201232910156",
-            "longitude_deg": "8.817669868469238",
-            "elevation_ft": "1730",
-            "iso_country": "CH",
-            "dme_frequency_khz": "110050",
-            "dme_channel": "037Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.556",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LSZH"
-        }
-    ]
+    }
 }

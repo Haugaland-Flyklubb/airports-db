@@ -59,51 +59,5 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Casablanca-Settat",
         "keywords": "الدار البيضاء - سطات"
-    },
-    "navaids": [
-        {
-            "id": "86228",
-            "filename": "Ben_Slimane_VOR-DME_MA",
-            "ident": "BNS",
-            "name": "Ben Slimane",
-            "type": "VOR-DME",
-            "frequency_khz": "117450",
-            "latitude_deg": "33.64179992675781",
-            "longitude_deg": "-7.208000183105469",
-            "elevation_ft": "676",
-            "iso_country": "MA",
-            "dme_frequency_khz": "117450",
-            "dme_channel": "121Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.074",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GMMB"
-        },
-        {
-            "id": "86558",
-            "filename": "Ben_Slimane_NDB_MA",
-            "ident": "CAE",
-            "name": "Ben Slimane",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "33.61579895019531",
-            "longitude_deg": "-7.113329887390137",
-            "elevation_ft": "",
-            "iso_country": "MA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.073",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "GMMB"
-        }
-    ]
+    }
 }

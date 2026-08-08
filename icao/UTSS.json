@@ -77,29 +77,5 @@
         "iso_country": "UZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Samarqand_Region",
         "keywords": "Airports in Samarqand Region"
-    },
-    "navaids": [
-        {
-            "id": "91416",
-            "filename": "Samarkand_NDB_UZ",
-            "ident": "MZ",
-            "name": "Samarkand",
-            "type": "NDB",
-            "frequency_khz": "355",
-            "latitude_deg": "39.70669937133789",
-            "longitude_deg": "66.91999816894531",
-            "elevation_ft": "",
-            "iso_country": "UZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.267",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UTSS"
-        }
-    ]
+    }
 }

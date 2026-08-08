@@ -135,51 +135,5 @@
         "iso_country": "PL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kuyavian-Pomeranian_Voivodeship",
         "keywords": "Kujawsko-Pomorskie"
-    },
-    "navaids": [
-        {
-            "id": "88580",
-            "filename": "Grudziadz_VOR-DME_PL",
-            "ident": "GRU",
-            "name": "Grudziadz",
-            "type": "VOR-DME",
-            "frequency_khz": "114600",
-            "latitude_deg": "53.52119827270508",
-            "longitude_deg": "18.781299591064453",
-            "elevation_ft": "295",
-            "iso_country": "PL",
-            "dme_frequency_khz": "114600",
-            "dme_channel": "093X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.007",
-            "magnetic_variation_deg": "3.51",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EPTO"
-        },
-        {
-            "id": "91232",
-            "filename": "Mragowo_VOR-DME_PL",
-            "ident": "MRA",
-            "name": "Mragowo",
-            "type": "VOR-DME",
-            "frequency_khz": "117300",
-            "latitude_deg": "53.7849006652832",
-            "longitude_deg": "21.13279914855957",
-            "elevation_ft": "492",
-            "iso_country": "PL",
-            "dme_frequency_khz": "117300",
-            "dme_channel": "120X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.007",
-            "magnetic_variation_deg": "4.341",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "EPTO"
-        }
-    ]
+    }
 }

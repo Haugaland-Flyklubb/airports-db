@@ -139,51 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
         "keywords": "Airports in Indiana"
-    },
-    "navaids": [
-        {
-            "id": "86176",
-            "filename": "Claye_NDB_US",
-            "ident": "BM",
-            "name": "Claye",
-            "type": "NDB",
-            "frequency_khz": "382",
-            "latitude_deg": "39.056400299072266",
-            "longitude_deg": "-86.59919738769531",
-            "elevation_ft": "761",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.234",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KBMG"
-        },
-        {
-            "id": "92047",
-            "filename": "Hoosier_VORTAC_US",
-            "ident": "OOM",
-            "name": "Hoosier",
-            "type": "VORTAC",
-            "frequency_khz": "110200",
-            "latitude_deg": "39.143798828125",
-            "longitude_deg": "-86.61299896240234",
-            "elevation_ft": "850",
-            "iso_country": "US",
-            "dme_frequency_khz": "110200",
-            "dme_channel": "039X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.006",
-            "magnetic_variation_deg": "-3.238",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KBMG"
-        }
-    ]
+    }
 }

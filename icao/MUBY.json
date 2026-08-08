@@ -77,29 +77,5 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Granma_Province",
         "keywords": "Airports in Granma Province"
-    },
-    "navaids": [
-        {
-            "id": "94797",
-            "filename": "Bayamo_NDB_CU",
-            "ident": "UBY",
-            "name": "Bayamo",
-            "type": "NDB",
-            "frequency_khz": "268",
-            "latitude_deg": "20.39389991760254",
-            "longitude_deg": "-76.61920166015625",
-            "elevation_ft": "",
-            "iso_country": "CU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.485",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MUBY"
-        }
-    ]
+    }
 }

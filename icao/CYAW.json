@@ -161,29 +161,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nova_Scotia",
         "keywords": "Nova Scotian airports"
-    },
-    "navaids": [
-        {
-            "id": "94781",
-            "filename": "Shearwater_TACAN_CA",
-            "ident": "UAW",
-            "name": "Shearwater",
-            "type": "TACAN",
-            "frequency_khz": "110100",
-            "latitude_deg": "44.638099670410156",
-            "longitude_deg": "-63.496498107910156",
-            "elevation_ft": "146",
-            "iso_country": "CA",
-            "dme_frequency_khz": "110100",
-            "dme_channel": "038X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-21.001",
-            "magnetic_variation_deg": "-18.537",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYAW"
-        }
-    ]
+    }
 }

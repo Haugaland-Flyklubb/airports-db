@@ -93,51 +93,5 @@
         "iso_country": "BN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brunei-Muara_District",
         "keywords": "Airports in Brunei-Muara District"
-    },
-    "navaids": [
-        {
-            "id": "86290",
-            "filename": "Brunei_NDB_BN",
-            "ident": "BR",
-            "name": "Brunei",
-            "type": "NDB",
-            "frequency_khz": "318",
-            "latitude_deg": "4.8990797996521",
-            "longitude_deg": "114.9010009765625",
-            "elevation_ft": "",
-            "iso_country": "BN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.275",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WBSB"
-        },
-        {
-            "id": "86338",
-            "filename": "Brunei_VOR-DME_BN",
-            "ident": "BRU",
-            "name": "Brunei",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "4.874589920043945",
-            "longitude_deg": "114.88500213623047",
-            "elevation_ft": "229",
-            "iso_country": "BN",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.277",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WBSB"
-        }
-    ]
+    }
 }

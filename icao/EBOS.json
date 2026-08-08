@@ -115,29 +115,5 @@
         "iso_country": "BE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Flanders",
         "keywords": "West-Vlaanderen, Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
-    },
-    "navaids": [
-        {
-            "id": "92037",
-            "filename": "Oostende_NDB_BE",
-            "ident": "ONO",
-            "name": "Oostende",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "51.217498779296875",
-            "longitude_deg": "2.9963901042938232",
-            "elevation_ft": "12",
-            "iso_country": "BE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.07",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EBOS"
-        }
-    ]
+    }
 }

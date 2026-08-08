@@ -77,51 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "89196",
-            "filename": "St-Augustin_DME_CA",
-            "ident": "IIF",
-            "name": "St-Augustin",
-            "type": "DME",
-            "frequency_khz": "108700",
-            "latitude_deg": "51.19940185546875",
-            "longitude_deg": "-58.654701232910156",
-            "elevation_ft": "33",
-            "iso_country": "CA",
-            "dme_frequency_khz": "108700",
-            "dme_channel": "024X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.268",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYIF"
-        },
-        {
-            "id": "95695",
-            "filename": "St_Augustin_NDB_CA",
-            "ident": "YIF",
-            "name": "St Augustin",
-            "type": "NDB",
-            "frequency_khz": "201",
-            "latitude_deg": "51.188899993896484",
-            "longitude_deg": "-58.65190124511719",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.264",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYIF"
-        }
-    ]
+    }
 }

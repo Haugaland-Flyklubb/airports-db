@@ -35,29 +35,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Free_State_(province)",
         "keywords": "Airports in Free State"
-    },
-    "navaids": [
-        {
-            "id": "89474",
-            "filename": "Jagersfontein_NDB_ZA",
-            "ident": "JF",
-            "name": "Jagersfontein",
-            "type": "NDB",
-            "frequency_khz": "243",
-            "latitude_deg": "-29.78420066833496",
-            "longitude_deg": "25.430599212646484",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.45",
-            "usageType": "HI",
-            "power": "MEDIUM",
-            "associated_airport": "FAJF"
-        }
-    ]
+    }
 }

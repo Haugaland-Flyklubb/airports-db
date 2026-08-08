@@ -85,29 +85,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Centre-Val_de_Loire",
         "keywords": "Airports in Centre-Val de Loire"
-    },
-    "navaids": [
-        {
-            "id": "87098",
-            "filename": "Châteauroux_NDB_FR",
-            "ident": "CTX",
-            "name": "Châteauroux",
-            "type": "NDB",
-            "frequency_khz": "428",
-            "latitude_deg": "46.93659973144531",
-            "longitude_deg": "1.8011399507522583",
-            "elevation_ft": "539",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.042",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LFLX"
-        }
-    ]
+    }
 }

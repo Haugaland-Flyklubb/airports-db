@@ -107,51 +107,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Norte_de_Santander_Department",
         "keywords": "Airports in Norte de Santander Department"
-    },
-    "navaids": [
-        {
-            "id": "87102",
-            "filename": "Cucuta_NDB_CO",
-            "ident": "CU",
-            "name": "Cucuta",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "8.03693962097168",
-            "longitude_deg": "-72.57969665527344",
-            "elevation_ft": "",
-            "iso_country": "CO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.133",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "SKCC"
-        },
-        {
-            "id": "87109",
-            "filename": "Cucuta_VOR-DME_CO",
-            "ident": "CUC",
-            "name": "Cucuta",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "7.933460235595703",
-            "longitude_deg": "-72.51349639892578",
-            "elevation_ft": "1070",
-            "iso_country": "CO",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.149",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKCC"
-        }
-    ]
+    }
 }

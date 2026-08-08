@@ -69,29 +69,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arauca_Department",
         "keywords": "Airports in Arauca Department"
-    },
-    "navaids": [
-        {
-            "id": "85682",
-            "filename": "Arauca_VOR-DME_CO",
-            "ident": "AUC",
-            "name": "Arauca",
-            "type": "VOR-DME",
-            "frequency_khz": "114000",
-            "latitude_deg": "7.067150115966797",
-            "longitude_deg": "-70.7322006225586",
-            "elevation_ft": "424",
-            "iso_country": "CO",
-            "dme_frequency_khz": "114000",
-            "dme_channel": "087X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.006",
-            "magnetic_variation_deg": "-8.183",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKUC"
-        }
-    ]
+    }
 }

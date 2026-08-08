@@ -77,29 +77,5 @@
         "iso_country": "ME",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tivat",
         "keywords": "Airports in Tivat Municipality"
-    },
-    "navaids": [
-        {
-            "id": "94207",
-            "filename": "Tivat_NDB_RS",
-            "ident": "TAZ",
-            "name": "Tivat",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "42.28200149536133",
-            "longitude_deg": "18.800399780273438",
-            "elevation_ft": "",
-            "iso_country": "RS",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.551",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LYTV"
-        }
-    ]
+    }
 }

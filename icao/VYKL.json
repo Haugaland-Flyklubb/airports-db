@@ -69,29 +69,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sagaing_Region",
         "keywords": "Airports in Sagaing Division"
-    },
-    "navaids": [
-        {
-            "id": "89830",
-            "filename": "Kalay_NDB_MM",
-            "ident": "KL",
-            "name": "Kalay",
-            "type": "NDB",
-            "frequency_khz": "225",
-            "latitude_deg": "23.1875",
-            "longitude_deg": "94.05490112304688",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.374",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VYKL"
-        }
-    ]
+    }
 }

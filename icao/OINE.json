@@ -69,29 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Golestan_Province",
         "keywords": "Airports in Golestan Province"
-    },
-    "navaids": [
-        {
-            "id": "89846",
-            "filename": "Kalaleh_NDB_IR",
-            "ident": "KLH",
-            "name": "Kalaleh",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "37.388301849365234",
-            "longitude_deg": "55.45669937133789",
-            "elevation_ft": "500",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.191",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OINE"
-        }
-    ]
+    }
 }

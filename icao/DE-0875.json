@@ -99,51 +99,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
         "keywords": "Airports in Brandenburg"
-    },
-    "navaids": [
-        {
-            "id": "86660",
-            "filename": "Drewitz_DME_DE",
-            "ident": "CDD",
-            "name": "Drewitz",
-            "type": "DME",
-            "frequency_khz": "112050",
-            "latitude_deg": "51.887001037597656",
-            "longitude_deg": "14.531999588012695",
-            "elevation_ft": "292",
-            "iso_country": "DE",
-            "dme_frequency_khz": "112050",
-            "dme_channel": "057Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.301",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "DE-0875"
-        },
-        {
-            "id": "87529",
-            "filename": "Drewitz_NDB_DE",
-            "ident": "DRW",
-            "name": "Drewitz",
-            "type": "NDB",
-            "frequency_khz": "355",
-            "latitude_deg": "51.89670181274414",
-            "longitude_deg": "14.5625",
-            "elevation_ft": "271",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.307",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "DE-0875"
-        }
-    ]
+    }
 }

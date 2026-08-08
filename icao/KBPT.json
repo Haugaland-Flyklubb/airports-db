@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "86270",
-            "filename": "Kazoo_NDB_US",
-            "ident": "BP",
-            "name": "Kazoo",
-            "type": "NDB",
-            "frequency_khz": "257",
-            "latitude_deg": "29.996299743652344",
-            "longitude_deg": "-94.10639953613281",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.073",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KBPT"
-        },
-        {
-            "id": "86279",
-            "filename": "Beaumont_VOR-DME_US",
-            "ident": "BPT",
-            "name": "Beaumont",
-            "type": "VOR-DME",
-            "frequency_khz": "114500",
-            "latitude_deg": "29.94610023498535",
-            "longitude_deg": "-94.01619720458984",
-            "elevation_ft": "10",
-            "iso_country": "US",
-            "dme_frequency_khz": "114500",
-            "dme_channel": "092X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.008",
-            "magnetic_variation_deg": "3.041",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KBPT"
-        }
-    ]
+    }
 }

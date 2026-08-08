@@ -81,29 +81,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "95025",
-            "filename": "Humboldt_NDB_CA",
-            "ident": "V2",
-            "name": "Humboldt",
-            "type": "NDB",
-            "frequency_khz": "277",
-            "latitude_deg": "52.174198150634766",
-            "longitude_deg": "-105.1240005493164",
-            "elevation_ft": "1865",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.08",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CJU4"
-        }
-    ]
+    }
 }

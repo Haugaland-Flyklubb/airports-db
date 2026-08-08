@@ -93,51 +93,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "89377",
-            "filename": "Rouyn_DME_CA",
-            "ident": "IUY",
-            "name": "Rouyn",
-            "type": "DME",
-            "frequency_khz": "109900",
-            "latitude_deg": "48.21110153198242",
-            "longitude_deg": "-78.81829833984375",
-            "elevation_ft": "1004",
-            "iso_country": "CA",
-            "dme_frequency_khz": "109900",
-            "dme_channel": "036X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.491",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYUY"
-        },
-        {
-            "id": "95876",
-            "filename": "Rouyn_NDB_CA",
-            "ident": "YUY",
-            "name": "Rouyn",
-            "type": "NDB",
-            "frequency_khz": "218",
-            "latitude_deg": "48.17279815673828",
-            "longitude_deg": "-78.9385986328125",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.423",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYUY"
-        }
-    ]
+    }
 }

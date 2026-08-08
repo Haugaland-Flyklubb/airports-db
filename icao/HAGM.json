@@ -77,51 +77,5 @@
         "iso_country": "ET",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gambela_Region",
         "keywords": "Airports in Gambela Region"
-    },
-    "navaids": [
-        {
-            "id": "86292",
-            "filename": "Gambella_NDB_ET",
-            "ident": "BR",
-            "name": "Gambella",
-            "type": "NDB",
-            "frequency_khz": "450",
-            "latitude_deg": "8.108180046081543",
-            "longitude_deg": "34.5630989074707",
-            "elevation_ft": "",
-            "iso_country": "ET",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.489",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HAGM"
-        },
-        {
-            "id": "88467",
-            "filename": "Gambella_NDB_ET",
-            "ident": "GM",
-            "name": "Gambella",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "8.135000228881836",
-            "longitude_deg": "34.573299407958984",
-            "elevation_ft": "",
-            "iso_country": "ET",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.491",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HAGM"
-        }
-    ]
+    }
 }

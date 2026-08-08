@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    },
-    "navaids": [
-        {
-            "id": "92265",
-            "filename": "Tyndall_TACAN_US",
-            "ident": "PAM",
-            "name": "Tyndall",
-            "type": "TACAN",
-            "frequency_khz": "117700",
-            "latitude_deg": "30.073999404907227",
-            "longitude_deg": "-85.57240295410156",
-            "elevation_ft": "14",
-            "iso_country": "US",
-            "dme_frequency_khz": "117700",
-            "dme_channel": "124X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.001",
-            "magnetic_variation_deg": "-2.362",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KPAM"
-        }
-    ]
+    }
 }

@@ -85,51 +85,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khuzestan_Province",
         "keywords": "Airports in Khuzestan Province"
-    },
-    "navaids": [
-        {
-            "id": "85715",
-            "filename": "Ahwaz_VOR-DME_IR",
-            "ident": "AWZ",
-            "name": "Ahwaz",
-            "type": "VOR-DME",
-            "frequency_khz": "114000",
-            "latitude_deg": "31.337600708007812",
-            "longitude_deg": "48.76430130004883",
-            "elevation_ft": "66",
-            "iso_country": "IR",
-            "dme_frequency_khz": "114000",
-            "dme_channel": "087X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "3.147",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIAW"
-        },
-        {
-            "id": "85716",
-            "filename": "Ahwaz_NDB_IR",
-            "ident": "AWZ",
-            "name": "Ahwaz",
-            "type": "NDB",
-            "frequency_khz": "415",
-            "latitude_deg": "31.344100952148438",
-            "longitude_deg": "48.744598388671875",
-            "elevation_ft": "66",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.149",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "OIAW"
-        }
-    ]
+    }
 }

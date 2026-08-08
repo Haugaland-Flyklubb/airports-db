@@ -91,29 +91,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
         "keywords": "Airports in Uttar Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "85528",
-            "filename": "Allahabad_NDB_IN",
-            "ident": "AP",
-            "name": "Allahabad",
-            "type": "NDB",
-            "frequency_khz": "328",
-            "latitude_deg": "25.467100143432617",
-            "longitude_deg": "81.69819641113281",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.032",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VIAL"
-        }
-    ]
+    }
 }

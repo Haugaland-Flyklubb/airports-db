@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "96003",
-            "filename": "Eastmain_NDB_CA",
-            "ident": "ZEM",
-            "name": "Eastmain",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "52.2307014465332",
-            "longitude_deg": "-78.5176010131836",
-            "elevation_ft": "21",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.165",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CZEM"
-        }
-    ]
+    }
 }

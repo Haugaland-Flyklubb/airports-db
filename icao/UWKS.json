@@ -91,51 +91,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chuvash_Republic",
         "keywords": "Airports in Chuvash Republic"
-    },
-    "navaids": [
-        {
-            "id": "87014",
-            "filename": "Cheboksary_NDB_RU",
-            "ident": "CR",
-            "name": "Cheboksary",
-            "type": "NDB",
-            "frequency_khz": "510",
-            "latitude_deg": "56.10499954223633",
-            "longitude_deg": "47.42829895019531",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.017",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "UWKS"
-        },
-        {
-            "id": "90134",
-            "filename": "Cheboksary_NDB_RU",
-            "ident": "LA",
-            "name": "Cheboksary",
-            "type": "NDB",
-            "frequency_khz": "510",
-            "latitude_deg": "56.073299407958984",
-            "longitude_deg": "47.26169967651367",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.588",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "UWKS"
-        }
-    ]
+    }
 }

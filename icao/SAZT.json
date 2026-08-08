@@ -85,51 +85,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    },
-    "navaids": [
-        {
-            "id": "87381",
-            "filename": "Tandil_VOR-DME_AR",
-            "ident": "DIL",
-            "name": "Tandil",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "-37.224998474121094",
-            "longitude_deg": "-59.229400634765625",
-            "elevation_ft": "574",
-            "iso_country": "AR",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-4.503",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SAZT"
-        },
-        {
-            "id": "91884",
-            "filename": "Tandil_NDB_AR",
-            "ident": "OD",
-            "name": "Tandil",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "-37.15829849243164",
-            "longitude_deg": "-59.22169876098633",
-            "elevation_ft": "",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.531",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "SAZT"
-        }
-    ]
+    }
 }

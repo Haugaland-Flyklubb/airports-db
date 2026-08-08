@@ -77,29 +77,5 @@
         "iso_country": "AI",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "85494",
-            "filename": "Wallblake_NDB_AI",
-            "ident": "ANG",
-            "name": "Wallblake",
-            "type": "NDB",
-            "frequency_khz": "209",
-            "latitude_deg": "18.2052001953125",
-            "longitude_deg": "-63.09260177612305",
-            "elevation_ft": "",
-            "iso_country": "AI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.575",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "TQPF"
-        }
-    ]
+    }
 }

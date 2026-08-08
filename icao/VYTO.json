@@ -77,29 +77,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bago_Region",
         "keywords": "Airports in Bago Division"
-    },
-    "navaids": [
-        {
-            "id": "94326",
-            "filename": "Taungoo_VOR-DME_MM",
-            "ident": "TGO",
-            "name": "Taungoo",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "19.047800064086914",
-            "longitude_deg": "96.39640045166016",
-            "elevation_ft": "150",
-            "iso_country": "MM",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.447",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VYTO"
-        }
-    ]
+    }
 }

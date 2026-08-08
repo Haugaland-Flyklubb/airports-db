@@ -101,51 +101,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Atlántico_Department",
         "keywords": "Airports in Atlántico Department"
-    },
-    "navaids": [
-        {
-            "id": "85546",
-            "filename": "Barranquilla_NDB_CO",
-            "ident": "AQ",
-            "name": "Barranquilla",
-            "type": "NDB",
-            "frequency_khz": "264",
-            "latitude_deg": "10.871800422668457",
-            "longitude_deg": "-74.79620361328125",
-            "elevation_ft": "295",
-            "iso_country": "CO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.139",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "SKBQ"
-        },
-        {
-            "id": "85807",
-            "filename": "Barranquilla_VOR-DME_CO",
-            "ident": "BAQ",
-            "name": "Barranquilla",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "10.796699523925781",
-            "longitude_deg": "-74.86029815673828",
-            "elevation_ft": "295",
-            "iso_country": "CO",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-6.106",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKBQ"
-        }
-    ]
+    }
 }

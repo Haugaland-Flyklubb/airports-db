@@ -121,29 +121,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nova_Scotia",
         "keywords": "Nova Scotian airports"
-    },
-    "navaids": [
-        {
-            "id": "85136",
-            "filename": "Debert_NDB_CA",
-            "ident": "8F",
-            "name": "Debert",
-            "type": "NDB",
-            "frequency_khz": "239",
-            "latitude_deg": "45.422000885009766",
-            "longitude_deg": "-63.459598541259766",
-            "elevation_ft": "142",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.124",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CCQ3"
-        }
-    ]
+    }
 }

@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "91406",
-            "filename": "Maryborough_NDB_AU",
-            "ident": "MYB",
-            "name": "Maryborough",
-            "type": "NDB",
-            "frequency_khz": "248",
-            "latitude_deg": "-25.519699096679688",
-            "longitude_deg": "152.7100067138672",
-            "elevation_ft": "38",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.311",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YMYB"
-        }
-    ]
+    }
 }

@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "94874",
-            "filename": "Wainwright_Village_NDB_US",
-            "ident": "UKK",
-            "name": "Wainwright Village",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "70.63760375976562",
-            "longitude_deg": "-160.00900268554688",
-            "elevation_ft": "36",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "18.213",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PAWI"
-        }
-    ]
+    }
 }

@@ -91,29 +91,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mazandaran_Province",
         "keywords": "Airports in Mazandaran Province"
-    },
-    "navaids": [
-        {
-            "id": "93252",
-            "filename": "Ramsar_NDB-DME_IR",
-            "ident": "RSR",
-            "name": "Ramsar",
-            "type": "NDB-DME",
-            "frequency_khz": "332",
-            "latitude_deg": "36.903499603271484",
-            "longitude_deg": "50.68040084838867",
-            "elevation_ft": "-21",
-            "iso_country": "IR",
-            "dme_frequency_khz": "115500",
-            "dme_channel": "102X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.235",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OINR"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "DK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Capital_Region",
         "keywords": "Hovedstaden"
-    },
-    "navaids": [
-        {
-            "id": "93190",
-            "filename": "Ronne_TACAN_DK",
-            "ident": "ROE",
-            "name": "Ronne",
-            "type": "TACAN",
-            "frequency_khz": "112000",
-            "latitude_deg": "55.0619010925293",
-            "longitude_deg": "14.755900382995605",
-            "elevation_ft": "79",
-            "iso_country": "DK",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.008",
-            "magnetic_variation_deg": "2.428",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EKRN"
-        },
-        {
-            "id": "93191",
-            "filename": "Ronne_VOR-DME_DK",
-            "ident": "ROE",
-            "name": "Ronne",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "55.06560134887695",
-            "longitude_deg": "14.758700370788574",
-            "elevation_ft": "79",
-            "iso_country": "DK",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "55.0619",
-            "dme_longitude_deg": "14.7559",
-            "dme_elevation_ft": "79",
-            "slaved_variation_deg": "3.008",
-            "magnetic_variation_deg": "2.419",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "EKRN"
-        }
-    ]
+    }
 }

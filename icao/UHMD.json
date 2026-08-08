@@ -69,29 +69,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chukotka_Autonomous_Okrug",
         "keywords": "Airports in Chukotka Autonomous Okrug"
-    },
-    "navaids": [
-        {
-            "id": "85863",
-            "filename": "Provideniya_Bay_NDB_RU",
-            "ident": "BC",
-            "name": "Provideniya Bay",
-            "type": "NDB",
-            "frequency_khz": "960",
-            "latitude_deg": "64.37670135498047",
-            "longitude_deg": "-173.2429962158203",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.029",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "UHMD"
-        }
-    ]
+    }
 }

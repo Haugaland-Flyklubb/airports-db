@@ -69,51 +69,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Songkhla_province",
         "keywords": "Airports in Songkhla Province"
-    },
-    "navaids": [
-        {
-            "id": "93672",
-            "filename": "Songkhla_NDB_TH",
-            "ident": "SK",
-            "name": "Songkhla",
-            "type": "NDB",
-            "frequency_khz": "410",
-            "latitude_deg": "7.1880598068237305",
-            "longitude_deg": "100.60399627685547",
-            "elevation_ft": "12",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.194",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTSH"
-        },
-        {
-            "id": "93694",
-            "filename": "Songkhla_VOR-DME_TH",
-            "ident": "SKL",
-            "name": "Songkhla",
-            "type": "VOR-DME",
-            "frequency_khz": "113500",
-            "latitude_deg": "7.1887898445129395",
-            "longitude_deg": "100.60399627685547",
-            "elevation_ft": "12",
-            "iso_country": "TH",
-            "dme_frequency_khz": "113500",
-            "dme_channel": "082X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.194",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTSH"
-        }
-    ]
+    }
 }

@@ -91,29 +91,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_West_(South_African_province)",
         "keywords": "Airports in North-West"
-    },
-    "navaids": [
-        {
-            "id": "92745",
-            "filename": "Potchefstroom_VOR-DME_ZA",
-            "ident": "PSV",
-            "name": "Potchefstroom",
-            "type": "VOR-DME",
-            "frequency_khz": "115800",
-            "latitude_deg": "-26.67329978942871",
-            "longitude_deg": "27.093299865722656",
-            "elevation_ft": "4520",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.119",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FAPS"
-        }
-    ]
+    }
 }

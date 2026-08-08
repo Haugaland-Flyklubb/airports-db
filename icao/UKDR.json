@@ -77,29 +77,5 @@
         "iso_country": "UA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dnipropetrovsk_Oblast",
         "keywords": "Airports in Dnipropetrovsk Oblast"
-    },
-    "navaids": [
-        {
-            "id": "90071",
-            "filename": "Kryvyi_Rih_DME_UA",
-            "ident": "KVR",
-            "name": "Kryvyi Rih",
-            "type": "DME",
-            "frequency_khz": "116000",
-            "latitude_deg": "48.050899505615234",
-            "longitude_deg": "33.211700439453125",
-            "elevation_ft": "397",
-            "iso_country": "UA",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.12",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UKDR"
-        }
-    ]
+    }
 }

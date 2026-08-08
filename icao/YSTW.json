@@ -167,51 +167,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "94704",
-            "filename": "Tamworth_VOR-DME_AU",
-            "ident": "TW",
-            "name": "Tamworth",
-            "type": "VOR-DME",
-            "frequency_khz": "116000",
-            "latitude_deg": "-31.066200256347656",
-            "longitude_deg": "150.8300018310547",
-            "elevation_ft": "1344",
-            "iso_country": "AU",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.007",
-            "magnetic_variation_deg": "11.339",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YSTW"
-        },
-        {
-            "id": "94705",
-            "filename": "Tamworth_NDB_AU",
-            "ident": "TW",
-            "name": "Tamworth",
-            "type": "NDB",
-            "frequency_khz": "341",
-            "latitude_deg": "-31.071199417114258",
-            "longitude_deg": "150.83099365234375",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.34",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YSTW"
-        }
-    ]
+    }
 }

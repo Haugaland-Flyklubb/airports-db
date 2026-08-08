@@ -93,51 +93,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kedah",
         "keywords": "Airports in Kedah"
-    },
-    "navaids": [
-        {
-            "id": "90376",
-            "filename": "Langkawi_NDB_MY",
-            "ident": "LK",
-            "name": "Langkawi",
-            "type": "NDB",
-            "frequency_khz": "344",
-            "latitude_deg": "6.320559978485107",
-            "longitude_deg": "99.72779846191406",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.239",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WMKL"
-        },
-        {
-            "id": "95246",
-            "filename": "Langkawi_VOR-DME_MY",
-            "ident": "VPL",
-            "name": "Langkawi",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "6.355420112609863",
-            "longitude_deg": "99.74739837646484",
-            "elevation_ft": "57",
-            "iso_country": "MY",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.238",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "WMKL"
-        }
-    ]
+    }
 }

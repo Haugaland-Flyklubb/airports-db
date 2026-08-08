@@ -77,51 +77,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Apulia",
         "keywords": "PU"
-    },
-    "navaids": [
-        {
-            "id": "88099",
-            "filename": "Foggia_VOR_IT",
-            "ident": "FOG",
-            "name": "Foggia",
-            "type": "VOR",
-            "frequency_khz": "114200",
-            "latitude_deg": "41.429500579833984",
-            "longitude_deg": "15.531399726867676",
-            "elevation_ft": "266",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.187",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LIBF"
-        },
-        {
-            "id": "88100",
-            "filename": "Foggia_NDB_IT",
-            "ident": "FOG",
-            "name": "Foggia",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "41.43080139160156",
-            "longitude_deg": "15.531399726867676",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.187",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LIBF"
-        }
-    ]
+    }
 }

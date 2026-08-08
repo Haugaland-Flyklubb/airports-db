@@ -35,29 +35,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kwazulu-Natal",
         "keywords": "Airports in Kwazulu-Natal"
-    },
-    "navaids": [
-        {
-            "id": "87823",
-            "filename": "Eshowe_NDB_ZA",
-            "ident": "ES",
-            "name": "Eshowe",
-            "type": "NDB",
-            "frequency_khz": "203",
-            "latitude_deg": "-28.8882999420166",
-            "longitude_deg": "31.448299407958984",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.458",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FAES"
-        }
-    ]
+    }
 }

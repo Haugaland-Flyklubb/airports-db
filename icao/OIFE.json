@@ -91,29 +91,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Isfahan_Province",
         "keywords": "Airports in Isfahan Province"
-    },
-    "navaids": [
-        {
-            "id": "89008",
-            "filename": "Hesa_NDB-DME_IR",
-            "ident": "HSA",
-            "name": "Hesa",
-            "type": "NDB-DME",
-            "frequency_khz": "230",
-            "latitude_deg": "32.93259811401367",
-            "longitude_deg": "51.56010055541992",
-            "elevation_ft": "5250",
-            "iso_country": "IR",
-            "dme_frequency_khz": "113450",
-            "dme_channel": "081Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.22",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "OIFE"
-        }
-    ]
+    }
 }

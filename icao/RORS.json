@@ -93,29 +93,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Okinawa",
         "keywords": "Kyushu and Okinawa"
-    },
-    "navaids": [
-        {
-            "id": "93651",
-            "filename": "Shimojishima_VOR-DME_JP",
-            "ident": "SJE",
-            "name": "Shimojishima",
-            "type": "VOR-DME",
-            "frequency_khz": "117100",
-            "latitude_deg": "24.8218994140625",
-            "longitude_deg": "125.14399719238281",
-            "elevation_ft": "66",
-            "iso_country": "JP",
-            "dme_frequency_khz": "117100",
-            "dme_channel": "118X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-3.564",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RORS"
-        }
-    ]
+    }
 }

@@ -109,29 +109,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
         "keywords": "Nordrhein-Westfalen"
-    },
-    "navaids": [
-        {
-            "id": "92246",
-            "filename": "Paderborn_Lippstadt_NDB-DME_DE",
-            "ident": "PAD",
-            "name": "Paderborn/Lippstadt",
-            "type": "NDB-DME",
-            "frequency_khz": "354",
-            "latitude_deg": "51.623600006103516",
-            "longitude_deg": "8.639439582824707",
-            "elevation_ft": "673",
-            "iso_country": "DE",
-            "dme_frequency_khz": "108500",
-            "dme_channel": "022X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.435",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EDLP"
-        }
-    ]
+    }
 }

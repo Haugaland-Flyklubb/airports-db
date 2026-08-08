@@ -77,29 +77,5 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Madinah_Region",
         "keywords": "Airports in Al Madinah Region"
-    },
-    "navaids": [
-        {
-            "id": "92715",
-            "filename": "Pump_Station_10_NDB_SA",
-            "ident": "PS0",
-            "name": "Pump Station 10",
-            "type": "NDB",
-            "frequency_khz": "382",
-            "latitude_deg": "24.100000381469727",
-            "longitude_deg": "41.03670120239258",
-            "elevation_ft": "2840",
-            "iso_country": "SA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.515",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "OEPJ"
-        }
-    ]
+    }
 }

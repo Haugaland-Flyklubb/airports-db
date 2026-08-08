@@ -69,29 +69,5 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tanga_Region",
         "keywords": "Airports in Tanga Region"
-    },
-    "navaids": [
-        {
-            "id": "92239",
-            "filename": "Pemba_NDB_TZ",
-            "ident": "PA",
-            "name": "Pemba",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "-5.258039951324463",
-            "longitude_deg": "39.81449890136719",
-            "elevation_ft": "80",
-            "iso_country": "TZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.455",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HTPE"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yazd_Province",
         "keywords": "Airports in Yazd Province"
-    },
-    "navaids": [
-        {
-            "id": "94238",
-            "filename": "Tabas_NDB-DME_IR",
-            "ident": "TBS",
-            "name": "Tabas",
-            "type": "NDB-DME",
-            "frequency_khz": "395",
-            "latitude_deg": "33.66400146484375",
-            "longitude_deg": "56.899600982666016",
-            "elevation_ft": "2312",
-            "iso_country": "IR",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.097",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIMT"
-        }
-    ]
+    }
 }

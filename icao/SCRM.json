@@ -77,51 +77,5 @@
         "iso_country": "AQ",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "89320",
-            "filename": "Isla_Rey_Jorge_VOR-DME_AQ",
-            "ident": "IRJ",
-            "name": "Isla Rey Jorge",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "-62.190799713134766",
-            "longitude_deg": "-58.98249816894531",
-            "elevation_ft": "135",
-            "iso_country": "AQ",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.011",
-            "magnetic_variation_deg": "11.21",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SCRM"
-        },
-        {
-            "id": "89321",
-            "filename": "Isla_Rey_Jorge_NDB_AQ",
-            "ident": "IRJ",
-            "name": "Isla Rey Jorge",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "-62.19940185546875",
-            "longitude_deg": "-58.96139907836914",
-            "elevation_ft": "",
-            "iso_country": "AQ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.205",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SCRM"
-        }
-    ]
+    }
 }

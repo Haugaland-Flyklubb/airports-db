@@ -99,29 +99,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Coahuila",
         "keywords": "Airports in Coahuila"
-    },
-    "navaids": [
-        {
-            "id": "93751",
-            "filename": "Saltillo_VOR-DME_MX",
-            "ident": "SLW",
-            "name": "Saltillo",
-            "type": "VOR-DME",
-            "frequency_khz": "116100",
-            "latitude_deg": "25.546100616455078",
-            "longitude_deg": "-100.93000030517578",
-            "elevation_ft": "4778",
-            "iso_country": "MX",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.011",
-            "magnetic_variation_deg": "6.432",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMIO"
-        }
-    ]
+    }
 }

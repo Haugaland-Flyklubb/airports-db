@@ -133,51 +133,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hesse",
         "keywords": "Hessen"
-    },
-    "navaids": [
-        {
-            "id": "95380",
-            "filename": "Wiesbaden_NDB_DE",
-            "ident": "WBD",
-            "name": "Wiesbaden",
-            "type": "NDB",
-            "frequency_khz": "399",
-            "latitude_deg": "50.04899978637695",
-            "longitude_deg": "8.328669548034668",
-            "elevation_ft": "490",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.42",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "ETOU"
-        },
-        {
-            "id": "95418",
-            "filename": "Wiesbaden_TACAN_DE",
-            "ident": "WIB",
-            "name": "Wiesbaden",
-            "type": "TACAN",
-            "frequency_khz": "114100",
-            "latitude_deg": "50.046199798583984",
-            "longitude_deg": "8.310830116271973",
-            "elevation_ft": "472",
-            "iso_country": "DE",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.004",
-            "magnetic_variation_deg": "0.417",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ETOU"
-        }
-    ]
+    }
 }

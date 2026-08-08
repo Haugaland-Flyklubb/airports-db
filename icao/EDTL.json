@@ -85,51 +85,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
         "keywords": "Baden-Wuerttemberg"
-    },
-    "navaids": [
-        {
-            "id": "90325",
-            "filename": "Lahr_NDB_DE",
-            "ident": "LHR",
-            "name": "Lahr",
-            "type": "NDB",
-            "frequency_khz": "337",
-            "latitude_deg": "48.34870147705078",
-            "longitude_deg": "7.811160087585449",
-            "elevation_ft": "",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.374",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EDTL"
-        },
-        {
-            "id": "90525",
-            "filename": "Lahr_DME_DE",
-            "ident": "LRD",
-            "name": "Lahr",
-            "type": "DME",
-            "frequency_khz": "108050",
-            "latitude_deg": "48.36410140991211",
-            "longitude_deg": "7.82751989364624",
-            "elevation_ft": "556",
-            "iso_country": "DE",
-            "dme_frequency_khz": "108050",
-            "dme_channel": "017Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.376",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDTL"
-        }
-    ]
+    }
 }

@@ -109,29 +109,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "86030",
-            "filename": "Birmingham_NDB_GB",
-            "ident": "BHX",
-            "name": "Birmingham",
-            "type": "NDB",
-            "frequency_khz": "406",
-            "latitude_deg": "52.454498291015625",
-            "longitude_deg": "-1.7523900270462036",
-            "elevation_ft": "325",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.035",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGBB"
-        }
-    ]
+    }
 }

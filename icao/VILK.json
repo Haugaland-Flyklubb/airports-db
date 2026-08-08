@@ -93,29 +93,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
         "keywords": "Airports in Uttar Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "90399",
-            "filename": "Lucknow_VOR-DME_IN",
-            "ident": "LLK",
-            "name": "Lucknow",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "26.76219940185547",
-            "longitude_deg": "80.88050079345703",
-            "elevation_ft": "400",
-            "iso_country": "IN",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "0.107",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VILK"
-        }
-    ]
+    }
 }

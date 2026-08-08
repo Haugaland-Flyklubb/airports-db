@@ -147,51 +147,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
         "keywords": "Bayern"
-    },
-    "navaids": [
-        {
-            "id": "89178",
-            "filename": "Ingolstadt_TACAN_DE",
-            "ident": "IGL",
-            "name": "Ingolstadt",
-            "type": "TACAN",
-            "frequency_khz": "111400",
-            "latitude_deg": "48.71780014038086",
-            "longitude_deg": "11.56980037689209",
-            "elevation_ft": "1233",
-            "iso_country": "DE",
-            "dme_frequency_khz": "111400",
-            "dme_channel": "051X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "1.383",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ETSI"
-        },
-        {
-            "id": "89179",
-            "filename": "Ingolstadt_NDB_DE",
-            "ident": "IGL",
-            "name": "Ingolstadt",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "48.73780059814453",
-            "longitude_deg": "11.644700050354004",
-            "elevation_ft": "",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.396",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ETSI"
-        }
-    ]
+    }
 }

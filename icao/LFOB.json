@@ -129,29 +129,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
         "keywords": "Airports in Hauts-de-France"
-    },
-    "navaids": [
-        {
-            "id": "86470",
-            "filename": "Beauvais_VOR_FR",
-            "ident": "BVS",
-            "name": "Beauvais",
-            "type": "VOR",
-            "frequency_khz": "115900",
-            "latitude_deg": "49.4364013671875",
-            "longitude_deg": "2.1531898975372314",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.124",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFOB"
-        }
-    ]
+    }
 }

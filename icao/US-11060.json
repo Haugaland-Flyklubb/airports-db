@@ -77,29 +77,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "94487",
-            "filename": "Navasota_VORTAC_US",
-            "ident": "TNV",
-            "name": "Navasota",
-            "type": "VORTAC",
-            "frequency_khz": "115900",
-            "latitude_deg": "30.28849983215332",
-            "longitude_deg": "-96.05819702148438",
-            "elevation_ft": "230",
-            "iso_country": "US",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.008",
-            "magnetic_variation_deg": "4.167",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "US-11060"
-        }
-    ]
+    }
 }

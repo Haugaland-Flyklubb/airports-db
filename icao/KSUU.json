@@ -163,51 +163,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    },
-    "navaids": [
-        {
-            "id": "94051",
-            "filename": "Travis_TACAN_US",
-            "ident": "SUU",
-            "name": "Travis",
-            "type": "TACAN",
-            "frequency_khz": "116600",
-            "latitude_deg": "38.245601654052734",
-            "longitude_deg": "-121.94499969482422",
-            "elevation_ft": "32",
-            "iso_country": "US",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "17.001",
-            "magnetic_variation_deg": "14.484",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KSUU"
-        },
-        {
-            "id": "94760",
-            "filename": "Travis_VOR_US",
-            "ident": "TZZ",
-            "name": "Travis",
-            "type": "VOR",
-            "frequency_khz": "116400",
-            "latitude_deg": "38.344200134277344",
-            "longitude_deg": "-121.81099700927734",
-            "elevation_ft": "32",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "17.001",
-            "magnetic_variation_deg": "14.487",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KSUU"
-        }
-    ]
+    }
 }

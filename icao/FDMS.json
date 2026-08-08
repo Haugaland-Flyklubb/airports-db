@@ -85,51 +85,5 @@
         "iso_country": "SZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manzini_Region",
         "keywords": "Airports in Manzini Region"
-    },
-    "navaids": [
-        {
-            "id": "91273",
-            "filename": "Matsapha_NDB_SZ",
-            "ident": "MS",
-            "name": "Matsapha",
-            "type": "NDB",
-            "frequency_khz": "263",
-            "latitude_deg": "-26.510499954223633",
-            "longitude_deg": "31.334699630737305",
-            "elevation_ft": "",
-            "iso_country": "SZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.217",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FDMS"
-        },
-        {
-            "id": "95213",
-            "filename": "Matsapha_VOR-DME_SZ",
-            "ident": "VMS",
-            "name": "Matsapha",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "-26.511899948120117",
-            "longitude_deg": "31.32360076904297",
-            "elevation_ft": "2237",
-            "iso_country": "SZ",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.214",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "FDMS"
-        }
-    ]
+    }
 }

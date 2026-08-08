@@ -85,51 +85,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cantabria",
         "keywords": "Airports in Cantabria"
-    },
-    "navaids": [
-        {
-            "id": "93344",
-            "filename": "Santander_NDB_ES",
-            "ident": "SA",
-            "name": "Santander",
-            "type": "NDB",
-            "frequency_khz": "416",
-            "latitude_deg": "43.435001373291016",
-            "longitude_deg": "-3.849900007247925",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.335",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LEXJ"
-        },
-        {
-            "id": "93819",
-            "filename": "Santander_VOR-DME_ES",
-            "ident": "SNR",
-            "name": "Santander",
-            "type": "VOR-DME",
-            "frequency_khz": "115300",
-            "latitude_deg": "43.449798583984375",
-            "longitude_deg": "-3.9024100303649902",
-            "elevation_ft": "164",
-            "iso_country": "ES",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "43.4496",
-            "dme_longitude_deg": "-3.90249",
-            "dme_elevation_ft": "164",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-2.346",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LEXJ"
-        }
-    ]
+    }
 }

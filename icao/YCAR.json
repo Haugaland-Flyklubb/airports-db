@@ -99,51 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "86576",
-            "filename": "Carnarvon_VOR-DME_AU",
-            "ident": "CAR",
-            "name": "Carnarvon",
-            "type": "VOR-DME",
-            "frequency_khz": "113000",
-            "latitude_deg": "-24.881900787353516",
-            "longitude_deg": "113.6729965209961",
-            "elevation_ft": "13",
-            "iso_country": "AU",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "-24.8819",
-            "dme_longitude_deg": "113.673",
-            "dme_elevation_ft": "23",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.104",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YCAR"
-        },
-        {
-            "id": "86579",
-            "filename": "Carnarvon_NDB_AU",
-            "ident": "CAR",
-            "name": "Carnarvon",
-            "type": "NDB",
-            "frequency_khz": "323",
-            "latitude_deg": "-24.886699676513672",
-            "longitude_deg": "113.66899871826172",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.105",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YCAR"
-        }
-    ]
+    }
 }

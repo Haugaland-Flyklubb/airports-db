@@ -69,29 +69,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kumamoto",
         "keywords": "Kyushu and Okinawa"
-    },
-    "navaids": [
-        {
-            "id": "85365",
-            "filename": "Amakusa_VOR-DME_JP",
-            "ident": "AKE",
-            "name": "Amakusa",
-            "type": "VOR-DME",
-            "frequency_khz": "113450",
-            "latitude_deg": "32.48099899291992",
-            "longitude_deg": "130.16000366210938",
-            "elevation_ft": "354",
-            "iso_country": "JP",
-            "dme_frequency_khz": "113450",
-            "dme_channel": "081Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.011",
-            "magnetic_variation_deg": "-6.25",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "RJDA"
-        }
-    ]
+    }
 }

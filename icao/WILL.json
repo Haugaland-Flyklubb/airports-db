@@ -69,51 +69,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lampung",
         "keywords": "Airports in Lampung"
-    },
-    "navaids": [
-        {
-            "id": "94300",
-            "filename": "Bandar_Lampung_NDB_ID",
-            "ident": "TF",
-            "name": "Bandar Lampung",
-            "type": "NDB",
-            "frequency_khz": "290",
-            "latitude_deg": "-5.244909763336182",
-            "longitude_deg": "105.1780014038086",
-            "elevation_ft": "282",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.298",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WILL"
-        },
-        {
-            "id": "94405",
-            "filename": "Bandar_Lampung_VOR-DME_ID",
-            "ident": "TKG",
-            "name": "Bandar Lampung",
-            "type": "VOR-DME",
-            "frequency_khz": "115000",
-            "latitude_deg": "-5.260169982910156",
-            "longitude_deg": "105.19400024414062",
-            "elevation_ft": "524",
-            "iso_country": "ID",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.299",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WILL"
-        }
-    ]
+    }
 }

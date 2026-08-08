@@ -77,29 +77,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chiapas",
         "keywords": "Airports in Chiapas"
-    },
-    "navaids": [
-        {
-            "id": "94320",
-            "filename": "Teran_VOR-DME_MX",
-            "ident": "TGM",
-            "name": "Teran",
-            "type": "VOR-DME",
-            "frequency_khz": "117300",
-            "latitude_deg": "16.739999771118164",
-            "longitude_deg": "-93.17469787597656",
-            "elevation_ft": "1909",
-            "iso_country": "MX",
-            "dme_frequency_khz": "117300",
-            "dme_channel": "120X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.382",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMTB"
-        }
-    ]
+    }
 }

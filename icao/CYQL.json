@@ -123,51 +123,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "92895",
-            "filename": "Lethbridge_NDB_CA",
-            "ident": "QL",
-            "name": "Lethbridge",
-            "type": "NDB",
-            "frequency_khz": "248",
-            "latitude_deg": "49.60530090332031",
-            "longitude_deg": "-112.89399719238281",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "15.18",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYQL"
-        },
-        {
-            "id": "95809",
-            "filename": "Lethbridge_VOR-DME_CA",
-            "ident": "YQL",
-            "name": "Lethbridge",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "49.6343994140625",
-            "longitude_deg": "-112.66799926757812",
-            "elevation_ft": "3109",
-            "iso_country": "CA",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "18.001",
-            "magnetic_variation_deg": "15.121",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYQL"
-        }
-    ]
+    }
 }

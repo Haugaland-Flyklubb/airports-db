@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "95668",
-            "filename": "Lg_4_NDB_CA",
-            "ident": "YFM",
-            "name": "Lg 4",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "53.71179962158203",
-            "longitude_deg": "-73.7029037475586",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.446",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYAH"
-        }
-    ]
+    }
 }

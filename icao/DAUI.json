@@ -77,51 +77,5 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/In_Salah_Province",
         "keywords": "ولاية عين صالح"
-    },
-    "navaids": [
-        {
-            "id": "91723",
-            "filename": "In_Salah_VOR-DME_DZ",
-            "ident": "NSL",
-            "name": "In Salah",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "27.2367000579834",
-            "longitude_deg": "2.492500066757202",
-            "elevation_ft": "955",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-0.406",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DAUI"
-        },
-        {
-            "id": "93362",
-            "filename": "In_Salah_NDB_DZ",
-            "ident": "SAH",
-            "name": "In Salah",
-            "type": "NDB",
-            "frequency_khz": "373",
-            "latitude_deg": "27.255300521850586",
-            "longitude_deg": "2.5127499103546143",
-            "elevation_ft": "",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.418",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "DAUI"
-        }
-    ]
+    }
 }

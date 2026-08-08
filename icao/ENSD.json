@@ -59,29 +59,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vestland",
         "keywords": "Airports in Vestland"
-    },
-    "navaids": [
-        {
-            "id": "85247",
-            "filename": "Anda_NDB_NO",
-            "ident": "AD",
-            "name": "Anda",
-            "type": "NDB",
-            "frequency_khz": "288",
-            "latitude_deg": "61.8296012878418",
-            "longitude_deg": "6.115940093994141",
-            "elevation_ft": "",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.024",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ENSD"
-        }
-    ]
+    }
 }

@@ -113,29 +113,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "88257",
-            "filename": "Gamston_VOR-DME_GB",
-            "ident": "GAM",
-            "name": "Gamston",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "53.28139877319336",
-            "longitude_deg": "-0.9472219944000244",
-            "elevation_ft": "121",
-            "iso_country": "GB",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.001",
-            "magnetic_variation_deg": "-2.531",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EGNE"
-        }
-    ]
+    }
 }

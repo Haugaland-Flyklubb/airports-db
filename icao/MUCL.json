@@ -85,51 +85,5 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Isla_de_la_Juventud",
         "keywords": "Airports in Isla de la Juventud (special municipality)"
-    },
-    "navaids": [
-        {
-            "id": "94808",
-            "filename": "Cayo_Largo_Del_Sur_VOR-DME_CU",
-            "ident": "UCL",
-            "name": "Cayo Largo Del Sur",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "21.604999542236328",
-            "longitude_deg": "-81.53279876708984",
-            "elevation_ft": "98",
-            "iso_country": "CU",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-3.518",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MUCL"
-        },
-        {
-            "id": "94809",
-            "filename": "Cayo_Largo_Del_Sur_NDB_CU",
-            "ident": "UCL",
-            "name": "Cayo Largo Del Sur",
-            "type": "NDB",
-            "frequency_khz": "230",
-            "latitude_deg": "21.60420036315918",
-            "longitude_deg": "-81.52909851074219",
-            "elevation_ft": "",
-            "iso_country": "CU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.52",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MUCL"
-        }
-    ]
+    }
 }

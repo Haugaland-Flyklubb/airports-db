@@ -77,29 +77,5 @@
         "iso_country": "SK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bratislava_Region",
         "keywords": "Bratislavský kraj"
-    },
-    "navaids": [
-        {
-            "id": "93212",
-            "filename": "Malacky_NDB_SK",
-            "ident": "RP",
-            "name": "Malacky",
-            "type": "NDB",
-            "frequency_khz": "477",
-            "latitude_deg": "48.47439956665039",
-            "longitude_deg": "17.15250015258789",
-            "elevation_ft": "",
-            "iso_country": "SK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.006",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "LZMC"
-        }
-    ]
+    }
 }

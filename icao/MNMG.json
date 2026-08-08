@@ -93,51 +93,5 @@
         "iso_country": "NI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Managua_Department",
         "keywords": "Airports in Managua"
-    },
-    "navaids": [
-        {
-            "id": "90911",
-            "filename": "Managua_VOR-DME_NI",
-            "ident": "MGA",
-            "name": "Managua",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "12.139699935913086",
-            "longitude_deg": "-86.17420196533203",
-            "elevation_ft": "194",
-            "iso_country": "NI",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.398",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MNMG"
-        },
-        {
-            "id": "95769",
-            "filename": "Managua_NDB_NI",
-            "ident": "YNP",
-            "name": "Managua",
-            "type": "NDB",
-            "frequency_khz": "290",
-            "latitude_deg": "12.142000198364258",
-            "longitude_deg": "-86.15889739990234",
-            "elevation_ft": "194",
-            "iso_country": "NI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.392",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MNMG"
-        }
-    ]
+    }
 }

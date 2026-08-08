@@ -69,29 +69,5 @@
         "iso_country": "KH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Stung_Treng_province",
         "keywords": "Airports in Stueng Traeng, ស្ទឹងត្រែង"
-    },
-    "navaids": [
-        {
-            "id": "93959",
-            "filename": "Stung_Treng_NDB_KH",
-            "ident": "ST",
-            "name": "Stung Treng",
-            "type": "NDB",
-            "frequency_khz": "444",
-            "latitude_deg": "13.524999618530273",
-            "longitude_deg": "106.01499938964844",
-            "elevation_ft": "",
-            "iso_country": "KH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.286",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VDST"
-        }
-    ]
+    }
 }

@@ -161,29 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
         "keywords": "Airports in Maine"
-    },
-    "navaids": [
-        {
-            "id": "91559",
-            "filename": "Brunswick_TACAN_US",
-            "ident": "NHZ",
-            "name": "Brunswick",
-            "type": "TACAN",
-            "frequency_khz": "115200",
-            "latitude_deg": "43.87350082397461",
-            "longitude_deg": "-69.9218978881836",
-            "elevation_ft": "181",
-            "iso_country": "US",
-            "dme_frequency_khz": "115200",
-            "dme_channel": "099X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-17.004",
-            "magnetic_variation_deg": "-16.284",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "KBXM"
-        }
-    ]
+    }
 }

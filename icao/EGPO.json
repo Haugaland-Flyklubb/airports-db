@@ -115,51 +115,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    },
-    "navaids": [
-        {
-            "id": "93404",
-            "filename": "Stornoway_NDB-DME_GB",
-            "ident": "SAY",
-            "name": "Stornoway",
-            "type": "NDB-DME",
-            "frequency_khz": "431",
-            "latitude_deg": "58.21549987792969",
-            "longitude_deg": "-6.329080104827881",
-            "elevation_ft": "24",
-            "iso_country": "GB",
-            "dme_frequency_khz": "110900",
-            "dme_channel": "046X",
-            "dme_latitude_deg": "58.2152",
-            "dme_longitude_deg": "-6.3291",
-            "dme_elevation_ft": "24",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.229",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "EGPO"
-        },
-        {
-            "id": "94004",
-            "filename": "Stornoway_VOR-DME_GB",
-            "ident": "STN",
-            "name": "Stornoway",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "58.20690155029297",
-            "longitude_deg": "-6.183060169219971",
-            "elevation_ft": "250",
-            "iso_country": "GB",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.01",
-            "magnetic_variation_deg": "-6.186",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EGPO"
-        }
-    ]
+    }
 }

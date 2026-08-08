@@ -85,29 +85,5 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zamboanga_City",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "95969",
-            "filename": "Zamboanga_VOR-DME_PH",
-            "ident": "ZAM",
-            "name": "Zamboanga",
-            "type": "VOR-DME",
-            "frequency_khz": "113900",
-            "latitude_deg": "6.924689769744873",
-            "longitude_deg": "122.05500030517578",
-            "elevation_ft": "51",
-            "iso_country": "PH",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.074",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RPMZ"
-        }
-    ]
+    }
 }

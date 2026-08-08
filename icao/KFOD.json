@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
         "keywords": "Airports in Iowa"
-    },
-    "navaids": [
-        {
-            "id": "88091",
-            "filename": "Barro_NDB_US",
-            "ident": "FO",
-            "name": "Barro",
-            "type": "NDB",
-            "frequency_khz": "341",
-            "latitude_deg": "42.51449966430664",
-            "longitude_deg": "-94.30560302734375",
-            "elevation_ft": "1149",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.261",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KFOD"
-        },
-        {
-            "id": "88095",
-            "filename": "Fort_Dodge_VORTAC_US",
-            "ident": "FOD",
-            "name": "Fort Dodge",
-            "type": "VORTAC",
-            "frequency_khz": "113500",
-            "latitude_deg": "42.61119842529297",
-            "longitude_deg": "-94.2947998046875",
-            "elevation_ft": "1150",
-            "iso_country": "US",
-            "dme_frequency_khz": "113500",
-            "dme_channel": "082X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.001",
-            "magnetic_variation_deg": "2.251",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KFOD"
-        }
-    ]
+    }
 }

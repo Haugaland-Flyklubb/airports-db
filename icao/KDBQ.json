@@ -139,51 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
         "keywords": "Airports in Iowa"
-    },
-    "navaids": [
-        {
-            "id": "87285",
-            "filename": "Zilom_NDB_US",
-            "ident": "DB",
-            "name": "Zilom",
-            "type": "NDB",
-            "frequency_khz": "341",
-            "latitude_deg": "42.323001861572266",
-            "longitude_deg": "-90.5988998413086",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.388",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KDBQ"
-        },
-        {
-            "id": "87292",
-            "filename": "Dubuque_VORTAC_US",
-            "ident": "DBQ",
-            "name": "Dubuque",
-            "type": "VORTAC",
-            "frequency_khz": "115800",
-            "latitude_deg": "42.4015007019043",
-            "longitude_deg": "-90.70909881591797",
-            "elevation_ft": "1051",
-            "iso_country": "US",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.001",
-            "magnetic_variation_deg": "-0.339",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KDBQ"
-        }
-    ]
+    }
 }

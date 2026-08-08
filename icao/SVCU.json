@@ -85,29 +85,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sucre_(state)",
         "keywords": "Airports in Sucre State"
-    },
-    "navaids": [
-        {
-            "id": "87114",
-            "filename": "Cumana_VOR-DME_VE",
-            "ident": "CUM",
-            "name": "Cumana",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "10.44729995727539",
-            "longitude_deg": "-64.13809967041016",
-            "elevation_ft": "14",
-            "iso_country": "VE",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10.007",
-            "magnetic_variation_deg": "-12.48",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVCU"
-        }
-    ]
+    }
 }

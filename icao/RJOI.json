@@ -163,29 +163,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yamaguchi",
         "keywords": "Chugoku"
-    },
-    "navaids": [
-        {
-            "id": "91516",
-            "filename": "Iwakuni_TACAN_JP",
-            "ident": "NEU",
-            "name": "Iwakuni",
-            "type": "TACAN",
-            "frequency_khz": "109800",
-            "latitude_deg": "34.14080047607422",
-            "longitude_deg": "132.23199462890625",
-            "elevation_ft": "51",
-            "iso_country": "JP",
-            "dme_frequency_khz": "109800",
-            "dme_channel": "035X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.007",
-            "magnetic_variation_deg": "-6.582",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJOI"
-        }
-    ]
+    }
 }

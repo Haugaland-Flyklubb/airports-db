@@ -155,51 +155,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
         "keywords": "Airports in Kentucky"
-    },
-    "navaids": [
-        {
-            "id": "88023",
-            "filename": "Airbe_NDB_US",
-            "ident": "FK",
-            "name": "Airbe",
-            "type": "NDB",
-            "frequency_khz": "273",
-            "latitude_deg": "36.73699951171875",
-            "longitude_deg": "-87.41380310058594",
-            "elevation_ft": "593",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.19",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KHOP"
-        },
-        {
-            "id": "89078",
-            "filename": "Screaming_Eagle_TACAN_US",
-            "ident": "HXW",
-            "name": "Screaming Eagle",
-            "type": "TACAN",
-            "frequency_khz": "114900",
-            "latitude_deg": "36.67639923095703",
-            "longitude_deg": "-87.49189758300781",
-            "elevation_ft": "572",
-            "iso_country": "US",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.01",
-            "magnetic_variation_deg": "-2.147",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KHOP"
-        }
-    ]
+    }
 }

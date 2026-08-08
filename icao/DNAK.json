@@ -69,29 +69,5 @@
         "iso_country": "NG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ondo_State",
         "keywords": "Airports in Ondo"
-    },
-    "navaids": [
-        {
-            "id": "85358",
-            "filename": "Akure_NDB_NG",
-            "ident": "AK",
-            "name": "Akure",
-            "type": "NDB",
-            "frequency_khz": "276",
-            "latitude_deg": "7.226719856262207",
-            "longitude_deg": "5.293220043182373",
-            "elevation_ft": "",
-            "iso_country": "NG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.517",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "DNAK"
-        }
-    ]
+    }
 }

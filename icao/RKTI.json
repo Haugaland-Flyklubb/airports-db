@@ -123,29 +123,5 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Chungcheong_Province",
         "keywords": "Airports in Chungcheongbuk-do"
-    },
-    "navaids": [
-        {
-            "id": "89588",
-            "filename": "Jungwon_TACAN_KR",
-            "ident": "JWN",
-            "name": "Jungwon",
-            "type": "TACAN",
-            "frequency_khz": "111300",
-            "latitude_deg": "37.03310012817383",
-            "longitude_deg": "127.89199829101562",
-            "elevation_ft": "281",
-            "iso_country": "KR",
-            "dme_frequency_khz": "111300",
-            "dme_channel": "050X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.011",
-            "magnetic_variation_deg": "-7.438",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "RKTI"
-        }
-    ]
+    }
 }

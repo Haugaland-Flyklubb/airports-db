@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "94542",
-            "filename": "Temple_VOR-DME_US",
-            "ident": "TPL",
-            "name": "Temple",
-            "type": "VOR-DME",
-            "frequency_khz": "110400",
-            "latitude_deg": "31.209299087524414",
-            "longitude_deg": "-97.42500305175781",
-            "elevation_ft": "710",
-            "iso_country": "US",
-            "dme_frequency_khz": "110400",
-            "dme_channel": "041X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.008",
-            "magnetic_variation_deg": "5.03",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "TS92"
-        }
-    ]
+    }
 }

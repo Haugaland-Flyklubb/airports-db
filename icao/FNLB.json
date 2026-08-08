@@ -69,29 +69,5 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Benguela_ Province",
         "keywords": "Airports in Benguela Province"
-    },
-    "navaids": [
-        {
-            "id": "90189",
-            "filename": "Lobito_NDB_AO",
-            "ident": "LB",
-            "name": "Lobito",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "-12.366700172424316",
-            "longitude_deg": "13.533300399780273",
-            "elevation_ft": "10",
-            "iso_country": "AO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.118",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FNLB"
-        }
-    ]
+    }
 }

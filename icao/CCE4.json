@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    },
-    "navaids": [
-        {
-            "id": "85054",
-            "filename": "Black_Tickle_NDB_CA",
-            "ident": "1E",
-            "name": "Black Tickle",
-            "type": "NDB",
-            "frequency_khz": "349",
-            "latitude_deg": "53.46670150756836",
-            "longitude_deg": "-55.78739929199219",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-23.398",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CCE4"
-        }
-    ]
+    }
 }

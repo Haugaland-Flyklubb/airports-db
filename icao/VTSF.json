@@ -77,51 +77,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhon_Si_Thammarat_province",
         "keywords": "Airports in Nakhon Si Thammarat Province"
-    },
-    "navaids": [
-        {
-            "id": "91597",
-            "filename": "Nakhon_Si_Thammarat_NDB_TH",
-            "ident": "NK",
-            "name": "Nakhon Si Thammarat",
-            "type": "NDB",
-            "frequency_khz": "289",
-            "latitude_deg": "8.546689987182617",
-            "longitude_deg": "99.9406967163086",
-            "elevation_ft": "13",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.256",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VTSF"
-        },
-        {
-            "id": "91606",
-            "filename": "Nakhon_Si_Thammarat_VOR-DME_TH",
-            "ident": "NKS",
-            "name": "Nakhon Si Thammarat",
-            "type": "VOR-DME",
-            "frequency_khz": "117400",
-            "latitude_deg": "8.54164981842041",
-            "longitude_deg": "99.9468994140625",
-            "elevation_ft": "13",
-            "iso_country": "TH",
-            "dme_frequency_khz": "117400",
-            "dme_channel": "121X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.255",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTSF"
-        }
-    ]
+    }
 }

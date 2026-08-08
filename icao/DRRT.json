@@ -69,29 +69,5 @@
         "iso_country": "NE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tahoua_Region",
         "keywords": "Airports in Tahoua Region"
-    },
-    "navaids": [
-        {
-            "id": "94165",
-            "filename": "Tahoua_NDB_NE",
-            "ident": "TA",
-            "name": "Tahoua",
-            "type": "NDB",
-            "frequency_khz": "347",
-            "latitude_deg": "14.879500389099121",
-            "longitude_deg": "5.269899845123291",
-            "elevation_ft": "1325",
-            "iso_country": "NE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.271",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "DRRT"
-        }
-    ]
+    }
 }

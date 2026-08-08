@@ -85,51 +85,5 @@
         "iso_country": "KI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gilbert_Islands",
         "keywords": "Airports in Gilbert Islands"
-    },
-    "navaids": [
-        {
-            "id": "86236",
-            "filename": "Bonriki_NDB_KI",
-            "ident": "BO",
-            "name": "Bonriki",
-            "type": "NDB",
-            "frequency_khz": "390",
-            "latitude_deg": "1.3771699666976929",
-            "longitude_deg": "173.14300537109375",
-            "elevation_ft": "",
-            "iso_country": "KI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.187",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NGTA"
-        },
-        {
-            "id": "94709",
-            "filename": "Tarawa_DME_KI",
-            "ident": "TW",
-            "name": "Tarawa",
-            "type": "DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "1.3769999742507935",
-            "longitude_deg": "173.14300537109375",
-            "elevation_ft": "9",
-            "iso_country": "KI",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.187",
-            "usageType": "BOTH",
-            "power": "UNKNOWN",
-            "associated_airport": "NGTA"
-        }
-    ]
+    }
 }

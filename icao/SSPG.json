@@ -59,51 +59,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
         "keywords": "Airports in Paraná"
-    },
-    "navaids": [
-        {
-            "id": "91783",
-            "filename": "Domel_NDB_BR",
-            "ident": "NX",
-            "name": "Domel",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "-25.493799209594727",
-            "longitude_deg": "-48.328800201416016",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.294",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SSPG"
-        },
-        {
-            "id": "92569",
-            "filename": "Paranagua_NDB_BR",
-            "ident": "PNG",
-            "name": "Paranagua",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "-25.534700393676758",
-            "longitude_deg": "-48.530799865722656",
-            "elevation_ft": "16",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.216",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SSPG"
-        }
-    ]
+    }
 }

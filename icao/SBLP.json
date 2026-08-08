@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
         "keywords": "Airports in Bahia"
-    },
-    "navaids": [
-        {
-            "id": "90161",
-            "filename": "Lapa_VOR-DME_BR",
-            "ident": "LAP",
-            "name": "Lapa",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "-13.264599800109863",
-            "longitude_deg": "-43.408199310302734",
-            "elevation_ft": "1454",
-            "iso_country": "BR",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-21.007",
-            "magnetic_variation_deg": "-22.038",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBLP"
-        },
-        {
-            "id": "90163",
-            "filename": "Lapa_NDB_BR",
-            "ident": "LAP",
-            "name": "Lapa",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "-13.264900207519531",
-            "longitude_deg": "-43.41310119628906",
-            "elevation_ft": "1580",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.037",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBLP"
-        }
-    ]
+    }
 }

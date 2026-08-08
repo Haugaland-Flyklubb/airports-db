@@ -77,29 +77,5 @@
         "iso_country": "SS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Equatoria",
         "keywords": "Airports in Central Equatoria State"
-    },
-    "navaids": [
-        {
-            "id": "89572",
-            "filename": "Juba_VOR-DME_SS",
-            "ident": "JUB",
-            "name": "Juba",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "4.8886599540699995",
-            "longitude_deg": "31.5814990997",
-            "elevation_ft": "1513",
-            "iso_country": "SS",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.231",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HJJJ"
-        }
-    ]
+    }
 }

@@ -137,51 +137,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    },
-    "navaids": [
-        {
-            "id": "85865",
-            "filename": "Bahia_Blanca_VOR-DME_AR",
-            "ident": "BCA",
-            "name": "Bahia Blanca",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "-38.720001220703125",
-            "longitude_deg": "-62.15829849243164",
-            "elevation_ft": "246",
-            "iso_country": "AR",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-1.187",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SAZB"
-        },
-        {
-            "id": "87786",
-            "filename": "Comandante_Espora_NDB_AR",
-            "ident": "EPO",
-            "name": "Comandante Espora",
-            "type": "NDB",
-            "frequency_khz": "370",
-            "latitude_deg": "-38.7338981628418",
-            "longitude_deg": "-62.16279983520508",
-            "elevation_ft": "246",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.179",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SAZB"
-        }
-    ]
+    }
 }

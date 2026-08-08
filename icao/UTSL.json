@@ -93,29 +93,5 @@
         "iso_country": "UZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Qashqadaryo_Region",
         "keywords": "Airports in Qashqadaryo Region"
-    },
-    "navaids": [
-        {
-            "id": "94979",
-            "filename": "Karshi_TACAN_UZ",
-            "ident": "UTV",
-            "name": "Karshi",
-            "type": "TACAN",
-            "frequency_khz": "114400",
-            "latitude_deg": "38.82929992675781",
-            "longitude_deg": "65.91329956054688",
-            "elevation_ft": "1365",
-            "iso_country": "UZ",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.117",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "UTSL"
-        }
-    ]
+    }
 }

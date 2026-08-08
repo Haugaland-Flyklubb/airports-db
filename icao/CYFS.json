@@ -85,51 +85,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    },
-    "navaids": [
-        {
-            "id": "88153",
-            "filename": "Fort_Simpson_NDB_CA",
-            "ident": "FS",
-            "name": "Fort Simpson",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "61.78580093383789",
-            "longitude_deg": "-121.26100158691406",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "23.472",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYFS"
-        },
-        {
-            "id": "95669",
-            "filename": "Fort_Simpson_VOR-DME_CA",
-            "ident": "YFS",
-            "name": "Fort Simpson",
-            "type": "VOR-DME",
-            "frequency_khz": "117900",
-            "latitude_deg": "61.77389907836914",
-            "longitude_deg": "-121.29900360107422",
-            "elevation_ft": "574",
-            "iso_country": "CA",
-            "dme_frequency_khz": "117900",
-            "dme_channel": "126X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "25.001",
-            "magnetic_variation_deg": "23.474",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYFS"
-        }
-    ]
+    }
 }

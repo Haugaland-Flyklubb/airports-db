@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quer%C3%A9taro",
         "keywords": "Airports in Querétaro"
-    },
-    "navaids": [
-        {
-            "id": "92881",
-            "filename": "Queretaro_VOR-DME_MX",
-            "ident": "QET",
-            "name": "Queretaro",
-            "type": "VOR-DME",
-            "frequency_khz": "113000",
-            "latitude_deg": "20.61750030517578",
-            "longitude_deg": "-100.19400024414062",
-            "elevation_ft": "6296",
-            "iso_country": "MX",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.231",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMQT"
-        }
-    ]
+    }
 }

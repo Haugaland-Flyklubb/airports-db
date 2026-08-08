@@ -77,51 +77,5 @@
         "iso_country": "ML",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kayes_Region",
         "keywords": "Airports in Kayes Region"
-    },
-    "navaids": [
-        {
-            "id": "89669",
-            "filename": "Kayes_VOR-DME_ML",
-            "ident": "KAY",
-            "name": "Kayes",
-            "type": "VOR-DME",
-            "frequency_khz": "116700",
-            "latitude_deg": "14.479100227355957",
-            "longitude_deg": "-11.421799659729004",
-            "elevation_ft": "510",
-            "iso_country": "ML",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.214",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GAKY"
-        },
-        {
-            "id": "94752",
-            "filename": "Kayes_NDB_ML",
-            "ident": "TZJ",
-            "name": "Kayes",
-            "type": "NDB",
-            "frequency_khz": "343",
-            "latitude_deg": "14.431500434875488",
-            "longitude_deg": "-11.428400039672852",
-            "elevation_ft": "",
-            "iso_country": "ML",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.221",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "GAKY"
-        }
-    ]
+    }
 }

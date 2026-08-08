@@ -69,29 +69,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kalimantan_Selatan",
         "keywords": "Airports in Kalimantan Selatan"
-    },
-    "navaids": [
-        {
-            "id": "91790",
-            "filename": "Warukin_NDB_ID",
-            "ident": "NY",
-            "name": "Warukin",
-            "type": "NDB",
-            "frequency_khz": "255",
-            "latitude_deg": "-2.2262399196624756",
-            "longitude_deg": "115.46499633789062",
-            "elevation_ft": "197",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.155",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAON"
-        }
-    ]
+    }
 }

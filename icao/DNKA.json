@@ -69,51 +69,5 @@
         "iso_country": "NG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kaduna_State",
         "keywords": "Airports in Kaduna"
-    },
-    "navaids": [
-        {
-            "id": "89709",
-            "filename": "Kaduna_VOR_NG",
-            "ident": "KDA",
-            "name": "Kaduna",
-            "type": "VOR",
-            "frequency_khz": "115300",
-            "latitude_deg": "10.68019962310791",
-            "longitude_deg": "7.3014302253723145",
-            "elevation_ft": "2034",
-            "iso_country": "NG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.439",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DNKA"
-        },
-        {
-            "id": "91112",
-            "filename": "Minna_VOR-DME_NG",
-            "ident": "MNA",
-            "name": "Minna",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "9.643170356750488",
-            "longitude_deg": "6.449729919433594",
-            "elevation_ft": "834",
-            "iso_country": "NG",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.059",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DNKA"
-        }
-    ]
+    }
 }

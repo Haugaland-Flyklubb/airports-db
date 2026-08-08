@@ -99,29 +99,5 @@
         "iso_country": "LY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Surt_District",
         "keywords": "Airports in Surt District"
-    },
-    "navaids": [
-        {
-            "id": "93936",
-            "filename": "Sirte_NDB_LY",
-            "ident": "SRT",
-            "name": "Sirte",
-            "type": "NDB",
-            "frequency_khz": "407",
-            "latitude_deg": "31.193300247192383",
-            "longitude_deg": "16.600000381469727",
-            "elevation_ft": "",
-            "iso_country": "LY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.529",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HLGD"
-        }
-    ]
+    }
 }

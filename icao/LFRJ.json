@@ -85,29 +85,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
         "keywords": "Bretagne"
-    },
-    "navaids": [
-        {
-            "id": "90254",
-            "filename": "Landivisiau_TACAN_FR",
-            "ident": "LDV",
-            "name": "Landivisiau",
-            "type": "TACAN",
-            "frequency_khz": "115150",
-            "latitude_deg": "48.52830123901367",
-            "longitude_deg": "-4.156310081481934",
-            "elevation_ft": "364",
-            "iso_country": "FR",
-            "dme_frequency_khz": "115150",
-            "dme_channel": "098Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.007",
-            "magnetic_variation_deg": "-3.189",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFRJ"
-        }
-    ]
+    }
 }

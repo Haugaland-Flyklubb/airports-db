@@ -117,51 +117,5 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggi_Province",
         "keywords": "Airports in Gyeonggi-do"
-    },
-    "navaids": [
-        {
-            "id": "92770",
-            "filename": "Pyeongtaek_VOR-DME_KR",
-            "ident": "PTK",
-            "name": "Pyeongtaek",
-            "type": "VOR-DME",
-            "frequency_khz": "108200",
-            "latitude_deg": "36.96780014038086",
-            "longitude_deg": "127.02100372314453",
-            "elevation_ft": "47",
-            "iso_country": "KR",
-            "dme_frequency_khz": "108200",
-            "dme_channel": "019X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.011",
-            "magnetic_variation_deg": "-7.376",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "RKSG"
-        },
-        {
-            "id": "93036",
-            "filename": "Pyeongtaek_NDB_KR",
-            "ident": "RE",
-            "name": "Pyeongtaek",
-            "type": "NDB",
-            "frequency_khz": "381",
-            "latitude_deg": "36.96149826049805",
-            "longitude_deg": "127.02999877929688",
-            "elevation_ft": "38",
-            "iso_country": "KR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.375",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "RKSG"
-        }
-    ]
+    }
 }

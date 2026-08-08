@@ -77,51 +77,5 @@
         "iso_country": "SK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Košice_Region",
         "keywords": "Košický kraj"
-    },
-    "navaids": [
-        {
-            "id": "89714",
-            "filename": "Kosice_NDB_SK",
-            "ident": "KE",
-            "name": "Kosice",
-            "type": "NDB",
-            "frequency_khz": "425",
-            "latitude_deg": "48.58810043334961",
-            "longitude_deg": "21.215099334716797",
-            "elevation_ft": "",
-            "iso_country": "SK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.559",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LZKZ"
-        },
-        {
-            "id": "89999",
-            "filename": "Kosice_VOR-DME_SK",
-            "ident": "KSC",
-            "name": "Kosice",
-            "type": "VOR-DME",
-            "frequency_khz": "108200",
-            "latitude_deg": "48.683101654052734",
-            "longitude_deg": "21.248199462890625",
-            "elevation_ft": "787",
-            "iso_country": "SK",
-            "dme_frequency_khz": "108200",
-            "dme_channel": "019X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "3.569",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LZKZ"
-        }
-    ]
+    }
 }

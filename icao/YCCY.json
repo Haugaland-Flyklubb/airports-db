@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "86650",
-            "filename": "Cloncurry_NDB_AU",
-            "ident": "CCY",
-            "name": "Cloncurry",
-            "type": "NDB",
-            "frequency_khz": "264",
-            "latitude_deg": "-20.665599822998047",
-            "longitude_deg": "140.50100708007812",
-            "elevation_ft": "616",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.266",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YCCY"
-        }
-    ]
+    }
 }

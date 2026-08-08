@@ -69,51 +69,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hainan",
         "keywords": "Airports in Hainan Province"
-    },
-    "navaids": [
-        {
-            "id": "94135",
-            "filename": "Sanya_VOR-DME_CN",
-            "ident": "SYX",
-            "name": "Sanya",
-            "type": "VOR-DME",
-            "frequency_khz": "112500",
-            "latitude_deg": "18.306699752807617",
-            "longitude_deg": "109.1729965209961",
-            "elevation_ft": "1476",
-            "iso_country": "CN",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.083",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZJSY"
-        },
-        {
-            "id": "95445",
-            "filename": "Baolong_NDB_CN",
-            "ident": "WL",
-            "name": "Baolong",
-            "type": "NDB",
-            "frequency_khz": "426",
-            "latitude_deg": "18.488300323486328",
-            "longitude_deg": "109.40499877929688",
-            "elevation_ft": "",
-            "iso_country": "CN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.117",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZJSY"
-        }
-    ]
+    }
 }

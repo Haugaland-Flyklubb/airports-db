@@ -121,29 +121,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "94290",
-            "filename": "Temora_NDB_AU",
-            "ident": "TEM",
-            "name": "Temora",
-            "type": "NDB",
-            "frequency_khz": "209",
-            "latitude_deg": "-34.42499923706055",
-            "longitude_deg": "147.51800537109375",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.319",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YTEM"
-        }
-    ]
+    }
 }

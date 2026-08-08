@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "96112",
-            "filename": "Sandy_Lake_NDB_CA",
-            "ident": "ZSJ",
-            "name": "Sandy Lake",
-            "type": "NDB",
-            "frequency_khz": "258",
-            "latitude_deg": "53.06840133666992",
-            "longitude_deg": "-93.34459686279297",
-            "elevation_ft": "937",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.214",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CZSJ"
-        }
-    ]
+    }
 }

@@ -115,29 +115,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Waikato",
         "keywords": "Airports in Waikato Region"
-    },
-    "navaids": [
-        {
-            "id": "85536",
-            "filename": "Taupo_NDB-DME_NZ",
-            "ident": "AP",
-            "name": "Taupo",
-            "type": "NDB-DME",
-            "frequency_khz": "230",
-            "latitude_deg": "-38.74319839477539",
-            "longitude_deg": "176.07400512695312",
-            "elevation_ft": "1335",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "20.363",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NZAP"
-        }
-    ]
+    }
 }

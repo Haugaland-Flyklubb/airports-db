@@ -77,51 +77,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Valparaíso_Region",
         "keywords": "Airports in Valparaíso Region"
-    },
-    "navaids": [
-        {
-            "id": "93816",
-            "filename": "Santo_Domingo_VOR-DME_CL",
-            "ident": "SNO",
-            "name": "Santo Domingo",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "-33.66579818725586",
-            "longitude_deg": "-71.61940002441406",
-            "elevation_ft": "245",
-            "iso_country": "CL",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.005",
-            "magnetic_variation_deg": "4.267",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SCSN"
-        },
-        {
-            "id": "93817",
-            "filename": "Santo_Domingo_NDB_CL",
-            "ident": "SNO",
-            "name": "Santo Domingo",
-            "type": "NDB",
-            "frequency_khz": "355",
-            "latitude_deg": "-33.651100158691406",
-            "longitude_deg": "-71.61280059814453",
-            "elevation_ft": "245",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.259",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SCSN"
-        }
-    ]
+    }
 }

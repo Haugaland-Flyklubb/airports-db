@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
         "keywords": "Airports in South Dakota"
-    },
-    "navaids": [
-        {
-            "id": "95714",
-            "filename": "Cagur_NDB_US",
-            "ident": "YK",
-            "name": "Cagur",
-            "type": "NDB",
-            "frequency_khz": "347",
-            "latitude_deg": "42.84360122680664",
-            "longitude_deg": "-97.302001953125",
-            "elevation_ft": "1215",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.47",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KYKN"
-        },
-        {
-            "id": "95722",
-            "filename": "Yankton_VOR-DME_US",
-            "ident": "YKN",
-            "name": "Yankton",
-            "type": "VOR-DME",
-            "frequency_khz": "111400",
-            "latitude_deg": "42.918399810791016",
-            "longitude_deg": "-97.38500213623047",
-            "elevation_ft": "1301",
-            "iso_country": "US",
-            "dme_frequency_khz": "111400",
-            "dme_channel": "051X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.001",
-            "magnetic_variation_deg": "4.506",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KYKN"
-        }
-    ]
+    }
 }

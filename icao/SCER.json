@@ -91,51 +91,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Valparaíso_Region",
         "keywords": "Airports in Valparaíso Region"
-    },
-    "navaids": [
-        {
-            "id": "87814",
-            "filename": "Quintero_NDB_CL",
-            "ident": "ERO",
-            "name": "Quintero",
-            "type": "NDB",
-            "frequency_khz": "384",
-            "latitude_deg": "-32.73889923095703",
-            "longitude_deg": "-71.49669647216797",
-            "elevation_ft": "46",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.518",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SCER"
-        },
-        {
-            "id": "95305",
-            "filename": "Ventanas_VOR-DME_CL",
-            "ident": "VTN",
-            "name": "Ventanas",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "-32.73860168457031",
-            "longitude_deg": "-71.49610137939453",
-            "elevation_ft": "246",
-            "iso_country": "CL",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.007",
-            "magnetic_variation_deg": "3.517",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SCER"
-        }
-    ]
+    }
 }

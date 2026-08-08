@@ -123,29 +123,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "87175",
-            "filename": "Alibi_NDB_US",
-            "ident": "CX",
-            "name": "Alibi",
-            "type": "NDB",
-            "frequency_khz": "281",
-            "latitude_deg": "30.43199920654297",
-            "longitude_deg": "-95.4761962890625",
-            "elevation_ft": "370",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.558",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KCXO"
-        }
-    ]
+    }
 }

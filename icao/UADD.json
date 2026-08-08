@@ -77,51 +77,5 @@
         "iso_country": "KZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jambyl_Region",
         "keywords": "Жамбыл облысы"
-    },
-    "navaids": [
-        {
-            "id": "90758",
-            "filename": "Taraz_NDB_KZ",
-            "ident": "MB",
-            "name": "Taraz",
-            "type": "NDB",
-            "frequency_khz": "103",
-            "latitude_deg": "42.85329818725586",
-            "longitude_deg": "71.30329895019531",
-            "elevation_ft": "",
-            "iso_country": "KZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.177",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UADD"
-        },
-        {
-            "id": "95728",
-            "filename": "Taraz_NDB_KZ",
-            "ident": "YL",
-            "name": "Taraz",
-            "type": "NDB",
-            "frequency_khz": "103",
-            "latitude_deg": "42.85319900512695",
-            "longitude_deg": "71.30329895019531",
-            "elevation_ft": "",
-            "iso_country": "KZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.177",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UADD"
-        }
-    ]
+    }
 }

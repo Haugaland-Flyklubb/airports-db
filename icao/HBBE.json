@@ -59,29 +59,5 @@
         "iso_country": "BI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gitega_Province",
         "keywords": "Airports in Gitega Province"
-    },
-    "navaids": [
-        {
-            "id": "88403",
-            "filename": "Gitega_NDB_BI",
-            "ident": "GI",
-            "name": "Gitega",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "-3.4196200370788574",
-            "longitude_deg": "29.91469955444336",
-            "elevation_ft": "",
-            "iso_country": "BI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.118",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "HBBE"
-        }
-    ]
+    }
 }

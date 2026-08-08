@@ -85,51 +85,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Liaoning",
         "keywords": "Airports in Liaoning Province"
-    },
-    "navaids": [
-        {
-            "id": "87416",
-            "filename": "Dalian_VOR-DME_CN",
-            "ident": "DLC",
-            "name": "Dalian",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "38.959999084472656",
-            "longitude_deg": "121.51300048828125",
-            "elevation_ft": "141",
-            "iso_country": "CN",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.209",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZYTL"
-        },
-        {
-            "id": "87945",
-            "filename": "Fujiazhuang_NDB_CN",
-            "ident": "FC",
-            "name": "Fujiazhuang",
-            "type": "NDB",
-            "frequency_khz": "414",
-            "latitude_deg": "38.87329864501953",
-            "longitude_deg": "121.63700103759766",
-            "elevation_ft": "",
-            "iso_country": "CN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.21",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ZYTL"
-        }
-    ]
+    }
 }

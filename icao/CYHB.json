@@ -91,29 +91,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "85127",
-            "filename": "Hudson_Bay_NDB_CA",
-            "ident": "7D",
-            "name": "Hudson Bay",
-            "type": "NDB",
-            "frequency_khz": "337",
-            "latitude_deg": "52.847801208496094",
-            "longitude_deg": "-102.18699645996094",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.448",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYHB"
-        }
-    ]
+    }
 }

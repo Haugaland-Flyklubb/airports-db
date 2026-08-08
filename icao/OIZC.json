@@ -107,29 +107,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sistan_and_Baluchestan_Province",
         "keywords": "Airports in Sistan and Baluchestan Province"
-    },
-    "navaids": [
-        {
-            "id": "86621",
-            "filename": "Chah_Bahar_VORTAC_IR",
-            "ident": "CBH",
-            "name": "Chah Bahar",
-            "type": "VORTAC",
-            "frequency_khz": "116900",
-            "latitude_deg": "25.44540023803711",
-            "longitude_deg": "60.42129898071289",
-            "elevation_ft": "50",
-            "iso_country": "IR",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.001",
-            "magnetic_variation_deg": "1.01",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIZC"
-        }
-    ]
+    }
 }

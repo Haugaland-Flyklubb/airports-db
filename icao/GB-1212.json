@@ -109,29 +109,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "88084",
-            "filename": "Doncaster_NDB_GB",
-            "ident": "FNY",
-            "name": "Doncaster",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "53.47480010986328",
-            "longitude_deg": "-1.0017199516296387",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.564",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "GB-1212"
-        }
-    ]
+    }
 }

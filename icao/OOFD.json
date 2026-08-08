@@ -59,51 +59,5 @@
         "iso_country": "OM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Dhahirah_Governorate",
         "keywords": "Airports in Al Dhahirah Governorate"
-    },
-    "navaids": [
-        {
-            "id": "87992",
-            "filename": "Fahud_VOR-DME_OM",
-            "ident": "FHD",
-            "name": "Fahud",
-            "type": "VOR-DME",
-            "frequency_khz": "112500",
-            "latitude_deg": "22.34869956970215",
-            "longitude_deg": "56.48540115356445",
-            "elevation_ft": "578",
-            "iso_country": "OM",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.526",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OOFD"
-        },
-        {
-            "id": "87994",
-            "filename": "Fahud_NDB_OM",
-            "ident": "FHN",
-            "name": "Fahud",
-            "type": "NDB",
-            "frequency_khz": "267",
-            "latitude_deg": "22.345300674438477",
-            "longitude_deg": "56.48780059814453",
-            "elevation_ft": "",
-            "iso_country": "OM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.526",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OOFD"
-        }
-    ]
+    }
 }

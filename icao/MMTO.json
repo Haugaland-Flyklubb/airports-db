@@ -85,29 +85,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/State_of_Mexico",
         "keywords": "Airports in México (state)"
-    },
-    "navaids": [
-        {
-            "id": "94427",
-            "filename": "Toluca_VOR-DME_MX",
-            "ident": "TLC",
-            "name": "Toluca",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "19.352399826049805",
-            "longitude_deg": "-99.57160186767578",
-            "elevation_ft": "8466",
-            "iso_country": "MX",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.002",
-            "magnetic_variation_deg": "6.104",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMTO"
-        }
-    ]
+    }
 }

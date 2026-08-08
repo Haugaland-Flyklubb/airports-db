@@ -85,29 +85,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Catalonia",
         "keywords": "Airports in Catalonia"
-    },
-    "navaids": [
-        {
-            "id": "93501",
-            "filename": "Seo_De_Urgel_NDB_ES",
-            "ident": "SEO",
-            "name": "Seo De Urgel",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "42.232200622558594",
-            "longitude_deg": "1.4035199880599976",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.506",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LESU"
-        }
-    ]
+    }
 }

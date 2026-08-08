@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
         "keywords": "Airports in Mato Grosso"
-    },
-    "navaids": [
-        {
-            "id": "85660",
-            "filename": "Alta_Floresta_VOR-DME_BR",
-            "ident": "ATF",
-            "name": "Alta Floresta",
-            "type": "VOR-DME",
-            "frequency_khz": "113400",
-            "latitude_deg": "-9.868359565734863",
-            "longitude_deg": "-56.10490036010742",
-            "elevation_ft": "947",
-            "iso_country": "BR",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-14.007",
-            "magnetic_variation_deg": "-16.131",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBAT"
-        },
-        {
-            "id": "85661",
-            "filename": "Alta_Floresta_NDB_BR",
-            "ident": "ATF",
-            "name": "Alta Floresta",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "-9.870559692382812",
-            "longitude_deg": "-56.10150146484375",
-            "elevation_ft": "947",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.132",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBAT"
-        }
-    ]
+    }
 }

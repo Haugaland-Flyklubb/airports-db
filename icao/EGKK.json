@@ -131,51 +131,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "88329",
-            "filename": "Gatwick_NDB_GB",
-            "ident": "GE",
-            "name": "Gatwick",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "51.164398193359375",
-            "longitude_deg": "-0.06913299858570099",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.126",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGKK"
-        },
-        {
-            "id": "88664",
-            "filename": "Gatwick_NDB_GB",
-            "ident": "GY",
-            "name": "Gatwick",
-            "type": "NDB",
-            "frequency_khz": "365",
-            "latitude_deg": "51.130699157714844",
-            "longitude_deg": "-0.3159559965133667",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.177",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGKK"
-        }
-    ]
+    }
 }

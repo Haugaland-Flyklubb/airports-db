@@ -69,51 +69,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hesse",
         "keywords": "Hessen"
-    },
-    "navaids": [
-        {
-            "id": "86750",
-            "filename": "Charlie_VOR_DE",
-            "ident": "CHA",
-            "name": "Charlie",
-            "type": "VOR",
-            "frequency_khz": "115500",
-            "latitude_deg": "49.92110061645508",
-            "longitude_deg": "9.039810180664062",
-            "elevation_ft": "532",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.549",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "DE-0881"
-        },
-        {
-            "id": "88942",
-            "filename": "Hanau_NDB_DE",
-            "ident": "HNU",
-            "name": "Hanau",
-            "type": "NDB",
-            "frequency_khz": "432",
-            "latitude_deg": "50.162498474121094",
-            "longitude_deg": "9.154170036315918",
-            "elevation_ft": "397",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.564",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "DE-0881"
-        }
-    ]
+    }
 }

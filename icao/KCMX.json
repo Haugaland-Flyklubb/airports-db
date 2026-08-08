@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    },
-    "navaids": [
-        {
-            "id": "86867",
-            "filename": "Galey_NDB_US",
-            "ident": "CM",
-            "name": "Galey",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "47.115699768066406",
-            "longitude_deg": "-88.40119934082031",
-            "elevation_ft": "618",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.434",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KCMX"
-        },
-        {
-            "id": "86892",
-            "filename": "Houghton_VOR-DME_US",
-            "ident": "CMX",
-            "name": "Houghton",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "47.1702995300293",
-            "longitude_deg": "-88.48539733886719",
-            "elevation_ft": "1072",
-            "iso_country": "US",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.001",
-            "magnetic_variation_deg": "-3.395",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KCMX"
-        }
-    ]
+    }
 }

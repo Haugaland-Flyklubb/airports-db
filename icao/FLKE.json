@@ -59,29 +59,5 @@
         "iso_country": "ZM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Copperbelt_Province",
         "keywords": "Airports in Copperbelt Province"
-    },
-    "navaids": [
-        {
-            "id": "89719",
-            "filename": "Kasompe_NDB_ZM",
-            "ident": "KE",
-            "name": "Kasompe",
-            "type": "NDB",
-            "frequency_khz": "262",
-            "latitude_deg": "-12.568300247192383",
-            "longitude_deg": "27.88319969177246",
-            "elevation_ft": "",
-            "iso_country": "ZM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.565",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "FLKE"
-        }
-    ]
+    }
 }

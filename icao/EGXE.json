@@ -133,29 +133,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "90271",
-            "filename": "Leeming_TACAN_GB",
-            "ident": "LEE",
-            "name": "Leeming",
-            "type": "TACAN",
-            "frequency_khz": "112600",
-            "latitude_deg": "54.29710006713867",
-            "longitude_deg": "-1.536870002746582",
-            "elevation_ft": "92",
-            "iso_country": "GB",
-            "dme_frequency_khz": "112600",
-            "dme_channel": "073X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.185",
-            "usageType": "HI",
-            "power": "LOW",
-            "associated_airport": "EGXE"
-        }
-    ]
+    }
 }

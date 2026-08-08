@@ -355,51 +355,5 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Holland",
         "keywords": "Airports in Noord-Holland"
-    },
-    "navaids": [
-        {
-            "id": "93885",
-            "filename": "Schiphol_VOR-DME_NL",
-            "ident": "SPL",
-            "name": "Schiphol",
-            "type": "VOR-DME",
-            "frequency_khz": "108400",
-            "latitude_deg": "52.33209991455078",
-            "longitude_deg": "4.749879837036133",
-            "elevation_ft": "14",
-            "iso_country": "NL",
-            "dme_frequency_khz": "108400",
-            "dme_channel": "021X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.373",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "EHAM"
-        },
-        {
-            "id": "93896",
-            "filename": "Spijkerboor_VOR-DME_NL",
-            "ident": "SPY",
-            "name": "Spijkerboor",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "52.54029846191406",
-            "longitude_deg": "4.8537797927856445",
-            "elevation_ft": "26",
-            "iso_country": "NL",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.007",
-            "magnetic_variation_deg": "-0.364",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EHAM"
-        }
-    ]
+    }
 }

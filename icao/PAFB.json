@@ -141,29 +141,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "87118",
-            "filename": "Chena_NDB_US",
-            "ident": "CUN",
-            "name": "Chena",
-            "type": "NDB",
-            "frequency_khz": "257",
-            "latitude_deg": "64.8386001586914",
-            "longitude_deg": "-147.4949951171875",
-            "elevation_ft": "587",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "22.365",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PAFB"
-        }
-    ]
+    }
 }

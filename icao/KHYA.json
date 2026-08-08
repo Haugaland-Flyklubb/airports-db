@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
         "keywords": "Airports in Massachusetts"
-    },
-    "navaids": [
-        {
-            "id": "89082",
-            "filename": "Bogey_NDB_US",
-            "ident": "HY",
-            "name": "Bogey",
-            "type": "NDB",
-            "frequency_khz": "342",
-            "latitude_deg": "41.71590042114258",
-            "longitude_deg": "-70.20279693603516",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.337",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KHYA"
-        }
-    ]
+    }
 }

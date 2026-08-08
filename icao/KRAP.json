@@ -155,29 +155,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
         "keywords": "Airports in South Dakota"
-    },
-    "navaids": [
-        {
-            "id": "92955",
-            "filename": "Ranch_NDB_US",
-            "ident": "RA",
-            "name": "Ranch",
-            "type": "NDB",
-            "frequency_khz": "254",
-            "latitude_deg": "43.96480178833008",
-            "longitude_deg": "-102.9990005493164",
-            "elevation_ft": "2994",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.498",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KRAP"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "BA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Republika_Srpska",
         "keywords": "Airports in Republika Srpska"
-    },
-    "navaids": [
-        {
-            "id": "86154",
-            "filename": "Banja_Luka_NDB_BA",
-            "ident": "BLK",
-            "name": "Banja Luka",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "45.095298767089844",
-            "longitude_deg": "17.258100509643555",
-            "elevation_ft": "",
-            "iso_country": "BA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.494",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LQBK"
-        },
-        {
-            "id": "90153",
-            "filename": "Banja_Luka_VOR-DME_BA",
-            "ident": "LAK",
-            "name": "Banja Luka",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "44.94169998168945",
-            "longitude_deg": "17.295799255371094",
-            "elevation_ft": "400",
-            "iso_country": "BA",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.492",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LQBK"
-        }
-    ]
+    }
 }

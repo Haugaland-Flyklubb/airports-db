@@ -133,29 +133,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Hampshire",
         "keywords": "Airports in New Hampshire"
-    },
-    "navaids": [
-        {
-            "id": "92734",
-            "filename": "Pease_VORTAC_US",
-            "ident": "PSM",
-            "name": "Pease",
-            "type": "VORTAC",
-            "frequency_khz": "116500",
-            "latitude_deg": "43.08449935913086",
-            "longitude_deg": "-70.83200073242188",
-            "elevation_ft": "99",
-            "iso_country": "US",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-16.001",
-            "magnetic_variation_deg": "-15.448",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KPSM"
-        }
-    ]
+    }
 }

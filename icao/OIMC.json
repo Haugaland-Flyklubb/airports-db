@@ -59,29 +59,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Razavi_Khorasan_Province",
         "keywords": "Airports in Razavi Khorasan Province"
-    },
-    "navaids": [
-        {
-            "id": "93932",
-            "filename": "Sarakhs_NDB_IR",
-            "ident": "SRS",
-            "name": "Sarakhs",
-            "type": "NDB",
-            "frequency_khz": "334",
-            "latitude_deg": "36.495399475097656",
-            "longitude_deg": "61.074100494384766",
-            "elevation_ft": "945",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.429",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "OIMC"
-        }
-    ]
+    }
 }

@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
         "keywords": "Airports in Louisiana"
-    },
-    "navaids": [
-        {
-            "id": "87824",
-            "filename": "Andra_NDB_US",
-            "ident": "ES",
-            "name": "Andra",
-            "type": "NDB",
-            "frequency_khz": "223",
-            "latitude_deg": "31.392099380493164",
-            "longitude_deg": "-92.18199920654297",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.479",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KESF"
-        }
-    ]
+    }
 }

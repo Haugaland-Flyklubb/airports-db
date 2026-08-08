@@ -181,29 +181,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "88169",
-            "filename": "Fort_Stockton_VORTAC_US",
-            "ident": "FST",
-            "name": "Fort Stockton",
-            "type": "VORTAC",
-            "frequency_khz": "116900",
-            "latitude_deg": "30.95210075378418",
-            "longitude_deg": "-102.97599792480469",
-            "elevation_ft": "2890",
-            "iso_country": "US",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.012",
-            "magnetic_variation_deg": "7.52",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KFST"
-        }
-    ]
+    }
 }

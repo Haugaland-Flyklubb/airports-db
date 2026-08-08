@@ -99,51 +99,5 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Ostrobothnia",
         "keywords": "Airports in Central Ostrobothnia Region"
-    },
-    "navaids": [
-        {
-            "id": "87845",
-            "filename": "Esse_NDB_FI",
-            "ident": "ESS",
-            "name": "Esse",
-            "type": "NDB",
-            "frequency_khz": "398",
-            "latitude_deg": "63.63679885864258",
-            "longitude_deg": "23.108999252319336",
-            "elevation_ft": "",
-            "iso_country": "FI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.119",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EFKK"
-        },
-        {
-            "id": "89982",
-            "filename": "Kruunu_NDB_FI",
-            "ident": "KRU",
-            "name": "Kruunu",
-            "type": "NDB",
-            "frequency_khz": "388",
-            "latitude_deg": "63.79180145263672",
-            "longitude_deg": "23.173900604248047",
-            "elevation_ft": "",
-            "iso_country": "FI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.16",
-            "usageType": "RNAV",
-            "power": "LOW",
-            "associated_airport": "EFKK"
-        }
-    ]
+    }
 }

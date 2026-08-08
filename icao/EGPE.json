@@ -123,51 +123,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    },
-    "navaids": [
-        {
-            "id": "89278",
-            "filename": "Inverness_VOR-DME_GB",
-            "ident": "INS",
-            "name": "Inverness",
-            "type": "VOR-DME",
-            "frequency_khz": "109200",
-            "latitude_deg": "57.542598724365234",
-            "longitude_deg": "-4.041540145874023",
-            "elevation_ft": "58",
-            "iso_country": "GB",
-            "dme_frequency_khz": "109200",
-            "dme_channel": "029X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.001",
-            "magnetic_variation_deg": "-5.071",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "EGPE"
-        },
-        {
-            "id": "89383",
-            "filename": "Inverness_NDB_GB",
-            "ident": "IVR",
-            "name": "Inverness",
-            "type": "NDB",
-            "frequency_khz": "328",
-            "latitude_deg": "57.541500091552734",
-            "longitude_deg": "-4.0459699630737305",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.072",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "EGPE"
-        }
-    ]
+    }
 }

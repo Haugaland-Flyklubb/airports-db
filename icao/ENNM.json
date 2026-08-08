@@ -59,29 +59,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tr%C3%B8ndelag",
         "keywords": "Airports in Trøndelag"
-    },
-    "navaids": [
-        {
-            "id": "91636",
-            "filename": "Namsos_NDB_NO",
-            "ident": "NMS",
-            "name": "Namsos",
-            "type": "NDB",
-            "frequency_khz": "329",
-            "latitude_deg": "64.49500274658203",
-            "longitude_deg": "11.808699607849121",
-            "elevation_ft": "535",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.442",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ENNM"
-        }
-    ]
+    }
 }

@@ -129,29 +129,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "91940",
-            "filename": "Coney_NDB_US",
-            "ident": "OHY",
-            "name": "Coney",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "31.997800827026367",
-            "longitude_deg": "-83.86180114746094",
-            "elevation_ft": "340",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.11",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KCKF"
-        }
-    ]
+    }
 }

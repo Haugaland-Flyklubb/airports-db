@@ -69,51 +69,5 @@
         "iso_country": "KZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Karaganda_Region",
         "keywords": "Қарағанды облысы"
-    },
-    "navaids": [
-        {
-            "id": "85769",
-            "filename": "Balkhash_NDB_KZ",
-            "ident": "BA",
-            "name": "Balkhash",
-            "type": "NDB",
-            "frequency_khz": "456",
-            "latitude_deg": "46.86819839477539",
-            "longitude_deg": "74.95719909667969",
-            "elevation_ft": "",
-            "iso_country": "KZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.347",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UAAH"
-        },
-        {
-            "id": "86152",
-            "filename": "Balkhash_VOR-DME_KZ",
-            "ident": "BLH",
-            "name": "Balkhash",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "46.881099700927734",
-            "longitude_deg": "74.98139953613281",
-            "elevation_ft": "1326",
-            "iso_country": "KZ",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.007",
-            "magnetic_variation_deg": "6.341",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "UAAH"
-        }
-    ]
+    }
 }

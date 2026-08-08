@@ -69,51 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "92867",
-            "filename": "Grande_Cache_NDB_CA",
-            "ident": "Q5",
-            "name": "Grande Cache",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "53.91809844970703",
-            "longitude_deg": "-118.86799621582031",
-            "elevation_ft": "4117",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.077",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CA-1029"
-        },
-        {
-            "id": "92868",
-            "filename": "Grande_Cache_DME_CA",
-            "ident": "Q5",
-            "name": "Grande Cache",
-            "type": "DME",
-            "frequency_khz": "110800",
-            "latitude_deg": "53.91749954223633",
-            "longitude_deg": "-118.88099670410156",
-            "elevation_ft": "4145",
-            "iso_country": "CA",
-            "dme_frequency_khz": "110800",
-            "dme_channel": "045X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.079",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CA-1029"
-        }
-    ]
+    }
 }

@@ -107,51 +107,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cairo_Governorate",
         "keywords": "Airports in Cairo Governorate"
-    },
-    "navaids": [
-        {
-            "id": "85158",
-            "filename": "Almaza_NDB_EG",
-            "ident": "A",
-            "name": "Almaza",
-            "type": "NDB",
-            "frequency_khz": "490",
-            "latitude_deg": "30.073999404907227",
-            "longitude_deg": "31.359399795532227",
-            "elevation_ft": "",
-            "iso_country": "EG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.203",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "HEAZ"
-        },
-        {
-            "id": "91396",
-            "filename": "Almaza_TACAN_EG",
-            "ident": "MXR",
-            "name": "Almaza",
-            "type": "TACAN",
-            "frequency_khz": "116300",
-            "latitude_deg": "30.092199325561523",
-            "longitude_deg": "31.3572998046875",
-            "elevation_ft": "304",
-            "iso_country": "EG",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.204",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "HEAZ"
-        }
-    ]
+    }
 }

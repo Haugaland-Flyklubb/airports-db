@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "87233",
-            "filename": "Rocanville_NDB_CA",
-            "ident": "D4",
-            "name": "Rocanville",
-            "type": "NDB",
-            "frequency_khz": "304",
-            "latitude_deg": "50.46500015258789",
-            "longitude_deg": "-101.552001953125",
-            "elevation_ft": "1585",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.068",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CKH2"
-        }
-    ]
+    }
 }

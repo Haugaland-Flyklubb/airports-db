@@ -77,29 +77,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Rioja",
         "keywords": "Airports in La Rioja"
-    },
-    "navaids": [
-        {
-            "id": "87627",
-            "filename": "Logrono_NDB_ES",
-            "ident": "EAG",
-            "name": "Logrono",
-            "type": "NDB",
-            "frequency_khz": "399",
-            "latitude_deg": "42.45130157470703",
-            "longitude_deg": "-2.314739942550659",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.583",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LELO"
-        }
-    ]
+    }
 }

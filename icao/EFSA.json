@@ -77,29 +77,5 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Savo",
         "keywords": "Airports in Southern Savonia Region"
-    },
-    "navaids": [
-        {
-            "id": "94068",
-            "filename": "Linna_VOR-DME_FI",
-            "ident": "SVL",
-            "name": "Linna",
-            "type": "VOR-DME",
-            "frequency_khz": "117900",
-            "latitude_deg": "61.952701568603516",
-            "longitude_deg": "28.914100646972656",
-            "elevation_ft": "343",
-            "iso_country": "FI",
-            "dme_frequency_khz": "117900",
-            "dme_channel": "126X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.007",
-            "magnetic_variation_deg": "9.133",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "EFSA"
-        }
-    ]
+    }
 }

@@ -109,51 +109,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony",
         "keywords": "Sachsen"
-    },
-    "navaids": [
-        {
-            "id": "87455",
-            "filename": "Dresden_DME_DE",
-            "ident": "DND",
-            "name": "Dresden",
-            "type": "DME",
-            "frequency_khz": "115400",
-            "latitude_deg": "51.12950134277344",
-            "longitude_deg": "13.757599830627441",
-            "elevation_ft": "778",
-            "iso_country": "DE",
-            "dme_frequency_khz": "115400",
-            "dme_channel": "101X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.155",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDDC"
-        },
-        {
-            "id": "87526",
-            "filename": "Dresden_VOR-DME_DE",
-            "ident": "DRN",
-            "name": "Dresden",
-            "type": "VOR-DME",
-            "frequency_khz": "114350",
-            "latitude_deg": "51.015499114990234",
-            "longitude_deg": "13.598899841308594",
-            "elevation_ft": "1086",
-            "iso_country": "DE",
-            "dme_frequency_khz": "114350",
-            "dme_channel": "090Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.009",
-            "magnetic_variation_deg": "2.127",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "EDDC"
-        }
-    ]
+    }
 }

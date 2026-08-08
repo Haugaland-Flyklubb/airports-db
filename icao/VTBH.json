@@ -99,29 +99,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lopburi_province",
         "keywords": "Lop Buri"
-    },
-    "navaids": [
-        {
-            "id": "93886",
-            "filename": "Sa_Pran_Nak_VOR_TH",
-            "ident": "SPN",
-            "name": "Sa Pran Nak",
-            "type": "VOR",
-            "frequency_khz": "117300",
-            "latitude_deg": "14.950400352478027",
-            "longitude_deg": "100.64199829101562",
-            "elevation_ft": "95",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.368",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTBH"
-        }
-    ]
+    }
 }

@@ -109,51 +109,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "89130",
-            "filename": "Campbell_River_DME_CA",
-            "ident": "IBL",
-            "name": "Campbell River",
-            "type": "DME",
-            "frequency_khz": "109100",
-            "latitude_deg": "49.95249938964844",
-            "longitude_deg": "-125.2760009765625",
-            "elevation_ft": "347",
-            "iso_country": "CA",
-            "dme_frequency_khz": "109100",
-            "dme_channel": "028X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.012",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYBL"
-        },
-        {
-            "id": "95629",
-            "filename": "Campbell_River_NDB_CA",
-            "ident": "YBL",
-            "name": "Campbell River",
-            "type": "NDB",
-            "frequency_khz": "203",
-            "latitude_deg": "50.00640106201172",
-            "longitude_deg": "-125.35700225830078",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.031",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYBL"
-        }
-    ]
+    }
 }

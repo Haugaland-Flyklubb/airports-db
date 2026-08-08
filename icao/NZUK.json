@@ -77,29 +77,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canterbury,_New_Zealand",
         "keywords": "Airports in Canterbury Region"
-    },
-    "navaids": [
-        {
-            "id": "93304",
-            "filename": "Mount_Mary_VOR-DME_NZ",
-            "ident": "RY",
-            "name": "Mount Mary",
-            "type": "VOR-DME",
-            "frequency_khz": "112500",
-            "latitude_deg": "-44.135101318359375",
-            "longitude_deg": "170.281005859375",
-            "elevation_ft": "2496",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "23.007",
-            "magnetic_variation_deg": "23.254",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NZUK"
-        }
-    ]
+    }
 }

@@ -35,29 +35,5 @@
         "iso_country": "BJ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Atakora_Department",
         "keywords": "Airports in Atakora Department"
-    },
-    "navaids": [
-        {
-            "id": "94738",
-            "filename": "Natitingou_NDB_BJ",
-            "ident": "TYN",
-            "name": "Natitingou",
-            "type": "NDB",
-            "frequency_khz": "309",
-            "latitude_deg": "10.36240005493164",
-            "longitude_deg": "1.3498400449752808",
-            "elevation_ft": "",
-            "iso_country": "BJ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.074",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "DBBN"
-        }
-    ]
+    }
 }

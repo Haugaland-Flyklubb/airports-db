@@ -69,29 +69,5 @@
         "iso_country": "GT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Retalhuleu_Department",
         "keywords": "Airports in Retalhuleu Department"
-    },
-    "navaids": [
-        {
-            "id": "93048",
-            "filename": "Retalhuleu_NDB_GT",
-            "ident": "REU",
-            "name": "Retalhuleu",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "14.521699905395508",
-            "longitude_deg": "-91.69670104980469",
-            "elevation_ft": "656",
-            "iso_country": "GT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.117",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MGRT"
-        }
-    ]
+    }
 }

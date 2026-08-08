@@ -77,29 +77,5 @@
         "iso_country": "GN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lab%C3%A9_Region",
         "keywords": "Airports in Labé Region"
-    },
-    "navaids": [
-        {
-            "id": "90192",
-            "filename": "Labe_NDB_GN",
-            "ident": "LB",
-            "name": "Labe",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "11.32610034942627",
-            "longitude_deg": "-12.286800384521484",
-            "elevation_ft": "",
-            "iso_country": "GN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.248",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "GULB"
-        }
-    ]
+    }
 }

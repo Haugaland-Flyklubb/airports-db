@@ -69,29 +69,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Magallanes_Region",
         "keywords": "Airports in Magallanes Region"
-    },
-    "navaids": [
-        {
-            "id": "92837",
-            "filename": "Puerto_Williams_VOR-DME_CL",
-            "ident": "PWL",
-            "name": "Puerto Williams",
-            "type": "VOR-DME",
-            "frequency_khz": "114900",
-            "latitude_deg": "-54.92919921875",
-            "longitude_deg": "-67.62000274658203",
-            "elevation_ft": "88",
-            "iso_country": "CL",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.007",
-            "magnetic_variation_deg": "12.463",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SCGZ"
-        }
-    ]
+    }
 }

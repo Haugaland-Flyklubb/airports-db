@@ -69,51 +69,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Madhya_Pradesh",
         "keywords": "Airports in Madhya Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "89442",
-            "filename": "Jabalpur_NDB_IN",
-            "ident": "JB",
-            "name": "Jabalpur",
-            "type": "NDB",
-            "frequency_khz": "301",
-            "latitude_deg": "23.18589973449707",
-            "longitude_deg": "80.06060028076172",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.212",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VAJB"
-        },
-        {
-            "id": "89495",
-            "filename": "Jabalpur_VOR-DME_IN",
-            "ident": "JJB",
-            "name": "Jabalpur",
-            "type": "VOR-DME",
-            "frequency_khz": "113600",
-            "latitude_deg": "23.17919921875",
-            "longitude_deg": "80.06079864501953",
-            "elevation_ft": "1624",
-            "iso_country": "IN",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.212",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VAJB"
-        }
-    ]
+    }
 }

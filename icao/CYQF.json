@@ -139,51 +139,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85119",
-            "filename": "Red_Deer_DME_CA",
-            "ident": "6G",
-            "name": "Red Deer",
-            "type": "DME",
-            "frequency_khz": "111600",
-            "latitude_deg": "52.18119812011719",
-            "longitude_deg": "-113.88300323486328",
-            "elevation_ft": "2985",
-            "iso_country": "CA",
-            "dme_frequency_khz": "111600",
-            "dme_channel": "053X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.313",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYQF"
-        },
-        {
-            "id": "95803",
-            "filename": "Red_Deer_NDB_CA",
-            "ident": "YQF",
-            "name": "Red Deer",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "52.128299713134766",
-            "longitude_deg": "-113.89900207519531",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.309",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYQF"
-        }
-    ]
+    }
 }

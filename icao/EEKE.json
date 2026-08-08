@@ -91,51 +91,5 @@
         "iso_country": "EE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saare_County",
         "keywords": "Airports in Saare County"
-    },
-    "navaids": [
-        {
-            "id": "89975",
-            "filename": "Kuressaare_VOR-DME_EE",
-            "ident": "KRS",
-            "name": "Kuressaare",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "58.22829818725586",
-            "longitude_deg": "22.515399932861328",
-            "elevation_ft": "39",
-            "iso_country": "EE",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "5.459",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "EEKE"
-        },
-        {
-            "id": "95362",
-            "filename": "Kuressaare_NDB_EE",
-            "ident": "WA",
-            "name": "Kuressaare",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "58.27069854736328",
-            "longitude_deg": "22.508800506591797",
-            "elevation_ft": "",
-            "iso_country": "EE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.462",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "EEKE"
-        }
-    ]
+    }
 }

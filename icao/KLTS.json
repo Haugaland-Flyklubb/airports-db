@@ -199,29 +199,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
         "keywords": "Airports in Oklahoma"
-    },
-    "navaids": [
-        {
-            "id": "90573",
-            "filename": "Altus_VORTAC_US",
-            "ident": "LTS",
-            "name": "Altus",
-            "type": "VORTAC",
-            "frequency_khz": "109800",
-            "latitude_deg": "34.662899017333984",
-            "longitude_deg": "-99.27120208740234",
-            "elevation_ft": "1370",
-            "iso_country": "US",
-            "dme_frequency_khz": "109800",
-            "dme_channel": "035X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.004",
-            "magnetic_variation_deg": "6.08",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KLTS"
-        }
-    ]
+    }
 }

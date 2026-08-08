@@ -169,51 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
         "keywords": "Airports in Oregon"
-    },
-    "navaids": [
-        {
-            "id": "87857",
-            "filename": "Frakk_NDB_US",
-            "ident": "EU",
-            "name": "Frakk",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "44.212799072265625",
-            "longitude_deg": "-123.22000122070312",
-            "elevation_ft": "322",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.44",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KEUG"
-        },
-        {
-            "id": "87860",
-            "filename": "Eugene_VORTAC_US",
-            "ident": "EUG",
-            "name": "Eugene",
-            "type": "VORTAC",
-            "frequency_khz": "112900",
-            "latitude_deg": "44.12089920043945",
-            "longitude_deg": "-123.2229995727539",
-            "elevation_ft": "364",
-            "iso_country": "US",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "20.001",
-            "magnetic_variation_deg": "16.423",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KEUG"
-        }
-    ]
+    }
 }

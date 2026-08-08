@@ -77,29 +77,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/San_Luis_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "93917",
-            "filename": "Santa_Rosa_De_Conlara_VOR-DME_AR",
-            "ident": "SRC",
-            "name": "Santa Rosa De Conlara",
-            "type": "VOR-DME",
-            "frequency_khz": "117500",
-            "latitude_deg": "-32.373600006103516",
-            "longitude_deg": "-65.18329620361328",
-            "elevation_ft": "2021",
-            "iso_country": "AR",
-            "dme_frequency_khz": "117500",
-            "dme_channel": "122X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.029",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SAOS"
-        }
-    ]
+    }
 }

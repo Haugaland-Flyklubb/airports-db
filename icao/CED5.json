@@ -91,29 +91,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85088",
-            "filename": "Taber_NDB-DME_CA",
-            "ident": "3Z",
-            "name": "Taber",
-            "type": "NDB-DME",
-            "frequency_khz": "388",
-            "latitude_deg": "49.825801849365234",
-            "longitude_deg": "-112.1780014038086",
-            "elevation_ft": "2648",
-            "iso_country": "CA",
-            "dme_frequency_khz": "111000",
-            "dme_channel": "047X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "15.013",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CED5"
-        }
-    ]
+    }
 }

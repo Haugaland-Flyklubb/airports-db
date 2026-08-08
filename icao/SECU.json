@@ -85,51 +85,5 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Azuay_Province",
         "keywords": "Airports in Azuay Province"
-    },
-    "navaids": [
-        {
-            "id": "87120",
-            "filename": "Cuenca_NDB_EC",
-            "ident": "CUR",
-            "name": "Cuenca",
-            "type": "NDB",
-            "frequency_khz": "221",
-            "latitude_deg": "-2.862499952316284",
-            "longitude_deg": "-78.94860076904297",
-            "elevation_ft": "",
-            "iso_country": "EC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.503",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SECU"
-        },
-        {
-            "id": "87123",
-            "filename": "Cuenca_VOR-DME_EC",
-            "ident": "CUV",
-            "name": "Cuenca",
-            "type": "VOR-DME",
-            "frequency_khz": "114500",
-            "latitude_deg": "-2.8350000381469727",
-            "longitude_deg": "-78.91690063476562",
-            "elevation_ft": "8975",
-            "iso_country": "EC",
-            "dme_frequency_khz": "114500",
-            "dme_channel": "092X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "-0.52",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SECU"
-        }
-    ]
+    }
 }

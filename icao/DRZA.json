@@ -69,51 +69,5 @@
         "iso_country": "NE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Agadez_Region",
         "keywords": "Airports in Agadez Region"
-    },
-    "navaids": [
-        {
-            "id": "85607",
-            "filename": "Agades_VOR_NE",
-            "ident": "AS",
-            "name": "Agades",
-            "type": "VOR",
-            "frequency_khz": "113500",
-            "latitude_deg": "16.975000381469727",
-            "longitude_deg": "8.02322006225586",
-            "elevation_ft": "1673",
-            "iso_country": "NE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.394",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DRZA"
-        },
-        {
-            "id": "85615",
-            "filename": "Agades_NDB_NE",
-            "ident": "AS",
-            "name": "Agades",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "16.956300735473633",
-            "longitude_deg": "7.974830150604248",
-            "elevation_ft": "1716",
-            "iso_country": "NE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.401",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "DRZA"
-        }
-    ]
+    }
 }

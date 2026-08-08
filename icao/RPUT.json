@@ -69,29 +69,5 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cagayan_Province",
         "keywords": "Airports in Cagayan Province"
-    },
-    "navaids": [
-        {
-            "id": "94669",
-            "filename": "Tuguegarao_VOR-DME_PH",
-            "ident": "TUG",
-            "name": "Tuguegarao",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "17.63330078125",
-            "longitude_deg": "121.73600006103516",
-            "elevation_ft": "8",
-            "iso_country": "PH",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-1.599",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RPUT"
-        }
-    ]
+    }
 }

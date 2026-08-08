@@ -93,51 +93,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    },
-    "navaids": [
-        {
-            "id": "95431",
-            "filename": "Wabush_NDB_CA",
-            "ident": "WK",
-            "name": "Wabush",
-            "type": "NDB",
-            "frequency_khz": "218",
-            "latitude_deg": "52.86180114746094",
-            "longitude_deg": "-66.83489990234375",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.144",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYWK"
-        },
-        {
-            "id": "95892",
-            "filename": "Wabush_VOR-DME_CA",
-            "ident": "YWK",
-            "name": "Wabush",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "52.96009826660156",
-            "longitude_deg": "-66.85350036621094",
-            "elevation_ft": "2267",
-            "iso_country": "CA",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-26.001",
-            "magnetic_variation_deg": "-22.178",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYWK"
-        }
-    ]
+    }
 }

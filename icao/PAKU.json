@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "92854",
-            "filename": "Pitsand_NDB_US",
-            "ident": "PYC",
-            "name": "Pitsand",
-            "type": "NDB",
-            "frequency_khz": "290",
-            "latitude_deg": "70.3280029296875",
-            "longitude_deg": "-149.63499450683594",
-            "elevation_ft": "67",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "24.002",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "PAKU"
-        }
-    ]
+    }
 }

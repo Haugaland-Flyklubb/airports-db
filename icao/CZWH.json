@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "85102",
-            "filename": "Lac_Brochet_NDB_CA",
-            "ident": "4V",
-            "name": "Lac Brochet",
-            "type": "NDB",
-            "frequency_khz": "371",
-            "latitude_deg": "58.61830139160156",
-            "longitude_deg": "-101.47000122070312",
-            "elevation_ft": "1257",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.594",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CZWH"
-        }
-    ]
+    }
 }

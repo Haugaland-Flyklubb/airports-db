@@ -35,29 +35,5 @@
         "iso_country": "BW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_District_(Botswana)",
         "keywords": "Bamangwato, BagammaNgwato"
-    },
-    "navaids": [
-        {
-            "id": "92068",
-            "filename": "Orapa_NDB_BW",
-            "ident": "OR",
-            "name": "Orapa",
-            "type": "NDB",
-            "frequency_khz": "295",
-            "latitude_deg": "-21.268600463867188",
-            "longitude_deg": "25.301300048828125",
-            "elevation_ft": "3100",
-            "iso_country": "BW",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.138",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FBOR"
-        }
-    ]
+    }
 }

@@ -93,51 +93,5 @@
         "iso_country": "LK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Province,_Sri_Lanka",
         "keywords": "Basnahira Palata"
-    },
-    "navaids": [
-        {
-            "id": "86916",
-            "filename": "Bandaranaike_NDB_LK",
-            "ident": "CNL",
-            "name": "Bandaranaike",
-            "type": "NDB",
-            "frequency_khz": "315",
-            "latitude_deg": "7.268589973449707",
-            "longitude_deg": "79.95089721679688",
-            "elevation_ft": "",
-            "iso_country": "LK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.406",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "VCBI"
-        },
-        {
-            "id": "89662",
-            "filename": "Bandaranaike_VOR-DME_LK",
-            "ident": "KAT",
-            "name": "Bandaranaike",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "7.1612701416015625",
-            "longitude_deg": "79.86849975585938",
-            "elevation_ft": "29",
-            "iso_country": "LK",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-2.42",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VCBI"
-        }
-    ]
+    }
 }

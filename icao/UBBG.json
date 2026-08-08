@@ -85,51 +85,5 @@
         "iso_country": "AZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ganja,_Azerbaijan",
         "keywords": "Elisabethpol, Gyandzha"
-    },
-    "navaids": [
-        {
-            "id": "89853",
-            "filename": "Gyandzha_NDB_AZ",
-            "ident": "KM",
-            "name": "Gyandzha",
-            "type": "NDB",
-            "frequency_khz": "486",
-            "latitude_deg": "40.698299407958984",
-            "longitude_deg": "46.380001068115234",
-            "elevation_ft": "",
-            "iso_country": "AZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.292",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UBBG"
-        },
-        {
-            "id": "96140",
-            "filename": "Gyandzha_NDB_AZ",
-            "ident": "ZW",
-            "name": "Gyandzha",
-            "type": "NDB",
-            "frequency_khz": "486",
-            "latitude_deg": "40.766700744628906",
-            "longitude_deg": "46.26900100708008",
-            "elevation_ft": "",
-            "iso_country": "AZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.302",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UBBG"
-        }
-    ]
+    }
 }

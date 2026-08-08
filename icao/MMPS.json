@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oaxaca",
         "keywords": "Airports in Oaxaca"
-    },
-    "navaids": [
-        {
-            "id": "92841",
-            "filename": "Escondido_VOR-DME_MX",
-            "ident": "PXM",
-            "name": "Escondido",
-            "type": "VOR-DME",
-            "frequency_khz": "112500",
-            "latitude_deg": "15.875100135803223",
-            "longitude_deg": "-97.08170318603516",
-            "elevation_ft": "294",
-            "iso_country": "MX",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.009",
-            "magnetic_variation_deg": "5.238",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMPS"
-        }
-    ]
+    }
 }

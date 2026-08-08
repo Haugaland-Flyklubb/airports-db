@@ -139,51 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
         "keywords": "Airports in Illinois"
-    },
-    "navaids": [
-        {
-            "id": "93054",
-            "filename": "Gilmy_NDB_US",
-            "ident": "RF",
-            "name": "Gilmy",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "42.114498138427734",
-            "longitude_deg": "-89.09860229492188",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.539",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KRFD"
-        },
-        {
-            "id": "93055",
-            "filename": "Rockford_VOR-DME_US",
-            "ident": "RFD",
-            "name": "Rockford",
-            "type": "VOR-DME",
-            "frequency_khz": "110800",
-            "latitude_deg": "42.22560119628906",
-            "longitude_deg": "-89.19930267333984",
-            "elevation_ft": "860",
-            "iso_country": "US",
-            "dme_frequency_khz": "110800",
-            "dme_channel": "045X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.001",
-            "magnetic_variation_deg": "-1.499",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KRFD"
-        }
-    ]
+    }
 }

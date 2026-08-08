@@ -107,51 +107,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    },
-    "navaids": [
-        {
-            "id": "89025",
-            "filename": "Horton_NDB_US",
-            "ident": "HTN",
-            "name": "Horton",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "46.41210174560547",
-            "longitude_deg": "-105.93800354003906",
-            "elevation_ft": "2645",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.554",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KMLS"
-        },
-        {
-            "id": "91072",
-            "filename": "Miles_City_VORTAC_US",
-            "ident": "MLS",
-            "name": "Miles City",
-            "type": "VORTAC",
-            "frequency_khz": "112100",
-            "latitude_deg": "46.382198333740234",
-            "longitude_deg": "-105.9540023803711",
-            "elevation_ft": "2640",
-            "iso_country": "US",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "15.001",
-            "magnetic_variation_deg": "10.558",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KMLS"
-        }
-    ]
+    }
 }

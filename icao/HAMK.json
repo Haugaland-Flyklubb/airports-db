@@ -77,51 +77,5 @@
         "iso_country": "ET",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tigray_Region",
         "keywords": "Airports in Tigray Region"
-    },
-    "navaids": [
-        {
-            "id": "91002",
-            "filename": "Mekele_NDB_ET",
-            "ident": "MK",
-            "name": "Mekele",
-            "type": "NDB",
-            "frequency_khz": "256",
-            "latitude_deg": "13.475099563598633",
-            "longitude_deg": "39.52170181274414",
-            "elevation_ft": "",
-            "iso_country": "ET",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.039",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HAMK"
-        },
-        {
-            "id": "92886",
-            "filename": "Mekele_VOR-DME_ET",
-            "ident": "QHA",
-            "name": "Mekele",
-            "type": "VOR-DME",
-            "frequency_khz": "116600",
-            "latitude_deg": "13.472800254821777",
-            "longitude_deg": "39.52470016479492",
-            "elevation_ft": "7396",
-            "iso_country": "ET",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.036",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HAMK"
-        }
-    ]
+    }
 }

@@ -107,51 +107,5 @@
         "iso_country": "KP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pyongyang",
         "keywords": "Airports in Pyongyang (capital city)"
-    },
-    "navaids": [
-        {
-            "id": "88425",
-            "filename": "Pyongyang_VOR-DME_KP",
-            "ident": "GK",
-            "name": "Pyongyang",
-            "type": "VOR-DME",
-            "frequency_khz": "111400",
-            "latitude_deg": "39.2338981628418",
-            "longitude_deg": "125.6729965209961",
-            "elevation_ft": "92",
-            "iso_country": "KP",
-            "dme_frequency_khz": "111400",
-            "dme_channel": "051X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.011",
-            "magnetic_variation_deg": "-8.091",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZKPY"
-        },
-        {
-            "id": "95433",
-            "filename": "Pyongyang_NDB_KP",
-            "ident": "WK",
-            "name": "Pyongyang",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "39.322200775146484",
-            "longitude_deg": "125.677001953125",
-            "elevation_ft": "",
-            "iso_country": "KP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.107",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ZKPY"
-        }
-    ]
+    }
 }

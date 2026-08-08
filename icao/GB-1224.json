@@ -189,29 +189,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "87088",
-            "filename": "Cottesmore_TACAN_GB",
-            "ident": "CTM",
-            "name": "Cottesmore",
-            "type": "TACAN",
-            "frequency_khz": "112300",
-            "latitude_deg": "52.73540115356445",
-            "longitude_deg": "-0.6507689952850342",
-            "elevation_ft": "452",
-            "iso_country": "GB",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.011",
-            "magnetic_variation_deg": "-2.405",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "GB-1224"
-        }
-    ]
+    }
 }

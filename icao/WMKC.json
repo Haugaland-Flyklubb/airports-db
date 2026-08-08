@@ -77,51 +77,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kelantan",
         "keywords": "Airports in Kelantan"
-    },
-    "navaids": [
-        {
-            "id": "89673",
-            "filename": "Kota_Bharu_NDB_MY",
-            "ident": "KB",
-            "name": "Kota Bharu",
-            "type": "NDB",
-            "frequency_khz": "240",
-            "latitude_deg": "6.175000190734863",
-            "longitude_deg": "102.25499725341797",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.073",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WMKC"
-        },
-        {
-            "id": "95164",
-            "filename": "Kota_Bharu_VOR-DME_MY",
-            "ident": "VKB",
-            "name": "Kota Bharu",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "6.1634202003479",
-            "longitude_deg": "102.31400299072266",
-            "elevation_ft": "16",
-            "iso_country": "MY",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.069",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "WMKC"
-        }
-    ]
+    }
 }

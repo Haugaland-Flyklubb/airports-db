@@ -85,29 +85,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California_Sur",
         "keywords": "Airports in Baja California Sur"
-    },
-    "navaids": [
-        {
-            "id": "93649",
-            "filename": "Cabos_VOR-DME_MX",
-            "ident": "SJD",
-            "name": "Cabos",
-            "type": "VOR-DME",
-            "frequency_khz": "114000",
-            "latitude_deg": "23.14620018005371",
-            "longitude_deg": "-109.72200012207031",
-            "elevation_ft": "374",
-            "iso_country": "MX",
-            "dme_frequency_khz": "114000",
-            "dme_channel": "087X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "10.001",
-            "magnetic_variation_deg": "9.231",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMSD"
-        }
-    ]
+    }
 }

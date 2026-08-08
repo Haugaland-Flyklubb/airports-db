@@ -155,29 +155,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
         "keywords": "Airports in Illinois"
-    },
-    "navaids": [
-        {
-            "id": "92431",
-            "filename": "Tungg_NDB_US",
-            "ident": "PI",
-            "name": "Tungg",
-            "type": "NDB",
-            "frequency_khz": "356",
-            "latitude_deg": "40.6057014465332",
-            "longitude_deg": "-89.59310150146484",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.124",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KPIA"
-        }
-    ]
+    }
 }

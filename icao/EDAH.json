@@ -129,29 +129,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern",
         "keywords": "Airports in Mecklenburg-Vorpommern"
-    },
-    "navaids": [
-        {
-            "id": "88746",
-            "filename": "Heringsdorf_NDB_DE",
-            "ident": "HC",
-            "name": "Heringsdorf",
-            "type": "NDB",
-            "frequency_khz": "330",
-            "latitude_deg": "53.87409973144531",
-            "longitude_deg": "14.182100296020508",
-            "elevation_ft": "93",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.278",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDAH"
-        }
-    ]
+    }
 }

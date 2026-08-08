@@ -155,29 +155,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rhineland-Palatinate",
         "keywords": "Rheinland-Pfalz"
-    },
-    "navaids": [
-        {
-            "id": "93147",
-            "filename": "Ramstein_TACAN_DE",
-            "ident": "RMS",
-            "name": "Ramstein",
-            "type": "TACAN",
-            "frequency_khz": "113400",
-            "latitude_deg": "49.43470001220703",
-            "longitude_deg": "7.5856499671936035",
-            "elevation_ft": "762",
-            "iso_country": "DE",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.305",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ETAR"
-        }
-    ]
+    }
 }

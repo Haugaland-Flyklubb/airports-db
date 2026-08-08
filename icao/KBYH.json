@@ -77,29 +77,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
         "keywords": "Airports in Arkansas"
-    },
-    "navaids": [
-        {
-            "id": "88508",
-            "filename": "Gosnell_VOR_US",
-            "ident": "GOJ",
-            "name": "Gosnell",
-            "type": "VOR",
-            "frequency_khz": "111800",
-            "latitude_deg": "35.95100021362305",
-            "longitude_deg": "-89.94110107421875",
-            "elevation_ft": "250",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.01",
-            "magnetic_variation_deg": "-0.154",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KBYH"
-        }
-    ]
+    }
 }

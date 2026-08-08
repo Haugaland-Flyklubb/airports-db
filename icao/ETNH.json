@@ -93,51 +93,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Schleswig-Holstein",
         "keywords": "Airports in Schleswig-Holstein"
-    },
-    "navaids": [
-        {
-            "id": "88924",
-            "filename": "Hohn_NDB_DE",
-            "ident": "HN",
-            "name": "Hohn",
-            "type": "NDB",
-            "frequency_khz": "344",
-            "latitude_deg": "54.32630157470703",
-            "longitude_deg": "9.670330047607422",
-            "elevation_ft": "105",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.574",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ETNH"
-        },
-        {
-            "id": "88941",
-            "filename": "Hohn_TACAN_DE",
-            "ident": "HNT",
-            "name": "Hohn",
-            "type": "TACAN",
-            "frequency_khz": "115300",
-            "latitude_deg": "54.31079864501953",
-            "longitude_deg": "9.53866958618164",
-            "elevation_ft": "78",
-            "iso_country": "DE",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.547",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ETNH"
-        }
-    ]
+    }
 }

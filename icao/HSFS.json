@@ -91,51 +91,5 @@
         "iso_country": "SD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Darfur",
         "keywords": "Airports in North Darfur State"
-    },
-    "navaids": [
-        {
-            "id": "88167",
-            "filename": "El_Fashir_VOR-DME_SD",
-            "ident": "FSR",
-            "name": "El Fashir",
-            "type": "VOR-DME",
-            "frequency_khz": "115000",
-            "latitude_deg": "13.61050033569336",
-            "longitude_deg": "25.329299926757812",
-            "elevation_ft": "2412",
-            "iso_country": "SD",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.395",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HSFS"
-        },
-        {
-            "id": "88168",
-            "filename": "El_Fashir_NDB_SD",
-            "ident": "FSR",
-            "name": "El Fashir",
-            "type": "NDB",
-            "frequency_khz": "394",
-            "latitude_deg": "13.624300003051758",
-            "longitude_deg": "25.326400756835938",
-            "elevation_ft": "",
-            "iso_country": "SD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.396",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HSFS"
-        }
-    ]
+    }
 }

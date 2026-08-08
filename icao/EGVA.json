@@ -125,29 +125,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "87973",
-            "filename": "Fairford_TACAN_GB",
-            "ident": "FFA",
-            "name": "Fairford",
-            "type": "TACAN",
-            "frequency_khz": "113400",
-            "latitude_deg": "51.68170166015625",
-            "longitude_deg": "-1.7976100444793701",
-            "elevation_ft": "299",
-            "iso_country": "GB",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.003",
-            "magnetic_variation_deg": "-2.566",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EGVA"
-        }
-    ]
+    }
 }

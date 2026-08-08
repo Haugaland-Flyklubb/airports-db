@@ -101,29 +101,5 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gangwon_Province,_South_Korea",
         "keywords": "Airports in Gangwon Teukbyeoljachi-do"
-    },
-    "navaids": [
-        {
-            "id": "95609",
-            "filename": "Yangyang_VOR-DME_KR",
-            "ident": "YAG",
-            "name": "Yangyang",
-            "type": "VOR-DME",
-            "frequency_khz": "110600",
-            "latitude_deg": "38.063201904296875",
-            "longitude_deg": "128.66099548339844",
-            "elevation_ft": "241",
-            "iso_country": "KR",
-            "dme_frequency_khz": "110600",
-            "dme_channel": "043X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.011",
-            "magnetic_variation_deg": "-8.07",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "RKNY"
-        }
-    ]
+    }
 }

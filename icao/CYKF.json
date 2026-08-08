@@ -147,51 +147,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "95896",
-            "filename": "Waterloo_DME_CA",
-            "ident": "YWT",
-            "name": "Waterloo",
-            "type": "DME",
-            "frequency_khz": "115000",
-            "latitude_deg": "43.458698272705",
-            "longitude_deg": "-80.379302978516",
-            "elevation_ft": "1068",
-            "iso_country": "CA",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.3",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYKF"
-        },
-        {
-            "id": "96046",
-            "filename": "Wellington_NDB_CA",
-            "ident": "ZKF",
-            "name": "Wellington",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "43.493099212646484",
-            "longitude_deg": "-80.28690338134766",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.446",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYKF"
-        }
-    ]
+    }
 }

@@ -121,29 +121,5 @@
         "iso_country": "PL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Silesian_Voivodeship",
         "keywords": "Dolnośląskie"
-    },
-    "navaids": [
-        {
-            "id": "90593",
-            "filename": "Lubin_NDB_PL",
-            "ident": "LUB",
-            "name": "Lubin",
-            "type": "NDB",
-            "frequency_khz": "351",
-            "latitude_deg": "51.41510009765625",
-            "longitude_deg": "16.21109962463379",
-            "elevation_ft": "",
-            "iso_country": "PL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.571",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "EPLU"
-        }
-    ]
+    }
 }

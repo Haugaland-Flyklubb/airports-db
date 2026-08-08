@@ -69,29 +69,5 @@
         "iso_country": "PA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Herrera_Province",
         "keywords": "Airports in Herrera Province"
-    },
-    "navaids": [
-        {
-            "id": "86758",
-            "filename": "Alonso_Valderrama_NDB_PA",
-            "ident": "CHE",
-            "name": "Alonso Valderrama",
-            "type": "NDB",
-            "frequency_khz": "440",
-            "latitude_deg": "7.983520030975342",
-            "longitude_deg": "-80.41000366210938",
-            "elevation_ft": "",
-            "iso_country": "PA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.02",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "MPCE"
-        }
-    ]
+    }
 }

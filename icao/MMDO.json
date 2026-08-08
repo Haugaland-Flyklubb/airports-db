@@ -77,29 +77,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Durango",
         "keywords": "Airports in Durango"
-    },
-    "navaids": [
-        {
-            "id": "87356",
-            "filename": "Durango_VOR-DME_MX",
-            "ident": "DGO",
-            "name": "Durango",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "24.13800048828125",
-            "longitude_deg": "-104.51599884033203",
-            "elevation_ft": "6104",
-            "iso_country": "MX",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.006",
-            "magnetic_variation_deg": "8.007",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMDO"
-        }
-    ]
+    }
 }

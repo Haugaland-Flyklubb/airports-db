@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "88777",
-            "filename": "Hope_NDB_CA",
-            "ident": "HE",
-            "name": "Hope",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "49.38639831542969",
-            "longitude_deg": "-121.42400360107422",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "18.063",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYHE"
-        }
-    ]
+    }
 }

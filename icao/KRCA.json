@@ -117,51 +117,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
         "keywords": "Airports in South Dakota"
-    },
-    "navaids": [
-        {
-            "id": "92967",
-            "filename": "Rapid_City_VORTAC_US",
-            "ident": "RAP",
-            "name": "Rapid City",
-            "type": "VORTAC",
-            "frequency_khz": "112300",
-            "latitude_deg": "43.97600173950195",
-            "longitude_deg": "-103.01200103759766",
-            "elevation_ft": "3160",
-            "iso_country": "US",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.001",
-            "magnetic_variation_deg": "8.503",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KRCA"
-        },
-        {
-            "id": "93004",
-            "filename": "Ellsworth_TACAN_US",
-            "ident": "RCA",
-            "name": "Ellsworth",
-            "type": "TACAN",
-            "frequency_khz": "108800",
-            "latitude_deg": "44.138999938964844",
-            "longitude_deg": "-103.10199737548828",
-            "elevation_ft": "3200",
-            "iso_country": "US",
-            "dme_frequency_khz": "108800",
-            "dme_channel": "025X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.001",
-            "magnetic_variation_deg": "8.545",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KRCA"
-        }
-    ]
+    }
 }

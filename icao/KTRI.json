@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
         "keywords": "Airports in Tennessee"
-    },
-    "navaids": [
-        {
-            "id": "86239",
-            "filename": "Booie_NDB_US",
-            "ident": "BO",
-            "name": "Booie",
-            "type": "NDB",
-            "frequency_khz": "221",
-            "latitude_deg": "36.39860153198242",
-            "longitude_deg": "-82.49620056152344",
-            "elevation_ft": "1600",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.047",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KTRI"
-        },
-        {
-            "id": "94572",
-            "filename": "Mocca_NDB_US",
-            "ident": "TR",
-            "name": "Mocca",
-            "type": "NDB",
-            "frequency_khz": "299",
-            "latitude_deg": "36.55540084838867",
-            "longitude_deg": "-82.31800079345703",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.15",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KTRI"
-        }
-    ]
+    }
 }

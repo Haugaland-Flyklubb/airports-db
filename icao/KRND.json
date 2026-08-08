@@ -171,51 +171,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "87364",
-            "filename": "Randolph_TACAN_US",
-            "ident": "DHK",
-            "name": "Randolph",
-            "type": "TACAN",
-            "frequency_khz": "109900",
-            "latitude_deg": "29.53689956665039",
-            "longitude_deg": "-98.2677993774414",
-            "elevation_ft": "773",
-            "iso_country": "US",
-            "dme_frequency_khz": "109900",
-            "dme_channel": "036X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.012",
-            "magnetic_variation_deg": "5.309",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KRND"
-        },
-        {
-            "id": "93160",
-            "filename": "Randolph_VORTAC_US",
-            "ident": "RND",
-            "name": "Randolph",
-            "type": "VORTAC",
-            "frequency_khz": "112300",
-            "latitude_deg": "29.51919937133789",
-            "longitude_deg": "-98.28520202636719",
-            "elevation_ft": "773",
-            "iso_country": "US",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.012",
-            "magnetic_variation_deg": "5.315",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KRND"
-        }
-    ]
+    }
 }

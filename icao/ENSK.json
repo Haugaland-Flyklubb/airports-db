@@ -59,29 +59,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nordland",
         "keywords": "Airports in Nordland"
-    },
-    "navaids": [
-        {
-            "id": "93686",
-            "filename": "Skagen_VOR-DME_NO",
-            "ident": "SKG",
-            "name": "Skagen",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "68.57839965820312",
-            "longitude_deg": "15.034899711608887",
-            "elevation_ft": "34",
-            "iso_country": "NO",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "3.461",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "ENSK"
-        }
-    ]
+    }
 }

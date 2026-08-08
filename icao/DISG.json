@@ -35,29 +35,5 @@
         "iso_country": "CI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Woroba_District",
         "keywords": "Airports in Woroba District"
-    },
-    "navaids": [
-        {
-            "id": "93550",
-            "filename": "Seguela_NDB_CI",
-            "ident": "SGA",
-            "name": "Seguela",
-            "type": "NDB",
-            "frequency_khz": "397",
-            "latitude_deg": "7.958099842071533",
-            "longitude_deg": "-6.646679878234863",
-            "elevation_ft": "",
-            "iso_country": "CI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.085",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "DISG"
-        }
-    ]
+    }
 }

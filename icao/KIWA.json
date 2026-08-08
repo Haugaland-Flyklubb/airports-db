@@ -161,29 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
         "keywords": "Airports in Arizona"
-    },
-    "navaids": [
-        {
-            "id": "89388",
-            "filename": "Willie_VORTAC_US",
-            "ident": "IWA",
-            "name": "Willie",
-            "type": "VORTAC",
-            "frequency_khz": "113300",
-            "latitude_deg": "33.303199768066406",
-            "longitude_deg": "-111.6510009765625",
-            "elevation_ft": "1370",
-            "iso_country": "US",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.001",
-            "magnetic_variation_deg": "11.206",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KIWA"
-        }
-    ]
+    }
 }

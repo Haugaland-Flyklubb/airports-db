@@ -69,29 +69,5 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Isabela_Province",
         "keywords": "Airports in Isabela Province"
-    },
-    "navaids": [
-        {
-            "id": "87125",
-            "filename": "Cauayan_VOR-DME_PH",
-            "ident": "CUY",
-            "name": "Cauayan",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "16.93160057067871",
-            "longitude_deg": "121.74800109863281",
-            "elevation_ft": "200",
-            "iso_country": "PH",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.011",
-            "magnetic_variation_deg": "-1.507",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RPUY"
-        }
-    ]
+    }
 }

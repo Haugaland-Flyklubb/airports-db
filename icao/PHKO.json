@@ -109,29 +109,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
         "keywords": "Airports in Hawaii"
-    },
-    "navaids": [
-        {
-            "id": "89117",
-            "filename": "Kona_VORTAC_US",
-            "ident": "KOA",
-            "name": "Kona",
-            "type": "VORTAC",
-            "frequency_khz": "112100",
-            "latitude_deg": "19.717238888900003",
-            "longitude_deg": "-156.044920278",
-            "elevation_ft": "36",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PHKO"
-        }
-    ]
+    }
 }

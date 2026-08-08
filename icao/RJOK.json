@@ -93,51 +93,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kochi",
         "keywords": "Shikoku"
-    },
-    "navaids": [
-        {
-            "id": "89948",
-            "filename": "Kochi_NDB_JP",
-            "ident": "KR",
-            "name": "Kochi",
-            "type": "NDB",
-            "frequency_khz": "399",
-            "latitude_deg": "33.54610061645508",
-            "longitude_deg": "133.67799377441406",
-            "elevation_ft": "31",
-            "iso_country": "JP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.443",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "RJOK"
-        },
-        {
-            "id": "89962",
-            "filename": "Kochi_VOR-DME_JP",
-            "ident": "KRE",
-            "name": "Kochi",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "33.54180145263672",
-            "longitude_deg": "133.67999267578125",
-            "elevation_ft": "54",
-            "iso_country": "JP",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-6.442",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJOK"
-        }
-    ]
+    }
 }

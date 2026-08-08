@@ -139,51 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
         "keywords": "Airports in North Carolina"
-    },
-    "navaids": [
-        {
-            "id": "86523",
-            "filename": "Barretts_Mt_VOR-DME_US",
-            "ident": "BZM",
-            "name": "Barretts Mt",
-            "type": "VOR-DME",
-            "frequency_khz": "110800",
-            "latitude_deg": "35.868900299072266",
-            "longitude_deg": "-81.2405014038086",
-            "elevation_ft": "1880",
-            "iso_country": "US",
-            "dme_frequency_khz": "110800",
-            "dme_channel": "045X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.001",
-            "magnetic_variation_deg": "-6.528",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KHKY"
-        },
-        {
-            "id": "88860",
-            "filename": "Tawba_NDB_US",
-            "ident": "HK",
-            "name": "Tawba",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "35.786598205566406",
-            "longitude_deg": "-81.30560302734375",
-            "elevation_ft": "975",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.488",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KHKY"
-        }
-    ]
+    }
 }

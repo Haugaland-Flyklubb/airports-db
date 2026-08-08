@@ -93,29 +93,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "95888",
-            "filename": "Petawawa_NDB_CA",
-            "ident": "YWA",
-            "name": "Petawawa",
-            "type": "NDB",
-            "frequency_khz": "516",
-            "latitude_deg": "45.894798278808594",
-            "longitude_deg": "-77.27169799804688",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.573",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYWA"
-        }
-    ]
+    }
 }

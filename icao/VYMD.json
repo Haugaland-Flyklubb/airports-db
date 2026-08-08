@@ -85,51 +85,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mandalay_Region",
         "keywords": "Airports in Mandalay Division"
-    },
-    "navaids": [
-        {
-            "id": "90960",
-            "filename": "Mandalay_VOR-DME_MM",
-            "ident": "MIA",
-            "name": "Mandalay",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "21.710899353027344",
-            "longitude_deg": "95.97470092773438",
-            "elevation_ft": "300",
-            "iso_country": "MM",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.427",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VYMD"
-        },
-        {
-            "id": "90963",
-            "filename": "Mandalay_NDB_MM",
-            "ident": "MIA",
-            "name": "Mandalay",
-            "type": "NDB",
-            "frequency_khz": "259",
-            "latitude_deg": "21.689300537109375",
-            "longitude_deg": "95.98310089111328",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.428",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VYMD"
-        }
-    ]
+    }
 }

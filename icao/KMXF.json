@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    },
-    "navaids": [
-        {
-            "id": "91391",
-            "filename": "Maxwell_TACAN_US",
-            "ident": "MXF",
-            "name": "Maxwell",
-            "type": "TACAN",
-            "frequency_khz": "115000",
-            "latitude_deg": "32.37929916381836",
-            "longitude_deg": "-86.36830139160156",
-            "elevation_ft": "170",
-            "iso_country": "US",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "-2.239",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KMXF"
-        }
-    ]
+    }
 }

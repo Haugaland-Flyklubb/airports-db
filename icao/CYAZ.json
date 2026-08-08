@@ -121,29 +121,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "95621",
-            "filename": "Tofino_NDB_CA",
-            "ident": "YAZ",
-            "name": "Tofino",
-            "type": "NDB",
-            "frequency_khz": "359",
-            "latitude_deg": "49.04679870605469",
-            "longitude_deg": "-125.7040023803711",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "18.445",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYAZ"
-        }
-    ]
+    }
 }

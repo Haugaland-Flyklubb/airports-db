@@ -69,51 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zanjan_Province",
         "keywords": "Airports in Zanjan Province"
-    },
-    "navaids": [
-        {
-            "id": "95965",
-            "filename": "Zanjan_VORTAC_IR",
-            "ident": "ZAJ",
-            "name": "Zanjan",
-            "type": "VORTAC",
-            "frequency_khz": "114100",
-            "latitude_deg": "36.591400146484375",
-            "longitude_deg": "48.69049835205078",
-            "elevation_ft": "5705",
-            "iso_country": "IR",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.001",
-            "magnetic_variation_deg": "4.228",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OITZ"
-        },
-        {
-            "id": "95966",
-            "filename": "Zanjan_NDB_IR",
-            "ident": "ZAJ",
-            "name": "Zanjan",
-            "type": "NDB",
-            "frequency_khz": "321",
-            "latitude_deg": "36.77539825439453",
-            "longitude_deg": "48.364601135253906",
-            "elevation_ft": "5382",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.267",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "OITZ"
-        }
-    ]
+    }
 }

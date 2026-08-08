@@ -101,51 +101,5 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Limburg",
         "keywords": "Airports in Limburg"
-    },
-    "navaids": [
-        {
-            "id": "90747",
-            "filename": "Maastricht_VOR-DME_NL",
-            "ident": "MAS",
-            "name": "Maastricht",
-            "type": "VOR-DME",
-            "frequency_khz": "108600",
-            "latitude_deg": "50.971900939941406",
-            "longitude_deg": "5.960430145263672",
-            "elevation_ft": "283",
-            "iso_country": "NL",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "-0.057",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EHBK"
-        },
-        {
-            "id": "91776",
-            "filename": "Maastricht_NDB_NL",
-            "ident": "NW",
-            "name": "Maastricht",
-            "type": "NDB",
-            "frequency_khz": "373",
-            "latitude_deg": "51.01940155029297",
-            "longitude_deg": "5.878339767456055",
-            "elevation_ft": "150",
-            "iso_country": "NL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.075",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EHBK"
-        }
-    ]
+    }
 }

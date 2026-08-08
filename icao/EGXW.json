@@ -125,29 +125,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "95366",
-            "filename": "Waddington_TACAN_GB",
-            "ident": "WAD",
-            "name": "Waddington",
-            "type": "TACAN",
-            "frequency_khz": "117100",
-            "latitude_deg": "53.16529846191406",
-            "longitude_deg": "-0.5268329977989197",
-            "elevation_ft": "231",
-            "iso_country": "GB",
-            "dme_frequency_khz": "117100",
-            "dme_channel": "118X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.419",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EGXW"
-        }
-    ]
+    }
 }

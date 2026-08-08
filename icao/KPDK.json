@@ -213,29 +213,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "92340",
-            "filename": "Peachtree_VOR-DME_US",
-            "ident": "PDK",
-            "name": "Peachtree",
-            "type": "VOR-DME",
-            "frequency_khz": "116600",
-            "latitude_deg": "33.8755989074707",
-            "longitude_deg": "-84.29879760742188",
-            "elevation_ft": "970",
-            "iso_country": "US",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.001",
-            "magnetic_variation_deg": "-4.11",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KPDK"
-        }
-    ]
+    }
 }

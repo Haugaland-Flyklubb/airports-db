@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
         "keywords": "Airports in Rio de Janeiro"
-    },
-    "navaids": [
-        {
-            "id": "86619",
-            "filename": "Cabo_Frio_NDB_BR",
-            "ident": "CBF",
-            "name": "Cabo Frio",
-            "type": "NDB",
-            "frequency_khz": "515",
-            "latitude_deg": "-22.926000595092773",
-            "longitude_deg": "-42.07849884033203",
-            "elevation_ft": "14",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.025",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBCB"
-        }
-    ]
+    }
 }

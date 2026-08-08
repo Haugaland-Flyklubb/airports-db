@@ -85,29 +85,5 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Finland",
         "keywords": "Airports in Central Finland Region"
-    },
-    "navaids": [
-        {
-            "id": "90443",
-            "filename": "Luonet_VOR-DME_FI",
-            "ident": "LNE",
-            "name": "Luonet",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "62.420799255371094",
-            "longitude_deg": "25.623300552368164",
-            "elevation_ft": "696",
-            "iso_country": "FI",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.007",
-            "magnetic_variation_deg": "7.599",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "EFJY"
-        }
-    ]
+    }
 }

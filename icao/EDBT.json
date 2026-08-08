@@ -77,29 +77,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony-Anhalt",
         "keywords": "Sachsen-Anhalt"
-    },
-    "navaids": [
-        {
-            "id": "88514",
-            "filename": "Gotem_VOR-DME_DE",
-            "ident": "GOT",
-            "name": "Gotem",
-            "type": "VOR-DME",
-            "frequency_khz": "115250",
-            "latitude_deg": "51.343101501464844",
-            "longitude_deg": "11.59749984741211",
-            "elevation_ft": "721",
-            "iso_country": "DE",
-            "dme_frequency_khz": "115250",
-            "dme_channel": "099Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.009",
-            "magnetic_variation_deg": "1.383",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "EDBT"
-        }
-    ]
+    }
 }

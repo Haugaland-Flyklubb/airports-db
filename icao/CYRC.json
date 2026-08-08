@@ -153,29 +153,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "95821",
-            "filename": "St.hHnore_NDB_CA",
-            "ident": "YRC",
-            "name": "St.hHnore",
-            "type": "NDB",
-            "frequency_khz": "213",
-            "latitude_deg": "48.53609848022461",
-            "longitude_deg": "-71.15840148925781",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-17.578",
-            "usageType": "",
-            "power": "",
-            "associated_airport": "CYRC"
-        }
-    ]
+    }
 }

@@ -161,51 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "88987",
-            "filename": "Sebas_NDB_US",
-            "ident": "HR",
-            "name": "Sebas",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "26.305200576782227",
-            "longitude_deg": "-97.65779876708984",
-            "elevation_ft": "35",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.132",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KHRL"
-        },
-        {
-            "id": "88994",
-            "filename": "Harlingen_VOR-DME_US",
-            "ident": "HRL",
-            "name": "Harlingen",
-            "type": "VOR-DME",
-            "frequency_khz": "109200",
-            "latitude_deg": "26.22920036315918",
-            "longitude_deg": "-97.65190124511719",
-            "elevation_ft": "30",
-            "iso_country": "US",
-            "dme_frequency_khz": "109200",
-            "dme_channel": "029X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.012",
-            "magnetic_variation_deg": "5.131",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KHRL"
-        }
-    ]
+    }
 }

@@ -131,51 +131,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "87660",
-            "filename": "Edinburgh_TACAN_AU",
-            "ident": "EDN",
-            "name": "Edinburgh",
-            "type": "TACAN",
-            "frequency_khz": "114700",
-            "latitude_deg": "-34.7047004699707",
-            "longitude_deg": "138.61300659179688",
-            "elevation_ft": "85",
-            "iso_country": "AU",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.011",
-            "magnetic_variation_deg": "8.066",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YPED"
-        },
-        {
-            "id": "87661",
-            "filename": "Edinburgh_NDB_AU",
-            "ident": "EDN",
-            "name": "Edinburgh",
-            "type": "NDB",
-            "frequency_khz": "311",
-            "latitude_deg": "-34.70690155029297",
-            "longitude_deg": "138.6320037841797",
-            "elevation_ft": "67",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.071",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YPED"
-        }
-    ]
+    }
 }

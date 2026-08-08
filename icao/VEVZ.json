@@ -107,51 +107,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andhra_Pradesh",
         "keywords": "Airports in Andhra Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "95333",
-            "filename": "Vishakhapatnam_VOR-DME_IN",
-            "ident": "VVZ",
-            "name": "Vishakhapatnam",
-            "type": "VOR-DME",
-            "frequency_khz": "114000",
-            "latitude_deg": "17.667699813842773",
-            "longitude_deg": "83.25279998779297",
-            "elevation_ft": "14",
-            "iso_country": "IN",
-            "dme_frequency_khz": "114000",
-            "dme_channel": "087X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-1.06",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VEVZ"
-        },
-        {
-            "id": "95349",
-            "filename": "Vishakhapatnam_NDB_IN",
-            "ident": "VZ",
-            "name": "Vishakhapatnam",
-            "type": "NDB",
-            "frequency_khz": "244",
-            "latitude_deg": "17.738000869750977",
-            "longitude_deg": "83.25279998779297",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.055",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VEVZ"
-        }
-    ]
+    }
 }

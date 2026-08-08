@@ -115,51 +115,5 @@
         "iso_country": "CV",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Barlavento_Islands",
         "keywords": "Ilhas de Barlavento"
-    },
-    "navaids": [
-        {
-            "id": "87153",
-            "filename": "Sal_VOR-DME_CV",
-            "ident": "CVS",
-            "name": "Sal",
-            "type": "VOR-DME",
-            "frequency_khz": "115300",
-            "latitude_deg": "16.736799240112305",
-            "longitude_deg": "-22.951000213623047",
-            "elevation_ft": "176",
-            "iso_country": "CV",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.454",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GVAC"
-        },
-        {
-            "id": "93370",
-            "filename": "Sal_NDB_CV",
-            "ident": "SAL",
-            "name": "Sal",
-            "type": "NDB",
-            "frequency_khz": "274",
-            "latitude_deg": "16.701799392700195",
-            "longitude_deg": "-22.948699951171875",
-            "elevation_ft": "",
-            "iso_country": "CV",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.458",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GVAC"
-        }
-    ]
+    }
 }

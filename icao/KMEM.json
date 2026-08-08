@@ -207,51 +207,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
         "keywords": "Airports in Tennessee"
-    },
-    "navaids": [
-        {
-            "id": "90858",
-            "filename": "Elvis_NDB_US",
-            "ident": "ME",
-            "name": "Elvis",
-            "type": "NDB",
-            "frequency_khz": "287",
-            "latitude_deg": "35.061500549316406",
-            "longitude_deg": "-90.07160186767578",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.029",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KMEM"
-        },
-        {
-            "id": "90870",
-            "filename": "Memphis_VORTAC_US",
-            "ident": "MEM",
-            "name": "Memphis",
-            "type": "VORTAC",
-            "frequency_khz": "117500",
-            "latitude_deg": "35.015098571777344",
-            "longitude_deg": "-89.98320007324219",
-            "elevation_ft": "360",
-            "iso_country": "US",
-            "dme_frequency_khz": "117500",
-            "dme_channel": "122X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.001",
-            "magnetic_variation_deg": "-0.065",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KMEM"
-        }
-    ]
+    }
 }

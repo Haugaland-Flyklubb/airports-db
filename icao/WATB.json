@@ -59,29 +59,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur",
         "keywords": "Airports in Nusa Tenggara Timur"
-    },
-    "navaids": [
-        {
-            "id": "86476",
-            "filename": "Bajawa_NDB_ID",
-            "ident": "BW",
-            "name": "Bajawa",
-            "type": "NDB",
-            "frequency_khz": "281",
-            "latitude_deg": "-8.814590454101562",
-            "longitude_deg": "121.00399780273438",
-            "elevation_ft": "4326",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.014",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WATB"
-        }
-    ]
+    }
 }

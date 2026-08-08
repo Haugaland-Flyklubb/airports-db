@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
         "keywords": "Airports in Ohio"
-    },
-    "navaids": [
-        {
-            "id": "88990",
-            "filename": "Zanesville_NDB_US",
-            "ident": "HRA",
-            "name": "Zanesville",
-            "type": "NDB",
-            "frequency_khz": "204",
-            "latitude_deg": "39.90629959106445",
-            "longitude_deg": "-81.91929626464844",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.219",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KZZV"
-        },
-        {
-            "id": "96176",
-            "filename": "Zanesville_VOR-DME_US",
-            "ident": "ZZV",
-            "name": "Zanesville",
-            "type": "VOR-DME",
-            "frequency_khz": "111400",
-            "latitude_deg": "39.94089889526367",
-            "longitude_deg": "-81.8926010131836",
-            "elevation_ft": "900",
-            "iso_country": "US",
-            "dme_frequency_khz": "111400",
-            "dme_channel": "051X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.001",
-            "magnetic_variation_deg": "-7.237",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KZZV"
-        }
-    ]
+    }
 }

@@ -59,29 +59,5 @@
         "iso_country": "HR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Istria_County",
         "keywords": "Airports in Istria County"
-    },
-    "navaids": [
-        {
-            "id": "95271",
-            "filename": "Vrsar_NDB_HR",
-            "ident": "VRS",
-            "name": "Vrsar",
-            "type": "NDB",
-            "frequency_khz": "369",
-            "latitude_deg": "45.210201263427734",
-            "longitude_deg": "13.64900016784668",
-            "elevation_ft": "236",
-            "iso_country": "HR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.053",
-            "usageType": "RNAV",
-            "power": "LOW",
-            "associated_airport": "LDPV"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yamaguchi",
         "keywords": "Chugoku"
-    },
-    "navaids": [
-        {
-            "id": "94789",
-            "filename": "Ube_VOR-DME_JP",
-            "ident": "UBE",
-            "name": "Ube",
-            "type": "VOR-DME",
-            "frequency_khz": "110800",
-            "latitude_deg": "33.93560028076172",
-            "longitude_deg": "131.28399658203125",
-            "elevation_ft": "64",
-            "iso_country": "JP",
-            "dme_frequency_khz": "110800",
-            "dme_channel": "045X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.011",
-            "magnetic_variation_deg": "-6.542",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJDC"
-        }
-    ]
+    }
 }

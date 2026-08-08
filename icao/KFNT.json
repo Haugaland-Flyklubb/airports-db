@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    },
-    "navaids": [
-        {
-            "id": "88074",
-            "filename": "Petli_NDB_US",
-            "ident": "FN",
-            "name": "Petli",
-            "type": "NDB",
-            "frequency_khz": "269",
-            "latitude_deg": "42.968101501464844",
-            "longitude_deg": "-83.89009857177734",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.363",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KFNT"
-        },
-        {
-            "id": "88083",
-            "filename": "Flint_VORTAC_US",
-            "ident": "FNT",
-            "name": "Flint",
-            "type": "VORTAC",
-            "frequency_khz": "116900",
-            "latitude_deg": "42.966800689697266",
-            "longitude_deg": "-83.74700164794922",
-            "elevation_ft": "770",
-            "iso_country": "US",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.002",
-            "magnetic_variation_deg": "-6.435",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KFNT"
-        }
-    ]
+    }
 }

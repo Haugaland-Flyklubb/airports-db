@@ -77,29 +77,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uttaranchal",
         "keywords": "Airports in Uttarakhand, Uttaranchal"
-    },
-    "navaids": [
-        {
-            "id": "89478",
-            "filename": "Dehradun_NDB_IN",
-            "ident": "JG",
-            "name": "Dehradun",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "30.189899444580078",
-            "longitude_deg": "78.17440032958984",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.56",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VIDN"
-        }
-    ]
+    }
 }

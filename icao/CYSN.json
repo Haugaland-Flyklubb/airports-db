@@ -153,29 +153,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "93798",
-            "filename": "St. Catharines_NDB_CA",
-            "ident": "SN",
-            "name": "St. Catharines",
-            "type": "NDB",
-            "frequency_khz": "408",
-            "latitude_deg": "43.1469993591",
-            "longitude_deg": "-79.25479888919999",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.256",
-            "usageType": "",
-            "power": "",
-            "associated_airport": "CYSN"
-        }
-    ]
+    }
 }

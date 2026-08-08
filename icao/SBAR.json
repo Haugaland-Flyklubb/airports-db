@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sergipe",
         "keywords": "Airports in Sergipe"
-    },
-    "navaids": [
-        {
-            "id": "85232",
-            "filename": "Aracaju_VOR-DME_BR",
-            "ident": "ACJ",
-            "name": "Aracaju",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "-10.984000205993652",
-            "longitude_deg": "-37.0713996887207",
-            "elevation_ft": "26",
-            "iso_country": "BR",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-22.007",
-            "magnetic_variation_deg": "-22.589",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBAR"
-        },
-        {
-            "id": "85233",
-            "filename": "Aracaju_NDB_BR",
-            "ident": "ACJ",
-            "name": "Aracaju",
-            "type": "NDB",
-            "frequency_khz": "355",
-            "latitude_deg": "-10.988100051879883",
-            "longitude_deg": "-37.073699951171875",
-            "elevation_ft": "26",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.589",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBAR"
-        }
-    ]
+    }
 }

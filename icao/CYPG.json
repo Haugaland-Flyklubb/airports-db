@@ -159,51 +159,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "92389",
-            "filename": "Portage_NDB_CA",
-            "ident": "PG",
-            "name": "Portage",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "49.841800689697266",
-            "longitude_deg": "-98.17960357666016",
-            "elevation_ft": "975",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.093",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYPG"
-        },
-        {
-            "id": "95788",
-            "filename": "Portage_VOR-DME_CA",
-            "ident": "YPG",
-            "name": "Portage",
-            "type": "VOR-DME",
-            "frequency_khz": "114600",
-            "latitude_deg": "49.89970016479492",
-            "longitude_deg": "-98.26730346679688",
-            "elevation_ft": "900",
-            "iso_country": "CA",
-            "dme_frequency_khz": "114600",
-            "dme_channel": "093X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.001",
-            "magnetic_variation_deg": "5.139",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYPG"
-        }
-    ]
+    }
 }

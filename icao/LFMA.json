@@ -85,29 +85,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
         "keywords": "Airports in Provence-Alpes-Côte-d'Azur"
-    },
-    "navaids": [
-        {
-            "id": "85415",
-            "filename": "Aix_Les_Milles_NDB_FR",
-            "ident": "ALM",
-            "name": "Aix Les Milles",
-            "type": "NDB",
-            "frequency_khz": "430",
-            "latitude_deg": "43.5078010559082",
-            "longitude_deg": "5.360469818115234",
-            "elevation_ft": "367",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.098",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LFMA"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maranhão",
         "keywords": "Airports in Maranhão"
-    },
-    "navaids": [
-        {
-            "id": "86902",
-            "filename": "Carolina_VOR_BR",
-            "ident": "CNA",
-            "name": "Carolina",
-            "type": "VOR",
-            "frequency_khz": "115300",
-            "latitude_deg": "-7.318729877471924",
-            "longitude_deg": "-47.45479965209961",
-            "elevation_ft": "565",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-19.007",
-            "magnetic_variation_deg": "-20.305",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBCI"
-        },
-        {
-            "id": "86904",
-            "filename": "Carolina_NDB_BR",
-            "ident": "CNA",
-            "name": "Carolina",
-            "type": "NDB",
-            "frequency_khz": "330",
-            "latitude_deg": "-7.322999954223633",
-            "longitude_deg": "-47.459999084472656",
-            "elevation_ft": "565",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.298",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBCI"
-        }
-    ]
+    }
 }

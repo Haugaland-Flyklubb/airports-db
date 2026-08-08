@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "85092",
-            "filename": "Cross_Lake_NDB_CA",
-            "ident": "4G",
-            "name": "Cross Lake",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "54.610801696777344",
-            "longitude_deg": "-97.76640319824219",
-            "elevation_ft": "709",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.14",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYCR"
-        }
-    ]
+    }
 }

@@ -133,51 +133,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    },
-    "navaids": [
-        {
-            "id": "93230",
-            "filename": "Vicente_NDB_BR",
-            "ident": "RR",
-            "name": "Vicente",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "-23.947500228881836",
-            "longitude_deg": "-46.2869987487793",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.591",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBST"
-        },
-        {
-            "id": "93391",
-            "filename": "Santos_NDB_BR",
-            "ident": "SAT",
-            "name": "Santos",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "-23.983299255371094",
-            "longitude_deg": "-46.263301849365234",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.594",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBST"
-        }
-    ]
+    }
 }

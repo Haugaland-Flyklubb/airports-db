@@ -187,29 +187,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
         "keywords": "Airports in Oklahoma"
-    },
-    "navaids": [
-        {
-            "id": "94366",
-            "filename": "Tinker_TACAN_US",
-            "ident": "TIK",
-            "name": "Tinker",
-            "type": "TACAN",
-            "frequency_khz": "115800",
-            "latitude_deg": "35.436500549316406",
-            "longitude_deg": "-97.37969970703125",
-            "elevation_ft": "1251",
-            "iso_country": "US",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.001",
-            "magnetic_variation_deg": "4.595",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "KTIK"
-        }
-    ]
+    }
 }

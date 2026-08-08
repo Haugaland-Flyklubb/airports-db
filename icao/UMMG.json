@@ -91,51 +91,5 @@
         "iso_country": "BY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grodno_Region",
         "keywords": "Hrodzenskaja voblasc', Hrodna Voblasts"
-    },
-    "navaids": [
-        {
-            "id": "88516",
-            "filename": "Grodno_NDB_BY",
-            "ident": "GP",
-            "name": "Grodno",
-            "type": "NDB",
-            "frequency_khz": "452",
-            "latitude_deg": "53.650001525878906",
-            "longitude_deg": "24.051700592041016",
-            "elevation_ft": "",
-            "iso_country": "BY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.224",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UMMG"
-        },
-        {
-            "id": "95397",
-            "filename": "Grodno_NDB_BY",
-            "ident": "WF",
-            "name": "Grodno",
-            "type": "NDB",
-            "frequency_khz": "452",
-            "latitude_deg": "53.55329895019531",
-            "longitude_deg": "24.058300018310547",
-            "elevation_ft": "",
-            "iso_country": "BY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.215",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UMMG"
-        }
-    ]
+    }
 }

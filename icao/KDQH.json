@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "92175",
-            "filename": "Coffee_County_NDB_US",
-            "ident": "OWC",
-            "name": "Coffee County",
-            "type": "NDB",
-            "frequency_khz": "390",
-            "latitude_deg": "31.404800415039062",
-            "longitude_deg": "-82.92379760742188",
-            "elevation_ft": "260",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.433",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KDQH"
-        }
-    ]
+    }
 }

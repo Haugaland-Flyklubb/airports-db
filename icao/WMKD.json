@@ -93,29 +93,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pahang",
         "keywords": "Airports in Pahang"
-    },
-    "navaids": [
-        {
-            "id": "95169",
-            "filename": "Kuantan_VORTAC_MY",
-            "ident": "VKN",
-            "name": "Kuantan",
-            "type": "VORTAC",
-            "frequency_khz": "113700",
-            "latitude_deg": "3.776170015335083",
-            "longitude_deg": "103.20999908447266",
-            "elevation_ft": "58",
-            "iso_country": "MY",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "0.047",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WMKD"
-        }
-    ]
+    }
 }

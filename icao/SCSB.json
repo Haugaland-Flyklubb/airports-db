@@ -81,29 +81,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Magallanes_Region",
         "keywords": "Airports in Magallanes Region"
-    },
-    "navaids": [
-        {
-            "id": "93849",
-            "filename": "Cerro_Sombrero_NDB_CL",
-            "ident": "SOM",
-            "name": "Cerro Sombrero",
-            "type": "NDB",
-            "frequency_khz": "225",
-            "latitude_deg": "-52.73809814453125",
-            "longitude_deg": "-69.36920166015625",
-            "elevation_ft": "",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.505",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SCSB"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
         "keywords": "PM, Piemonte"
-    },
-    "navaids": [
-        {
-            "id": "90285",
-            "filename": "Levaldigi_NDB_IT",
-            "ident": "LEV",
-            "name": "Levaldigi",
-            "type": "NDB",
-            "frequency_khz": "371",
-            "latitude_deg": "44.5442008972168",
-            "longitude_deg": "7.615389823913574",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.42",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LIMZ"
-        }
-    ]
+    }
 }

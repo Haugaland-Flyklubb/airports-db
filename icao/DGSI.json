@@ -77,51 +77,5 @@
         "iso_country": "GH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ashanti_Region",
         "keywords": "Airports in Ashanti Region"
-    },
-    "navaids": [
-        {
-            "id": "89833",
-            "filename": "Kumasi_NDB_GH",
-            "ident": "KL",
-            "name": "Kumasi",
-            "type": "NDB",
-            "frequency_khz": "271",
-            "latitude_deg": "6.747849941253662",
-            "longitude_deg": "-1.583899974822998",
-            "elevation_ft": "",
-            "iso_country": "GH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.49",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "DGSI"
-        },
-        {
-            "id": "90004",
-            "filename": "Kumasi_VOR-DME_GH",
-            "ident": "KSI",
-            "name": "Kumasi",
-            "type": "VOR-DME",
-            "frequency_khz": "113900",
-            "latitude_deg": "6.7085700035095215",
-            "longitude_deg": "-1.5906599760055542",
-            "elevation_ft": "942",
-            "iso_country": "GH",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.498",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DGSI"
-        }
-    ]
+    }
 }

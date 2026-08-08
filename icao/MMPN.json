@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michoac%C3%A1n",
         "keywords": "Airports in Michoacán"
-    },
-    "navaids": [
-        {
-            "id": "94931",
-            "filename": "Uruapan_VOR-DME_MX",
-            "ident": "UPN",
-            "name": "Uruapan",
-            "type": "VOR-DME",
-            "frequency_khz": "114200",
-            "latitude_deg": "19.39579963684082",
-            "longitude_deg": "-102.04100036621094",
-            "elevation_ft": "5258",
-            "iso_country": "MX",
-            "dme_frequency_khz": "114200",
-            "dme_channel": "089X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.008",
-            "magnetic_variation_deg": "7.022",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMPN"
-        }
-    ]
+    }
 }

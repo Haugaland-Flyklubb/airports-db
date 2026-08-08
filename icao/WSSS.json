@@ -153,51 +153,5 @@
         "iso_country": "SG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_East",
         "keywords": "Airports in South East"
-    },
-    "navaids": [
-        {
-            "id": "85934",
-            "filename": "Bedok_NDB_SG",
-            "ident": "BED",
-            "name": "Bedok",
-            "type": "NDB",
-            "frequency_khz": "232",
-            "latitude_deg": "1.3162599802017212",
-            "longitude_deg": "103.96399688720703",
-            "elevation_ft": "",
-            "iso_country": "SG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.154",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "WSSS"
-        },
-        {
-            "id": "95303",
-            "filename": "Tekong_VOR-DME_SG",
-            "ident": "VTK",
-            "name": "Tekong",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "1.4153900146484375",
-            "longitude_deg": "104.02200317382812",
-            "elevation_ft": "150",
-            "iso_country": "SG",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "0.156",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WSSS"
-        }
-    ]
+    }
 }

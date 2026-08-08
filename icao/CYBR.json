@@ -137,51 +137,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "86291",
-            "filename": "Brandon_NDB_CA",
-            "ident": "BR",
-            "name": "Brandon",
-            "type": "NDB",
-            "frequency_khz": "233",
-            "latitude_deg": "49.907798767089844",
-            "longitude_deg": "-100.072998046875",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.507",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYBR"
-        },
-        {
-            "id": "95632",
-            "filename": "Brandon_VORTAC_CA",
-            "ident": "YBR",
-            "name": "Brandon",
-            "type": "VORTAC",
-            "frequency_khz": "113800",
-            "latitude_deg": "49.90999984741211",
-            "longitude_deg": "-99.9457015991211",
-            "elevation_ft": "1381",
-            "iso_country": "CA",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "10.001",
-            "magnetic_variation_deg": "6.44",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYBR"
-        }
-    ]
+    }
 }

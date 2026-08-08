@@ -69,29 +69,5 @@
         "iso_country": "SK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Žilina_Region",
         "keywords": "Žilinský kraj"
-    },
-    "navaids": [
-        {
-            "id": "96053",
-            "filename": "Zilina_NDB_SK",
-            "ident": "ZLA",
-            "name": "Zilina",
-            "type": "NDB",
-            "frequency_khz": "404",
-            "latitude_deg": "49.20289993286133",
-            "longitude_deg": "18.510499954223633",
-            "elevation_ft": "",
-            "iso_country": "SK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.228",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LZZI"
-        }
-    ]
+    }
 }

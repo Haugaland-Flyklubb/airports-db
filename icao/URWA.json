@@ -115,51 +115,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Astrakhan_Oblast",
         "keywords": "Airports in Astrakhan Oblast"
-    },
-    "navaids": [
-        {
-            "id": "86066",
-            "filename": "Astrakhan_NDB_RU",
-            "ident": "BJ",
-            "name": "Astrakhan",
-            "type": "NDB",
-            "frequency_khz": "650",
-            "latitude_deg": "46.27669906616211",
-            "longitude_deg": "48.073299407958984",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.253",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "URWA"
-        },
-        {
-            "id": "88642",
-            "filename": "Astrakhan_NDB_RU",
-            "ident": "GV",
-            "name": "Astrakhan",
-            "type": "NDB",
-            "frequency_khz": "650",
-            "latitude_deg": "46.288299560546875",
-            "longitude_deg": "47.939998626708984",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.251",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "URWA"
-        }
-    ]
+    }
 }

@@ -59,29 +59,5 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Xigoma_Region",
         "keywords": "Airports in Xigoma Region"
-    },
-    "navaids": [
-        {
-            "id": "89757",
-            "filename": "Kigoma_NDB_TZ",
-            "ident": "KG",
-            "name": "Kigoma",
-            "type": "NDB",
-            "frequency_khz": "394",
-            "latitude_deg": "-4.888370037078857",
-            "longitude_deg": "29.669099807739258",
-            "elevation_ft": "2700",
-            "iso_country": "TZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.367",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HTKA"
-        }
-    ]
+    }
 }

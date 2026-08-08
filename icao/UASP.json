@@ -69,51 +69,5 @@
         "iso_country": "KZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pavlodar_Region",
         "keywords": "Павлодар облысы"
-    },
-    "navaids": [
-        {
-            "id": "92824",
-            "filename": "Pavlodar_NDB_KZ",
-            "ident": "PW",
-            "name": "Pavlodar",
-            "type": "NDB",
-            "frequency_khz": "440",
-            "latitude_deg": "52.227901458740234",
-            "longitude_deg": "77.12370300292969",
-            "elevation_ft": "",
-            "iso_country": "KZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.559",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UASP"
-        },
-        {
-            "id": "95446",
-            "filename": "Pavlodar_NDB_KZ",
-            "ident": "WL",
-            "name": "Pavlodar",
-            "type": "NDB",
-            "frequency_khz": "440",
-            "latitude_deg": "52.161800384521484",
-            "longitude_deg": "77.02439880371094",
-            "elevation_ft": "",
-            "iso_country": "KZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.551",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UASP"
-        }
-    ]
+    }
 }

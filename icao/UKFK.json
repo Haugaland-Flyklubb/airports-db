@@ -59,29 +59,5 @@
         "iso_country": "UA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Republic_of_Crimea",
         "keywords": "Автономна Республіка Крим"
-    },
-    "navaids": [
-        {
-            "id": "89732",
-            "filename": "Kerch_DME_UA",
-            "ident": "KER",
-            "name": "Kerch",
-            "type": "DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "45.37089920043945",
-            "longitude_deg": "36.40510177612305",
-            "elevation_ft": "144",
-            "iso_country": "UA",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.008",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "UKFK"
-        }
-    ]
+    }
 }

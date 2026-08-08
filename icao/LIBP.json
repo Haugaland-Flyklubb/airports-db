@@ -77,29 +77,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Abruzzi",
         "keywords": "AB"
-    },
-    "navaids": [
-        {
-            "id": "92373",
-            "filename": "Pescara_VOR-DME_IT",
-            "ident": "PES",
-            "name": "Pescara",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "42.436100006103516",
-            "longitude_deg": "14.184399604797363",
-            "elevation_ft": "30",
-            "iso_country": "IT",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "42.4353",
-            "dme_longitude_deg": "14.1842",
-            "dme_elevation_ft": "30",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "2.065",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "LIBP"
-        }
-    ]
+    }
 }

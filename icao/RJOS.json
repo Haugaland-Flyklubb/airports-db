@@ -93,51 +93,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tokushima",
         "keywords": "Shikoku"
-    },
-    "navaids": [
-        {
-            "id": "94621",
-            "filename": "Tokushima_NDB_JP",
-            "ident": "TS",
-            "name": "Tokushima",
-            "type": "NDB",
-            "frequency_khz": "333",
-            "latitude_deg": "34.12810134887695",
-            "longitude_deg": "134.6060028076172",
-            "elevation_ft": "26",
-            "iso_country": "JP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.535",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "RJOS"
-        },
-        {
-            "id": "94626",
-            "filename": "Tokushima_VORTAC_JP",
-            "ident": "TSC",
-            "name": "Tokushima",
-            "type": "VORTAC",
-            "frequency_khz": "114900",
-            "latitude_deg": "34.130001068115234",
-            "longitude_deg": "134.61000061035156",
-            "elevation_ft": "46",
-            "iso_country": "JP",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "34.13",
-            "dme_longitude_deg": "134.609",
-            "dme_elevation_ft": "46",
-            "slaved_variation_deg": "-7.011",
-            "magnetic_variation_deg": "-6.536",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJOS"
-        }
-    ]
+    }
 }

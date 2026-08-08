@@ -185,51 +185,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "94921",
-            "filename": "Cold_Lake_TACAN_CA",
-            "ident": "UOD",
-            "name": "Cold Lake",
-            "type": "TACAN",
-            "frequency_khz": "113500",
-            "latitude_deg": "54.408599853515625",
-            "longitude_deg": "-110.2959976196289",
-            "elevation_ft": "1806",
-            "iso_country": "CA",
-            "dme_frequency_khz": "113500",
-            "dme_channel": "082X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "16.001",
-            "magnetic_variation_deg": "15.148",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYOD"
-        },
-        {
-            "id": "95776",
-            "filename": "Cold_Lake_NDB_CA",
-            "ident": "YOD",
-            "name": "Cold Lake",
-            "type": "NDB",
-            "frequency_khz": "398",
-            "latitude_deg": "54.39690017700195",
-            "longitude_deg": "-110.27200317382812",
-            "elevation_ft": "1775",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "15.137",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYOD"
-        }
-    ]
+    }
 }

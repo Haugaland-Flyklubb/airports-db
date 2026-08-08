@@ -99,29 +99,5 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
         "keywords": "Baluchistan"
-    },
-    "navaids": [
-        {
-            "id": "94659",
-            "filename": "Turbat_NDB_PK",
-            "ident": "TU",
-            "name": "Turbat",
-            "type": "NDB",
-            "frequency_khz": "237",
-            "latitude_deg": "25.990100860595703",
-            "longitude_deg": "63.02980041503906",
-            "elevation_ft": "533",
-            "iso_country": "PK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.546",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "OPTU"
-        }
-    ]
+    }
 }

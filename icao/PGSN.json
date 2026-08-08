@@ -101,29 +101,5 @@
         "iso_country": "MP",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "93799",
-            "filename": "Saipan_NDB_MP",
-            "ident": "SN",
-            "name": "Saipan",
-            "type": "NDB",
-            "frequency_khz": "312",
-            "latitude_deg": "15.111499786376953",
-            "longitude_deg": "145.7100067138672",
-            "elevation_ft": "",
-            "iso_country": "MP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.122",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "PGSN"
-        }
-    ]
+    }
 }

@@ -59,29 +59,5 @@
         "iso_country": "CF",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Haute-Kotto",
         "keywords": "Airports in Haute-Kotto"
-    },
-    "navaids": [
-        {
-            "id": "89106",
-            "filename": "Bria_VOR_CF",
-            "ident": "IA",
-            "name": "Bria",
-            "type": "VOR",
-            "frequency_khz": "113500",
-            "latitude_deg": "6.526000022888184",
-            "longitude_deg": "21.989200592041016",
-            "elevation_ft": "1991",
-            "iso_country": "CF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.282",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "FEFR"
-        }
-    ]
+    }
 }

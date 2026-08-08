@@ -117,51 +117,5 @@
         "iso_country": "TT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tunapuna-Piarco",
         "keywords": "Airports in Tunapuna-Piarco"
-    },
-    "navaids": [
-        {
-            "id": "92616",
-            "filename": "Piarco_VOR-DME_TT",
-            "ident": "POS",
-            "name": "Piarco",
-            "type": "VOR-DME",
-            "frequency_khz": "116900",
-            "latitude_deg": "10.46619987487793",
-            "longitude_deg": "-61.39189910888672",
-            "elevation_ft": "60",
-            "iso_country": "TT",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-11.007",
-            "magnetic_variation_deg": "-14.134",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "TTPP"
-        },
-        {
-            "id": "94588",
-            "filename": "Piarco_NDB_TT",
-            "ident": "TRI",
-            "name": "Piarco",
-            "type": "NDB",
-            "frequency_khz": "382",
-            "latitude_deg": "10.593400001525879",
-            "longitude_deg": "-61.42210006713867",
-            "elevation_ft": "57",
-            "iso_country": "TT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.129",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "TTPP"
-        }
-    ]
+    }
 }

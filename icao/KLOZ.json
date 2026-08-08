@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
         "keywords": "Airports in Kentucky"
-    },
-    "navaids": [
-        {
-            "id": "90487",
-            "filename": "London_VORTAC_US",
-            "ident": "LOZ",
-            "name": "London",
-            "type": "VORTAC",
-            "frequency_khz": "116100",
-            "latitude_deg": "37.03310012817383",
-            "longitude_deg": "-84.11009979248047",
-            "elevation_ft": "1240",
-            "iso_country": "US",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.004",
-            "magnetic_variation_deg": "-4.574",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KLOZ"
-        }
-    ]
+    }
 }

@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
         "keywords": "Airports in Hawaii"
-    },
-    "navaids": [
-        {
-            "id": "91928",
-            "filename": "Maui_VORTAC_US",
-            "ident": "OGG",
-            "name": "Maui",
-            "type": "VORTAC",
-            "frequency_khz": "115100",
-            "latitude_deg": "20.9064998626709",
-            "longitude_deg": "-156.42100524902344",
-            "elevation_ft": "30",
-            "iso_country": "US",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.001",
-            "magnetic_variation_deg": "10.002",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PHOG"
-        },
-        {
-            "id": "95344",
-            "filename": "Valley_Island_NDB_US",
-            "ident": "VYI",
-            "name": "Valley Island",
-            "type": "NDB",
-            "frequency_khz": "327",
-            "latitude_deg": "20.880800247192383",
-            "longitude_deg": "-156.4429931640625",
-            "elevation_ft": "62",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.599",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "PHOG"
-        }
-    ]
+    }
 }

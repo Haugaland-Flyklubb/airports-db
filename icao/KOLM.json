@@ -139,29 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    },
-    "navaids": [
-        {
-            "id": "92004",
-            "filename": "Olympia_VORTAC_US",
-            "ident": "OLM",
-            "name": "Olympia",
-            "type": "VORTAC",
-            "frequency_khz": "113400",
-            "latitude_deg": "46.97159957885742",
-            "longitude_deg": "-122.9020004272461",
-            "elevation_ft": "200",
-            "iso_country": "US",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "19.001",
-            "magnetic_variation_deg": "17.342",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KOLM"
-        }
-    ]
+    }
 }

@@ -107,51 +107,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern",
         "keywords": "Airports in Mecklenburg-Vorpommern"
-    },
-    "navaids": [
-        {
-            "id": "86016",
-            "filename": "Barth_DME_DE",
-            "ident": "BHD",
-            "name": "Barth",
-            "type": "DME",
-            "frequency_khz": "115400",
-            "latitude_deg": "54.34040069580078",
-            "longitude_deg": "12.709799766540527",
-            "elevation_ft": "45",
-            "iso_country": "DE",
-            "dme_frequency_khz": "115400",
-            "dme_channel": "101X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.596",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDBH"
-        },
-        {
-            "id": "86391",
-            "filename": "Barth_NDB_DE",
-            "ident": "BTH",
-            "name": "Barth",
-            "type": "NDB",
-            "frequency_khz": "373",
-            "latitude_deg": "54.338401794433594",
-            "longitude_deg": "12.686100006103516",
-            "elevation_ft": "45",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.592",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "EDBH"
-        }
-    ]
+    }
 }

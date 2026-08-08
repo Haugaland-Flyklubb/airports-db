@@ -69,29 +69,5 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nicholls_Town_and_Berry_Islands",
         "keywords": "Airports in North Andros"
-    },
-    "navaids": [
-        {
-            "id": "95985",
-            "filename": "Chub_Cay_NDB_BS",
-            "ident": "ZCC",
-            "name": "Chub Cay",
-            "type": "NDB",
-            "frequency_khz": "302",
-            "latitude_deg": "25.41670036315918",
-            "longitude_deg": "-77.8855972290039",
-            "elevation_ft": "5",
-            "iso_country": "BS",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.586",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "MYBC"
-        }
-    ]
+    }
 }

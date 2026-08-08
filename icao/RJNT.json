@@ -69,29 +69,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Toyama",
         "keywords": "Chubu"
-    },
-    "navaids": [
-        {
-            "id": "94504",
-            "filename": "Toyama_VOR-DME_JP",
-            "ident": "TOE",
-            "name": "Toyama",
-            "type": "VOR-DME",
-            "frequency_khz": "110850",
-            "latitude_deg": "36.652198791503906",
-            "longitude_deg": "137.1909942626953",
-            "elevation_ft": "116",
-            "iso_country": "JP",
-            "dme_frequency_khz": "110850",
-            "dme_channel": "045Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.011",
-            "magnetic_variation_deg": "-7.339",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJNT"
-        }
-    ]
+    }
 }

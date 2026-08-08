@@ -131,29 +131,5 @@
         "iso_country": "AF",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Parwan_Province",
         "keywords": "Airports in Parwan Province"
-    },
-    "navaids": [
-        {
-            "id": "85992",
-            "filename": "Bagram_TACAN_AF",
-            "ident": "BGM",
-            "name": "Bagram",
-            "type": "TACAN",
-            "frequency_khz": "115800",
-            "latitude_deg": "34.94300079345703",
-            "longitude_deg": "69.2614974975586",
-            "elevation_ft": "4907",
-            "iso_country": "AF",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.413",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "OAIX"
-        }
-    ]
+    }
 }

@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "85093",
-            "filename": "Points_North_Landing_NDB_CA",
-            "ident": "4H",
-            "name": "Points North Landing",
-            "type": "NDB",
-            "frequency_khz": "368",
-            "latitude_deg": "58.26919937133789",
-            "longitude_deg": "-104.08000183105469",
-            "elevation_ft": "1620",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.553",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYNL"
-        }
-    ]
+    }
 }

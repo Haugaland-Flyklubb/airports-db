@@ -69,51 +69,5 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Galapagos_Province",
         "keywords": "Airports in Galapagos Province"
-    },
-    "navaids": [
-        {
-            "id": "88457",
-            "filename": "Galapagos_NDB_EC",
-            "ident": "GLS",
-            "name": "Galapagos",
-            "type": "NDB",
-            "frequency_khz": "272",
-            "latitude_deg": "-0.43222200870513916",
-            "longitude_deg": "-90.28309631347656",
-            "elevation_ft": "137",
-            "iso_country": "EC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.559",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SEGS"
-        },
-        {
-            "id": "88460",
-            "filename": "Galapagos_VOR-DME_EC",
-            "ident": "GLV",
-            "name": "Galapagos",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "-0.46111100912094116",
-            "longitude_deg": "-90.25859832763672",
-            "elevation_ft": "74",
-            "iso_country": "EC",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "4.556",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SEGS"
-        }
-    ]
+    }
 }

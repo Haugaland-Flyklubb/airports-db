@@ -69,29 +69,5 @@
         "iso_country": "PL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Pomeranian_Voivodeship",
         "keywords": "Zachodniopomorskie, West Pomerania"
-    },
-    "navaids": [
-        {
-            "id": "91993",
-            "filename": "Szczecin_NDB_PL",
-            "ident": "OL",
-            "name": "Szczecin",
-            "type": "NDB",
-            "frequency_khz": "397",
-            "latitude_deg": "53.55500030517578",
-            "longitude_deg": "14.960200309753418",
-            "elevation_ft": "",
-            "iso_country": "PL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.418",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EPSC"
-        }
-    ]
+    }
 }

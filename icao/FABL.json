@@ -115,51 +115,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Free_State_(province)",
         "keywords": "Airports in Free State"
-    },
-    "navaids": [
-        {
-            "id": "86136",
-            "filename": "Bloemfontein_NDB_ZA",
-            "ident": "BL",
-            "name": "Bloemfontein",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "-29.172000885009766",
-            "longitude_deg": "26.298799514770508",
-            "elevation_ft": "4453",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.144",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FABL"
-        },
-        {
-            "id": "86165",
-            "filename": "Bloemfontein_VORTAC_ZA",
-            "ident": "BLV",
-            "name": "Bloemfontein",
-            "type": "VORTAC",
-            "frequency_khz": "114100",
-            "latitude_deg": "-29.100500106811523",
-            "longitude_deg": "26.30069923400879",
-            "elevation_ft": "4416",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-19.007",
-            "magnetic_variation_deg": "-21.09",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FABL"
-        }
-    ]
+    }
 }

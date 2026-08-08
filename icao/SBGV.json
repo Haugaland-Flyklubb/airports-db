@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    },
-    "navaids": [
-        {
-            "id": "95040",
-            "filename": "Valadares_NDB_BR",
-            "ident": "VAL",
-            "name": "Valadares",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "-18.898500442504883",
-            "longitude_deg": "-41.987701416015625",
-            "elevation_ft": "561",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.279",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBGV"
-        }
-    ]
+    }
 }

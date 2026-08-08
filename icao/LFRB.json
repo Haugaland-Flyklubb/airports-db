@@ -115,51 +115,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
         "keywords": "Bretagne"
-    },
-    "navaids": [
-        {
-            "id": "85997",
-            "filename": "Guipavas_NDB_FR",
-            "ident": "BGP",
-            "name": "Guipavas",
-            "type": "NDB",
-            "frequency_khz": "387",
-            "latitude_deg": "48.444698333740234",
-            "longitude_deg": "-4.416500091552734",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.239",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LFRB"
-        },
-        {
-            "id": "88623",
-            "filename": "Guipavas_NDB_FR",
-            "ident": "GU",
-            "name": "Guipavas",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "48.477699279785156",
-            "longitude_deg": "-4.2855000495910645",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.213",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LFRB"
-        }
-    ]
+    }
 }

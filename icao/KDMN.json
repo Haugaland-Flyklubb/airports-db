@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    },
-    "navaids": [
-        {
-            "id": "87438",
-            "filename": "Deming_VORTAC_US",
-            "ident": "DMN",
-            "name": "Deming",
-            "type": "VORTAC",
-            "frequency_khz": "108600",
-            "latitude_deg": "32.27560043334961",
-            "longitude_deg": "-107.6050033569336",
-            "elevation_ft": "4210",
-            "iso_country": "US",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.001",
-            "magnetic_variation_deg": "9.528",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KDMN"
-        }
-    ]
+    }
 }

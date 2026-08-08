@@ -69,29 +69,5 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Makkah_Region",
         "keywords": "Airports in Makkah Region"
-    },
-    "navaids": [
-        {
-            "id": "92982",
-            "filename": "Rabigh_VOR-DME_SA",
-            "ident": "RBG",
-            "name": "Rabigh",
-            "type": "VOR-DME",
-            "frequency_khz": "116800",
-            "latitude_deg": "22.791900634765625",
-            "longitude_deg": "39.097198486328125",
-            "elevation_ft": "58",
-            "iso_country": "SA",
-            "dme_frequency_khz": "116800",
-            "dme_channel": "115X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.007",
-            "magnetic_variation_deg": "2.512",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OERB"
-        }
-    ]
+    }
 }

@@ -99,29 +99,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Magallanes_Region",
         "keywords": "Airports in Magallanes Region"
-    },
-    "navaids": [
-        {
-            "id": "86705",
-            "filename": "Capitan_Fuentes_Martinez_NDB_CL",
-            "ident": "CFM",
-            "name": "Capitan Fuentes Martinez",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "-53.246700286865234",
-            "longitude_deg": "-70.35220336914062",
-            "elevation_ft": "",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "13.492",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SCFM"
-        }
-    ]
+    }
 }

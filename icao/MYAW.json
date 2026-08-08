@@ -35,29 +35,5 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Abaco",
         "keywords": "Airports in North Abaco"
-    },
-    "navaids": [
-        {
-            "id": "96145",
-            "filename": "Walker_Cay_NDB_BS",
-            "ident": "ZWC",
-            "name": "Walker Cay",
-            "type": "NDB",
-            "frequency_khz": "280",
-            "latitude_deg": "27.251699447631836",
-            "longitude_deg": "-78.40059661865234",
-            "elevation_ft": "10",
-            "iso_country": "BS",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.006",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MYAW"
-        }
-    ]
+    }
 }

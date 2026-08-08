@@ -91,29 +91,5 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rabat-Sal%C3%A9-K%C3%A9nitra",
         "keywords": "الرباط-سلا-القنيطرة"
-    },
-    "navaids": [
-        {
-            "id": "86917",
-            "filename": "Kenitra_NDB_MA",
-            "ident": "CNL",
-            "name": "Kenitra",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "34.287200927734375",
-            "longitude_deg": "-6.620560169219971",
-            "elevation_ft": "",
-            "iso_country": "MA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.58",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GMMY"
-        }
-    ]
+    }
 }

@@ -123,29 +123,5 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Riyadh_Region",
         "keywords": "Riyad"
-    },
-    "navaids": [
-        {
-            "id": "89790",
-            "filename": "King_Khaled_VORTAC_SA",
-            "ident": "KIA",
-            "name": "King Khaled",
-            "type": "VORTAC",
-            "frequency_khz": "113300",
-            "latitude_deg": "24.88610076904297",
-            "longitude_deg": "46.7593994140625",
-            "elevation_ft": "1960",
-            "iso_country": "SA",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "2.262",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OERK"
-        }
-    ]
+    }
 }

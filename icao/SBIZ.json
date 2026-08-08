@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maranhão",
         "keywords": "Airports in Maranhão"
-    },
-    "navaids": [
-        {
-            "id": "95865",
-            "filename": "Imperatriz_VOR-DME_BR",
-            "ident": "YTZ",
-            "name": "Imperatriz",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "-5.523829936981201",
-            "longitude_deg": "-47.449798583984375",
-            "elevation_ft": "431",
-            "iso_country": "BR",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-19.007",
-            "magnetic_variation_deg": "-20.23",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBIZ"
-        },
-        {
-            "id": "95866",
-            "filename": "Imperatriz_NDB_BR",
-            "ident": "YTZ",
-            "name": "Imperatriz",
-            "type": "NDB",
-            "frequency_khz": "390",
-            "latitude_deg": "-5.5345001220703125",
-            "longitude_deg": "-47.45719909667969",
-            "elevation_ft": "431",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.229",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBIZ"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tlemcen_Province",
         "keywords": "Airports in Tlemcen Province"
-    },
-    "navaids": [
-        {
-            "id": "94434",
-            "filename": "Tlemcen_VOR-DME_DZ",
-            "ident": "TLM",
-            "name": "Tlemcen",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "35.035301208496094",
-            "longitude_deg": "-1.3880599737167358",
-            "elevation_ft": "1001",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.242",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DAON"
-        },
-        {
-            "id": "94435",
-            "filename": "Tlemcen_NDB_DZ",
-            "ident": "TLM",
-            "name": "Tlemcen",
-            "type": "NDB",
-            "frequency_khz": "346",
-            "latitude_deg": "35.040000915527344",
-            "longitude_deg": "-1.3677799701690674",
-            "elevation_ft": "",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.238",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "DAON"
-        }
-    ]
+    }
 }

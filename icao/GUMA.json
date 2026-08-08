@@ -59,29 +59,5 @@
         "iso_country": "GN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nz%C3%A9r%C3%A9kor%C3%A9_Region",
         "keywords": "Airports in Nzérékoré Region"
-    },
-    "navaids": [
-        {
-            "id": "90699",
-            "filename": "Macenta_NDB_GN",
-            "ident": "MA",
-            "name": "Macenta",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "8.484359741210938",
-            "longitude_deg": "-9.536809921264648",
-            "elevation_ft": "",
-            "iso_country": "GN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.045",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "GUMA"
-        }
-    ]
+    }
 }

@@ -139,29 +139,5 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Brabant",
         "keywords": "Airports in Noord-Brabant"
-    },
-    "navaids": [
-        {
-            "id": "95167",
-            "filename": "Volkel_TACAN_NL",
-            "ident": "VKL",
-            "name": "Volkel",
-            "type": "TACAN",
-            "frequency_khz": "108300",
-            "latitude_deg": "51.655601501464844",
-            "longitude_deg": "5.706940174102783",
-            "elevation_ft": "64",
-            "iso_country": "NL",
-            "dme_frequency_khz": "108300",
-            "dme_channel": "020X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.14",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EHVK"
-        }
-    ]
+    }
 }

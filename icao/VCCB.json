@@ -69,29 +69,5 @@
         "iso_country": "LK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Province,_Sri_Lanka",
         "keywords": "Negenahira Palata"
-    },
-    "navaids": [
-        {
-            "id": "85817",
-            "filename": "Batticaloa_NDB_LK",
-            "ident": "BAT",
-            "name": "Batticaloa",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "7.703619956970215",
-            "longitude_deg": "81.6801986694336",
-            "elevation_ft": "",
-            "iso_country": "LK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.294",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VCCB"
-        }
-    ]
+    }
 }

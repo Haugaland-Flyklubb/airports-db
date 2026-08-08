@@ -69,29 +69,5 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "94532",
-            "filename": "Takapoto_NDB_PF",
-            "ident": "TP",
-            "name": "Takapoto",
-            "type": "NDB",
-            "frequency_khz": "349",
-            "latitude_deg": "-14.714699745178223",
-            "longitude_deg": "-145.2530059814453",
-            "elevation_ft": "62",
-            "iso_country": "PF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.002",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "NTGT"
-        }
-    ]
+    }
 }

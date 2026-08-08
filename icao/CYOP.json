@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "95956",
-            "filename": "Rainbow_Lake_DME_CA",
-            "ident": "Z2",
-            "name": "Rainbow Lake",
-            "type": "DME",
-            "frequency_khz": "111700",
-            "latitude_deg": "58.494998931884766",
-            "longitude_deg": "-119.41300201416016",
-            "elevation_ft": "1790",
-            "iso_country": "CA",
-            "dme_frequency_khz": "111700",
-            "dme_channel": "054X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "21.235",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYOP"
-        }
-    ]
+    }
 }

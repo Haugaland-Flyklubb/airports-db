@@ -149,29 +149,5 @@
         "iso_country": "HN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Comayagua_Department",
         "keywords": "Airports in Comayagua Department"
-    },
-    "navaids": [
-        {
-            "id": "87826",
-            "filename": "Soto_Cano_VORTAC_HN",
-            "ident": "ESC",
-            "name": "Soto Cano",
-            "type": "VORTAC",
-            "frequency_khz": "114900",
-            "latitude_deg": "14.391900062561035",
-            "longitude_deg": "-87.62210083007812",
-            "elevation_ft": "2062",
-            "iso_country": "HN",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.003",
-            "magnetic_variation_deg": "1.057",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "MHSC"
-        }
-    ]
+    }
 }

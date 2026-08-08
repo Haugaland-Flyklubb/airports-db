@@ -99,51 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "91334",
-            "filename": "Mount_Hope_VOR-DME_AU",
-            "ident": "MTP",
-            "name": "Mount Hope",
-            "type": "VOR-DME",
-            "frequency_khz": "117900",
-            "latitude_deg": "-34.1349983215332",
-            "longitude_deg": "135.33999633789062",
-            "elevation_ft": "540",
-            "iso_country": "AU",
-            "dme_frequency_khz": "117900",
-            "dme_channel": "126X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.007",
-            "magnetic_variation_deg": "6.391",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YCUS"
-        },
-        {
-            "id": "91335",
-            "filename": "Mount_Hope_NDB_AU",
-            "ident": "MTP",
-            "name": "Mount Hope",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "-34.1255989074707",
-            "longitude_deg": "135.34100341796875",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.39",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YCUS"
-        }
-    ]
+    }
 }

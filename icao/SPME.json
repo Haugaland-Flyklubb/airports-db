@@ -69,51 +69,5 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tumbes_Region",
         "keywords": "Airports in Tumbes Region"
-    },
-    "navaids": [
-        {
-            "id": "85945",
-            "filename": "Tumbes_VOR_PE",
-            "ident": "BES",
-            "name": "Tumbes",
-            "type": "VOR",
-            "frequency_khz": "112900",
-            "latitude_deg": "-3.5444400310516357",
-            "longitude_deg": "-80.38919830322266",
-            "elevation_ft": "82",
-            "iso_country": "PE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.154",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SPME"
-        },
-        {
-            "id": "85946",
-            "filename": "Tumbes_NDB_PE",
-            "ident": "BES",
-            "name": "Tumbes",
-            "type": "NDB",
-            "frequency_khz": "290",
-            "latitude_deg": "-3.5494399070739746",
-            "longitude_deg": "-80.38169860839844",
-            "elevation_ft": "82",
-            "iso_country": "PE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.152",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SPME"
-        }
-    ]
+    }
 }

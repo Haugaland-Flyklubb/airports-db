@@ -85,51 +85,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Araucanía_Region",
         "keywords": "Airports in Araucanía Region"
-    },
-    "navaids": [
-        {
-            "id": "94256",
-            "filename": "Temuco_VOR-DME_CL",
-            "ident": "TCO",
-            "name": "Temuco",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "-38.76639938354492",
-            "longitude_deg": "-72.63079833984375",
-            "elevation_ft": "303",
-            "iso_country": "CL",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.007",
-            "magnetic_variation_deg": "7.595",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SCTC"
-        },
-        {
-            "id": "94258",
-            "filename": "Temuco_NDB_CL",
-            "ident": "TCO",
-            "name": "Temuco",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "-38.766700744628906",
-            "longitude_deg": "-72.61470031738281",
-            "elevation_ft": "332",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.587",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SCTC"
-        }
-    ]
+    }
 }

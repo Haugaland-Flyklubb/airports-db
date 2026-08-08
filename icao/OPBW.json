@@ -77,29 +77,5 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
         "keywords": "Airports in Punjab"
-    },
-    "navaids": [
-        {
-            "id": "86477",
-            "filename": "Bahawalpur_NDB_PK",
-            "ident": "BW",
-            "name": "Bahawalpur",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "29.349899291992188",
-            "longitude_deg": "71.71910095214844",
-            "elevation_ft": "405",
-            "iso_country": "PK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.062",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "OPBW"
-        }
-    ]
+    }
 }

@@ -117,51 +117,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "85714",
-            "filename": "Lawson_NDB_US",
-            "ident": "AWS",
-            "name": "Lawson",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "32.2932014465332",
-            "longitude_deg": "-85.02330017089844",
-            "elevation_ft": "407",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.219",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KLSF"
-        },
-        {
-            "id": "90549",
-            "filename": "Lawson_VOR-DME_US",
-            "ident": "LSF",
-            "name": "Lawson",
-            "type": "VOR-DME",
-            "frequency_khz": "111400",
-            "latitude_deg": "32.332401275634766",
-            "longitude_deg": "-84.99330139160156",
-            "elevation_ft": "250",
-            "iso_country": "US",
-            "dme_frequency_khz": "111400",
-            "dme_channel": "051X",
-            "dme_latitude_deg": "32.3324",
-            "dme_longitude_deg": "-84.9933",
-            "dme_elevation_ft": "250",
-            "slaved_variation_deg": "-2.001",
-            "magnetic_variation_deg": "-3.236",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KLSF"
-        }
-    ]
+    }
 }

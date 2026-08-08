@@ -115,29 +115,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "95552",
-            "filename": "Medicine_Hat_NDB_CA",
-            "ident": "XH",
-            "name": "Medicine Hat",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "50.013099670410156",
-            "longitude_deg": "-110.79900360107422",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "14.226",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYXH"
-        }
-    ]
+    }
 }

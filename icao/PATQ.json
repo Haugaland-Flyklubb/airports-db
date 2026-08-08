@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "85663",
-            "filename": "Atqasuk_NDB_US",
-            "ident": "ATK",
-            "name": "Atqasuk",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "70.46910095214844",
-            "longitude_deg": "-157.427001953125",
-            "elevation_ft": "93",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.494",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PATQ"
-        }
-    ]
+    }
 }

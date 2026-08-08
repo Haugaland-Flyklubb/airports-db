@@ -93,29 +93,5 @@
         "iso_country": "NC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Province,_New_Caledonia",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "89297",
-            "filename": "Ile_Des_Pins_NDB_NC",
-            "ident": "IP",
-            "name": "Ile Des Pins",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "-22.59000015258789",
-            "longitude_deg": "167.4510040283203",
-            "elevation_ft": "315",
-            "iso_country": "NC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.397",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "NWWE"
-        }
-    ]
+    }
 }

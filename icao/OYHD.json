@@ -85,51 +85,5 @@
         "iso_country": "YE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Hudaydah_Governorate",
         "keywords": "Airports in Al Hudaydah Governorate"
-    },
-    "navaids": [
-        {
-            "id": "88763",
-            "filename": "Hodeidah_NDB_YE",
-            "ident": "HD",
-            "name": "Hodeidah",
-            "type": "NDB",
-            "frequency_khz": "368",
-            "latitude_deg": "14.760199546813965",
-            "longitude_deg": "42.973201751708984",
-            "elevation_ft": "41",
-            "iso_country": "YE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.49",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "OYHD"
-        },
-        {
-            "id": "88767",
-            "filename": "Hodeidah_VOR-DME_YE",
-            "ident": "HDH",
-            "name": "Hodeidah",
-            "type": "VOR-DME",
-            "frequency_khz": "114200",
-            "latitude_deg": "14.773599624633789",
-            "longitude_deg": "42.98809814453125",
-            "elevation_ft": "41",
-            "iso_country": "YE",
-            "dme_frequency_khz": "114200",
-            "dme_channel": "089X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "1.489",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OYHD"
-        }
-    ]
+    }
 }

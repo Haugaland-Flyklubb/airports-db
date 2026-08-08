@@ -77,29 +77,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
         "keywords": "Airports in Minnesota"
-    },
-    "navaids": [
-        {
-            "id": "92386",
-            "filename": "Piney_Pinecreek_NDB_US",
-            "ident": "PFT",
-            "name": "Piney Pinecreek",
-            "type": "NDB",
-            "frequency_khz": "342",
-            "latitude_deg": "48.9922981262207",
-            "longitude_deg": "-95.97920227050781",
-            "elevation_ft": "1060",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.114",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "48Y"
-        }
-    ]
+    }
 }

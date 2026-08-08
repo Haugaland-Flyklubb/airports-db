@@ -99,51 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "90866",
-            "filename": "Meekatharra_VOR-DME_AU",
-            "ident": "MEK",
-            "name": "Meekatharra",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "-26.60689926147461",
-            "longitude_deg": "118.53299713134766",
-            "elevation_ft": "1723",
-            "iso_country": "AU",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "-26.6069",
-            "dme_longitude_deg": "118.532",
-            "dme_elevation_ft": "1723",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.578",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YMEK"
-        },
-        {
-            "id": "90867",
-            "filename": "Meekatharra_NDB_AU",
-            "ident": "MEK",
-            "name": "Meekatharra",
-            "type": "NDB",
-            "frequency_khz": "251",
-            "latitude_deg": "-26.6156005859375",
-            "longitude_deg": "118.54000091552734",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.579",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YMEK"
-        }
-    ]
+    }
 }

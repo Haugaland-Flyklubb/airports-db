@@ -69,51 +69,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
         "keywords": "Airports in Andalucía"
-    },
-    "navaids": [
-        {
-            "id": "86657",
-            "filename": "Cordoba_VOR-DME_ES",
-            "ident": "CDB",
-            "name": "Cordoba",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "37.84590148925781",
-            "longitude_deg": "-4.844979763031006",
-            "elevation_ft": "325",
-            "iso_country": "ES",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "37.8459",
-            "dme_longitude_deg": "-4.84491",
-            "dme_elevation_ft": "325",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.296",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "LEBA"
-        },
-        {
-            "id": "86967",
-            "filename": "Cordoba_NDB_ES",
-            "ident": "COR",
-            "name": "Cordoba",
-            "type": "NDB",
-            "frequency_khz": "366",
-            "latitude_deg": "37.84270095825195",
-            "longitude_deg": "-4.8468098640441895",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.296",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LEBA"
-        }
-    ]
+    }
 }

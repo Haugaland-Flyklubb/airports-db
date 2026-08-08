@@ -77,29 +77,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chocó_Department",
         "keywords": "Airports in Chocó Department"
-    },
-    "navaids": [
-        {
-            "id": "94859",
-            "filename": "Quibdo_VOR-DME_CO",
-            "ident": "UIB",
-            "name": "Quibdo",
-            "type": "VOR-DME",
-            "frequency_khz": "113200",
-            "latitude_deg": "5.692259788513184",
-            "longitude_deg": "-76.64129638671875",
-            "elevation_ft": "207",
-            "iso_country": "CO",
-            "dme_frequency_khz": "113200",
-            "dme_channel": "079X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-4.043",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SKUI"
-        }
-    ]
+    }
 }

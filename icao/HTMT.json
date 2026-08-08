@@ -91,29 +91,5 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mtwara_Region",
         "keywords": "Airports in Mtwara Region"
-    },
-    "navaids": [
-        {
-            "id": "91306",
-            "filename": "Mtwara_NDB_TZ",
-            "ident": "MT",
-            "name": "Mtwara",
-            "type": "NDB",
-            "frequency_khz": "336",
-            "latitude_deg": "-10.33240032196045",
-            "longitude_deg": "40.18450164794922",
-            "elevation_ft": "371",
-            "iso_country": "TZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.307",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HTMT"
-        }
-    ]
+    }
 }

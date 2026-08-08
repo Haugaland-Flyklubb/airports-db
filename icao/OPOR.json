@@ -59,29 +59,5 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
         "keywords": "Baluchistan"
-    },
-    "navaids": [
-        {
-            "id": "92072",
-            "filename": "Ormara_NDB_PK",
-            "ident": "OR",
-            "name": "Ormara",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "25.270299911499023",
-            "longitude_deg": "64.58920288085938",
-            "elevation_ft": "",
-            "iso_country": "PK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.394",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "OPOR"
-        }
-    ]
+    }
 }

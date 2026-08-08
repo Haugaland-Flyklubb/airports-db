@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    },
-    "navaids": [
-        {
-            "id": "95410",
-            "filename": "Wangaratta_NDB_AU",
-            "ident": "WGT",
-            "name": "Wangaratta",
-            "type": "NDB",
-            "frequency_khz": "203",
-            "latitude_deg": "-36.42150115966797",
-            "longitude_deg": "146.30499267578125",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.434",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YWGT"
-        }
-    ]
+    }
 }

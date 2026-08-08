@@ -59,29 +59,5 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Camarines_Norte_Province",
         "keywords": "Airports in Camarines Norte Province"
-    },
-    "navaids": [
-        {
-            "id": "87539",
-            "filename": "Daet_NDB_PH",
-            "ident": "DT",
-            "name": "Daet",
-            "type": "NDB",
-            "frequency_khz": "215",
-            "latitude_deg": "14.133500099182129",
-            "longitude_deg": "122.98300170898438",
-            "elevation_ft": "",
-            "iso_country": "PH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.164",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "RPUD"
-        }
-    ]
+    }
 }

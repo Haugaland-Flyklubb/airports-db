@@ -153,29 +153,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "85199",
-            "filename": "Tomhi_NDB_US",
-            "ident": "AB",
-            "name": "Tomhi",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "32.29890060424805",
-            "longitude_deg": "-99.67420196533203",
-            "elevation_ft": "1950",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.183",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KABI"
-        }
-    ]
+    }
 }

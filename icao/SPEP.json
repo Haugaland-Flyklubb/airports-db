@@ -59,51 +59,5 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ucayali_Region",
         "keywords": "Airports in Ucayali Region"
-    },
-    "navaids": [
-        {
-            "id": "92861",
-            "filename": "Puerto_Esperanza_VOR_PE",
-            "ident": "PZA",
-            "name": "Puerto Esperanza",
-            "type": "VOR",
-            "frequency_khz": "113900",
-            "latitude_deg": "-9.76908016204834",
-            "longitude_deg": "-70.7051010131836",
-            "elevation_ft": "800",
-            "iso_country": "PE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.223",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SPEP"
-        },
-        {
-            "id": "92863",
-            "filename": "Puerto_Esperanza_NDB_PE",
-            "ident": "PZA",
-            "name": "Puerto Esperanza",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "-9.755000114440918",
-            "longitude_deg": "-70.73829650878906",
-            "elevation_ft": "",
-            "iso_country": "PE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.209",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SPEP"
-        }
-    ]
+    }
 }

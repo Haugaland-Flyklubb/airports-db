@@ -99,29 +99,5 @@
         "iso_country": "SK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Trenčín_Region",
         "keywords": "Trenčíansky kraj"
-    },
-    "navaids": [
-        {
-            "id": "94567",
-            "filename": "Trencin_NDB_SK",
-            "ident": "TR",
-            "name": "Trencin",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "48.86109924316406",
-            "longitude_deg": "17.941699981689453",
-            "elevation_ft": "",
-            "iso_country": "SK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.132",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LZTN"
-        }
-    ]
+    }
 }

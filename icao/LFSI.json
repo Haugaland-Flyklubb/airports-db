@@ -93,51 +93,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
         "keywords": "Airports in Grand Est"
-    },
-    "navaids": [
-        {
-            "id": "93480",
-            "filename": "Saint-Dizier_TACAN_FR",
-            "ident": "SDI",
-            "name": "Saint-Dizier",
-            "type": "TACAN",
-            "frequency_khz": "114000",
-            "latitude_deg": "48.637001037597656",
-            "longitude_deg": "4.889190196990967",
-            "elevation_ft": "492",
-            "iso_country": "FR",
-            "dme_frequency_khz": "114000",
-            "dme_channel": "087X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.007",
-            "magnetic_variation_deg": "-0.153",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFSI"
-        },
-        {
-            "id": "93481",
-            "filename": "Saint-Dizier_NDB_FR",
-            "ident": "SDI",
-            "name": "Saint-Dizier",
-            "type": "NDB",
-            "frequency_khz": "373",
-            "latitude_deg": "48.62900161743164",
-            "longitude_deg": "4.910669803619385",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.149",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LFSI"
-        }
-    ]
+    }
 }

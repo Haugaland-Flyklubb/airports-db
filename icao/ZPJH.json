@@ -85,51 +85,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yunnan",
         "keywords": "Airports in Yunnan Province"
-    },
-    "navaids": [
-        {
-            "id": "86220",
-            "filename": "Xishuangbanna_VOR-DME_CN",
-            "ident": "BNN",
-            "name": "Xishuangbanna",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "21.984600067138672",
-            "longitude_deg": "100.75199890136719",
-            "elevation_ft": "1840",
-            "iso_country": "CN",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.548",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZPJH"
-        },
-        {
-            "id": "89484",
-            "filename": "Ganlanba_VOR-DME_CN",
-            "ident": "JHG",
-            "name": "Ganlanba",
-            "type": "VOR-DME",
-            "frequency_khz": "112500",
-            "latitude_deg": "21.863300323486328",
-            "longitude_deg": "100.93199920654297",
-            "elevation_ft": "1850",
-            "iso_country": "CN",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.551",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZPJH"
-        }
-    ]
+    }
 }

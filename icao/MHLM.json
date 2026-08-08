@@ -93,51 +93,5 @@
         "iso_country": "HN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cort%C3%A9s_Department",
         "keywords": "Airports in Cortés Department"
-    },
-    "navaids": [
-        {
-            "id": "90424",
-            "filename": "La_Mesa_VOR-DME_HN",
-            "ident": "LMS",
-            "name": "La Mesa",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "15.469799995422363",
-            "longitude_deg": "-87.90850067138672",
-            "elevation_ft": "91",
-            "iso_country": "HN",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.007",
-            "magnetic_variation_deg": "1.05",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MHLM"
-        },
-        {
-            "id": "90425",
-            "filename": "La_Mesa_NDB_HN",
-            "ident": "LMS",
-            "name": "La Mesa",
-            "type": "NDB",
-            "frequency_khz": "370",
-            "latitude_deg": "15.44890022277832",
-            "longitude_deg": "-87.93240356445312",
-            "elevation_ft": "150",
-            "iso_country": "HN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.06",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MHLM"
-        }
-    ]
+    }
 }

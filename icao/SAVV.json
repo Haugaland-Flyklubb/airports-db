@@ -91,51 +91,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/R%C3%ADo_Negro_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "95135",
-            "filename": "Viedma_VOR_AR",
-            "ident": "VIE",
-            "name": "Viedma",
-            "type": "VOR",
-            "frequency_khz": "117100",
-            "latitude_deg": "-40.8671989440918",
-            "longitude_deg": "-63.00080108642578",
-            "elevation_ft": "20",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.007",
-            "magnetic_variation_deg": "0.448",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SAVV"
-        },
-        {
-            "id": "95138",
-            "filename": "Viedma_NDB_AR",
-            "ident": "VIE",
-            "name": "Viedma",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "-40.86249923706055",
-            "longitude_deg": "-63.00669860839844",
-            "elevation_ft": "20",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.45",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SAVV"
-        }
-    ]
+    }
 }

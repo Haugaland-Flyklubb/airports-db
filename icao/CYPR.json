@@ -93,51 +93,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "89303",
-            "filename": "Prince_Rupert_DME_CA",
-            "ident": "IPR",
-            "name": "Prince Rupert",
-            "type": "DME",
-            "frequency_khz": "109700",
-            "latitude_deg": "54.29059982299805",
-            "longitude_deg": "-130.4510040283203",
-            "elevation_ft": "91",
-            "iso_country": "CA",
-            "dme_frequency_khz": "109700",
-            "dme_channel": "034X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "21.133",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYPR"
-        },
-        {
-            "id": "92661",
-            "filename": "Prince_Rupert_NDB_CA",
-            "ident": "PR",
-            "name": "Prince Rupert",
-            "type": "NDB",
-            "frequency_khz": "218",
-            "latitude_deg": "54.263301849365234",
-            "longitude_deg": "-130.4239959716797",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "21.125",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYPR"
-        }
-    ]
+    }
 }

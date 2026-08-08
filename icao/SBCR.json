@@ -77,29 +77,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
         "keywords": "Airports in Mato Grosso do Sul"
-    },
-    "navaids": [
-        {
-            "id": "87108",
-            "filename": "Corumba_NDB_BR",
-            "ident": "CUB",
-            "name": "Corumba",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "-19.016700744628906",
-            "longitude_deg": "-57.663299560546875",
-            "elevation_ft": "461",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.428",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBCR"
-        }
-    ]
+    }
 }

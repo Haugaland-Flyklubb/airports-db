@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    },
-    "navaids": [
-        {
-            "id": "95786",
-            "filename": "Paulatuk_NDB_CA",
-            "ident": "YPC",
-            "name": "Paulatuk",
-            "type": "NDB",
-            "frequency_khz": "276",
-            "latitude_deg": "69.35079956054688",
-            "longitude_deg": "-124.07499694824219",
-            "elevation_ft": "18",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "29.398",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYPC"
-        }
-    ]
+    }
 }

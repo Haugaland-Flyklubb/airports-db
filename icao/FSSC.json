@@ -59,29 +59,5 @@
         "iso_country": "SC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Outer_Islands_(Seychelles)",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "86946",
-            "filename": "Coetivy_NDB_SC",
-            "ident": "COE",
-            "name": "Coetivy",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "-7.1461100578308105",
-            "longitude_deg": "56.27830123901367",
-            "elevation_ft": "",
-            "iso_country": "SC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.546",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "FSSC"
-        }
-    ]
+    }
 }

@@ -85,51 +85,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Roi_Et_province",
         "keywords": "Airports in Roi Et Province"
-    },
-    "navaids": [
-        {
-            "id": "93037",
-            "filename": "Roi_Et_NDB_TH",
-            "ident": "RE",
-            "name": "Roi Et",
-            "type": "NDB",
-            "frequency_khz": "319",
-            "latitude_deg": "16.110700607299805",
-            "longitude_deg": "103.77799987792969",
-            "elevation_ft": "",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.4",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VTUV"
-        },
-        {
-            "id": "93205",
-            "filename": "Roi_Et_VOR-DME_TH",
-            "ident": "ROT",
-            "name": "Roi Et",
-            "type": "VOR-DME",
-            "frequency_khz": "111200",
-            "latitude_deg": "16.11680030822754",
-            "longitude_deg": "103.77200317382812",
-            "elevation_ft": "451",
-            "iso_country": "TH",
-            "dme_frequency_khz": "111200",
-            "dme_channel": "049X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.401",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTUV"
-        }
-    ]
+    }
 }

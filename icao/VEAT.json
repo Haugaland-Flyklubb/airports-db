@@ -91,51 +91,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tripura",
         "keywords": "Airports in Tripura"
-    },
-    "navaids": [
-        {
-            "id": "85188",
-            "filename": "Agartala_VOR-DME_IN",
-            "ident": "AAT",
-            "name": "Agartala",
-            "type": "VOR-DME",
-            "frequency_khz": "116100",
-            "latitude_deg": "23.88960075378418",
-            "longitude_deg": "91.23970031738281",
-            "elevation_ft": "47",
-            "iso_country": "IN",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.302",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VEAT"
-        },
-        {
-            "id": "85643",
-            "filename": "Agartala_NDB_IN",
-            "ident": "AT",
-            "name": "Agartala",
-            "type": "NDB",
-            "frequency_khz": "237",
-            "latitude_deg": "23.887300491333008",
-            "longitude_deg": "91.2343978881836",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.302",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VEAT"
-        }
-    ]
+    }
 }

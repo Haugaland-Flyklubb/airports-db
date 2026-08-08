@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    },
-    "navaids": [
-        {
-            "id": "86680",
-            "filename": "Kobra_NDB_US",
-            "ident": "CE",
-            "name": "Kobra",
-            "type": "NDB",
-            "frequency_khz": "201",
-            "latitude_deg": "30.8528995513916",
-            "longitude_deg": "-86.5365982055664",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.025",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KCEW"
-        }
-    ]
+    }
 }

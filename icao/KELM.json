@@ -169,51 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    },
-    "navaids": [
-        {
-            "id": "85419",
-            "filename": "Alpine_NDB_US",
-            "ident": "ALP",
-            "name": "Alpine",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "42.23870086669922",
-            "longitude_deg": "-76.76399993896484",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.555",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KELM"
-        },
-        {
-            "id": "94895",
-            "filename": "Elmira_VOR-DME_US",
-            "ident": "ULW",
-            "name": "Elmira",
-            "type": "VOR-DME",
-            "frequency_khz": "109650",
-            "latitude_deg": "42.094200134277344",
-            "longitude_deg": "-77.0248031616211",
-            "elevation_ft": "1620",
-            "iso_country": "US",
-            "dme_frequency_khz": "109650",
-            "dme_channel": "033Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-12.001",
-            "magnetic_variation_deg": "-11.416",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KELM"
-        }
-    ]
+    }
 }

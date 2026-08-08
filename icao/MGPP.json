@@ -69,29 +69,5 @@
         "iso_country": "GT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pet%C3%A9n_Department",
         "keywords": "Airports in Petén Department"
-    },
-    "navaids": [
-        {
-            "id": "92610",
-            "filename": "Poptun_NDB_GT",
-            "ident": "POP",
-            "name": "Poptun",
-            "type": "NDB",
-            "frequency_khz": "363",
-            "latitude_deg": "16.325000762939453",
-            "longitude_deg": "-89.42169952392578",
-            "elevation_ft": "1804",
-            "iso_country": "GT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.47",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "MGPP"
-        }
-    ]
+    }
 }

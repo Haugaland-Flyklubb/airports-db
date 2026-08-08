@@ -69,29 +69,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tr%C3%B8ndelag",
         "keywords": "Airports in Trøndelag"
-    },
-    "navaids": [
-        {
-            "id": "92994",
-            "filename": "Rambu_NDB_NO",
-            "ident": "RBU",
-            "name": "Rambu",
-            "type": "NDB",
-            "frequency_khz": "352",
-            "latitude_deg": "62.506099700927734",
-            "longitude_deg": "11.556900024414062",
-            "elevation_ft": "2025",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.35",
-            "usageType": "RNAV",
-            "power": "MEDIUM",
-            "associated_airport": "ENRO"
-        }
-    ]
+    }
 }

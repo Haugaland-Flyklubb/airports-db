@@ -69,51 +69,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Perak",
         "keywords": "Airports in Perak"
-    },
-    "navaids": [
-        {
-            "id": "95141",
-            "filename": "Ipoh_VOR-DME_MY",
-            "ident": "VIH",
-            "name": "Ipoh",
-            "type": "VOR-DME",
-            "frequency_khz": "117300",
-            "latitude_deg": "4.5730299949646",
-            "longitude_deg": "101.09400177001953",
-            "elevation_ft": "128",
-            "iso_country": "MY",
-            "dme_frequency_khz": "117300",
-            "dme_channel": "120X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.117",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WMKI"
-        },
-        {
-            "id": "95247",
-            "filename": "Ipoh_VOR_MY",
-            "ident": "VPS",
-            "name": "Ipoh",
-            "type": "VOR",
-            "frequency_khz": "112800",
-            "latitude_deg": "4.48222017288208",
-            "longitude_deg": "101.01699829101562",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.122",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "WMKI"
-        }
-    ]
+    }
 }

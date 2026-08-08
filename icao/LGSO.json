@@ -77,29 +77,5 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Aegean",
         "keywords": "Περιφέρεια Νοτίου Αιγαίου"
-    },
-    "navaids": [
-        {
-            "id": "94130",
-            "filename": "Syros_NDB_GR",
-            "ident": "SYR",
-            "name": "Syros",
-            "type": "NDB",
-            "frequency_khz": "417",
-            "latitude_deg": "37.42150115966797",
-            "longitude_deg": "24.94770050048828",
-            "elevation_ft": "",
-            "iso_country": "GR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.232",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LGSO"
-        }
-    ]
+    }
 }

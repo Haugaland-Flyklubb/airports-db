@@ -85,51 +85,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sabah",
         "keywords": "Airports in Sabah"
-    },
-    "navaids": [
-        {
-            "id": "94718",
-            "filename": "Tawau_NDB_MY",
-            "ident": "TWU",
-            "name": "Tawau",
-            "type": "NDB",
-            "frequency_khz": "278",
-            "latitude_deg": "4.299630165100098",
-            "longitude_deg": "118.0999984741211",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.315",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WBKW"
-        },
-        {
-            "id": "95316",
-            "filename": "Tawau_VOR-DME_MY",
-            "ident": "VTW",
-            "name": "Tawau",
-            "type": "VOR-DME",
-            "frequency_khz": "115600",
-            "latitude_deg": "4.324520111083984",
-            "longitude_deg": "118.13999938964844",
-            "elevation_ft": "65",
-            "iso_country": "MY",
-            "dme_frequency_khz": "115600",
-            "dme_channel": "103X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.011",
-            "magnetic_variation_deg": "0.313",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WBKW"
-        }
-    ]
+    }
 }

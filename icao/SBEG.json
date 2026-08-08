@@ -101,51 +101,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)",
         "keywords": "Airports in Amazonas"
-    },
-    "navaids": [
-        {
-            "id": "90736",
-            "filename": "Manaus_NDB_BR",
-            "ident": "MAN",
-            "name": "Manaus",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "-3.041830062866211",
-            "longitude_deg": "-60.051998138427734",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.152",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBEG"
-        },
-        {
-            "id": "90735",
-            "filename": "Manaus_VOR-DME_BR",
-            "ident": "MNS",
-            "name": "Manaus",
-            "type": "VOR-DME",
-            "frequency_khz": "115800",
-            "latitude_deg": "-3.040007",
-            "longitude_deg": "-60.054787",
-            "elevation_ft": "108",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "099X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-12",
-            "magnetic_variation_deg": "-14.1",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBEG"
-        }
-    ]
+    }
 }

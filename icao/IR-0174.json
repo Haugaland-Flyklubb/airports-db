@@ -69,29 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bushehr_Province",
         "keywords": "Airports in Bushehr Province"
-    },
-    "navaids": [
-        {
-            "id": "85628",
-            "filename": "Asaloyeh_NDB_IR",
-            "ident": "ASL",
-            "name": "Asaloyeh",
-            "type": "NDB",
-            "frequency_khz": "447",
-            "latitude_deg": "27.48189926147461",
-            "longitude_deg": "52.6161003112793",
-            "elevation_ft": "15",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.131",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "IR-0174"
-        }
-    ]
+    }
 }

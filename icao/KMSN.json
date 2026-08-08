@@ -193,51 +193,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
         "keywords": "Airports in Wisconsin"
-    },
-    "navaids": [
-        {
-            "id": "91269",
-            "filename": "Monah_NDB_US",
-            "ident": "MS",
-            "name": "Monah",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "43.06269836425781",
-            "longitude_deg": "-89.34590148925781",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.522",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KMSN"
-        },
-        {
-            "id": "91285",
-            "filename": "Madison_VORTAC_US",
-            "ident": "MSN",
-            "name": "Madison",
-            "type": "VORTAC",
-            "frequency_khz": "108600",
-            "latitude_deg": "43.144798278808594",
-            "longitude_deg": "-89.3396987915039",
-            "elevation_ft": "860",
-            "iso_country": "US",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "-1.535",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KMSN"
-        }
-    ]
+    }
 }

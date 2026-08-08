@@ -59,51 +59,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
         "keywords": "Airports in Bolívar State"
-    },
-    "navaids": [
-        {
-            "id": "86666",
-            "filename": "Caicara_Del_Orinoco_VOR-DME_VE",
-            "ident": "CDO",
-            "name": "Caicara Del Orinoco",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "7.628330230712891",
-            "longitude_deg": "-66.15779876708984",
-            "elevation_ft": "146",
-            "iso_country": "VE",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.007",
-            "magnetic_variation_deg": "-11.2",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVCD"
-        },
-        {
-            "id": "86668",
-            "filename": "Caicara_Del_Orinoco_NDB_VE",
-            "ident": "CDO",
-            "name": "Caicara Del Orinoco",
-            "type": "NDB",
-            "frequency_khz": "341",
-            "latitude_deg": "7.630829811096191",
-            "longitude_deg": "-66.16950225830078",
-            "elevation_ft": "151",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.206",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SVCD"
-        }
-    ]
+    }
 }

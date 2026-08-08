@@ -107,51 +107,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gaziantep_Province",
         "keywords": "Airports in Gaziantep Province"
-    },
-    "navaids": [
-        {
-            "id": "88270",
-            "filename": "Gaziantep_VOR-DME_TR",
-            "ident": "GAZ",
-            "name": "Gaziantep",
-            "type": "VOR-DME",
-            "frequency_khz": "116700",
-            "latitude_deg": "36.95029830932617",
-            "longitude_deg": "37.47330093383789",
-            "elevation_ft": "2297",
-            "iso_country": "TR",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "4.247",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTAJ"
-        },
-        {
-            "id": "88272",
-            "filename": "Oguzeli_NDB_TR",
-            "ident": "GAZ",
-            "name": "Oguzeli",
-            "type": "NDB",
-            "frequency_khz": "432",
-            "latitude_deg": "36.95029830932617",
-            "longitude_deg": "37.47330093383789",
-            "elevation_ft": "",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.248",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LTAJ"
-        }
-    ]
+    }
 }

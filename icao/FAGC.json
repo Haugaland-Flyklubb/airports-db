@@ -69,29 +69,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gauteng",
         "keywords": "Airports in Gauteng"
-    },
-    "navaids": [
-        {
-            "id": "88296",
-            "filename": "Grand_Central_NDB_ZA",
-            "ident": "GC",
-            "name": "Grand Central",
-            "type": "NDB",
-            "frequency_khz": "373",
-            "latitude_deg": "-25.992599487304688",
-            "longitude_deg": "28.139999389648438",
-            "elevation_ft": "5327",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-17.345",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FAGC"
-        }
-    ]
+    }
 }

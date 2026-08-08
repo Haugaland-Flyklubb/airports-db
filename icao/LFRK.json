@@ -145,51 +145,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Normandy",
         "keywords": "Haute-Normandie"
-    },
-    "navaids": [
-        {
-            "id": "86573",
-            "filename": "Caen_VOR_FR",
-            "ident": "CAN",
-            "name": "Caen",
-            "type": "VOR",
-            "frequency_khz": "114450",
-            "latitude_deg": "49.173195",
-            "longitude_deg": "-0.455282",
-            "elevation_ft": "256",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4",
-            "magnetic_variation_deg": "-2",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFRK"
-        },
-        {
-            "id": "86909",
-            "filename": "Caen_NDB_FR",
-            "ident": "CNE",
-            "name": "Caen",
-            "type": "NDB",
-            "frequency_khz": "404",
-            "latitude_deg": "49.115699768066406",
-            "longitude_deg": "-0.32124999165534973",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.009",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LFRK"
-        }
-    ]
+    }
 }

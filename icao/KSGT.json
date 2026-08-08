@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
         "keywords": "Airports in Arkansas"
-    },
-    "navaids": [
-        {
-            "id": "94639",
-            "filename": "Stutt_NDB_US",
-            "ident": "TT",
-            "name": "Stutt",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "34.50579833984375",
-            "longitude_deg": "-91.58159637451172",
-            "elevation_ft": "196",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.067",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSGT"
-        }
-    ]
+    }
 }

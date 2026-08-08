@@ -85,51 +85,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "85860",
-            "filename": "Baie_Comeau_NDB_CA",
-            "ident": "BC",
-            "name": "Baie Comeau",
-            "type": "NDB",
-            "frequency_khz": "414",
-            "latitude_deg": "49.117801666259766",
-            "longitude_deg": "-68.32610321044922",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.303",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYBC"
-        },
-        {
-            "id": "95624",
-            "filename": "Baie-Comeau_VOR-DME_CA",
-            "ident": "YBC",
-            "name": "Baie-Comeau",
-            "type": "VOR-DME",
-            "frequency_khz": "117700",
-            "latitude_deg": "49.13399887084961",
-            "longitude_deg": "-68.22219848632812",
-            "elevation_ft": "71",
-            "iso_country": "CA",
-            "dme_frequency_khz": "117700",
-            "dme_channel": "124X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-22.001",
-            "magnetic_variation_deg": "-19.332",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYBC"
-        }
-    ]
+    }
 }

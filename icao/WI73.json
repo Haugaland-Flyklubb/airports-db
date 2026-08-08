@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
         "keywords": "Airports in Wisconsin"
-    },
-    "navaids": [
-        {
-            "id": "88036",
-            "filename": "Fond_Du_Lac_NDB_US",
-            "ident": "FLD",
-            "name": "Fond Du Lac",
-            "type": "NDB",
-            "frequency_khz": "248",
-            "latitude_deg": "43.769500732421875",
-            "longitude_deg": "-88.4845962524414",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.471",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "WI73"
-        }
-    ]
+    }
 }

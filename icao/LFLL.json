@@ -123,29 +123,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
         "keywords": "Airports in Auvergne-Rhône-Alpes"
-    },
-    "navaids": [
-        {
-            "id": "90547",
-            "filename": "Lyon_Saint_Exupery_VOR-DME_FR",
-            "ident": "LSE",
-            "name": "Lyon/Saint Exupery",
-            "type": "VOR-DME",
-            "frequency_khz": "114750",
-            "latitude_deg": "45.74549865722656",
-            "longitude_deg": "5.090579986572266",
-            "elevation_ft": "821",
-            "iso_country": "FR",
-            "dme_frequency_khz": "114750",
-            "dme_channel": "094Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "-0.006",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFLL"
-        }
-    ]
+    }
 }

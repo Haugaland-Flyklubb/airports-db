@@ -77,29 +77,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
         "keywords": "Airports in Hauts-de-France"
-    },
-    "navaids": [
-        {
-            "id": "86874",
-            "filename": "Cambrai_VORTAC_FR",
-            "ident": "CMB",
-            "name": "Cambrai",
-            "type": "VORTAC",
-            "frequency_khz": "112600",
-            "latitude_deg": "50.22809982299805",
-            "longitude_deg": "3.1514999866485596",
-            "elevation_ft": "257",
-            "iso_country": "FR",
-            "dme_frequency_khz": "112600",
-            "dme_channel": "073X",
-            "dme_latitude_deg": "50.2232",
-            "dme_longitude_deg": "3.15089",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-0.574",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FR-1238"
-        }
-    ]
+    }
 }

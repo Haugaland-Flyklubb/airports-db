@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85107",
-            "filename": "Fox_Creek_NDB-DME_CA",
-            "ident": "5F",
-            "name": "Fox Creek",
-            "type": "NDB-DME",
-            "frequency_khz": "353",
-            "latitude_deg": "54.379398345947266",
-            "longitude_deg": "-116.76000213623047",
-            "elevation_ft": "2841",
-            "iso_country": "CA",
-            "dme_frequency_khz": "110000",
-            "dme_channel": "037X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "18.332",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CED4"
-        }
-    ]
+    }
 }

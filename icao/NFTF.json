@@ -123,51 +123,5 @@
         "iso_country": "TO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tongatapu",
         "keywords": "Airports in Tongatapu"
-    },
-    "navaids": [
-        {
-            "id": "88059",
-            "filename": "Fua_Amotu_NDB_TO",
-            "ident": "FM",
-            "name": "Fua Amotu",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "-21.268299102783203",
-            "longitude_deg": "-175.1439971923828",
-            "elevation_ft": "22",
-            "iso_country": "TO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "13.264",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "NFTF"
-        },
-        {
-            "id": "94241",
-            "filename": "Fua_Amotu_VOR-DME_TO",
-            "ident": "TBU",
-            "name": "Fua Amotu",
-            "type": "VOR-DME",
-            "frequency_khz": "114500",
-            "latitude_deg": "-21.2455997467041",
-            "longitude_deg": "-175.14700317382812",
-            "elevation_ft": "22",
-            "iso_country": "TO",
-            "dme_frequency_khz": "114500",
-            "dme_channel": "092X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.007",
-            "magnetic_variation_deg": "13.259",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NFTF"
-        }
-    ]
+    }
 }

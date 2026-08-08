@@ -139,51 +139,5 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Gwangju",
         "keywords": "Airports in Gwangju-gwangyeoksi"
-    },
-    "navaids": [
-        {
-            "id": "90083",
-            "filename": "Gwangju_VOR-DME_KR",
-            "ident": "KWA",
-            "name": "Gwangju",
-            "type": "VOR-DME",
-            "frequency_khz": "114400",
-            "latitude_deg": "35.12620162963867",
-            "longitude_deg": "126.81199645996094",
-            "elevation_ft": "42",
-            "iso_country": "KR",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.011",
-            "magnetic_variation_deg": "-7.026",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RKJJ"
-        },
-        {
-            "id": "90086",
-            "filename": "Gwangju_TACAN_KR",
-            "ident": "KWJ",
-            "name": "Gwangju",
-            "type": "TACAN",
-            "frequency_khz": "114100",
-            "latitude_deg": "35.11880111694336",
-            "longitude_deg": "126.80000305175781",
-            "elevation_ft": "40",
-            "iso_country": "KR",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.011",
-            "magnetic_variation_deg": "-7.024",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RKJJ"
-        }
-    ]
+    }
 }

@@ -155,51 +155,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
         "keywords": "Airports in Wyoming"
-    },
-    "navaids": [
-        {
-            "id": "87187",
-            "filename": "Horse_NDB_US",
-            "ident": "CY",
-            "name": "Horse",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "41.14670181274414",
-            "longitude_deg": "-104.67900085449219",
-            "elevation_ft": "6156",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.35",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KCYS"
-        },
-        {
-            "id": "87193",
-            "filename": "Cheyenne_VORTAC_US",
-            "ident": "CYS",
-            "name": "Cheyenne",
-            "type": "VORTAC",
-            "frequency_khz": "113100",
-            "latitude_deg": "41.21099853515625",
-            "longitude_deg": "-104.77300262451172",
-            "elevation_ft": "6210",
-            "iso_country": "US",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.001",
-            "magnetic_variation_deg": "9.385",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KCYS"
-        }
-    ]
+    }
 }

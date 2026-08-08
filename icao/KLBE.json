@@ -131,29 +131,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    },
-    "navaids": [
-        {
-            "id": "86027",
-            "filename": "Benje_NDB_US",
-            "ident": "BHU",
-            "name": "Benje",
-            "type": "NDB",
-            "frequency_khz": "382",
-            "latitude_deg": "40.3754997253418",
-            "longitude_deg": "-79.27169799804688",
-            "elevation_ft": "1180",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.316",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KLBE"
-        }
-    ]
+    }
 }

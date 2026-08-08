@@ -113,29 +113,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lazio",
         "keywords": "LZ"
-    },
-    "navaids": [
-        {
-            "id": "95132",
-            "filename": "Viterbo_NDB_IT",
-            "ident": "VIB",
-            "name": "Viterbo",
-            "type": "NDB",
-            "frequency_khz": "480",
-            "latitude_deg": "42.439998626708984",
-            "longitude_deg": "12.056900024414062",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.417",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LIRV"
-        }
-    ]
+    }
 }

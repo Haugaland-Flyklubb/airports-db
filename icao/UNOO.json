@@ -145,51 +145,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Omsk_Oblast",
         "keywords": "Airports in Omsk Oblast"
-    },
-    "navaids": [
-        {
-            "id": "93139",
-            "filename": "Omsk_NDB_RU",
-            "ident": "RM",
-            "name": "Omsk",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "54.95669937133789",
-            "longitude_deg": "73.2300033569336",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.324",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "UNOO"
-        },
-        {
-            "id": "94398",
-            "filename": "Omsk_NDB_RU",
-            "ident": "TK",
-            "name": "Omsk",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "54.97829818725586",
-            "longitude_deg": "73.40670013427734",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.312",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "UNOO"
-        }
-    ]
+    }
 }

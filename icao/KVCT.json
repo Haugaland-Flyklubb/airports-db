@@ -159,51 +159,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "95070",
-            "filename": "Fostr_NDB_US",
-            "ident": "VC",
-            "name": "Fostr",
-            "type": "NDB",
-            "frequency_khz": "226",
-            "latitude_deg": "28.915199279785156",
-            "longitude_deg": "-97.00050354003906",
-            "elevation_ft": "138",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.503",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KVCT"
-        },
-        {
-            "id": "95077",
-            "filename": "Victoria_VOR-DME_US",
-            "ident": "VCT",
-            "name": "Victoria",
-            "type": "VOR-DME",
-            "frequency_khz": "109000",
-            "latitude_deg": "28.900299072265625",
-            "longitude_deg": "-96.97889709472656",
-            "elevation_ft": "130",
-            "iso_country": "US",
-            "dme_frequency_khz": "109000",
-            "dme_channel": "027X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.008",
-            "magnetic_variation_deg": "4.496",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KVCT"
-        }
-    ]
+    }
 }

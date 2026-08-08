@@ -77,29 +77,5 @@
         "iso_country": "NC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Loyalty_Islands_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "91224",
-            "filename": "Mare_NDB_NC",
-            "ident": "MR",
-            "name": "Mare",
-            "type": "NDB",
-            "frequency_khz": "388",
-            "latitude_deg": "-21.481599807739258",
-            "longitude_deg": "168.03599548339844",
-            "elevation_ft": "141",
-            "iso_country": "NC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.261",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "NWWR"
-        }
-    ]
+    }
 }

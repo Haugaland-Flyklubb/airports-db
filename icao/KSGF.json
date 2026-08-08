@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
         "keywords": "Airports in Missouri"
-    },
-    "navaids": [
-        {
-            "id": "89231",
-            "filename": "Willard_NDB_US",
-            "ident": "ILJ",
-            "name": "Willard",
-            "type": "NDB",
-            "frequency_khz": "254",
-            "latitude_deg": "37.299400329589844",
-            "longitude_deg": "-93.4406967163086",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.13",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KSGF"
-        },
-        {
-            "id": "93546",
-            "filename": "Coole_NDB_US",
-            "ident": "SG",
-            "name": "Coole",
-            "type": "NDB",
-            "frequency_khz": "404",
-            "latitude_deg": "37.180301666259766",
-            "longitude_deg": "-93.41709899902344",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.125",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSGF"
-        }
-    ]
+    }
 }

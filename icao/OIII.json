@@ -137,51 +137,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tehran_Province",
         "keywords": "Airports in Tehran Province"
-    },
-    "navaids": [
-        {
-            "id": "94347",
-            "filename": "Tehran_TACAN_IR",
-            "ident": "THR",
-            "name": "Tehran",
-            "type": "TACAN",
-            "frequency_khz": "113300",
-            "latitude_deg": "35.69889831542969",
-            "longitude_deg": "51.28030014038086",
-            "elevation_ft": "3999",
-            "iso_country": "IR",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.029",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "OIII"
-        },
-        {
-            "id": "94598",
-            "filename": "Tehran_VOR-DME_IR",
-            "ident": "TRN",
-            "name": "Tehran",
-            "type": "VOR-DME",
-            "frequency_khz": "115300",
-            "latitude_deg": "35.696998596191406",
-            "longitude_deg": "51.28379821777344",
-            "elevation_ft": "3987",
-            "iso_country": "IR",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.501",
-            "magnetic_variation_deg": "4.028",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIII"
-        }
-    ]
+    }
 }

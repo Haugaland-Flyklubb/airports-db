@@ -59,29 +59,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maluku",
         "keywords": "Airports in Maluku"
-    },
-    "navaids": [
-        {
-            "id": "86196",
-            "filename": "Banda_Naera_NDB_ID",
-            "ident": "BN",
-            "name": "Banda Naera",
-            "type": "NDB",
-            "frequency_khz": "372",
-            "latitude_deg": "-4.521940231323242",
-            "longitude_deg": "129.9040069580078",
-            "elevation_ft": "30",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.254",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAPC"
-        }
-    ]
+    }
 }

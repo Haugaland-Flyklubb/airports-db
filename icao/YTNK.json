@@ -99,51 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
         "keywords": "Airports in Northern Territory"
-    },
-    "navaids": [
-        {
-            "id": "94477",
-            "filename": "Tennant_Creek_VOR-DME_AU",
-            "ident": "TNK",
-            "name": "Tennant Creek",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "-19.6343994140625",
-            "longitude_deg": "134.18099975585938",
-            "elevation_ft": "1246",
-            "iso_country": "AU",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.007",
-            "magnetic_variation_deg": "4.481",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YTNK"
-        },
-        {
-            "id": "94478",
-            "filename": "Tennant_Creek_NDB_AU",
-            "ident": "TNK",
-            "name": "Tennant Creek",
-            "type": "NDB",
-            "frequency_khz": "272",
-            "latitude_deg": "-19.64419937133789",
-            "longitude_deg": "134.1750030517578",
-            "elevation_ft": "1236",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.481",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YTNK"
-        }
-    ]
+    }
 }

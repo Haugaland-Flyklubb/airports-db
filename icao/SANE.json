@@ -69,29 +69,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_del_Estero_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "93477",
-            "filename": "Santiago_Del_Estero_VOR_AR",
-            "ident": "SDE",
-            "name": "Santiago Del Estero",
-            "type": "VOR",
-            "frequency_khz": "114800",
-            "latitude_deg": "-27.779399871826172",
-            "longitude_deg": "-64.31809997558594",
-            "elevation_ft": "656",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.007",
-            "magnetic_variation_deg": "-5.024",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SANE"
-        }
-    ]
+    }
 }

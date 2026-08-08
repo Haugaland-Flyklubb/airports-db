@@ -107,51 +107,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "89747",
-            "filename": "Kalgoorlie_VOR-DME_AU",
-            "ident": "KG",
-            "name": "Kalgoorlie",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "-30.78969955444336",
-            "longitude_deg": "121.4530029296875",
-            "elevation_ft": "1203",
-            "iso_country": "AU",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "-30.7897",
-            "dme_longitude_deg": "121.453",
-            "dme_elevation_ft": "1213",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "1.087",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YPKG"
-        },
-        {
-            "id": "89748",
-            "filename": "Kalgoorlie_NDB_AU",
-            "ident": "KG",
-            "name": "Kalgoorlie",
-            "type": "NDB",
-            "frequency_khz": "287",
-            "latitude_deg": "-30.777799606323242",
-            "longitude_deg": "121.43900299072266",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.086",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YPKG"
-        }
-    ]
+    }
 }

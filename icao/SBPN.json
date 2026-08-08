@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tocantins",
         "keywords": "Airports in Tocatins"
-    },
-    "navaids": [
-        {
-            "id": "92563",
-            "filename": "Porto_Nacional_VOR-DME_BR",
-            "ident": "PNC",
-            "name": "Porto Nacional",
-            "type": "VOR-DME",
-            "frequency_khz": "113000",
-            "latitude_deg": "-10.72070026397705",
-            "longitude_deg": "-48.4025993347168",
-            "elevation_ft": "870",
-            "iso_country": "BR",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-19.007",
-            "magnetic_variation_deg": "-20.141",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBPN"
-        },
-        {
-            "id": "92564",
-            "filename": "Porto_Nacional_NDB_BR",
-            "ident": "PNC",
-            "name": "Porto Nacional",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "-10.712800025939941",
-            "longitude_deg": "-48.402198791503906",
-            "elevation_ft": "1054",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.141",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBPN"
-        }
-    ]
+    }
 }

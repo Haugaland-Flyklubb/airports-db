@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    },
-    "navaids": [
-        {
-            "id": "85665",
-            "filename": "Altamira_VOR_BR",
-            "ident": "ATM",
-            "name": "Altamira",
-            "type": "VOR",
-            "frequency_khz": "113200",
-            "latitude_deg": "-3.2493300437927246",
-            "longitude_deg": "-52.24769973754883",
-            "elevation_ft": "367",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-17.007",
-            "magnetic_variation_deg": "-18.279",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBHT"
-        },
-        {
-            "id": "85666",
-            "filename": "Altamira_NDB_BR",
-            "ident": "ATM",
-            "name": "Altamira",
-            "type": "NDB",
-            "frequency_khz": "295",
-            "latitude_deg": "-3.256500005722046",
-            "longitude_deg": "-52.25080108642578",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.279",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBHT"
-        }
-    ]
+    }
 }

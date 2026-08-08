@@ -85,29 +85,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ehime",
         "keywords": "Shikoku, 愛媛県の飛行場"
-    },
-    "navaids": [
-        {
-            "id": "91199",
-            "filename": "Matsuyama_VOR-DME_JP",
-            "ident": "MPE",
-            "name": "Matsuyama",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "33.8129997253418",
-            "longitude_deg": "132.71800231933594",
-            "elevation_ft": "64",
-            "iso_country": "JP",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.007",
-            "magnetic_variation_deg": "-6.513",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJOM"
-        }
-    ]
+    }
 }

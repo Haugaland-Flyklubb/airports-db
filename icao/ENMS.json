@@ -77,51 +77,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nordland",
         "keywords": "Airports in Nordland"
-    },
-    "navaids": [
-        {
-            "id": "91177",
-            "filename": "Mosjoen_TACAN_NO",
-            "ident": "MOS",
-            "name": "Mosjoen",
-            "type": "TACAN",
-            "frequency_khz": "113900",
-            "latitude_deg": "65.87770080566406",
-            "longitude_deg": "13.308500289916992",
-            "elevation_ft": "2105",
-            "iso_country": "NO",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "2.35",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ENMS"
-        },
-        {
-            "id": "95102",
-            "filename": "Vardefjell_VOR-DME_NO",
-            "ident": "VFL",
-            "name": "Vardefjell",
-            "type": "VOR-DME",
-            "frequency_khz": "112250",
-            "latitude_deg": "65.87940216064453",
-            "longitude_deg": "13.307999610900879",
-            "elevation_ft": "2092",
-            "iso_country": "NO",
-            "dme_frequency_khz": "112250",
-            "dme_channel": "059Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.001",
-            "magnetic_variation_deg": "2.35",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ENMS"
-        }
-    ]
+    }
 }

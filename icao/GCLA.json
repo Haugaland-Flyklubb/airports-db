@@ -93,51 +93,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canary_Islands",
         "keywords": "Airports in Canary Islands, Canarias"
-    },
-    "navaids": [
-        {
-            "id": "86457",
-            "filename": "La_Palma_DME_ES",
-            "ident": "BV",
-            "name": "La Palma",
-            "type": "DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "28.601600646972656",
-            "longitude_deg": "-17.75659942626953",
-            "elevation_ft": "184",
-            "iso_country": "ES",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.041",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "GCLA"
-        },
-        {
-            "id": "86494",
-            "filename": "La_Palma_NDB_ES",
-            "ident": "BX",
-            "name": "La Palma",
-            "type": "NDB",
-            "frequency_khz": "389",
-            "latitude_deg": "28.601699829101562",
-            "longitude_deg": "-17.756799697875977",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.041",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "GCLA"
-        }
-    ]
+    }
 }

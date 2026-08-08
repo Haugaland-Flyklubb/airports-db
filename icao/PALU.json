@@ -85,29 +85,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "90604",
-            "filename": "Cape_Lisburne_NDB-DME_US",
-            "ident": "LUR",
-            "name": "Cape Lisburne",
-            "type": "NDB-DME",
-            "frequency_khz": "385",
-            "latitude_deg": "68.87110137939453",
-            "longitude_deg": "-166.0760040283203",
-            "elevation_ft": "125",
-            "iso_country": "US",
-            "dme_frequency_khz": "108350",
-            "dme_channel": "020Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "14.109",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PALU"
-        }
-    ]
+    }
 }

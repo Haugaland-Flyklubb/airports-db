@@ -59,29 +59,5 @@
         "iso_country": "SD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_state,_Sudan",
         "keywords": "Airports in Northern State"
-    },
-    "navaids": [
-        {
-            "id": "91256",
-            "filename": "Merowe_VOR-DME_SD",
-            "ident": "MRW",
-            "name": "Merowe",
-            "type": "VOR-DME",
-            "frequency_khz": "116000",
-            "latitude_deg": "18.449800491333008",
-            "longitude_deg": "31.818700790405273",
-            "elevation_ft": "881",
-            "iso_country": "SD",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "2.338",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HSMR"
-        }
-    ]
+    }
 }

@@ -115,51 +115,5 @@
         "iso_country": "DK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Denmark_Region",
         "keywords": "Central Denmark, Mid-Jutland, Midtjylland"
-    },
-    "navaids": [
-        {
-            "id": "91040",
-            "filename": "Aarhus_NDB_DK",
-            "ident": "ML",
-            "name": "Aarhus",
-            "type": "NDB",
-            "frequency_khz": "324",
-            "latitude_deg": "56.318599700927734",
-            "longitude_deg": "10.45930004119873",
-            "elevation_ft": "",
-            "iso_country": "DK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.109",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EKAH"
-        },
-        {
-            "id": "94654",
-            "filename": "Aarhus_NDB_DK",
-            "ident": "TU",
-            "name": "Aarhus",
-            "type": "NDB",
-            "frequency_khz": "374",
-            "latitude_deg": "56.28799819946289",
-            "longitude_deg": "10.775300025939941",
-            "elevation_ft": "",
-            "iso_country": "DK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.181",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EKAH"
-        }
-    ]
+    }
 }

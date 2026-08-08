@@ -81,29 +81,5 @@
         "iso_country": "GA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Ogoou%C3%A9_Province",
         "keywords": "Airports in Haut-Ogooué Province"
-    },
-    "navaids": [
-        {
-            "id": "91492",
-            "filename": "Moanda_NDB_GA",
-            "ident": "ND",
-            "name": "Moanda",
-            "type": "NDB",
-            "frequency_khz": "402",
-            "latitude_deg": "-1.5300300121307373",
-            "longitude_deg": "13.26710033416748",
-            "elevation_ft": "",
-            "iso_country": "GA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.006",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FOOD"
-        }
-    ]
+    }
 }

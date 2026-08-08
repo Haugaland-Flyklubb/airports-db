@@ -157,29 +157,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tokyo",
         "keywords": "Kanto"
-    },
-    "navaids": [
-        {
-            "id": "95780",
-            "filename": "Yokota_TACAN_JP",
-            "ident": "YOK",
-            "name": "Yokota",
-            "type": "TACAN",
-            "frequency_khz": "113800",
-            "latitude_deg": "35.749000549316406",
-            "longitude_deg": "139.35000610351562",
-            "elevation_ft": "438",
-            "iso_country": "JP",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.011",
-            "magnetic_variation_deg": "-7.001",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJTY"
-        }
-    ]
+    }
 }

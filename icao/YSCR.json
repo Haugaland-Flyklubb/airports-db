@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "93463",
-            "filename": "Southern_Cross_NDB_AU",
-            "ident": "SCR",
-            "name": "Southern Cross",
-            "type": "NDB",
-            "frequency_khz": "221",
-            "latitude_deg": "-31.232200622558594",
-            "longitude_deg": "119.35600280761719",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.097",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YSCR"
-        }
-    ]
+    }
 }

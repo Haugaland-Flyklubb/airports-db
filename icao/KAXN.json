@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
         "keywords": "Airports in Minnesota"
-    },
-    "navaids": [
-        {
-            "id": "85722",
-            "filename": "Alexandria_VOR-DME_US",
-            "ident": "AXN",
-            "name": "Alexandria",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "45.95840072631836",
-            "longitude_deg": "-95.23259735107422",
-            "elevation_ft": "1380",
-            "iso_country": "US",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.001",
-            "magnetic_variation_deg": "2.519",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KAXN"
-        },
-        {
-            "id": "87667",
-            "filename": "Tamie_NDB_US",
-            "ident": "EE",
-            "name": "Tamie",
-            "type": "NDB",
-            "frequency_khz": "374",
-            "latitude_deg": "45.79169845581055",
-            "longitude_deg": "-95.30549621582031",
-            "elevation_ft": "1400",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.568",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KAXN"
-        }
-    ]
+    }
 }

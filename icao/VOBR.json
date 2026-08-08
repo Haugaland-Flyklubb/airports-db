@@ -99,29 +99,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Karnataka",
         "keywords": "Airports in Karnataka"
-    },
-    "navaids": [
-        {
-            "id": "86296",
-            "filename": "Bidar_NDB_IN",
-            "ident": "BR",
-            "name": "Bidar",
-            "type": "NDB",
-            "frequency_khz": "240",
-            "latitude_deg": "17.917699813842773",
-            "longitude_deg": "77.4988021850586",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.058",
-            "usageType": "HI",
-            "power": "MEDIUM",
-            "associated_airport": "VOBR"
-        }
-    ]
+    }
 }

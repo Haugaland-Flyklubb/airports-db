@@ -131,29 +131,5 @@
         "iso_country": "AE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dubai",
         "keywords": "Dubayy"
-    },
-    "navaids": [
-        {
-            "id": "87556",
-            "filename": "Dubai_VOR-DME_AE",
-            "ident": "DUB",
-            "name": "Dubai",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "25.254499435424805",
-            "longitude_deg": "55.365699768066406",
-            "elevation_ft": "37",
-            "iso_country": "AE",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.001",
-            "magnetic_variation_deg": "1.296",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OMDB"
-        }
-    ]
+    }
 }

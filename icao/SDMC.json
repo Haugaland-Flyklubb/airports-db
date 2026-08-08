@@ -77,29 +77,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
         "keywords": "Airports in Rio de Janeiro"
-    },
-    "navaids": [
-        {
-            "id": "91239",
-            "filename": "Marica_VOR-DME_BR",
-            "ident": "MRC",
-            "name": "Marica",
-            "type": "VOR-DME",
-            "frequency_khz": "114000",
-            "latitude_deg": "-22.96769905090332",
-            "longitude_deg": "-42.891300201416016",
-            "elevation_ft": "4",
-            "iso_country": "BR",
-            "dme_frequency_khz": "114000",
-            "dme_channel": "087X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-20.007",
-            "magnetic_variation_deg": "-21.45",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SDMC"
-        }
-    ]
+    }
 }

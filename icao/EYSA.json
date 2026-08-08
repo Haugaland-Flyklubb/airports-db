@@ -91,51 +91,5 @@
         "iso_country": "LT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/%C5%A0iauliai_County",
         "keywords": "Airports in Šiauliai County"
-    },
-    "navaids": [
-        {
-            "id": "93395",
-            "filename": "Siauliai_VOR-DME_LT",
-            "ident": "SAU",
-            "name": "Siauliai",
-            "type": "VOR-DME",
-            "frequency_khz": "115200",
-            "latitude_deg": "55.87900161743164",
-            "longitude_deg": "23.416400909423828",
-            "elevation_ft": "472",
-            "iso_country": "LT",
-            "dme_frequency_khz": "115200",
-            "dme_channel": "099X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.008",
-            "magnetic_variation_deg": "5.366",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EYSA"
-        },
-        {
-            "id": "93902",
-            "filename": "Siauliai_TACAN_LT",
-            "ident": "SQQ",
-            "name": "Siauliai",
-            "type": "TACAN",
-            "frequency_khz": "116300",
-            "latitude_deg": "55.89039993286133",
-            "longitude_deg": "23.40239906311035",
-            "elevation_ft": "469",
-            "iso_country": "LT",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.364",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "EYSA"
-        }
-    ]
+    }
 }

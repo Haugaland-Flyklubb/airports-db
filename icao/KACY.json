@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
         "keywords": "Airports in New Jersey"
-    },
-    "navaids": [
-        {
-            "id": "85240",
-            "filename": "Atlantic_City_VORTAC_US",
-            "ident": "ACY",
-            "name": "Atlantic City",
-            "type": "VORTAC",
-            "frequency_khz": "108600",
-            "latitude_deg": "39.45589828491211",
-            "longitude_deg": "-74.57630157470703",
-            "elevation_ft": "70",
-            "iso_country": "US",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10.002",
-            "magnetic_variation_deg": "-12.268",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KACY"
-        },
-        {
-            "id": "92808",
-            "filename": "Naada_NDB_US",
-            "ident": "PV",
-            "name": "Naada",
-            "type": "NDB",
-            "frequency_khz": "336",
-            "latitude_deg": "39.49810028076172",
-            "longitude_deg": "-74.67250061035156",
-            "elevation_ft": "54",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.24",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KACY"
-        }
-    ]
+    }
 }

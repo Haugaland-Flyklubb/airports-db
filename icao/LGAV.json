@@ -171,51 +171,5 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Attica_(region)",
         "keywords": "Airports in Attica"
-    },
-    "navaids": [
-        {
-            "id": "93389",
-            "filename": "Eleftherios_Venizelos_VOR-DME_GR",
-            "ident": "SAT",
-            "name": "Eleftherios Venizelos",
-            "type": "VOR-DME",
-            "frequency_khz": "109600",
-            "latitude_deg": "37.91669845581055",
-            "longitude_deg": "23.914199829101562",
-            "elevation_ft": "255",
-            "iso_country": "GR",
-            "dme_frequency_khz": "109600",
-            "dme_channel": "033X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.183",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LGAV"
-        },
-        {
-            "id": "93874",
-            "filename": "Eleftherios_Venizelos_VOR-DME_GR",
-            "ident": "SPA",
-            "name": "Eleftherios Venizelos",
-            "type": "VOR-DME",
-            "frequency_khz": "117500",
-            "latitude_deg": "37.91780090332031",
-            "longitude_deg": "23.93779945373535",
-            "elevation_ft": "303",
-            "iso_country": "GR",
-            "dme_frequency_khz": "117500",
-            "dme_channel": "122X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.185",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LGAV"
-        }
-    ]
+    }
 }

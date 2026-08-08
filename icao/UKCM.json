@@ -91,29 +91,5 @@
         "iso_country": "UA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Donetsk_Oblast",
         "keywords": "Airports in Donetsk Oblast"
-    },
-    "navaids": [
-        {
-            "id": "91254",
-            "filename": "Mariupol_DME_UA",
-            "ident": "MRP",
-            "name": "Mariupol",
-            "type": "DME",
-            "frequency_khz": "116200",
-            "latitude_deg": "47.07509994506836",
-            "longitude_deg": "37.45180130004883",
-            "elevation_ft": "269",
-            "iso_country": "UA",
-            "dme_frequency_khz": "116200",
-            "dme_channel": "109X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.362",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "UKCM"
-        }
-    ]
+    }
 }

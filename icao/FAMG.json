@@ -69,29 +69,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kwazulu-Natal",
         "keywords": "Airports in Kwazulu-Natal"
-    },
-    "navaids": [
-        {
-            "id": "94939",
-            "filename": "Margate_NDB_ZA",
-            "ident": "UR",
-            "name": "Margate",
-            "type": "NDB",
-            "frequency_khz": "485",
-            "latitude_deg": "-30.80419921875",
-            "longitude_deg": "30.369400024414062",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-24.535",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FAMG"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Campania",
         "keywords": "CM"
-    },
-    "navaids": [
-        {
-            "id": "88545",
-            "filename": "Grazzanise_TACAN_IT",
-            "ident": "GRA",
-            "name": "Grazzanise",
-            "type": "TACAN",
-            "frequency_khz": "117500",
-            "latitude_deg": "41.060001373291016",
-            "longitude_deg": "14.088700294494629",
-            "elevation_ft": "29",
-            "iso_country": "IT",
-            "dme_frequency_khz": "117500",
-            "dme_channel": "122X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.024",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LIRM"
-        },
-        {
-            "id": "88548",
-            "filename": "Grazzanise_NDB_IT",
-            "ident": "GRA",
-            "name": "Grazzanise",
-            "type": "NDB",
-            "frequency_khz": "343",
-            "latitude_deg": "41.05720138549805",
-            "longitude_deg": "14.083499908447266",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.024",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LIRM"
-        }
-    ]
+    }
 }

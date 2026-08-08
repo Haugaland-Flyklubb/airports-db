@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "90850",
-            "filename": "Matane_NDB_CA",
-            "ident": "ME",
-            "name": "Matane",
-            "type": "NDB",
-            "frequency_khz": "216",
-            "latitude_deg": "48.83330154418945",
-            "longitude_deg": "-67.54940032958984",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.383",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYME"
-        }
-    ]
+    }
 }

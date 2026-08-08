@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "88086",
-            "filename": "Flin_Flon_NDB_CA",
-            "ident": "FO",
-            "name": "Flin Flon",
-            "type": "NDB",
-            "frequency_khz": "250",
-            "latitude_deg": "54.67530059814453",
-            "longitude_deg": "-101.66899871826172",
-            "elevation_ft": "1126",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.185",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYFO"
-        }
-    ]
+    }
 }

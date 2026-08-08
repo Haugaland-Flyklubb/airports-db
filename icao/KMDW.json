@@ -205,51 +205,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
         "keywords": "Airports in Illinois"
-    },
-    "navaids": [
-        {
-            "id": "88859",
-            "filename": "Ermin_NDB_US",
-            "ident": "HK",
-            "name": "Ermin",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "41.71900177001953",
-            "longitude_deg": "-87.8364028930664",
-            "elevation_ft": "691",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.541",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KMDW"
-        },
-        {
-            "id": "91388",
-            "filename": "Kedzi_NDB_US",
-            "ident": "MX",
-            "name": "Kedzi",
-            "type": "NDB",
-            "frequency_khz": "248",
-            "latitude_deg": "41.74150085449219",
-            "longitude_deg": "-87.689697265625",
-            "elevation_ft": "624",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.02",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KMDW"
-        }
-    ]
+    }
 }

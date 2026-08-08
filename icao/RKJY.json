@@ -85,29 +85,5 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Jeolla_Province",
         "keywords": "Airports in Jeollanam-do (South Jeolla)"
-    },
-    "navaids": [
-        {
-            "id": "95844",
-            "filename": "Yeosu_VOR-DME_KR",
-            "ident": "YSU",
-            "name": "Yeosu",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "34.842899322509766",
-            "longitude_deg": "127.61900329589844",
-            "elevation_ft": "68",
-            "iso_country": "KR",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.011",
-            "magnetic_variation_deg": "-7.017",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RKJY"
-        }
-    ]
+    }
 }

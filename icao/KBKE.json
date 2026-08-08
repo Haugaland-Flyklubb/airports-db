@@ -129,29 +129,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
         "keywords": "Airports in Oregon"
-    },
-    "navaids": [
-        {
-            "id": "86098",
-            "filename": "Baker_City_VOR-DME_US",
-            "ident": "BKE",
-            "name": "Baker City",
-            "type": "VOR-DME",
-            "frequency_khz": "115300",
-            "latitude_deg": "44.840599060058594",
-            "longitude_deg": "-117.80799865722656",
-            "elevation_ft": "3360",
-            "iso_country": "US",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "20.001",
-            "magnetic_variation_deg": "15.44",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "KBKE"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "LR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montserrado_County",
         "keywords": "Airports in Montserrado County"
-    },
-    "navaids": [
-        {
-            "id": "93758",
-            "filename": "Monrovia_Spriggs_Payne_NDB_LR",
-            "ident": "SM",
-            "name": "Monrovia Spriggs Payne",
-            "type": "NDB",
-            "frequency_khz": "315",
-            "latitude_deg": "6.326200008392334",
-            "longitude_deg": "-10.73330020904541",
-            "elevation_ft": "",
-            "iso_country": "LR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.135",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "GLMR"
-        }
-    ]
+    }
 }

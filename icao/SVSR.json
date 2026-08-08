@@ -77,51 +77,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Apure",
         "keywords": "Airports in Apure State"
-    },
-    "navaids": [
-        {
-            "id": "93523",
-            "filename": "San_Fernando_De_Apure_VOR-DME_VE",
-            "ident": "SFD",
-            "name": "San Fernando De Apure",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "7.885560035705566",
-            "longitude_deg": "-67.43730163574219",
-            "elevation_ft": "239",
-            "iso_country": "VE",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.007",
-            "magnetic_variation_deg": "-10.338",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVSR"
-        },
-        {
-            "id": "93524",
-            "filename": "San_Fernando_De_Apure_NDB_VE",
-            "ident": "SFD",
-            "name": "San Fernando De Apure",
-            "type": "NDB",
-            "frequency_khz": "333",
-            "latitude_deg": "7.883890151977539",
-            "longitude_deg": "-67.44309997558594",
-            "elevation_ft": "239",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.336",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SVSR"
-        }
-    ]
+    }
 }

@@ -101,51 +101,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    },
-    "navaids": [
-        {
-            "id": "88721",
-            "filename": "Harrisburg_VORTAC_US",
-            "ident": "HAR",
-            "name": "Harrisburg",
-            "type": "VORTAC",
-            "frequency_khz": "112500",
-            "latitude_deg": "40.30220031738281",
-            "longitude_deg": "-77.0696029663086",
-            "elevation_ft": "1301",
-            "iso_country": "US",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10.002",
-            "magnetic_variation_deg": "-11.049",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KMDT"
-        },
-        {
-            "id": "90828",
-            "filename": "Enola_NDB_US",
-            "ident": "MD",
-            "name": "Enola",
-            "type": "NDB",
-            "frequency_khz": "204",
-            "latitude_deg": "40.246299743652344",
-            "longitude_deg": "-76.90059661865234",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.108",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KMDT"
-        }
-    ]
+    }
 }

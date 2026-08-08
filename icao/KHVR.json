@@ -107,51 +107,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    },
-    "navaids": [
-        {
-            "id": "89062",
-            "filename": "Havre_VOR-DME_US",
-            "ident": "HVR",
-            "name": "Havre",
-            "type": "VOR-DME",
-            "frequency_khz": "111800",
-            "latitude_deg": "48.54050064086914",
-            "longitude_deg": "-109.7699966430664",
-            "elevation_ft": "2580",
-            "iso_country": "US",
-            "dme_frequency_khz": "111800",
-            "dme_channel": "055X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "16.001",
-            "magnetic_variation_deg": "13.292",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KHVR"
-        },
-        {
-            "id": "90253",
-            "filename": "Leeds_NDB_US",
-            "ident": "LDS",
-            "name": "Leeds",
-            "type": "NDB",
-            "frequency_khz": "389",
-            "latitude_deg": "48.5453987121582",
-            "longitude_deg": "-109.69000244140625",
-            "elevation_ft": "2547",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "13.267",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KHVR"
-        }
-    ]
+    }
 }

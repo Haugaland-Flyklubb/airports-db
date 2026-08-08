@@ -131,51 +131,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
         "keywords": "Airports in Kansas"
-    },
-    "navaids": [
-        {
-            "id": "90941",
-            "filename": "Manhattan_VOR-DME_US",
-            "ident": "MHK",
-            "name": "Manhattan",
-            "type": "VOR-DME",
-            "frequency_khz": "110200",
-            "latitude_deg": "39.14540100097656",
-            "longitude_deg": "-96.668701171875",
-            "elevation_ft": "1044",
-            "iso_country": "US",
-            "dme_frequency_khz": "110200",
-            "dme_channel": "039X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.005",
-            "magnetic_variation_deg": "4.266",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KMHK"
-        },
-        {
-            "id": "91211",
-            "filename": "Mc_Dowell_Creek_NDB_US",
-            "ident": "MQD",
-            "name": "Mc Dowell Creek",
-            "type": "NDB",
-            "frequency_khz": "391",
-            "latitude_deg": "39.117401123046875",
-            "longitude_deg": "-96.62930297851562",
-            "elevation_ft": "1060",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.25",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KMHK"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tochigi",
         "keywords": "Kanto"
-    },
-    "navaids": [
-        {
-            "id": "89459",
-            "filename": "Nikko_NDB_JP",
-            "ident": "JD",
-            "name": "Nikko",
-            "type": "NDB",
-            "frequency_khz": "389",
-            "latitude_deg": "36.48979949951172",
-            "longitude_deg": "139.86300659179688",
-            "elevation_ft": "",
-            "iso_country": "JP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.113",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "RJTU"
-        },
-        {
-            "id": "89465",
-            "filename": "Utsunomiya_TACAN_JP",
-            "ident": "JDT",
-            "name": "Utsunomiya",
-            "type": "TACAN",
-            "frequency_khz": "112150",
-            "latitude_deg": "36.51689910888672",
-            "longitude_deg": "139.87600708007812",
-            "elevation_ft": "406",
-            "iso_country": "JP",
-            "dme_frequency_khz": "112150",
-            "dme_channel": "058Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.117",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJTU"
-        }
-    ]
+    }
 }

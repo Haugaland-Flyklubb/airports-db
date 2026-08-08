@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quintana_Roo",
         "keywords": "Airports in Quintana Roo"
-    },
-    "navaids": [
-        {
-            "id": "87089",
-            "filename": "Chetumal_VOR-DME_MX",
-            "ident": "CTM",
-            "name": "Chetumal",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "18.509300231933594",
-            "longitude_deg": "-88.33370208740234",
-            "elevation_ft": "39",
-            "iso_country": "MX",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.002",
-            "magnetic_variation_deg": "0.519",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMCM"
-        }
-    ]
+    }
 }

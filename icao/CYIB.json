@@ -85,29 +85,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "89121",
-            "filename": "Atikokan_NDB_CA",
-            "ident": "IB",
-            "name": "Atikokan",
-            "type": "NDB",
-            "frequency_khz": "209",
-            "latitude_deg": "48.82529830932617",
-            "longitude_deg": "-91.57759857177734",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.042",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYIB"
-        }
-    ]
+    }
 }

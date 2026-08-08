@@ -133,29 +133,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
         "keywords": "Airports in North Dakota"
-    },
-    "navaids": [
-        {
-            "id": "90965",
-            "filename": "Deering_TACAN_US",
-            "ident": "MIB",
-            "name": "Deering",
-            "type": "TACAN",
-            "frequency_khz": "114900",
-            "latitude_deg": "48.415401458740234",
-            "longitude_deg": "-101.36599731445312",
-            "elevation_ft": "1668",
-            "iso_country": "US",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "10.001",
-            "magnetic_variation_deg": "7.541",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KMIB"
-        }
-    ]
+    }
 }

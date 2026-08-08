@@ -175,29 +175,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nelson,_New_Zealand",
         "keywords": "Airports in Nelson Region"
-    },
-    "navaids": [
-        {
-            "id": "91702",
-            "filename": "Nelson_VOR-DME_NZ",
-            "ident": "NS",
-            "name": "Nelson",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "-41.303676",
-            "longitude_deg": "173.216297",
-            "elevation_ft": "8",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "116400",
-            "dme_channel": "111X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "21",
-            "magnetic_variation_deg": "21.5",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NZNS"
-        }
-    ]
+    }
 }

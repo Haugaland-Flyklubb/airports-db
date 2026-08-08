@@ -115,29 +115,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    },
-    "navaids": [
-        {
-            "id": "86230",
-            "filename": "Bairnsdale_NDB_AU",
-            "ident": "BNS",
-            "name": "Bairnsdale",
-            "type": "NDB",
-            "frequency_khz": "212",
-            "latitude_deg": "-37.881099700927734",
-            "longitude_deg": "147.56900024414062",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.453",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YBNS"
-        }
-    ]
+    }
 }

@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "95530",
-            "filename": "Wyndham_NDB_AU",
-            "ident": "WYM",
-            "name": "Wyndham",
-            "type": "NDB",
-            "frequency_khz": "372",
-            "latitude_deg": "-15.509699821472168",
-            "longitude_deg": "128.1510009765625",
-            "elevation_ft": "14",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.167",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YWYM"
-        }
-    ]
+    }
 }

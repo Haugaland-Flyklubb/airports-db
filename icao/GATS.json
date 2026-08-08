@@ -147,29 +147,5 @@
         "iso_country": "ML",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gao_Region",
         "keywords": "Airports in Gao Region"
-    },
-    "navaids": [
-        {
-            "id": "94749",
-            "filename": "Tessalit_NDB_ML",
-            "ident": "TZE",
-            "name": "Tessalit",
-            "type": "NDB",
-            "frequency_khz": "299",
-            "latitude_deg": "20.256999969482422",
-            "longitude_deg": "0.9881669878959656",
-            "elevation_ft": "",
-            "iso_country": "ML",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.387",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "GATS"
-        }
-    ]
+    }
 }

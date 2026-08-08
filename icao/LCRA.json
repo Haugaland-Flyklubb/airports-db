@@ -109,29 +109,5 @@
         "iso_country": "CY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia",
         "keywords": "SBA"
-    },
-    "navaids": [
-        {
-            "id": "85375",
-            "filename": "Akrotiri_TACAN_CY",
-            "ident": "AKR",
-            "name": "Akrotiri",
-            "type": "TACAN",
-            "frequency_khz": "116000",
-            "latitude_deg": "34.57939910888672",
-            "longitude_deg": "32.962799072265625",
-            "elevation_ft": "237",
-            "iso_country": "CY",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.515",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LCRA"
-        }
-    ]
+    }
 }

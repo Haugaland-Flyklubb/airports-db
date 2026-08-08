@@ -85,51 +85,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    },
-    "navaids": [
-        {
-            "id": "94886",
-            "filename": "Uberlandia_VOR-DME_BR",
-            "ident": "ULD",
-            "name": "Uberlandia",
-            "type": "VOR-DME",
-            "frequency_khz": "116100",
-            "latitude_deg": "-18.87660026550293",
-            "longitude_deg": "-48.22129821777344",
-            "elevation_ft": "3094",
-            "iso_country": "BR",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.502",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SBUL"
-        },
-        {
-            "id": "94887",
-            "filename": "Uberlandia_NDB_BR",
-            "ident": "ULD",
-            "name": "Uberlandia",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "-18.88719940185547",
-            "longitude_deg": "-48.22999954223633",
-            "elevation_ft": "3094",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.498",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBUL"
-        }
-    ]
+    }
 }

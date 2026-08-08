@@ -115,29 +115,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Giza_Governorate",
         "keywords": "Airports in Giza Governorate"
-    },
-    "navaids": [
-        {
-            "id": "86140",
-            "filename": "Cairo_West_TACAN_EG",
-            "ident": "BLA",
-            "name": "Cairo West",
-            "type": "TACAN",
-            "frequency_khz": "116700",
-            "latitude_deg": "30.11549949645996",
-            "longitude_deg": "30.911699295043945",
-            "elevation_ft": "550",
-            "iso_country": "EG",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "3.188",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HECW"
-        }
-    ]
+    }
 }

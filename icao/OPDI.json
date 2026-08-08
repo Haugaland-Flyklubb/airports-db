@@ -77,51 +77,5 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khyber_Pakhtunkhwa",
         "keywords": "North-West Frontier Province"
-    },
-    "navaids": [
-        {
-            "id": "87371",
-            "filename": "D_I_Khan_VOR_PK",
-            "ident": "DI",
-            "name": "D I Khan",
-            "type": "VOR",
-            "frequency_khz": "113100",
-            "latitude_deg": "31.912599563598633",
-            "longitude_deg": "70.88569641113281",
-            "elevation_ft": "594",
-            "iso_country": "PK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.455",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OPDI"
-        },
-        {
-            "id": "87372",
-            "filename": "D_I_Khan_NDB_PK",
-            "ident": "DI",
-            "name": "D I Khan",
-            "type": "NDB",
-            "frequency_khz": "286",
-            "latitude_deg": "31.908700942993164",
-            "longitude_deg": "70.88849639892578",
-            "elevation_ft": "685",
-            "iso_country": "PK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.454",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "OPDI"
-        }
-    ]
+    }
 }

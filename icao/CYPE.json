@@ -115,29 +115,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "95787",
-            "filename": "Peace_River_VOR-DME_CA",
-            "ident": "YPE",
-            "name": "Peace River",
-            "type": "VOR-DME",
-            "frequency_khz": "117200",
-            "latitude_deg": "56.20690155029297",
-            "longitude_deg": "-117.51200103759766",
-            "elevation_ft": "1925",
-            "iso_country": "CA",
-            "dme_frequency_khz": "117200",
-            "dme_channel": "119X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "20.001",
-            "magnetic_variation_deg": "19.368",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYPE"
-        }
-    ]
+    }
 }

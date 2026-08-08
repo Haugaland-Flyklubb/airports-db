@@ -149,29 +149,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
         "keywords": "Airports in Missouri"
-    },
-    "navaids": [
-        {
-            "id": "94146",
-            "filename": "Whiteman_TACAN_US",
-            "ident": "SZL",
-            "name": "Whiteman",
-            "type": "TACAN",
-            "frequency_khz": "109800",
-            "latitude_deg": "38.73569869995117",
-            "longitude_deg": "-93.55039978027344",
-            "elevation_ft": "850",
-            "iso_country": "US",
-            "dme_frequency_khz": "109800",
-            "dme_channel": "035X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.001",
-            "magnetic_variation_deg": "2.109",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KSZL"
-        }
-    ]
+    }
 }

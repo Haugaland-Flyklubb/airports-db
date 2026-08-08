@@ -99,29 +99,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Valley_Governorate",
         "keywords": "Airports in New Valley Governorate"
-    },
-    "navaids": [
-        {
-            "id": "92178",
-            "filename": "Shark_El_Oweinat_NDB_EG",
-            "ident": "OWT",
-            "name": "Shark El Oweinat",
-            "type": "NDB",
-            "frequency_khz": "301",
-            "latitude_deg": "22.580799102783203",
-            "longitude_deg": "28.732200622558594",
-            "elevation_ft": "870",
-            "iso_country": "EG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.392",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HEOW"
-        }
-    ]
+    }
 }

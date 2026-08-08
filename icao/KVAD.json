@@ -155,29 +155,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "95035",
-            "filename": "Moody_VORTAC_US",
-            "ident": "VAD",
-            "name": "Moody",
-            "type": "VORTAC",
-            "frequency_khz": "113300",
-            "latitude_deg": "30.960100173950195",
-            "longitude_deg": "-83.19339752197266",
-            "elevation_ft": "213",
-            "iso_country": "US",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.001",
-            "magnetic_variation_deg": "-4.267",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "KVAD"
-        }
-    ]
+    }
 }

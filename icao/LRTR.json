@@ -85,29 +85,5 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Timiş_County",
         "keywords": "Transylvania, Transylvanian Region"
-    },
-    "navaids": [
-        {
-            "id": "94633",
-            "filename": "Timisoara_NDB_RO",
-            "ident": "TSR",
-            "name": "Timisoara",
-            "type": "NDB",
-            "frequency_khz": "408",
-            "latitude_deg": "45.81800079345703",
-            "longitude_deg": "21.305400848388672",
-            "elevation_ft": "314",
-            "iso_country": "RO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.393",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LRTR"
-        }
-    ]
+    }
 }

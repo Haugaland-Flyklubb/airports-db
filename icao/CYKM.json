@@ -91,29 +91,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "87237",
-            "filename": "Kincardine_NDB_CA",
-            "ident": "D7",
-            "name": "Kincardine",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "44.203399658203125",
-            "longitude_deg": "-81.60320281982422",
-            "elevation_ft": "768",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.552",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYKM"
-        }
-    ]
+    }
 }

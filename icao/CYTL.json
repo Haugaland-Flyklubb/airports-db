@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "95858",
-            "filename": "Big_Trout_Lake_NDB_CA",
-            "ident": "YTL",
-            "name": "Big Trout Lake",
-            "type": "NDB",
-            "frequency_khz": "328",
-            "latitude_deg": "53.81529998779297",
-            "longitude_deg": "-89.91280364990234",
-            "elevation_ft": "777",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.339",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYTL"
-        }
-    ]
+    }
 }

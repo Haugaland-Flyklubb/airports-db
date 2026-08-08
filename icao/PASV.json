@@ -85,51 +85,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "87043",
-            "filename": "Cairn_Mountain_NDB_US",
-            "ident": "CRN",
-            "name": "Cairn Mountain",
-            "type": "NDB",
-            "frequency_khz": "281",
-            "latitude_deg": "61.10110092163086",
-            "longitude_deg": "-155.56900024414062",
-            "elevation_ft": "1585",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "17.555",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "PASV"
-        },
-        {
-            "id": "93899",
-            "filename": "Sparrevohn_VOR-DME_US",
-            "ident": "SQA",
-            "name": "Sparrevohn",
-            "type": "VOR-DME",
-            "frequency_khz": "117200",
-            "latitude_deg": "61.0984992980957",
-            "longitude_deg": "-155.63499450683594",
-            "elevation_ft": "2501",
-            "iso_country": "US",
-            "dme_frequency_khz": "117200",
-            "dme_channel": "119X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "22.001",
-            "magnetic_variation_deg": "17.537",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "PASV"
-        }
-    ]
+    }
 }

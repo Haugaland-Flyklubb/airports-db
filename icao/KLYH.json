@@ -139,51 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": "Virginian airports"
-    },
-    "navaids": [
-        {
-            "id": "90660",
-            "filename": "Bojar_NDB_US",
-            "ident": "LY",
-            "name": "Bojar",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "37.26250076293945",
-            "longitude_deg": "-79.24330139160156",
-            "elevation_ft": "752",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.41",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KLYH"
-        },
-        {
-            "id": "90665",
-            "filename": "Lynchburg_VORTAC_US",
-            "ident": "LYH",
-            "name": "Lynchburg",
-            "type": "VORTAC",
-            "frequency_khz": "109200",
-            "latitude_deg": "37.254600524902344",
-            "longitude_deg": "-79.23650360107422",
-            "elevation_ft": "880",
-            "iso_country": "US",
-            "dme_frequency_khz": "109200",
-            "dme_channel": "029X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.001",
-            "magnetic_variation_deg": "-8.412",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KLYH"
-        }
-    ]
+    }
 }

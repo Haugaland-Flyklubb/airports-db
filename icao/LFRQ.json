@@ -99,51 +99,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
         "keywords": "Bretagne"
-    },
-    "navaids": [
-        {
-            "id": "92910",
-            "filename": "Quimper_VOR-DME_FR",
-            "ident": "QPR",
-            "name": "Quimper",
-            "type": "VOR-DME",
-            "frequency_khz": "117800",
-            "latitude_deg": "47.957298278808594",
-            "longitude_deg": "-4.184720039367676",
-            "elevation_ft": "285",
-            "iso_country": "FR",
-            "dme_frequency_khz": "117800",
-            "dme_channel": "125X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-3.142",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFRQ"
-        },
-        {
-            "id": "93223",
-            "filename": "Quimper_NDB_FR",
-            "ident": "RQ",
-            "name": "Quimper",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "47.968299865722656",
-            "longitude_deg": "-3.9984400272369385",
-            "elevation_ft": "386",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.102",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LFRQ"
-        }
-    ]
+    }
 }

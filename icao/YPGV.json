@@ -77,51 +77,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
         "keywords": "Airports in Northern Territory"
-    },
-    "navaids": [
-        {
-            "id": "88638",
-            "filename": "Gove_VOR-DME_AU",
-            "ident": "GV",
-            "name": "Gove",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "-12.265000343322754",
-            "longitude_deg": "136.8159942626953",
-            "elevation_ft": "189",
-            "iso_country": "AU",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.007",
-            "magnetic_variation_deg": "4.325",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YPGV"
-        },
-        {
-            "id": "88640",
-            "filename": "Gove_NDB_AU",
-            "ident": "GV",
-            "name": "Gove",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "-12.270299911499023",
-            "longitude_deg": "136.82400512695312",
-            "elevation_ft": "179",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.326",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YPGV"
-        }
-    ]
+    }
 }

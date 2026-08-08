@@ -77,51 +77,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Terengganu",
         "keywords": "Airports in Terengganu"
-    },
-    "navaids": [
-        {
-            "id": "94658",
-            "filename": "Kuala_Terengganu_NDB_MY",
-            "ident": "TU",
-            "name": "Kuala Terengganu",
-            "type": "NDB",
-            "frequency_khz": "312",
-            "latitude_deg": "5.382999897003174",
-            "longitude_deg": "103.10700225830078",
-            "elevation_ft": "19",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.003",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WMKN"
-        },
-        {
-            "id": "95172",
-            "filename": "Kuala_Terengganu_VOR-DME_MY",
-            "ident": "VKT",
-            "name": "Kuala Terengganu",
-            "type": "VOR-DME",
-            "frequency_khz": "115400",
-            "latitude_deg": "5.385829925537109",
-            "longitude_deg": "103.10299682617188",
-            "elevation_ft": "19",
-            "iso_country": "MY",
-            "dme_frequency_khz": "115400",
-            "dme_channel": "101X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.003",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WMKN"
-        }
-    ]
+    }
 }

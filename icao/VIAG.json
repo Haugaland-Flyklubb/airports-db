@@ -99,51 +99,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
         "keywords": "Airports in Uttar Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "85296",
-            "filename": "Agra_NDB_IN",
-            "ident": "AG",
-            "name": "Agra",
-            "type": "NDB",
-            "frequency_khz": "250",
-            "latitude_deg": "27.15019989013672",
-            "longitude_deg": "77.96530151367188",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.218",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VIAG"
-        },
-        {
-            "id": "85304",
-            "filename": "Agra_VOR-DME_IN",
-            "ident": "AGG",
-            "name": "Agra",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "27.150699615478516",
-            "longitude_deg": "77.94750213623047",
-            "elevation_ft": "551",
-            "iso_country": "IN",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "0.219",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VIAG"
-        }
-    ]
+    }
 }

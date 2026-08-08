@@ -77,29 +77,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pattani_province",
         "keywords": "Airports in Pattani Province"
-    },
-    "navaids": [
-        {
-            "id": "92756",
-            "filename": "Pattani_NDB_TH",
-            "ident": "PT",
-            "name": "Pattani",
-            "type": "NDB",
-            "frequency_khz": "201",
-            "latitude_deg": "6.788459777832031",
-            "longitude_deg": "101.14800262451172",
-            "elevation_ft": "",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.153",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VTSK"
-        }
-    ]
+    }
 }

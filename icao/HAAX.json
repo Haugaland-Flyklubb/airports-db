@@ -69,29 +69,5 @@
         "iso_country": "ET",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tigray_Region",
         "keywords": "Airports in Tigray Region"
-    },
-    "navaids": [
-        {
-            "id": "85717",
-            "filename": "Axum_NDB_ET",
-            "ident": "AX",
-            "name": "Axum",
-            "type": "NDB",
-            "frequency_khz": "440",
-            "latitude_deg": "14.145999908447266",
-            "longitude_deg": "38.77629852294922",
-            "elevation_ft": "6319",
-            "iso_country": "ET",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.105",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HAAX"
-        }
-    ]
+    }
 }

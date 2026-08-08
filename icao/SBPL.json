@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pernambuco",
         "keywords": "Airports in Pernambuco"
-    },
-    "navaids": [
-        {
-            "id": "92771",
-            "filename": "Petrolina_VOR-DME_BR",
-            "ident": "PTL",
-            "name": "Petrolina",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "-9.36316967010498",
-            "longitude_deg": "-40.56129837036133",
-            "elevation_ft": "1263",
-            "iso_country": "BR",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-22.007",
-            "magnetic_variation_deg": "-22.221",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBPL"
-        },
-        {
-            "id": "92772",
-            "filename": "Petrolina_NDB_BR",
-            "ident": "PTL",
-            "name": "Petrolina",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "-9.367670059204102",
-            "longitude_deg": "-40.567501068115234",
-            "elevation_ft": "1396",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.221",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBPL"
-        }
-    ]
+    }
 }

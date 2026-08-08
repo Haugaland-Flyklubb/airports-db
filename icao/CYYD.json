@@ -85,29 +85,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "90689",
-            "filename": "Kathlyn_NDB_CA",
-            "ident": "M9",
-            "name": "Kathlyn",
-            "type": "NDB",
-            "frequency_khz": "240",
-            "latitude_deg": "54.82469940185547",
-            "longitude_deg": "-127.18000030517578",
-            "elevation_ft": "1712",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "21.155",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYYD"
-        }
-    ]
+    }
 }

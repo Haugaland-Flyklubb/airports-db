@@ -85,29 +85,5 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Norrbottena_län",
         "keywords": "Norrbotten County"
-    },
-    "navaids": [
-        {
-            "id": "93747",
-            "filename": "Lulea_VOR-DME_SE",
-            "ident": "SLU",
-            "name": "Lulea",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "65.54019927978516",
-            "longitude_deg": "22.134300231933594",
-            "elevation_ft": "58",
-            "iso_country": "SE",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.001",
-            "magnetic_variation_deg": "7.106",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ESPA"
-        }
-    ]
+    }
 }

@@ -191,29 +191,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    },
-    "navaids": [
-        {
-            "id": "92728",
-            "filename": "Pontiac_VORTAC_US",
-            "ident": "PSI",
-            "name": "Pontiac",
-            "type": "VORTAC",
-            "frequency_khz": "111000",
-            "latitude_deg": "42.70090103149414",
-            "longitude_deg": "-83.53279876708984",
-            "elevation_ft": "1148",
-            "iso_country": "US",
-            "dme_frequency_khz": "111000",
-            "dme_channel": "047X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.001",
-            "magnetic_variation_deg": "-6.497",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KPTK"
-        }
-    ]
+    }
 }

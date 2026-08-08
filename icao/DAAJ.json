@@ -99,51 +99,5 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Djanet_Province",
         "keywords": "ولاية جانت"
-    },
-    "navaids": [
-        {
-            "id": "87392",
-            "filename": "Djanet_VOR-DME_DZ",
-            "ident": "DJA",
-            "name": "Djanet",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "24.287799835205078",
-            "longitude_deg": "9.453330039978027",
-            "elevation_ft": "3176",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "0.205",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DAAJ"
-        },
-        {
-            "id": "87393",
-            "filename": "Djanet_NDB_DZ",
-            "ident": "DJA",
-            "name": "Djanet",
-            "type": "NDB",
-            "frequency_khz": "274",
-            "latitude_deg": "24.286699295043945",
-            "longitude_deg": "9.454910278320312",
-            "elevation_ft": "3176",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.206",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "DAAJ"
-        }
-    ]
+    }
 }

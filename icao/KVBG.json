@@ -133,29 +133,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    },
-    "navaids": [
-        {
-            "id": "95057",
-            "filename": "Vandenberg_TACAN_US",
-            "ident": "VBG",
-            "name": "Vandenberg",
-            "type": "TACAN",
-            "frequency_khz": "112250",
-            "latitude_deg": "34.732601165771484",
-            "longitude_deg": "-120.58300018310547",
-            "elevation_ft": "370",
-            "iso_country": "US",
-            "dme_frequency_khz": "112250",
-            "dme_channel": "059Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "14.001",
-            "magnetic_variation_deg": "13.413",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KVBG"
-        }
-    ]
+    }
 }

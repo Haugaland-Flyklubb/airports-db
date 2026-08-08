@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "87090",
-            "filename": "Cootamundra_NDB_AU",
-            "ident": "CTM",
-            "name": "Cootamundra",
-            "type": "NDB",
-            "frequency_khz": "404",
-            "latitude_deg": "-34.62739944458008",
-            "longitude_deg": "148.031005859375",
-            "elevation_ft": "1100",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.469",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YCTM"
-        }
-    ]
+    }
 }

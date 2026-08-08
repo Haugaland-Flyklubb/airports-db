@@ -35,29 +35,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kalimantan",
         "keywords": "Airports in East Kalimantan"
-    },
-    "navaids": [
-        {
-            "id": "93540",
-            "filename": "Tanah_Grogot_NDB_ID",
-            "ident": "SG",
-            "name": "Tanah Grogot",
-            "type": "NDB",
-            "frequency_khz": "202",
-            "latitude_deg": "-1.8370800018310547",
-            "longitude_deg": "116.06199645996094",
-            "elevation_ft": "150",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.143",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WRLH"
-        }
-    ]
+    }
 }

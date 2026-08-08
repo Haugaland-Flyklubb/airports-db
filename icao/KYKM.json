@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    },
-    "navaids": [
-        {
-            "id": "95713",
-            "filename": "Donny_NDB_US",
-            "ident": "YK",
-            "name": "Donny",
-            "type": "NDB",
-            "frequency_khz": "371",
-            "latitude_deg": "46.52560043334961",
-            "longitude_deg": "-120.37200164794922",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.539",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KYKM"
-        }
-    ]
+    }
 }

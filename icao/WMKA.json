@@ -85,51 +85,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kedah",
         "keywords": "Airports in Kedah"
-    },
-    "navaids": [
-        {
-            "id": "85646",
-            "filename": "Alor_Star_NDB_MY",
-            "ident": "AT",
-            "name": "Alor Star",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "6.1591901779174805",
-            "longitude_deg": "100.37200164794922",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.192",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WMKA"
-        },
-        {
-            "id": "95048",
-            "filename": "Alor_Star_VOR-DME_MY",
-            "ident": "VAS",
-            "name": "Alor Star",
-            "type": "VOR-DME",
-            "frequency_khz": "113600",
-            "latitude_deg": "6.185669898986816",
-            "longitude_deg": "100.39700317382812",
-            "elevation_ft": "15",
-            "iso_country": "MY",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.202",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WMKA"
-        }
-    ]
+    }
 }

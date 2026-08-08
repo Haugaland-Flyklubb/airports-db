@@ -69,51 +69,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
         "keywords": "Airports in Sarawak"
-    },
-    "navaids": [
-        {
-            "id": "91423",
-            "filename": "Mulu_NDB_MY",
-            "ident": "MZU",
-            "name": "Mulu",
-            "type": "NDB",
-            "frequency_khz": "505",
-            "latitude_deg": "4.0338897705078125",
-            "longitude_deg": "114.7979965209961",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.342",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WBMU"
-        },
-        {
-            "id": "95350",
-            "filename": "Mulu_VOR-DME_MY",
-            "ident": "VZU",
-            "name": "Mulu",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "4.032919883728027",
-            "longitude_deg": "114.79499816894531",
-            "elevation_ft": "222",
-            "iso_country": "MY",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.011",
-            "magnetic_variation_deg": "0.342",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "WBMU"
-        }
-    ]
+    }
 }

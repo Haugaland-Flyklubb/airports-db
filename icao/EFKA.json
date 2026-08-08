@@ -93,29 +93,5 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Ostrobothnia",
         "keywords": "Airports in South Ostrobothnia Region"
-    },
-    "navaids": [
-        {
-            "id": "89664",
-            "filename": "Kauhava_VOR-DME_FI",
-            "ident": "KAU",
-            "name": "Kauhava",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "63.122501373291016",
-            "longitude_deg": "23.05590057373047",
-            "elevation_ft": "159",
-            "iso_country": "FI",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.031",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EFKA"
-        }
-    ]
+    }
 }

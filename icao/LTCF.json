@@ -69,51 +69,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kars_Province",
         "keywords": "Airports in Kars Province"
-    },
-    "navaids": [
-        {
-            "id": "89657",
-            "filename": "Kars_VOR-DME_TR",
-            "ident": "KAR",
-            "name": "Kars",
-            "type": "VOR-DME",
-            "frequency_khz": "113800",
-            "latitude_deg": "40.567501068115234",
-            "longitude_deg": "43.12419891357422",
-            "elevation_ft": "5902",
-            "iso_country": "TR",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "5.215",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTCF"
-        },
-        {
-            "id": "89658",
-            "filename": "Kars_NDB_TR",
-            "ident": "KAR",
-            "name": "Kars",
-            "type": "NDB",
-            "frequency_khz": "431",
-            "latitude_deg": "40.567501068115234",
-            "longitude_deg": "43.12419891357422",
-            "elevation_ft": "5889",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.215",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LTCF"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "92224",
-            "filename": "Wetaskiwin_NDB-DME_CA",
-            "ident": "P2",
-            "name": "Wetaskiwin",
-            "type": "NDB-DME",
-            "frequency_khz": "334",
-            "latitude_deg": "52.96689987182617",
-            "longitude_deg": "-113.41200256347656",
-            "elevation_ft": "2540",
-            "iso_country": "CA",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.331",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CEX3"
-        }
-    ]
+    }
 }

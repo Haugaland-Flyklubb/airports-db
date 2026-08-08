@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "88303",
-            "filename": "Glacier_River_NDB_US",
-            "ident": "GCR",
-            "name": "Glacier River",
-            "type": "NDB",
-            "frequency_khz": "404",
-            "latitude_deg": "60.49879837036133",
-            "longitude_deg": "-145.4739990234375",
-            "elevation_ft": "55",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "21.359",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PACV"
-        }
-    ]
+    }
 }

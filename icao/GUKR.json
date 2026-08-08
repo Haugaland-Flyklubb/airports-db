@@ -59,29 +59,5 @@
         "iso_country": "GN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bok%C3%A9_Region",
         "keywords": "Airports in Boké Region"
-    },
-    "navaids": [
-        {
-            "id": "89649",
-            "filename": "Kamsar_NDB_GN",
-            "ident": "KAM",
-            "name": "Kamsar",
-            "type": "NDB",
-            "frequency_khz": "308",
-            "latitude_deg": "10.662500381469727",
-            "longitude_deg": "-14.60669994354248",
-            "elevation_ft": "",
-            "iso_country": "GN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.34",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "GUKR"
-        }
-    ]
+    }
 }

@@ -131,29 +131,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "88368",
-            "filename": "Veels_NDB_US",
-            "ident": "GG",
-            "name": "Veels",
-            "type": "NDB",
-            "frequency_khz": "410",
-            "latitude_deg": "32.45560073852539",
-            "longitude_deg": "-94.79759979248047",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.26",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KGGG"
-        }
-    ]
+    }
 }

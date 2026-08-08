@@ -115,29 +115,5 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jeju_Province",
         "keywords": "Airports in Jeju Teukbyeoljachi-do"
-    },
-    "navaids": [
-        {
-            "id": "89462",
-            "filename": "Jedong_VOR-DME_KR",
-            "ident": "JDG",
-            "name": "Jedong",
-            "type": "VOR-DME",
-            "frequency_khz": "117900",
-            "latitude_deg": "33.39739990234375",
-            "longitude_deg": "126.70999908447266",
-            "elevation_ft": "1171",
-            "iso_country": "KR",
-            "dme_frequency_khz": "117900",
-            "dme_channel": "126X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.011",
-            "magnetic_variation_deg": "-6.306",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "RKPD"
-        }
-    ]
+    }
 }

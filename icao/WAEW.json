@@ -69,29 +69,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maluku_Utara",
         "keywords": "Airports in Maluku Utara"
-    },
-    "navaids": [
-        {
-            "id": "92181",
-            "filename": "Morotai_NDB_ID",
-            "ident": "OX",
-            "name": "Morotai",
-            "type": "NDB",
-            "frequency_khz": "295",
-            "latitude_deg": "2.044559955596924",
-            "longitude_deg": "128.32400512695312",
-            "elevation_ft": "50",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.17",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAEW"
-        }
-    ]
+    }
 }

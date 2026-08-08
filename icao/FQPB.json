@@ -91,29 +91,5 @@
         "iso_country": "MZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cabo_Delgado_Province",
         "keywords": "Airports in Cabo Delgado Province"
-    },
-    "navaids": [
-        {
-            "id": "92289",
-            "filename": "Pemba_NDB_MZ",
-            "ident": "PB",
-            "name": "Pemba",
-            "type": "NDB",
-            "frequency_khz": "280",
-            "latitude_deg": "-12.951499938964844",
-            "longitude_deg": "40.50090026855469",
-            "elevation_ft": "",
-            "iso_country": "MZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.313",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FQPB"
-        }
-    ]
+    }
 }

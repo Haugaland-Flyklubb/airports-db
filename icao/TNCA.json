@@ -101,51 +101,5 @@
         "iso_country": "AW",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "85202",
-            "filename": "Aruba_VOR-DME_AW",
-            "ident": "ABA",
-            "name": "Aruba",
-            "type": "VOR-DME",
-            "frequency_khz": "112500",
-            "latitude_deg": "12.50979995727539",
-            "longitude_deg": "-69.9406967163086",
-            "elevation_ft": "59",
-            "iso_country": "AW",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.001",
-            "magnetic_variation_deg": "-9.37",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "TNCA"
-        },
-        {
-            "id": "85932",
-            "filename": "Reina_Beatrix_VOR-DME_AW",
-            "ident": "BEA",
-            "name": "Reina Beatrix",
-            "type": "VOR-DME",
-            "frequency_khz": "113800",
-            "latitude_deg": "12.50570011138916",
-            "longitude_deg": "-70.01820373535156",
-            "elevation_ft": "60",
-            "iso_country": "AW",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.001",
-            "magnetic_variation_deg": "-9.341",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "TNCA"
-        }
-    ]
+    }
 }

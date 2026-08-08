@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "85112",
-            "filename": "Fontanges_NDB_CA",
-            "ident": "5Q",
-            "name": "Fontanges",
-            "type": "NDB",
-            "frequency_khz": "239",
-            "latitude_deg": "54.560001373291016",
-            "longitude_deg": "-71.17109680175781",
-            "elevation_ft": "1552",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.458",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CTU2"
-        }
-    ]
+    }
 }

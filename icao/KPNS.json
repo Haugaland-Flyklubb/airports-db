@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    },
-    "navaids": [
-        {
-            "id": "92500",
-            "filename": "Pickens_NDB_US",
-            "ident": "PKZ",
-            "name": "Pickens",
-            "type": "NDB",
-            "frequency_khz": "326",
-            "latitude_deg": "30.43709945678711",
-            "longitude_deg": "-87.17839813232422",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.316",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KPNS"
-        }
-    ]
+    }
 }

@@ -93,51 +93,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Magadan_Oblast",
         "keywords": "Airports in Magadan Oblast"
-    },
-    "navaids": [
-        {
-            "id": "88021",
-            "filename": "Magadan_NDB_RU",
-            "ident": "FK",
-            "name": "Magadan",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "59.913299560546875",
-            "longitude_deg": "150.61500549316406",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.093",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "UHMM"
-        },
-        {
-            "id": "95364",
-            "filename": "Magadan_NDB_RU",
-            "ident": "WA",
-            "name": "Magadan",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "59.90829849243164",
-            "longitude_deg": "150.82200622558594",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.041",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "UHMM"
-        }
-    ]
+    }
 }

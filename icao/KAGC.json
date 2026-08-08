@@ -153,29 +153,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    },
-    "navaids": [
-        {
-            "id": "91028",
-            "filename": "Mckeesport_NDB_US",
-            "ident": "MKP",
-            "name": "Mckeesport",
-            "type": "NDB",
-            "frequency_khz": "287",
-            "latitude_deg": "40.35070037841797",
-            "longitude_deg": "-79.78130340576172",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.083",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KAGC"
-        }
-    ]
+    }
 }

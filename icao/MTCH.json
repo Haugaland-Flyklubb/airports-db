@@ -69,51 +69,5 @@
         "iso_country": "HT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nord_Department",
         "keywords": "Airports in Nord Department"
-    },
-    "navaids": [
-        {
-            "id": "88755",
-            "filename": "Cap_Haitien_VOR_HT",
-            "ident": "HCN",
-            "name": "Cap Haitien",
-            "type": "VOR",
-            "frequency_khz": "113900",
-            "latitude_deg": "19.728300094604492",
-            "longitude_deg": "-72.19670104980469",
-            "elevation_ft": "10",
-            "iso_country": "HT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.001",
-            "magnetic_variation_deg": "-9.252",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MTCH"
-        },
-        {
-            "id": "89024",
-            "filename": "Cap_Haitien_NDB_HT",
-            "ident": "HTN",
-            "name": "Cap Haitien",
-            "type": "NDB",
-            "frequency_khz": "288",
-            "latitude_deg": "19.731700897216797",
-            "longitude_deg": "-72.193603515625",
-            "elevation_ft": "10",
-            "iso_country": "HT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.253",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "MTCH"
-        }
-    ]
+    }
 }

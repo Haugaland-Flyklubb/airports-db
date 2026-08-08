@@ -69,29 +69,5 @@
         "iso_country": "KE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nairobi_City_County",
         "keywords": "Airports in Nairobi City County"
-    },
-    "navaids": [
-        {
-            "id": "87622",
-            "filename": "Eastleigh_NDB_KE",
-            "ident": "EA",
-            "name": "Eastleigh",
-            "type": "NDB",
-            "frequency_khz": "256",
-            "latitude_deg": "-1.2650500535964966",
-            "longitude_deg": "36.86790084838867",
-            "elevation_ft": "",
-            "iso_country": "KE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.035",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HKRE"
-        }
-    ]
+    }
 }

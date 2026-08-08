@@ -69,51 +69,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Falc%C3%B3n",
         "keywords": "Airports in Falcón State"
-    },
-    "navaids": [
-        {
-            "id": "92682",
-            "filename": "Paraguana_VOR-DME_VE",
-            "ident": "PRG",
-            "name": "Paraguana",
-            "type": "VOR-DME",
-            "frequency_khz": "113600",
-            "latitude_deg": "11.78339958190918",
-            "longitude_deg": "-70.1333999633789",
-            "elevation_ft": "75",
-            "iso_country": "VE",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.007",
-            "magnetic_variation_deg": "-9.243",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVJC"
-        },
-        {
-            "id": "92685",
-            "filename": "Paraguana_NDB_VE",
-            "ident": "PRG",
-            "name": "Paraguana",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "11.776900291442871",
-            "longitude_deg": "-70.13919830322266",
-            "elevation_ft": "135",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.231",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SVJC"
-        }
-    ]
+    }
 }

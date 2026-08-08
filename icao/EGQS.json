@@ -147,29 +147,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    },
-    "navaids": [
-        {
-            "id": "90011",
-            "filename": "Kinloss_TACAN_GB",
-            "ident": "KSS",
-            "name": "Kinloss",
-            "type": "TACAN",
-            "frequency_khz": "109800",
-            "latitude_deg": "57.6593017578125",
-            "longitude_deg": "-3.5351099967956543",
-            "elevation_ft": "75",
-            "iso_country": "GB",
-            "dme_frequency_khz": "109800",
-            "dme_channel": "035X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.012",
-            "magnetic_variation_deg": "-4.546",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EGQS"
-        }
-    ]
+    }
 }

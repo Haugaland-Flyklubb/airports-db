@@ -59,29 +59,5 @@
         "iso_country": "ET",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Nations,_Nationalities,_and_Peoples%27_Region",
         "keywords": "Airports in Southern Nations, Nationalities, and Peoples' Region"
-    },
-    "navaids": [
-        {
-            "id": "85430",
-            "filename": "Arba_Minch_NDB_ET",
-            "ident": "AM",
-            "name": "Arba Minch",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "6.057690143585205",
-            "longitude_deg": "37.60240173339844",
-            "elevation_ft": "",
-            "iso_country": "ET",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.235",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HAAM"
-        }
-    ]
+    }
 }

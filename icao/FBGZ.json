@@ -35,29 +35,5 @@
         "iso_country": "BW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ghanzi_District",
         "keywords": "Airports in Ghanzi District"
-    },
-    "navaids": [
-        {
-            "id": "88679",
-            "filename": "Ghanzi_NDB_BW",
-            "ident": "GZ",
-            "name": "Ghanzi",
-            "type": "NDB",
-            "frequency_khz": "387",
-            "latitude_deg": "-21.699199676513672",
-            "longitude_deg": "21.654800415039062",
-            "elevation_ft": "3729",
-            "iso_country": "BW",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.448",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FBGZ"
-        }
-    ]
+    }
 }

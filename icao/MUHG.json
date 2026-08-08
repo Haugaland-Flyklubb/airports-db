@@ -93,51 +93,5 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Holgu%C3%ADn_Province",
         "keywords": "Airports in Holguín Province"
-    },
-    "navaids": [
-        {
-            "id": "94852",
-            "filename": "Holguin_VOR-DME_CU",
-            "ident": "UHG",
-            "name": "Holguin",
-            "type": "VOR-DME",
-            "frequency_khz": "116800",
-            "latitude_deg": "20.798099517822266",
-            "longitude_deg": "-76.3031005859375",
-            "elevation_ft": "394",
-            "iso_country": "CU",
-            "dme_frequency_khz": "116800",
-            "dme_channel": "115X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.052",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MUHG"
-        },
-        {
-            "id": "94853",
-            "filename": "Holguin_NDB_CU",
-            "ident": "UHG",
-            "name": "Holguin",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "20.730499267578125",
-            "longitude_deg": "-76.37640380859375",
-            "elevation_ft": "",
-            "iso_country": "CU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.016",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MUHG"
-        }
-    ]
+    }
 }

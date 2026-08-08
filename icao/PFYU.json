@@ -109,51 +109,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "88178",
-            "filename": "Yukon_River_NDB_US",
-            "ident": "FTO",
-            "name": "Yukon River",
-            "type": "NDB",
-            "frequency_khz": "242",
-            "latitude_deg": "66.58000183105469",
-            "longitude_deg": "-145.21299743652344",
-            "elevation_ft": "433",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "24.159",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PFYU"
-        },
-        {
-            "id": "88220",
-            "filename": "Fort_Yukon_VORTAC_US",
-            "ident": "FYU",
-            "name": "Fort Yukon",
-            "type": "VORTAC",
-            "frequency_khz": "114400",
-            "latitude_deg": "66.57430267333984",
-            "longitude_deg": "-145.27699279785156",
-            "elevation_ft": "425",
-            "iso_country": "US",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "31.001",
-            "magnetic_variation_deg": "24.143",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PFYU"
-        }
-    ]
+    }
 }

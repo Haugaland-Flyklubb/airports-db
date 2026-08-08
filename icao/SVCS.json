@@ -101,29 +101,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Miranda_(state)",
         "keywords": "Airports in Miranda State"
-    },
-    "navaids": [
-        {
-            "id": "94684",
-            "filename": "Charallave_VOR-DME_VE",
-            "ident": "TUY",
-            "name": "Charallave",
-            "type": "VOR-DME",
-            "frequency_khz": "115200",
-            "latitude_deg": "10.295000076293945",
-            "longitude_deg": "-66.79730224609375",
-            "elevation_ft": "1694",
-            "iso_country": "VE",
-            "dme_frequency_khz": "115200",
-            "dme_channel": "099X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.007",
-            "magnetic_variation_deg": "-11.143",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVCS"
-        }
-    ]
+    }
 }

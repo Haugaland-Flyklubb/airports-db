@@ -81,29 +81,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "90970",
-            "filename": "Caddo_Mills_NDB_US",
-            "ident": "MII",
-            "name": "Caddo Mills",
-            "type": "NDB",
-            "frequency_khz": "316",
-            "latitude_deg": "33.040401458740234",
-            "longitude_deg": "-96.24859619140625",
-            "elevation_ft": "541",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.194",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "US-10160"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lombardy",
         "keywords": "LM"
-    },
-    "navaids": [
-        {
-            "id": "86359",
-            "filename": "Montichiari_VOR-DME_IT",
-            "ident": "BSA",
-            "name": "Montichiari",
-            "type": "VOR-DME",
-            "frequency_khz": "117700",
-            "latitude_deg": "45.4379997253418",
-            "longitude_deg": "10.315999984741211",
-            "elevation_ft": "332",
-            "iso_country": "IT",
-            "dme_frequency_khz": "117700",
-            "dme_channel": "124X",
-            "dme_latitude_deg": "45.4378",
-            "dme_longitude_deg": "10.3159",
-            "dme_elevation_ft": "332",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.204",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LIPO"
-        }
-    ]
+    }
 }

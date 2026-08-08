@@ -77,29 +77,5 @@
         "iso_country": "AQ",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "96115",
-            "filename": "South_Pole_Station_TACAN_AQ",
-            "ident": "ZSP",
-            "name": "South Pole Station",
-            "type": "TACAN",
-            "frequency_khz": "115300",
-            "latitude_deg": "-89.99520111083984",
-            "longitude_deg": "120.92900085449219",
-            "elevation_ft": "9327",
-            "iso_country": "AQ",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-155.011",
-            "magnetic_variation_deg": "-149.447",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NZSP"
-        }
-    ]
+    }
 }

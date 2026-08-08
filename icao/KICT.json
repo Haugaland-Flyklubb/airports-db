@@ -177,51 +177,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
         "keywords": "Airports in Kansas"
-    },
-    "navaids": [
-        {
-            "id": "89137",
-            "filename": "Piche_NDB_US",
-            "ident": "IC",
-            "name": "Piche",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "37.57820129394531",
-            "longitude_deg": "-97.45590209960938",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.011",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KICT"
-        },
-        {
-            "id": "89144",
-            "filename": "Wichita_VORTAC_US",
-            "ident": "ICT",
-            "name": "Wichita",
-            "type": "VORTAC",
-            "frequency_khz": "113800",
-            "latitude_deg": "37.74530029296875",
-            "longitude_deg": "-97.58380126953125",
-            "elevation_ft": "1471",
-            "iso_country": "US",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.001",
-            "magnetic_variation_deg": "5.061",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KICT"
-        }
-    ]
+    }
 }

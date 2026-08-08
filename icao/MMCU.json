@@ -129,51 +129,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chihuahua_(state)",
         "keywords": "Airports in Chihuahua"
-    },
-    "navaids": [
-        {
-            "id": "87122",
-            "filename": "Chihuahua_VOR-DME_MX",
-            "ident": "CUU",
-            "name": "Chihuahua",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "28.798999786376953",
-            "longitude_deg": "-105.9520034790039",
-            "elevation_ft": "4462",
-            "iso_country": "MX",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "10.009",
-            "magnetic_variation_deg": "8.532",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMCU"
-        },
-        {
-            "id": "87124",
-            "filename": "Chihuahua_NDB_MX",
-            "ident": "CUW",
-            "name": "Chihuahua",
-            "type": "NDB",
-            "frequency_khz": "222",
-            "latitude_deg": "28.583499908447266",
-            "longitude_deg": "-105.99299621582031",
-            "elevation_ft": "4462",
-            "iso_country": "MX",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.528",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MMCU"
-        }
-    ]
+    }
 }

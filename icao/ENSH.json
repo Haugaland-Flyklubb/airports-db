@@ -59,51 +59,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nordland",
         "keywords": "Airports in Nordland"
-    },
-    "navaids": [
-        {
-            "id": "88872",
-            "filename": "Helle_NDB_NO",
-            "ident": "HL",
-            "name": "Helle",
-            "type": "NDB",
-            "frequency_khz": "259",
-            "latitude_deg": "68.23750305175781",
-            "longitude_deg": "14.663700103759766",
-            "elevation_ft": "",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.311",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ENSH"
-        },
-        {
-            "id": "89885",
-            "filename": "Skrova_NDB_NO",
-            "ident": "KN",
-            "name": "Skrova",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "68.15280151367188",
-            "longitude_deg": "14.649200439453125",
-            "elevation_ft": "",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.301",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ENSH"
-        }
-    ]
+    }
 }

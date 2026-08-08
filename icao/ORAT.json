@@ -123,29 +123,5 @@
         "iso_country": "IQ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Anbar_Governorate",
         "keywords": "الأنبار"
-    },
-    "navaids": [
-        {
-            "id": "90749",
-            "filename": "Al_Taqaddum_TACAN_IQ",
-            "ident": "MAT",
-            "name": "Al Taqaddum",
-            "type": "TACAN",
-            "frequency_khz": "112300",
-            "latitude_deg": "33.339500427246094",
-            "longitude_deg": "43.59389877319336",
-            "elevation_ft": "275",
-            "iso_country": "IQ",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.001",
-            "magnetic_variation_deg": "3.527",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ORAT"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "KH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Battambang_province",
         "keywords": "Airports in Baat Dambang, បាត់ដំបង"
-    },
-    "navaids": [
-        {
-            "id": "85827",
-            "filename": "Battambang_NDB_KH",
-            "ident": "BB",
-            "name": "Battambang",
-            "type": "NDB",
-            "frequency_khz": "484",
-            "latitude_deg": "13.091699600219727",
-            "longitude_deg": "103.2229995727539",
-            "elevation_ft": "",
-            "iso_country": "KH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.274",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VDBG"
-        }
-    ]
+    }
 }

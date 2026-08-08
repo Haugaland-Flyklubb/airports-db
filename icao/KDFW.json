@@ -265,29 +265,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "88032",
-            "filename": "Jiffy_NDB_US",
-            "ident": "FL",
-            "name": "Jiffy",
-            "type": "NDB",
-            "frequency_khz": "219",
-            "latitude_deg": "32.99580001831055",
-            "longitude_deg": "-97.02960205078125",
-            "elevation_ft": "525",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.481",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KDFW"
-        }
-    ]
+    }
 }

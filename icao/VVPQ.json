@@ -69,29 +69,5 @@
         "iso_country": "VN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mekong_Delta",
         "keywords": "the airports"
-    },
-    "navaids": [
-        {
-            "id": "92654",
-            "filename": "Phuquoc_NDB_VN",
-            "ident": "PQ",
-            "name": "Phuquoc",
-            "type": "NDB",
-            "frequency_khz": "278",
-            "latitude_deg": "10.223600387573242",
-            "longitude_deg": "103.96199798583984",
-            "elevation_ft": "",
-            "iso_country": "VN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.143",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VVPQ"
-        }
-    ]
+    }
 }

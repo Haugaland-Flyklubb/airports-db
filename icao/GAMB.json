@@ -69,29 +69,5 @@
         "iso_country": "ML",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mopti_Region",
         "keywords": "Airports in Mopti Region"
-    },
-    "navaids": [
-        {
-            "id": "91320",
-            "filename": "Mopti_Ambodedjo_VOR_ML",
-            "ident": "MTI",
-            "name": "Mopti/Ambodedjo",
-            "type": "VOR",
-            "frequency_khz": "115500",
-            "latitude_deg": "14.526100158691406",
-            "longitude_deg": "-4.064720153808594",
-            "elevation_ft": "",
-            "iso_country": "ML",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.474",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GAMB"
-        }
-    ]
+    }
 }

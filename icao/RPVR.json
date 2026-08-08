@@ -69,29 +69,5 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Capiz_Province",
         "keywords": "Airports in Capiz Province"
-    },
-    "navaids": [
-        {
-            "id": "93208",
-            "filename": "Roxas_VOR-DME_PH",
-            "ident": "ROX",
-            "name": "Roxas",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "11.59689998626709",
-            "longitude_deg": "122.75499725341797",
-            "elevation_ft": "47",
-            "iso_country": "PH",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.448",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RPVR"
-        }
-    ]
+    }
 }

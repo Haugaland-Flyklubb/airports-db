@@ -93,51 +93,5 @@
         "iso_country": "IQ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Basra_Governorate",
         "keywords": "البصرة"
-    },
-    "navaids": [
-        {
-            "id": "85808",
-            "filename": "Basrah_TACAN_IQ",
-            "ident": "BAR",
-            "name": "Basrah",
-            "type": "TACAN",
-            "frequency_khz": "108300",
-            "latitude_deg": "30.548799514770508",
-            "longitude_deg": "47.6598014831543",
-            "elevation_ft": "11",
-            "iso_country": "IQ",
-            "dme_frequency_khz": "108300",
-            "dme_channel": "020X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.112",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ORMM"
-        },
-        {
-            "id": "86368",
-            "filename": "Basrah_VOR-DME_IQ",
-            "ident": "BSR",
-            "name": "Basrah",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "30.525699615478516",
-            "longitude_deg": "47.68669891357422",
-            "elevation_ft": "15",
-            "iso_country": "IQ",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "3.108",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "ORMM"
-        }
-    ]
+    }
 }

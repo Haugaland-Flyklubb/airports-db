@@ -85,51 +85,5 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tarija_Department",
         "keywords": "Airports in Tarija Department"
-    },
-    "navaids": [
-        {
-            "id": "94198",
-            "filename": "Tarija_VOR-DME_BO",
-            "ident": "TAR",
-            "name": "Tarija",
-            "type": "VOR-DME",
-            "frequency_khz": "117000",
-            "latitude_deg": "-21.545799255371094",
-            "longitude_deg": "-64.71289825439453",
-            "elevation_ft": "6082",
-            "iso_country": "BO",
-            "dme_frequency_khz": "117000",
-            "dme_channel": "117X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-7.067",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SLTJ"
-        },
-        {
-            "id": "94381",
-            "filename": "Tarija_NDB_BO",
-            "ident": "TJA",
-            "name": "Tarija",
-            "type": "NDB",
-            "frequency_khz": "250",
-            "latitude_deg": "-21.55579948425293",
-            "longitude_deg": "-64.70870208740234",
-            "elevation_ft": "6082",
-            "iso_country": "BO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.067",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SLTJ"
-        }
-    ]
+    }
 }

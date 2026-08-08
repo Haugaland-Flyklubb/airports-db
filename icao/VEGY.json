@@ -69,29 +69,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bihar",
         "keywords": "Airports in Bihar"
-    },
-    "navaids": [
-        {
-            "id": "88371",
-            "filename": "Gaya_VOR-DME_IN",
-            "ident": "GGC",
-            "name": "Gaya",
-            "type": "VOR-DME",
-            "frequency_khz": "115000",
-            "latitude_deg": "24.741899490356445",
-            "longitude_deg": "84.94390106201172",
-            "elevation_ft": "377",
-            "iso_country": "IN",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.151",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VEGY"
-        }
-    ]
+    }
 }

@@ -169,29 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "90614",
-            "filename": "Conis_NDB_US",
-            "ident": "LV",
-            "name": "Conis",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "32.77479934692383",
-            "longitude_deg": "-96.77529907226562",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.391",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KDAL"
-        }
-    ]
+    }
 }

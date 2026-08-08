@@ -109,29 +109,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
         "keywords": "Nordrhein-Westfalen"
-    },
-    "navaids": [
-        {
-            "id": "88419",
-            "filename": "Geilenkirchen_TACAN_DE",
-            "ident": "GIX",
-            "name": "Geilenkirchen",
-            "type": "TACAN",
-            "frequency_khz": "108100",
-            "latitude_deg": "50.96329879760742",
-            "longitude_deg": "6.045199871063232",
-            "elevation_ft": "327",
-            "iso_country": "DE",
-            "dme_frequency_khz": "108100",
-            "dme_channel": "018X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.04",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ETNG"
-        }
-    ]
+    }
 }

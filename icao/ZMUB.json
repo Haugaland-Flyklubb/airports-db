@@ -115,51 +115,5 @@
         "iso_country": "MN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ulaanbaatar",
         "keywords": "Airports in Ulaanbaatar (provincial municipality)"
-    },
-    "navaids": [
-        {
-            "id": "87248",
-            "filename": "Ulaanbaatar_NDB_MN",
-            "ident": "DA",
-            "name": "Ulaanbaatar",
-            "type": "NDB",
-            "frequency_khz": "315",
-            "latitude_deg": "47.87900161743164",
-            "longitude_deg": "106.71900177001953",
-            "elevation_ft": "",
-            "iso_country": "MN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.01",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ZMUB"
-        },
-        {
-            "id": "94823",
-            "filename": "Ulaanbaatar_VOR-DME_MN",
-            "ident": "UDA",
-            "name": "Ulaanbaatar",
-            "type": "VOR-DME",
-            "frequency_khz": "116000",
-            "latitude_deg": "47.867698669433594",
-            "longitude_deg": "106.73400115966797",
-            "elevation_ft": "3984",
-            "iso_country": "MN",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.011",
-            "magnetic_variation_deg": "-4.013",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZMUB"
-        }
-    ]
+    }
 }

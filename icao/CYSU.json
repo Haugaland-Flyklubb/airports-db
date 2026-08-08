@@ -129,29 +129,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Prince_Edward_Island",
         "keywords": "Airports in Prince Edward Island"
-    },
-    "navaids": [
-        {
-            "id": "85106",
-            "filename": "Summerside_NDB_CA",
-            "ident": "5B",
-            "name": "Summerside",
-            "type": "NDB",
-            "frequency_khz": "254",
-            "latitude_deg": "46.39690017700195",
-            "longitude_deg": "-63.88169860839844",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.313",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYSU"
-        }
-    ]
+    }
 }

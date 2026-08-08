@@ -77,51 +77,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chumphon_province",
         "keywords": "Airports in Chumphon Province"
-    },
-    "navaids": [
-        {
-            "id": "86983",
-            "filename": "Chumphon_NDB_TH",
-            "ident": "CP",
-            "name": "Chumphon",
-            "type": "NDB",
-            "frequency_khz": "279",
-            "latitude_deg": "10.71780014038086",
-            "longitude_deg": "99.36609649658203",
-            "elevation_ft": "",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.319",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VTSE"
-        },
-        {
-            "id": "86994",
-            "filename": "Chumphon_VOR-DME_TH",
-            "ident": "CPN",
-            "name": "Chumphon",
-            "type": "VOR-DME",
-            "frequency_khz": "110000",
-            "latitude_deg": "10.711199760437012",
-            "longitude_deg": "99.3656005859375",
-            "elevation_ft": "18",
-            "iso_country": "TH",
-            "dme_frequency_khz": "110000",
-            "dme_channel": "037X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.319",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTSE"
-        }
-    ]
+    }
 }

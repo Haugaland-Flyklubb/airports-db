@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    },
-    "navaids": [
-        {
-            "id": "85605",
-            "filename": "Araxa_VOR-DME_BR",
-            "ident": "ARX",
-            "name": "Araxa",
-            "type": "VOR-DME",
-            "frequency_khz": "117000",
-            "latitude_deg": "-19.68899917602539",
-            "longitude_deg": "-47.06050109863281",
-            "elevation_ft": "3989",
-            "iso_country": "BR",
-            "dme_frequency_khz": "117000",
-            "dme_channel": "117X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-19.007",
-            "magnetic_variation_deg": "-20.187",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBAX"
-        },
-        {
-            "id": "85606",
-            "filename": "Araxa_NDB_BR",
-            "ident": "ARX",
-            "name": "Araxa",
-            "type": "NDB",
-            "frequency_khz": "210",
-            "latitude_deg": "-19.56100082397461",
-            "longitude_deg": "-46.964698791503906",
-            "elevation_ft": "3274",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.226",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBAX"
-        }
-    ]
+    }
 }

@@ -85,29 +85,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
         "keywords": "Airports in Nunavut"
-    },
-    "navaids": [
-        {
-            "id": "95704",
-            "filename": "Broughton_NDB_CA",
-            "ident": "YJI",
-            "name": "Broughton",
-            "type": "NDB",
-            "frequency_khz": "237",
-            "latitude_deg": "67.56189727783203",
-            "longitude_deg": "-64.01750183105469",
-            "elevation_ft": "21",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-38.17",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYVM"
-        }
-    ]
+    }
 }

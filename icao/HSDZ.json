@@ -69,29 +69,5 @@
         "iso_country": "SD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Blue_Nile_State",
         "keywords": "Airports in Blue Nile State"
-    },
-    "navaids": [
-        {
-            "id": "87443",
-            "filename": "Damazin_NDB_SD",
-            "ident": "DMZ",
-            "name": "Damazin",
-            "type": "NDB",
-            "frequency_khz": "343",
-            "latitude_deg": "11.790900230407715",
-            "longitude_deg": "34.3400993347168",
-            "elevation_ft": "",
-            "iso_country": "SD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.086",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "HSDZ"
-        }
-    ]
+    }
 }

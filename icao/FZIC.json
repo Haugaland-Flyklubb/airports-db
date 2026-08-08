@@ -77,51 +77,5 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tshopo_Province",
         "keywords": "Airports in Tshopo Province"
-    },
-    "navaids": [
-        {
-            "id": "89759",
-            "filename": "Bangoka_VOR-DME_CD",
-            "ident": "KGI",
-            "name": "Bangoka",
-            "type": "VOR-DME",
-            "frequency_khz": "114500",
-            "latitude_deg": "0.49257799983024597",
-            "longitude_deg": "25.313400268554688",
-            "elevation_ft": "1430",
-            "iso_country": "CD",
-            "dme_frequency_khz": "114500",
-            "dme_channel": "092X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.099",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FZIC"
-        },
-        {
-            "id": "89804",
-            "filename": "Bangoka_NDB_CD",
-            "ident": "KIS",
-            "name": "Bangoka",
-            "type": "NDB",
-            "frequency_khz": "315",
-            "latitude_deg": "0.46396899223327637",
-            "longitude_deg": "25.350099563598633",
-            "elevation_ft": "",
-            "iso_country": "CD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.1",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FZIC"
-        }
-    ]
+    }
 }

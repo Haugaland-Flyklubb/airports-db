@@ -117,51 +117,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "88894",
-            "filename": "Hood_NDB_US",
-            "ident": "HLR",
-            "name": "Hood",
-            "type": "NDB",
-            "frequency_khz": "347",
-            "latitude_deg": "31.129100799560547",
-            "longitude_deg": "-97.7114028930664",
-            "elevation_ft": "924",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.127",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KHLR"
-        },
-        {
-            "id": "89222",
-            "filename": "Iresh_NDB_US",
-            "ident": "IL",
-            "name": "Iresh",
-            "type": "NDB",
-            "frequency_khz": "278",
-            "latitude_deg": "31.02400016784668",
-            "longitude_deg": "-97.70800018310547",
-            "elevation_ft": "857",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.126",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KHLR"
-        }
-    ]
+    }
 }

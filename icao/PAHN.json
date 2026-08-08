@@ -101,29 +101,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "88940",
-            "filename": "Haines_NDB_US",
-            "ident": "HNS",
-            "name": "Haines",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "59.212100982666016",
-            "longitude_deg": "-135.43099975585938",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "23.145",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PAHN"
-        }
-    ]
+    }
 }

@@ -139,29 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
         "keywords": "Airports in South Carolina"
-    },
-    "navaids": [
-        {
-            "id": "86547",
-            "filename": "Murry_NDB_US",
-            "ident": "CA",
-            "name": "Murry",
-            "type": "NDB",
-            "frequency_khz": "362",
-            "latitude_deg": "33.967201232910156",
-            "longitude_deg": "-81.24469757080078",
-            "elevation_ft": "330",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.272",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KCAE"
-        }
-    ]
+    }
 }

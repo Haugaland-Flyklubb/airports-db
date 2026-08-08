@@ -169,29 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    },
-    "navaids": [
-        {
-            "id": "89560",
-            "filename": "Johnstown_VORTAC_US",
-            "ident": "JST",
-            "name": "Johnstown",
-            "type": "VORTAC",
-            "frequency_khz": "113000",
-            "latitude_deg": "40.31669998168945",
-            "longitude_deg": "-78.83419799804688",
-            "elevation_ft": "2280",
-            "iso_country": "US",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.002",
-            "magnetic_variation_deg": "-9.498",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KJST"
-        }
-    ]
+    }
 }

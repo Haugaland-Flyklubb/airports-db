@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    },
-    "navaids": [
-        {
-            "id": "92506",
-            "filename": "Palee_NDB_US",
-            "ident": "PL",
-            "name": "Palee",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "30.391399383544922",
-            "longitude_deg": "-84.23570251464844",
-            "elevation_ft": "51",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.361",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KTLH"
-        },
-        {
-            "id": "94422",
-            "filename": "Wakul_NDB_US",
-            "ident": "TL",
-            "name": "Wakul",
-            "type": "NDB",
-            "frequency_khz": "379",
-            "latitude_deg": "30.326200485229492",
-            "longitude_deg": "-84.3582992553711",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.302",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KTLH"
-        }
-    ]
+    }
 }

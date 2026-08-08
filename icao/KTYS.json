@@ -163,51 +163,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
         "keywords": "Airports in Tennessee"
-    },
-    "navaids": [
-        {
-            "id": "94729",
-            "filename": "Benfi_NDB_US",
-            "ident": "TY",
-            "name": "Benfi",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "35.7421989440918",
-            "longitude_deg": "-84.0811996459961",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.427",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KTYS"
-        },
-        {
-            "id": "95343",
-            "filename": "Volunteer_VORTAC_US",
-            "ident": "VXV",
-            "name": "Volunteer",
-            "type": "VORTAC",
-            "frequency_khz": "116400",
-            "latitude_deg": "35.90480041503906",
-            "longitude_deg": "-83.89469909667969",
-            "elevation_ft": "1290",
-            "iso_country": "US",
-            "dme_frequency_khz": "116400",
-            "dme_channel": "111X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.001",
-            "magnetic_variation_deg": "-4.532",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KTYS"
-        }
-    ]
+    }
 }

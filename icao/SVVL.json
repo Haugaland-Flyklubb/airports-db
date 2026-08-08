@@ -77,51 +77,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Trujillo_(state)",
         "keywords": "Airports in Trujillo State"
-    },
-    "navaids": [
-        {
-            "id": "95263",
-            "filename": "Valera_VOR-DME_VE",
-            "ident": "VRA",
-            "name": "Valera",
-            "type": "VOR-DME",
-            "frequency_khz": "114400",
-            "latitude_deg": "9.427530288696289",
-            "longitude_deg": "-70.55699920654297",
-            "elevation_ft": "2060",
-            "iso_country": "VE",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.463",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVVL"
-        },
-        {
-            "id": "95264",
-            "filename": "Valera_NDB_VE",
-            "ident": "VRA",
-            "name": "Valera",
-            "type": "NDB",
-            "frequency_khz": "278",
-            "latitude_deg": "9.340310096740723",
-            "longitude_deg": "-70.58480072021484",
-            "elevation_ft": "2060",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.455",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SVVL"
-        }
-    ]
+    }
 }

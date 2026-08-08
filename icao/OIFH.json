@@ -99,29 +99,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Isfahan_Province",
         "keywords": "Airports in Isfahan Province"
-    },
-    "navaids": [
-        {
-            "id": "87830",
-            "filename": "Shahid_Vatan_Pour_NDB_IR",
-            "ident": "ESH",
-            "name": "Shahid Vatan Pour",
-            "type": "NDB",
-            "frequency_khz": "413",
-            "latitude_deg": "32.56650161743164",
-            "longitude_deg": "51.69369888305664",
-            "elevation_ft": "5310",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.166",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "OIFH"
-        }
-    ]
+    }
 }

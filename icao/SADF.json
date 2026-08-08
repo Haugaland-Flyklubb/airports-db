@@ -77,29 +77,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    },
-    "navaids": [
-        {
-            "id": "87957",
-            "filename": "San_Fernando_VOR-DME_AR",
-            "ident": "FDO",
-            "name": "San Fernando",
-            "type": "VOR-DME",
-            "frequency_khz": "114400",
-            "latitude_deg": "-34.45140075683594",
-            "longitude_deg": "-58.58420181274414",
-            "elevation_ft": "49",
-            "iso_country": "AR",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-6.595",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SADF"
-        }
-    ]
+    }
 }

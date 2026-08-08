@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "95895",
-            "filename": "Webequie_NDB_CA",
-            "ident": "YWP",
-            "name": "Webequie",
-            "type": "NDB",
-            "frequency_khz": "355",
-            "latitude_deg": "52.960601806640625",
-            "longitude_deg": "-87.36810302734375",
-            "elevation_ft": "674",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.022",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYWP"
-        }
-    ]
+    }
 }

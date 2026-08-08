@@ -109,29 +109,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
         "keywords": "Airports in South Carolina"
-    },
-    "navaids": [
-        {
-            "id": "88591",
-            "filename": "Greer_NDB_US",
-            "ident": "GS",
-            "name": "Greer",
-            "type": "NDB",
-            "frequency_khz": "287",
-            "latitude_deg": "34.81549835205078",
-            "longitude_deg": "-82.28009796142578",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.542",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KGSP"
-        }
-    ]
+    }
 }

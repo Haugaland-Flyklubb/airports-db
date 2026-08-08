@@ -93,51 +93,5 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Morobe_Province",
         "keywords": "Airports in Morobe Province"
-    },
-    "navaids": [
-        {
-            "id": "91801",
-            "filename": "Nadzab_VOR-DME_PG",
-            "ident": "NZ",
-            "name": "Nadzab",
-            "type": "VOR-DME",
-            "frequency_khz": "113900",
-            "latitude_deg": "-6.568329811096191",
-            "longitude_deg": "146.70899963378906",
-            "elevation_ft": "267",
-            "iso_country": "PG",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.007",
-            "magnetic_variation_deg": "5.515",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "AYNZ"
-        },
-        {
-            "id": "91804",
-            "filename": "Nadzab_NDB_PG",
-            "ident": "NZ",
-            "name": "Nadzab",
-            "type": "NDB",
-            "frequency_khz": "162",
-            "latitude_deg": "-6.570000171661377",
-            "longitude_deg": "146.70799255371094",
-            "elevation_ft": "",
-            "iso_country": "PG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.515",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "AYNZ"
-        }
-    ]
+    }
 }

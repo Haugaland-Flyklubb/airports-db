@@ -77,29 +77,5 @@
         "iso_country": "AE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ras_al-Khaimah",
         "keywords": "Ra's al Khaymah"
-    },
-    "navaids": [
-        {
-            "id": "92970",
-            "filename": "Ras_Al_Khaimah_VOR-DME_AE",
-            "ident": "RAV",
-            "name": "Ras Al Khaimah",
-            "type": "VOR-DME",
-            "frequency_khz": "113600",
-            "latitude_deg": "25.588300704956055",
-            "longitude_deg": "55.9463996887207",
-            "elevation_ft": "149",
-            "iso_country": "AE",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "1.308",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OMRK"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "YE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sanaa",
         "keywords": "Airports in Sanaa Municipality"
-    },
-    "navaids": [
-        {
-            "id": "93350",
-            "filename": "Sanaa_VOR-DME_YE",
-            "ident": "SAA",
-            "name": "Sanaa",
-            "type": "VOR-DME",
-            "frequency_khz": "116100",
-            "latitude_deg": "15.5",
-            "longitude_deg": "44.22060012817383",
-            "elevation_ft": "7237",
-            "iso_country": "YE",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "15.5",
-            "dme_longitude_deg": "44.219",
-            "dme_elevation_ft": "7237",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "1.435",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OYSN"
-        },
-        {
-            "id": "93363",
-            "filename": "Sanaa_NDB_YE",
-            "ident": "SAH",
-            "name": "Sanaa",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "15.3927001953125",
-            "longitude_deg": "44.21870040893555",
-            "elevation_ft": "7238",
-            "iso_country": "YE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.428",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OYSN"
-        }
-    ]
+    }
 }

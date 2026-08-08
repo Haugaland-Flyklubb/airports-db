@@ -107,29 +107,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
         "keywords": "Airports in Minnesota"
-    },
-    "navaids": [
-        {
-            "id": "85901",
-            "filename": "Baudette_VOR-DME_US",
-            "ident": "BDE",
-            "name": "Baudette",
-            "type": "VOR-DME",
-            "frequency_khz": "111600",
-            "latitude_deg": "48.722801208496094",
-            "longitude_deg": "-94.6072998046875",
-            "elevation_ft": "1081",
-            "iso_country": "US",
-            "dme_frequency_khz": "111600",
-            "dme_channel": "053X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.009",
-            "magnetic_variation_deg": "1.554",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KBDE"
-        }
-    ]
+    }
 }

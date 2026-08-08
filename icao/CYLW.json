@@ -117,51 +117,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "87885",
-            "filename": "Rutland_NDB_CA",
-            "ident": "EX",
-            "name": "Rutland",
-            "type": "NDB",
-            "frequency_khz": "374",
-            "latitude_deg": "49.939701080322266",
-            "longitude_deg": "-119.3759994506836",
-            "elevation_ft": "1409",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "17.468",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYLW"
-        },
-        {
-            "id": "90629",
-            "filename": "Kelowna_NDB_CA",
-            "ident": "LW",
-            "name": "Kelowna",
-            "type": "NDB",
-            "frequency_khz": "257",
-            "latitude_deg": "50.06079864501953",
-            "longitude_deg": "-119.41600036621094",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "17.502",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYLW"
-        }
-    ]
+    }
 }

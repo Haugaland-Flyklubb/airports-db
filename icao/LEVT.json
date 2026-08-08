@@ -77,51 +77,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)",
         "keywords": "Basque airports, Basque Autonomous Community"
-    },
-    "navaids": [
-        {
-            "id": "95100",
-            "filename": "Vitoria_VOR-DME_ES",
-            "ident": "VFD",
-            "name": "Vitoria",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "42.88059997558594",
-            "longitude_deg": "-2.7243499755859375",
-            "elevation_ft": "1696",
-            "iso_country": "ES",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.078",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LEVT"
-        },
-        {
-            "id": "95262",
-            "filename": "Vitoria_VOR-DME_ES",
-            "ident": "VRA",
-            "name": "Vitoria",
-            "type": "VOR-DME",
-            "frequency_khz": "116600",
-            "latitude_deg": "42.73189926147461",
-            "longitude_deg": "-2.8655800819396973",
-            "elevation_ft": "1903",
-            "iso_country": "ES",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-2.103",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LEVT"
-        }
-    ]
+    }
 }

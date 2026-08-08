@@ -77,29 +77,5 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mureş_County",
         "keywords": "Transylvania, Transylvanian Region"
-    },
-    "navaids": [
-        {
-            "id": "94323",
-            "filename": "Targu_Mures_NDB_RO",
-            "ident": "TGM",
-            "name": "Targu Mures",
-            "type": "NDB",
-            "frequency_khz": "428",
-            "latitude_deg": "46.4468994140625",
-            "longitude_deg": "24.30660057067871",
-            "elevation_ft": "942",
-            "iso_country": "RO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.172",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LRTM"
-        }
-    ]
+    }
 }

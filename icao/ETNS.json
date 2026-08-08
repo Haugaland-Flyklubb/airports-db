@@ -123,29 +123,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Schleswig-Holstein",
         "keywords": "Airports in Schleswig-Holstein"
-    },
-    "navaids": [
-        {
-            "id": "94094",
-            "filename": "Schleswig_TACAN_DE",
-            "ident": "SWG",
-            "name": "Schleswig",
-            "type": "TACAN",
-            "frequency_khz": "111800",
-            "latitude_deg": "54.45370101928711",
-            "longitude_deg": "9.501500129699707",
-            "elevation_ft": "105",
-            "iso_country": "DE",
-            "dme_frequency_khz": "111800",
-            "dme_channel": "055X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.567",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ETNS"
-        }
-    ]
+    }
 }

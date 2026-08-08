@@ -93,29 +93,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kwazulu-Natal",
         "keywords": "Airports in Kwazulu-Natal"
-    },
-    "navaids": [
-        {
-            "id": "87463",
-            "filename": "Durban_VORTAC_ZA",
-            "ident": "DNV",
-            "name": "Durban",
-            "type": "VORTAC",
-            "frequency_khz": "112500",
-            "latitude_deg": "-29.972200393676758",
-            "longitude_deg": "30.951200485229492",
-            "elevation_ft": "21",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-22.007",
-            "magnetic_variation_deg": "-24.024",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZA-0327"
-        }
-    ]
+    }
 }

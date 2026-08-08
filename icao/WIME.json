@@ -69,29 +69,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Sumatra",
         "keywords": "Airports in Sumatra Utara"
-    },
-    "navaids": [
-        {
-            "id": "85295",
-            "filename": "Aek_Godang_NDB_ID",
-            "ident": "AG",
-            "name": "Aek Godang",
-            "type": "NDB",
-            "frequency_khz": "233",
-            "latitude_deg": "1.3983399868011475",
-            "longitude_deg": "99.42900085449219",
-            "elevation_ft": "935",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.254",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WIME"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Antofagasta_Region",
         "keywords": "Airports in Antofagasta Region"
-    },
-    "navaids": [
-        {
-            "id": "86704",
-            "filename": "Calama_NDB_CL",
-            "ident": "CFL",
-            "name": "Calama",
-            "type": "NDB",
-            "frequency_khz": "215",
-            "latitude_deg": "-22.493600845336914",
-            "longitude_deg": "-68.9030990600586",
-            "elevation_ft": "7606",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.039",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SCCF"
-        },
-        {
-            "id": "90469",
-            "filename": "Calama_VOR-DME_CL",
-            "ident": "LOA",
-            "name": "Calama",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "-22.50029945373535",
-            "longitude_deg": "-68.87689971923828",
-            "elevation_ft": "7692",
-            "iso_country": "CL",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "-3.051",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SCCF"
-        }
-    ]
+    }
 }

@@ -59,29 +59,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    },
-    "navaids": [
-        {
-            "id": "86124",
-            "filename": "Salinopolis_NDB_BR",
-            "ident": "BL",
-            "name": "Salinopolis",
-            "type": "NDB",
-            "frequency_khz": "315",
-            "latitude_deg": "-0.6153330206871033",
-            "longitude_deg": "-47.357200622558594",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.559",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SNSM"
-        }
-    ]
+    }
 }

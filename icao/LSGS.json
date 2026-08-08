@@ -145,51 +145,5 @@
         "iso_country": "CH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Valais",
         "keywords": "Airports in Canton of Valais, Wallis, Valês"
-    },
-    "navaids": [
-        {
-            "id": "91182",
-            "filename": "Montana_VOR-DME_CH",
-            "ident": "MOT",
-            "name": "Montana",
-            "type": "VOR-DME",
-            "frequency_khz": "115850",
-            "latitude_deg": "46.31340026855469",
-            "longitude_deg": "7.503330230712891",
-            "elevation_ft": "4456",
-            "iso_country": "CH",
-            "dme_frequency_khz": "115850",
-            "dme_channel": "105Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.369",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LSGS"
-        },
-        {
-            "id": "93626",
-            "filename": "Sion_VOR-DME_CH",
-            "ident": "SIO",
-            "name": "Sion",
-            "type": "VOR-DME",
-            "frequency_khz": "112150",
-            "latitude_deg": "46.21549987792969",
-            "longitude_deg": "7.288780212402344",
-            "elevation_ft": "1594",
-            "iso_country": "CH",
-            "dme_frequency_khz": "112150",
-            "dme_channel": "058Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "0.339",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LSGS"
-        }
-    ]
+    }
 }

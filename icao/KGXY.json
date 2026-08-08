@@ -145,29 +145,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
         "keywords": "Airports in Colorado"
-    },
-    "navaids": [
-        {
-            "id": "87302",
-            "filename": "Buffs_NDB_US",
-            "ident": "DC",
-            "name": "Buffs",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "40.33470153808594",
-            "longitude_deg": "-104.6259994506836",
-            "elevation_ft": "4675",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.284",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KGXY"
-        }
-    ]
+    }
 }

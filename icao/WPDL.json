@@ -85,51 +85,5 @@
         "iso_country": "TL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dili",
         "keywords": "Airports in Dili"
-    },
-    "navaids": [
-        {
-            "id": "87382",
-            "filename": "Dili_VOR-DME_TL",
-            "ident": "DIL",
-            "name": "Dili",
-            "type": "VOR-DME",
-            "frequency_khz": "113400",
-            "latitude_deg": "-8.54397964477539",
-            "longitude_deg": "125.52799987792969",
-            "elevation_ft": "10",
-            "iso_country": "TL",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.011",
-            "magnetic_variation_deg": "2.226",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WPDL"
-        },
-        {
-            "id": "89911",
-            "filename": "Dili_NDB_TL",
-            "ident": "KO",
-            "name": "Dili",
-            "type": "NDB",
-            "frequency_khz": "391",
-            "latitude_deg": "-8.552109718322754",
-            "longitude_deg": "125.52100372314453",
-            "elevation_ft": "10",
-            "iso_country": "TL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.226",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WPDL"
-        }
-    ]
+    }
 }

@@ -59,29 +59,5 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sudurpashchim_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "87363",
-            "filename": "Dhangadhi_NDB_NP",
-            "ident": "DHI",
-            "name": "Dhangadhi",
-            "type": "NDB",
-            "frequency_khz": "253",
-            "latitude_deg": "28.752500534057617",
-            "longitude_deg": "80.58219909667969",
-            "elevation_ft": "653",
-            "iso_country": "NP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.317",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VNDH"
-        }
-    ]
+    }
 }

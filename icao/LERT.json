@@ -189,51 +189,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
         "keywords": "Airports in Andalucía"
-    },
-    "navaids": [
-        {
-            "id": "85520",
-            "filename": "Rota_TACAN_ES",
-            "ident": "AOG",
-            "name": "Rota",
-            "type": "TACAN",
-            "frequency_khz": "108600",
-            "latitude_deg": "36.64789962768555",
-            "longitude_deg": "-6.34906005859375",
-            "elevation_ft": "86",
-            "iso_country": "ES",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.012",
-            "magnetic_variation_deg": "-2.559",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LERT"
-        },
-        {
-            "id": "85521",
-            "filename": "Rota_NDB_ES",
-            "ident": "AOG",
-            "name": "Rota",
-            "type": "NDB",
-            "frequency_khz": "268",
-            "latitude_deg": "36.6421012878418",
-            "longitude_deg": "-6.316810131072998",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.552",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LERT"
-        }
-    ]
+    }
 }

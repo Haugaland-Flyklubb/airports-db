@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "95826",
-            "filename": "Rocky_Mtn_House_VOR-DME_CA",
-            "ident": "YRM",
-            "name": "Rocky Mtn House",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "52.502201080322266",
-            "longitude_deg": "-115.3239974975586",
-            "elevation_ft": "3544",
-            "iso_country": "CA",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "16.001",
-            "magnetic_variation_deg": "17.16",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYRM"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Crete#Administration",
         "keywords": "Κρήτη"
-    },
-    "navaids": [
-        {
-            "id": "93593",
-            "filename": "Sitia_VOR-DME_GR",
-            "ident": "SHT",
-            "name": "Sitia",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "35.21860122680664",
-            "longitude_deg": "26.106800079345703",
-            "elevation_ft": "376",
-            "iso_country": "GR",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.2",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "LGST"
-        },
-        {
-            "id": "93635",
-            "filename": "Sitia_VOR-DME_GR",
-            "ident": "SIT",
-            "name": "Sitia",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "35.06840133666992",
-            "longitude_deg": "26.18910026550293",
-            "elevation_ft": "2058",
-            "iso_country": "GR",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "3.19",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LGST"
-        }
-    ]
+    }
 }

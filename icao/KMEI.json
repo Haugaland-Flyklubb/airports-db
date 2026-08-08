@@ -155,51 +155,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    },
-    "navaids": [
-        {
-            "id": "90857",
-            "filename": "Savoy_NDB_US",
-            "ident": "ME",
-            "name": "Savoy",
-            "type": "NDB",
-            "frequency_khz": "356",
-            "latitude_deg": "32.247100830078125",
-            "longitude_deg": "-88.77159881591797",
-            "elevation_ft": "318",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.387",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KMEI"
-        },
-        {
-            "id": "90865",
-            "filename": "Meridian_VORTAC_US",
-            "ident": "MEI",
-            "name": "Meridian",
-            "type": "VORTAC",
-            "frequency_khz": "117000",
-            "latitude_deg": "32.378501892089844",
-            "longitude_deg": "-88.8042984008789",
-            "elevation_ft": "580",
-            "iso_country": "US",
-            "dme_frequency_khz": "117000",
-            "dme_channel": "117X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.001",
-            "magnetic_variation_deg": "-0.383",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KMEI"
-        }
-    ]
+    }
 }

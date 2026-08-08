@@ -77,29 +77,5 @@
         "iso_country": "UY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colonia_Department",
         "keywords": "Airports in Colonia Department"
-    },
-    "navaids": [
-        {
-            "id": "86953",
-            "filename": "Colonia_NDB_UY",
-            "ident": "COL",
-            "name": "Colonia",
-            "type": "NDB",
-            "frequency_khz": "203",
-            "latitude_deg": "-34.45389938354492",
-            "longitude_deg": "-57.77009963989258",
-            "elevation_ft": "",
-            "iso_country": "UY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.424",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SUCA"
-        }
-    ]
+    }
 }

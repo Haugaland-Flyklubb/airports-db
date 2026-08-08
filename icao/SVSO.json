@@ -85,51 +85,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/T%C3%A1chira",
         "keywords": "Airports in Táchira State"
-    },
-    "navaids": [
-        {
-            "id": "87783",
-            "filename": "El_Pinal_NDB_VE",
-            "ident": "EPL",
-            "name": "El Pinal",
-            "type": "NDB",
-            "frequency_khz": "237",
-            "latitude_deg": "7.518610000610352",
-            "longitude_deg": "-71.96369934082031",
-            "elevation_ft": "59",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.342",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SVSO"
-        },
-        {
-            "id": "93975",
-            "filename": "Santo_Domingo_TACAN_VE",
-            "ident": "STD",
-            "name": "Santo Domingo",
-            "type": "TACAN",
-            "frequency_khz": "115300",
-            "latitude_deg": "7.5697197914123535",
-            "longitude_deg": "-72.0186996459961",
-            "elevation_ft": "1083",
-            "iso_country": "VE",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.325",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVSO"
-        }
-    ]
+    }
 }

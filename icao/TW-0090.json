@@ -85,51 +85,5 @@
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Taichung",
         "keywords": "Airports in Taichung City"
-    },
-    "navaids": [
-        {
-            "id": "91286",
-            "filename": "Msnn_DME_TW",
-            "ident": "MSNN",
-            "name": "Msnn",
-            "type": "DME",
-            "frequency_khz": "111700",
-            "latitude_deg": "24.194400787353516",
-            "longitude_deg": "120.65399932861328",
-            "elevation_ft": "369",
-            "iso_country": "TW",
-            "dme_frequency_khz": "111700",
-            "dme_channel": "054X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.25",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "TW-0090"
-        },
-        {
-            "id": "93806",
-            "filename": "Sn_NDB_TW",
-            "ident": "SN",
-            "name": "Sn",
-            "type": "NDB",
-            "frequency_khz": "370",
-            "latitude_deg": "24.13629913330078",
-            "longitude_deg": "120.65499877929688",
-            "elevation_ft": "",
-            "iso_country": "TW",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.242",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "TW-0090"
-        }
-    ]
+    }
 }

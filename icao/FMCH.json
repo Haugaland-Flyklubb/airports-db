@@ -85,29 +85,5 @@
         "iso_country": "KM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grande_Comore",
         "keywords": "Airports in Grande Comore (Ngazidja)"
-    },
-    "navaids": [
-        {
-            "id": "88710",
-            "filename": "Prince_Said_Ibrahim_VOR-DME_KM",
-            "ident": "HAI",
-            "name": "Prince Said Ibrahim",
-            "type": "VOR-DME",
-            "frequency_khz": "114700",
-            "latitude_deg": "-11.515000343322754",
-            "longitude_deg": "43.27669906616211",
-            "elevation_ft": "103",
-            "iso_country": "KM",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-6.177",
-            "usageType": "HI",
-            "power": "HIGH",
-            "associated_airport": "FMCH"
-        }
-    ]
+    }
 }

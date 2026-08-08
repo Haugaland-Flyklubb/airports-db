@@ -85,29 +85,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quindio_Department",
         "keywords": "Airports in Quindio Department"
-    },
-    "navaids": [
-        {
-            "id": "85721",
-            "filename": "Armenia_NDB_CO",
-            "ident": "AXM",
-            "name": "Armenia",
-            "type": "NDB",
-            "frequency_khz": "315",
-            "latitude_deg": "4.451350212097168",
-            "longitude_deg": "-75.77290344238281",
-            "elevation_ft": "3960",
-            "iso_country": "CO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.26",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SKAR"
-        }
-    ]
+    }
 }

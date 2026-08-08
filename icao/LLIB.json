@@ -107,51 +107,5 @@
         "iso_country": "IL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_District_(Israel)",
         "keywords": "Mehoz HaTzafon"
-    },
-    "navaids": [
-        {
-            "id": "93199",
-            "filename": "Rosh_Pina_VOR-DME_IL",
-            "ident": "ROP",
-            "name": "Rosh Pina",
-            "type": "VOR-DME",
-            "frequency_khz": "115300",
-            "latitude_deg": "32.982601165771484",
-            "longitude_deg": "35.57270050048828",
-            "elevation_ft": "897",
-            "iso_country": "IL",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.489",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LLIB"
-        },
-        {
-            "id": "93219",
-            "filename": "Rosh_Pina_NDB_IL",
-            "ident": "RPN",
-            "name": "Rosh Pina",
-            "type": "NDB",
-            "frequency_khz": "243",
-            "latitude_deg": "32.96689987182617",
-            "longitude_deg": "35.55670166015625",
-            "elevation_ft": "",
-            "iso_country": "IL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.488",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LLIB"
-        }
-    ]
+    }
 }

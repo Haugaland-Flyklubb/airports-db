@@ -35,29 +35,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sagaing_Region",
         "keywords": "Airports in Sagaing Division"
-    },
-    "navaids": [
-        {
-            "id": "89782",
-            "filename": "Kanti_NDB_MM",
-            "ident": "KI",
-            "name": "Kanti",
-            "type": "NDB",
-            "frequency_khz": "230",
-            "latitude_deg": "25.987300872802734",
-            "longitude_deg": "95.67469787597656",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.366",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VYKI"
-        }
-    ]
+    }
 }

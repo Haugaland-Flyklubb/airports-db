@@ -85,51 +85,5 @@
         "iso_country": "LT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vilnius_County",
         "keywords": "Vilniaus"
-    },
-    "navaids": [
-        {
-            "id": "85705",
-            "filename": "Vilnius_NDB_LT",
-            "ident": "AVN",
-            "name": "Vilnius",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "54.65340042114258",
-            "longitude_deg": "25.298999786376953",
-            "elevation_ft": "",
-            "iso_country": "LT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.557",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EYVI"
-        },
-        {
-            "id": "95225",
-            "filename": "Vilnius_VOR-DME_LT",
-            "ident": "VNO",
-            "name": "Vilnius",
-            "type": "VOR-DME",
-            "frequency_khz": "113800",
-            "latitude_deg": "54.63610076904297",
-            "longitude_deg": "25.29360008239746",
-            "elevation_ft": "635",
-            "iso_country": "LT",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.007",
-            "magnetic_variation_deg": "5.554",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "EYVI"
-        }
-    ]
+    }
 }

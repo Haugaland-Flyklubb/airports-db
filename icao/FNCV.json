@@ -35,29 +35,5 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cuando_Cubango_Province",
         "keywords": "Airports in Cuando Cubango Province"
-    },
-    "navaids": [
-        {
-            "id": "87128",
-            "filename": "Cuito_Cuanavale_NDB_AO",
-            "ident": "CV",
-            "name": "Cuito Cuanavale",
-            "type": "NDB",
-            "frequency_khz": "387",
-            "latitude_deg": "-15.16670036315918",
-            "longitude_deg": "19.149999618530273",
-            "elevation_ft": "4101",
-            "iso_country": "AO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.501",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FNCV"
-        }
-    ]
+    }
 }

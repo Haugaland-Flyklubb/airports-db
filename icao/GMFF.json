@@ -69,29 +69,5 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/F%C3%A8s-Mekn%C3%A8s",
         "keywords": "جهة فاس مكناس"
-    },
-    "navaids": [
-        {
-            "id": "87967",
-            "filename": "Saiss_VOR-DME_MA",
-            "ident": "FES",
-            "name": "Saiss",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "33.9275016784668",
-            "longitude_deg": "-5.013609886169434",
-            "elevation_ft": "1873",
-            "iso_country": "MA",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-2.274",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GMFF"
-        }
-    ]
+    }
 }

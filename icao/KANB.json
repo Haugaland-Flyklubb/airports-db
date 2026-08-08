@@ -101,29 +101,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    },
-    "navaids": [
-        {
-            "id": "85476",
-            "filename": "Bogga_NDB_US",
-            "ident": "AN",
-            "name": "Bogga",
-            "type": "NDB",
-            "frequency_khz": "211",
-            "latitude_deg": "33.534400939941406",
-            "longitude_deg": "-85.93080139160156",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.545",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KANB"
-        }
-    ]
+    }
 }

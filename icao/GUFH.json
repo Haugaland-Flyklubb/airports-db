@@ -77,51 +77,5 @@
         "iso_country": "GN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Faranah_Region",
         "keywords": "Airports in Faranah Region"
-    },
-    "navaids": [
-        {
-            "id": "87990",
-            "filename": "Faranah_NDB_GN",
-            "ident": "FH",
-            "name": "Faranah",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "10.050999641418457",
-            "longitude_deg": "-10.760199546813965",
-            "elevation_ft": "",
-            "iso_country": "GN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.075",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "GUFH"
-        },
-        {
-            "id": "88136",
-            "filename": "Faranah_VOR_GN",
-            "ident": "FRH",
-            "name": "Faranah",
-            "type": "VOR",
-            "frequency_khz": "112100",
-            "latitude_deg": "10.05090045928955",
-            "longitude_deg": "-10.760000228881836",
-            "elevation_ft": "",
-            "iso_country": "GN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.307",
-            "magnetic_variation_deg": "-7.075",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GUFH"
-        }
-    ]
+    }
 }

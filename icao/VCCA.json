@@ -77,29 +77,5 @@
         "iso_country": "LK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Central_Province,_Sri_Lanka",
         "keywords": "Uturumeda Palata"
-    },
-    "navaids": [
-        {
-            "id": "85467",
-            "filename": "Anuradhapura_NDB_LK",
-            "ident": "AN",
-            "name": "Anuradhapura",
-            "type": "NDB",
-            "frequency_khz": "415",
-            "latitude_deg": "8.303609848022461",
-            "longitude_deg": "80.42970275878906",
-            "elevation_ft": "",
-            "iso_country": "LK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.285",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VCCA"
-        }
-    ]
+    }
 }

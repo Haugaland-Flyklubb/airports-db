@@ -93,51 +93,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khanty-Mansi_Autonomous_Okrug",
         "keywords": "Airports in Khanty-Mansi Autonomous Okrug"
-    },
-    "navaids": [
-        {
-            "id": "85434",
-            "filename": "Surgut_NDB_RU",
-            "ident": "AM",
-            "name": "Surgut",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "61.343299865722656",
-            "longitude_deg": "73.50669860839844",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.346",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "USRR"
-        },
-        {
-            "id": "88429",
-            "filename": "Surgut_NDB_RU",
-            "ident": "GK",
-            "name": "Surgut",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "61.343299865722656",
-            "longitude_deg": "73.30000305175781",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.374",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "USRR"
-        }
-    ]
+    }
 }

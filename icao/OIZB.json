@@ -69,29 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sistan_and_Baluchestan_Province",
         "keywords": "Airports in Sistan and Baluchestan Province"
-    },
-    "navaids": [
-        {
-            "id": "95968",
-            "filename": "Zabol_NDB_IR",
-            "ident": "ZAL",
-            "name": "Zabol",
-            "type": "NDB",
-            "frequency_khz": "295",
-            "latitude_deg": "31.097700119018555",
-            "longitude_deg": "61.53990173339844",
-            "elevation_ft": "",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.095",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "OIZB"
-        }
-    ]
+    }
 }

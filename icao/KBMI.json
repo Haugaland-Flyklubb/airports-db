@@ -169,51 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
         "keywords": "Airports in Illinois"
-    },
-    "navaids": [
-        {
-            "id": "86181",
-            "filename": "Bloomington_VOR-DME_US",
-            "ident": "BMI",
-            "name": "Bloomington",
-            "type": "VOR-DME",
-            "frequency_khz": "108200",
-            "latitude_deg": "40.48080062866211",
-            "longitude_deg": "-88.93119812011719",
-            "elevation_ft": "880",
-            "iso_country": "US",
-            "dme_frequency_khz": "108200",
-            "dme_channel": "019X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "-1.442",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KBMI"
-        },
-        {
-            "id": "90318",
-            "filename": "Egrow_NDB_US",
-            "ident": "LH",
-            "name": "Egrow",
-            "type": "NDB",
-            "frequency_khz": "334",
-            "latitude_deg": "40.56039810180664",
-            "longitude_deg": "-88.87460327148438",
-            "elevation_ft": "770",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.479",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KBMI"
-        }
-    ]
+    }
 }

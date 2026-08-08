@@ -123,51 +123,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lombardy",
         "keywords": "LM"
-    },
-    "navaids": [
-        {
-            "id": "90347",
-            "filename": "Linate_VOR-DME_IT",
-            "ident": "LIN",
-            "name": "Linate",
-            "type": "VOR-DME",
-            "frequency_khz": "112250",
-            "latitude_deg": "45.4612007141",
-            "longitude_deg": "9.2753200531",
-            "elevation_ft": "386",
-            "iso_country": "IT",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.054",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LIML"
-        },
-        {
-            "id": "90349",
-            "filename": "Linate_NDB_IT",
-            "ident": "LIN",
-            "name": "Linate",
-            "type": "NDB",
-            "frequency_khz": "386",
-            "latitude_deg": "45.34429931640625",
-            "longitude_deg": "9.288579940795898",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.057",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LIML"
-        }
-    ]
+    }
 }

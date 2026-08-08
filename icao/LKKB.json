@@ -85,29 +85,5 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Prague",
         "keywords": "Praha, hlavní město"
-    },
-    "navaids": [
-        {
-            "id": "89701",
-            "filename": "Kbely_NDB_CZ",
-            "ident": "KD",
-            "name": "Kbely",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "50.1525993347168",
-            "longitude_deg": "14.63659954071045",
-            "elevation_ft": "",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.282",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LKKB"
-        }
-    ]
+    }
 }

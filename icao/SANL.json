@@ -69,51 +69,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Rioja_Province_(Argentina)",
         "keywords": "Airports in La Rioja Province"
-    },
-    "navaids": [
-        {
-            "id": "90166",
-            "filename": "La_Rioja_VOR_AR",
-            "ident": "LAR",
-            "name": "La Rioja",
-            "type": "VOR",
-            "frequency_khz": "113500",
-            "latitude_deg": "-29.388599395751953",
-            "longitude_deg": "-66.80359649658203",
-            "elevation_ft": "1437",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-2.01",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SANL"
-        },
-        {
-            "id": "90170",
-            "filename": "La_Rioja_NDB_AR",
-            "ident": "LAR",
-            "name": "La Rioja",
-            "type": "NDB",
-            "frequency_khz": "410",
-            "latitude_deg": "-29.38279914855957",
-            "longitude_deg": "-66.7925033569336",
-            "elevation_ft": "1415",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.018",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SANL"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "87962",
-            "filename": "Forestville_NDB_CA",
-            "ident": "FE",
-            "name": "Forestville",
-            "type": "NDB",
-            "frequency_khz": "239",
-            "latitude_deg": "48.72999954223633",
-            "longitude_deg": "-69.16329956054688",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.583",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYFE"
-        }
-    ]
+    }
 }

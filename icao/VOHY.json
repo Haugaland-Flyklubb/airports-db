@@ -101,29 +101,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Telangana",
         "keywords": "Airports in Telangana"
-    },
-    "navaids": [
-        {
-            "id": "88833",
-            "filename": "Hyderabad_VOR-DME_IN",
-            "ident": "HHY",
-            "name": "Hyderabad",
-            "type": "VOR-DME",
-            "frequency_khz": "114700",
-            "latitude_deg": "17.45439910888672",
-            "longitude_deg": "78.4574966430664",
-            "elevation_ft": "1741",
-            "iso_country": "IN",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-1.101",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VOHY"
-        }
-    ]
+    }
 }

@@ -85,51 +85,5 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/East_Sepik_Province",
         "keywords": "Airports in East Sepik Province"
-    },
-    "navaids": [
-        {
-            "id": "95429",
-            "filename": "Wewak_VOR-DME_PG",
-            "ident": "WK",
-            "name": "Wewak",
-            "type": "VOR-DME",
-            "frequency_khz": "116600",
-            "latitude_deg": "-3.58351993560791",
-            "longitude_deg": "143.67599487304688",
-            "elevation_ft": "19",
-            "iso_country": "PG",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.007",
-            "magnetic_variation_deg": "4.47",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "AYWK"
-        },
-        {
-            "id": "95434",
-            "filename": "Wewak_NDB_PG",
-            "ident": "WK",
-            "name": "Wewak",
-            "type": "NDB",
-            "frequency_khz": "336",
-            "latitude_deg": "-3.5813701152801514",
-            "longitude_deg": "143.67799377441406",
-            "elevation_ft": "93",
-            "iso_country": "PG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.47",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "AYWK"
-        }
-    ]
+    }
 }

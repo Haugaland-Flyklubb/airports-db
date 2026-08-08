@@ -123,29 +123,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
         "keywords": "Airports in South Dakota"
-    },
-    "navaids": [
-        {
-            "id": "85200",
-            "filename": "Reney_NDB_US",
-            "ident": "AB",
-            "name": "Reney",
-            "type": "NDB",
-            "frequency_khz": "203",
-            "latitude_deg": "45.38600158691406",
-            "longitude_deg": "-98.32839965820312",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.298",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KABR"
-        }
-    ]
+    }
 }

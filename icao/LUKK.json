@@ -115,29 +115,5 @@
         "iso_country": "MD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chişinău",
         "keywords": "Airports in Chişinău (city)"
-    },
-    "navaids": [
-        {
-            "id": "86770",
-            "filename": "Chisinau_VOR-DME_MD",
-            "ident": "CHN",
-            "name": "Chisinau",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "46.92639923095703",
-            "longitude_deg": "28.899200439453125",
-            "elevation_ft": "418",
-            "iso_country": "MD",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.113",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LUKK"
-        }
-    ]
+    }
 }

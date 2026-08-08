@@ -77,29 +77,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Occitania_(administrative_region)",
         "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
-    },
-    "navaids": [
-        {
-            "id": "88250",
-            "filename": "Gaillac_VOR_FR",
-            "ident": "GAI",
-            "name": "Gaillac",
-            "type": "VOR",
-            "frequency_khz": "115800",
-            "latitude_deg": "43.9541015625",
-            "longitude_deg": "1.8241699934005737",
-            "elevation_ft": "972",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.007",
-            "magnetic_variation_deg": "-0.496",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFCI"
-        }
-    ]
+    }
 }

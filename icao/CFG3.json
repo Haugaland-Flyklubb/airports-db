@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85078",
-            "filename": "Consort_NDB_CA",
-            "ident": "3H",
-            "name": "Consort",
-            "type": "NDB",
-            "frequency_khz": "276",
-            "latitude_deg": "52.02280044555664",
-            "longitude_deg": "-110.74600219726562",
-            "elevation_ft": "2499",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "14.515",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CFG3"
-        }
-    ]
+    }
 }

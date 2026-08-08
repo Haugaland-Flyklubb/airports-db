@@ -85,29 +85,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    },
-    "navaids": [
-        {
-            "id": "86997",
-            "filename": "Cole_Spring_NDB_US",
-            "ident": "CPP",
-            "name": "Cole Spring",
-            "type": "NDB",
-            "frequency_khz": "230",
-            "latitude_deg": "34.36790084838867",
-            "longitude_deg": "-86.82389831542969",
-            "elevation_ft": "830",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.227",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KCMD"
-        }
-    ]
+    }
 }

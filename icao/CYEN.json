@@ -91,29 +91,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "90123",
-            "filename": "Estevan_NDB_CA",
-            "ident": "L7",
-            "name": "Estevan",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "49.209999084472656",
-            "longitude_deg": "-102.86000061035156",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.062",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYEN"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur",
         "keywords": "Airports in Nusa Tenggara Timur"
-    },
-    "navaids": [
-        {
-            "id": "90193",
-            "filename": "Labuhan_Bajo_NDB_ID",
-            "ident": "LB",
-            "name": "Labuhan Bajo",
-            "type": "NDB",
-            "frequency_khz": "238",
-            "latitude_deg": "-8.489520072937012",
-            "longitude_deg": "119.88700103759766",
-            "elevation_ft": "66",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.558",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WATO"
-        }
-    ]
+    }
 }

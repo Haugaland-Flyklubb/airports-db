@@ -115,29 +115,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)",
         "keywords": "Basque airports, Basque Autonomous Community"
-    },
-    "navaids": [
-        {
-            "id": "86166",
-            "filename": "Bilbao_VOR-DME_ES",
-            "ident": "BLV",
-            "name": "Bilbao",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "43.30440139770508",
-            "longitude_deg": "-2.935879945755005",
-            "elevation_ft": "141",
-            "iso_country": "ES",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-2.146",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LEBB"
-        }
-    ]
+    }
 }

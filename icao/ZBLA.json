@@ -69,51 +69,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Inner_Mongolia",
         "keywords": "Airports in Inner Mongolia Autonomous Region, Nei Mongol"
-    },
-    "navaids": [
-        {
-            "id": "88870",
-            "filename": "Dongshan_NDB_CN",
-            "ident": "HL",
-            "name": "Dongshan",
-            "type": "NDB",
-            "frequency_khz": "347",
-            "latitude_deg": "49.211700439453125",
-            "longitude_deg": "119.79499816894531",
-            "elevation_ft": "2240",
-            "iso_country": "CN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.427",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ZBLA"
-        },
-        {
-            "id": "88882",
-            "filename": "Hailar_VOR-DME_CN",
-            "ident": "HLD",
-            "name": "Hailar",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "49.201698303222656",
-            "longitude_deg": "119.822998046875",
-            "elevation_ft": "2188",
-            "iso_country": "CN",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.421",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZBLA"
-        }
-    ]
+    }
 }

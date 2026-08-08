@@ -77,29 +77,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
         "keywords": "Airports in Limpopo"
-    },
-    "navaids": [
-        {
-            "id": "95201",
-            "filename": "Venetia_NDB_ZA",
-            "ident": "VM",
-            "name": "Venetia",
-            "type": "NDB",
-            "frequency_khz": "418",
-            "latitude_deg": "-22.457000732421875",
-            "longitude_deg": "29.30430030822754",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.138",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "FAVM"
-        }
-    ]
+    }
 }

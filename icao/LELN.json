@@ -99,51 +99,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
         "keywords": "Airports in Castilla y León, Castile and León"
-    },
-    "navaids": [
-        {
-            "id": "87778",
-            "filename": "Leon_VOR-DME_ES",
-            "ident": "EON",
-            "name": "Leon",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "42.59379959106445",
-            "longitude_deg": "-5.646140098571777",
-            "elevation_ft": "3013",
-            "iso_country": "ES",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "42.5937",
-            "dme_longitude_deg": "-5.64597",
-            "dme_elevation_ft": "3013",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.052",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LELN"
-        },
-        {
-            "id": "90279",
-            "filename": "Leon_NDB_ES",
-            "ident": "LEN",
-            "name": "Leon",
-            "type": "NDB",
-            "frequency_khz": "330",
-            "latitude_deg": "42.58660125732422",
-            "longitude_deg": "-5.648059844970703",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.051",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LELN"
-        }
-    ]
+    }
 }

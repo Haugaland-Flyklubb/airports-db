@@ -77,51 +77,5 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mwanza_Region",
         "keywords": "Airports in Mwanza Region"
-    },
-    "navaids": [
-        {
-            "id": "91413",
-            "filename": "Mwanza_VOR_TZ",
-            "ident": "MZ",
-            "name": "Mwanza",
-            "type": "VOR",
-            "frequency_khz": "115700",
-            "latitude_deg": "-2.4383599758148193",
-            "longitude_deg": "32.922298431396484",
-            "elevation_ft": "3763",
-            "iso_country": "TZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.034",
-            "usageType": "HI",
-            "power": "HIGH",
-            "associated_airport": "HTMW"
-        },
-        {
-            "id": "91415",
-            "filename": "Mwanza_NDB_TZ",
-            "ident": "MZ",
-            "name": "Mwanza",
-            "type": "NDB",
-            "frequency_khz": "403",
-            "latitude_deg": "-2.442189931869507",
-            "longitude_deg": "32.92390060424805",
-            "elevation_ft": "3763",
-            "iso_country": "TZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.033",
-            "usageType": "HI",
-            "power": "HIGH",
-            "associated_airport": "HTMW"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "KZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kostanay_Region",
         "keywords": "Қостанай облысы"
-    },
-    "navaids": [
-        {
-            "id": "90016",
-            "filename": "Kostanay_NDB_KZ",
-            "ident": "KT",
-            "name": "Kostanay",
-            "type": "NDB",
-            "frequency_khz": "512",
-            "latitude_deg": "53.25",
-            "longitude_deg": "63.51940155029297",
-            "elevation_ft": "594",
-            "iso_country": "KZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.297",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UAUU"
-        },
-        {
-            "id": "91451",
-            "filename": "Kostanay_NDB_KZ",
-            "ident": "NA",
-            "name": "Kostanay",
-            "type": "NDB",
-            "frequency_khz": "512",
-            "latitude_deg": "53.16230010986328",
-            "longitude_deg": "63.58259963989258",
-            "elevation_ft": "594",
-            "iso_country": "KZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.261",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UAUU"
-        }
-    ]
+    }
 }

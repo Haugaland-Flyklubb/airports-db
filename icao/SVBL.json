@@ -101,29 +101,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aragua",
         "keywords": "Airports in Aragua State"
-    },
-    "navaids": [
-        {
-            "id": "85794",
-            "filename": "El_Libertador_VORTAC_VE",
-            "ident": "BAL",
-            "name": "El Libertador",
-            "type": "VORTAC",
-            "frequency_khz": "113900",
-            "latitude_deg": "10.186100006103516",
-            "longitude_deg": "-67.5469970703125",
-            "elevation_ft": "1450",
-            "iso_country": "VE",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.474",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVBL"
-        }
-    ]
+    }
 }

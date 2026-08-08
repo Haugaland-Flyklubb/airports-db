@@ -99,29 +99,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "95814",
-            "filename": "Yorkton_VORTAC_CA",
-            "ident": "YQV",
-            "name": "Yorkton",
-            "type": "VORTAC",
-            "frequency_khz": "115800",
-            "latitude_deg": "51.264198303222656",
-            "longitude_deg": "-102.46900177001953",
-            "elevation_ft": "1665",
-            "iso_country": "CA",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.001",
-            "magnetic_variation_deg": "8.549",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYQV"
-        }
-    ]
+    }
 }

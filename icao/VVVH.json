@@ -59,51 +59,5 @@
         "iso_country": "VN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Central_Coast",
         "keywords": "the airports"
-    },
-    "navaids": [
-        {
-            "id": "95146",
-            "filename": "Vinh_VOR-DME_VN",
-            "ident": "VIN",
-            "name": "Vinh",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "18.734100341796875",
-            "longitude_deg": "105.66799926757812",
-            "elevation_ft": "49",
-            "iso_country": "VN",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.571",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VVVH"
-        },
-        {
-            "id": "95587",
-            "filename": "Vinh_NDB_VN",
-            "ident": "XW",
-            "name": "Vinh",
-            "type": "NDB",
-            "frequency_khz": "218",
-            "latitude_deg": "18.790300369262695",
-            "longitude_deg": "105.66699981689453",
-            "elevation_ft": "",
-            "iso_country": "VN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.574",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VVVH"
-        }
-    ]
+    }
 }

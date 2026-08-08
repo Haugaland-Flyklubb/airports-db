@@ -85,29 +85,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "90444",
-            "filename": "Millen_NDB_US",
-            "ident": "LNH",
-            "name": "Millen",
-            "type": "NDB",
-            "frequency_khz": "205",
-            "latitude_deg": "32.91130065917969",
-            "longitude_deg": "-81.96690368652344",
-            "elevation_ft": "225",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.424",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "K2J5"
-        }
-    ]
+    }
 }

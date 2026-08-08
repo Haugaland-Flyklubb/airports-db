@@ -173,29 +173,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "90672",
-            "filename": "Willis_NDB_US",
-            "ident": "LYZ",
-            "name": "Willis",
-            "type": "NDB",
-            "frequency_khz": "359",
-            "latitude_deg": "30.972700119018555",
-            "longitude_deg": "-84.5260009765625",
-            "elevation_ft": "130",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.297",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KBGE"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Papua",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "94450",
-            "filename": "Timika_VOR-DME_ID",
-            "ident": "TMK",
-            "name": "Timika",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "-4.517000198364258",
-            "longitude_deg": "136.86700439453125",
-            "elevation_ft": "103",
-            "iso_country": "ID",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "3.329",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WABP"
-        },
-        {
-            "id": "96007",
-            "filename": "Timika_NDB_ID",
-            "ident": "ZF",
-            "name": "Timika",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "-4.535339832305908",
-            "longitude_deg": "136.88999938964844",
-            "elevation_ft": "103",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.333",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WABP"
-        }
-    ]
+    }
 }

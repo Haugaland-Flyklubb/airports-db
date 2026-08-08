@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
         "keywords": "Airports in Arkansas"
-    },
-    "navaids": [
-        {
-            "id": "88946",
-            "filename": "Hossy_NDB_US",
-            "ident": "HO",
-            "name": "Hossy",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "34.422698974609375",
-            "longitude_deg": "-93.1895980834961",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.151",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KHOT"
-        },
-        {
-            "id": "88965",
-            "filename": "Hot_Springs_VOR-DME_US",
-            "ident": "HOT",
-            "name": "Hot Springs",
-            "type": "VOR-DME",
-            "frequency_khz": "110000",
-            "latitude_deg": "34.478599548339844",
-            "longitude_deg": "-93.0905990600586",
-            "elevation_ft": "530",
-            "iso_country": "US",
-            "dme_frequency_khz": "110000",
-            "dme_channel": "037X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.001",
-            "magnetic_variation_deg": "2.107",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KHOT"
-        }
-    ]
+    }
 }

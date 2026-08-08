@@ -123,51 +123,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "90778",
-            "filename": "Maroochydore_VOR-DME_AU",
-            "ident": "MC",
-            "name": "Maroochydore",
-            "type": "VOR-DME",
-            "frequency_khz": "114200",
-            "latitude_deg": "-26.59779930114746",
-            "longitude_deg": "153.08999633789062",
-            "elevation_ft": "25",
-            "iso_country": "AU",
-            "dme_frequency_khz": "114200",
-            "dme_channel": "089X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "10.007",
-            "magnetic_variation_deg": "10.539",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "YBSU"
-        },
-        {
-            "id": "90779",
-            "filename": "Maroochydore_NDB_AU",
-            "ident": "MC",
-            "name": "Maroochydore",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "-26.592199325561523",
-            "longitude_deg": "153.0919952392578",
-            "elevation_ft": "15",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.538",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YBSU"
-        }
-    ]
+    }
 }

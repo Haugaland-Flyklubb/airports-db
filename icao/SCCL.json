@@ -59,29 +59,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Atacama_Region",
         "keywords": "Airports in Atacama Region"
-    },
-    "navaids": [
-        {
-            "id": "86850",
-            "filename": "Caldera_NDB_CL",
-            "ident": "CLD",
-            "name": "Caldera",
-            "type": "NDB",
-            "frequency_khz": "227",
-            "latitude_deg": "-27.076900482177734",
-            "longitude_deg": "-70.818603515625",
-            "elevation_ft": "",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.319",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SCCL"
-        }
-    ]
+    }
 }

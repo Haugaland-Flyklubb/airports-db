@@ -77,29 +77,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "85582",
-            "filename": "Argyle_VOR-DME_AU",
-            "ident": "ARG",
-            "name": "Argyle",
-            "type": "VOR-DME",
-            "frequency_khz": "113900",
-            "latitude_deg": "-16.63170051574707",
-            "longitude_deg": "128.44900512695312",
-            "elevation_ft": "536",
-            "iso_country": "AU",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "-16.6347",
-            "dme_longitude_deg": "128.447",
-            "dme_elevation_ft": "536",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "3.244",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YARG"
-        }
-    ]
+    }
 }

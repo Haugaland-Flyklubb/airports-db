@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "87238",
-            "filename": "Dolbeau_NDB_CA",
-            "ident": "D8",
-            "name": "Dolbeau",
-            "type": "NDB",
-            "frequency_khz": "386",
-            "latitude_deg": "48.78369903564453",
-            "longitude_deg": "-72.46790313720703",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-17.244",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYDO"
-        }
-    ]
+    }
 }

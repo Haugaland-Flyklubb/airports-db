@@ -139,51 +139,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Guaira_(state)",
         "keywords": "Vargas State"
-    },
-    "navaids": [
-        {
-            "id": "90977",
-            "filename": "Maiquetia_VOR-DME_VE",
-            "ident": "MIQ",
-            "name": "Maiquetia",
-            "type": "VOR-DME",
-            "frequency_khz": "114800",
-            "latitude_deg": "10.60947222",
-            "longitude_deg": "-66.98966667",
-            "elevation_ft": "235",
-            "iso_country": "VE",
-            "dme_frequency_khz": "114800",
-            "dme_channel": "095X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10",
-            "magnetic_variation_deg": "-11.1",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVMI"
-        },
-        {
-            "id": "90979",
-            "filename": "Maiquetia_NDB_VE",
-            "ident": "MIQ",
-            "name": "Maiquetia",
-            "type": "NDB",
-            "frequency_khz": "292",
-            "latitude_deg": "10.610899925231934",
-            "longitude_deg": "-66.98429870605469",
-            "elevation_ft": "235",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.108",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SVMI"
-        }
-    ]
+    }
 }

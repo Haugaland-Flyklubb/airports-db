@@ -139,51 +139,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "92883",
-            "filename": "Windsor_NDB_CA",
-            "ident": "QG",
-            "name": "Windsor",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "42.312801361083984",
-            "longitude_deg": "-82.86849975585938",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.163",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYQG"
-        },
-        {
-            "id": "96093",
-            "filename": "Laurel_NDB_CA",
-            "ident": "ZQG",
-            "name": "Laurel",
-            "type": "NDB",
-            "frequency_khz": "398",
-            "latitude_deg": "42.243900299072266",
-            "longitude_deg": "-83.04750061035156",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.062",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYQG"
-        }
-    ]
+    }
 }

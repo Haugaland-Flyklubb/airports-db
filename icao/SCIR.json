@@ -59,29 +59,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Valparaíso_Region",
         "keywords": "Airports in Valparaíso Region"
-    },
-    "navaids": [
-        {
-            "id": "89318",
-            "filename": "Isla_Robinson_Crusoe_NDB_CL",
-            "ident": "IRC",
-            "name": "Isla Robinson Crusoe",
-            "type": "NDB",
-            "frequency_khz": "293",
-            "latitude_deg": "-33.61669921875",
-            "longitude_deg": "-78.83670043945312",
-            "elevation_ft": "",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.052",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SCIR"
-        }
-    ]
+    }
 }

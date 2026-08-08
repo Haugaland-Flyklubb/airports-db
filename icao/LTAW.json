@@ -91,29 +91,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tokat_Province",
         "keywords": "Airports in Tokat Province"
-    },
-    "navaids": [
-        {
-            "id": "94413",
-            "filename": "Tokat_NDB-DME_TR",
-            "ident": "TKT",
-            "name": "Tokat",
-            "type": "NDB-DME",
-            "frequency_khz": "403",
-            "latitude_deg": "40.30580139160156",
-            "longitude_deg": "36.36690139770508",
-            "elevation_ft": "1831",
-            "iso_country": "TR",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.546",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LTAW"
-        }
-    ]
+    }
 }

@@ -129,29 +129,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
         "keywords": "Airports in Brandenburg"
-    },
-    "navaids": [
-        {
-            "id": "89845",
-            "filename": "Klasdorf_VOR-DME_DE",
-            "ident": "KLF",
-            "name": "Klasdorf",
-            "type": "VOR-DME",
-            "frequency_khz": "115150",
-            "latitude_deg": "52.01940155029297",
-            "longitude_deg": "13.563400268554688",
-            "elevation_ft": "233",
-            "iso_country": "DE",
-            "dme_frequency_khz": "115150",
-            "dme_channel": "098Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.01",
-            "magnetic_variation_deg": "2.162",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EDAZ"
-        }
-    ]
+    }
 }

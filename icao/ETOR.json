@@ -117,51 +117,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
         "keywords": "Baden-Wuerttemberg"
-    },
-    "navaids": [
-        {
-            "id": "88771",
-            "filename": "Coleman_VOR_DE",
-            "ident": "HDM",
-            "name": "Coleman",
-            "type": "VOR",
-            "frequency_khz": "109000",
-            "latitude_deg": "49.56560134887695",
-            "longitude_deg": "8.463809967041016",
-            "elevation_ft": "327",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.009",
-            "magnetic_variation_deg": "0.456",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ETOR"
-        },
-        {
-            "id": "88772",
-            "filename": "Coleman_NDB_DE",
-            "ident": "HDM",
-            "name": "Coleman",
-            "type": "NDB",
-            "frequency_khz": "334",
-            "latitude_deg": "49.53450012207031",
-            "longitude_deg": "8.39050006866455",
-            "elevation_ft": "320",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.444",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ETOR"
-        }
-    ]
+    }
 }

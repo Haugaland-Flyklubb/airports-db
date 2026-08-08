@@ -69,29 +69,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    },
-    "navaids": [
-        {
-            "id": "94011",
-            "filename": "Santa_Teresita_NDB_AR",
-            "ident": "STR",
-            "name": "Santa Teresita",
-            "type": "NDB",
-            "frequency_khz": "365",
-            "latitude_deg": "-36.54970169067383",
-            "longitude_deg": "-56.68389892578125",
-            "elevation_ft": "13",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.277",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SAZL"
-        }
-    ]
+    }
 }

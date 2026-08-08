@@ -85,51 +85,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Centre-Val_de_Loire",
         "keywords": "Airports in Centre-Val de Loire"
-    },
-    "navaids": [
-        {
-            "id": "85698",
-            "filename": "Avord_TACAN_FR",
-            "ident": "AVD",
-            "name": "Avord",
-            "type": "TACAN",
-            "frequency_khz": "110600",
-            "latitude_deg": "47.058101654052734",
-            "longitude_deg": "2.6298599243164062",
-            "elevation_ft": "554",
-            "iso_country": "FR",
-            "dme_frequency_khz": "110600",
-            "dme_channel": "043X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.007",
-            "magnetic_variation_deg": "-0.493",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFOA"
-        },
-        {
-            "id": "85699",
-            "filename": "Avord_NDB_FR",
-            "ident": "AVD",
-            "name": "Avord",
-            "type": "NDB",
-            "frequency_khz": "289",
-            "latitude_deg": "47.12070083618164",
-            "longitude_deg": "2.799609899520874",
-            "elevation_ft": "679",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.465",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LFOA"
-        }
-    ]
+    }
 }

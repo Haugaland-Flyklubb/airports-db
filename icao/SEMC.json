@@ -77,51 +77,5 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Morona-Santiago_Province",
         "keywords": "Airports in Morona-Santiago Province"
-    },
-    "navaids": [
-        {
-            "id": "90748",
-            "filename": "Macas_NDB_EC",
-            "ident": "MAS",
-            "name": "Macas",
-            "type": "NDB",
-            "frequency_khz": "405",
-            "latitude_deg": "-2.303420066833496",
-            "longitude_deg": "-78.12079620361328",
-            "elevation_ft": "3452",
-            "iso_country": "EC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.309",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SEMC"
-        },
-        {
-            "id": "91298",
-            "filename": "Macas_VOR-DME_EC",
-            "ident": "MSV",
-            "name": "Macas",
-            "type": "VOR-DME",
-            "frequency_khz": "112500",
-            "latitude_deg": "-2.257460117340088",
-            "longitude_deg": "-78.11009979248047",
-            "elevation_ft": "3625",
-            "iso_country": "EC",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.319",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SEMC"
-        }
-    ]
+    }
 }

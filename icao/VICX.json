@@ -77,29 +77,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
         "keywords": "Airports in Uttar Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "89624",
-            "filename": "Kanpur_Chakeri_NDB_IN",
-            "ident": "KA",
-            "name": "Kanpur Chakeri",
-            "type": "NDB",
-            "frequency_khz": "292",
-            "latitude_deg": "26.416900634765625",
-            "longitude_deg": "80.39830017089844",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.084",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VICX"
-        }
-    ]
+    }
 }

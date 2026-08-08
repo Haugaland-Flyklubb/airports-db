@@ -99,29 +99,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "86263",
-            "filename": "Bourn_NDB_GB",
-            "ident": "BOU",
-            "name": "Bourn",
-            "type": "NDB",
-            "frequency_khz": "392",
-            "latitude_deg": "52.21110153198242",
-            "longitude_deg": "-0.04493600130081177",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.215",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "GB-1240"
-        }
-    ]
+    }
 }

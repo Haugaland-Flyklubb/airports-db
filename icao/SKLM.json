@@ -91,51 +91,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Guajira_Department",
         "keywords": "Airports in La Guajira Department"
-    },
-    "navaids": [
-        {
-            "id": "86815",
-            "filename": "Cerrejon_VOR-DME_CO",
-            "ident": "CJN",
-            "name": "Cerrejon",
-            "type": "VOR-DME",
-            "frequency_khz": "113400",
-            "latitude_deg": "11.231200218200684",
-            "longitude_deg": "-72.4928970336914",
-            "elevation_ft": "295",
-            "iso_country": "CO",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.007",
-            "magnetic_variation_deg": "-7.479",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKLM"
-        },
-        {
-            "id": "86817",
-            "filename": "Cerrejon_NDB_CO",
-            "ident": "CJN",
-            "name": "Cerrejon",
-            "type": "NDB",
-            "frequency_khz": "415",
-            "latitude_deg": "11.232500076293945",
-            "longitude_deg": "-72.50679779052734",
-            "elevation_ft": "272",
-            "iso_country": "CO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.474",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SKLM"
-        }
-    ]
+    }
 }

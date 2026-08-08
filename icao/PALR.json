@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "87008",
-            "filename": "Chandalar_Lake_NDB_US",
-            "ident": "CQR",
-            "name": "Chandalar Lake",
-            "type": "NDB",
-            "frequency_khz": "263",
-            "latitude_deg": "67.50240325927734",
-            "longitude_deg": "-148.468994140625",
-            "elevation_ft": "1875",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "23.188",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "PALR"
-        }
-    ]
+    }
 }

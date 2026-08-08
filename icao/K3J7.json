@@ -85,29 +85,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "95327",
-            "filename": "Junne_NDB_US",
-            "ident": "VV",
-            "name": "Junne",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "33.64609909057617",
-            "longitude_deg": "-83.02079772949219",
-            "elevation_ft": "606",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.052",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "K3J7"
-        }
-    ]
+    }
 }

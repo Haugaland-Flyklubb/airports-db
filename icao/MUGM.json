@@ -101,51 +101,5 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guant%C3%A1namo_Province",
         "keywords": "Airports in Guantánamo Province"
-    },
-    "navaids": [
-        {
-            "id": "91478",
-            "filename": "Guantanamo_Bay_Ns_VOR_CU",
-            "ident": "NBW",
-            "name": "Guantanamo Bay Ns",
-            "type": "VOR",
-            "frequency_khz": "114600",
-            "latitude_deg": "19.904499053955078",
-            "longitude_deg": "-75.19879913330078",
-            "elevation_ft": "43",
-            "iso_country": "CU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.004",
-            "magnetic_variation_deg": "-7.368",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MUGM"
-        },
-        {
-            "id": "91479",
-            "filename": "Guantanamo_Bay_Ns_TACAN_CU",
-            "ident": "NBW",
-            "name": "Guantanamo Bay Ns",
-            "type": "TACAN",
-            "frequency_khz": "114600",
-            "latitude_deg": "19.90999984741211",
-            "longitude_deg": "-75.21849822998047",
-            "elevation_ft": "129",
-            "iso_country": "CU",
-            "dme_frequency_khz": "114600",
-            "dme_channel": "093X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.004",
-            "magnetic_variation_deg": "-7.361",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MUGM"
-        }
-    ]
+    }
 }

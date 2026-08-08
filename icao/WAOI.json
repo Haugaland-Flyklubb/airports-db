@@ -69,51 +69,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Kalimantan",
         "keywords": "Kalimantan Tengah"
-    },
-    "navaids": [
-        {
-            "id": "92491",
-            "filename": "Pangkalan_Bun_VOR-DME_ID",
-            "ident": "PKN",
-            "name": "Pangkalan Bun",
-            "type": "VOR-DME",
-            "frequency_khz": "117400",
-            "latitude_deg": "-2.726480007171631",
-            "longitude_deg": "111.69599914550781",
-            "elevation_ft": "75",
-            "iso_country": "ID",
-            "dme_frequency_khz": "117400",
-            "dme_channel": "121X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.011",
-            "magnetic_variation_deg": "1.085",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WAOI"
-        },
-        {
-            "id": "92553",
-            "filename": "Pangkalan_Bun_NDB_ID",
-            "ident": "PN",
-            "name": "Pangkalan Bun",
-            "type": "NDB",
-            "frequency_khz": "238",
-            "latitude_deg": "-2.7062299251556396",
-            "longitude_deg": "111.66699981689453",
-            "elevation_ft": "75",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.083",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAOI"
-        }
-    ]
+    }
 }

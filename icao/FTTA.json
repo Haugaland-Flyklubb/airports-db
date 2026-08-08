@@ -59,29 +59,5 @@
         "iso_country": "TD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Moyen-Chari_(region)",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "87917",
-            "filename": "Sarh_NDB_TD",
-            "ident": "FA",
-            "name": "Sarh",
-            "type": "NDB",
-            "frequency_khz": "429",
-            "latitude_deg": "9.15110969543457",
-            "longitude_deg": "18.3794002532959",
-            "elevation_ft": "1257",
-            "iso_country": "TD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.094",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "FTTA"
-        }
-    ]
+    }
 }

@@ -139,29 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
         "keywords": "Airports in Maine"
-    },
-    "navaids": [
-        {
-            "id": "92831",
-            "filename": "Orham_NDB_US",
-            "ident": "PW",
-            "name": "Orham",
-            "type": "NDB",
-            "frequency_khz": "394",
-            "latitude_deg": "43.652400970458984",
-            "longitude_deg": "-70.44100189208984",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.089",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KPWM"
-        }
-    ]
+    }
 }

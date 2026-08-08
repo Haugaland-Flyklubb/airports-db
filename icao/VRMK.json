@@ -69,29 +69,5 @@
         "iso_country": "MV",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Laamu_Atoll",
         "keywords": "Airports in Laamu Atoll"
-    },
-    "navaids": [
-        {
-            "id": "89704",
-            "filename": "Kadhdhoo_NDB_MV",
-            "ident": "KD",
-            "name": "Kadhdhoo",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "1.8544399738311768",
-            "longitude_deg": "73.52079772949219",
-            "elevation_ft": "",
-            "iso_country": "MV",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.116",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VRMK"
-        }
-    ]
+    }
 }

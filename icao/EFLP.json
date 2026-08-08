@@ -77,51 +77,5 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Karelia",
         "keywords": "Airports in South Karelia Region"
-    },
-    "navaids": [
-        {
-            "id": "92966",
-            "filename": "Ranta_NDB_FI",
-            "ident": "RAN",
-            "name": "Ranta",
-            "type": "NDB",
-            "frequency_khz": "392",
-            "latitude_deg": "61.01850128173828",
-            "longitude_deg": "28.01569938659668",
-            "elevation_ft": "",
-            "iso_country": "FI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.332",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "EFLP"
-        },
-        {
-            "id": "95144",
-            "filename": "Vilmas_VOR-DME_FI",
-            "ident": "VIL",
-            "name": "Vilmas",
-            "type": "VOR-DME",
-            "frequency_khz": "112500",
-            "latitude_deg": "61.039100646972656",
-            "longitude_deg": "28.118000030517578",
-            "elevation_ft": "363",
-            "iso_country": "FI",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.007",
-            "magnetic_variation_deg": "8.36",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "EFLP"
-        }
-    ]
+    }
 }

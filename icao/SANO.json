@@ -59,29 +59,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Rioja_Province_(Argentina)",
         "keywords": "Airports in La Rioja Province"
-    },
-    "navaids": [
-        {
-            "id": "89365",
-            "filename": "Chilecito_VOR_AR",
-            "ident": "ITO",
-            "name": "Chilecito",
-            "type": "VOR",
-            "frequency_khz": "116500",
-            "latitude_deg": "-29.21109962463379",
-            "longitude_deg": "-67.44249725341797",
-            "elevation_ft": "3099",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.309",
-            "usageType": "HI",
-            "power": "HIGH",
-            "associated_airport": "SANO"
-        }
-    ]
+    }
 }

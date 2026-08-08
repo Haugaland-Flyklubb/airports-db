@@ -167,29 +167,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "92376",
-            "filename": "Parafield_NDB_AU",
-            "ident": "PF",
-            "name": "Parafield",
-            "type": "NDB",
-            "frequency_khz": "416",
-            "latitude_deg": "-34.79970169067383",
-            "longitude_deg": "138.61700439453125",
-            "elevation_ft": "30",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.078",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YPPF"
-        }
-    ]
+    }
 }

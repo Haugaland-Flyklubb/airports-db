@@ -77,51 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "86491",
-            "filename": "Blanc_Sablon_NDB_CA",
-            "ident": "BX",
-            "name": "Blanc Sablon",
-            "type": "NDB",
-            "frequency_khz": "220",
-            "latitude_deg": "51.4213981628418",
-            "longitude_deg": "-57.20309829711914",
-            "elevation_ft": "213",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.333",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYBX"
-        },
-        {
-            "id": "89133",
-            "filename": "Lourdes-De-Blanc-Sablon_DME_CA",
-            "ident": "IBX",
-            "name": "Lourdes-De-Blanc-Sablon",
-            "type": "DME",
-            "frequency_khz": "109100",
-            "latitude_deg": "51.44919967651367",
-            "longitude_deg": "-57.18159866333008",
-            "elevation_ft": "121",
-            "iso_country": "CA",
-            "dme_frequency_khz": "109100",
-            "dme_channel": "028X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.341",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYBX"
-        }
-    ]
+    }
 }

@@ -85,51 +85,5 @@
         "iso_country": "LC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vieux_Fort_Quarter",
         "keywords": "Airports in Vieux Fort"
-    },
-    "navaids": [
-        {
-            "id": "86216",
-            "filename": "Hewanorra_VOR-DME_LC",
-            "ident": "BNE",
-            "name": "Hewanorra",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "13.733400344848633",
-            "longitude_deg": "-60.97710037231445",
-            "elevation_ft": "11",
-            "iso_country": "LC",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-13.007",
-            "magnetic_variation_deg": "-14.345",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "TLPL"
-        },
-        {
-            "id": "86217",
-            "filename": "Hewanorra_NDB_LC",
-            "ident": "BNE",
-            "name": "Hewanorra",
-            "type": "NDB",
-            "frequency_khz": "305",
-            "latitude_deg": "13.732799530029297",
-            "longitude_deg": "-60.97570037841797",
-            "elevation_ft": "13",
-            "iso_country": "LC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.346",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "TLPL"
-        }
-    ]
+    }
 }

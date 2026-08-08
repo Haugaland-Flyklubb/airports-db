@@ -69,51 +69,5 @@
         "iso_country": "MZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Niassa_Province",
         "keywords": "Airports in Niassa Province"
-    },
-    "navaids": [
-        {
-            "id": "90221",
-            "filename": "Lichinga_NDB_MZ",
-            "ident": "LC",
-            "name": "Lichinga",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "-13.284899711608887",
-            "longitude_deg": "35.21670150756836",
-            "elevation_ft": "",
-            "iso_country": "MZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.171",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FQLC"
-        },
-        {
-            "id": "95180",
-            "filename": "Lichinga_VOR-DME_MZ",
-            "ident": "VLC",
-            "name": "Lichinga",
-            "type": "VOR-DME",
-            "frequency_khz": "117100",
-            "latitude_deg": "-13.284899711608887",
-            "longitude_deg": "35.22090148925781",
-            "elevation_ft": "4491",
-            "iso_country": "MZ",
-            "dme_frequency_khz": "117100",
-            "dme_channel": "118X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.174",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FQLC"
-        }
-    ]
+    }
 }

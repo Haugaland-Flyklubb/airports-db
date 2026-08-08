@@ -69,29 +69,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tripura",
         "keywords": "Airports in Tripura"
-    },
-    "navaids": [
-        {
-            "id": "89947",
-            "filename": "Kailashahar_NDB_IN",
-            "ident": "KR",
-            "name": "Kailashahar",
-            "type": "NDB",
-            "frequency_khz": "310",
-            "latitude_deg": "24.309499740600586",
-            "longitude_deg": "92.00630187988281",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.3",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VEKR"
-        }
-    ]
+    }
 }

@@ -107,29 +107,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guerrero",
         "keywords": "Airports in Guerrero"
-    },
-    "navaids": [
-        {
-            "id": "85227",
-            "filename": "Acapulco_VOR-DME_MX",
-            "ident": "ACA",
-            "name": "Acapulco",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "16.758499145507812",
-            "longitude_deg": "-99.75399780273438",
-            "elevation_ft": "13",
-            "iso_country": "MX",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.007",
-            "magnetic_variation_deg": "6.192",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMAA"
-        }
-    ]
+    }
 }

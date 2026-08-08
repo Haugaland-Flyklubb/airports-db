@@ -109,51 +109,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rhineland-Palatinate",
         "keywords": "Rheinland-Pfalz"
-    },
-    "navaids": [
-        {
-            "id": "88717",
-            "filename": "Hahn_NDB_DE",
-            "ident": "HAN",
-            "name": "Hahn",
-            "type": "NDB",
-            "frequency_khz": "376",
-            "latitude_deg": "49.964900970458984",
-            "longitude_deg": "7.280879974365234",
-            "elevation_ft": "1649",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.232",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "EDFH"
-        },
-        {
-            "id": "88932",
-            "filename": "Hahn_DME_DE",
-            "ident": "HND",
-            "name": "Hahn",
-            "type": "DME",
-            "frequency_khz": "116950",
-            "latitude_deg": "49.94559860229492",
-            "longitude_deg": "7.267670154571533",
-            "elevation_ft": "1716",
-            "iso_country": "DE",
-            "dme_frequency_khz": "116950",
-            "dme_channel": "116Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.231",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDFH"
-        }
-    ]
+    }
 }

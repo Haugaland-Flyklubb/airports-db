@@ -131,51 +131,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
         "keywords": "Airports in Kentucky"
-    },
-    "navaids": [
-        {
-            "id": "92172",
-            "filename": "Higuy_NDB_US",
-            "ident": "OW",
-            "name": "Higuy",
-            "type": "NDB",
-            "frequency_khz": "341",
-            "latitude_deg": "37.63529968261719",
-            "longitude_deg": "-87.16169738769531",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.402",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KOWB"
-        },
-        {
-            "id": "92174",
-            "filename": "Owensboro_VOR-DME_US",
-            "ident": "OWB",
-            "name": "Owensboro",
-            "type": "VOR-DME",
-            "frequency_khz": "108600",
-            "latitude_deg": "37.74359893798828",
-            "longitude_deg": "-87.16590118408203",
-            "elevation_ft": "400",
-            "iso_country": "US",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.001",
-            "magnetic_variation_deg": "-2.412",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KOWB"
-        }
-    ]
+    }
 }

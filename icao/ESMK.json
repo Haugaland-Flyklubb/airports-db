@@ -69,29 +69,5 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Skåne_län",
         "keywords": "Skåne County, Scania"
-    },
-    "navaids": [
-        {
-            "id": "91912",
-            "filename": "Kristianstad_NDB_SE",
-            "ident": "OEM",
-            "name": "Kristianstad",
-            "type": "NDB",
-            "frequency_khz": "363",
-            "latitude_deg": "55.98970031738281",
-            "longitude_deg": "14.100799560546875",
-            "elevation_ft": "",
-            "iso_country": "SE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.306",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ESMK"
-        }
-    ]
+    }
 }

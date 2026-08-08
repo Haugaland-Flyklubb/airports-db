@@ -59,29 +59,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/R%C3%ADo_Negro_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "91910",
-            "filename": "Choele_Choel_VOR-DME_AR",
-            "ident": "OEL",
-            "name": "Choele Choel",
-            "type": "VOR-DME",
-            "frequency_khz": "113400",
-            "latitude_deg": "-39.282501220703125",
-            "longitude_deg": "-65.61000061035156",
-            "elevation_ft": "643",
-            "iso_country": "AR",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.088",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SA29"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bihor_County",
         "keywords": "Transylvania, Transylvanian Region"
-    },
-    "navaids": [
-        {
-            "id": "92081",
-            "filename": "Oradea_NDB_RO",
-            "ident": "ORA",
-            "name": "Oradea",
-            "type": "NDB",
-            "frequency_khz": "418",
-            "latitude_deg": "47.10029983520508",
-            "longitude_deg": "21.924100875854492",
-            "elevation_ft": "656",
-            "iso_country": "RO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.547",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LROD"
-        }
-    ]
+    }
 }

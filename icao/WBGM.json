@@ -69,29 +69,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
         "keywords": "Airports in Sarawak"
-    },
-    "navaids": [
-        {
-            "id": "90837",
-            "filename": "Marudi_NDB_MY",
-            "ident": "MDI",
-            "name": "Marudi",
-            "type": "NDB",
-            "frequency_khz": "404",
-            "latitude_deg": "4.177499771118164",
-            "longitude_deg": "114.30500030517578",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.331",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WBGM"
-        }
-    ]
+    }
 }

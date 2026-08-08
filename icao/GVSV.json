@@ -77,29 +77,5 @@
         "iso_country": "CV",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Barlavento_Islands",
         "keywords": "Ilhas de Barlavento"
-    },
-    "navaids": [
-        {
-            "id": "94076",
-            "filename": "Sao_Vicente_NDB_CV",
-            "ident": "SVT",
-            "name": "Sao Vicente",
-            "type": "NDB",
-            "frequency_khz": "333",
-            "latitude_deg": "16.828899383544922",
-            "longitude_deg": "-25.065099716186523",
-            "elevation_ft": "",
-            "iso_country": "CV",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.378",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "GVSV"
-        }
-    ]
+    }
 }

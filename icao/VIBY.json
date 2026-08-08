@@ -77,29 +77,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
         "keywords": "Airports in Uttar Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "86502",
-            "filename": "Bareilly_NDB_IN",
-            "ident": "BY",
-            "name": "Bareilly",
-            "type": "NDB",
-            "frequency_khz": "218",
-            "latitude_deg": "28.416799545288086",
-            "longitude_deg": "79.44840240478516",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.315",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VIBY"
-        }
-    ]
+    }
 }

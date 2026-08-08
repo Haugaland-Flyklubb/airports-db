@@ -85,29 +85,5 @@
         "iso_country": "PL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Silesian_Voivodship",
         "keywords": "Śląskie, Silesia"
-    },
-    "navaids": [
-        {
-            "id": "92753",
-            "filename": "Katowice_NDB_PL",
-            "ident": "PT",
-            "name": "Katowice",
-            "type": "NDB",
-            "frequency_khz": "285",
-            "latitude_deg": "50.474098205566406",
-            "longitude_deg": "19.150299072265625",
-            "elevation_ft": "",
-            "iso_country": "PL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.388",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EPKT"
-        }
-    ]
+    }
 }

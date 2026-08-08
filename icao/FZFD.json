@@ -69,51 +69,5 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nord-Ubangi",
         "keywords": "Airports in Nord-Ubangi Province"
-    },
-    "navaids": [
-        {
-            "id": "86160",
-            "filename": "Gbadolite_VOR-DME_CD",
-            "ident": "BLT",
-            "name": "Gbadolite",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "4.246990203857422",
-            "longitude_deg": "20.966400146484375",
-            "elevation_ft": "1509",
-            "iso_country": "CD",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.01",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FZFD"
-        },
-        {
-            "id": "86163",
-            "filename": "Gbadolite_NDB_CD",
-            "ident": "BLT",
-            "name": "Gbadolite",
-            "type": "NDB",
-            "frequency_khz": "310",
-            "latitude_deg": "4.296989917755127",
-            "longitude_deg": "21.049699783325195",
-            "elevation_ft": "",
-            "iso_country": "CD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.004",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "FZFD"
-        }
-    ]
+    }
 }

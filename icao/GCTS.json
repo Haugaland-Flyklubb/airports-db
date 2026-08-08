@@ -101,51 +101,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canary_Islands",
         "keywords": "Airports in Canary Islands, Canarias"
-    },
-    "navaids": [
-        {
-            "id": "94296",
-            "filename": "Tenerife_Sur_NDB_ES",
-            "ident": "TES",
-            "name": "Tenerife Sur",
-            "type": "NDB",
-            "frequency_khz": "317",
-            "latitude_deg": "28.05470085144043",
-            "longitude_deg": "-16.56279945373535",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.381",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "GCTS"
-        },
-        {
-            "id": "94307",
-            "filename": "Tenerife_Sur_VOR-DME_ES",
-            "ident": "TFS",
-            "name": "Tenerife Sur",
-            "type": "VOR-DME",
-            "frequency_khz": "116400",
-            "latitude_deg": "28.002399444580078",
-            "longitude_deg": "-16.68790054321289",
-            "elevation_ft": "115",
-            "iso_country": "ES",
-            "dme_frequency_khz": "116400",
-            "dme_channel": "111X",
-            "dme_latitude_deg": "28.0024",
-            "dme_longitude_deg": "-16.6874",
-            "dme_elevation_ft": "115",
-            "slaved_variation_deg": "-7.007",
-            "magnetic_variation_deg": "-6.412",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GCTS"
-        }
-    ]
+    }
 }

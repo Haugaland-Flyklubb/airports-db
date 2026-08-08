@@ -191,51 +191,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
         "keywords": "Airports in Illinois"
-    },
-    "navaids": [
-        {
-            "id": "86869",
-            "filename": "Veals_NDB_US",
-            "ident": "CM",
-            "name": "Veals",
-            "type": "NDB",
-            "frequency_khz": "407",
-            "latitude_deg": "39.96620178222656",
-            "longitude_deg": "-88.18240356445312",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.159",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KCMI"
-        },
-        {
-            "id": "86877",
-            "filename": "Champaign_VORTAC_US",
-            "ident": "CMI",
-            "name": "Champaign",
-            "type": "VORTAC",
-            "frequency_khz": "110000",
-            "latitude_deg": "40.03450012207031",
-            "longitude_deg": "-88.2761001586914",
-            "elevation_ft": "750",
-            "iso_country": "US",
-            "dme_frequency_khz": "110000",
-            "dme_channel": "037X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "-2.12",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KCMI"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/U%C3%ADge_Province",
         "keywords": "Airports in Uíge Province"
-    },
-    "navaids": [
-        {
-            "id": "94839",
-            "filename": "Uige_NDB_AO",
-            "ident": "UG",
-            "name": "Uige",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "-7.566669940948486",
-            "longitude_deg": "15.033300399780273",
-            "elevation_ft": "",
-            "iso_country": "AO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.25",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FNUG"
-        }
-    ]
+    }
 }

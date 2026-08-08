@@ -69,51 +69,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Adıyaman_Province",
         "keywords": "Airports in Adıyaman Province"
-    },
-    "navaids": [
-        {
-            "id": "89766",
-            "filename": "Adiyaman_VOR-DME_TR",
-            "ident": "KHD",
-            "name": "Adiyaman",
-            "type": "VOR-DME",
-            "frequency_khz": "113600",
-            "latitude_deg": "37.72420120239258",
-            "longitude_deg": "38.45920181274414",
-            "elevation_ft": "2215",
-            "iso_country": "TR",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.349",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTCP"
-        },
-        {
-            "id": "89767",
-            "filename": "Adiyaman_NDB_TR",
-            "ident": "KHD",
-            "name": "Adiyaman",
-            "type": "NDB",
-            "frequency_khz": "381",
-            "latitude_deg": "37.72420120239258",
-            "longitude_deg": "38.45920181274414",
-            "elevation_ft": "2215",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.349",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "LTCP"
-        }
-    ]
+    }
 }

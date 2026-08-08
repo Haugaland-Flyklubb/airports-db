@@ -131,29 +131,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
         "keywords": "Airports in Provence-Alpes-Côte-d'Azur"
-    },
-    "navaids": [
-        {
-            "id": "91249",
-            "filename": "Marseille_Provence_VOR-DME_FR",
-            "ident": "MRM",
-            "name": "Marseille/Provence",
-            "type": "VOR-DME",
-            "frequency_khz": "108800",
-            "latitude_deg": "43.37730026245117",
-            "longitude_deg": "5.32643985748291",
-            "elevation_ft": "771",
-            "iso_country": "FR",
-            "dme_frequency_khz": "108800",
-            "dme_channel": "025X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.096",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFML"
-        }
-    ]
+    }
 }

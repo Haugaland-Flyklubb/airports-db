@@ -69,51 +69,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eskişehir_Province",
         "keywords": "Airports in Eskişehir Province"
-    },
-    "navaids": [
-        {
-            "id": "87842",
-            "filename": "Eskisehir_VOR-DME_TR",
-            "ident": "ESR",
-            "name": "Eskisehir",
-            "type": "VOR-DME",
-            "frequency_khz": "108200",
-            "latitude_deg": "39.8130989074707",
-            "longitude_deg": "30.509700775146484",
-            "elevation_ft": "2585",
-            "iso_country": "TR",
-            "dme_frequency_khz": "108200",
-            "dme_channel": "019X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.169",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTBY"
-        },
-        {
-            "id": "87843",
-            "filename": "Eskisehir_NDB_TR",
-            "ident": "ESR",
-            "name": "Eskisehir",
-            "type": "NDB",
-            "frequency_khz": "372",
-            "latitude_deg": "39.8130989074707",
-            "longitude_deg": "30.521099090576172",
-            "elevation_ft": "2589",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.169",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LTBY"
-        }
-    ]
+    }
 }

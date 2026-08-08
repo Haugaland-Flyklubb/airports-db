@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "85451",
-            "filename": "Andamooka_NDB_AU",
-            "ident": "AMK",
-            "name": "Andamooka",
-            "type": "NDB",
-            "frequency_khz": "206",
-            "latitude_deg": "-30.453500747680664",
-            "longitude_deg": "137.16700744628906",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.535",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "YAMK"
-        }
-    ]
+    }
 }

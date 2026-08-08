@@ -69,29 +69,5 @@
         "iso_country": "VN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mekong_Delta",
         "keywords": "the airports"
-    },
-    "navaids": [
-        {
-            "id": "87076",
-            "filename": "Can_Tho_NDB_VN",
-            "ident": "CT",
-            "name": "Can Tho",
-            "type": "NDB",
-            "frequency_khz": "420",
-            "latitude_deg": "10.091400146484375",
-            "longitude_deg": "105.7300033569336",
-            "elevation_ft": "",
-            "iso_country": "VN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.102",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VVCT"
-        }
-    ]
+    }
 }

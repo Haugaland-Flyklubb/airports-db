@@ -85,29 +85,5 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Västerbottens_län",
         "keywords": "Västerbotten County"
-    },
-    "navaids": [
-        {
-            "id": "94041",
-            "filename": "Storuman_VOR-DME_SE",
-            "ident": "SUM",
-            "name": "Storuman",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "64.95539855957031",
-            "longitude_deg": "17.70829963684082",
-            "elevation_ft": "958",
-            "iso_country": "SE",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "4.491",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ESUD"
-        }
-    ]
+    }
 }

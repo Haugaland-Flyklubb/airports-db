@@ -59,29 +59,5 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Koshi_Province",
         "keywords": "Province No. 1"
-    },
-    "navaids": [
-        {
-            "id": "94649",
-            "filename": "Tumlingtar_NDB_NP",
-            "ident": "TTR",
-            "name": "Tumlingtar",
-            "type": "NDB",
-            "frequency_khz": "227",
-            "latitude_deg": "27.3164005279541",
-            "longitude_deg": "87.19529724121094",
-            "elevation_ft": "",
-            "iso_country": "NP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.014",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VNTR"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Shan_State",
         "keywords": "Airports in Shan State"
-    },
-    "navaids": [
-        {
-            "id": "91259",
-            "filename": "Mong_Hsat_NDB_MM",
-            "ident": "MS",
-            "name": "Mong Hsat",
-            "type": "NDB",
-            "frequency_khz": "312",
-            "latitude_deg": "20.534400939941406",
-            "longitude_deg": "99.26270294189453",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.474",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VYMS"
-        }
-    ]
+    }
 }

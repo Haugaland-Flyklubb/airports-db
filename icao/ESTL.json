@@ -159,29 +159,5 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Skåne_län",
         "keywords": "Skåne County, Scania"
-    },
-    "navaids": [
-        {
-            "id": "90370",
-            "filename": "Ljungbyhed_VOR-DME_SE",
-            "ident": "LJU",
-            "name": "Ljungbyhed",
-            "type": "VOR-DME",
-            "frequency_khz": "113400",
-            "latitude_deg": "56.083099365234375",
-            "longitude_deg": "13.20110034942627",
-            "elevation_ft": "154",
-            "iso_country": "SE",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.115",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ESTL"
-        }
-    ]
+    }
 }

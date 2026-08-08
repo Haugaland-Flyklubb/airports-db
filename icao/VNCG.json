@@ -69,29 +69,5 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Koshi_Province",
         "keywords": "Province No. 1"
-    },
-    "navaids": [
-        {
-            "id": "89538",
-            "filename": "Chandragadhi_NDB_NP",
-            "ident": "JPA",
-            "name": "Chandragadhi",
-            "type": "NDB",
-            "frequency_khz": "397",
-            "latitude_deg": "26.56999969482422",
-            "longitude_deg": "88.07749938964844",
-            "elevation_ft": "",
-            "iso_country": "NP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.09",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VNCG"
-        }
-    ]
+    }
 }

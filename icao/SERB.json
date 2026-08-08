@@ -69,29 +69,5 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chimborazo_Province",
         "keywords": "Airports in Chimborazo Province"
-    },
-    "navaids": [
-        {
-            "id": "93099",
-            "filename": "Riobamba_NDB_EC",
-            "ident": "RIO",
-            "name": "Riobamba",
-            "type": "NDB",
-            "frequency_khz": "212",
-            "latitude_deg": "-1.6552799940109253",
-            "longitude_deg": "-78.65579986572266",
-            "elevation_ft": "9151",
-            "iso_country": "EC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.173",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SERB"
-        }
-    ]
+    }
 }

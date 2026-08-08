@@ -101,51 +101,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "88433",
-            "filename": "Gulkana_VOR-DME_US",
-            "ident": "GKN",
-            "name": "Gulkana",
-            "type": "VOR-DME",
-            "frequency_khz": "115600",
-            "latitude_deg": "62.152400970458984",
-            "longitude_deg": "-145.4499969482422",
-            "elevation_ft": "1548",
-            "iso_country": "US",
-            "dme_frequency_khz": "115600",
-            "dme_channel": "103X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "28.001",
-            "magnetic_variation_deg": "22.154",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PAGK"
-        },
-        {
-            "id": "88444",
-            "filename": "Glennallen_NDB_US",
-            "ident": "GLA",
-            "name": "Glennallen",
-            "type": "NDB",
-            "frequency_khz": "248",
-            "latitude_deg": "62.19540023803711",
-            "longitude_deg": "-145.46800231933594",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "22.162",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PAGK"
-        }
-    ]
+    }
 }

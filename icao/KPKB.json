@@ -131,51 +131,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
         "keywords": "Airports in West Virginia"
-    },
-    "navaids": [
-        {
-            "id": "89542",
-            "filename": "Parkersburg_VORTAC_US",
-            "ident": "JPU",
-            "name": "Parkersburg",
-            "type": "VORTAC",
-            "frequency_khz": "108600",
-            "latitude_deg": "39.441200256347656",
-            "longitude_deg": "-81.37480163574219",
-            "elevation_ft": "1030",
-            "iso_country": "US",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.001",
-            "magnetic_variation_deg": "-7.399",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KPKB"
-        },
-        {
-            "id": "92483",
-            "filename": "Versi_NDB_US",
-            "ident": "PK",
-            "name": "Versi",
-            "type": "NDB",
-            "frequency_khz": "388",
-            "latitude_deg": "39.25410079956055",
-            "longitude_deg": "-81.48490142822266",
-            "elevation_ft": "797",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.318",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KPKB"
-        }
-    ]
+    }
 }

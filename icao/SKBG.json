@@ -93,51 +93,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santander_Department",
         "keywords": "Airports in Santander Department"
-    },
-    "navaids": [
-        {
-            "id": "85979",
-            "filename": "Bucaramanga_VOR-DME_CO",
-            "ident": "BGA",
-            "name": "Bucaramanga",
-            "type": "VOR-DME",
-            "frequency_khz": "113500",
-            "latitude_deg": "7.1315598487854",
-            "longitude_deg": "-73.18440246582031",
-            "elevation_ft": "3958",
-            "iso_country": "CO",
-            "dme_frequency_khz": "113500",
-            "dme_channel": "082X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-6.399",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKBG"
-        },
-        {
-            "id": "92440",
-            "filename": "Piedecuesta_NDB_CO",
-            "ident": "PIE",
-            "name": "Piedecuesta",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "6.87755012512207",
-            "longitude_deg": "-73.08979797363281",
-            "elevation_ft": "3890",
-            "iso_country": "CO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.412",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SKBG"
-        }
-    ]
+    }
 }

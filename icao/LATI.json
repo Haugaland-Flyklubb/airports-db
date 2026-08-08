@@ -85,51 +85,5 @@
         "iso_country": "AL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Durrës_County",
         "keywords": "Airports in Durrës County"
-    },
-    "navaids": [
-        {
-            "id": "94563",
-            "filename": "Tirana_NDB_AL",
-            "ident": "TR",
-            "name": "Tirana",
-            "type": "NDB",
-            "frequency_khz": "290",
-            "latitude_deg": "41.463199615478516",
-            "longitude_deg": "19.714099884033203",
-            "elevation_ft": "89",
-            "iso_country": "AL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.005",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LATI"
-        },
-        {
-            "id": "94597",
-            "filename": "Tirana_VOR-DME_AL",
-            "ident": "TRN",
-            "name": "Tirana",
-            "type": "VOR-DME",
-            "frequency_khz": "117700",
-            "latitude_deg": "41.416099548339844",
-            "longitude_deg": "19.71820068359375",
-            "elevation_ft": "125",
-            "iso_country": "AL",
-            "dme_frequency_khz": "117700",
-            "dme_channel": "124X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.003",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LATI"
-        }
-    ]
+    }
 }

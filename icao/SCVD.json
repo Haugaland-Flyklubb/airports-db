@@ -85,51 +85,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Los_Ríos_Region",
         "keywords": "Airports in Los Ríos Region"
-    },
-    "navaids": [
-        {
-            "id": "95183",
-            "filename": "Valdivia_VOR-DME_CL",
-            "ident": "VLD",
-            "name": "Valdivia",
-            "type": "VOR-DME",
-            "frequency_khz": "114500",
-            "latitude_deg": "-39.67110061645508",
-            "longitude_deg": "-73.08560180664062",
-            "elevation_ft": "57",
-            "iso_country": "CL",
-            "dme_frequency_khz": "114500",
-            "dme_channel": "092X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "10.007",
-            "magnetic_variation_deg": "8.507",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SCVD"
-        },
-        {
-            "id": "95184",
-            "filename": "Valdivia_NDB_CL",
-            "ident": "VLD",
-            "name": "Valdivia",
-            "type": "NDB",
-            "frequency_khz": "208",
-            "latitude_deg": "-39.722198486328125",
-            "longitude_deg": "-73.08360290527344",
-            "elevation_ft": "",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.522",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SCVD"
-        }
-    ]
+    }
 }

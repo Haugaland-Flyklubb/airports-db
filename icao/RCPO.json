@@ -85,29 +85,5 @@
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hsinchu",
         "keywords": "Airports in Hsinchu City"
-    },
-    "navaids": [
-        {
-            "id": "89017",
-            "filename": "Hsinchu_TACAN_TW",
-            "ident": "HSU",
-            "name": "Hsinchu",
-            "type": "TACAN",
-            "frequency_khz": "116300",
-            "latitude_deg": "24.821699142456055",
-            "longitude_deg": "120.93800354003906",
-            "elevation_ft": "25",
-            "iso_country": "TW",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.011",
-            "magnetic_variation_deg": "-3.357",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "RCPO"
-        }
-    ]
+    }
 }

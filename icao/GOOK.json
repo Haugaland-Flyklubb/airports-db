@@ -59,29 +59,5 @@
         "iso_country": "SN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fatick_Region",
         "keywords": "Airports in Fatick Region"
-    },
-    "navaids": [
-        {
-            "id": "93692",
-            "filename": "Kaolack_NDB_SN",
-            "ident": "SKK",
-            "name": "Kaolack",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "14.157099723815918",
-            "longitude_deg": "-16.041900634765625",
-            "elevation_ft": "85",
-            "iso_country": "SN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.197",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "GOOK"
-        }
-    ]
+    }
 }

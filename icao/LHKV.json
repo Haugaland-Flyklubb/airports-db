@@ -91,29 +91,5 @@
         "iso_country": "HU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Somogy_County",
         "keywords": "Airports in Somogy County"
-    },
-    "navaids": [
-        {
-            "id": "95564",
-            "filename": "Kaposvar_NDB_HU",
-            "ident": "XNB",
-            "name": "Kaposvar",
-            "type": "NDB",
-            "frequency_khz": "235",
-            "latitude_deg": "46.387699127197266",
-            "longitude_deg": "17.73509979248047",
-            "elevation_ft": "512",
-            "iso_country": "HU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LHKV"
-        }
-    ]
+    }
 }

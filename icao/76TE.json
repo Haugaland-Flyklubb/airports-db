@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "93529",
-            "filename": "Salt_Flat_VORTAC_US",
-            "ident": "SFL",
-            "name": "Salt Flat",
-            "type": "VORTAC",
-            "frequency_khz": "113000",
-            "latitude_deg": "31.74810028076172",
-            "longitude_deg": "-105.08699798583984",
-            "elevation_ft": "3730",
-            "iso_country": "US",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.012",
-            "magnetic_variation_deg": "8.504",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "76TE"
-        }
-    ]
+    }
 }

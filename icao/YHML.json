@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    },
-    "navaids": [
-        {
-            "id": "88912",
-            "filename": "Hamilton_NDB_AU",
-            "ident": "HML",
-            "name": "Hamilton",
-            "type": "NDB",
-            "frequency_khz": "203",
-            "latitude_deg": "-37.649200439453125",
-            "longitude_deg": "142.05799865722656",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.166",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YHML"
-        }
-    ]
+    }
 }

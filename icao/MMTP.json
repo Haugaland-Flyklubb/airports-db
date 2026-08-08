@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chiapas",
         "keywords": "Airports in Chiapas"
-    },
-    "navaids": [
-        {
-            "id": "94194",
-            "filename": "Tapachula_VOR-DME_MX",
-            "ident": "TAP",
-            "name": "Tapachula",
-            "type": "VOR-DME",
-            "frequency_khz": "115300",
-            "latitude_deg": "14.792200088500977",
-            "longitude_deg": "-92.37570190429688",
-            "elevation_ft": "97",
-            "iso_country": "MX",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.002",
-            "magnetic_variation_deg": "3.29",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMTP"
-        }
-    ]
+    }
 }

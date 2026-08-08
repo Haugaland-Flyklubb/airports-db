@@ -99,29 +99,5 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Highlands_Province",
         "keywords": "Airports in Western Highlands Province"
-    },
-    "navaids": [
-        {
-            "id": "90935",
-            "filename": "Mount_Hagen_NDB-DME_PG",
-            "ident": "MH",
-            "name": "Mount Hagen",
-            "type": "NDB-DME",
-            "frequency_khz": "169",
-            "latitude_deg": "-5.837870121002197",
-            "longitude_deg": "144.3090057373047",
-            "elevation_ft": "5425",
-            "iso_country": "PG",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.149",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "AYMH"
-        }
-    ]
+    }
 }

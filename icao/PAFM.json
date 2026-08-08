@@ -123,29 +123,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "85449",
-            "filename": "Ambler_NDB-DME_US",
-            "ident": "AMF",
-            "name": "Ambler",
-            "type": "NDB-DME",
-            "frequency_khz": "403",
-            "latitude_deg": "67.10679626464844",
-            "longitude_deg": "-157.85800170898438",
-            "elevation_ft": "282",
-            "iso_country": "US",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "67.1062",
-            "dme_longitude_deg": "-157.857",
-            "dme_elevation_ft": "282",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "18.303",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PAFM"
-        }
-    ]
+    }
 }

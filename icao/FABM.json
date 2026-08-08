@@ -91,29 +91,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Free_State_(province)",
         "keywords": "Airports in Free State"
-    },
-    "navaids": [
-        {
-            "id": "86174",
-            "filename": "Bethlehem_NDB_ZA",
-            "ident": "BM",
-            "name": "Bethlehem",
-            "type": "NDB",
-            "frequency_khz": "343",
-            "latitude_deg": "-28.249799728393555",
-            "longitude_deg": "28.333599090576172",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.42",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FABM"
-        }
-    ]
+    }
 }

@@ -139,51 +139,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "89216",
-            "filename": "Buttonville_DME_CA",
-            "ident": "IKZ",
-            "name": "Buttonville",
-            "type": "DME",
-            "frequency_khz": "111100",
-            "latitude_deg": "43.85580062866211",
-            "longitude_deg": "-79.36329650878906",
-            "elevation_ft": "650",
-            "iso_country": "CA",
-            "dme_frequency_khz": "111100",
-            "dme_channel": "048X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.356",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "CA-1108"
-        },
-        {
-            "id": "90096",
-            "filename": "Buttonville_NDB_CA",
-            "ident": "KZ",
-            "name": "Buttonville",
-            "type": "NDB",
-            "frequency_khz": "248",
-            "latitude_deg": "43.93370056152344",
-            "longitude_deg": "-79.3292007446289",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.388",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CA-1108"
-        }
-    ]
+    }
 }

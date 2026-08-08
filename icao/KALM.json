@@ -123,29 +123,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    },
-    "navaids": [
-        {
-            "id": "86488",
-            "filename": "Boles_VOR-DME_US",
-            "ident": "BWS",
-            "name": "Boles",
-            "type": "VOR-DME",
-            "frequency_khz": "109600",
-            "latitude_deg": "32.8213005065918",
-            "longitude_deg": "-106.01300048828125",
-            "elevation_ft": "4100",
-            "iso_country": "US",
-            "dme_frequency_khz": "109600",
-            "dme_channel": "033X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.001",
-            "magnetic_variation_deg": "9.198",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KALM"
-        }
-    ]
+    }
 }

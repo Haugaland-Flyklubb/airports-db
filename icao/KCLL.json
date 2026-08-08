@@ -161,51 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "86843",
-            "filename": "Rowdy_NDB_US",
-            "ident": "CL",
-            "name": "Rowdy",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "30.49370002746582",
-            "longitude_deg": "-96.33769989013672",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.261",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KCLL"
-        },
-        {
-            "id": "86855",
-            "filename": "College_Station_VORTAC_US",
-            "ident": "CLL",
-            "name": "College Station",
-            "type": "VORTAC",
-            "frequency_khz": "113300",
-            "latitude_deg": "30.604999542236328",
-            "longitude_deg": "-96.42070007324219",
-            "elevation_ft": "370",
-            "iso_country": "US",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.008",
-            "magnetic_variation_deg": "4.289",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KCLL"
-        }
-    ]
+    }
 }

@@ -101,51 +101,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
         "keywords": "Bayern"
-    },
-    "navaids": [
-        {
-            "id": "90143",
-            "filename": "Landsberg_TACAN_DE",
-            "ident": "LAB",
-            "name": "Landsberg",
-            "type": "TACAN",
-            "frequency_khz": "112150",
-            "latitude_deg": "48.06529998779297",
-            "longitude_deg": "10.880800247192383",
-            "elevation_ft": "2102",
-            "iso_country": "DE",
-            "dme_frequency_khz": "112150",
-            "dme_channel": "058Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.277",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DE-0883"
-        },
-        {
-            "id": "90505",
-            "filename": "Landsberg_NDB_DE",
-            "ident": "LQ",
-            "name": "Landsberg",
-            "type": "NDB",
-            "frequency_khz": "448",
-            "latitude_deg": "48.09479904174805",
-            "longitude_deg": "11.018799781799316",
-            "elevation_ft": "2062",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.299",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "DE-0883"
-        }
-    ]
+    }
 }

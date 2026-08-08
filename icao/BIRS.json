@@ -35,29 +35,5 @@
         "iso_country": "IS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Westfjords",
         "keywords": "Vestfirðir"
-    },
-    "navaids": [
-        {
-            "id": "93034",
-            "filename": "Reykjanesskoli_NDB_IS",
-            "ident": "RE",
-            "name": "Reykjanesskoli",
-            "type": "NDB",
-            "frequency_khz": "316",
-            "latitude_deg": "65.92639923095703",
-            "longitude_deg": "-22.431699752807617",
-            "elevation_ft": "",
-            "iso_country": "IS",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.235",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "BIRS"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alagoas",
         "keywords": "Airports in Alagoas"
-    },
-    "navaids": [
-        {
-            "id": "90790",
-            "filename": "Zumbi_VOR-DME_BR",
-            "ident": "MCE",
-            "name": "Zumbi",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "-9.509889602661133",
-            "longitude_deg": "-35.78689956665039",
-            "elevation_ft": "387",
-            "iso_country": "BR",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.442",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBMO"
-        },
-        {
-            "id": "90803",
-            "filename": "Maceio_NDB_BR",
-            "ident": "MCO",
-            "name": "Maceio",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "-9.511670112609863",
-            "longitude_deg": "-35.804500579833984",
-            "elevation_ft": "387",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.442",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBMO"
-        }
-    ]
+    }
 }

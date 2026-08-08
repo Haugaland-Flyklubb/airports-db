@@ -77,29 +77,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
         "keywords": "Airports in Northern Territory"
-    },
-    "navaids": [
-        {
-            "id": "86320",
-            "filename": "Borroloola_NDB_AU",
-            "ident": "BRL",
-            "name": "Borroloola",
-            "type": "NDB",
-            "frequency_khz": "218",
-            "latitude_deg": "-16.077199935913086",
-            "longitude_deg": "136.30499267578125",
-            "elevation_ft": "55",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.529",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YBRL"
-        }
-    ]
+    }
 }

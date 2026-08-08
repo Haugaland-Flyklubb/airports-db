@@ -121,29 +121,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "90000",
-            "filename": "Kingscote_NDB_AU",
-            "ident": "KSC",
-            "name": "Kingscote",
-            "type": "NDB",
-            "frequency_khz": "215",
-            "latitude_deg": "-35.70920181274414",
-            "longitude_deg": "137.51400756835938",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.481",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YKSC"
-        }
-    ]
+    }
 }

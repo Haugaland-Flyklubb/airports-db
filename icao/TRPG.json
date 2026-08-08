@@ -59,29 +59,5 @@
         "iso_country": "MS",
         "wikipedia_link": "",
         "keywords": "Airports in Saint Peter Parish"
-    },
-    "navaids": [
-        {
-            "id": "91172",
-            "filename": "Geralds_NDB_MS",
-            "ident": "MON",
-            "name": "Geralds",
-            "type": "NDB",
-            "frequency_khz": "215",
-            "latitude_deg": "16.792800903320312",
-            "longitude_deg": "-62.19309997558594",
-            "elevation_ft": "550",
-            "iso_country": "MS",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.139",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "TRPG"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Matruh_Governorate",
         "keywords": "Airports in Matruh Governorate"
-    },
-    "navaids": [
-        {
-            "id": "87288",
-            "filename": "El_Daba_VOR-DME_EG",
-            "ident": "DBA",
-            "name": "El Daba",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "31.01140022277832",
-            "longitude_deg": "28.466899871826172",
-            "elevation_ft": "110",
-            "iso_country": "EG",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.005",
-            "magnetic_variation_deg": "3.119",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HEAL"
-        }
-    ]
+    }
 }

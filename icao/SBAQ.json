@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    },
-    "navaids": [
-        {
-            "id": "85185",
-            "filename": "Araraquara_NDB_BR",
-            "ident": "AAQ",
-            "name": "Araraquara",
-            "type": "NDB",
-            "frequency_khz": "205",
-            "latitude_deg": "-21.812999725341797",
-            "longitude_deg": "-48.13949966430664",
-            "elevation_ft": "2514",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.255",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBAQ"
-        }
-    ]
+    }
 }

@@ -131,29 +131,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "96114",
-            "filename": "Gros_Cap_NDB_CA",
-            "ident": "ZSM",
-            "name": "Gros Cap",
-            "type": "NDB",
-            "frequency_khz": "286",
-            "latitude_deg": "46.512298583984375",
-            "longitude_deg": "-84.61489868164062",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.058",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYAM"
-        }
-    ]
+    }
 }

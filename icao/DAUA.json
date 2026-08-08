@@ -77,51 +77,5 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Adrar_Province",
         "keywords": "Airports in Adrar Province"
-    },
-    "navaids": [
-        {
-            "id": "85271",
-            "filename": "Adrar_VOR-DME_DZ",
-            "ident": "ADR",
-            "name": "Adrar",
-            "type": "VOR-DME",
-            "frequency_khz": "112600",
-            "latitude_deg": "27.816999435424805",
-            "longitude_deg": "-0.2058670073747635",
-            "elevation_ft": "920",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "112600",
-            "dme_channel": "073X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.172",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "DAUA"
-        },
-        {
-            "id": "85272",
-            "filename": "Adrar_NDB_DZ",
-            "ident": "ADR",
-            "name": "Adrar",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "27.78529930114746",
-            "longitude_deg": "-0.23027800023555756",
-            "elevation_ft": "",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.16",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "DAUA"
-        }
-    ]
+    }
 }

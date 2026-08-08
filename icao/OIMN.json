@@ -69,51 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Khorasan_Province",
         "keywords": "Airports in North Khorasan Province"
-    },
-    "navaids": [
-        {
-            "id": "86311",
-            "filename": "Bojnord_VOR-DME_IR",
-            "ident": "BRD",
-            "name": "Bojnord",
-            "type": "VOR-DME",
-            "frequency_khz": "114800",
-            "latitude_deg": "37.49549865722656",
-            "longitude_deg": "57.32350158691406",
-            "elevation_ft": "3543",
-            "iso_country": "IR",
-            "dme_frequency_khz": "114800",
-            "dme_channel": "095X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.152",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "OIMN"
-        },
-        {
-            "id": "86312",
-            "filename": "Bojnord_NDB_IR",
-            "ident": "BRD",
-            "name": "Bojnord",
-            "type": "NDB",
-            "frequency_khz": "346",
-            "latitude_deg": "37.48910140991211",
-            "longitude_deg": "57.30569839477539",
-            "elevation_ft": "",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.153",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "OIMN"
-        }
-    ]
+    }
 }

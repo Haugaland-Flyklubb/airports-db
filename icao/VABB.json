@@ -147,29 +147,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maharashtra",
         "keywords": "Airports in Maharashtra"
-    },
-    "navaids": [
-        {
-            "id": "85835",
-            "filename": "Mumbai_VOR-DME_IN",
-            "ident": "BBB",
-            "name": "Mumbai",
-            "type": "VOR-DME",
-            "frequency_khz": "116600",
-            "latitude_deg": "19.085399627685547",
-            "longitude_deg": "72.87539672851562",
-            "elevation_ft": "36",
-            "iso_country": "IN",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.504",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VABB"
-        }
-    ]
+    }
 }

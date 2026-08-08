@@ -69,51 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fars_Province",
         "keywords": "Airports in Fars Province"
-    },
-    "navaids": [
-        {
-            "id": "90169",
-            "filename": "Lar_VOR-DME_IR",
-            "ident": "LAR",
-            "name": "Lar",
-            "type": "VOR-DME",
-            "frequency_khz": "117900",
-            "latitude_deg": "27.675199508666992",
-            "longitude_deg": "54.415199279785156",
-            "elevation_ft": "2619",
-            "iso_country": "IR",
-            "dme_frequency_khz": "117900",
-            "dme_channel": "126X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.025",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "OISL"
-        },
-        {
-            "id": "90172",
-            "filename": "Lar_NDB_IR",
-            "ident": "LAR",
-            "name": "Lar",
-            "type": "NDB",
-            "frequency_khz": "224",
-            "latitude_deg": "27.669700622558594",
-            "longitude_deg": "54.377498626708984",
-            "elevation_ft": "2641",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.021",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "OISL"
-        }
-    ]
+    }
 }

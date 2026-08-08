@@ -69,29 +69,5 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kwilu_Province",
         "keywords": "Airports in Kwilu Province"
-    },
-    "navaids": [
-        {
-            "id": "85804",
-            "filename": "Bandundu_NDB_CD",
-            "ident": "BAN",
-            "name": "Bandundu",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "-3.302380084991455",
-            "longitude_deg": "17.38290023803711",
-            "elevation_ft": "",
-            "iso_country": "CD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.194",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FZBO"
-        }
-    ]
+    }
 }

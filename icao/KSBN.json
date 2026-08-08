@@ -193,29 +193,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
         "keywords": "Airports in Indiana"
-    },
-    "navaids": [
-        {
-            "id": "93418",
-            "filename": "Misha_NDB_US",
-            "ident": "SB",
-            "name": "Misha",
-            "type": "NDB",
-            "frequency_khz": "341",
-            "latitude_deg": "41.7056999206543",
-            "longitude_deg": "-86.21900177001953",
-            "elevation_ft": "760",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.17",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSBN"
-        }
-    ]
+    }
 }

@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "85085",
-            "filename": "Cluff_Lake_NDB_CA",
-            "ident": "3X",
-            "name": "Cluff Lake",
-            "type": "NDB",
-            "frequency_khz": "243",
-            "latitude_deg": "58.36029815673828",
-            "longitude_deg": "-109.5250015258789",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "15.534",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CJS3"
-        }
-    ]
+    }
 }

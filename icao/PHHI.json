@@ -149,51 +149,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
         "keywords": "Airports in Hawaii"
-    },
-    "navaids": [
-        {
-            "id": "88826",
-            "filename": "Wheeler_NDB_US",
-            "ident": "HHI",
-            "name": "Wheeler",
-            "type": "NDB",
-            "frequency_khz": "373",
-            "latitude_deg": "21.4778995513916",
-            "longitude_deg": "-158.03399658203125",
-            "elevation_ft": "812",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.592",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "PHHI"
-        },
-        {
-            "id": "88929",
-            "filename": "Ewabe_NDB_US",
-            "ident": "HN",
-            "name": "Ewabe",
-            "type": "NDB",
-            "frequency_khz": "242",
-            "latitude_deg": "21.324899673461914",
-            "longitude_deg": "-158.0489959716797",
-            "elevation_ft": "42",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.579",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "PHHI"
-        }
-    ]
+    }
 }

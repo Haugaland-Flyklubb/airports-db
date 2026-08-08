@@ -77,29 +77,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "91746",
-            "filename": "Normanton_NDB_AU",
-            "ident": "NTN",
-            "name": "Normanton",
-            "type": "NDB",
-            "frequency_khz": "311",
-            "latitude_deg": "-17.69580078125",
-            "longitude_deg": "141.072998046875",
-            "elevation_ft": "73",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.099",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YNTN"
-        }
-    ]
+    }
 }

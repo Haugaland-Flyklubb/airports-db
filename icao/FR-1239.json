@@ -85,29 +85,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
         "keywords": "Airports in Grand Est"
-    },
-    "navaids": [
-        {
-            "id": "86861",
-            "filename": "Colmar_TACAN_FR",
-            "ident": "CLR",
-            "name": "Colmar",
-            "type": "TACAN",
-            "frequency_khz": "110000",
-            "latitude_deg": "47.929298400878906",
-            "longitude_deg": "7.399970054626465",
-            "elevation_ft": "693",
-            "iso_country": "FR",
-            "dme_frequency_khz": "110000",
-            "dme_channel": "037X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.315",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FR-1239"
-        }
-    ]
+    }
 }

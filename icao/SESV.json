@@ -69,29 +69,5 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manabi_Province",
         "keywords": "Airports in Manabi Province"
-    },
-    "navaids": [
-        {
-            "id": "85874",
-            "filename": "Bahia_NDB_EC",
-            "ident": "BCN",
-            "name": "Bahia",
-            "type": "NDB",
-            "frequency_khz": "316",
-            "latitude_deg": "-0.6019440293312073",
-            "longitude_deg": "-80.4072036743164",
-            "elevation_ft": "10",
-            "iso_country": "EC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.212",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SESV"
-        }
-    ]
+    }
 }

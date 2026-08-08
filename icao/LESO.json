@@ -69,51 +69,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)",
         "keywords": "Basque airports, Basque Autonomous Community"
-    },
-    "navaids": [
-        {
-            "id": "88844",
-            "filename": "San_Sebastian_NDB-DME_ES",
-            "ident": "HIG",
-            "name": "San Sebastian",
-            "type": "NDB-DME",
-            "frequency_khz": "328",
-            "latitude_deg": "43.38629913330078",
-            "longitude_deg": "-1.795889973640442",
-            "elevation_ft": "433",
-            "iso_country": "ES",
-            "dme_frequency_khz": "113200",
-            "dme_channel": "079X",
-            "dme_latitude_deg": "43.3863",
-            "dme_longitude_deg": "-1.79577",
-            "dme_elevation_ft": "433",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.531",
-            "usageType": "RNAV",
-            "power": "MEDIUM",
-            "associated_airport": "LESO"
-        },
-        {
-            "id": "93953",
-            "filename": "San_Sebastian_VOR-DME_ES",
-            "ident": "SSN",
-            "name": "San Sebastian",
-            "type": "VOR-DME",
-            "frequency_khz": "117900",
-            "latitude_deg": "43.31119918823242",
-            "longitude_deg": "-1.8303899765014648",
-            "elevation_ft": "804",
-            "iso_country": "ES",
-            "dme_frequency_khz": "117900",
-            "dme_channel": "126X",
-            "dme_latitude_deg": "43.3113",
-            "dme_longitude_deg": "-1.8305",
-            "dme_elevation_ft": "804",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-1.533",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LESO"
-        }
-    ]
+    }
 }

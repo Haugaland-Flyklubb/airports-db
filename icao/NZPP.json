@@ -173,29 +173,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wellington_Region",
         "keywords": "Airports in Wellington Region"
-    },
-    "navaids": [
-        {
-            "id": "92632",
-            "filename": "Paraparaumu_NDB-DME_NZ",
-            "ident": "PP",
-            "name": "Paraparaumu",
-            "type": "NDB-DME",
-            "frequency_khz": "242",
-            "latitude_deg": "-40.90299987792969",
-            "longitude_deg": "174.98300170898438",
-            "elevation_ft": "38",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "117300",
-            "dme_channel": "120X",
-            "dme_latitude_deg": "-40.9027",
-            "dme_longitude_deg": "174.982",
-            "dme_elevation_ft": "38",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "21.499",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "NZPP"
-        }
-    ]
+    }
 }

@@ -107,51 +107,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Cape",
         "keywords": "Airports in Western Cape"
-    },
-    "navaids": [
-        {
-            "id": "91855",
-            "filename": "Overberg_NDB_ZA",
-            "ident": "OB",
-            "name": "Overberg",
-            "type": "NDB",
-            "frequency_khz": "428",
-            "latitude_deg": "-34.59560012817383",
-            "longitude_deg": "20.284799575805664",
-            "elevation_ft": "22",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-25.112",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FAOB"
-        },
-        {
-            "id": "91866",
-            "filename": "Overberg_VORTAC_ZA",
-            "ident": "OBV",
-            "name": "Overberg",
-            "type": "VORTAC",
-            "frequency_khz": "115400",
-            "latitude_deg": "-34.55609893798828",
-            "longitude_deg": "20.247100830078125",
-            "elevation_ft": "43",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "115400",
-            "dme_channel": "101X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-25.086",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FAOB"
-        }
-    ]
+    }
 }

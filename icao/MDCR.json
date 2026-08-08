@@ -69,29 +69,5 @@
         "iso_country": "DO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pedernales_Province",
         "keywords": "Airports in Pedernales Province"
-    },
-    "navaids": [
-        {
-            "id": "87307",
-            "filename": "Cabo_Rojo_VOR-DME_DO",
-            "ident": "DCR",
-            "name": "Cabo Rojo",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "17.93160057067871",
-            "longitude_deg": "-71.64830017089844",
-            "elevation_ft": "262",
-            "iso_country": "DO",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.007",
-            "magnetic_variation_deg": "-9.261",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MDCR"
-        }
-    ]
+    }
 }

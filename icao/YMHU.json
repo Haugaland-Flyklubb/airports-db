@@ -77,29 +77,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
         "keywords": "Airports in Northern Territory"
-    },
-    "navaids": [
-        {
-            "id": "90948",
-            "filename": "Mcarthur_River_Mine_NDB_AU",
-            "ident": "MHU",
-            "name": "Mcarthur River Mine",
-            "type": "NDB",
-            "frequency_khz": "368",
-            "latitude_deg": "-16.44610023498535",
-            "longitude_deg": "136.0780029296875",
-            "elevation_ft": "131",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.525",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YMHU"
-        }
-    ]
+    }
 }

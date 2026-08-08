@@ -107,51 +107,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Apulia",
         "keywords": "PU"
-    },
-    "navaids": [
-        {
-            "id": "88414",
-            "filename": "Gioia_Del_Colle_TACAN_IT",
-            "ident": "GIO",
-            "name": "Gioia Del Colle",
-            "type": "TACAN",
-            "frequency_khz": "117800",
-            "latitude_deg": "40.801300048828125",
-            "longitude_deg": "16.90130043029785",
-            "elevation_ft": "1183",
-            "iso_country": "IT",
-            "dme_frequency_khz": "117800",
-            "dme_channel": "125X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.306",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LIBV"
-        },
-        {
-            "id": "88415",
-            "filename": "Gioia_Del_Colle_NDB_IT",
-            "ident": "GIO",
-            "name": "Gioia Del Colle",
-            "type": "NDB",
-            "frequency_khz": "328",
-            "latitude_deg": "40.800201416015625",
-            "longitude_deg": "16.90130043029785",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.307",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LIBV"
-        }
-    ]
+    }
 }

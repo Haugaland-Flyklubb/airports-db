@@ -85,29 +85,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
         "keywords": "Airports in Grand Est"
-    },
-    "navaids": [
-        {
-            "id": "91469",
-            "filename": "Nancy_TACAN_FR",
-            "ident": "NAY",
-            "name": "Nancy",
-            "type": "TACAN",
-            "frequency_khz": "116800",
-            "latitude_deg": "48.58359909057617",
-            "longitude_deg": "5.95182991027832",
-            "elevation_ft": "1115",
-            "iso_country": "FR",
-            "dme_frequency_khz": "116800",
-            "dme_channel": "115X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.042",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFSO"
-        }
-    ]
+    }
 }

@@ -85,29 +85,5 @@
         "iso_country": "TT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tobago",
         "keywords": "Airports in Western Tobago"
-    },
-    "navaids": [
-        {
-            "id": "94169",
-            "filename": "Crown_Point_NDB_TT",
-            "ident": "TAB",
-            "name": "Crown Point",
-            "type": "NDB",
-            "frequency_khz": "323",
-            "latitude_deg": "11.152799606323242",
-            "longitude_deg": "-60.841400146484375",
-            "elevation_ft": "36",
-            "iso_country": "TT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.312",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "TTCP"
-        }
-    ]
+    }
 }

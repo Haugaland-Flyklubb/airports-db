@@ -93,51 +93,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Labuan",
         "keywords": "Airports in Labuan"
-    },
-    "navaids": [
-        {
-            "id": "90145",
-            "filename": "Labuan_NDB_MY",
-            "ident": "LAB",
-            "name": "Labuan",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "5.284719944000244",
-            "longitude_deg": "115.25499725341797",
-            "elevation_ft": "101",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.243",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WBKL"
-        },
-        {
-            "id": "95179",
-            "filename": "Labuan_VOR-DME_MY",
-            "ident": "VLB",
-            "name": "Labuan",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "5.289999961853027",
-            "longitude_deg": "115.25199890136719",
-            "elevation_ft": "101",
-            "iso_country": "MY",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "0.242",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WBKL"
-        }
-    ]
+    }
 }

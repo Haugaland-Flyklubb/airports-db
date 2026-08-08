@@ -123,51 +123,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Apulia",
         "keywords": "PU"
-    },
-    "navaids": [
-        {
-            "id": "86309",
-            "filename": "Brindisi_VORTAC_IT",
-            "ident": "BRD",
-            "name": "Brindisi",
-            "type": "VORTAC",
-            "frequency_khz": "113200",
-            "latitude_deg": "40.61090087890625",
-            "longitude_deg": "18.002899169921875",
-            "elevation_ft": "85",
-            "iso_country": "IT",
-            "dme_frequency_khz": "113200",
-            "dme_channel": "079X",
-            "dme_latitude_deg": "40.6107",
-            "dme_longitude_deg": "18.0028",
-            "dme_elevation_ft": "85",
-            "slaved_variation_deg": "2.006",
-            "magnetic_variation_deg": "2.407",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LIBR"
-        },
-        {
-            "id": "86313",
-            "filename": "Brindisi_NDB_IT",
-            "ident": "BRD",
-            "name": "Brindisi",
-            "type": "NDB",
-            "frequency_khz": "364",
-            "latitude_deg": "40.605499267578125",
-            "longitude_deg": "18.008800506591797",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.407",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LIBR"
-        }
-    ]
+    }
 }

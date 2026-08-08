@@ -93,51 +93,5 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/El_Beni_Department",
         "keywords": "Airports in El Beni Department"
-    },
-    "navaids": [
-        {
-            "id": "94273",
-            "filename": "Trinidad_NDB_BO",
-            "ident": "TDD",
-            "name": "Trinidad",
-            "type": "NDB",
-            "frequency_khz": "210",
-            "latitude_deg": "-14.824399948120117",
-            "longitude_deg": "-64.92369842529297",
-            "elevation_ft": "508",
-            "iso_country": "BO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.526",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SLTR"
-        },
-        {
-            "id": "94586",
-            "filename": "Trinidad_VOR-DME_BO",
-            "ident": "TRI",
-            "name": "Trinidad",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "-14.799099922180176",
-            "longitude_deg": "-64.93840026855469",
-            "elevation_ft": "509",
-            "iso_country": "BO",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.007",
-            "magnetic_variation_deg": "-8.523",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SLTR"
-        }
-    ]
+    }
 }

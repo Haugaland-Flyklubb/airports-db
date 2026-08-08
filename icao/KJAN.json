@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    },
-    "navaids": [
-        {
-            "id": "89422",
-            "filename": "Allen_NDB_US",
-            "ident": "JA",
-            "name": "Allen",
-            "type": "NDB",
-            "frequency_khz": "365",
-            "latitude_deg": "32.412498474121094",
-            "longitude_deg": "-90.11949920654297",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.174",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KJAN"
-        },
-        {
-            "id": "89433",
-            "filename": "Jackson_VORTAC_US",
-            "ident": "JAN",
-            "name": "Jackson",
-            "type": "VORTAC",
-            "frequency_khz": "112600",
-            "latitude_deg": "32.50749969482422",
-            "longitude_deg": "-90.1677017211914",
-            "elevation_ft": "360",
-            "iso_country": "US",
-            "dme_frequency_khz": "112600",
-            "dme_channel": "073X",
-            "dme_latitude_deg": "32.5075",
-            "dme_longitude_deg": "-90.1676",
-            "dme_elevation_ft": "360",
-            "slaved_variation_deg": "5.001",
-            "magnetic_variation_deg": "0.188",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KJAN"
-        }
-    ]
+    }
 }

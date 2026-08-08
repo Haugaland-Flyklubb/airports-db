@@ -93,51 +93,5 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
         "keywords": "Airports in Punjab"
-    },
-    "navaids": [
-        {
-            "id": "93149",
-            "filename": "Islamabad_VOR-DME_PK",
-            "ident": "RN",
-            "name": "Islamabad",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "33.605899810791016",
-            "longitude_deg": "73.12590026855469",
-            "elevation_ft": "1655",
-            "iso_country": "PK",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "2.029",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OPRN"
-        },
-        {
-            "id": "93151",
-            "filename": "Islamabad_NDB_PK",
-            "ident": "RN",
-            "name": "Islamabad",
-            "type": "NDB",
-            "frequency_khz": "344",
-            "latitude_deg": "33.61330032348633",
-            "longitude_deg": "73.08170318603516",
-            "elevation_ft": "",
-            "iso_country": "PK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.033",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "OPRN"
-        }
-    ]
+    }
 }

@@ -93,51 +93,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
         "keywords": "Airports in Sarawak"
-    },
-    "navaids": [
-        {
-            "id": "91580",
-            "filename": "Sibu_NDB_MY",
-            "ident": "NIS",
-            "name": "Sibu",
-            "type": "NDB",
-            "frequency_khz": "203",
-            "latitude_deg": "2.2481400966644287",
-            "longitude_deg": "112.00199890136719",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.447",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WBGS"
-        },
-        {
-            "id": "95280",
-            "filename": "Sibu_VOR-DME_MY",
-            "ident": "VSI",
-            "name": "Sibu",
-            "type": "VOR-DME",
-            "frequency_khz": "112200",
-            "latitude_deg": "2.246809959411621",
-            "longitude_deg": "112.00299835205078",
-            "elevation_ft": "122",
-            "iso_country": "MY",
-            "dme_frequency_khz": "112200",
-            "dme_channel": "059X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.447",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WBGS"
-        }
-    ]
+    }
 }

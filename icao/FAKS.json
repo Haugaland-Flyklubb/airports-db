@@ -113,29 +113,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Free_State_(province)",
         "keywords": "Airports in Free State"
-    },
-    "navaids": [
-        {
-            "id": "89993",
-            "filename": "Kroonstad_NDB_ZA",
-            "ident": "KS",
-            "name": "Kroonstad",
-            "type": "NDB",
-            "frequency_khz": "228",
-            "latitude_deg": "-27.67889976501465",
-            "longitude_deg": "27.287200927734375",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.359",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FAKS"
-        }
-    ]
+    }
 }

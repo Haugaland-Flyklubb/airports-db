@@ -133,51 +133,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
         "keywords": "Airports in Nunavut"
-    },
-    "navaids": [
-        {
-            "id": "95000",
-            "filename": "Hall_Beach_NDB_CA",
-            "ident": "UX",
-            "name": "Hall Beach",
-            "type": "NDB",
-            "frequency_khz": "378",
-            "latitude_deg": "68.76719665527344",
-            "longitude_deg": "-81.25640106201172",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-34.25",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYUX"
-        },
-        {
-            "id": "95875",
-            "filename": "Hall_Beach_VOR-DME_CA",
-            "ident": "YUX",
-            "name": "Hall Beach",
-            "type": "VOR-DME",
-            "frequency_khz": "117300",
-            "latitude_deg": "68.7782974243164",
-            "longitude_deg": "-81.2394027709961",
-            "elevation_ft": "53",
-            "iso_country": "CA",
-            "dme_frequency_khz": "117300",
-            "dme_channel": "120X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.005",
-            "magnetic_variation_deg": "-34.275",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYUX"
-        }
-    ]
+    }
 }

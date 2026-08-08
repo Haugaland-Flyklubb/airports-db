@@ -59,29 +59,5 @@
         "iso_country": "SD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/River_Nile_State",
         "keywords": "Airports in River Nile State"
-    },
-    "navaids": [
-        {
-            "id": "85657",
-            "filename": "Atbara_NDB_SD",
-            "ident": "ATB",
-            "name": "Atbara",
-            "type": "NDB",
-            "frequency_khz": "273",
-            "latitude_deg": "17.713899612426758",
-            "longitude_deg": "34.0536994934082",
-            "elevation_ft": "",
-            "iso_country": "SD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.349",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HSAT"
-        }
-    ]
+    }
 }

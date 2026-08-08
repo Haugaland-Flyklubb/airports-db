@@ -85,29 +85,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Córdoba_Department",
         "keywords": "Airports in Córdoba Department"
-    },
-    "navaids": [
-        {
-            "id": "91339",
-            "filename": "Monteria_VOR-DME_CO",
-            "ident": "MTR",
-            "name": "Monteria",
-            "type": "VOR-DME",
-            "frequency_khz": "114400",
-            "latitude_deg": "8.815560340881348",
-            "longitude_deg": "-75.81780242919922",
-            "elevation_ft": "36",
-            "iso_country": "CO",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-5.114",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKMR"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "SD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Red_Sea_State",
         "keywords": "Airports in Red Sea State"
-    },
-    "navaids": [
-        {
-            "id": "92724",
-            "filename": "Port_Sudan_VOR-DME_SD",
-            "ident": "PSD",
-            "name": "Port Sudan",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "19.401199340820312",
-            "longitude_deg": "37.24169921875",
-            "elevation_ft": "160",
-            "iso_country": "SD",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.401",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HSPN"
-        },
-        {
-            "id": "92725",
-            "filename": "Port Sudan_NDB_SD",
-            "ident": "PSD",
-            "name": "Port Sudan",
-            "type": "NDB",
-            "frequency_khz": "339",
-            "latitude_deg": "19.422500610399997",
-            "longitude_deg": "37.242099762",
-            "elevation_ft": "245",
-            "iso_country": "SD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.402",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HSPN"
-        }
-    ]
+    }
 }

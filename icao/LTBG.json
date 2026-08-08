@@ -93,29 +93,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balıkesir_Province",
         "keywords": "Airports in Balıkesir Province"
-    },
-    "navaids": [
-        {
-            "id": "85909",
-            "filename": "Bandirma_TACAN_TR",
-            "ident": "BDM",
-            "name": "Bandirma",
-            "type": "TACAN",
-            "frequency_khz": "111000",
-            "latitude_deg": "40.301300048828125",
-            "longitude_deg": "27.9783992767334",
-            "elevation_ft": "167",
-            "iso_country": "TR",
-            "dme_frequency_khz": "111000",
-            "dme_channel": "047X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.032",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LTBG"
-        }
-    ]
+    }
 }

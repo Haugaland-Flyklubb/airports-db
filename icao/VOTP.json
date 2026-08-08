@@ -69,29 +69,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andhra_Pradesh",
         "keywords": "Airports in Andhra Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "94645",
-            "filename": "Tirupati_VOR-DME_IN",
-            "ident": "TTP",
-            "name": "Tirupati",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "13.634400367736816",
-            "longitude_deg": "79.53910064697266",
-            "elevation_ft": "349",
-            "iso_country": "IN",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.011",
-            "magnetic_variation_deg": "-1.422",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VOTP"
-        }
-    ]
+    }
 }

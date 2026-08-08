@@ -35,29 +35,5 @@
         "iso_country": "CF",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nana-Mamb%C3%A9r%C3%A9",
         "keywords": "Airports in Nana-Mambéré"
-    },
-    "navaids": [
-        {
-            "id": "87942",
-            "filename": "Bouar_NDB_CF",
-            "ident": "FBU",
-            "name": "Bouar",
-            "type": "NDB",
-            "frequency_khz": "388",
-            "latitude_deg": "5.954130172729492",
-            "longitude_deg": "15.639200210571289",
-            "elevation_ft": "3419",
-            "iso_country": "CF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.505",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FEFO"
-        }
-    ]
+    }
 }

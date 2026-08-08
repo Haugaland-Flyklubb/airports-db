@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "92948",
-            "filename": "Pukatawagan_NDB_CA",
-            "ident": "R5",
-            "name": "Pukatawagan",
-            "type": "NDB",
-            "frequency_khz": "367",
-            "latitude_deg": "55.74919891357422",
-            "longitude_deg": "-101.26100158691406",
-            "elevation_ft": "958",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.536",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CZFG"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Madhya_Pradesh",
         "keywords": "Airports in Madhya Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "89813",
-            "filename": "Khajuraho_NDB_IN",
-            "ident": "KJ",
-            "name": "Khajuraho",
-            "type": "NDB",
-            "frequency_khz": "403",
-            "latitude_deg": "24.82040023803711",
-            "longitude_deg": "79.91670227050781",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.059",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VAKJ"
-        },
-        {
-            "id": "89823",
-            "filename": "Khajuraho_VOR-DME_IN",
-            "ident": "KKJ",
-            "name": "Khajuraho",
-            "type": "VOR-DME",
-            "frequency_khz": "116400",
-            "latitude_deg": "24.814899444580078",
-            "longitude_deg": "79.918701171875",
-            "elevation_ft": "737",
-            "iso_country": "IN",
-            "dme_frequency_khz": "116400",
-            "dme_channel": "111X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.06",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VAKJ"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manabi_Province",
         "keywords": "Airports in Manabi Province"
-    },
-    "navaids": [
-        {
-            "id": "92776",
-            "filename": "Portoviejo_NDB_EC",
-            "ident": "PTN",
-            "name": "Portoviejo",
-            "type": "NDB",
-            "frequency_khz": "390",
-            "latitude_deg": "-1.0461100339889526",
-            "longitude_deg": "-80.46829986572266",
-            "elevation_ft": "127",
-            "iso_country": "EC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.133",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SEPV"
-        }
-    ]
+    }
 }

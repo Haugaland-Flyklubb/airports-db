@@ -93,29 +93,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Miyazaki",
         "keywords": "Kyushu and Okinawa"
-    },
-    "navaids": [
-        {
-            "id": "91557",
-            "filename": "Nyutabaru_TACAN_JP",
-            "ident": "NHT",
-            "name": "Nyutabaru",
-            "type": "TACAN",
-            "frequency_khz": "115000",
-            "latitude_deg": "32.080299377441406",
-            "longitude_deg": "131.45399475097656",
-            "elevation_ft": "278",
-            "iso_country": "JP",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.011",
-            "magnetic_variation_deg": "-6.18",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJFN"
-        }
-    ]
+    }
 }

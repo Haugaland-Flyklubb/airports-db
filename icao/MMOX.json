@@ -77,29 +77,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oaxaca",
         "keywords": "Airports in Oaxaca"
-    },
-    "navaids": [
-        {
-            "id": "91845",
-            "filename": "Oaxaca_VOR-DME_MX",
-            "ident": "OAX",
-            "name": "Oaxaca",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "16.972299575805664",
-            "longitude_deg": "-96.73139953613281",
-            "elevation_ft": "5013",
-            "iso_country": "MX",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.004",
-            "magnetic_variation_deg": "5.108",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMOX"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Macedonia",
         "keywords": "Δυτική Μακεδονία"
-    },
-    "navaids": [
-        {
-            "id": "89660",
-            "filename": "Kastoria_VOR-DME_GR",
-            "ident": "KAS",
-            "name": "Kastoria",
-            "type": "VOR-DME",
-            "frequency_khz": "114500",
-            "latitude_deg": "40.45100021362305",
-            "longitude_deg": "21.275400161743164",
-            "elevation_ft": "2148",
-            "iso_country": "GR",
-            "dme_frequency_khz": "114500",
-            "dme_channel": "092X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.007",
-            "magnetic_variation_deg": "3.099",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LGKA"
-        },
-        {
-            "id": "90007",
-            "filename": "Kastoria_NDB_GR",
-            "ident": "KSO",
-            "name": "Kastoria",
-            "type": "NDB",
-            "frequency_khz": "372",
-            "latitude_deg": "40.444698333740234",
-            "longitude_deg": "21.279399871826172",
-            "elevation_ft": "",
-            "iso_country": "GR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.099",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LGKA"
-        }
-    ]
+    }
 }

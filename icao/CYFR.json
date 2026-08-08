@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    },
-    "navaids": [
-        {
-            "id": "88122",
-            "filename": "Fort_Resolution_NDB_CA",
-            "ident": "FR",
-            "name": "Fort Resolution",
-            "type": "NDB",
-            "frequency_khz": "274",
-            "latitude_deg": "61.15420150756836",
-            "longitude_deg": "-113.63899993896484",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.558",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYFR"
-        }
-    ]
+    }
 }

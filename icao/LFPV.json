@@ -101,51 +101,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Île-de-France",
         "keywords": "Airports in Île-de-France"
-    },
-    "navaids": [
-        {
-            "id": "88956",
-            "filename": "Villacoublay_NDB_FR",
-            "ident": "HOL",
-            "name": "Villacoublay",
-            "type": "NDB",
-            "frequency_khz": "315",
-            "latitude_deg": "48.73059844970703",
-            "longitude_deg": "1.8205000162124634",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.145",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LFPV"
-        },
-        {
-            "id": "94161",
-            "filename": "Villacoublay_NDB_FR",
-            "ident": "TA",
-            "name": "Villacoublay",
-            "type": "NDB",
-            "frequency_khz": "287",
-            "latitude_deg": "48.77159881591797",
-            "longitude_deg": "2.097440004348755",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.093",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LFPV"
-        }
-    ]
+    }
 }

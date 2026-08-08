@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "86390",
-            "filename": "Bathurst_NDB_AU",
-            "ident": "BTH",
-            "name": "Bathurst",
-            "type": "NDB",
-            "frequency_khz": "383",
-            "latitude_deg": "-33.41419982910156",
-            "longitude_deg": "149.65699768066406",
-            "elevation_ft": "2430",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.567",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YBTH"
-        }
-    ]
+    }
 }

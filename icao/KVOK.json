@@ -117,29 +117,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
         "keywords": "Airports in Wisconsin"
-    },
-    "navaids": [
-        {
-            "id": "95237",
-            "filename": "Volk_TACAN_US",
-            "ident": "VOK",
-            "name": "Volk",
-            "type": "TACAN",
-            "frequency_khz": "110400",
-            "latitude_deg": "43.942901611328125",
-            "longitude_deg": "-90.25900268554688",
-            "elevation_ft": "961",
-            "iso_country": "US",
-            "dme_frequency_khz": "110400",
-            "dme_channel": "041X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.008",
-            "magnetic_variation_deg": "-1.142",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KVOK"
-        }
-    ]
+    }
 }

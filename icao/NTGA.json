@@ -69,29 +69,5 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "85170",
-            "filename": "Anaa_NDB_PF",
-            "ident": "AA",
-            "name": "Anaa",
-            "type": "NDB",
-            "frequency_khz": "333",
-            "latitude_deg": "-17.355600357055664",
-            "longitude_deg": "-145.48199462890625",
-            "elevation_ft": "",
-            "iso_country": "PF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.445",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "NTGA"
-        }
-    ]
+    }
 }

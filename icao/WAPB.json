@@ -35,29 +35,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maluku",
         "keywords": "Airports in Maluku"
-    },
-    "navaids": [
-        {
-            "id": "90128",
-            "filename": "Bula_NDB_ID",
-            "ident": "LA",
-            "name": "Bula",
-            "type": "NDB",
-            "frequency_khz": "405",
-            "latitude_deg": "-3.1108200550079346",
-            "longitude_deg": "130.51100158691406",
-            "elevation_ft": "15",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.189",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAPB"
-        }
-    ]
+    }
 }

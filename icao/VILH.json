@@ -103,51 +103,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ladakh",
         "keywords": "Airports in Ladakh"
-    },
-    "navaids": [
-        {
-            "id": "90129",
-            "filename": "Leh_NDB_IN",
-            "ident": "LA",
-            "name": "Leh",
-            "type": "NDB",
-            "frequency_khz": "105",
-            "latitude_deg": "34.150001525878906",
-            "longitude_deg": "77.58329772949219",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.514",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VILH"
-        },
-        {
-            "id": "90274",
-            "filename": "Leh_VOR-DME_IN",
-            "ident": "LEH",
-            "name": "Leh",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "34.7327995300293",
-            "longitude_deg": "77.56639862060547",
-            "elevation_ft": "3282",
-            "iso_country": "IN",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.011",
-            "magnetic_variation_deg": "2.001",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VILH"
-        }
-    ]
+    }
 }

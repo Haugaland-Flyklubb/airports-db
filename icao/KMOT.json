@@ -139,29 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
         "keywords": "Airports in North Dakota"
-    },
-    "navaids": [
-        {
-            "id": "91181",
-            "filename": "Minot_VORTAC_US",
-            "ident": "MOT",
-            "name": "Minot",
-            "type": "VORTAC",
-            "frequency_khz": "117100",
-            "latitude_deg": "48.26029968261719",
-            "longitude_deg": "-101.28700256347656",
-            "elevation_ft": "1691",
-            "iso_country": "US",
-            "dme_frequency_khz": "117100",
-            "dme_channel": "118X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.001",
-            "magnetic_variation_deg": "7.501",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KMOT"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fukui",
         "keywords": "Chubu"
-    },
-    "navaids": [
-        {
-            "id": "88117",
-            "filename": "Fukui_NDB_JP",
-            "ident": "FQ",
-            "name": "Fukui",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "36.17539978027344",
-            "longitude_deg": "136.22000122070312",
-            "elevation_ft": "",
-            "iso_country": "JP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.291",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "RJNF"
-        }
-    ]
+    }
 }

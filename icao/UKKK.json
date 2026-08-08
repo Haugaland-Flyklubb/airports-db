@@ -101,51 +101,5 @@
         "iso_country": "UA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kyiv",
         "keywords": "Kiev"
-    },
-    "navaids": [
-        {
-            "id": "89789",
-            "filename": "Zhulyany_NDB_UA",
-            "ident": "KI",
-            "name": "Zhulyany",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "50.39889907836914",
-            "longitude_deg": "30.387399673461914",
-            "elevation_ft": "",
-            "iso_country": "UA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.142",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "UKKK"
-        },
-        {
-            "id": "90068",
-            "filename": "Zhulyany_NDB_UA",
-            "ident": "KV",
-            "name": "Zhulyany",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "50.40420150756836",
-            "longitude_deg": "30.511600494384766",
-            "elevation_ft": "",
-            "iso_country": "UA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.159",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "UKKK"
-        }
-    ]
+    }
 }

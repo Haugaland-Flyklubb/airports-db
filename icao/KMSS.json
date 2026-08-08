@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    },
-    "navaids": [
-        {
-            "id": "91271",
-            "filename": "Misse_NDB_US",
-            "ident": "MS",
-            "name": "Misse",
-            "type": "NDB",
-            "frequency_khz": "278",
-            "latitude_deg": "44.85409927368164",
-            "longitude_deg": "-74.91580200195312",
-            "elevation_ft": "240",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.079",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KMSS"
-        }
-    ]
+    }
 }

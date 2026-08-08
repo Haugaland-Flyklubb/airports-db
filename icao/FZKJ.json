@@ -69,29 +69,5 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bas-U%C3%A9l%C3%A9",
         "keywords": "Airports in Bas-Uélé Province"
-    },
-    "navaids": [
-        {
-            "id": "86444",
-            "filename": "Buta_NDB_CD",
-            "ident": "BUT",
-            "name": "Buta",
-            "type": "NDB",
-            "frequency_khz": "397",
-            "latitude_deg": "2.807110071182251",
-            "longitude_deg": "24.773099899291992",
-            "elevation_ft": "",
-            "iso_country": "CD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.268",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FZKJ"
-        }
-    ]
+    }
 }

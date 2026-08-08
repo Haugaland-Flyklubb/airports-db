@@ -139,29 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
         "keywords": "Airports in South Carolina"
-    },
-    "navaids": [
-        {
-            "id": "88033",
-            "filename": "Alcot_NDB_US",
-            "ident": "FL",
-            "name": "Alcot",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "34.17399978637695",
-            "longitude_deg": "-79.85250091552734",
-            "elevation_ft": "140",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.299",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KFLO"
-        }
-    ]
+    }
 }

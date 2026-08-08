@@ -77,29 +77,5 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Camarines_Sur_Province",
         "keywords": "Airports in Camarines Sur Province"
-    },
-    "navaids": [
-        {
-            "id": "91535",
-            "filename": "Naga_VOR-DME_PH",
-            "ident": "NGA",
-            "name": "Naga",
-            "type": "VOR-DME",
-            "frequency_khz": "114700",
-            "latitude_deg": "13.582200050354004",
-            "longitude_deg": "123.2699966430664",
-            "elevation_ft": "170",
-            "iso_country": "PH",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "13.5821",
-            "dme_longitude_deg": "123.269",
-            "dme_elevation_ft": "170",
-            "slaved_variation_deg": "-2.007",
-            "magnetic_variation_deg": "-1.095",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RPUN"
-        }
-    ]
+    }
 }

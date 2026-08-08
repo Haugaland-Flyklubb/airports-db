@@ -69,29 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khuzestan_Province",
         "keywords": "Airports in Khuzestan Province"
-    },
-    "navaids": [
-        {
-            "id": "85344",
-            "filename": "Aghajari_NDB_IR",
-            "ident": "AJ",
-            "name": "Aghajari",
-            "type": "NDB",
-            "frequency_khz": "365",
-            "latitude_deg": "30.75",
-            "longitude_deg": "49.68330001831055",
-            "elevation_ft": "88",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.037",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIAG"
-        }
-    ]
+    }
 }

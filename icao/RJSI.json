@@ -77,29 +77,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iwate",
         "keywords": "Tohoku"
-    },
-    "navaids": [
-        {
-            "id": "88974",
-            "filename": "Hanamaki_VOR-DME_JP",
-            "ident": "HPE",
-            "name": "Hanamaki",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "39.43339920043945",
-            "longitude_deg": "141.13299560546875",
-            "elevation_ft": "339",
-            "iso_country": "JP",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.011",
-            "magnetic_variation_deg": "-8.005",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJSI"
-        }
-    ]
+    }
 }

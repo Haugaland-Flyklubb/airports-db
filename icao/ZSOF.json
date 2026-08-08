@@ -77,51 +77,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Anhui",
         "keywords": "Airports in Anhui Province"
-    },
-    "navaids": [
-        {
-            "id": "88803",
-            "filename": "Hefei_VOR-DME_CN",
-            "ident": "HFE",
-            "name": "Hefei",
-            "type": "VOR-DME",
-            "frequency_khz": "116700",
-            "latitude_deg": "31.780000686645508",
-            "longitude_deg": "117.302001953125",
-            "elevation_ft": "124",
-            "iso_country": "CN",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.405",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZSOF"
-        },
-        {
-            "id": "93409",
-            "filename": "Luogang_NDB_CN",
-            "ident": "SB",
-            "name": "Luogang",
-            "type": "NDB",
-            "frequency_khz": "232",
-            "latitude_deg": "31.84000015258789",
-            "longitude_deg": "117.23300170898438",
-            "elevation_ft": "",
-            "iso_country": "CN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.405",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ZSOF"
-        }
-    ]
+    }
 }

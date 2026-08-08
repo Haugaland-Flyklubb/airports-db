@@ -147,29 +147,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "86366",
-            "filename": "Benson_TACAN_GB",
-            "ident": "BSO",
-            "name": "Benson",
-            "type": "TACAN",
-            "frequency_khz": "110000",
-            "latitude_deg": "51.614498138427734",
-            "longitude_deg": "-1.0994399785995483",
-            "elevation_ft": "226",
-            "iso_country": "GB",
-            "dme_frequency_khz": "110000",
-            "dme_channel": "037X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.399",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "EGUB"
-        }
-    ]
+    }
 }

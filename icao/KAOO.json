@@ -131,29 +131,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    },
-    "navaids": [
-        {
-            "id": "85523",
-            "filename": "Altoona_VOR_US",
-            "ident": "AOO",
-            "name": "Altoona",
-            "type": "VOR",
-            "frequency_khz": "108800",
-            "latitude_deg": "40.325401306152344",
-            "longitude_deg": "-78.30370330810547",
-            "elevation_ft": "1630",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.002",
-            "magnetic_variation_deg": "-10.131",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KAOO"
-        }
-    ]
+    }
 }

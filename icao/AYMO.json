@@ -77,29 +77,5 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manus_Province",
         "keywords": "Airports in Manus Province"
-    },
-    "navaids": [
-        {
-            "id": "91159",
-            "filename": "Momote_NDB-DME_PG",
-            "ident": "MOE",
-            "name": "Momote",
-            "type": "NDB-DME",
-            "frequency_khz": "212",
-            "latitude_deg": "-2.06141996383667",
-            "longitude_deg": "147.42599487304688",
-            "elevation_ft": "85",
-            "iso_country": "PG",
-            "dme_frequency_khz": "113500",
-            "dme_channel": "082X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.204",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "AYMO"
-        }
-    ]
+    }
 }

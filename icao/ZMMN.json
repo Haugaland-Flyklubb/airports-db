@@ -85,29 +85,5 @@
         "iso_country": "MN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kh%C3%B6vsg%C3%B6l_Province",
         "keywords": "Hovsgol, Хөвсгөл, Hövsgöl"
-    },
-    "navaids": [
-        {
-            "id": "91349",
-            "filename": "Muren_NDB_MN",
-            "ident": "MU",
-            "name": "Muren",
-            "type": "NDB",
-            "frequency_khz": "570",
-            "latitude_deg": "49.65290069580078",
-            "longitude_deg": "100.17400360107422",
-            "elevation_ft": "",
-            "iso_country": "MN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.553",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ZMMN"
-        }
-    ]
+    }
 }

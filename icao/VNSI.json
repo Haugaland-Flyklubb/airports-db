@@ -69,51 +69,5 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Madhesh_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "93622",
-            "filename": "Simara_NDB_NP",
-            "ident": "SIM",
-            "name": "Simara",
-            "type": "NDB",
-            "frequency_khz": "246",
-            "latitude_deg": "27.165800094604492",
-            "longitude_deg": "84.9832992553711",
-            "elevation_ft": "70",
-            "iso_country": "NP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.039",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VNSI"
-        },
-        {
-            "id": "93788",
-            "filename": "Simara_VOR-DME_NP",
-            "ident": "SMR",
-            "name": "Simara",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "27.164199829101562",
-            "longitude_deg": "84.9822006225586",
-            "elevation_ft": "450",
-            "iso_country": "NP",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "0.039",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VNSI"
-        }
-    ]
+    }
 }

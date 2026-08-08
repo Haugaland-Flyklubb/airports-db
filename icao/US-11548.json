@@ -107,29 +107,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
         "keywords": "Airports in Ohio"
-    },
-    "navaids": [
-        {
-            "id": "93706",
-            "filename": "Sandusky_VOR-DME_US",
-            "ident": "SKY",
-            "name": "Sandusky",
-            "type": "VOR-DME",
-            "frequency_khz": "109200",
-            "latitude_deg": "41.43450164794922",
-            "longitude_deg": "-82.65480041503906",
-            "elevation_ft": "580",
-            "iso_country": "US",
-            "dme_frequency_khz": "109200",
-            "dme_channel": "029X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.001",
-            "magnetic_variation_deg": "-7.117",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "US-11548"
-        }
-    ]
+    }
 }

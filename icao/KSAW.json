@@ -117,51 +117,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    },
-    "navaids": [
-        {
-            "id": "93402",
-            "filename": "Sawyer_VOR-DME_US",
-            "ident": "SAW",
-            "name": "Sawyer",
-            "type": "VOR-DME",
-            "frequency_khz": "117100",
-            "latitude_deg": "46.3588981628418",
-            "longitude_deg": "-87.39720153808594",
-            "elevation_ft": "1220",
-            "iso_country": "US",
-            "dme_frequency_khz": "117100",
-            "dme_channel": "118X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.008",
-            "magnetic_variation_deg": "-4.274",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KSAW"
-        },
-        {
-            "id": "93833",
-            "filename": "Suomi_NDB_US",
-            "ident": "SO",
-            "name": "Suomi",
-            "type": "NDB",
-            "frequency_khz": "410",
-            "latitude_deg": "46.26219940185547",
-            "longitude_deg": "-87.41609954833984",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.247",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSAW"
-        }
-    ]
+    }
 }

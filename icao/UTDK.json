@@ -69,29 +69,5 @@
         "iso_country": "TJ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khatlon_Region",
         "keywords": "Хатлон, ختلان"
-    },
-    "navaids": [
-        {
-            "id": "86716",
-            "filename": "Kulyab_NDB_TJ",
-            "ident": "CG",
-            "name": "Kulyab",
-            "type": "NDB",
-            "frequency_khz": "298",
-            "latitude_deg": "37.94169998168945",
-            "longitude_deg": "69.79000091552734",
-            "elevation_ft": "",
-            "iso_country": "TJ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.364",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UTDK"
-        }
-    ]
+    }
 }

@@ -93,29 +93,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Brunswick",
         "keywords": "Airports in New Brunswick"
-    },
-    "navaids": [
-        {
-            "id": "86838",
-            "filename": "Charlo_NDB_CA",
-            "ident": "CL",
-            "name": "Charlo",
-            "type": "NDB",
-            "frequency_khz": "207",
-            "latitude_deg": "48.0088996887207",
-            "longitude_deg": "-66.43689727783203",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.354",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYCL"
-        }
-    ]
+    }
 }

@@ -59,29 +59,5 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Biskra_Province",
         "keywords": "Airports in Biskra Province"
-    },
-    "navaids": [
-        {
-            "id": "86057",
-            "filename": "Biskra_VOR-DME_DZ",
-            "ident": "BIS",
-            "name": "Biskra",
-            "type": "VOR-DME",
-            "frequency_khz": "115000",
-            "latitude_deg": "34.775001525878906",
-            "longitude_deg": "5.75832986831665",
-            "elevation_ft": "586",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.006",
-            "magnetic_variation_deg": "0.182",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DAUB"
-        }
-    ]
+    }
 }

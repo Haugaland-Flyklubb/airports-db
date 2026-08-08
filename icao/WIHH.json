@@ -109,51 +109,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jakarta_Raya",
         "keywords": "Airports in Jakarta Raya"
-    },
-    "navaids": [
-        {
-            "id": "85382",
-            "filename": "Halim_Perdanakusuma_NDB_ID",
-            "ident": "AL",
-            "name": "Halim Perdanakusuma",
-            "type": "NDB",
-            "frequency_khz": "215",
-            "latitude_deg": "-6.193960189819336",
-            "longitude_deg": "107.04000091552734",
-            "elevation_ft": "84",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.465",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WIHH"
-        },
-        {
-            "id": "88888",
-            "filename": "Halim_Perdanakusuma_VOR-DME_ID",
-            "ident": "HLM",
-            "name": "Halim Perdanakusuma",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "-6.271940231323242",
-            "longitude_deg": "106.88700103759766",
-            "elevation_ft": "84",
-            "iso_country": "ID",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.451",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WIHH"
-        }
-    ]
+    }
 }

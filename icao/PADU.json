@@ -101,29 +101,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "87562",
-            "filename": "Dutch_Harbor_NDB-DME_US",
-            "ident": "DUT",
-            "name": "Dutch Harbor",
-            "type": "NDB-DME",
-            "frequency_khz": "283",
-            "latitude_deg": "53.90520095825195",
-            "longitude_deg": "-166.5489959716797",
-            "elevation_ft": "284",
-            "iso_country": "US",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "53.9047",
-            "dme_longitude_deg": "-166.549",
-            "dme_elevation_ft": "284",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.32",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "PADU"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canary_Islands",
         "keywords": "Airports in Canary Islands, Canarias"
-    },
-    "navaids": [
-        {
-            "id": "90312",
-            "filename": "La_Gomera_VOR-DME_ES",
-            "ident": "LGM",
-            "name": "La Gomera",
-            "type": "VOR-DME",
-            "frequency_khz": "116000",
-            "latitude_deg": "28.02869987487793",
-            "longitude_deg": "-17.21489906311035",
-            "elevation_ft": "741",
-            "iso_country": "ES",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "28.0286",
-            "dme_longitude_deg": "-17.2148",
-            "dme_elevation_ft": "741",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.534",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "GCGM"
-        }
-    ]
+    }
 }

@@ -35,29 +35,5 @@
         "iso_country": "NE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Agadez_Region",
         "keywords": "Airports in Agadez Region"
-    },
-    "navaids": [
-        {
-            "id": "85592",
-            "filename": "Arlit_NDB_NE",
-            "ident": "ARL",
-            "name": "Arlit",
-            "type": "NDB",
-            "frequency_khz": "293",
-            "latitude_deg": "18.783599853515625",
-            "longitude_deg": "7.366730213165283",
-            "elevation_ft": "1459",
-            "iso_country": "NE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.331",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "DRZL"
-        }
-    ]
+    }
 }

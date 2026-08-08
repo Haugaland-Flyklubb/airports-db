@@ -85,51 +85,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Bengal",
         "keywords": "Airports in West Bengal"
-    },
-    "navaids": [
-        {
-            "id": "85838",
-            "filename": "Bagdogra_VOR-DME_IN",
-            "ident": "BBD",
-            "name": "Bagdogra",
-            "type": "VOR-DME",
-            "frequency_khz": "116600",
-            "latitude_deg": "26.687599182128906",
-            "longitude_deg": "88.32599639892578",
-            "elevation_ft": "412",
-            "iso_country": "IN",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.089",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VEBD"
-        },
-        {
-            "id": "85887",
-            "filename": "Bagdogra_NDB_IN",
-            "ident": "BD",
-            "name": "Bagdogra",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "26.68790054321289",
-            "longitude_deg": "88.32640075683594",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.089",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VEBD"
-        }
-    ]
+    }
 }

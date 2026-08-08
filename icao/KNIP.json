@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    },
-    "navaids": [
-        {
-            "id": "91576",
-            "filename": "Jacksonville_TACAN_US",
-            "ident": "NIP",
-            "name": "Jacksonville",
-            "type": "TACAN",
-            "frequency_khz": "108200",
-            "latitude_deg": "30.234899520874023",
-            "longitude_deg": "-81.67510223388672",
-            "elevation_ft": "20",
-            "iso_country": "US",
-            "dme_frequency_khz": "108200",
-            "dme_channel": "019X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.008",
-            "magnetic_variation_deg": "-5.228",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KNIP"
-        }
-    ]
+    }
 }

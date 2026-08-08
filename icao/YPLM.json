@@ -101,51 +101,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "90407",
-            "filename": "Learmonth_VOR-DME_AU",
-            "ident": "LM",
-            "name": "Learmonth",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "-22.234699249267578",
-            "longitude_deg": "114.09400177001953",
-            "elevation_ft": "25",
-            "iso_country": "AU",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.336",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YPLM"
-        },
-        {
-            "id": "90409",
-            "filename": "Learmonth_NDB_AU",
-            "ident": "LM",
-            "name": "Learmonth",
-            "type": "NDB",
-            "frequency_khz": "396",
-            "latitude_deg": "-22.24139976501465",
-            "longitude_deg": "114.09600067138672",
-            "elevation_ft": "19",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.336",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YPLM"
-        }
-    ]
+    }
 }

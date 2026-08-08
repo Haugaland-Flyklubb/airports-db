@@ -185,29 +185,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
         "keywords": "Airports in Nebraska"
-    },
-    "navaids": [
-        {
-            "id": "90435",
-            "filename": "Potts_NDB_US",
-            "ident": "LN",
-            "name": "Potts",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "40.747100830078125",
-            "longitude_deg": "-96.76239776611328",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.274",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KLNK"
-        }
-    ]
+    }
 }

@@ -59,29 +59,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
         "keywords": "Airports in Limpopo"
-    },
-    "navaids": [
-        {
-            "id": "91793",
-            "filename": "Nylstroom_NDB_ZA",
-            "ident": "NY",
-            "name": "Nylstroom",
-            "type": "NDB",
-            "frequency_khz": "465",
-            "latitude_deg": "-24.691699981689453",
-            "longitude_deg": "28.36009979248047",
-            "elevation_ft": "3900",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.535",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FANY"
-        }
-    ]
+    }
 }

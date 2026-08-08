@@ -91,29 +91,5 @@
         "iso_country": "LT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Klaip%C4%97da_County",
         "keywords": "Airports in Klaipėda County"
-    },
-    "navaids": [
-        {
-            "id": "89842",
-            "filename": "Klaipeda_VOR-DME_LT",
-            "ident": "KLA",
-            "name": "Klaipeda",
-            "type": "VOR-DME",
-            "frequency_khz": "113900",
-            "latitude_deg": "55.715599060058594",
-            "longitude_deg": "21.243799209594727",
-            "elevation_ft": "82",
-            "iso_country": "LT",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "4.534",
-            "usageType": "RNAV",
-            "power": "MEDIUM",
-            "associated_airport": "EYKL"
-        }
-    ]
+    }
 }

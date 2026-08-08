@@ -85,51 +85,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tr%C3%B8ndelag",
         "keywords": "Airports in Trøndelag"
-    },
-    "navaids": [
-        {
-            "id": "92099",
-            "filename": "Orland_TACAN_NO",
-            "ident": "ORL",
-            "name": "Orland",
-            "type": "TACAN",
-            "frequency_khz": "111400",
-            "latitude_deg": "63.68109893798828",
-            "longitude_deg": "9.623709678649902",
-            "elevation_ft": "48",
-            "iso_country": "NO",
-            "dme_frequency_khz": "111400",
-            "dme_channel": "051X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "0.365",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ENOL"
-        },
-        {
-            "id": "94974",
-            "filename": "Uthaug_NDB_NO",
-            "ident": "UTH",
-            "name": "Uthaug",
-            "type": "NDB",
-            "frequency_khz": "366",
-            "latitude_deg": "63.722801208496094",
-            "longitude_deg": "9.577779769897461",
-            "elevation_ft": "",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.35",
-            "usageType": "RNAV",
-            "power": "LOW",
-            "associated_airport": "ENOL"
-        }
-    ]
+    }
 }

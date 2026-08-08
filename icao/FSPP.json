@@ -77,29 +77,5 @@
         "iso_country": "SC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand'_Anse_(Praslin)",
         "keywords": "Airports in Grand' Anse (Praslin)"
-    },
-    "navaids": [
-        {
-            "id": "92672",
-            "filename": "Praslin_VOR-DME_SC",
-            "ident": "PRA",
-            "name": "Praslin",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "-4.307370185852051",
-            "longitude_deg": "55.70709991455078",
-            "elevation_ft": "1106",
-            "iso_country": "SC",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-5.166",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FSPP"
-        }
-    ]
+    }
 }

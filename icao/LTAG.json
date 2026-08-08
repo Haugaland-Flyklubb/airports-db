@@ -229,29 +229,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Adana_Province",
         "keywords": "Airports in Adana Province"
-    },
-    "navaids": [
-        {
-            "id": "87266",
-            "filename": "Incirlik_TACAN_TR",
-            "ident": "DAN",
-            "name": "Incirlik",
-            "type": "TACAN",
-            "frequency_khz": "108400",
-            "latitude_deg": "37.01559829711914",
-            "longitude_deg": "35.448001861572266",
-            "elevation_ft": "253",
-            "iso_country": "TR",
-            "dme_frequency_khz": "108400",
-            "dme_channel": "021X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.001",
-            "magnetic_variation_deg": "4.19",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTAG"
-        }
-    ]
+    }
 }

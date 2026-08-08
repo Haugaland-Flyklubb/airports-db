@@ -93,51 +93,5 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kinshasa_Province",
         "keywords": "Airports in Kinshasa Province"
-    },
-    "navaids": [
-        {
-            "id": "89998",
-            "filename": "Ndjili_VOR-DME_CD",
-            "ident": "KSA",
-            "name": "Ndjili",
-            "type": "VOR-DME",
-            "frequency_khz": "115000",
-            "latitude_deg": "-4.404739856719971",
-            "longitude_deg": "15.41819953918457",
-            "elevation_ft": "1079",
-            "iso_country": "CD",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.123",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FZAA"
-        },
-        {
-            "id": "91959",
-            "filename": "Ndjili_NDB_CD",
-            "ident": "OK",
-            "name": "Ndjili",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "-4.342289924621582",
-            "longitude_deg": "15.516200065612793",
-            "elevation_ft": "",
-            "iso_country": "CD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.094",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FZAA"
-        }
-    ]
+    }
 }

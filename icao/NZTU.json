@@ -121,29 +121,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canterbury,_New_Zealand",
         "keywords": "Airports in Canterbury Region"
-    },
-    "navaids": [
-        {
-            "id": "94664",
-            "filename": "Timaru_NDB-DME_NZ",
-            "ident": "TU",
-            "name": "Timaru",
-            "type": "NDB-DME",
-            "frequency_khz": "366",
-            "latitude_deg": "-44.30839920043945",
-            "longitude_deg": "171.22500610351562",
-            "elevation_ft": "89",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "-44.3084",
-            "dme_longitude_deg": "171.225",
-            "dme_elevation_ft": "89",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "23.43",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "NZTU"
-        }
-    ]
+    }
 }

@@ -101,29 +101,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires",
         "keywords": "Airports in Capital federal"
-    },
-    "navaids": [
-        {
-            "id": "92049",
-            "filename": "Aeroparque_Jorge_Newbery_NDB_AR",
-            "ident": "OP",
-            "name": "Aeroparque Jorge Newbery",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "-34.51789855957031",
-            "longitude_deg": "-58.48649978637695",
-            "elevation_ft": "",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.025",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SABE"
-        }
-    ]
+    }
 }

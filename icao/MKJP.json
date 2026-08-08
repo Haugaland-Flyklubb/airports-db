@@ -93,51 +93,5 @@
         "iso_country": "JM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kingston_Parish",
         "keywords": "Airports in Kingston"
-    },
-    "navaids": [
-        {
-            "id": "89800",
-            "filename": "Kingston_NDB_JM",
-            "ident": "KIN",
-            "name": "Kingston",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "17.966400146484375",
-            "longitude_deg": "-76.875",
-            "elevation_ft": "",
-            "iso_country": "JM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.122",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MKJP"
-        },
-        {
-            "id": "91081",
-            "filename": "Manley_VOR-DME_JM",
-            "ident": "MLY",
-            "name": "Manley",
-            "type": "VOR-DME",
-            "frequency_khz": "115500",
-            "latitude_deg": "17.930200576782227",
-            "longitude_deg": "-76.77760314941406",
-            "elevation_ft": "10",
-            "iso_country": "JM",
-            "dme_frequency_khz": "115500",
-            "dme_channel": "102X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-6.144",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MKJP"
-        }
-    ]
+    }
 }

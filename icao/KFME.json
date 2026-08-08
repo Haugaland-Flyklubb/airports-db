@@ -85,29 +85,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
         "keywords": "Airports in Maryland"
-    },
-    "navaids": [
-        {
-            "id": "86430",
-            "filename": "Anne_Arundel_NDB_US",
-            "ident": "BUH",
-            "name": "Anne Arundel",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "39.08409881591797",
-            "longitude_deg": "-76.76000213623047",
-            "elevation_ft": "128",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.555",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KFME"
-        }
-    ]
+    }
 }

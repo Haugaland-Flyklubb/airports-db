@@ -93,29 +93,5 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Jawf_Region",
         "keywords": "Airports in Al Jawf Region"
-    },
-    "navaids": [
-        {
-            "id": "85349",
-            "filename": "Al_Jouf_VORTAC_SA",
-            "ident": "AJF",
-            "name": "Al Jouf",
-            "type": "VORTAC",
-            "frequency_khz": "117800",
-            "latitude_deg": "29.788999557495117",
-            "longitude_deg": "40.07419967651367",
-            "elevation_ft": "2261",
-            "iso_country": "SA",
-            "dme_frequency_khz": "117800",
-            "dme_channel": "125X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.29",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OESK"
-        }
-    ]
+    }
 }

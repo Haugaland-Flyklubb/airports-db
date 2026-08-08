@@ -69,51 +69,5 @@
         "iso_country": "BD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sylhet_Division",
         "keywords": "Sylhet bibhag"
-    },
-    "navaids": [
-        {
-            "id": "94115",
-            "filename": "Sylhet_NDB_BD",
-            "ident": "SY",
-            "name": "Sylhet",
-            "type": "NDB",
-            "frequency_khz": "372",
-            "latitude_deg": "24.955400466918945",
-            "longitude_deg": "91.87239837646484",
-            "elevation_ft": "104",
-            "iso_country": "BD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.272",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VGSY"
-        },
-        {
-            "id": "94132",
-            "filename": "Sylhet_VOR_BD",
-            "ident": "SYT",
-            "name": "Sylhet",
-            "type": "VOR",
-            "frequency_khz": "116400",
-            "latitude_deg": "24.960800170898438",
-            "longitude_deg": "91.86689758300781",
-            "elevation_ft": "50",
-            "iso_country": "BD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.272",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VGSY"
-        }
-    ]
+    }
 }

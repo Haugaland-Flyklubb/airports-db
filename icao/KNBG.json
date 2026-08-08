@@ -139,29 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
         "keywords": "Airports in Louisiana"
-    },
-    "navaids": [
-        {
-            "id": "89001",
-            "filename": "Harvey_VORTAC_US",
-            "ident": "HRV",
-            "name": "Harvey",
-            "type": "VORTAC",
-            "frequency_khz": "114100",
-            "latitude_deg": "29.850200653076172",
-            "longitude_deg": "-90.00299835205078",
-            "elevation_ft": "3",
-            "iso_country": "US",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.001",
-            "magnetic_variation_deg": "0.294",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KNBG"
-        }
-    ]
+    }
 }

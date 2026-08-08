@@ -161,29 +161,5 @@
         "iso_country": "AE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Abu_Dhabi_(emirate)",
         "keywords": "Abu Ẓaby"
-    },
-    "navaids": [
-        {
-            "id": "90690",
-            "filename": "Al_Dhafra_VORTAC_AE",
-            "ident": "MA",
-            "name": "Al Dhafra",
-            "type": "VORTAC",
-            "frequency_khz": "114900",
-            "latitude_deg": "24.24679946899414",
-            "longitude_deg": "54.5453987121582",
-            "elevation_ft": "76",
-            "iso_country": "AE",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.005",
-            "magnetic_variation_deg": "1.25",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OMAM"
-        }
-    ]
+    }
 }

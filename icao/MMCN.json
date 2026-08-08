@@ -85,29 +85,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sonora",
         "keywords": "Airports in Sonora"
-    },
-    "navaids": [
-        {
-            "id": "86688",
-            "filename": "Obregon_VOR-DME_MX",
-            "ident": "CEN",
-            "name": "Obregon",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "27.394800186157227",
-            "longitude_deg": "-109.83699798583984",
-            "elevation_ft": "205",
-            "iso_country": "MX",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.006",
-            "magnetic_variation_deg": "9.567",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMCN"
-        }
-    ]
+    }
 }

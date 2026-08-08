@@ -101,51 +101,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Stavropol_Krai",
         "keywords": "Airports in Stavropol Krai"
-    },
-    "navaids": [
-        {
-            "id": "90825",
-            "filename": "Mineralnyye_Vody_NDB_RU",
-            "ident": "MD",
-            "name": "Mineralnyye Vody",
-            "type": "NDB",
-            "frequency_khz": "583",
-            "latitude_deg": "44.25830078125",
-            "longitude_deg": "43.00830078125",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.22",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "URMM"
-        },
-        {
-            "id": "91375",
-            "filename": "Mineralnyye_Vody_NDB_RU",
-            "ident": "MW",
-            "name": "Mineralnyye Vody",
-            "type": "NDB",
-            "frequency_khz": "583",
-            "latitude_deg": "44.19499969482422",
-            "longitude_deg": "43.15169906616211",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.215",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "URMM"
-        }
-    ]
+    }
 }

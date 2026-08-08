@@ -77,51 +77,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Friuli-Venezia_Giulia",
         "keywords": "FV"
-    },
-    "navaids": [
-        {
-            "id": "93007",
-            "filename": "Ronchi_VOR-DME_IT",
-            "ident": "RCH",
-            "name": "Ronchi",
-            "type": "VOR-DME",
-            "frequency_khz": "114200",
-            "latitude_deg": "45.82979965209961",
-            "longitude_deg": "13.480299949645996",
-            "elevation_ft": "61",
-            "iso_country": "IT",
-            "dme_frequency_khz": "114200",
-            "dme_channel": "089X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.04",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "LIPQ"
-        },
-        {
-            "id": "93198",
-            "filename": "Ronchi_NDB_IT",
-            "ident": "RON",
-            "name": "Ronchi",
-            "type": "NDB",
-            "frequency_khz": "396",
-            "latitude_deg": "45.82820129394531",
-            "longitude_deg": "13.360699653625488",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.024",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LIPQ"
-        }
-    ]
+    }
 }

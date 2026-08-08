@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
         "keywords": "Airports in Maryland"
-    },
-    "navaids": [
-        {
-            "id": "93419",
-            "filename": "Colbe_NDB_US",
-            "ident": "SB",
-            "name": "Colbe",
-            "type": "NDB",
-            "frequency_khz": "278",
-            "latitude_deg": "38.27870178222656",
-            "longitude_deg": "-75.40579986572266",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.347",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSBY"
-        },
-        {
-            "id": "93439",
-            "filename": "Salisbury_VORTAC_US",
-            "ident": "SBY",
-            "name": "Salisbury",
-            "type": "VORTAC",
-            "frequency_khz": "111200",
-            "latitude_deg": "38.345001220703125",
-            "longitude_deg": "-75.5105972290039",
-            "elevation_ft": "50",
-            "iso_country": "US",
-            "dme_frequency_khz": "111200",
-            "dme_channel": "049X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-12.001",
-            "magnetic_variation_deg": "-11.318",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KSBY"
-        }
-    ]
+    }
 }

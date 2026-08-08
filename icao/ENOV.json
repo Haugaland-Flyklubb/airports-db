@@ -59,51 +59,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Møre_og_Romsdal",
         "keywords": "Airports in Møre og Romsdal"
-    },
-    "navaids": [
-        {
-            "id": "86461",
-            "filename": "Baatvik_NDB_NO",
-            "ident": "BVK",
-            "name": "Baatvik",
-            "type": "NDB",
-            "frequency_khz": "362",
-            "latitude_deg": "62.24089813232422",
-            "longitude_deg": "5.810080051422119",
-            "elevation_ft": "",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.14",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ENOV"
-        },
-        {
-            "id": "88926",
-            "filename": "Hovden_NDB_NO",
-            "ident": "HN",
-            "name": "Hovden",
-            "type": "NDB",
-            "frequency_khz": "389",
-            "latitude_deg": "62.163299560546875",
-            "longitude_deg": "6.0216898918151855",
-            "elevation_ft": "",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.072",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ENOV"
-        }
-    ]
+    }
 }

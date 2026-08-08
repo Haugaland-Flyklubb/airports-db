@@ -85,51 +85,5 @@
         "iso_country": "LT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kaunas_County",
         "keywords": "Airports in Kaunas County"
-    },
-    "navaids": [
-        {
-            "id": "89891",
-            "filename": "Kaunas_VOR-DME_LT",
-            "ident": "KNA",
-            "name": "Kaunas",
-            "type": "VOR-DME",
-            "frequency_khz": "114400",
-            "latitude_deg": "54.959800720214844",
-            "longitude_deg": "24.06529998779297",
-            "elevation_ft": "256",
-            "iso_country": "LT",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.007",
-            "magnetic_variation_deg": "5.377",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EYKA"
-        },
-        {
-            "id": "90061",
-            "filename": "Kaunas_NDB_LT",
-            "ident": "KUS",
-            "name": "Kaunas",
-            "type": "NDB",
-            "frequency_khz": "343",
-            "latitude_deg": "54.96580123901367",
-            "longitude_deg": "24.12190055847168",
-            "elevation_ft": "",
-            "iso_country": "LT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.388",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "EYKA"
-        }
-    ]
+    }
 }

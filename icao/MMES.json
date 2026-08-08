@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California",
         "keywords": "Airports in Baja California"
-    },
-    "navaids": [
-        {
-            "id": "87769",
-            "filename": "Ensenada_NDB_MX",
-            "ident": "ENS",
-            "name": "Ensenada",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "31.795900344848633",
-            "longitude_deg": "-116.60700225830078",
-            "elevation_ft": "66",
-            "iso_country": "MX",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.182",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MMES"
-        }
-    ]
+    }
 }

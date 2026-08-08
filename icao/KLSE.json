@@ -161,51 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
         "keywords": "Airports in Wisconsin"
-    },
-    "navaids": [
-        {
-            "id": "90543",
-            "filename": "Mindi_NDB_US",
-            "ident": "LS",
-            "name": "Mindi",
-            "type": "NDB",
-            "frequency_khz": "272",
-            "latitude_deg": "44.00400161743164",
-            "longitude_deg": "-91.26080322265625",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.215",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KLSE"
-        },
-        {
-            "id": "90548",
-            "filename": "La_Crosse_VOR-DME_US",
-            "ident": "LSE",
-            "name": "La Crosse",
-            "type": "VOR-DME",
-            "frequency_khz": "108400",
-            "latitude_deg": "43.8760986328125",
-            "longitude_deg": "-91.25599670410156",
-            "elevation_ft": "650",
-            "iso_country": "US",
-            "dme_frequency_khz": "108400",
-            "dme_channel": "021X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.001",
-            "magnetic_variation_deg": "-0.205",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KLSE"
-        }
-    ]
+    }
 }

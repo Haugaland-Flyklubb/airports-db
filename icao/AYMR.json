@@ -59,29 +59,5 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Highlands_Province",
         "keywords": "Airports in Southern Highlands Province"
-    },
-    "navaids": [
-        {
-            "id": "91176",
-            "filename": "Moro_NDB-DME_PG",
-            "ident": "MOR",
-            "name": "Moro",
-            "type": "NDB-DME",
-            "frequency_khz": "164",
-            "latitude_deg": "-6.362870216369629",
-            "longitude_deg": "143.25399780273438",
-            "elevation_ft": "2750",
-            "iso_country": "PG",
-            "dme_frequency_khz": "114600",
-            "dme_channel": "093X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.061",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "AYMR"
-        }
-    ]
+    }
 }

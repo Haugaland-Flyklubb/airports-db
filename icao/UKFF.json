@@ -123,29 +123,5 @@
         "iso_country": "UA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Republic_of_Crimea",
         "keywords": "Автономна Республіка Крим"
-    },
-    "navaids": [
-        {
-            "id": "93775",
-            "filename": "Simferopol_VOR-DME_UA",
-            "ident": "SMF",
-            "name": "Simferopol",
-            "type": "VOR-DME",
-            "frequency_khz": "116600",
-            "latitude_deg": "45.05139923095703",
-            "longitude_deg": "33.97930145263672",
-            "elevation_ft": "623",
-            "iso_country": "UA",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.372",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "UKFF"
-        }
-    ]
+    }
 }

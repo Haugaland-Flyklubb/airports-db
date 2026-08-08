@@ -85,29 +85,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jalisco",
         "keywords": "Airports in Jalisco"
-    },
-    "navaids": [
-        {
-            "id": "92819",
-            "filename": "Vallarta_VOR-DME_MX",
-            "ident": "PVR",
-            "name": "Vallarta",
-            "type": "VOR-DME",
-            "frequency_khz": "116600",
-            "latitude_deg": "20.673099517822266",
-            "longitude_deg": "-105.25700378417969",
-            "elevation_ft": "23",
-            "iso_country": "MX",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.006",
-            "magnetic_variation_deg": "8.028",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMPR"
-        }
-    ]
+    }
 }

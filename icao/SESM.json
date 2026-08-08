@@ -85,51 +85,5 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pastaza_Province",
         "keywords": "Airports in Pastaza Province"
-    },
-    "navaids": [
-        {
-            "id": "92281",
-            "filename": "Pastaza_VOR-DME_EC",
-            "ident": "PAV",
-            "name": "Pastaza",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "-1.513890027999878",
-            "longitude_deg": "-78.0447006225586",
-            "elevation_ft": "3257",
-            "iso_country": "EC",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-1.438",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SESM"
-        },
-        {
-            "id": "92787",
-            "filename": "Pastaza_NDB_EC",
-            "ident": "PTZ",
-            "name": "Pastaza",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "-1.5162299871444702",
-            "longitude_deg": "-78.04329681396484",
-            "elevation_ft": "3465",
-            "iso_country": "EC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.439",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "SESM"
-        }
-    ]
+    }
 }

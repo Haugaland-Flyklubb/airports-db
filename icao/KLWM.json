@@ -155,29 +155,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
         "keywords": "Airports in Massachusetts"
-    },
-    "navaids": [
-        {
-            "id": "90635",
-            "filename": "Haget_NDB_US",
-            "ident": "LW",
-            "name": "Haget",
-            "type": "NDB",
-            "frequency_khz": "402",
-            "latitude_deg": "42.644100189208984",
-            "longitude_deg": "-71.19709777832031",
-            "elevation_ft": "130",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.243",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KLWM"
-        }
-    ]
+    }
 }

@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
         "keywords": "Airports in Maine"
-    },
-    "navaids": [
-        {
-            "id": "92657",
-            "filename": "Presque_Isle_VOR-DME_US",
-            "ident": "PQI",
-            "name": "Presque Isle",
-            "type": "VOR-DME",
-            "frequency_khz": "116400",
-            "latitude_deg": "46.774200439453125",
-            "longitude_deg": "-68.09449768066406",
-            "elevation_ft": "590",
-            "iso_country": "US",
-            "dme_frequency_khz": "116400",
-            "dme_channel": "111X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-21.001",
-            "magnetic_variation_deg": "-18.267",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KCAR"
-        }
-    ]
+    }
 }

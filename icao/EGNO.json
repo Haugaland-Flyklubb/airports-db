@@ -115,51 +115,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "95510",
-            "filename": "Warton_TACAN_GB",
-            "ident": "WTN",
-            "name": "Warton",
-            "type": "TACAN",
-            "frequency_khz": "113200",
-            "latitude_deg": "53.740299224853516",
-            "longitude_deg": "-2.8928399085998535",
-            "elevation_ft": "54",
-            "iso_country": "GB",
-            "dme_frequency_khz": "113200",
-            "dme_channel": "079X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.457",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EGNO"
-        },
-        {
-            "id": "95512",
-            "filename": "Warton_NDB_GB",
-            "ident": "WTN",
-            "name": "Warton",
-            "type": "NDB",
-            "frequency_khz": "337",
-            "latitude_deg": "53.75170135498047",
-            "longitude_deg": "-2.8522400856018066",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.448",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGNO"
-        }
-    ]
+    }
 }

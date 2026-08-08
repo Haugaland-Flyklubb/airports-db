@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "92847",
-            "filename": "Fort_Chipewyan_NDB_CA",
-            "ident": "PY",
-            "name": "Fort Chipewyan",
-            "type": "NDB",
-            "frequency_khz": "207",
-            "latitude_deg": "58.76169967651367",
-            "longitude_deg": "-111.10900115966797",
-            "elevation_ft": "761",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "17.122",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYPY"
-        }
-    ]
+    }
 }

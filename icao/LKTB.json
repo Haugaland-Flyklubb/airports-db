@@ -115,51 +115,5 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Moravian_Region",
         "keywords": "Jihomoravský kraj"
-    },
-    "navaids": [
-        {
-            "id": "86223",
-            "filename": "Brno_VOR-DME_CZ",
-            "ident": "BNO",
-            "name": "Brno",
-            "type": "VOR-DME",
-            "frequency_khz": "113900",
-            "latitude_deg": "49.15010070800781",
-            "longitude_deg": "16.69260025024414",
-            "elevation_ft": "800",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "2.565",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LKTB"
-        },
-        {
-            "id": "86224",
-            "filename": "Brno_NDB_CZ",
-            "ident": "BNO",
-            "name": "Brno",
-            "type": "NDB",
-            "frequency_khz": "368",
-            "latitude_deg": "49.144798278808594",
-            "longitude_deg": "16.768600463867188",
-            "elevation_ft": "",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.576",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LKTB"
-        }
-    ]
+    }
 }

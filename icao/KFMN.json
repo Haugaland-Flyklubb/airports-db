@@ -139,29 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    },
-    "navaids": [
-        {
-            "id": "93251",
-            "filename": "Rattlesnake_VORTAC_US",
-            "ident": "RSK",
-            "name": "Rattlesnake",
-            "type": "VORTAC",
-            "frequency_khz": "115300",
-            "latitude_deg": "36.7484016418457",
-            "longitude_deg": "-108.0989990234375",
-            "elevation_ft": "5823",
-            "iso_country": "US",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "14.001",
-            "magnetic_variation_deg": "10.403",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KFMN"
-        }
-    ]
+    }
 }

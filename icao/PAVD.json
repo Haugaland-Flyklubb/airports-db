@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "91126",
-            "filename": "Mineral_Creek_NDB_US",
-            "ident": "MNL",
-            "name": "Mineral Creek",
-            "type": "NDB",
-            "frequency_khz": "524",
-            "latitude_deg": "61.12419891357422",
-            "longitude_deg": "-146.3520050048828",
-            "elevation_ft": "16",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "21.334",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "PAVD"
-        }
-    ]
+    }
 }

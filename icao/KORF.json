@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": "Virginian airports"
-    },
-    "navaids": [
-        {
-            "id": "92078",
-            "filename": "Ingle_NDB_US",
-            "ident": "OR",
-            "name": "Ingle",
-            "type": "NDB",
-            "frequency_khz": "329",
-            "latitude_deg": "36.84040069580078",
-            "longitude_deg": "-76.25129699707031",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.379",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KORF"
-        },
-        {
-            "id": "92087",
-            "filename": "Norfolk_VORTAC_US",
-            "ident": "ORF",
-            "name": "Norfolk",
-            "type": "VORTAC",
-            "frequency_khz": "116900",
-            "latitude_deg": "36.89189910888672",
-            "longitude_deg": "-76.20030212402344",
-            "elevation_ft": "20",
-            "iso_country": "US",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.001",
-            "magnetic_variation_deg": "-10.407",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KORF"
-        }
-    ]
+    }
 }

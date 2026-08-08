@@ -163,51 +163,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Delaware",
         "keywords": "Airports in Delaware"
-    },
-    "navaids": [
-        {
-            "id": "87495",
-            "filename": "Dover_TACAN_US",
-            "ident": "DOV",
-            "name": "Dover",
-            "type": "TACAN",
-            "frequency_khz": "110000",
-            "latitude_deg": "39.132301330566406",
-            "longitude_deg": "-75.46730041503906",
-            "elevation_ft": "17",
-            "iso_country": "US",
-            "dme_frequency_khz": "110000",
-            "dme_channel": "037X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.001",
-            "magnetic_variation_deg": "-11.474",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "KDOV"
-        },
-        {
-            "id": "87764",
-            "filename": "Smyrna_VORTAC_US",
-            "ident": "ENO",
-            "name": "Smyrna",
-            "type": "VORTAC",
-            "frequency_khz": "111400",
-            "latitude_deg": "39.2317008972168",
-            "longitude_deg": "-75.51589965820312",
-            "elevation_ft": "10",
-            "iso_country": "US",
-            "dme_frequency_khz": "111400",
-            "dme_channel": "051X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.001",
-            "magnetic_variation_deg": "-11.473",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KDOV"
-        }
-    ]
+    }
 }

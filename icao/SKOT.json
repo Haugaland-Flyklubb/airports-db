@@ -77,29 +77,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Antioquía_Department",
         "keywords": "Airports in Antioquía Department"
-    },
-    "navaids": [
-        {
-            "id": "92145",
-            "filename": "Otu_VOR-DME_CO",
-            "ident": "OTU",
-            "name": "Otu",
-            "type": "VOR-DME",
-            "frequency_khz": "115400",
-            "latitude_deg": "7.019859790802002",
-            "longitude_deg": "-74.70980072021484",
-            "elevation_ft": "2407",
-            "iso_country": "CO",
-            "dme_frequency_khz": "115400",
-            "dme_channel": "101X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-5.369",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKOT"
-        }
-    ]
+    }
 }

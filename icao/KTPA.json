@@ -153,29 +153,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    },
-    "navaids": [
-        {
-            "id": "94536",
-            "filename": "Cosme_NDB_US",
-            "ident": "TP",
-            "name": "Cosme",
-            "type": "NDB",
-            "frequency_khz": "368",
-            "latitude_deg": "28.08530044555664",
-            "longitude_deg": "-82.52529907226562",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.231",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KTPA"
-        }
-    ]
+    }
 }

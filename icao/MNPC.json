@@ -69,29 +69,5 @@
         "iso_country": "NI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Caribbean_Coast_Autonomous_Region",
         "keywords": "Atlántico Norte"
-    },
-    "navaids": [
-        {
-            "id": "92862",
-            "filename": "Puerto_Cabezas_VOR-DME_NI",
-            "ident": "PZA",
-            "name": "Puerto Cabezas",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "14.04520034790039",
-            "longitude_deg": "-83.38829803466797",
-            "elevation_ft": "52",
-            "iso_country": "NI",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.191",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MNPC"
-        }
-    ]
+    }
 }

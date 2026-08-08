@@ -169,51 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
         "keywords": "Airports in Louisiana"
-    },
-    "navaids": [
-        {
-            "id": "90290",
-            "filename": "Laffs_NDB_US",
-            "ident": "LF",
-            "name": "Laffs",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "30.2893009185791",
-            "longitude_deg": "-91.90789794921875",
-            "elevation_ft": "22",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.425",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KLFT"
-        },
-        {
-            "id": "90298",
-            "filename": "Lafayette_VORTAC_US",
-            "ident": "LFT",
-            "name": "Lafayette",
-            "type": "VORTAC",
-            "frequency_khz": "109800",
-            "latitude_deg": "30.19379997253418",
-            "longitude_deg": "-91.99259948730469",
-            "elevation_ft": "37",
-            "iso_country": "US",
-            "dme_frequency_khz": "109800",
-            "dme_channel": "035X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "1.463",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KLFT"
-        }
-    ]
+    }
 }

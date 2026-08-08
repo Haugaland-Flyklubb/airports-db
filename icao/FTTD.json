@@ -69,51 +69,5 @@
         "iso_country": "TD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Logone_Occidental_(region)",
         "keywords": "Airports in Logone Occidental"
-    },
-    "navaids": [
-        {
-            "id": "91103",
-            "filename": "Moundou_NDB_TD",
-            "ident": "MN",
-            "name": "Moundou",
-            "type": "NDB",
-            "frequency_khz": "315",
-            "latitude_deg": "8.617779731750488",
-            "longitude_deg": "16.072500228881836",
-            "elevation_ft": "1463",
-            "iso_country": "TD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.214",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FTTD"
-        },
-        {
-            "id": "94263",
-            "filename": "Moundou_VOR_TD",
-            "ident": "TD",
-            "name": "Moundou",
-            "type": "VOR",
-            "frequency_khz": "114700",
-            "latitude_deg": "8.637080192565918",
-            "longitude_deg": "16.0802001953125",
-            "elevation_ft": "1420",
-            "iso_country": "TD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.212",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FTTD"
-        }
-    ]
+    }
 }

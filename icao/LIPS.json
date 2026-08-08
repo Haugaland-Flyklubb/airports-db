@@ -101,51 +101,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Veneto",
         "keywords": "VN"
-    },
-    "navaids": [
-        {
-            "id": "89339",
-            "filename": "Istrana_TACAN_IT",
-            "ident": "ISA",
-            "name": "Istrana",
-            "type": "TACAN",
-            "frequency_khz": "111700",
-            "latitude_deg": "45.6875",
-            "longitude_deg": "12.116900444030762",
-            "elevation_ft": "189",
-            "iso_country": "IT",
-            "dme_frequency_khz": "111700",
-            "dme_channel": "054X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.455",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LIPS"
-        },
-        {
-            "id": "89340",
-            "filename": "Istrana_NDB_IT",
-            "ident": "ISA",
-            "name": "Istrana",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "45.69860076904297",
-            "longitude_deg": "12.228300094604492",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.471",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LIPS"
-        }
-    ]
+    }
 }

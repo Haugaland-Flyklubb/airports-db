@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": "Virginian airports"
-    },
-    "navaids": [
-        {
-            "id": "95064",
-            "filename": "Bridgewater_NDB_US",
-            "ident": "VBW",
-            "name": "Bridgewater",
-            "type": "NDB",
-            "frequency_khz": "241",
-            "latitude_deg": "38.3656005859375",
-            "longitude_deg": "-78.96119689941406",
-            "elevation_ft": "1180",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.108",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "VBW"
-        }
-    ]
+    }
 }

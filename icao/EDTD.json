@@ -77,51 +77,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
         "keywords": "Baden-Wuerttemberg"
-    },
-    "navaids": [
-        {
-            "id": "87492",
-            "filename": "Donaueschingen_DME_DE",
-            "ident": "DON",
-            "name": "Donaueschingen",
-            "type": "DME",
-            "frequency_khz": "110550",
-            "latitude_deg": "47.96070098876953",
-            "longitude_deg": "8.522549629211426",
-            "elevation_ft": "2212",
-            "iso_country": "DE",
-            "dme_frequency_khz": "110550",
-            "dme_channel": "042Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.501",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDTD"
-        },
-        {
-            "id": "87568",
-            "filename": "Donaueschingen_NDB_DE",
-            "ident": "DVI",
-            "name": "Donaueschingen",
-            "type": "NDB",
-            "frequency_khz": "490",
-            "latitude_deg": "47.96070098876953",
-            "longitude_deg": "8.522709846496582",
-            "elevation_ft": "",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.502",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDTD"
-        }
-    ]
+    }
 }

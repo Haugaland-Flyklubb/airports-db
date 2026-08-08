@@ -109,29 +109,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    },
-    "navaids": [
-        {
-            "id": "93246",
-            "filename": "Muffe_NDB_US",
-            "ident": "RS",
-            "name": "Muffe",
-            "type": "NDB",
-            "frequency_khz": "336",
-            "latitude_deg": "26.48430061340332",
-            "longitude_deg": "-81.83460235595703",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.336",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KRSW"
-        }
-    ]
+    }
 }

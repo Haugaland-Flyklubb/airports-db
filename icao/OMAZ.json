@@ -69,29 +69,5 @@
         "iso_country": "AE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Abu_Dhabi_(emirate)",
         "keywords": "Abu Ẓaby"
-    },
-    "navaids": [
-        {
-            "id": "96048",
-            "filename": "Zirku_NDB_AE",
-            "ident": "ZKU",
-            "name": "Zirku",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "24.861099243164062",
-            "longitude_deg": "53.079200744628906",
-            "elevation_ft": "",
-            "iso_country": "AE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.415",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OMAZ"
-        }
-    ]
+    }
 }

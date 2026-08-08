@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Campeche",
         "keywords": "Airports in Campeche"
-    },
-    "navaids": [
-        {
-            "id": "86990",
-            "filename": "Campeche_VOR-DME_MX",
-            "ident": "CPE",
-            "name": "Campeche",
-            "type": "VOR-DME",
-            "frequency_khz": "116200",
-            "latitude_deg": "19.830799102783203",
-            "longitude_deg": "-90.50389862060547",
-            "elevation_ft": "34",
-            "iso_country": "MX",
-            "dme_frequency_khz": "116200",
-            "dme_channel": "109X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.002",
-            "magnetic_variation_deg": "1.546",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMCP"
-        }
-    ]
+    }
 }

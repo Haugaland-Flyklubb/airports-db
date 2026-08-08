@@ -91,29 +91,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mendoza_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "91062",
-            "filename": "Malargue_VOR-DME_AR",
-            "ident": "MLG",
-            "name": "Malargue",
-            "type": "VOR-DME",
-            "frequency_khz": "117200",
-            "latitude_deg": "-35.48609924316406",
-            "longitude_deg": "-69.57859802246094",
-            "elevation_ft": "4665",
-            "iso_country": "AR",
-            "dme_frequency_khz": "117200",
-            "dme_channel": "119X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.007",
-            "magnetic_variation_deg": "3.364",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SAMM"
-        }
-    ]
+    }
 }

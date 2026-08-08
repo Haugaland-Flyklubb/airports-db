@@ -107,51 +107,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
         "keywords": "Airports in North Dakota"
-    },
-    "navaids": [
-        {
-            "id": "87374",
-            "filename": "Noson_NDB_US",
-            "ident": "DI",
-            "name": "Noson",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "46.687801361083984",
-            "longitude_deg": "-102.71199798583984",
-            "elevation_ft": "2527",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.495",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KDIK"
-        },
-        {
-            "id": "87378",
-            "filename": "Dickinson_VORTAC_US",
-            "ident": "DIK",
-            "name": "Dickinson",
-            "type": "VORTAC",
-            "frequency_khz": "112900",
-            "latitude_deg": "46.86000061035156",
-            "longitude_deg": "-102.77400207519531",
-            "elevation_ft": "2520",
-            "iso_country": "US",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "14.001",
-            "magnetic_variation_deg": "8.528",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KDIK"
-        }
-    ]
+    }
 }

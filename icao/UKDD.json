@@ -93,29 +93,5 @@
         "iso_country": "UA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dnipropetrovsk_Oblast",
         "keywords": "Airports in Dnipropetrovsk Oblast"
-    },
-    "navaids": [
-        {
-            "id": "87460",
-            "filename": "Dnipropetrovsk_VOR-DME_UA",
-            "ident": "DNP",
-            "name": "Dnipropetrovsk",
-            "type": "VOR-DME",
-            "frequency_khz": "112500",
-            "latitude_deg": "48.359500885009766",
-            "longitude_deg": "35.102500915527344",
-            "elevation_ft": "509",
-            "iso_country": "UA",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.36",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "UKDD"
-        }
-    ]
+    }
 }

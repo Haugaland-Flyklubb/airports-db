@@ -181,51 +181,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hawke%27s_Bay",
         "keywords": "Airports in Hawke's Bay Region"
-    },
-    "navaids": [
-        {
-            "id": "91686",
-            "filename": "Napier_VOR-DME_NZ",
-            "ident": "NR",
-            "name": "Napier",
-            "type": "VOR-DME",
-            "frequency_khz": "113800",
-            "latitude_deg": "-39.453800201416016",
-            "longitude_deg": "176.86900329589844",
-            "elevation_ft": "6",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "21.107",
-            "magnetic_variation_deg": "21.07",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NZNR"
-        },
-        {
-            "id": "91690",
-            "filename": "Napier_NDB_NZ",
-            "ident": "NR",
-            "name": "Napier",
-            "type": "NDB",
-            "frequency_khz": "354",
-            "latitude_deg": "-39.4723014831543",
-            "longitude_deg": "176.8719940185547",
-            "elevation_ft": "",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "21.077",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NZNR"
-        }
-    ]
+    }
 }

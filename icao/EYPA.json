@@ -93,29 +93,5 @@
         "iso_country": "LT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Klaip%C4%97da_County",
         "keywords": "Airports in Klaipėda County"
-    },
-    "navaids": [
-        {
-            "id": "92555",
-            "filename": "Palanga_NDB_LT",
-            "ident": "PN",
-            "name": "Palanga",
-            "type": "NDB",
-            "frequency_khz": "407",
-            "latitude_deg": "55.95640182495117",
-            "longitude_deg": "21.087099075317383",
-            "elevation_ft": "",
-            "iso_country": "LT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.556",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EYPA"
-        }
-    ]
+    }
 }

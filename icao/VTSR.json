@@ -85,51 +85,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ranong_province",
         "keywords": "Airports in Ranong Province"
-    },
-    "navaids": [
-        {
-            "id": "92965",
-            "filename": "Ranong_VOR-DME_TH",
-            "ident": "RAN",
-            "name": "Ranong",
-            "type": "VOR-DME",
-            "frequency_khz": "113400",
-            "latitude_deg": "9.77865982055664",
-            "longitude_deg": "98.58390045166016",
-            "elevation_ft": "57",
-            "iso_country": "TH",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.347",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTSR"
-        },
-        {
-            "id": "93156",
-            "filename": "Ranong_NDB_TH",
-            "ident": "RN",
-            "name": "Ranong",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "9.783309936523438",
-            "longitude_deg": "98.59100341796875",
-            "elevation_ft": "",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.346",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VTSR"
-        }
-    ]
+    }
 }

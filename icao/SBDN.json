@@ -85,51 +85,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    },
-    "navaids": [
-        {
-            "id": "92695",
-            "filename": "Prudente_VOR-DME_BR",
-            "ident": "PRR",
-            "name": "Prudente",
-            "type": "VOR-DME",
-            "frequency_khz": "113500",
-            "latitude_deg": "-22.172700881958008",
-            "longitude_deg": "-51.42570114135742",
-            "elevation_ft": "1477",
-            "iso_country": "BR",
-            "dme_frequency_khz": "113500",
-            "dme_channel": "082X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-16.007",
-            "magnetic_variation_deg": "-17.256",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBDN"
-        },
-        {
-            "id": "92696",
-            "filename": "Prudente_NDB_BR",
-            "ident": "PRR",
-            "name": "Prudente",
-            "type": "NDB",
-            "frequency_khz": "225",
-            "latitude_deg": "-22.183300018310547",
-            "longitude_deg": "-51.37519836425781",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-17.261",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBDN"
-        }
-    ]
+    }
 }

@@ -91,29 +91,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
         "keywords": "Airports in Gujarat"
-    },
-    "navaids": [
-        {
-            "id": "89513",
-            "filename": "Jamnagar_VOR-DME_IN",
-            "ident": "JMR",
-            "name": "Jamnagar",
-            "type": "VOR-DME",
-            "frequency_khz": "115000",
-            "latitude_deg": "22.468599319458008",
-            "longitude_deg": "70.17109680175781",
-            "elevation_ft": "49",
-            "iso_country": "IN",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.105",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VAJM"
-        }
-    ]
+    }
 }

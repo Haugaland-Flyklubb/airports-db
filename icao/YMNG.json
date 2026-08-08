@@ -99,51 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    },
-    "navaids": [
-        {
-            "id": "91121",
-            "filename": "Mangalore_VOR_AU",
-            "ident": "MNG",
-            "name": "Mangalore",
-            "type": "VOR",
-            "frequency_khz": "113200",
-            "latitude_deg": "-36.88610076904297",
-            "longitude_deg": "145.19400024414062",
-            "elevation_ft": "467",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.011",
-            "magnetic_variation_deg": "11.253",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YMNG"
-        },
-        {
-            "id": "91122",
-            "filename": "Mangalore_NDB_AU",
-            "ident": "MNG",
-            "name": "Mangalore",
-            "type": "NDB",
-            "frequency_khz": "254",
-            "latitude_deg": "-36.89720153808594",
-            "longitude_deg": "145.18099975585938",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.252",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YMNG"
-        }
-    ]
+    }
 }

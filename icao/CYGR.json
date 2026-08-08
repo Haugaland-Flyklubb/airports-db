@@ -115,51 +115,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "88530",
-            "filename": "Grindstone_NDB_CA",
-            "ident": "GR",
-            "name": "Grindstone",
-            "type": "NDB",
-            "frequency_khz": "370",
-            "latitude_deg": "47.375",
-            "longitude_deg": "-61.90719985961914",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.18",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYGR"
-        },
-        {
-            "id": "95681",
-            "filename": "Grindstone_VOR-DME_CA",
-            "ident": "YGR",
-            "name": "Grindstone",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "47.430301666259766",
-            "longitude_deg": "-61.77410125732422",
-            "elevation_ft": "63",
-            "iso_country": "CA",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-24.001",
-            "magnetic_variation_deg": "-20.206",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYGR"
-        }
-    ]
+    }
 }

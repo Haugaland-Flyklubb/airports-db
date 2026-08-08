@@ -91,29 +91,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "85081",
-            "filename": "Weyburn_NDB_CA",
-            "ident": "3N",
-            "name": "Weyburn",
-            "type": "NDB",
-            "frequency_khz": "298",
-            "latitude_deg": "49.6963996887207",
-            "longitude_deg": "-103.80400085449219",
-            "elevation_ft": "1963",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.496",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CJE3"
-        }
-    ]
+    }
 }

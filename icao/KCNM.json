@@ -159,51 +159,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    },
-    "navaids": [
-        {
-            "id": "86919",
-            "filename": "Carlsbad_VORTAC_US",
-            "ident": "CNM",
-            "name": "Carlsbad",
-            "type": "VORTAC",
-            "frequency_khz": "116300",
-            "latitude_deg": "32.25659942626953",
-            "longitude_deg": "-104.22599792480469",
-            "elevation_ft": "3250",
-            "iso_country": "US",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.001",
-            "magnetic_variation_deg": "8.313",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KCNM"
-        },
-        {
-            "id": "87133",
-            "filename": "Carlz_NDB_US",
-            "ident": "CV",
-            "name": "Carlz",
-            "type": "NDB",
-            "frequency_khz": "402",
-            "latitude_deg": "32.26679992675781",
-            "longitude_deg": "-104.33899688720703",
-            "elevation_ft": "3840",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.343",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KCNM"
-        }
-    ]
+    }
 }

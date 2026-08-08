@@ -139,51 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    },
-    "navaids": [
-        {
-            "id": "89035",
-            "filename": "Lanee_NDB_US",
-            "ident": "HU",
-            "name": "Lanee",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "38.617000579833984",
-            "longitude_deg": "-121.60299682617188",
-            "elevation_ft": "15",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "14.511",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSMF"
-        },
-        {
-            "id": "93767",
-            "filename": "Metre_NDB_US",
-            "ident": "SM",
-            "name": "Metre",
-            "type": "NDB",
-            "frequency_khz": "230",
-            "latitude_deg": "38.79499816894531",
-            "longitude_deg": "-121.5989990234375",
-            "elevation_ft": "15",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "14.539",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSMF"
-        }
-    ]
+    }
 }

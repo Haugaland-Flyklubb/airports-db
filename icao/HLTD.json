@@ -91,51 +91,5 @@
         "iso_country": "LY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nalut_District",
         "keywords": "Nālūt"
-    },
-    "navaids": [
-        {
-            "id": "88246",
-            "filename": "Ghadames_VOR-DME_LY",
-            "ident": "GAD",
-            "name": "Ghadames",
-            "type": "VOR-DME",
-            "frequency_khz": "115800",
-            "latitude_deg": "30.165000915527344",
-            "longitude_deg": "9.742219924926758",
-            "elevation_ft": "992",
-            "iso_country": "LY",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.493",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HLTD"
-        },
-        {
-            "id": "88320",
-            "filename": "Ghadames_NDB_LY",
-            "ident": "GDS",
-            "name": "Ghadames",
-            "type": "NDB",
-            "frequency_khz": "347",
-            "latitude_deg": "30.1299991607666",
-            "longitude_deg": "9.501669883728027",
-            "elevation_ft": "",
-            "iso_country": "LY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.469",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HLTD"
-        }
-    ]
+    }
 }

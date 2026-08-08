@@ -107,51 +107,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony-Anhalt",
         "keywords": "Sachsen-Anhalt"
-    },
-    "navaids": [
-        {
-            "id": "90917",
-            "filename": "Magdeburg_DME_DE",
-            "ident": "MGD",
-            "name": "Magdeburg",
-            "type": "DME",
-            "frequency_khz": "115450",
-            "latitude_deg": "52.07709884643555",
-            "longitude_deg": "11.630900382995605",
-            "elevation_ft": "302",
-            "iso_country": "DE",
-            "dme_frequency_khz": "115450",
-            "dme_channel": "101Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.387",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDBM"
-        },
-        {
-            "id": "91346",
-            "filename": "Magdeburg_NDB_DE",
-            "ident": "MU",
-            "name": "Magdeburg",
-            "type": "NDB",
-            "frequency_khz": "367",
-            "latitude_deg": "52.074100494384766",
-            "longitude_deg": "11.648300170898438",
-            "elevation_ft": "",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.39",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDBM"
-        }
-    ]
+    }
 }

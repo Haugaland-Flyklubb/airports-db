@@ -69,29 +69,5 @@
         "iso_country": "CF",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mamb%C3%A9r%C3%A9-Kad%C3%A9%C3%AF",
         "keywords": "Airports in Mambéré-Kadéï"
-    },
-    "navaids": [
-        {
-            "id": "86375",
-            "filename": "Berberati_VOR_CF",
-            "ident": "BT",
-            "name": "Berberati",
-            "type": "VOR",
-            "frequency_khz": "113900",
-            "latitude_deg": "4.229360103607178",
-            "longitude_deg": "15.78380012512207",
-            "elevation_ft": "1942",
-            "iso_country": "CF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.061",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FEFT"
-        }
-    ]
+    }
 }

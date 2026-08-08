@@ -101,51 +101,5 @@
         "iso_country": "CW",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "89027",
-            "filename": "Hato_TACAN_AN",
-            "ident": "HTO",
-            "name": "Hato",
-            "type": "TACAN",
-            "frequency_khz": "134100",
-            "latitude_deg": "12.1899995803833",
-            "longitude_deg": "-68.95500183105469",
-            "elevation_ft": "45",
-            "iso_country": "BQ",
-            "dme_frequency_khz": "134100",
-            "dme_channel": "068X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.001",
-            "magnetic_variation_deg": "-10.105",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "TNCC"
-        },
-        {
-            "id": "92467",
-            "filename": "Curacao_VOR-DME_AN",
-            "ident": "PJG",
-            "name": "Curacao",
-            "type": "VOR-DME",
-            "frequency_khz": "116700",
-            "latitude_deg": "12.201199531555176",
-            "longitude_deg": "-69.0094985961914",
-            "elevation_ft": "29",
-            "iso_country": "BQ",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.001",
-            "magnetic_variation_deg": "-10.086",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "TNCC"
-        }
-    ]
+    }
 }

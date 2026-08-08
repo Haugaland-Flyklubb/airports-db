@@ -77,29 +77,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Entre_R%C3%ADos_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "87375",
-            "filename": "Concordia_NDB_AR",
-            "ident": "DIA",
-            "name": "Concordia",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "-31.301700592041016",
-            "longitude_deg": "-58.00419998168945",
-            "elevation_ft": "115",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.069",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SAAC"
-        }
-    ]
+    }
 }

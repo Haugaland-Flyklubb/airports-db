@@ -77,29 +77,5 @@
         "iso_country": "CX",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "95563",
-            "filename": "Christmas_Island_VOR-DME_CX",
-            "ident": "XMX",
-            "name": "Christmas Island",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "-10.430299758911133",
-            "longitude_deg": "105.69000244140625",
-            "elevation_ft": "1000",
-            "iso_country": "CX",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "-10.4302",
-            "dme_longitude_deg": "105.69",
-            "dme_elevation_ft": "1000",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.195",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YPXM"
-        }
-    ]
+    }
 }

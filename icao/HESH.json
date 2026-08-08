@@ -115,51 +115,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Sinai_Governorate",
         "keywords": "Airports in South Sinai Governorate"
-    },
-    "navaids": [
-        {
-            "id": "93587",
-            "filename": "Sharm_El_Sheikh_VOR-DME_EG",
-            "ident": "SHM",
-            "name": "Sharm El Sheikh",
-            "type": "VOR-DME",
-            "frequency_khz": "114200",
-            "latitude_deg": "27.99810028076172",
-            "longitude_deg": "34.413299560546875",
-            "elevation_ft": "130",
-            "iso_country": "EG",
-            "dme_frequency_khz": "114200",
-            "dme_channel": "089X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "3.185",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HESH"
-        },
-        {
-            "id": "93688",
-            "filename": "Sharm_El_Sheikh_NDB_EG",
-            "ident": "SKH",
-            "name": "Sharm El Sheikh",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "27.969999313354492",
-            "longitude_deg": "34.38029861450195",
-            "elevation_ft": "210",
-            "iso_country": "EG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.183",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "HESH"
-        }
-    ]
+    }
 }

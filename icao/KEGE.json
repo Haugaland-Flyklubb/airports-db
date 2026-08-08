@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
         "keywords": "Airports in Colorado"
-    },
-    "navaids": [
-        {
-            "id": "94113",
-            "filename": "Snow_VOR-DME_US",
-            "ident": "SXW",
-            "name": "Snow",
-            "type": "VOR-DME",
-            "frequency_khz": "109200",
-            "latitude_deg": "39.62950134277344",
-            "longitude_deg": "-106.99099731445312",
-            "elevation_ft": "8060",
-            "iso_country": "US",
-            "dme_frequency_khz": "109200",
-            "dme_channel": "029X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.001",
-            "magnetic_variation_deg": "10.35",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KEGE"
-        }
-    ]
+    }
 }

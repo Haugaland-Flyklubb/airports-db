@@ -91,29 +91,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/T%C3%A1chira",
         "keywords": "Airports in Táchira State"
-    },
-    "navaids": [
-        {
-            "id": "92691",
-            "filename": "Paramillo_NDB_VE",
-            "ident": "PRM",
-            "name": "Paramillo",
-            "type": "NDB",
-            "frequency_khz": "310",
-            "latitude_deg": "7.803060054779053",
-            "longitude_deg": "-72.19979858398438",
-            "elevation_ft": "3281",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.274",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SVPM"
-        }
-    ]
+    }
 }

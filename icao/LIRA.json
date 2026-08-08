@@ -109,51 +109,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lazio",
         "keywords": "LZ"
-    },
-    "navaids": [
-        {
-            "id": "86793",
-            "filename": "Ciampino_NDB_IT",
-            "ident": "CIA",
-            "name": "Ciampino",
-            "type": "NDB",
-            "frequency_khz": "412",
-            "latitude_deg": "41.864898681640625",
-            "longitude_deg": "12.560799598693848",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.469",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LIRA"
-        },
-        {
-            "id": "93195",
-            "filename": "Roma_VOR-DME_IT",
-            "ident": "ROM",
-            "name": "Roma",
-            "type": "VOR-DME",
-            "frequency_khz": "110800",
-            "latitude_deg": "41.80459976196289",
-            "longitude_deg": "12.58810043334961",
-            "elevation_ft": "426",
-            "iso_country": "IT",
-            "dme_frequency_khz": "110800",
-            "dme_channel": "045X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.483",
-            "usageType": "RNAV",
-            "power": "MEDIUM",
-            "associated_airport": "LIRA"
-        }
-    ]
+    }
 }

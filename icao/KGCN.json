@@ -125,29 +125,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
         "keywords": "Airports in Arizona"
-    },
-    "navaids": [
-        {
-            "id": "88302",
-            "filename": "Grand_Canyon_VOR-DME_US",
-            "ident": "GCN",
-            "name": "Grand Canyon",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "35.96030044555664",
-            "longitude_deg": "-112.14600372314453",
-            "elevation_ft": "6670",
-            "iso_country": "US",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "15.001",
-            "magnetic_variation_deg": "11.598",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KGCN"
-        }
-    ]
+    }
 }

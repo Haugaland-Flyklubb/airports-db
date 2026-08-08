@@ -77,29 +77,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mandalay_Region",
         "keywords": "Airports in Mandalay Division"
-    },
-    "navaids": [
-        {
-            "id": "85994",
-            "filename": "Bagan_NDB_MM",
-            "ident": "BGN",
-            "name": "Bagan",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "21.180999755859375",
-            "longitude_deg": "94.9281997680664",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.423",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VYBG"
-        }
-    ]
+    }
 }

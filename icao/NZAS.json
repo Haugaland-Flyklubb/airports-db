@@ -143,29 +143,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canterbury,_New_Zealand",
         "keywords": "Airports in Canterbury Region"
-    },
-    "navaids": [
-        {
-            "id": "85616",
-            "filename": "Ashburton_NDB_NZ",
-            "ident": "AS",
-            "name": "Ashburton",
-            "type": "NDB",
-            "frequency_khz": "254",
-            "latitude_deg": "-43.90480041503906",
-            "longitude_deg": "171.8070068359375",
-            "elevation_ft": "",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "23.301",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NZAS"
-        }
-    ]
+    }
 }

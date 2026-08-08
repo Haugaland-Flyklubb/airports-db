@@ -59,29 +59,5 @@
         "iso_country": "ML",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kayes_Region",
         "keywords": "Airports in Kayes Region"
-    },
-    "navaids": [
-        {
-            "id": "91134",
-            "filename": "Manantali_NDB_ML",
-            "ident": "MNT",
-            "name": "Manantali",
-            "type": "NDB",
-            "frequency_khz": "239",
-            "latitude_deg": "13.250699996948242",
-            "longitude_deg": "-10.51710033416748",
-            "elevation_ft": "",
-            "iso_country": "ML",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.157",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ML-0001"
-        }
-    ]
+    }
 }

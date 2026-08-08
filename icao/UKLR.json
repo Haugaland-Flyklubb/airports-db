@@ -91,51 +91,5 @@
         "iso_country": "UA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rivne_Oblast",
         "keywords": "Airports in Rivne Oblast"
-    },
-    "navaids": [
-        {
-            "id": "93017",
-            "filename": "Rivne_NDB_UA",
-            "ident": "RD",
-            "name": "Rivne",
-            "type": "NDB",
-            "frequency_khz": "330",
-            "latitude_deg": "50.61640167236328",
-            "longitude_deg": "26.131500244140625",
-            "elevation_ft": "",
-            "iso_country": "UA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.211",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "UKLR"
-        },
-        {
-            "id": "93297",
-            "filename": "Rivne_NDB_UA",
-            "ident": "RW",
-            "name": "Rivne",
-            "type": "NDB",
-            "frequency_khz": "330",
-            "latitude_deg": "50.62799835205078",
-            "longitude_deg": "26.081499099731445",
-            "elevation_ft": "",
-            "iso_country": "UA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.205",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "UKLR"
-        }
-    ]
+    }
 }

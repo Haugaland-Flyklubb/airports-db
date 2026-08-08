@@ -69,51 +69,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Catamarca_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "86586",
-            "filename": "Catamarca_VOR-DME_AR",
-            "ident": "CAT",
-            "name": "Catamarca",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "-28.583599090576172",
-            "longitude_deg": "-65.74669647216797",
-            "elevation_ft": "1522",
-            "iso_country": "AR",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "-3.219",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SANC"
-        },
-        {
-            "id": "86589",
-            "filename": "Catamarca_NDB_AR",
-            "ident": "CAT",
-            "name": "Catamarca",
-            "type": "NDB",
-            "frequency_khz": "235",
-            "latitude_deg": "-28.595800399780273",
-            "longitude_deg": "-65.756103515625",
-            "elevation_ft": "1522",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.211",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SANC"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "MG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fianarantsoa",
         "keywords": "Airports in Fianarantsoa"
-    },
-    "navaids": [
-        {
-            "id": "95279",
-            "filename": "Fianarantsoa_NDB_MG",
-            "ident": "VSF",
-            "name": "Fianarantsoa",
-            "type": "NDB",
-            "frequency_khz": "322",
-            "latitude_deg": "-21.440099716186523",
-            "longitude_deg": "47.11090087890625",
-            "elevation_ft": "",
-            "iso_country": "MG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.151",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FMSF"
-        }
-    ]
+    }
 }

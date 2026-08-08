@@ -101,51 +101,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "85283",
-            "filename": "Nabesna_NDB_US",
-            "ident": "AES",
-            "name": "Nabesna",
-            "type": "NDB",
-            "frequency_khz": "390",
-            "latitude_deg": "62.96580123901367",
-            "longitude_deg": "-141.88800048828125",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "23.426",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PAOR"
-        },
-        {
-            "id": "92101",
-            "filename": "Northway_VORTAC_US",
-            "ident": "ORT",
-            "name": "Northway",
-            "type": "VORTAC",
-            "frequency_khz": "116300",
-            "latitude_deg": "62.947200775146484",
-            "longitude_deg": "-141.91299438476562",
-            "elevation_ft": "1178",
-            "iso_country": "US",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "30.001",
-            "magnetic_variation_deg": "23.415",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PAOR"
-        }
-    ]
+    }
 }

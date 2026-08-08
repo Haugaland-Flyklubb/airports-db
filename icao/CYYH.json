@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
         "keywords": "Airports in Nunavut"
-    },
-    "navaids": [
-        {
-            "id": "95921",
-            "filename": "Taloyoak_NDB_CA",
-            "ident": "YYH",
-            "name": "Taloyoak",
-            "type": "NDB",
-            "frequency_khz": "290",
-            "latitude_deg": "69.54119873046875",
-            "longitude_deg": "-93.52570343017578",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.358",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYYH"
-        }
-    ]
+    }
 }

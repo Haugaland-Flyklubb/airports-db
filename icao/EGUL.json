@@ -157,29 +157,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "90382",
-            "filename": "Lakenheath_TACAN_GB",
-            "ident": "LKH",
-            "name": "Lakenheath",
-            "type": "TACAN",
-            "frequency_khz": "110200",
-            "latitude_deg": "52.40639877319336",
-            "longitude_deg": "0.5479639768600464",
-            "elevation_ft": "91",
-            "iso_country": "GB",
-            "dme_frequency_khz": "110200",
-            "dme_channel": "039X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.002",
-            "magnetic_variation_deg": "-2.098",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EGUL"
-        }
-    ]
+    }
 }

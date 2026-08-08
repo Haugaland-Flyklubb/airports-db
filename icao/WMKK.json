@@ -185,29 +185,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Selangor",
         "keywords": "Airports in Selangor"
-    },
-    "navaids": [
-        {
-            "id": "95168",
-            "filename": "Kuala_Lumpur_VOR-DME_MY",
-            "ident": "VKL",
-            "name": "Kuala Lumpur",
-            "type": "VOR-DME",
-            "frequency_khz": "116100",
-            "latitude_deg": "2.724440097808838",
-            "longitude_deg": "101.73799896240234",
-            "elevation_ft": "261",
-            "iso_country": "MY",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.042",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "WMKK"
-        }
-    ]
+    }
 }

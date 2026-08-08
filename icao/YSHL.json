@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "95481",
-            "filename": "Wollongong_NDB_AU",
-            "ident": "WOL",
-            "name": "Wollongong",
-            "type": "NDB",
-            "frequency_khz": "239",
-            "latitude_deg": "-34.557899475097656",
-            "longitude_deg": "150.79100036621094",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.436",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YSHL"
-        }
-    ]
+    }
 }

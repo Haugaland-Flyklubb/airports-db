@@ -69,51 +69,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sicily",
         "keywords": "SC"
-    },
-    "navaids": [
-        {
-            "id": "90497",
-            "filename": "Lampedusa_VOR-DME_IT",
-            "ident": "LPD",
-            "name": "Lampedusa",
-            "type": "VOR-DME",
-            "frequency_khz": "108600",
-            "latitude_deg": "35.499698638916016",
-            "longitude_deg": "12.630999565124512",
-            "elevation_ft": "59",
-            "iso_country": "IT",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "35.5003",
-            "dme_longitude_deg": "12.6314",
-            "dme_elevation_ft": "59",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "1.338",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "LICD"
-        },
-        {
-            "id": "90499",
-            "filename": "Lampedusa_NDB_IT",
-            "ident": "LPD",
-            "name": "Lampedusa",
-            "type": "NDB",
-            "frequency_khz": "373",
-            "latitude_deg": "35.50040054321289",
-            "longitude_deg": "12.615900039672852",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.337",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LICD"
-        }
-    ]
+    }
 }

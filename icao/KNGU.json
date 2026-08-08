@@ -149,29 +149,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": "Virginian airports"
-    },
-    "navaids": [
-        {
-            "id": "91542",
-            "filename": "Chambers_TACAN_US",
-            "ident": "NGU",
-            "name": "Chambers",
-            "type": "TACAN",
-            "frequency_khz": "111100",
-            "latitude_deg": "36.939998626708984",
-            "longitude_deg": "-76.27729797363281",
-            "elevation_ft": "45",
-            "iso_country": "US",
-            "dme_frequency_khz": "111100",
-            "dme_channel": "048X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10.004",
-            "magnetic_variation_deg": "-10.385",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KNGU"
-        }
-    ]
+    }
 }

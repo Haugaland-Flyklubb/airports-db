@@ -59,29 +59,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
         "keywords": "Airports in Bolívar State"
-    },
-    "navaids": [
-        {
-            "id": "87728",
-            "filename": "El_Dorado_NDB_VE",
-            "ident": "ELO",
-            "name": "El Dorado",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "6.733059883117676",
-            "longitude_deg": "-61.58369827270508",
-            "elevation_ft": "318",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.567",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SVED"
-        }
-    ]
+    }
 }

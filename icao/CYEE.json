@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "95654",
-            "filename": "Midland_VOR-DME_CA",
-            "ident": "YEE",
-            "name": "Midland",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "44.58169937133789",
-            "longitude_deg": "-79.79309844970703",
-            "elevation_ft": "800",
-            "iso_country": "CA",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10.001",
-            "magnetic_variation_deg": "-10.313",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYEE"
-        }
-    ]
+    }
 }

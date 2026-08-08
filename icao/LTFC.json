@@ -77,51 +77,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Isparta_Province",
         "keywords": "Airports in Isparta Province"
-    },
-    "navaids": [
-        {
-            "id": "89304",
-            "filename": "Isparta_VOR-DME_TR",
-            "ident": "IPT",
-            "name": "Isparta",
-            "type": "VOR-DME",
-            "frequency_khz": "117500",
-            "latitude_deg": "37.85110092163086",
-            "longitude_deg": "30.358299255371094",
-            "elevation_ft": "2841",
-            "iso_country": "TR",
-            "dme_frequency_khz": "117500",
-            "dme_channel": "122X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.011",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTFC"
-        },
-        {
-            "id": "89305",
-            "filename": "Isparta_NDB_TR",
-            "ident": "IPT",
-            "name": "Isparta",
-            "type": "NDB",
-            "frequency_khz": "349",
-            "latitude_deg": "37.85329818725586",
-            "longitude_deg": "30.358299255371094",
-            "elevation_ft": "",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.03",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LTFC"
-        }
-    ]
+    }
 }

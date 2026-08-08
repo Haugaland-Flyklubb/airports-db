@@ -69,29 +69,5 @@
         "iso_country": "BQ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bonaire",
         "keywords": "Airports in Bonaire"
-    },
-    "navaids": [
-        {
-            "id": "92463",
-            "filename": "Bonaire_NDB_AN",
-            "ident": "PJB",
-            "name": "Bonaire",
-            "type": "NDB",
-            "frequency_khz": "321",
-            "latitude_deg": "12.132800102233887",
-            "longitude_deg": "-68.28099822998047",
-            "elevation_ft": "20",
-            "iso_country": "BQ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.346",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "TNCB"
-        }
-    ]
+    }
 }

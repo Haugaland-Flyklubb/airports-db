@@ -99,51 +99,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    },
-    "navaids": [
-        {
-            "id": "93755",
-            "filename": "Fort_Smith_NDB_CA",
-            "ident": "SM",
-            "name": "Fort Smith",
-            "type": "NDB",
-            "frequency_khz": "254",
-            "latitude_deg": "59.97140121459961",
-            "longitude_deg": "-111.85700225830078",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "18.121",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYSM"
-        },
-        {
-            "id": "95839",
-            "filename": "Fort_Smith_VOR-DME_CA",
-            "ident": "YSM",
-            "name": "Fort Smith",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "60.020301818847656",
-            "longitude_deg": "-111.96900177001953",
-            "elevation_ft": "708",
-            "iso_country": "CA",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "19.001",
-            "magnetic_variation_deg": "18.18",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYSM"
-        }
-    ]
+    }
 }

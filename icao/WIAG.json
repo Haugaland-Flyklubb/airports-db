@@ -35,29 +35,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lampung",
         "keywords": "Airports in Lampung"
-    },
-    "navaids": [
-        {
-            "id": "85355",
-            "filename": "Astra_Kesetra_NDB_ID",
-            "ident": "AK",
-            "name": "Astra Kesetra",
-            "type": "NDB",
-            "frequency_khz": "221",
-            "latitude_deg": "-4.612420082092285",
-            "longitude_deg": "105.23100280761719",
-            "elevation_ft": "63",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.309",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WIAG"
-        }
-    ]
+    }
 }

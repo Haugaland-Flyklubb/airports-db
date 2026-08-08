@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "88114",
-            "filename": "Fredericks_Point_NDB_US",
-            "ident": "FPN",
-            "name": "Fredericks Point",
-            "type": "NDB",
-            "frequency_khz": "372",
-            "latitude_deg": "56.792301177978516",
-            "longitude_deg": "-132.8209991455078",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "22.19",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "PAPG"
-        }
-    ]
+    }
 }

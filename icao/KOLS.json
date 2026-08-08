@@ -93,51 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
         "keywords": "Airports in Arizona"
-    },
-    "navaids": [
-        {
-            "id": "87773",
-            "filename": "Nogales_NDB_US",
-            "ident": "ENZ",
-            "name": "Nogales",
-            "type": "NDB",
-            "frequency_khz": "394",
-            "latitude_deg": "31.42140007019043",
-            "longitude_deg": "-110.84600067138672",
-            "elevation_ft": "3915",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.494",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KOLS"
-        },
-        {
-            "id": "92006",
-            "filename": "Nogales_VOR-DME_US",
-            "ident": "OLS",
-            "name": "Nogales",
-            "type": "VOR-DME",
-            "frequency_khz": "108200",
-            "latitude_deg": "31.415000915527344",
-            "longitude_deg": "-110.8489990234375",
-            "elevation_ft": "3870",
-            "iso_country": "US",
-            "dme_frequency_khz": "108200",
-            "dme_channel": "019X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.001",
-            "magnetic_variation_deg": "10.494",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KOLS"
-        }
-    ]
+    }
 }

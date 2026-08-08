@@ -115,51 +115,5 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Luanda_ Province",
         "keywords": "Airports in Luanda Province"
-    },
-    "navaids": [
-        {
-            "id": "90579",
-            "filename": "Luanda_NDB_AO",
-            "ident": "LU",
-            "name": "Luanda",
-            "type": "NDB",
-            "frequency_khz": "258",
-            "latitude_deg": "-8.79263973236084",
-            "longitude_deg": "13.303899765014648",
-            "elevation_ft": "",
-            "iso_country": "AO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.322",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FNLU"
-        },
-        {
-            "id": "95217",
-            "filename": "Luanda_VOR-DME_AO",
-            "ident": "VNA",
-            "name": "Luanda",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "-8.845479965209961",
-            "longitude_deg": "13.2475004196167",
-            "elevation_ft": "243",
-            "iso_country": "AO",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.007",
-            "magnetic_variation_deg": "-5.349",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FNLU"
-        }
-    ]
+    }
 }

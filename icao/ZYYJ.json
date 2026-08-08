@@ -69,51 +69,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jilin",
         "keywords": "Airports in Jilin Province"
-    },
-    "navaids": [
-        {
-            "id": "89416",
-            "filename": "Dexin_NDB_CN",
-            "ident": "JA",
-            "name": "Dexin",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "42.869998931884766",
-            "longitude_deg": "129.33799743652344",
-            "elevation_ft": "",
-            "iso_country": "CN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.427",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ZYYJ"
-        },
-        {
-            "id": "95767",
-            "filename": "Yanji_VOR-DME_CN",
-            "ident": "YNJ",
-            "name": "Yanji",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "42.88330078125",
-            "longitude_deg": "129.43600463867188",
-            "elevation_ft": "661",
-            "iso_country": "CN",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.433",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZYYJ"
-        }
-    ]
+    }
 }

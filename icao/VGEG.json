@@ -85,51 +85,5 @@
         "iso_country": "BD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chittagong_Division",
         "keywords": "Chittagong bibhag"
-    },
-    "navaids": [
-        {
-            "id": "87083",
-            "filename": "Chittagong_VOR-DME_BD",
-            "ident": "CTG",
-            "name": "Chittagong",
-            "type": "VOR-DME",
-            "frequency_khz": "113400",
-            "latitude_deg": "22.257699966430664",
-            "longitude_deg": "91.82749938964844",
-            "elevation_ft": "45",
-            "iso_country": "BD",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "-0.372",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VGEG"
-        },
-        {
-            "id": "87680",
-            "filename": "Chittagong_NDB_BD",
-            "ident": "EG",
-            "name": "Chittagong",
-            "type": "NDB",
-            "frequency_khz": "287",
-            "latitude_deg": "22.251300811767578",
-            "longitude_deg": "91.81790161132812",
-            "elevation_ft": "",
-            "iso_country": "BD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.372",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "VGEG"
-        }
-    ]
+    }
 }

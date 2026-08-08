@@ -155,51 +155,5 @@
         "iso_country": "PR",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "93643",
-            "filename": "Patty_NDB_PR",
-            "ident": "SJ",
-            "name": "Patty",
-            "type": "NDB",
-            "frequency_khz": "330",
-            "latitude_deg": "18.408899307250977",
-            "longitude_deg": "-66.089599609375",
-            "elevation_ft": "10",
-            "iso_country": "PR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.349",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "TJSJ"
-        },
-        {
-            "id": "93658",
-            "filename": "San_Juan_VORTAC_PR",
-            "ident": "SJU",
-            "name": "San Juan",
-            "type": "VORTAC",
-            "frequency_khz": "114000",
-            "latitude_deg": "18.446300506591797",
-            "longitude_deg": "-65.989501953125",
-            "elevation_ft": "7",
-            "iso_country": "PR",
-            "dme_frequency_khz": "114000",
-            "dme_channel": "087X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-11.006",
-            "magnetic_variation_deg": "-12.382",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "TJSJ"
-        }
-    ]
+    }
 }

@@ -169,51 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    },
-    "navaids": [
-        {
-            "id": "88652",
-            "filename": "Teock_NDB_US",
-            "ident": "GW",
-            "name": "Teock",
-            "type": "NDB",
-            "frequency_khz": "349",
-            "latitude_deg": "33.59189987182617",
-            "longitude_deg": "-90.08439636230469",
-            "elevation_ft": "150",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.08",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KGWO"
-        },
-        {
-            "id": "93903",
-            "filename": "Sidon_VORTAC_US",
-            "ident": "SQS",
-            "name": "Sidon",
-            "type": "VORTAC",
-            "frequency_khz": "114700",
-            "latitude_deg": "33.46390151977539",
-            "longitude_deg": "-90.27729797363281",
-            "elevation_ft": "125",
-            "iso_country": "US",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "0.171",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KGWO"
-        }
-    ]
+    }
 }

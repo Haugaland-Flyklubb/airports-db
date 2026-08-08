@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    },
-    "navaids": [
-        {
-            "id": "91589",
-            "filename": "Joe_Williams_TACAN_US",
-            "ident": "NJW",
-            "name": "Joe Williams",
-            "type": "TACAN",
-            "frequency_khz": "133450",
-            "latitude_deg": "32.795101165771484",
-            "longitude_deg": "-88.83529663085938",
-            "elevation_ft": "540",
-            "iso_country": "US",
-            "dme_frequency_khz": "133450",
-            "dme_channel": "061Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.011",
-            "magnetic_variation_deg": "-0.402",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MS96"
-        }
-    ]
+    }
 }

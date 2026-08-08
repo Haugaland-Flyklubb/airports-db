@@ -153,29 +153,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "85911",
-            "filename": "Boscombe_Down_TACAN_GB",
-            "ident": "BDN",
-            "name": "Boscombe Down",
-            "type": "TACAN",
-            "frequency_khz": "108200",
-            "latitude_deg": "51.14899826049805",
-            "longitude_deg": "-1.7526500225067139",
-            "elevation_ft": "430",
-            "iso_country": "GB",
-            "dme_frequency_khz": "108200",
-            "dme_channel": "019X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.012",
-            "magnetic_variation_deg": "-2.502",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EGDM"
-        }
-    ]
+    }
 }

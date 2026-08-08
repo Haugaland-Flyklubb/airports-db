@@ -115,51 +115,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85058",
-            "filename": "Lloydminster_DME_CA",
-            "ident": "1T",
-            "name": "Lloydminster",
-            "type": "DME",
-            "frequency_khz": "110700",
-            "latitude_deg": "53.31330108642578",
-            "longitude_deg": "-110.08000183105469",
-            "elevation_ft": "2210",
-            "iso_country": "CA",
-            "dme_frequency_khz": "110700",
-            "dme_channel": "044X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "14.486",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYLL"
-        },
-        {
-            "id": "95738",
-            "filename": "Lloydminster_NDB_CA",
-            "ident": "YLL",
-            "name": "Lloydminster",
-            "type": "NDB",
-            "frequency_khz": "241",
-            "latitude_deg": "53.3130989074707",
-            "longitude_deg": "-110.08200073242188",
-            "elevation_ft": "2194",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "14.486",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYLL"
-        }
-    ]
+    }
 }

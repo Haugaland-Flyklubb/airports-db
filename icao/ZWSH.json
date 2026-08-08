@@ -69,29 +69,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Xinjiang",
         "keywords": "Airports in Xinjiang Autonomous Region"
-    },
-    "navaids": [
-        {
-            "id": "89770",
-            "filename": "Kashi_VOR-DME_CN",
-            "ident": "KHG",
-            "name": "Kashi",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "39.54669952392578",
-            "longitude_deg": "76.02330017089844",
-            "elevation_ft": "4564",
-            "iso_country": "CN",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.322",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZWSH"
-        }
-    ]
+    }
 }

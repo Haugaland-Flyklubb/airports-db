@@ -77,51 +77,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
         "keywords": "Airports in Bolívar State"
-    },
-    "navaids": [
-        {
-            "id": "88486",
-            "filename": "Guayana_VORTAC_VE",
-            "ident": "GNA",
-            "name": "Guayana",
-            "type": "VORTAC",
-            "frequency_khz": "114700",
-            "latitude_deg": "8.29613971710205",
-            "longitude_deg": "-62.75170135498047",
-            "elevation_ft": "472",
-            "iso_country": "VE",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-11.007",
-            "magnetic_variation_deg": "-13.24",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVPR"
-        },
-        {
-            "id": "88488",
-            "filename": "Guayana_NDB_VE",
-            "ident": "GNA",
-            "name": "Guayana",
-            "type": "NDB",
-            "frequency_khz": "317",
-            "latitude_deg": "8.299750328063965",
-            "longitude_deg": "-62.733699798583984",
-            "elevation_ft": "",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.238",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SVPR"
-        }
-    ]
+    }
 }

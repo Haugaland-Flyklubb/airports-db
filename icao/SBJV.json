@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina_(state)",
         "keywords": "Airports in Santa Catarina"
-    },
-    "navaids": [
-        {
-            "id": "88244",
-            "filename": "Gabi_NDB_BR",
-            "ident": "GAB",
-            "name": "Gabi",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "-26.372699737548828",
-            "longitude_deg": "-48.724300384521484",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.004",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBJV"
-        },
-        {
-            "id": "89524",
-            "filename": "Joinville_VOR-DME_BR",
-            "ident": "JNV",
-            "name": "Joinville",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "-26.222299575805664",
-            "longitude_deg": "-48.79800033569336",
-            "elevation_ft": "15",
-            "iso_country": "BR",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.004",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBJV"
-        }
-    ]
+    }
 }

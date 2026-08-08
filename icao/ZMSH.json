@@ -59,29 +59,5 @@
         "iso_country": "MN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dornogovi_Province",
         "keywords": "East Gobi"
-    },
-    "navaids": [
-        {
-            "id": "87448",
-            "filename": "Sainshand_NDB_MN",
-            "ident": "DN",
-            "name": "Sainshand",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "44.90409851074219",
-            "longitude_deg": "110.1259994506836",
-            "elevation_ft": "3000",
-            "iso_country": "MN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.064",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZMSH"
-        }
-    ]
+    }
 }

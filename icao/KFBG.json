@@ -125,29 +125,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
         "keywords": "Airports in North Carolina"
-    },
-    "navaids": [
-        {
-            "id": "87984",
-            "filename": "Fort_Bragg_NDB_US",
-            "ident": "FGP",
-            "name": "Fort Bragg",
-            "type": "NDB",
-            "frequency_khz": "393",
-            "latitude_deg": "35.13880157470703",
-            "longitude_deg": "-78.8125",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.275",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KFBG"
-        }
-    ]
+    }
 }

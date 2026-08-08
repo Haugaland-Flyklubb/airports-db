@@ -99,51 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
         "keywords": "Tasmanian airports"
-    },
-    "navaids": [
-        {
-            "id": "87506",
-            "filename": "Devonport_VOR-DME_AU",
-            "ident": "DPO",
-            "name": "Devonport",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "-41.16999816894531",
-            "longitude_deg": "146.4340057373047",
-            "elevation_ft": "43",
-            "iso_country": "AU",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "-41.1703",
-            "dme_longitude_deg": "146.434",
-            "dme_elevation_ft": "43",
-            "slaved_variation_deg": "13.007",
-            "magnetic_variation_deg": "13.335",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YDPO"
-        },
-        {
-            "id": "87507",
-            "filename": "Devonport_NDB_AU",
-            "ident": "DPO",
-            "name": "Devonport",
-            "type": "NDB",
-            "frequency_khz": "281",
-            "latitude_deg": "-41.17390060424805",
-            "longitude_deg": "146.4290008544922",
-            "elevation_ft": "25",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "13.334",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YDPO"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hormozgan_Province",
         "keywords": "Airports in Hormozgan Province"
-    },
-    "navaids": [
-        {
-            "id": "93627",
-            "filename": "Sirri_Island_VOR-DME_IR",
-            "ident": "SIR",
-            "name": "Sirri Island",
-            "type": "VOR-DME",
-            "frequency_khz": "113750",
-            "latitude_deg": "25.914199829101562",
-            "longitude_deg": "54.5364990234375",
-            "elevation_ft": "42",
-            "iso_country": "IR",
-            "dme_frequency_khz": "113750",
-            "dme_channel": "084Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.501",
-            "magnetic_variation_deg": "1.42",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIBS"
-        },
-        {
-            "id": "93629",
-            "filename": "Sirri_Island_NDB_IR",
-            "ident": "SIR",
-            "name": "Sirri Island",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "25.903400421142578",
-            "longitude_deg": "54.54010009765625",
-            "elevation_ft": "42",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.419",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "OIBS"
-        }
-    ]
+    }
 }

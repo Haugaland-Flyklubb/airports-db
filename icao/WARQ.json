@@ -93,51 +93,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jawa_Tengah",
         "keywords": "Airports in Jawa Tengah"
-    },
-    "navaids": [
-        {
-            "id": "93735",
-            "filename": "Solo_VOR-DME_ID",
-            "ident": "SLO",
-            "name": "Solo",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "-7.507719993591309",
-            "longitude_deg": "110.79399871826172",
-            "elevation_ft": "394",
-            "iso_country": "ID",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.011",
-            "magnetic_variation_deg": "1.144",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WARQ"
-        },
-        {
-            "id": "93828",
-            "filename": "Solo_NDB_ID",
-            "ident": "SO",
-            "name": "Solo",
-            "type": "NDB",
-            "frequency_khz": "255",
-            "latitude_deg": "-7.5149102210998535",
-            "longitude_deg": "110.74700164794922",
-            "elevation_ft": "421",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.141",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WARQ"
-        }
-    ]
+    }
 }

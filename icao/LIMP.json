@@ -77,29 +77,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Emilia-Romagna",
         "keywords": "ER"
-    },
-    "navaids": [
-        {
-            "id": "92278",
-            "filename": "Parma_NDB_IT",
-            "ident": "PAR",
-            "name": "Parma",
-            "type": "NDB",
-            "frequency_khz": "306",
-            "latitude_deg": "44.82229995727539",
-            "longitude_deg": "10.293299674987793",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.202",
-            "usageType": "RNAV",
-            "power": "LOW",
-            "associated_airport": "LIMP"
-        }
-    ]
+    }
 }

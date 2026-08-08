@@ -199,51 +199,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
         "keywords": "Airports in Ohio"
-    },
-    "navaids": [
-        {
-            "id": "86842",
-            "filename": "Harri_NDB_US",
-            "ident": "CL",
-            "name": "Harri",
-            "type": "NDB",
-            "frequency_khz": "344",
-            "latitude_deg": "41.338600158691406",
-            "longitude_deg": "-81.96440124511719",
-            "elevation_ft": "800",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.436",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KCLE"
-        },
-        {
-            "id": "87895",
-            "filename": "Engel_NDB_US",
-            "ident": "EZE",
-            "name": "Engel",
-            "type": "NDB",
-            "frequency_khz": "226",
-            "latitude_deg": "41.48889923095703",
-            "longitude_deg": "-81.7228012084961",
-            "elevation_ft": "617",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.578",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KCLE"
-        }
-    ]
+    }
 }

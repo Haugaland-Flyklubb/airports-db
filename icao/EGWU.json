@@ -149,29 +149,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "86778",
-            "filename": "Chiltern_NDB_GB",
-            "ident": "CHT",
-            "name": "Chiltern",
-            "type": "NDB",
-            "frequency_khz": "277",
-            "latitude_deg": "51.62310028076172",
-            "longitude_deg": "-0.5183330178260803",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.267",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "EGWU"
-        }
-    ]
+    }
 }

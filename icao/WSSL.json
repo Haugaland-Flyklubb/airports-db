@@ -85,29 +85,5 @@
         "iso_country": "SG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_East",
         "keywords": "Airports in North East"
-    },
-    "navaids": [
-        {
-            "id": "93499",
-            "filename": "Seletar_NDB_SG",
-            "ident": "SEL",
-            "name": "Seletar",
-            "type": "NDB",
-            "frequency_khz": "220",
-            "latitude_deg": "1.4165300130844116",
-            "longitude_deg": "103.86499786376953",
-            "elevation_ft": "35",
-            "iso_country": "SG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.145",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "WSSL"
-        }
-    ]
+    }
 }

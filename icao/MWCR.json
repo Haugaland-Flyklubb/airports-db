@@ -101,51 +101,5 @@
         "iso_country": "KY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Cayman",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "88301",
-            "filename": "Grand_Cayman_VOR-DME_KY",
-            "ident": "GCM",
-            "name": "Grand Cayman",
-            "type": "VOR-DME",
-            "frequency_khz": "115600",
-            "latitude_deg": "19.289400100708008",
-            "longitude_deg": "-81.37200164794922",
-            "elevation_ft": "8",
-            "iso_country": "KY",
-            "dme_frequency_khz": "115600",
-            "dme_channel": "103X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.001",
-            "magnetic_variation_deg": "-3.325",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MWCR"
-        },
-        {
-            "id": "96038",
-            "filename": "Grand_Cayman_NDB_KY",
-            "ident": "ZIY",
-            "name": "Grand Cayman",
-            "type": "NDB",
-            "frequency_khz": "344",
-            "latitude_deg": "19.28580093383789",
-            "longitude_deg": "-81.38580322265625",
-            "elevation_ft": "6",
-            "iso_country": "KY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.319",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "MWCR"
-        }
-    ]
+    }
 }

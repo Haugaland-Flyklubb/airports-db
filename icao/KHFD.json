@@ -161,51 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Connecticut",
         "keywords": "Airports in Connecticut"
-    },
-    "navaids": [
-        {
-            "id": "88800",
-            "filename": "Lomis_NDB_US",
-            "ident": "HF",
-            "name": "Lomis",
-            "type": "NDB",
-            "frequency_khz": "244",
-            "latitude_deg": "41.635501861572266",
-            "longitude_deg": "-72.62560272216797",
-            "elevation_ft": "45",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.177",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KHFD"
-        },
-        {
-            "id": "88802",
-            "filename": "Hartford_VOR-DME_US",
-            "ident": "HFD",
-            "name": "Hartford",
-            "type": "VOR-DME",
-            "frequency_khz": "114900",
-            "latitude_deg": "41.6411018371582",
-            "longitude_deg": "-72.54740142822266",
-            "elevation_ft": "849",
-            "iso_country": "US",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-13.001",
-            "magnetic_variation_deg": "-14.203",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KHFD"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "NA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zambezi_Region",
         "keywords": "Airports in Zambezi Region"
-    },
-    "navaids": [
-        {
-            "id": "89840",
-            "filename": "Katima_Mulilo_NDB_NA",
-            "ident": "KL",
-            "name": "Katima Mulilo",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "-17.634199142456055",
-            "longitude_deg": "24.181800842285156",
-            "elevation_ft": "3230",
-            "iso_country": "NA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.433",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FYKM"
-        }
-    ]
+    }
 }

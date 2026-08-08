@@ -123,51 +123,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "91142",
-            "filename": "Moosonee_NDB_CA",
-            "ident": "MO",
-            "name": "Moosonee",
-            "type": "NDB",
-            "frequency_khz": "224",
-            "latitude_deg": "51.28229904174805",
-            "longitude_deg": "-80.62789916992188",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.538",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYMO"
-        },
-        {
-            "id": "95748",
-            "filename": "Moosonee_VOR-DME_CA",
-            "ident": "YMO",
-            "name": "Moosonee",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "51.291500091552734",
-            "longitude_deg": "-80.6073989868164",
-            "elevation_ft": "30",
-            "iso_country": "CA",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-13.001",
-            "magnetic_variation_deg": "-12.552",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYMO"
-        }
-    ]
+    }
 }

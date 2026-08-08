@@ -69,29 +69,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
         "keywords": "Airports in Hauts-de-France"
-    },
-    "navaids": [
-        {
-            "id": "86989",
-            "filename": "Compiègne_VOR-DME_FR",
-            "ident": "CPE",
-            "name": "Compiègne",
-            "type": "VOR-DME",
-            "frequency_khz": "109650",
-            "latitude_deg": "49.43280029296875",
-            "longitude_deg": "2.7993600368499756",
-            "elevation_ft": "288",
-            "iso_country": "FR",
-            "dme_frequency_khz": "109650",
-            "dme_channel": "033Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.595",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFAD"
-        }
-    ]
+    }
 }

@@ -107,51 +107,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Catalonia",
         "keywords": "Airports in Catalonia"
-    },
-    "navaids": [
-        {
-            "id": "93047",
-            "filename": "Reus_VOR-DME_ES",
-            "ident": "RES",
-            "name": "Reus",
-            "type": "VOR-DME",
-            "frequency_khz": "114200",
-            "latitude_deg": "41.14970016479492",
-            "longitude_deg": "1.171120047569275",
-            "elevation_ft": "272",
-            "iso_country": "ES",
-            "dme_frequency_khz": "114200",
-            "dme_channel": "089X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.007",
-            "magnetic_variation_deg": "-0.513",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LERS"
-        },
-        {
-            "id": "93284",
-            "filename": "Reus_NDB_ES",
-            "ident": "RUS",
-            "name": "Reus",
-            "type": "NDB",
-            "frequency_khz": "424",
-            "latitude_deg": "41.14780044555664",
-            "longitude_deg": "1.1461399793624878",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.517",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LERS"
-        }
-    ]
+    }
 }

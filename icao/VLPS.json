@@ -69,51 +69,5 @@
         "iso_country": "LA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Champasak_Province",
         "keywords": "Airports in Champasak Province"
-    },
-    "navaids": [
-        {
-            "id": "92257",
-            "filename": "Pakse_VOR-DME_LA",
-            "ident": "PAK",
-            "name": "Pakse",
-            "type": "VOR-DME",
-            "frequency_khz": "115000",
-            "latitude_deg": "15.196700096130371",
-            "longitude_deg": "105.73799896240234",
-            "elevation_ft": "364",
-            "iso_country": "LA",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.377",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VLPS"
-        },
-        {
-            "id": "92706",
-            "filename": "Pakse_NDB_LA",
-            "ident": "PS",
-            "name": "Pakse",
-            "type": "NDB",
-            "frequency_khz": "220",
-            "latitude_deg": "15.130599975585938",
-            "longitude_deg": "105.78399658203125",
-            "elevation_ft": "",
-            "iso_country": "LA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.374",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VLPS"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ardabil_Province",
         "keywords": "Airports in Ardabil Province"
-    },
-    "navaids": [
-        {
-            "id": "91086",
-            "filename": "Parsabade_Moghan_NDB_IR",
-            "ident": "MM",
-            "name": "Parsabade Moghan",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "39.61249923706055",
-            "longitude_deg": "47.854698181152344",
-            "elevation_ft": "241",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.124",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "OITP"
-        },
-        {
-            "id": "92245",
-            "filename": "Parsabade_Moghan_NDB_IR",
-            "ident": "PAD",
-            "name": "Parsabade Moghan",
-            "type": "NDB",
-            "frequency_khz": "413",
-            "latitude_deg": "39.57870101928711",
-            "longitude_deg": "47.96730041503906",
-            "elevation_ft": "208",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.11",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OITP"
-        }
-    ]
+    }
 }

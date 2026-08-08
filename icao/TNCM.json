@@ -77,51 +77,5 @@
         "iso_country": "SX",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "92465",
-            "filename": "St.mMarten_NDB_AN",
-            "ident": "PJD",
-            "name": "St.mMarten",
-            "type": "NDB",
-            "frequency_khz": "284",
-            "latitude_deg": "18.03849983215332",
-            "longitude_deg": "-63.1171989440918",
-            "elevation_ft": "13",
-            "iso_country": "BQ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.567",
-            "usageType": "",
-            "power": "",
-            "associated_airport": "TNCM"
-        },
-        {
-            "id": "92468",
-            "filename": "St.mMarten_VOR-DME_AN",
-            "ident": "PJM",
-            "name": "St.mMarten",
-            "type": "VOR-DME",
-            "frequency_khz": "113000",
-            "latitude_deg": "18.03809928894043",
-            "longitude_deg": "-63.11830139160156",
-            "elevation_ft": "13",
-            "iso_country": "BQ",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-12.001",
-            "magnetic_variation_deg": "-13.56",
-            "usageType": "",
-            "power": "",
-            "associated_airport": "TNCM"
-        }
-    ]
+    }
 }

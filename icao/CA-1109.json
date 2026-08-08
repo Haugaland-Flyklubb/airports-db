@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
         "keywords": "Airports in Nunavut"
-    },
-    "navaids": [
-        {
-            "id": "95843",
-            "filename": "Nanisivik_NDB_CA",
-            "ident": "YSR",
-            "name": "Nanisivik",
-            "type": "NDB",
-            "frequency_khz": "382",
-            "latitude_deg": "72.97470092773438",
-            "longitude_deg": "-84.53309631347656",
-            "elevation_ft": "2129",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-43.166",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CA-1109"
-        }
-    ]
+    }
 }

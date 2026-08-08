@@ -99,51 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    },
-    "navaids": [
-        {
-            "id": "90959",
-            "filename": "Mildura_VOR-DME_AU",
-            "ident": "MIA",
-            "name": "Mildura",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "-34.22669982910156",
-            "longitude_deg": "142.08599853515625",
-            "elevation_ft": "230",
-            "iso_country": "AU",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.011",
-            "magnetic_variation_deg": "9.253",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YMIA"
-        },
-        {
-            "id": "90962",
-            "filename": "Mildura_NDB_AU",
-            "ident": "MIA",
-            "name": "Mildura",
-            "type": "NDB",
-            "frequency_khz": "272",
-            "latitude_deg": "-34.247798919677734",
-            "longitude_deg": "142.07400512695312",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.253",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YMIA"
-        }
-    ]
+    }
 }

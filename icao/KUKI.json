@@ -93,51 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    },
-    "navaids": [
-        {
-            "id": "87760",
-            "filename": "Mendocino_VORTAC_US",
-            "ident": "ENI",
-            "name": "Mendocino",
-            "type": "VORTAC",
-            "frequency_khz": "112300",
-            "latitude_deg": "39.053199768066406",
-            "longitude_deg": "-123.27400207519531",
-            "elevation_ft": "2980",
-            "iso_country": "US",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "16.001",
-            "magnetic_variation_deg": "15.134",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KUKI"
-        },
-        {
-            "id": "94872",
-            "filename": "Kearn_NDB_US",
-            "ident": "UK",
-            "name": "Kearn",
-            "type": "NDB",
-            "frequency_khz": "371",
-            "latitude_deg": "39.27470016479492",
-            "longitude_deg": "-123.24600219726562",
-            "elevation_ft": "871",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "15.17",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KUKI"
-        }
-    ]
+    }
 }

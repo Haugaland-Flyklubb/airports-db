@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "87117",
-            "filename": "Cunderdin_NDB_AU",
-            "ident": "CUN",
-            "name": "Cunderdin",
-            "type": "NDB",
-            "frequency_khz": "293",
-            "latitude_deg": "-31.625",
-            "longitude_deg": "117.2239990234375",
-            "elevation_ft": "699",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.562",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YCUN"
-        }
-    ]
+    }
 }

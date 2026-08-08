@@ -91,51 +91,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    },
-    "navaids": [
-        {
-            "id": "89355",
-            "filename": "Islay_DME_GB",
-            "ident": "ISY",
-            "name": "Islay",
-            "type": "DME",
-            "frequency_khz": "109950",
-            "latitude_deg": "55.68299865722656",
-            "longitude_deg": "-6.249410152435303",
-            "elevation_ft": "70",
-            "iso_country": "GB",
-            "dme_frequency_khz": "109950",
-            "dme_channel": "036Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.396",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "EGPI"
-        },
-        {
-            "id": "90187",
-            "filename": "Islay_NDB_GB",
-            "ident": "LAY",
-            "name": "Islay",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "55.682899475097656",
-            "longitude_deg": "-6.2494797706604",
-            "elevation_ft": "58",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.396",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EGPI"
-        }
-    ]
+    }
 }

@@ -123,51 +123,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
         "keywords": "Bayern"
-    },
-    "navaids": [
-        {
-            "id": "85301",
-            "filename": "Augsburg_NDB_DE",
-            "ident": "AGB",
-            "name": "Augsburg",
-            "type": "NDB",
-            "frequency_khz": "318",
-            "latitude_deg": "48.42430114746094",
-            "longitude_deg": "10.933099746704102",
-            "elevation_ft": "1542",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.284",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EDMA"
-        },
-        {
-            "id": "85684",
-            "filename": "Augsburg_DME_DE",
-            "ident": "AUG",
-            "name": "Augsburg",
-            "type": "DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "48.42430114746094",
-            "longitude_deg": "10.932999610900879",
-            "elevation_ft": "1542",
-            "iso_country": "DE",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.284",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDMA"
-        }
-    ]
+    }
 }

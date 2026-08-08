@@ -99,29 +99,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "92926",
-            "filename": "North_Battleford_NDB_CA",
-            "ident": "QW",
-            "name": "North Battleford",
-            "type": "NDB",
-            "frequency_khz": "302",
-            "latitude_deg": "52.80390167236328",
-            "longitude_deg": "-108.33499908447266",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "13.338",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYQW"
-        }
-    ]
+    }
 }

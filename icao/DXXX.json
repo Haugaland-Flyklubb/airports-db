@@ -77,51 +77,5 @@
         "iso_country": "TG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maritime_Region",
         "keywords": "Airports in Maritime Region"
-    },
-    "navaids": [
-        {
-            "id": "90408",
-            "filename": "Lome_VOR-DME_TG",
-            "ident": "LM",
-            "name": "Lome",
-            "type": "VOR-DME",
-            "frequency_khz": "115300",
-            "latitude_deg": "6.184080123901367",
-            "longitude_deg": "1.268779993057251",
-            "elevation_ft": "72",
-            "iso_country": "TG",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "6.17456",
-            "dme_longitude_deg": "1.25975",
-            "dme_elevation_ft": "79",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.09",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DXXX"
-        },
-        {
-            "id": "90417",
-            "filename": "Lome_NDB_TG",
-            "ident": "LME",
-            "name": "Lome",
-            "type": "NDB",
-            "frequency_khz": "379",
-            "latitude_deg": "6.16519021987915",
-            "longitude_deg": "1.2477500438690186",
-            "elevation_ft": "",
-            "iso_country": "TG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.096",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "DXXX"
-        }
-    ]
+    }
 }

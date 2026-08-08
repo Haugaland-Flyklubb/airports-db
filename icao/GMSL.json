@@ -69,29 +69,5 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rabat-Sal%C3%A9-K%C3%A9nitra",
         "keywords": "الرباط-سلا-القنيطرة"
-    },
-    "navaids": [
-        {
-            "id": "93784",
-            "filename": "Sidi_Slimane_VOR-DME_MA",
-            "ident": "SMN",
-            "name": "Sidi Slimane",
-            "type": "VOR-DME",
-            "frequency_khz": "115500",
-            "latitude_deg": "34.23249816894531",
-            "longitude_deg": "-6.050559997558594",
-            "elevation_ft": "179",
-            "iso_country": "MA",
-            "dme_frequency_khz": "115500",
-            "dme_channel": "102X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.47",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GMSL"
-        }
-    ]
+    }
 }

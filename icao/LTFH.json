@@ -93,51 +93,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Samsun_Province",
         "keywords": "Airports in Samsun Province"
-    },
-    "navaids": [
-        {
-            "id": "87039",
-            "filename": "Carsamba_VOR-DME_TR",
-            "ident": "CRM",
-            "name": "Carsamba",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "41.265499114990234",
-            "longitude_deg": "36.54890060424805",
-            "elevation_ft": "18",
-            "iso_country": "TR",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.064",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LTFH"
-        },
-        {
-            "id": "87040",
-            "filename": "Carsamba_NDB_TR",
-            "ident": "CRM",
-            "name": "Carsamba",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "41.265499114990234",
-            "longitude_deg": "36.54899978637695",
-            "elevation_ft": "",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.064",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LTFH"
-        }
-    ]
+    }
 }

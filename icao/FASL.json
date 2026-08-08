@@ -35,29 +35,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Cape",
         "keywords": "Airports in Northern Cape"
-    },
-    "navaids": [
-        {
-            "id": "93749",
-            "filename": "Sutherland_VOR_ZA",
-            "ident": "SLV",
-            "name": "Sutherland",
-            "type": "VOR",
-            "frequency_khz": "113300",
-            "latitude_deg": "-32.45009994506836",
-            "longitude_deg": "20.622400283813477",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-21.007",
-            "magnetic_variation_deg": "-23.246",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FASL"
-        }
-    ]
+    }
 }

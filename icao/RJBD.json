@@ -91,29 +91,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wakayama",
         "keywords": "Kansai"
-    },
-    "navaids": [
-        {
-            "id": "91601",
-            "filename": "Nanki_VOR-DME_JP",
-            "ident": "NKE",
-            "name": "Nanki",
-            "type": "VOR-DME",
-            "frequency_khz": "109050",
-            "latitude_deg": "33.66130065917969",
-            "longitude_deg": "135.35899353027344",
-            "elevation_ft": "338",
-            "iso_country": "JP",
-            "dme_frequency_khz": "109050",
-            "dme_channel": "027Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.011",
-            "magnetic_variation_deg": "-6.413",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJBD"
-        }
-    ]
+    }
 }

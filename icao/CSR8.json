@@ -85,29 +85,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "85131",
-            "filename": "La_Sarre_NDB_CA",
-            "ident": "7L",
-            "name": "La Sarre",
-            "type": "NDB",
-            "frequency_khz": "405",
-            "latitude_deg": "48.91059875488281",
-            "longitude_deg": "-79.17890167236328",
-            "elevation_ft": "1048",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.521",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CSR8"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhon_Si_Thammarat_province",
         "keywords": "Airports in Nakhon Si Thammarat Province"
-    },
-    "navaids": [
-        {
-            "id": "91709",
-            "filename": "Cha_Ian_NDB_TH",
-            "ident": "NS",
-            "name": "Cha Ian",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "8.461669921875",
-            "longitude_deg": "99.96170043945312",
-            "elevation_ft": "",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.253",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VTSN"
-        }
-    ]
+    }
 }

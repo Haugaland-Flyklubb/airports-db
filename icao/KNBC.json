@@ -175,29 +175,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
         "keywords": "Airports in South Carolina"
-    },
-    "navaids": [
-        {
-            "id": "91474",
-            "filename": "Beaufort_TACAN_US",
-            "ident": "NBC",
-            "name": "Beaufort",
-            "type": "TACAN",
-            "frequency_khz": "110500",
-            "latitude_deg": "32.479000091552734",
-            "longitude_deg": "-80.71730041503906",
-            "elevation_ft": "49",
-            "iso_country": "US",
-            "dme_frequency_khz": "110500",
-            "dme_channel": "042X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.001",
-            "magnetic_variation_deg": "-6.307",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KNBC"
-        }
-    ]
+    }
 }

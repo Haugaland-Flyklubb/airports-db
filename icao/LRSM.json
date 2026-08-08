@@ -77,51 +77,5 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Satu_Mare_County",
         "keywords": "Transylvania, Transylvanian Region"
-    },
-    "navaids": [
-        {
-            "id": "93390",
-            "filename": "Satu_Mare_VOR-DME_RO",
-            "ident": "SAT",
-            "name": "Satu Mare",
-            "type": "VOR-DME",
-            "frequency_khz": "108400",
-            "latitude_deg": "47.72740173339844",
-            "longitude_deg": "22.89389991760254",
-            "elevation_ft": "405",
-            "iso_country": "RO",
-            "dme_frequency_khz": "108400",
-            "dme_channel": "021X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "4.108",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "LRSM"
-        },
-        {
-            "id": "93392",
-            "filename": "Satu_Mare_NDB_RO",
-            "ident": "SAT",
-            "name": "Satu Mare",
-            "type": "NDB",
-            "frequency_khz": "365",
-            "latitude_deg": "47.72359848022461",
-            "longitude_deg": "22.892499923706055",
-            "elevation_ft": "404",
-            "iso_country": "RO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.108",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LRSM"
-        }
-    ]
+    }
 }

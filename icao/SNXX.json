@@ -59,29 +59,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Norte",
         "keywords": "Airports in Rio Grande do Norte"
-    },
-    "navaids": [
-        {
-            "id": "91393",
-            "filename": "Maxaranguape_NDB_BR",
-            "ident": "MXN",
-            "name": "Maxaranguape",
-            "type": "NDB",
-            "frequency_khz": "205",
-            "latitude_deg": "-5.386169910430908",
-            "longitude_deg": "-35.53099822998047",
-            "elevation_ft": "302",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.434",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SNXX"
-        }
-    ]
+    }
 }

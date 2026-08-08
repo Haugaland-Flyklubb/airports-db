@@ -77,29 +77,5 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "90696",
-            "filename": "Maupiti_NDB_PF",
-            "ident": "MA",
-            "name": "Maupiti",
-            "type": "NDB",
-            "frequency_khz": "316",
-            "latitude_deg": "-16.427799224853516",
-            "longitude_deg": "-152.24200439453125",
-            "elevation_ft": "46",
-            "iso_country": "PF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.22",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NTTP"
-        }
-    ]
+    }
 }

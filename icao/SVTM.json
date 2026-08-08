@@ -59,51 +59,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
         "keywords": "Airports in Bolívar State"
-    },
-    "navaids": [
-        {
-            "id": "94452",
-            "filename": "Tumeremo_VOR-DME_VE",
-            "ident": "TMO",
-            "name": "Tumeremo",
-            "type": "VOR-DME",
-            "frequency_khz": "114400",
-            "latitude_deg": "7.250830173492432",
-            "longitude_deg": "-61.516998291015625",
-            "elevation_ft": "344",
-            "iso_country": "VE",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.005",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVTM"
-        },
-        {
-            "id": "94454",
-            "filename": "Tumeremo_NDB_VE",
-            "ident": "TMO",
-            "name": "Tumeremo",
-            "type": "NDB",
-            "frequency_khz": "215",
-            "latitude_deg": "7.256110191345215",
-            "longitude_deg": "-61.51620101928711",
-            "elevation_ft": "",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.597",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SVTM"
-        }
-    ]
+    }
 }

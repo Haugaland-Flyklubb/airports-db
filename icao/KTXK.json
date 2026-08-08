@@ -131,29 +131,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
         "keywords": "Airports in Arkansas"
-    },
-    "navaids": [
-        {
-            "id": "94721",
-            "filename": "Tecco_NDB_US",
-            "ident": "TX",
-            "name": "Tecco",
-            "type": "NDB",
-            "frequency_khz": "234",
-            "latitude_deg": "33.52410125732422",
-            "longitude_deg": "-93.90599822998047",
-            "elevation_ft": "260",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.478",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KTXK"
-        }
-    ]
+    }
 }

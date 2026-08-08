@@ -69,29 +69,5 @@
         "iso_country": "GT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alta_Verapez_Department",
         "keywords": "Airports in Alta Verapez Department"
-    },
-    "navaids": [
-        {
-            "id": "93276",
-            "filename": "Rubelsanto_NDB_GT",
-            "ident": "RUB",
-            "name": "Rubelsanto",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "15.991999626159668",
-            "longitude_deg": "-90.44889831542969",
-            "elevation_ft": "426",
-            "iso_country": "GT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.224",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MGRB"
-        }
-    ]
+    }
 }

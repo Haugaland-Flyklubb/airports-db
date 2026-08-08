@@ -81,29 +81,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
         "keywords": "Airports in Utah"
-    },
-    "navaids": [
-        {
-            "id": "90238",
-            "filename": "Lucin_VORTAC_US",
-            "ident": "LCU",
-            "name": "Lucin",
-            "type": "VORTAC",
-            "frequency_khz": "113600",
-            "latitude_deg": "41.362998962402344",
-            "longitude_deg": "-113.84100341796875",
-            "elevation_ft": "4400",
-            "iso_country": "US",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "17.001",
-            "magnetic_variation_deg": "13.384",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "02UT"
-        }
-    ]
+    }
 }

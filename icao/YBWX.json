@@ -77,29 +77,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "86489",
-            "filename": "Barrow_Island_NDB_AU",
-            "ident": "BWX",
-            "name": "Barrow Island",
-            "type": "NDB",
-            "frequency_khz": "206",
-            "latitude_deg": "-20.856300354003906",
-            "longitude_deg": "115.40599822998047",
-            "elevation_ft": "26",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.062",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YBWX"
-        }
-    ]
+    }
 }

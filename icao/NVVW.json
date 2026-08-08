@@ -77,29 +77,5 @@
         "iso_country": "VU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tafea",
         "keywords": "Airports in Tafea"
-    },
-    "navaids": [
-        {
-            "id": "95405",
-            "filename": "White_Grass_NDB_VU",
-            "ident": "WG",
-            "name": "White Grass",
-            "type": "NDB",
-            "frequency_khz": "398",
-            "latitude_deg": "-19.461700439453125",
-            "longitude_deg": "169.22500610351562",
-            "elevation_ft": "36",
-            "iso_country": "VU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.037",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NVVW"
-        }
-    ]
+    }
 }

@@ -85,51 +85,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balıkesir_Province",
         "keywords": "Airports in Balıkesir Province"
-    },
-    "navaids": [
-        {
-            "id": "87663",
-            "filename": "Edremit_VOR-DME_TR",
-            "ident": "EDR",
-            "name": "Edremit",
-            "type": "VOR-DME",
-            "frequency_khz": "109400",
-            "latitude_deg": "39.5536003112793",
-            "longitude_deg": "27.00830078125",
-            "elevation_ft": "50",
-            "iso_country": "TR",
-            "dme_frequency_khz": "109400",
-            "dme_channel": "031X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.509",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTFD"
-        },
-        {
-            "id": "87664",
-            "filename": "Edremit_NDB_TR",
-            "ident": "EDR",
-            "name": "Edremit",
-            "type": "NDB",
-            "frequency_khz": "368",
-            "latitude_deg": "39.5536003112793",
-            "longitude_deg": "27.00830078125",
-            "elevation_ft": "50",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.509",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LTFD"
-        }
-    ]
+    }
 }

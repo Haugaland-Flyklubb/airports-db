@@ -77,51 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
         "keywords": "Airports in Nunavut"
-    },
-    "navaids": [
-        {
-            "id": "86083",
-            "filename": "Baker_Lake_NDB_CA",
-            "ident": "BK",
-            "name": "Baker Lake",
-            "type": "NDB",
-            "frequency_khz": "224",
-            "latitude_deg": "64.314697265625",
-            "longitude_deg": "-96.064697265625",
-            "elevation_ft": "140",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.076",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "CYBK"
-        },
-        {
-            "id": "95627",
-            "filename": "Baker_Lake_VOR-DME_CA",
-            "ident": "YBK",
-            "name": "Baker Lake",
-            "type": "VOR-DME",
-            "frequency_khz": "114500",
-            "latitude_deg": "64.31809997558594",
-            "longitude_deg": "-96.10469818115234",
-            "elevation_ft": "400",
-            "iso_country": "CA",
-            "dme_frequency_khz": "114500",
-            "dme_channel": "092X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.005",
-            "magnetic_variation_deg": "-2.034",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYBK"
-        }
-    ]
+    }
 }

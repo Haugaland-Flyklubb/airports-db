@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
         "keywords": "Airports in Missouri"
-    },
-    "navaids": [
-        {
-            "id": "89159",
-            "filename": "Lebanon_NDB_US",
-            "ident": "IEB",
-            "name": "Lebanon",
-            "type": "NDB",
-            "frequency_khz": "414",
-            "latitude_deg": "37.5713996887207",
-            "longitude_deg": "-92.658203125",
-            "elevation_ft": "1325",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.368",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KLBO"
-        }
-    ]
+    }
 }

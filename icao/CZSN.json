@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "85061",
-            "filename": "South_Indian_Lake_NDB_CA",
-            "ident": "2A",
-            "name": "South Indian Lake",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "56.79389953613281",
-            "longitude_deg": "-98.904296875",
-            "elevation_ft": "974",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.097",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CZSN"
-        }
-    ]
+    }
 }

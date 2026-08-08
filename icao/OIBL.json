@@ -69,51 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hormozgan_Province",
         "keywords": "Airports in Hormozgan Province"
-    },
-    "navaids": [
-        {
-            "id": "90276",
-            "filename": "Bandar_Lengeh_VOR-DME_IR",
-            "ident": "LEN",
-            "name": "Bandar Lengeh",
-            "type": "VOR-DME",
-            "frequency_khz": "114800",
-            "latitude_deg": "26.536100387573242",
-            "longitude_deg": "54.851200103759766",
-            "elevation_ft": "62",
-            "iso_country": "IR",
-            "dme_frequency_khz": "114800",
-            "dme_channel": "095X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.001",
-            "magnetic_variation_deg": "1.466",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIBL"
-        },
-        {
-            "id": "90278",
-            "filename": "Bandar_Lengeh_NDB_IR",
-            "ident": "LEN",
-            "name": "Bandar Lengeh",
-            "type": "NDB",
-            "frequency_khz": "408",
-            "latitude_deg": "26.537599563598633",
-            "longitude_deg": "54.86119842529297",
-            "elevation_ft": "15",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.465",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIBL"
-        }
-    ]
+    }
 }

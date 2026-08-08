@@ -69,51 +69,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Region_of_Murcia",
         "keywords": "Airports in Murcia"
-    },
-    "navaids": [
-        {
-            "id": "85670",
-            "filename": "Alcantarilla_NDB_ES",
-            "ident": "ATR",
-            "name": "Alcantarilla",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "37.94990158081055",
-            "longitude_deg": "-1.2304199934005737",
-            "elevation_ft": "245",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.244",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LERI"
-        },
-        {
-            "id": "94590",
-            "filename": "Alcantarilla_TACAN_ES",
-            "ident": "TRL",
-            "name": "Alcantarilla",
-            "type": "TACAN",
-            "frequency_khz": "116600",
-            "latitude_deg": "37.95109939575195",
-            "longitude_deg": "-1.2291699647903442",
-            "elevation_ft": "243",
-            "iso_country": "ES",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.244",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LERI"
-        }
-    ]
+    }
 }

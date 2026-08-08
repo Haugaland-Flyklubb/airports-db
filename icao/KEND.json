@@ -191,29 +191,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
         "keywords": "Airports in Oklahoma"
-    },
-    "navaids": [
-        {
-            "id": "87755",
-            "filename": "Vance_VORTAC_US",
-            "ident": "END",
-            "name": "Vance",
-            "type": "VORTAC",
-            "frequency_khz": "115400",
-            "latitude_deg": "36.345001220703125",
-            "longitude_deg": "-97.91829681396484",
-            "elevation_ft": "1304",
-            "iso_country": "US",
-            "dme_frequency_khz": "115400",
-            "dme_channel": "101X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.001",
-            "magnetic_variation_deg": "5.197",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "KEND"
-        }
-    ]
+    }
 }

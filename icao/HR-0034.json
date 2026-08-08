@@ -77,29 +77,5 @@
         "iso_country": "HR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lika-Senj_County",
         "keywords": "Airports in Lika-Senj County"
-    },
-    "navaids": [
-        {
-            "id": "94911",
-            "filename": "Udbina_NDB_HR",
-            "ident": "UNA",
-            "name": "Udbina",
-            "type": "NDB",
-            "frequency_khz": "450",
-            "latitude_deg": "44.52579879760742",
-            "longitude_deg": "15.77280044555664",
-            "elevation_ft": "",
-            "iso_country": "HR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.3",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "HR-0034"
-        }
-    ]
+    }
 }

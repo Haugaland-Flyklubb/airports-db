@@ -165,29 +165,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "87696",
-            "filename": "Eielson_TACAN_US",
-            "ident": "EIL",
-            "name": "Eielson",
-            "type": "TACAN",
-            "frequency_khz": "115100",
-            "latitude_deg": "64.65380096435547",
-            "longitude_deg": "-147.093994140625",
-            "elevation_ft": "528",
-            "iso_country": "US",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "26.001",
-            "magnetic_variation_deg": "22.414",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PAEI"
-        }
-    ]
+    }
 }

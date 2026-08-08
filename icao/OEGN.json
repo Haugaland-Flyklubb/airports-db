@@ -77,29 +77,5 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jazan_Province",
         "keywords": "Airports in Jlzan Region"
-    },
-    "navaids": [
-        {
-            "id": "88420",
-            "filename": "Jazan_VORTAC_SA",
-            "ident": "GIZ",
-            "name": "Jazan",
-            "type": "VORTAC",
-            "frequency_khz": "117700",
-            "latitude_deg": "16.907699584960938",
-            "longitude_deg": "42.577598571777344",
-            "elevation_ft": "14",
-            "iso_country": "SA",
-            "dme_frequency_khz": "117700",
-            "dme_channel": "124X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "2.044",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OEGN"
-        }
-    ]
+    }
 }

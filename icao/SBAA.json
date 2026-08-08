@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    },
-    "navaids": [
-        {
-            "id": "85583",
-            "filename": "Araguaia_NDB_BR",
-            "ident": "ARG",
-            "name": "Araguaia",
-            "type": "NDB",
-            "frequency_khz": "230",
-            "latitude_deg": "-8.353670120239258",
-            "longitude_deg": "-49.299198150634766",
-            "elevation_ft": "854",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.503",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBAA"
-        }
-    ]
+    }
 }

@@ -85,51 +85,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canary_Islands",
         "keywords": "Airports in Canary Islands, Canarias"
-    },
-    "navaids": [
-        {
-            "id": "88842",
-            "filename": "Hierro_NDB_ES",
-            "ident": "HIE",
-            "name": "Hierro",
-            "type": "NDB",
-            "frequency_khz": "376",
-            "latitude_deg": "27.816200256347656",
-            "longitude_deg": "-17.88640022277832",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.098",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "GCHI"
-        },
-        {
-            "id": "88989",
-            "filename": "Hierro_DME_ES",
-            "ident": "HR",
-            "name": "Hierro",
-            "type": "DME",
-            "frequency_khz": "113200",
-            "latitude_deg": "27.816099166870117",
-            "longitude_deg": "-17.88640022277832",
-            "elevation_ft": "102",
-            "iso_country": "ES",
-            "dme_frequency_khz": "113200",
-            "dme_channel": "079X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.098",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "GCHI"
-        }
-    ]
+    }
 }

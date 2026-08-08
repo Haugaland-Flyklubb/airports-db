@@ -35,29 +35,5 @@
         "iso_country": "NA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Otjozondjupa_Region",
         "keywords": "Airports in Otjozondjupa Region"
-    },
-    "navaids": [
-        {
-            "id": "92173",
-            "filename": "Otjiwarongo_NDB_NA",
-            "ident": "OW",
-            "name": "Otjiwarongo",
-            "type": "NDB",
-            "frequency_khz": "357",
-            "latitude_deg": "-20.463600158691406",
-            "longitude_deg": "16.641700744628906",
-            "elevation_ft": "",
-            "iso_country": "NA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.373",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FYOW"
-        }
-    ]
+    }
 }

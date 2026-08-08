@@ -35,29 +35,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
         "keywords": "Airports in Limpopo"
-    },
-    "navaids": [
-        {
-            "id": "89536",
-            "filename": "Gravelotte_NDB_ZA",
-            "ident": "JP",
-            "name": "Gravelotte",
-            "type": "NDB",
-            "frequency_khz": "403",
-            "latitude_deg": "-23.899999618530273",
-            "longitude_deg": "30.683300018310547",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.298",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FAGV"
-        }
-    ]
+    }
 }

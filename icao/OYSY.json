@@ -69,29 +69,5 @@
         "iso_country": "YE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hadhramaut_Governorate",
         "keywords": "Airports in Hadhramaut Governorate"
-    },
-    "navaids": [
-        {
-            "id": "94127",
-            "filename": "Sayun_NDB_YE",
-            "ident": "SYN",
-            "name": "Sayun",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "15.961799621582031",
-            "longitude_deg": "48.78620147705078",
-            "elevation_ft": "2300",
-            "iso_country": "YE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.053",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OYSY"
-        }
-    ]
+    }
 }

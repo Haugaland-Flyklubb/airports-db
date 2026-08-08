@@ -137,29 +137,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
         "keywords": "Airports in Wyoming"
-    },
-    "navaids": [
-        {
-            "id": "93589",
-            "filename": "Sheridan_VORTAC_US",
-            "ident": "SHR",
-            "name": "Sheridan",
-            "type": "VORTAC",
-            "frequency_khz": "115300",
-            "latitude_deg": "44.84230041503906",
-            "longitude_deg": "-107.06099700927734",
-            "elevation_ft": "4410",
-            "iso_country": "US",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.001",
-            "magnetic_variation_deg": "11.211",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KSHR"
-        }
-    ]
+    }
 }

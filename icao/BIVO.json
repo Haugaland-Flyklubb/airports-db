@@ -59,29 +59,5 @@
         "iso_country": "IS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Region_(Iceland)",
         "keywords": "Austurland"
-    },
-    "navaids": [
-        {
-            "id": "88694",
-            "filename": "Hofsa_NDB_IS",
-            "ident": "HA",
-            "name": "Hofsa",
-            "type": "NDB",
-            "frequency_khz": "348",
-            "latitude_deg": "65.62969970703125",
-            "longitude_deg": "-15.041399955749512",
-            "elevation_ft": "",
-            "iso_country": "IS",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.49",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "BIVO"
-        }
-    ]
+    }
 }

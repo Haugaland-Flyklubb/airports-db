@@ -81,29 +81,5 @@
         "iso_country": "UY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Paysandu_Department",
         "keywords": "Airports in Paysandu Department"
-    },
-    "navaids": [
-        {
-            "id": "92558",
-            "filename": "Paysandu_NDB_UY",
-            "ident": "PN",
-            "name": "Paysandu",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "-32.362701416015625",
-            "longitude_deg": "-58.069400787353516",
-            "elevation_ft": "157",
-            "iso_country": "UY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.323",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SUPU"
-        }
-    ]
+    }
 }

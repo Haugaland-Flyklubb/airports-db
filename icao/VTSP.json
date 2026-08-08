@@ -93,51 +93,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Phuket_province",
         "keywords": "Airports in Phuket Province"
-    },
-    "navaids": [
-        {
-            "id": "92792",
-            "filename": "Phuket_NDB_TH",
-            "ident": "PU",
-            "name": "Phuket",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "8.101659774780273",
-            "longitude_deg": "98.30619812011719",
-            "elevation_ft": "82",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.351",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VTSP"
-        },
-        {
-            "id": "92802",
-            "filename": "Phuket_VOR-DME_TH",
-            "ident": "PUT",
-            "name": "Phuket",
-            "type": "VOR-DME",
-            "frequency_khz": "116900",
-            "latitude_deg": "8.115229606628418",
-            "longitude_deg": "98.3062973022461",
-            "elevation_ft": "55",
-            "iso_country": "TH",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.351",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTSP"
-        }
-    ]
+    }
 }

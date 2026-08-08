@@ -109,29 +109,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    },
-    "navaids": [
-        {
-            "id": "93165",
-            "filename": "Renton_NDB_US",
-            "ident": "RNT",
-            "name": "Renton",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "47.495399475097656",
-            "longitude_deg": "-122.21499633789062",
-            "elevation_ft": "20",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "17.37",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KRNT"
-        }
-    ]
+    }
 }

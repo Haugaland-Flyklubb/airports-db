@@ -85,29 +85,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    },
-    "navaids": [
-        {
-            "id": "94980",
-            "filename": "United_NDB_US",
-            "ident": "UTX",
-            "name": "United",
-            "type": "NDB",
-            "frequency_khz": "405",
-            "latitude_deg": "26.909000396728516",
-            "longitude_deg": "-80.33509826660156",
-            "elevation_ft": "27",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.391",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "06FA"
-        }
-    ]
+    }
 }

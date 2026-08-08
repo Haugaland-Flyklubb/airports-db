@@ -85,51 +85,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sabah",
         "keywords": "Airports in Sabah"
-    },
-    "navaids": [
-        {
-            "id": "93802",
-            "filename": "Sandakan_NDB_MY",
-            "ident": "SN",
-            "name": "Sandakan",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "5.89300012588501",
-            "longitude_deg": "117.99600219726562",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.175",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WBKS"
-        },
-        {
-            "id": "95288",
-            "filename": "Sandakan_VOR-DME_MY",
-            "ident": "VSN",
-            "name": "Sandakan",
-            "type": "VOR-DME",
-            "frequency_khz": "114000",
-            "latitude_deg": "5.906060218811035",
-            "longitude_deg": "118.06800079345703",
-            "elevation_ft": "46",
-            "iso_country": "MY",
-            "dme_frequency_khz": "114000",
-            "dme_channel": "087X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "0.173",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WBKS"
-        }
-    ]
+    }
 }

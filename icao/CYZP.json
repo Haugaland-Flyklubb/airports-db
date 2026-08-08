@@ -93,29 +93,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "95942",
-            "filename": "Sandspit_VORTAC_CA",
-            "ident": "YZP",
-            "name": "Sandspit",
-            "type": "VORTAC",
-            "frequency_khz": "114100",
-            "latitude_deg": "53.252201080322266",
-            "longitude_deg": "-131.8070068359375",
-            "elevation_ft": "30",
-            "iso_country": "CA",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "25.001",
-            "magnetic_variation_deg": "20.479",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYZP"
-        }
-    ]
+    }
 }

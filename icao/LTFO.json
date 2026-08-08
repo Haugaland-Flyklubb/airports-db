@@ -109,51 +109,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rize_Province",
         "keywords": "Airports in Rize Province"
-    },
-    "navaids": [
-        {
-            "id": "430642",
-            "filename": "Rize-Artvin_NDB_TR",
-            "ident": "ART",
-            "name": "Rize-Artvin",
-            "type": "NDB",
-            "frequency_khz": "347",
-            "latitude_deg": "41.1815",
-            "longitude_deg": "40.858",
-            "elevation_ft": "",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "LTFO"
-        },
-        {
-            "id": "430643",
-            "filename": "Rize-Artvin_VOR-DME_TN",
-            "ident": "ART",
-            "name": "Rize-Artvin",
-            "type": "VOR-DME",
-            "frequency_khz": "110450",
-            "latitude_deg": "41.1815",
-            "longitude_deg": "40.858",
-            "elevation_ft": "",
-            "iso_country": "TN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "LTFO"
-        }
-    ]
+    }
 }

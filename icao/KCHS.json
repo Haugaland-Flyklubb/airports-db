@@ -179,51 +179,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
         "keywords": "Airports in South Carolina"
-    },
-    "navaids": [
-        {
-            "id": "86749",
-            "filename": "Ashly_NDB_US",
-            "ident": "CH",
-            "name": "Ashly",
-            "type": "NDB",
-            "frequency_khz": "329",
-            "latitude_deg": "32.97629928588867",
-            "longitude_deg": "-80.09750366210938",
-            "elevation_ft": "36",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.034",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KCHS"
-        },
-        {
-            "id": "86777",
-            "filename": "Charleston_VORTAC_US",
-            "ident": "CHS",
-            "name": "Charleston",
-            "type": "VORTAC",
-            "frequency_khz": "113500",
-            "latitude_deg": "32.8942985534668",
-            "longitude_deg": "-80.03780364990234",
-            "elevation_ft": "39",
-            "iso_country": "US",
-            "dme_frequency_khz": "113500",
-            "dme_channel": "082X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.001",
-            "magnetic_variation_deg": "-7.049",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KCHS"
-        }
-    ]
+    }
 }

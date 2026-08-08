@@ -151,29 +151,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
         "keywords": "Airports in Arizona"
-    },
-    "navaids": [
-        {
-            "id": "87559",
-            "filename": "Douglas_VORTAC_US",
-            "ident": "DUG",
-            "name": "Douglas",
-            "type": "VORTAC",
-            "frequency_khz": "108800",
-            "latitude_deg": "31.472700119018555",
-            "longitude_deg": "-109.60199737548828",
-            "elevation_ft": "4160",
-            "iso_country": "US",
-            "dme_frequency_khz": "108800",
-            "dme_channel": "025X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.001",
-            "magnetic_variation_deg": "10.271",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KDUG"
-        }
-    ]
+    }
 }

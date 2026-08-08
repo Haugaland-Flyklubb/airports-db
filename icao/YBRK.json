@@ -123,51 +123,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "93113",
-            "filename": "Rockhampton_VOR-DME_AU",
-            "ident": "RK",
-            "name": "Rockhampton",
-            "type": "VOR-DME",
-            "frequency_khz": "116900",
-            "latitude_deg": "-23.38279914855957",
-            "longitude_deg": "150.4720001220703",
-            "elevation_ft": "43",
-            "iso_country": "AU",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.007",
-            "magnetic_variation_deg": "9.271",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YBRK"
-        },
-        {
-            "id": "93115",
-            "filename": "Rockhampton_NDB_AU",
-            "ident": "RK",
-            "name": "Rockhampton",
-            "type": "NDB",
-            "frequency_khz": "257",
-            "latitude_deg": "-23.370800018310547",
-            "longitude_deg": "150.47500610351562",
-            "elevation_ft": "34",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.27",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YBRK"
-        }
-    ]
+    }
 }

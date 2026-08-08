@@ -85,51 +85,5 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Blekinge_län",
         "keywords": "Blekinge County"
-    },
-    "navaids": [
-        {
-            "id": "90289",
-            "filename": "Ronneby_NDB_SE",
-            "ident": "LF",
-            "name": "Ronneby",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "56.195098876953125",
-            "longitude_deg": "15.247200012207031",
-            "elevation_ft": "",
-            "iso_country": "SE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.554",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ESDF"
-        },
-        {
-            "id": "90492",
-            "filename": "Ronneby_NDB_SE",
-            "ident": "LP",
-            "name": "Ronneby",
-            "type": "NDB",
-            "frequency_khz": "318",
-            "latitude_deg": "56.33980178833008",
-            "longitude_deg": "15.28600025177002",
-            "elevation_ft": "",
-            "iso_country": "SE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.568",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ESDF"
-        }
-    ]
+    }
 }

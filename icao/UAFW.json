@@ -77,29 +77,5 @@
         "iso_country": "KG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chuy_Region",
         "keywords": "Chui"
-    },
-    "navaids": [
-        {
-            "id": "92329",
-            "filename": "Kant_NDB_KG",
-            "ident": "PD",
-            "name": "Kant",
-            "type": "NDB",
-            "frequency_khz": "568",
-            "latitude_deg": "42.878299713134766",
-            "longitude_deg": "74.7782974243164",
-            "elevation_ft": "2549",
-            "iso_country": "KG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.533",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UAFW"
-        }
-    ]
+    }
 }

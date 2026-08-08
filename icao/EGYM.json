@@ -155,29 +155,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "90733",
-            "filename": "Marham_TACAN_GB",
-            "ident": "MAM",
-            "name": "Marham",
-            "type": "TACAN",
-            "frequency_khz": "108700",
-            "latitude_deg": "52.647300720214844",
-            "longitude_deg": "0.5532640218734741",
-            "elevation_ft": "75",
-            "iso_country": "GB",
-            "dme_frequency_khz": "108700",
-            "dme_channel": "024X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.118",
-            "usageType": "HI",
-            "power": "LOW",
-            "associated_airport": "EGYM"
-        }
-    ]
+    }
 }

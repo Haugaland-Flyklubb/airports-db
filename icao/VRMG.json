@@ -69,51 +69,5 @@
         "iso_country": "MV",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Addu_Atoll",
         "keywords": "Seenu Atoll"
-    },
-    "navaids": [
-        {
-            "id": "88259",
-            "filename": "Gan_Island_VOR-DME_MV",
-            "ident": "GAN",
-            "name": "Gan Island",
-            "type": "VOR-DME",
-            "frequency_khz": "113400",
-            "latitude_deg": "-0.694271981716156",
-            "longitude_deg": "73.15550231933594",
-            "elevation_ft": "6",
-            "iso_country": "MV",
-            "dme_frequency_khz": "113400",
-            "dme_channel": "081X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.011",
-            "magnetic_variation_deg": "-4.585",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VRMG"
-        },
-        {
-            "id": "88481",
-            "filename": "Gan_Island_NDB_MV",
-            "ident": "GN",
-            "name": "Gan Island",
-            "type": "NDB",
-            "frequency_khz": "317",
-            "latitude_deg": "-0.6976640224456787",
-            "longitude_deg": "73.16400146484375",
-            "elevation_ft": "",
-            "iso_country": "MV",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.585",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VRMG"
-        }
-    ]
+    }
 }

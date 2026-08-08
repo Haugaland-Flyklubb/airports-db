@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "87911",
-            "filename": "Chetwynd_NDB_CA",
-            "ident": "F6",
-            "name": "Chetwynd",
-            "type": "NDB",
-            "frequency_khz": "210",
-            "latitude_deg": "55.694400787353516",
-            "longitude_deg": "-121.53700256347656",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "20.408",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYCQ"
-        }
-    ]
+    }
 }

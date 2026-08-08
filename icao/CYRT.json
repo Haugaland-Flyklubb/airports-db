@@ -101,51 +101,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
         "keywords": "Airports in Nunavut"
-    },
-    "navaids": [
-        {
-            "id": "93260",
-            "filename": "Rankin_Inlet_NDB_CA",
-            "ident": "RT",
-            "name": "Rankin Inlet",
-            "type": "NDB",
-            "frequency_khz": "284",
-            "latitude_deg": "62.82529830932617",
-            "longitude_deg": "-92.1093978881836",
-            "elevation_ft": "102",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.392",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYRT"
-        },
-        {
-            "id": "95829",
-            "filename": "Rankin_Inlet_VOR-DME_CA",
-            "ident": "YRT",
-            "name": "Rankin Inlet",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "62.813899993896484",
-            "longitude_deg": "-92.11720275878906",
-            "elevation_ft": "140",
-            "iso_country": "CA",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.005",
-            "magnetic_variation_deg": "-7.377",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYRT"
-        }
-    ]
+    }
 }

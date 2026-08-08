@@ -163,29 +163,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "86723",
-            "filename": "Coghlan_Island_NDB_US",
-            "ident": "CGL",
-            "name": "Coghlan Island",
-            "type": "NDB",
-            "frequency_khz": "212",
-            "latitude_deg": "58.35929870605469",
-            "longitude_deg": "-134.6999969482422",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "22.55",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PAJN"
-        }
-    ]
+    }
 }

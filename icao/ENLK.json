@@ -59,29 +59,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nordland",
         "keywords": "Airports in Nordland"
-    },
-    "navaids": [
-        {
-            "id": "93356",
-            "filename": "Sandsund_NDB_NO",
-            "ident": "SAD",
-            "name": "Sandsund",
-            "type": "NDB",
-            "frequency_khz": "348",
-            "latitude_deg": "68.08760070800781",
-            "longitude_deg": "13.63700008392334",
-            "elevation_ft": "",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.542",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ENLK"
-        }
-    ]
+    }
 }

@@ -85,29 +85,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    },
-    "navaids": [
-        {
-            "id": "87454",
-            "filename": "Dundee_NDB_GB",
-            "ident": "DND",
-            "name": "Dundee",
-            "type": "NDB",
-            "frequency_khz": "394",
-            "latitude_deg": "56.455101013183594",
-            "longitude_deg": "-3.114919900894165",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.262",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGPN"
-        }
-    ]
+    }
 }

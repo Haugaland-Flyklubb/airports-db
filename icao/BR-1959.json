@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    },
-    "navaids": [
-        {
-            "id": "88194",
-            "filename": "Furnas_NDB_BR",
-            "ident": "FUR",
-            "name": "Furnas",
-            "type": "NDB",
-            "frequency_khz": "390",
-            "latitude_deg": "-20.70400047302246",
-            "longitude_deg": "-46.337799072265625",
-            "elevation_ft": "2413",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.327",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "BR-1959"
-        }
-    ]
+    }
 }

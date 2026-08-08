@@ -85,51 +85,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Centre-Val_de_Loire",
         "keywords": "Airports in Centre-Val de Loire"
-    },
-    "navaids": [
-        {
-            "id": "91841",
-            "filename": "Orléans_TACAN_FR",
-            "ident": "OAN",
-            "name": "Orléans",
-            "type": "TACAN",
-            "frequency_khz": "116400",
-            "latitude_deg": "47.98939895629883",
-            "longitude_deg": "1.7595800161361694",
-            "elevation_ft": "402",
-            "iso_country": "FR",
-            "dme_frequency_khz": "116400",
-            "dme_channel": "111X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.111",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFOJ"
-        },
-        {
-            "id": "91842",
-            "filename": "Orléans_NDB_FR",
-            "ident": "OAN",
-            "name": "Orléans",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "48.00130081176758",
-            "longitude_deg": "1.768720030784607",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.109",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LFOJ"
-        }
-    ]
+    }
 }

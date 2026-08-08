@@ -115,29 +115,5 @@
         "iso_country": "IE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/County_Dublin",
         "keywords": "Airports in County Dublin"
-    },
-    "navaids": [
-        {
-            "id": "85796",
-            "filename": "Baldonnel_VOR-DME_IE",
-            "ident": "BAL",
-            "name": "Baldonnel",
-            "type": "VOR-DME",
-            "frequency_khz": "115800",
-            "latitude_deg": "53.29990005493164",
-            "longitude_deg": "-6.447780132293701",
-            "elevation_ft": "300",
-            "iso_country": "IE",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.097",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EIME"
-        }
-    ]
+    }
 }

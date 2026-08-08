@@ -91,51 +91,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
         "keywords": "Airports in Rio Grande do Sul"
-    },
-    "navaids": [
-        {
-            "id": "92780",
-            "filename": "Pelotas_VOR_BR",
-            "ident": "PTS",
-            "name": "Pelotas",
-            "type": "VOR",
-            "frequency_khz": "113300",
-            "latitude_deg": "-31.719200134277344",
-            "longitude_deg": "-52.327301025390625",
-            "elevation_ft": "59",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-12.007",
-            "magnetic_variation_deg": "-13.335",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBPK"
-        },
-        {
-            "id": "92781",
-            "filename": "Pelotas_NDB_BR",
-            "ident": "PTS",
-            "name": "Pelotas",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "-31.713499069213867",
-            "longitude_deg": "-52.3306999206543",
-            "elevation_ft": "59",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.322",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBPK"
-        }
-    ]
+    }
 }

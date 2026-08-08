@@ -93,51 +93,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
         "keywords": "Airports in Andalucía"
-    },
-    "navaids": [
-        {
-            "id": "85593",
-            "filename": "Armilla_NDB_ES",
-            "ident": "ARM",
-            "name": "Armilla",
-            "type": "NDB",
-            "frequency_khz": "344",
-            "latitude_deg": "37.07350158691406",
-            "longitude_deg": "-3.802079916000366",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.084",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LEGA"
-        },
-        {
-            "id": "94330",
-            "filename": "Armilla_TACAN_ES",
-            "ident": "TGR",
-            "name": "Armilla",
-            "type": "TACAN",
-            "frequency_khz": "113100",
-            "latitude_deg": "37.13249969482422",
-            "longitude_deg": "-3.6338000297546387",
-            "elevation_ft": "2304",
-            "iso_country": "ES",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.055",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LEGA"
-        }
-    ]
+    }
 }

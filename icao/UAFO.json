@@ -101,51 +101,5 @@
         "iso_country": "KG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Osh_Region",
         "keywords": "Airports in Osh Region"
-    },
-    "navaids": [
-        {
-            "id": "87610",
-            "filename": "Osh_NDB_KG",
-            "ident": "DZ",
-            "name": "Osh",
-            "type": "NDB",
-            "frequency_khz": "780",
-            "latitude_deg": "40.580299377441406",
-            "longitude_deg": "72.8447036743164",
-            "elevation_ft": "",
-            "iso_country": "KG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.148",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UAFO"
-        },
-        {
-            "id": "92152",
-            "filename": "Osh_NDB_KG",
-            "ident": "OU",
-            "name": "Osh",
-            "type": "NDB",
-            "frequency_khz": "780",
-            "latitude_deg": "40.63669967651367",
-            "longitude_deg": "72.74330139160156",
-            "elevation_ft": "",
-            "iso_country": "KG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.167",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UAFO"
-        }
-    ]
+    }
 }

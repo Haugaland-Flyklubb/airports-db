@@ -137,29 +137,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "95789",
-            "filename": "Pitt_Meadows_Bc_VOR_CA",
-            "ident": "YPK",
-            "name": "Pitt Meadows Bc",
-            "type": "VOR",
-            "frequency_khz": "112400",
-            "latitude_deg": "49.21670150756836",
-            "longitude_deg": "-122.71499633789062",
-            "elevation_ft": "44",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "21.001",
-            "magnetic_variation_deg": "18.19",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYPK"
-        }
-    ]
+    }
 }

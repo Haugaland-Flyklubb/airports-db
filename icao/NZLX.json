@@ -121,29 +121,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Otago",
         "keywords": "Airports in Otago Region"
-    },
-    "navaids": [
-        {
-            "id": "90648",
-            "filename": "Alexandra_NDB-DME_NZ",
-            "ident": "LX",
-            "name": "Alexandra",
-            "type": "NDB-DME",
-            "frequency_khz": "386",
-            "latitude_deg": "-45.16550064086914",
-            "longitude_deg": "169.47999572753906",
-            "elevation_ft": "752",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "117100",
-            "dme_channel": "118X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "24.051",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "NZLX"
-        }
-    ]
+    }
 }

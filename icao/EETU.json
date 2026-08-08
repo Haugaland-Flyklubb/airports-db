@@ -77,29 +77,5 @@
         "iso_country": "EE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tartu_County",
         "keywords": "Airports in Tartu County"
-    },
-    "navaids": [
-        {
-            "id": "94897",
-            "filename": "Tartu_NDB_EE",
-            "ident": "UM",
-            "name": "Tartu",
-            "type": "NDB",
-            "frequency_khz": "397",
-            "latitude_deg": "58.30860137939453",
-            "longitude_deg": "26.768400192260742",
-            "elevation_ft": "",
-            "iso_country": "EE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.172",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "EETU"
-        }
-    ]
+    }
 }

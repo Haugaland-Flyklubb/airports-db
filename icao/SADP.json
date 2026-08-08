@@ -69,29 +69,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    },
-    "navaids": [
-        {
-            "id": "92259",
-            "filename": "El_Palomar_VOR-DME_AR",
-            "ident": "PAL",
-            "name": "El Palomar",
-            "type": "VOR-DME",
-            "frequency_khz": "115200",
-            "latitude_deg": "-34.61280059814453",
-            "longitude_deg": "-58.61389923095703",
-            "elevation_ft": "58",
-            "iso_country": "AR",
-            "dme_frequency_khz": "115200",
-            "dme_channel": "099X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.526",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SADP"
-        }
-    ]
+    }
 }

@@ -91,29 +91,5 @@
         "iso_country": "CK",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "85328",
-            "filename": "Aitutaki_NDB_CK",
-            "ident": "AI",
-            "name": "Aitutaki",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "-18.824800491333008",
-            "longitude_deg": "-159.7729949951172",
-            "elevation_ft": "114",
-            "iso_country": "CK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.543",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NCAI"
-        }
-    ]
+    }
 }

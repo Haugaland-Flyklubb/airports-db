@@ -69,29 +69,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/R%C3%ADo_Negro_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "88495",
-            "filename": "General_Roca_NDB_AR",
-            "ident": "GNR",
-            "name": "General Roca",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "-38.98310089111328",
-            "longitude_deg": "-67.6010971069336",
-            "elevation_ft": "853",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.458",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SAHR"
-        }
-    ]
+    }
 }

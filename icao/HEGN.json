@@ -115,29 +115,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Red_Sea_Governorate",
         "keywords": "Airports in Red Sea Governorate"
-    },
-    "navaids": [
-        {
-            "id": "88813",
-            "filename": "Hurghada_VOR-DME_EG",
-            "ident": "HGD",
-            "name": "Hurghada",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "27.177799224853516",
-            "longitude_deg": "33.7963981628418",
-            "elevation_ft": "98",
-            "iso_country": "EG",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.005",
-            "magnetic_variation_deg": "3.136",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HEGN"
-        }
-    ]
+    }
 }

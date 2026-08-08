@@ -123,51 +123,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "86653",
-            "filename": "Elfee_NDB_US",
-            "ident": "CD",
-            "name": "Elfee",
-            "type": "NDB",
-            "frequency_khz": "341",
-            "latitude_deg": "55.29610061645508",
-            "longitude_deg": "-162.78900146484375",
-            "elevation_ft": "36",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "13.269",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "PACD"
-        },
-        {
-            "id": "86656",
-            "filename": "Cold_Bay_VORTAC_US",
-            "ident": "CDB",
-            "name": "Cold Bay",
-            "type": "VORTAC",
-            "frequency_khz": "112600",
-            "latitude_deg": "55.267398834228516",
-            "longitude_deg": "-162.7740020751953",
-            "elevation_ft": "97",
-            "iso_country": "US",
-            "dme_frequency_khz": "112600",
-            "dme_channel": "073X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "14.001",
-            "magnetic_variation_deg": "13.27",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PACD"
-        }
-    ]
+    }
 }

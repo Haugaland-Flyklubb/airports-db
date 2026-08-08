@@ -85,29 +85,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
         "keywords": "Airports in Auvergne-Rhône-Alpes"
-    },
-    "navaids": [
-        {
-            "id": "93180",
-            "filename": "Roanne_VOR_FR",
-            "ident": "ROA",
-            "name": "Roanne",
-            "type": "VOR",
-            "frequency_khz": "109200",
-            "latitude_deg": "46.059200286865234",
-            "longitude_deg": "3.9992799758911133",
-            "elevation_ft": "1106",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.203",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LFLO"
-        }
-    ]
+    }
 }

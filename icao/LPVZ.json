@@ -69,29 +69,5 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Viseu_District",
         "keywords": "Airports in Viseu District"
-    },
-    "navaids": [
-        {
-            "id": "95151",
-            "filename": "Viseu_VOR-DME_PT",
-            "ident": "VIS",
-            "name": "Viseu",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "40.72330093383789",
-            "longitude_deg": "-7.885829925537109",
-            "elevation_ft": "2109",
-            "iso_country": "PT",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-3.416",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LPVZ"
-        }
-    ]
+    }
 }

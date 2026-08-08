@@ -59,29 +59,5 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/El_Beni_Department",
         "keywords": "Airports in El Beni Department"
-    },
-    "navaids": [
-        {
-            "id": "88668",
-            "filename": "Guayaramerin_NDB_BO",
-            "ident": "GYA",
-            "name": "Guayaramerin",
-            "type": "NDB",
-            "frequency_khz": "250",
-            "latitude_deg": "-10.825499534606934",
-            "longitude_deg": "-65.34369659423828",
-            "elevation_ft": "",
-            "iso_country": "BO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.247",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SLGY"
-        }
-    ]
+    }
 }

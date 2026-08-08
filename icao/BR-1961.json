@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
         "keywords": "Airports in Bahia"
-    },
-    "navaids": [
-        {
-            "id": "95075",
-            "filename": "Conquista_NDB_BR",
-            "ident": "VCO",
-            "name": "Conquista",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "-14.866499900817871",
-            "longitude_deg": "-40.8656005859375",
-            "elevation_ft": "2998",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.482",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "BR-1961"
-        }
-    ]
+    }
 }

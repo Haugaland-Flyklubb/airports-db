@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "87457",
-            "filename": "Denison_NDB_US",
-            "ident": "DNI",
-            "name": "Denison",
-            "type": "NDB",
-            "frequency_khz": "341",
-            "latitude_deg": "33.82400131225586",
-            "longitude_deg": "-96.6697006225586",
-            "elevation_ft": "680",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.341",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "3T0"
-        }
-    ]
+    }
 }

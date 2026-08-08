@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "85110",
-            "filename": "Sparwood_NDB_CA",
-            "ident": "5M",
-            "name": "Sparwood",
-            "type": "NDB",
-            "frequency_khz": "200",
-            "latitude_deg": "49.837200164799995",
-            "longitude_deg": "-114.884002686",
-            "elevation_ft": "3800",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.131",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYSW"
-        }
-    ]
+    }
 }

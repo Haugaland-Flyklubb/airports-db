@@ -77,29 +77,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "94453",
-            "filename": "The_Monument_NDB_AU",
-            "ident": "TMO",
-            "name": "The Monument",
-            "type": "NDB",
-            "frequency_khz": "323",
-            "latitude_deg": "-21.80970001220703",
-            "longitude_deg": "139.9239959716797",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.277",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YTMO"
-        }
-    ]
+    }
 }

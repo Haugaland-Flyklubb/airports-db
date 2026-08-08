@@ -85,29 +85,5 @@
         "iso_country": "CG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kouilou_Department",
         "keywords": "Airports in Kouilou Department"
-    },
-    "navaids": [
-        {
-            "id": "89357",
-            "filename": "Pointe_Noire_VOR_CG",
-            "ident": "IT",
-            "name": "Pointe Noire",
-            "type": "VOR",
-            "frequency_khz": "114100",
-            "latitude_deg": "-4.8232197761535645",
-            "longitude_deg": "11.887399673461914",
-            "elevation_ft": "55",
-            "iso_country": "CG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.284",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FCPP"
-        }
-    ]
+    }
 }

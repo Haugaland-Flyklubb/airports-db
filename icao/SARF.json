@@ -69,29 +69,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Formosa_Province",
         "keywords": "Airports in Formosa Province"
-    },
-    "navaids": [
-        {
-            "id": "88158",
-            "filename": "Formosa_VOR-DME_AR",
-            "ident": "FSA",
-            "name": "Formosa",
-            "type": "VOR-DME",
-            "frequency_khz": "115600",
-            "latitude_deg": "-26.21030044555664",
-            "longitude_deg": "-58.224700927734375",
-            "elevation_ft": "193",
-            "iso_country": "AR",
-            "dme_frequency_khz": "115600",
-            "dme_channel": "103X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.007",
-            "magnetic_variation_deg": "-11.057",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SARF"
-        }
-    ]
+    }
 }

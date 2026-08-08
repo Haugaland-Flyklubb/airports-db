@@ -69,29 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fars_Province",
         "keywords": "Airports in Fars Province"
-    },
-    "navaids": [
-        {
-            "id": "90157",
-            "filename": "Lamerd_NDB_IR",
-            "ident": "LAM",
-            "name": "Lamerd",
-            "type": "NDB",
-            "frequency_khz": "346",
-            "latitude_deg": "27.36709976196289",
-            "longitude_deg": "53.1952018737793",
-            "elevation_ft": "1345",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.062",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OISR"
-        }
-    ]
+    }
 }

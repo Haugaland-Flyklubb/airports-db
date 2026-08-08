@@ -69,51 +69,5 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Loreto_Region",
         "keywords": "Airports in Loreto Region"
-    },
-    "navaids": [
-        {
-            "id": "95750",
-            "filename": "Yurimaguas_VOR_PE",
-            "ident": "YMR",
-            "name": "Yurimaguas",
-            "type": "VOR",
-            "frequency_khz": "113700",
-            "latitude_deg": "-5.892250061035156",
-            "longitude_deg": "-76.14080047607422",
-            "elevation_ft": "",
-            "iso_country": "PE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.078",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SPMS"
-        },
-        {
-            "id": "95752",
-            "filename": "Yurimaguas_NDB_PE",
-            "ident": "YMS",
-            "name": "Yurimaguas",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "-5.88332986831665",
-            "longitude_deg": "-76.08329772949219",
-            "elevation_ft": "",
-            "iso_country": "PE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.104",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SPMS"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
         "keywords": "Bayern"
-    },
-    "navaids": [
-        {
-            "id": "88806",
-            "filename": "Hohenfels_NDB_DE",
-            "ident": "HFX",
-            "name": "Hohenfels",
-            "type": "NDB",
-            "frequency_khz": "286",
-            "latitude_deg": "49.218299865722656",
-            "longitude_deg": "11.859399795532227",
-            "elevation_ft": "1579",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.429",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ETIH"
-        }
-    ]
+    }
 }

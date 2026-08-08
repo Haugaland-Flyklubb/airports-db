@@ -101,51 +101,5 @@
         "iso_country": "BD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dhaka_Division",
         "keywords": "Dhaka bibhag"
-    },
-    "navaids": [
-        {
-            "id": "87253",
-            "filename": "Dhaka_VOR-DME_BD",
-            "ident": "DAC",
-            "name": "Dhaka",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "23.82469940185547",
-            "longitude_deg": "90.41259765625",
-            "elevation_ft": "49",
-            "iso_country": "BD",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.292",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VGHS"
-        },
-        {
-            "id": "87306",
-            "filename": "Dhaka_NDB_BD",
-            "ident": "DCN",
-            "name": "Dhaka",
-            "type": "NDB",
-            "frequency_khz": "298",
-            "latitude_deg": "23.842899322509766",
-            "longitude_deg": "90.4177017211914",
-            "elevation_ft": "",
-            "iso_country": "BD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.291",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VGHS"
-        }
-    ]
+    }
 }

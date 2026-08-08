@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michoac%C3%A1n",
         "keywords": "Airports in Michoacán"
-    },
-    "navaids": [
-        {
-            "id": "91066",
-            "filename": "Morelia_VOR-DME_MX",
-            "ident": "MLM",
-            "name": "Morelia",
-            "type": "VOR-DME",
-            "frequency_khz": "114600",
-            "latitude_deg": "19.843799591064453",
-            "longitude_deg": "-101.03700256347656",
-            "elevation_ft": "6033",
-            "iso_country": "MX",
-            "dme_frequency_khz": "114600",
-            "dme_channel": "093X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.003",
-            "magnetic_variation_deg": "6.419",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMMM"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85080",
-            "filename": "Drayton_Valley_Industrial_NDB-DME_CA",
-            "ident": "3M",
-            "name": "Drayton Valley Industrial",
-            "type": "NDB-DME",
-            "frequency_khz": "385",
-            "latitude_deg": "53.26639938354492",
-            "longitude_deg": "-114.95500183105469",
-            "elevation_ft": "2785",
-            "iso_country": "CA",
-            "dme_frequency_khz": "110600",
-            "dme_channel": "043X",
-            "dme_latitude_deg": "53.2681",
-            "dme_longitude_deg": "-114.957",
-            "dme_elevation_ft": "2785",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "17.225",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CER3"
-        }
-    ]
+    }
 }

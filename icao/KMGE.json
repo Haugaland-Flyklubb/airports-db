@@ -155,29 +155,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "87483",
-            "filename": "Dobbins_TACAN_US",
-            "ident": "DOB",
-            "name": "Dobbins",
-            "type": "TACAN",
-            "frequency_khz": "113000",
-            "latitude_deg": "33.91460037231445",
-            "longitude_deg": "-84.5073013305664",
-            "elevation_ft": "1008",
-            "iso_country": "US",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.001",
-            "magnetic_variation_deg": "-4.021",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "KMGE"
-        }
-    ]
+    }
 }

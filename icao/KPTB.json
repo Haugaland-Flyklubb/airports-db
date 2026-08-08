@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": "Virginian airports"
-    },
-    "navaids": [
-        {
-            "id": "92762",
-            "filename": "Petersburg_NDB_US",
-            "ident": "PTB",
-            "name": "Petersburg",
-            "type": "NDB",
-            "frequency_khz": "284",
-            "latitude_deg": "37.13010025024414",
-            "longitude_deg": "-77.57469940185547",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.494",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KPTB"
-        }
-    ]
+    }
 }

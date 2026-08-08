@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "85060",
-            "filename": "Sandy_Bay_NDB_CA",
-            "ident": "1W",
-            "name": "Sandy Bay",
-            "type": "NDB",
-            "frequency_khz": "412",
-            "latitude_deg": "55.54330062866211",
-            "longitude_deg": "-102.2760009765625",
-            "elevation_ft": "1000",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.555",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CJY4"
-        }
-    ]
+    }
 }

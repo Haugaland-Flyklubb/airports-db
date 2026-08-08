@@ -77,51 +77,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
         "keywords": "Airports in Gujarat"
-    },
-    "navaids": [
-        {
-            "id": "85844",
-            "filename": "Bhuj_VOR-DME_IN",
-            "ident": "BBJ",
-            "name": "Bhuj",
-            "type": "VOR-DME",
-            "frequency_khz": "112600",
-            "latitude_deg": "23.271099090576172",
-            "longitude_deg": "69.66780090332031",
-            "elevation_ft": "268",
-            "iso_country": "IN",
-            "dme_frequency_khz": "112600",
-            "dme_channel": "073X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.006",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VABJ"
-        },
-        {
-            "id": "86065",
-            "filename": "Bhuj_NDB_IN",
-            "ident": "BJ",
-            "name": "Bhuj",
-            "type": "NDB",
-            "frequency_khz": "404",
-            "latitude_deg": "23.27829933166504",
-            "longitude_deg": "69.67120361328125",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.005",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VABJ"
-        }
-    ]
+    }
 }

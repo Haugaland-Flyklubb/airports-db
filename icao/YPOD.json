@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    },
-    "navaids": [
-        {
-            "id": "92600",
-            "filename": "Portland_NDB_AU",
-            "ident": "POD",
-            "name": "Portland",
-            "type": "NDB",
-            "frequency_khz": "212",
-            "latitude_deg": "-38.31439971923828",
-            "longitude_deg": "141.47300720214844",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.108",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YPOD"
-        }
-    ]
+    }
 }

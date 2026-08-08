@@ -139,51 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
         "keywords": "Airports in New Jersey"
-    },
-    "navaids": [
-        {
-            "id": "85575",
-            "filename": "Yardley_VOR-DME_US",
-            "ident": "ARD",
-            "name": "Yardley",
-            "type": "VOR-DME",
-            "frequency_khz": "108200",
-            "latitude_deg": "40.253299713134766",
-            "longitude_deg": "-74.90760040283203",
-            "elevation_ft": "300",
-            "iso_country": "US",
-            "dme_frequency_khz": "108200",
-            "dme_channel": "019X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10.002",
-            "magnetic_variation_deg": "-12.293",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KTTN"
-        },
-        {
-            "id": "94637",
-            "filename": "Trenn_NDB_US",
-            "ident": "TT",
-            "name": "Trenn",
-            "type": "NDB",
-            "frequency_khz": "369",
-            "latitude_deg": "40.21260070800781",
-            "longitude_deg": "-74.89920043945312",
-            "elevation_ft": "137",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.289",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KTTN"
-        }
-    ]
+    }
 }

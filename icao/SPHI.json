@@ -85,51 +85,5 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lambayeque_Region",
         "keywords": "Airports in Lambayeque Region"
-    },
-    "navaids": [
-        {
-            "id": "86847",
-            "filename": "Chiclayo_VOR-DME_PE",
-            "ident": "CLA",
-            "name": "Chiclayo",
-            "type": "VOR-DME",
-            "frequency_khz": "114900",
-            "latitude_deg": "-6.717219829559326",
-            "longitude_deg": "-79.81919860839844",
-            "elevation_ft": "121",
-            "iso_country": "PE",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "0.361",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SPHI"
-        },
-        {
-            "id": "88840",
-            "filename": "Chiclayo_NDB_PE",
-            "ident": "HIC",
-            "name": "Chiclayo",
-            "type": "NDB",
-            "frequency_khz": "305",
-            "latitude_deg": "-6.7793498039245605",
-            "longitude_deg": "-79.82969665527344",
-            "elevation_ft": "",
-            "iso_country": "PE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.374",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SPHI"
-        }
-    ]
+    }
 }

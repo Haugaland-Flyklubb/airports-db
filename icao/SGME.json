@@ -69,29 +69,5 @@
         "iso_country": "PY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Boquer%C3%B3n_Department",
         "keywords": "Airports in Boquerón Department"
-    },
-    "navaids": [
-        {
-            "id": "90798",
-            "filename": "Mariscal_Estigarribia_NDB_PY",
-            "ident": "MCL",
-            "name": "Mariscal Estigarribia",
-            "type": "NDB",
-            "frequency_khz": "381",
-            "latitude_deg": "-22.042499542236328",
-            "longitude_deg": "-60.61690139770508",
-            "elevation_ft": "682",
-            "iso_country": "PY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.301",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SGME"
-        }
-    ]
+    }
 }

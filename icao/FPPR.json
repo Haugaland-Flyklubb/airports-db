@@ -69,29 +69,5 @@
         "iso_country": "ST",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Pr%C3%ADncipe",
         "keywords": "Airports in Autonomous Region of Principe"
-    },
-    "navaids": [
-        {
-            "id": "92670",
-            "filename": "Principe_NDB_ST",
-            "ident": "PR",
-            "name": "Principe",
-            "type": "NDB",
-            "frequency_khz": "311",
-            "latitude_deg": "1.6660000085830688",
-            "longitude_deg": "7.412360191345215",
-            "elevation_ft": "585",
-            "iso_country": "ST",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.455",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FPPR"
-        }
-    ]
+    }
 }

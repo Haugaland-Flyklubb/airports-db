@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "92089",
-            "filename": "Orange_NDB_AU",
-            "ident": "ORG",
-            "name": "Orange",
-            "type": "NDB",
-            "frequency_khz": "424",
-            "latitude_deg": "-33.38309860229492",
-            "longitude_deg": "149.12399291992188",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.454",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YORG"
-        }
-    ]
+    }
 }

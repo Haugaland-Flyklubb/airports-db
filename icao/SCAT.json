@@ -59,29 +59,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Atacama_Region",
         "keywords": "Airports in Atacama Region"
-    },
-    "navaids": [
-        {
-            "id": "87277",
-            "filename": "Atacama_VOR-DME_CL",
-            "ident": "DAT",
-            "name": "Atacama",
-            "type": "VOR-DME",
-            "frequency_khz": "117100",
-            "latitude_deg": "-27.279399871826172",
-            "longitude_deg": "-70.7761001586914",
-            "elevation_ft": "670",
-            "iso_country": "CL",
-            "dme_frequency_khz": "117100",
-            "dme_channel": "118X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.007",
-            "magnetic_variation_deg": "0.352",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SCAT"
-        }
-    ]
+    }
 }

@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    },
-    "navaids": [
-        {
-            "id": "88120",
-            "filename": "Williamsport_VOR-DME_US",
-            "ident": "FQM",
-            "name": "Williamsport",
-            "type": "VOR-DME",
-            "frequency_khz": "114400",
-            "latitude_deg": "41.338600158691406",
-            "longitude_deg": "-76.77490234375",
-            "elevation_ft": "2090",
-            "iso_country": "US",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.002",
-            "magnetic_variation_deg": "-11.368",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KIPT"
-        },
-        {
-            "id": "92458",
-            "filename": "Picture_Rocks_NDB_US",
-            "ident": "PIX",
-            "name": "Picture Rocks",
-            "type": "NDB",
-            "frequency_khz": "344",
-            "latitude_deg": "41.276798248291016",
-            "longitude_deg": "-76.71009826660156",
-            "elevation_ft": "650",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.383",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KIPT"
-        }
-    ]
+    }
 }

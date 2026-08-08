@@ -91,29 +91,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85145",
-            "filename": "Sundre_NDB_CA",
-            "ident": "9G",
-            "name": "Sundre",
-            "type": "NDB",
-            "frequency_khz": "405",
-            "latitude_deg": "51.779998779296875",
-            "longitude_deg": "-114.68299865722656",
-            "elevation_ft": "3656",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.449",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CFN7"
-        }
-    ]
+    }
 }

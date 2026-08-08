@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "95538",
-            "filename": "Athabasca_NDB-DME_CA",
-            "ident": "X2",
-            "name": "Athabasca",
-            "type": "NDB-DME",
-            "frequency_khz": "329",
-            "latitude_deg": "54.73749923706055",
-            "longitude_deg": "-113.19999694824219",
-            "elevation_ft": "1990",
-            "iso_country": "CA",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "54.7372",
-            "dme_longitude_deg": "-113.2",
-            "dme_elevation_ft": "1990",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "17.025",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYWM"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Calabria",
         "keywords": "CI"
-    },
-    "navaids": [
-        {
-            "id": "90428",
-            "filename": "Lamezia_Terme_VOR-DME_IT",
-            "ident": "LMT",
-            "name": "Lamezia Terme",
-            "type": "VOR-DME",
-            "frequency_khz": "112500",
-            "latitude_deg": "38.902801513671875",
-            "longitude_deg": "16.264999389648438",
-            "elevation_ft": "45",
-            "iso_country": "IT",
-            "dme_frequency_khz": "112500",
-            "dme_channel": "072X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.182",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LICA"
-        }
-    ]
+    }
 }

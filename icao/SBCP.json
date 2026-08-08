@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
         "keywords": "Airports in Rio de Janeiro"
-    },
-    "navaids": [
-        {
-            "id": "86996",
-            "filename": "Campos_NDB_BR",
-            "ident": "CPO",
-            "name": "Campos",
-            "type": "NDB",
-            "frequency_khz": "225",
-            "latitude_deg": "-21.69729995727539",
-            "longitude_deg": "-41.30670166015625",
-            "elevation_ft": "56",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.284",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBCP"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "GL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Avannaata",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "94923",
-            "filename": "Upernavik_NDB_GL",
-            "ident": "UP",
-            "name": "Upernavik",
-            "type": "NDB",
-            "frequency_khz": "399",
-            "latitude_deg": "72.7926025390625",
-            "longitude_deg": "-56.145999908447266",
-            "elevation_ft": "",
-            "iso_country": "GL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-43.268",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "BGUK"
-        }
-    ]
+    }
 }

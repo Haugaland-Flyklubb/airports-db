@@ -69,29 +69,5 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jijel_Province",
         "keywords": "Airports in Jijel Province"
-    },
-    "navaids": [
-        {
-            "id": "89493",
-            "filename": "Jijel_VOR-DME_DZ",
-            "ident": "JIL",
-            "name": "Jijel",
-            "type": "VOR-DME",
-            "frequency_khz": "117900",
-            "latitude_deg": "36.77669906616211",
-            "longitude_deg": "5.877220153808594",
-            "elevation_ft": "49",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "117900",
-            "dme_channel": "126X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.218",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DAAV"
-        }
-    ]
+    }
 }

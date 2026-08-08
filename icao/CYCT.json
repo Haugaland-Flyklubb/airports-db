@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85108",
-            "filename": "Coronation_NDB_CA",
-            "ident": "5J",
-            "name": "Coronation",
-            "type": "NDB",
-            "frequency_khz": "328",
-            "latitude_deg": "52.07440185546875",
-            "longitude_deg": "-111.447998046875",
-            "elevation_ft": "2595",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "15.158",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "CYCT"
-        }
-    ]
+    }
 }

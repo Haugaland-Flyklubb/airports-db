@@ -77,51 +77,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Phetchabun_province",
         "keywords": "Airports in Phetchabun Province"
-    },
-    "navaids": [
-        {
-            "id": "92312",
-            "filename": "Phetchabun_VOR-DME_TH",
-            "ident": "PCB",
-            "name": "Phetchabun",
-            "type": "VOR-DME",
-            "frequency_khz": "115400",
-            "latitude_deg": "16.676000595092773",
-            "longitude_deg": "101.1969985961914",
-            "elevation_ft": "450",
-            "iso_country": "TH",
-            "dme_frequency_khz": "115400",
-            "dme_channel": "101X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.409",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTPB"
-        },
-        {
-            "id": "92411",
-            "filename": "Phetchabun_NDB_TH",
-            "ident": "PH",
-            "name": "Phetchabun",
-            "type": "NDB",
-            "frequency_khz": "283",
-            "latitude_deg": "16.660900115966797",
-            "longitude_deg": "101.19000244140625",
-            "elevation_ft": "",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.409",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VTPB"
-        }
-    ]
+    }
 }

@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "95511",
-            "filename": "Winton_NDB_AU",
-            "ident": "WTN",
-            "name": "Winton",
-            "type": "NDB",
-            "frequency_khz": "386",
-            "latitude_deg": "-22.365299224853516",
-            "longitude_deg": "143.08399963378906",
-            "elevation_ft": "638",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.219",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YWTN"
-        }
-    ]
+    }
 }

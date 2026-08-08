@@ -59,29 +59,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nordland",
         "keywords": "Airports in Nordland"
-    },
-    "navaids": [
-        {
-            "id": "93239",
-            "filename": "Roest_VOR-DME_NO",
-            "ident": "RS",
-            "name": "Roest",
-            "type": "VOR-DME",
-            "frequency_khz": "113500",
-            "latitude_deg": "67.52760314941406",
-            "longitude_deg": "12.100500106811523",
-            "elevation_ft": "33",
-            "iso_country": "NO",
-            "dme_frequency_khz": "113500",
-            "dme_channel": "082X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.001",
-            "magnetic_variation_deg": "1.586",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ENRS"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tanga_Region",
         "keywords": "Airports in Tanga Region"
-    },
-    "navaids": [
-        {
-            "id": "94311",
-            "filename": "Tanga_NDB_TZ",
-            "ident": "TG",
-            "name": "Tanga",
-            "type": "NDB",
-            "frequency_khz": "407",
-            "latitude_deg": "-5.093929767608643",
-            "longitude_deg": "39.071998596191406",
-            "elevation_ft": "129",
-            "iso_country": "TZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.321",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HTTG"
-        }
-    ]
+    }
 }

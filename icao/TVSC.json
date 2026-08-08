@@ -77,29 +77,5 @@
         "iso_country": "VC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grenadines",
         "keywords": "Airports in Grenadines"
-    },
-    "navaids": [
-        {
-            "id": "86564",
-            "filename": "Canouan_NDB_VC",
-            "ident": "CAI",
-            "name": "Canouan",
-            "type": "NDB",
-            "frequency_khz": "302",
-            "latitude_deg": "12.696200370788574",
-            "longitude_deg": "-61.339298248291016",
-            "elevation_ft": "",
-            "iso_country": "VC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.217",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "TVSC"
-        }
-    ]
+    }
 }

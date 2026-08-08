@@ -85,51 +85,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Corsica",
         "keywords": "Corse"
-    },
-    "navaids": [
-        {
-            "id": "94144",
-            "filename": "Solenzara_TACAN_FR",
-            "ident": "SZA",
-            "name": "Solenzara",
-            "type": "TACAN",
-            "frequency_khz": "114000",
-            "latitude_deg": "41.9375",
-            "longitude_deg": "9.416219711303711",
-            "elevation_ft": "28",
-            "iso_country": "FR",
-            "dme_frequency_khz": "114000",
-            "dme_channel": "087X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.086",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFKS"
-        },
-        {
-            "id": "94145",
-            "filename": "Solenzara_NDB_FR",
-            "ident": "SZA",
-            "name": "Solenzara",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "41.93330001831055",
-            "longitude_deg": "9.394000053405762",
-            "elevation_ft": "28",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.083",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LFKS"
-        }
-    ]
+    }
 }

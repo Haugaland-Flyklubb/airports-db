@@ -77,51 +77,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    },
-    "navaids": [
-        {
-            "id": "93449",
-            "filename": "Sorocaba_VOR-DME_BR",
-            "ident": "SCB",
-            "name": "Sorocaba",
-            "type": "VOR-DME",
-            "frequency_khz": "115200",
-            "latitude_deg": "-23.506999969482422",
-            "longitude_deg": "-47.37820053100586",
-            "elevation_ft": "2018",
-            "iso_country": "BR",
-            "dme_frequency_khz": "115200",
-            "dme_channel": "099X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-18.007",
-            "magnetic_variation_deg": "-19.301",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SDCO"
-        },
-        {
-            "id": "93451",
-            "filename": "Sorocaba_NDB_BR",
-            "ident": "SCB",
-            "name": "Sorocaba",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "-23.483200073242188",
-            "longitude_deg": "-47.48469924926758",
-            "elevation_ft": "2077",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.269",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SDCO"
-        }
-    ]
+    }
 }

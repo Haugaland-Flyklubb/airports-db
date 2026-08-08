@@ -93,29 +93,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Normandy",
         "keywords": "Haute-Normandie"
-    },
-    "navaids": [
-        {
-            "id": "87570",
-            "filename": "Deauville_VOR_FR",
-            "ident": "DVL",
-            "name": "Deauville",
-            "type": "VOR",
-            "frequency_khz": "110200",
-            "latitude_deg": "49.310699462890625",
-            "longitude_deg": "0.31272199749946594",
-            "elevation_ft": "497",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-1.492",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFRG"
-        }
-    ]
+    }
 }

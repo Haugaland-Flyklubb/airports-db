@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    },
-    "navaids": [
-        {
-            "id": "85083",
-            "filename": "Postville_NDB_CA",
-            "ident": "3R",
-            "name": "Postville",
-            "type": "NDB",
-            "frequency_khz": "366",
-            "latitude_deg": "54.907501220703125",
-            "longitude_deg": "-59.79690170288086",
-            "elevation_ft": "193",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-24.449",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CCD4"
-        }
-    ]
+    }
 }

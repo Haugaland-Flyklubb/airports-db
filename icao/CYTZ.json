@@ -161,51 +161,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "89373",
-            "filename": "City_Centre_DME_CA",
-            "ident": "ITZ",
-            "name": "City Centre",
-            "type": "DME",
-            "frequency_khz": "110150",
-            "latitude_deg": "43.627201080322266",
-            "longitude_deg": "-79.39939880371094",
-            "elevation_ft": "286",
-            "iso_country": "CA",
-            "dme_frequency_khz": "110150",
-            "dme_channel": "038Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.29",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYTZ"
-        },
-        {
-            "id": "94741",
-            "filename": "Gibraltar_Point_NDB_CA",
-            "ident": "TZ",
-            "name": "Gibraltar Point",
-            "type": "NDB",
-            "frequency_khz": "257",
-            "latitude_deg": "43.61280059814453",
-            "longitude_deg": "-79.3855972290039",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.294",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYTZ"
-        }
-    ]
+    }
 }

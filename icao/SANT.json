@@ -77,29 +77,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tucum%C3%A1n_Province",
         "keywords": "Airports in Tucumán Province"
-    },
-    "navaids": [
-        {
-            "id": "94665",
-            "filename": "Tucuman_VOR-DME_AR",
-            "ident": "TUC",
-            "name": "Tucuman",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "-26.845800399780273",
-            "longitude_deg": "-65.1082992553711",
-            "elevation_ft": "1483",
-            "iso_country": "AR",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.007",
-            "magnetic_variation_deg": "-4.433",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SANT"
-        }
-    ]
+    }
 }

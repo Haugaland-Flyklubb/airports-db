@@ -69,51 +69,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Miranda_(state)",
         "keywords": "Airports in Miranda State"
-    },
-    "navaids": [
-        {
-            "id": "86615",
-            "filename": "Cabo_Codera_VOR-DME_VE",
-            "ident": "CBC",
-            "name": "Cabo Codera",
-            "type": "VOR-DME",
-            "frequency_khz": "113500",
-            "latitude_deg": "10.57699966430664",
-            "longitude_deg": "-66.04840087890625",
-            "elevation_ft": "3",
-            "iso_country": "VE",
-            "dme_frequency_khz": "113500",
-            "dme_channel": "082X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10.007",
-            "magnetic_variation_deg": "-11.437",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVHG"
-        },
-        {
-            "id": "88966",
-            "filename": "Higuerote_NDB_VE",
-            "ident": "HOT",
-            "name": "Higuerote",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "10.466699600219727",
-            "longitude_deg": "-66.09559631347656",
-            "elevation_ft": "10",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.405",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SVHG"
-        }
-    ]
+    }
 }

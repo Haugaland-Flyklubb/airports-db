@@ -77,51 +77,5 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/El_Oro_Province",
         "keywords": "Airports in El Oro Province"
-    },
-    "navaids": [
-        {
-            "id": "90942",
-            "filename": "Machala_NDB_EC",
-            "ident": "MHL",
-            "name": "Machala",
-            "type": "NDB",
-            "frequency_khz": "250",
-            "latitude_deg": "-3.2686100006103516",
-            "longitude_deg": "-79.96389770507812",
-            "elevation_ft": "13",
-            "iso_country": "EC",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.048",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "EC-0064"
-        },
-        {
-            "id": "90950",
-            "filename": "Machala_VOR-DME_EC",
-            "ident": "MHV",
-            "name": "Machala",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "-3.2950000762939453",
-            "longitude_deg": "-79.94419860839844",
-            "elevation_ft": "26",
-            "iso_country": "EC",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "-0.052",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EC-0064"
-        }
-    ]
+    }
 }

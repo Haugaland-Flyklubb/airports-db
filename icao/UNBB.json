@@ -77,51 +77,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Altai_Krai",
         "keywords": "Airports in Altai Krai"
-    },
-    "navaids": [
-        {
-            "id": "85562",
-            "filename": "Barnaul_NDB_RU",
-            "ident": "AR",
-            "name": "Barnaul",
-            "type": "NDB",
-            "frequency_khz": "428",
-            "latitude_deg": "53.380001068115234",
-            "longitude_deg": "83.61170196533203",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.347",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "UNBB"
-        },
-        {
-            "id": "86416",
-            "filename": "Barnaul_NDB_RU",
-            "ident": "BU",
-            "name": "Barnaul",
-            "type": "NDB",
-            "frequency_khz": "428",
-            "latitude_deg": "53.345001220703125",
-            "longitude_deg": "83.46499633789062",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.369",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "UNBB"
-        }
-    ]
+    }
 }

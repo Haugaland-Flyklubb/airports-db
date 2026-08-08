@@ -77,51 +77,5 @@
         "iso_country": "TN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jendouba_Governorate",
         "keywords": "Airports in Jendouba Governorate"
-    },
-    "navaids": [
-        {
-            "id": "94228",
-            "filename": "Tabarka_VOR-DME_TN",
-            "ident": "TBK",
-            "name": "Tabarka",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "36.97819900512695",
-            "longitude_deg": "8.883580207824707",
-            "elevation_ft": "236",
-            "iso_country": "TN",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.581",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DTKA"
-        },
-        {
-            "id": "94400",
-            "filename": "Tabarka_7_Novembre_NDB_TN",
-            "ident": "TK",
-            "name": "Tabarka 7 Novembre",
-            "type": "NDB",
-            "frequency_khz": "351",
-            "latitude_deg": "36.97809982299805",
-            "longitude_deg": "8.878640174865723",
-            "elevation_ft": "",
-            "iso_country": "TN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.581",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "DTKA"
-        }
-    ]
+    }
 }

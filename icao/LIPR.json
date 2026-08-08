@@ -93,51 +93,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Emilia-Romagna",
         "keywords": "ER"
-    },
-    "navaids": [
-        {
-            "id": "93096",
-            "filename": "Rimini_VORTAC_IT",
-            "ident": "RIM",
-            "name": "Rimini",
-            "type": "VORTAC",
-            "frequency_khz": "116200",
-            "latitude_deg": "44.015201568603516",
-            "longitude_deg": "12.616600036621094",
-            "elevation_ft": "71",
-            "iso_country": "IT",
-            "dme_frequency_khz": "116200",
-            "dme_channel": "109X",
-            "dme_latitude_deg": "44.0151",
-            "dme_longitude_deg": "12.6165",
-            "dme_elevation_ft": "71",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.505",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LIPR"
-        },
-        {
-            "id": "93097",
-            "filename": "Rimini_NDB_IT",
-            "ident": "RIM",
-            "name": "Rimini",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "44.07899856567383",
-            "longitude_deg": "12.505999565124512",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.492",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LIPR"
-        }
-    ]
+    }
 }

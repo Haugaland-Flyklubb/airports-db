@@ -91,29 +91,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/T%C3%A1chira",
         "keywords": "Airports in Táchira State"
-    },
-    "navaids": [
-        {
-            "id": "90292",
-            "filename": "La_Fria_VOR-DME_VE",
-            "ident": "LFA",
-            "name": "La Fria",
-            "type": "VOR-DME",
-            "frequency_khz": "113000",
-            "latitude_deg": "8.244720458984375",
-            "longitude_deg": "-72.26809692382812",
-            "elevation_ft": "323",
-            "iso_country": "VE",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.007",
-            "magnetic_variation_deg": "-7.289",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVLF"
-        }
-    ]
+    }
 }

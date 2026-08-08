@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
         "keywords": "Airports in Wisconsin"
-    },
-    "navaids": [
-        {
-            "id": "87625",
-            "filename": "Maggs_NDB_US",
-            "ident": "EA",
-            "name": "Maggs",
-            "type": "NDB",
-            "frequency_khz": "239",
-            "latitude_deg": "44.944698333740234",
-            "longitude_deg": "-91.37370300292969",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.257",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KEAU"
-        },
-        {
-            "id": "87633",
-            "filename": "Eau_Claire_VORTAC_US",
-            "ident": "EAU",
-            "name": "Eau Claire",
-            "type": "VORTAC",
-            "frequency_khz": "112900",
-            "latitude_deg": "44.897701263427734",
-            "longitude_deg": "-91.47850036621094",
-            "elevation_ft": "900",
-            "iso_country": "US",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.001",
-            "magnetic_variation_deg": "-0.195",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KEAU"
-        }
-    ]
+    }
 }

@@ -169,51 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
         "keywords": "Airports in Massachusetts"
-    },
-    "navaids": [
-        {
-            "id": "85225",
-            "filename": "Waivs_NDB_US",
-            "ident": "AC",
-            "name": "Waivs",
-            "type": "NDB",
-            "frequency_khz": "248",
-            "latitude_deg": "41.311100006103516",
-            "longitude_deg": "-69.98670196533203",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.315",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KACK"
-        },
-        {
-            "id": "85234",
-            "filename": "Nantucket_VOR-DME_US",
-            "ident": "ACK",
-            "name": "Nantucket",
-            "type": "VOR-DME",
-            "frequency_khz": "116200",
-            "latitude_deg": "41.28179931640625",
-            "longitude_deg": "-70.02670288085938",
-            "elevation_ft": "100",
-            "iso_country": "US",
-            "dme_frequency_khz": "116200",
-            "dme_channel": "109X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-15.001",
-            "magnetic_variation_deg": "-15.298",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KACK"
-        }
-    ]
+    }
 }

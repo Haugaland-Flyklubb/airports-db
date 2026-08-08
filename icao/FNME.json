@@ -69,51 +69,5 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cuando_Cubango_Province",
         "keywords": "Airports in Cuando Cubango Province"
-    },
-    "navaids": [
-        {
-            "id": "89816",
-            "filename": "Menongue_NDB_AO",
-            "ident": "KK",
-            "name": "Menongue",
-            "type": "NDB",
-            "frequency_khz": "293",
-            "latitude_deg": "-14.66670036315918",
-            "longitude_deg": "17.733299255371094",
-            "elevation_ft": "4469",
-            "iso_country": "AO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.572",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FNME"
-        },
-        {
-            "id": "90848",
-            "filename": "Menongue_NDB_AO",
-            "ident": "ME",
-            "name": "Menongue",
-            "type": "NDB",
-            "frequency_khz": "343",
-            "latitude_deg": "-14.633299827575684",
-            "longitude_deg": "17.683300018310547",
-            "elevation_ft": "",
-            "iso_country": "AO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.569",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FNME"
-        }
-    ]
+    }
 }

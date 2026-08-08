@@ -77,29 +77,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pays-de-la-Loire",
         "keywords": "Airports in Pays-de-la-Loire"
-    },
-    "navaids": [
-        {
-            "id": "91304",
-            "filename": "Saint_Nazaire_Montoir_NDB_FR",
-            "ident": "MT",
-            "name": "Saint Nazaire/Montoir",
-            "type": "NDB",
-            "frequency_khz": "398",
-            "latitude_deg": "47.33380126953125",
-            "longitude_deg": "-2.0445001125335693",
-            "elevation_ft": "67",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.231",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LFRZ"
-        }
-    ]
+    }
 }

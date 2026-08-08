@@ -69,51 +69,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tokyo",
         "keywords": "Kanto"
-    },
-    "navaids": [
-        {
-            "id": "88747",
-            "filename": "Hachijojima_NDB_JP",
-            "ident": "HC",
-            "name": "Hachijojima",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "33.11330032348633",
-            "longitude_deg": "139.79100036621094",
-            "elevation_ft": "303",
-            "iso_country": "JP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.011",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "RJTH"
-        },
-        {
-            "id": "88751",
-            "filename": "Hachijojima_VOR-DME_JP",
-            "ident": "HCE",
-            "name": "Hachijojima",
-            "type": "VOR-DME",
-            "frequency_khz": "116650",
-            "latitude_deg": "33.11429977416992",
-            "longitude_deg": "139.78799438476562",
-            "elevation_ft": "339",
-            "iso_country": "JP",
-            "dme_frequency_khz": "116650",
-            "dme_channel": "113Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.011",
-            "magnetic_variation_deg": "-6.011",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJTH"
-        }
-    ]
+    }
 }

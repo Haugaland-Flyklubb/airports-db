@@ -93,29 +93,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
         "keywords": "Niedersachsen"
-    },
-    "navaids": [
-        {
-            "id": "86503",
-            "filename": "Buckeburg_NDB_DE",
-            "ident": "BYC",
-            "name": "Buckeburg",
-            "type": "NDB",
-            "frequency_khz": "368",
-            "latitude_deg": "52.29119873046875",
-            "longitude_deg": "9.090999603271484",
-            "elevation_ft": "292",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.505",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ETHB"
-        }
-    ]
+    }
 }

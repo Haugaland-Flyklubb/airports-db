@@ -101,51 +101,5 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Department",
         "keywords": "Airports in Santa Cruz Department"
-    },
-    "navaids": [
-        {
-            "id": "95149",
-            "filename": "Viru_Viru_VOR-DME_BO",
-            "ident": "VIR",
-            "name": "Viru Viru",
-            "type": "VOR-DME",
-            "frequency_khz": "113800",
-            "latitude_deg": "-17.62849998474121",
-            "longitude_deg": "-63.149898529052734",
-            "elevation_ft": "1224",
-            "iso_country": "BO",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.007",
-            "magnetic_variation_deg": "-9.385",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SLVR"
-        },
-        {
-            "id": "95270",
-            "filename": "Viru_Viru_NDB_BO",
-            "ident": "VRO",
-            "name": "Viru Viru",
-            "type": "NDB",
-            "frequency_khz": "280",
-            "latitude_deg": "-17.536699295043945",
-            "longitude_deg": "-63.20069885253906",
-            "elevation_ft": "1283",
-            "iso_country": "BO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.374",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SLVR"
-        }
-    ]
+    }
 }

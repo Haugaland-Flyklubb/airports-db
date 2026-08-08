@@ -109,29 +109,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "87519",
-            "filename": "Kotti_NDB_US",
-            "ident": "DR",
-            "name": "Kotti",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "29.442699432373047",
-            "longitude_deg": "-100.99199676513672",
-            "elevation_ft": "1149",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.525",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KDRT"
-        }
-    ]
+    }
 }

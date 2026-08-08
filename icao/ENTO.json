@@ -93,29 +93,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vestfold",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "94520",
-            "filename": "Torp_VOR-DME_NO",
-            "ident": "TOR",
-            "name": "Torp",
-            "type": "VOR-DME",
-            "frequency_khz": "113850",
-            "latitude_deg": "59.16910171508789",
-            "longitude_deg": "10.259300231933594",
-            "elevation_ft": "269",
-            "iso_country": "NO",
-            "dme_frequency_khz": "113850",
-            "dme_channel": "085Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "1.017",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "ENTO"
-        }
-    ]
+    }
 }

@@ -121,51 +121,5 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zlín_Region",
         "keywords": "Zlínský kraj"
-    },
-    "navaids": [
-        {
-            "id": "89895",
-            "filename": "Kunovice_NDB_CZ",
-            "ident": "KNE",
-            "name": "Kunovice",
-            "type": "NDB",
-            "frequency_khz": "434",
-            "latitude_deg": "49.04650115966797",
-            "longitude_deg": "17.452199935913086",
-            "elevation_ft": "",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.071",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LKKU"
-        },
-        {
-            "id": "90058",
-            "filename": "Kunovice_NDB_CZ",
-            "ident": "KUN",
-            "name": "Kunovice",
-            "type": "NDB",
-            "frequency_khz": "416",
-            "latitude_deg": "49.11389923095703",
-            "longitude_deg": "17.501399993896484",
-            "elevation_ft": "",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.08",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LKKU"
-        }
-    ]
+    }
 }

@@ -91,29 +91,5 @@
         "iso_country": "LY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ghat_District",
         "keywords": "Ghāt"
-    },
-    "navaids": [
-        {
-            "id": "88400",
-            "filename": "Ghat_NDB_LY",
-            "ident": "GHT",
-            "name": "Ghat",
-            "type": "NDB",
-            "frequency_khz": "386",
-            "latitude_deg": "25.188600540161133",
-            "longitude_deg": "10.137800216674805",
-            "elevation_ft": "",
-            "iso_country": "LY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.316",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HLGT"
-        }
-    ]
+    }
 }

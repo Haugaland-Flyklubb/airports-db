@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "94771",
-            "filename": "Creston_NDB_CA",
-            "ident": "U6",
-            "name": "Creston",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "49.04309844970703",
-            "longitude_deg": "-116.4800033569336",
-            "elevation_ft": "2070",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.343",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CAJ3"
-        }
-    ]
+    }
 }

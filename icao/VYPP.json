@@ -35,29 +35,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kayin_State",
         "keywords": "Airports in Kayin State"
-    },
-    "navaids": [
-        {
-            "id": "92623",
-            "filename": "Hpapun_NDB_MM",
-            "ident": "PP",
-            "name": "Hpapun",
-            "type": "NDB",
-            "frequency_khz": "280",
-            "latitude_deg": "18.067899703979492",
-            "longitude_deg": "97.44629669189453",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.443",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VYPP"
-        }
-    ]
+    }
 }

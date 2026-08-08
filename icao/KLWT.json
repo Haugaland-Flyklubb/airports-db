@@ -129,29 +129,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    },
-    "navaids": [
-        {
-            "id": "90644",
-            "filename": "Lewistown_VORTAC_US",
-            "ident": "LWT",
-            "name": "Lewistown",
-            "type": "VORTAC",
-            "frequency_khz": "112000",
-            "latitude_deg": "47.053001403808594",
-            "longitude_deg": "-109.60600280761719",
-            "elevation_ft": "4133",
-            "iso_country": "US",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "47.0524",
-            "dme_longitude_deg": "-109.606",
-            "dme_elevation_ft": "4130",
-            "slaved_variation_deg": "15.001",
-            "magnetic_variation_deg": "13.054",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KLWT"
-        }
-    ]
+    }
 }

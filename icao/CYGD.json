@@ -121,29 +121,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "88306",
-            "filename": "Goderich_NDB_CA",
-            "ident": "GD",
-            "name": "Goderich",
-            "type": "NDB",
-            "frequency_khz": "261",
-            "latitude_deg": "43.74639892578125",
-            "longitude_deg": "-81.73069763183594",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.397",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYGD"
-        }
-    ]
+    }
 }

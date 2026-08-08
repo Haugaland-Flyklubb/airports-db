@@ -107,29 +107,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Inner_Mongolia",
         "keywords": "Airports in Inner Mongolia Autonomous Region, Nei Mongol"
-    },
-    "navaids": [
-        {
-            "id": "89811",
-            "filename": "Hohhot_NDB_CN",
-            "ident": "KJ",
-            "name": "Hohhot",
-            "type": "NDB",
-            "frequency_khz": "434",
-            "latitude_deg": "40.869998931884766",
-            "longitude_deg": "111.88800048828125",
-            "elevation_ft": "",
-            "iso_country": "CN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.061",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ZBHH"
-        }
-    ]
+    }
 }

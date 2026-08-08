@@ -191,29 +191,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    },
-    "navaids": [
-        {
-            "id": "92332",
-            "filename": "Speez_NDB_US",
-            "ident": "PD",
-            "name": "Speez",
-            "type": "NDB",
-            "frequency_khz": "222",
-            "latitude_deg": "39.90119934082031",
-            "longitude_deg": "-75.09490203857422",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.157",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KPHL"
-        }
-    ]
+    }
 }

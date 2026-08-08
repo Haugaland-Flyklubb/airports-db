@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "87913",
-            "filename": "Victoriaville_NDB_CA",
-            "ident": "F8",
-            "name": "Victoriaville",
-            "type": "NDB",
-            "frequency_khz": "384",
-            "latitude_deg": "46.110599517822266",
-            "longitude_deg": "-71.9271011352539",
-            "elevation_ft": "486",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.247",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CSR3"
-        }
-    ]
+    }
 }

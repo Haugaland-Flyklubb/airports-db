@@ -101,51 +101,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "87631",
-            "filename": "Southampton_NDB_GB",
-            "ident": "EAS",
-            "name": "Southampton",
-            "type": "NDB",
-            "frequency_khz": "392",
-            "latitude_deg": "50.95500183105469",
-            "longitude_deg": "-1.356119990348816",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.393",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGHI"
-        },
-        {
-            "id": "93375",
-            "filename": "Southampton_VOR-DME_GB",
-            "ident": "SAM",
-            "name": "Southampton",
-            "type": "VOR-DME",
-            "frequency_khz": "113350",
-            "latitude_deg": "50.955299377441406",
-            "longitude_deg": "-1.3450000286102295",
-            "elevation_ft": "66",
-            "iso_country": "GB",
-            "dme_frequency_khz": "113350",
-            "dme_channel": "080Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.001",
-            "magnetic_variation_deg": "-2.391",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EGHI"
-        }
-    ]
+    }
 }

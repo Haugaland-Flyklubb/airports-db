@@ -93,51 +93,5 @@
         "iso_country": "MO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Taipa",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "90812",
-            "filename": "Macau_VOR-DME_MO",
-            "ident": "MCU",
-            "name": "Macau",
-            "type": "VOR-DME",
-            "frequency_khz": "116400",
-            "latitude_deg": "22.13559913635254",
-            "longitude_deg": "113.5979995727539",
-            "elevation_ft": "30",
-            "iso_country": "MO",
-            "dme_frequency_khz": "116400",
-            "dme_channel": "111X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.011",
-            "magnetic_variation_deg": "-2.093",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VMMC"
-        },
-        {
-            "id": "95970",
-            "filename": "Jiuzhou_VOR_MO",
-            "ident": "ZAO",
-            "name": "Jiuzhou",
-            "type": "VOR",
-            "frequency_khz": "117200",
-            "latitude_deg": "22.24530029296875",
-            "longitude_deg": "113.61499786376953",
-            "elevation_ft": "",
-            "iso_country": "MO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.011",
-            "magnetic_variation_deg": "-2.105",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VMMC"
-        }
-    ]
+    }
 }

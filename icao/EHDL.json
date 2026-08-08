@@ -93,29 +93,5 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gelderland",
         "keywords": "Airports in Gelderland"
-    },
-    "navaids": [
-        {
-            "id": "87423",
-            "filename": "Deelen_TACAN_NL",
-            "ident": "DLN",
-            "name": "Deelen",
-            "type": "TACAN",
-            "frequency_khz": "112200",
-            "latitude_deg": "52.05720138549805",
-            "longitude_deg": "5.872779846191406",
-            "elevation_ft": "158",
-            "iso_country": "NL",
-            "dme_frequency_khz": "112200",
-            "dme_channel": "059X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.126",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EHDL"
-        }
-    ]
+    }
 }

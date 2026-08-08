@@ -139,29 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
         "keywords": "Airports in West Virginia"
-    },
-    "navaids": [
-        {
-            "id": "89020",
-            "filename": "Huntt_NDB_US",
-            "ident": "HT",
-            "name": "Huntt",
-            "type": "NDB",
-            "frequency_khz": "226",
-            "latitude_deg": "38.39889907836914",
-            "longitude_deg": "-82.6552963256836",
-            "elevation_ft": "758",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.242",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KHTS"
-        }
-    ]
+    }
 }

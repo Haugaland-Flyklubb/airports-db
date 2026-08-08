@@ -85,29 +85,5 @@
         "iso_country": "UA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zaporizhia_Oblast",
         "keywords": "Airports in Zaporizhia Oblast"
-    },
-    "navaids": [
-        {
-            "id": "94442",
-            "filename": "Tomakivka_NDB_UA",
-            "ident": "TM",
-            "name": "Tomakivka",
-            "type": "NDB",
-            "frequency_khz": "518",
-            "latitude_deg": "47.81809997558594",
-            "longitude_deg": "34.73500061035156",
-            "elevation_ft": "",
-            "iso_country": "UA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.237",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "UKDE"
-        }
-    ]
+    }
 }

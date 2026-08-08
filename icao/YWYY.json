@@ -107,51 +107,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
         "keywords": "Tasmanian airports"
-    },
-    "navaids": [
-        {
-            "id": "95533",
-            "filename": "Wynyard_VOR_AU",
-            "ident": "WYY",
-            "name": "Wynyard",
-            "type": "VOR",
-            "frequency_khz": "115800",
-            "latitude_deg": "-40.999298095703125",
-            "longitude_deg": "145.7259979248047",
-            "elevation_ft": "62",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.007",
-            "magnetic_variation_deg": "13.084",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YWYY"
-        },
-        {
-            "id": "95534",
-            "filename": "Wynyard_NDB_AU",
-            "ident": "WYY",
-            "name": "Wynyard",
-            "type": "NDB",
-            "frequency_khz": "302",
-            "latitude_deg": "-40.99800109863281",
-            "longitude_deg": "145.70799255371094",
-            "elevation_ft": "62",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "13.078",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YWYY"
-        }
-    ]
+    }
 }

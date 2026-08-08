@@ -77,51 +77,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tanintharyi_Region",
         "keywords": "Airports in Tanintharyi Division"
-    },
-    "navaids": [
-        {
-            "id": "87588",
-            "filename": "Dawei_VOR-DME_MM",
-            "ident": "DWI",
-            "name": "Dawei",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "14.098199844360352",
-            "longitude_deg": "98.19969940185547",
-            "elevation_ft": "98",
-            "iso_country": "MM",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.404",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VYDW"
-        },
-        {
-            "id": "87589",
-            "filename": "Dawei_NDB_MM",
-            "ident": "DWI",
-            "name": "Dawei",
-            "type": "NDB",
-            "frequency_khz": "310",
-            "latitude_deg": "14.115400314331055",
-            "longitude_deg": "98.2030029296875",
-            "elevation_ft": "84",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.404",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VYDW"
-        }
-    ]
+    }
 }

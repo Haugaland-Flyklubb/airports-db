@@ -139,51 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
         "keywords": "Airports in Missouri"
-    },
-    "navaids": [
-        {
-            "id": "85743",
-            "filename": "Amazon_NDB_US",
-            "ident": "AZN",
-            "name": "Amazon",
-            "type": "NDB",
-            "frequency_khz": "233",
-            "latitude_deg": "39.88399887084961",
-            "longitude_deg": "-94.908203125",
-            "elevation_ft": "823",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.073",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSTJ"
-        },
-        {
-            "id": "93966",
-            "filename": "Tario_NDB_US",
-            "ident": "ST",
-            "name": "Tario",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "39.67570114135742",
-            "longitude_deg": "-94.90689849853516",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.08",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSTJ"
-        }
-    ]
+    }
 }

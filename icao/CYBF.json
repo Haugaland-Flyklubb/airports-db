@@ -69,51 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "95026",
-            "filename": "Bonnyville_NDB_CA",
-            "ident": "V4",
-            "name": "Bonnyville",
-            "type": "NDB",
-            "frequency_khz": "296",
-            "latitude_deg": "54.305301666259766",
-            "longitude_deg": "-110.74400329589844",
-            "elevation_ft": "1836",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "15.298",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYBF"
-        },
-        {
-            "id": "95601",
-            "filename": "Bonnyville_DME_CA",
-            "ident": "Y3",
-            "name": "Bonnyville",
-            "type": "DME",
-            "frequency_khz": "109800",
-            "latitude_deg": "54.306400299072266",
-            "longitude_deg": "-110.74400329589844",
-            "elevation_ft": "1864",
-            "iso_country": "CA",
-            "dme_frequency_khz": "109800",
-            "dme_channel": "035X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "15.298",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYBF"
-        }
-    ]
+    }
 }

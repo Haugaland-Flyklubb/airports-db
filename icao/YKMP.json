@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "89877",
-            "filename": "Kempsey_NDB_AU",
-            "ident": "KMP",
-            "name": "Kempsey",
-            "type": "NDB",
-            "frequency_khz": "230",
-            "latitude_deg": "-31.058300018310547",
-            "longitude_deg": "152.7899932861328",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.087",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YKMP"
-        }
-    ]
+    }
 }

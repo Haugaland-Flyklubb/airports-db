@@ -69,51 +69,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andhra_Pradesh",
         "keywords": "Airports in Andhra Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "85855",
-            "filename": "Vijayawada_VOR-DME_IN",
-            "ident": "BBZ",
-            "name": "Vijayawada",
-            "type": "VOR-DME",
-            "frequency_khz": "116200",
-            "latitude_deg": "16.52079963684082",
-            "longitude_deg": "80.79419708251953",
-            "elevation_ft": "82",
-            "iso_country": "IN",
-            "dme_frequency_khz": "116200",
-            "dme_channel": "109X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.172",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VOBZ"
-        },
-        {
-            "id": "86511",
-            "filename": "Vijayawada_NDB_IN",
-            "ident": "BZ",
-            "name": "Vijayawada",
-            "type": "NDB",
-            "frequency_khz": "393",
-            "latitude_deg": "16.52389907836914",
-            "longitude_deg": "80.78810119628906",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.169",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VOBZ"
-        }
-    ]
+    }
 }

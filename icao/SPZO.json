@@ -93,51 +93,5 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cuzco_Region",
         "keywords": "Airports in Cuzco Region"
-    },
-    "navaids": [
-        {
-            "id": "94947",
-            "filename": "Urcos_VOR-DME_PE",
-            "ident": "URC",
-            "name": "Urcos",
-            "type": "VOR-DME",
-            "frequency_khz": "115600",
-            "latitude_deg": "-13.649399757385254",
-            "longitude_deg": "-71.5864028930664",
-            "elevation_ft": "13631",
-            "iso_country": "PE",
-            "dme_frequency_khz": "115600",
-            "dme_channel": "103X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.007",
-            "magnetic_variation_deg": "-3.413",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SPZO"
-        },
-        {
-            "id": "95988",
-            "filename": "Cusco_VOR-DME_PE",
-            "ident": "ZCO",
-            "name": "Cusco",
-            "type": "VOR-DME",
-            "frequency_khz": "114900",
-            "latitude_deg": "-13.519200325012207",
-            "longitude_deg": "-72.01000213623047",
-            "elevation_ft": "12745",
-            "iso_country": "PE",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.231",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SPZO"
-        }
-    ]
+    }
 }

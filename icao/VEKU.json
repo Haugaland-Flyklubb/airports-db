@@ -85,51 +85,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Assam",
         "keywords": "Airports in Assam"
-    },
-    "navaids": [
-        {
-            "id": "89827",
-            "filename": "Silchar_VOR-DME_IN",
-            "ident": "KKU",
-            "name": "Silchar",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "24.913700103759766",
-            "longitude_deg": "92.97750091552734",
-            "elevation_ft": "353",
-            "iso_country": "IN",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.302",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VEKU"
-        },
-        {
-            "id": "90048",
-            "filename": "Silchar_NDB_IN",
-            "ident": "KU",
-            "name": "Silchar",
-            "type": "NDB",
-            "frequency_khz": "351",
-            "latitude_deg": "24.9197998046875",
-            "longitude_deg": "92.98750305175781",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.302",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VEKU"
-        }
-    ]
+    }
 }

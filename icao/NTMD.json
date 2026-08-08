@@ -69,29 +69,5 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "91546",
-            "filename": "Nuku_Hiva_NDB_PF",
-            "ident": "NH",
-            "name": "Nuku Hiva",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "-8.794440269470215",
-            "longitude_deg": "-140.22000122070312",
-            "elevation_ft": "331",
-            "iso_country": "PF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.383",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "NTMD"
-        }
-    ]
+    }
 }

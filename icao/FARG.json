@@ -69,29 +69,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_West_(South_African_province)",
         "keywords": "Airports in North-West"
-    },
-    "navaids": [
-        {
-            "id": "93069",
-            "filename": "Rustenburg_NDB_ZA",
-            "ident": "RG",
-            "name": "Rustenburg",
-            "type": "NDB",
-            "frequency_khz": "453",
-            "latitude_deg": "-25.649999618530273",
-            "longitude_deg": "27.283300399780273",
-            "elevation_ft": "3700",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.534",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FARG"
-        }
-    ]
+    }
 }

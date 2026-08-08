@@ -59,51 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "91507",
-            "filename": "Norway_House_DME_CA",
-            "ident": "NE",
-            "name": "Norway House",
-            "type": "DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "53.97200012207031",
-            "longitude_deg": "-97.8416976928711",
-            "elevation_ft": "791",
-            "iso_country": "CA",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.244",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYNE"
-        },
-        {
-            "id": "95764",
-            "filename": "Norway_House_NDB_CA",
-            "ident": "YNE",
-            "name": "Norway House",
-            "type": "NDB",
-            "frequency_khz": "207",
-            "latitude_deg": "53.972198486328125",
-            "longitude_deg": "-97.84030151367188",
-            "elevation_ft": "734",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.244",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYNE"
-        }
-    ]
+    }
 }

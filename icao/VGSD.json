@@ -69,51 +69,5 @@
         "iso_country": "BD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rajshahi_Division",
         "keywords": "Rajshahi bibhag"
-    },
-    "navaids": [
-        {
-            "id": "93470",
-            "filename": "Saidpur_NDB_BD",
-            "ident": "SD",
-            "name": "Saidpur",
-            "type": "NDB",
-            "frequency_khz": "268",
-            "latitude_deg": "25.76449966430664",
-            "longitude_deg": "88.90969848632812",
-            "elevation_ft": "",
-            "iso_country": "BD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.161",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VGSD"
-        },
-        {
-            "id": "93486",
-            "filename": "Saidpur_VOR_BD",
-            "ident": "SDP",
-            "name": "Saidpur",
-            "type": "VOR",
-            "frequency_khz": "115800",
-            "latitude_deg": "25.754499435424805",
-            "longitude_deg": "88.90989685058594",
-            "elevation_ft": "125",
-            "iso_country": "BD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.161",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VGSD"
-        }
-    ]
+    }
 }

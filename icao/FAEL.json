@@ -115,29 +115,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Cape",
         "keywords": "Airports in Eastern Cape"
-    },
-    "navaids": [
-        {
-            "id": "87732",
-            "filename": "East_London_VORTAC_ZA",
-            "ident": "ELV",
-            "name": "East London",
-            "type": "VORTAC",
-            "frequency_khz": "114500",
-            "latitude_deg": "-33.0369987487793",
-            "longitude_deg": "27.822999954223633",
-            "elevation_ft": "435",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "114500",
-            "dme_channel": "092X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-22.007",
-            "magnetic_variation_deg": "-26.3",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FAEL"
-        }
-    ]
+    }
 }

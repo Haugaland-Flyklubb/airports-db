@@ -115,29 +115,5 @@
         "iso_country": "BE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Namur_Province",
         "keywords": "Wallonia, Walloon Region"
-    },
-    "navaids": [
-        {
-            "id": "85967",
-            "filename": "Florennes_TACAN_BE",
-            "ident": "BFS",
-            "name": "Florennes",
-            "type": "TACAN",
-            "frequency_khz": "111500",
-            "latitude_deg": "50.24140167236328",
-            "longitude_deg": "4.653059959411621",
-            "elevation_ft": "954",
-            "iso_country": "BE",
-            "dme_frequency_khz": "111500",
-            "dme_channel": "052X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.007",
-            "magnetic_variation_deg": "-0.276",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EBFS"
-        }
-    ]
+    }
 }

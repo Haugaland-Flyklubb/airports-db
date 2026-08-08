@@ -91,29 +91,5 @@
         "iso_country": "AE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Abu_Dhabi_(emirate)",
         "keywords": "Abu Ẓaby"
-    },
-    "navaids": [
-        {
-            "id": "89146",
-            "filename": "Das_Island_NDB_AE",
-            "ident": "ID",
-            "name": "Das Island",
-            "type": "NDB",
-            "frequency_khz": "366",
-            "latitude_deg": "25.165599822998047",
-            "longitude_deg": "52.900299072265625",
-            "elevation_ft": "",
-            "iso_country": "AE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.457",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "OMAS"
-        }
-    ]
+    }
 }

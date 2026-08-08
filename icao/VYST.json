@@ -77,29 +77,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mandalay_Region",
         "keywords": "Airports in Mandalay Division"
-    },
-    "navaids": [
-        {
-            "id": "91035",
-            "filename": "Meiktila_NDB_MM",
-            "ident": "MKT",
-            "name": "Meiktila",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "20.93429946899414",
-            "longitude_deg": "95.91310119628906",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.434",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VYST"
-        }
-    ]
+    }
 }

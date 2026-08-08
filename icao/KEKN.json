@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
         "keywords": "Airports in West Virginia"
-    },
-    "navaids": [
-        {
-            "id": "87701",
-            "filename": "Elkins_VORTAC_US",
-            "ident": "EKN",
-            "name": "Elkins",
-            "type": "VORTAC",
-            "frequency_khz": "114200",
-            "latitude_deg": "38.914398193359375",
-            "longitude_deg": "-80.09929656982422",
-            "elevation_ft": "2160",
-            "iso_country": "US",
-            "dme_frequency_khz": "114200",
-            "dme_channel": "089X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.001",
-            "magnetic_variation_deg": "-8.296",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KEKN"
-        },
-        {
-            "id": "93228",
-            "filename": "Randolph_Co_NDB_US",
-            "ident": "RQY",
-            "name": "Randolph Co",
-            "type": "NDB",
-            "frequency_khz": "284",
-            "latitude_deg": "38.89400100708008",
-            "longitude_deg": "-79.8593978881836",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.401",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KEKN"
-        }
-    ]
+    }
 }

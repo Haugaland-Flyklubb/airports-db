@@ -153,51 +153,5 @@
         "iso_country": "IM",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "86580",
-            "filename": "Carnane_NDB_IM",
-            "ident": "CAR",
-            "name": "Carnane",
-            "type": "NDB",
-            "frequency_khz": "367",
-            "latitude_deg": "54.1411018371582",
-            "longitude_deg": "-4.49167013168335",
-            "elevation_ft": "",
-            "iso_country": "IM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.311",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EGNS"
-        },
-        {
-            "id": "89287",
-            "filename": "Isle_Of_Man_VOR-DME_IM",
-            "ident": "IOM",
-            "name": "Isle Of Man",
-            "type": "VOR-DME",
-            "frequency_khz": "112200",
-            "latitude_deg": "54.066898345947266",
-            "longitude_deg": "-4.76347017288208",
-            "elevation_ft": "573",
-            "iso_country": "IM",
-            "dme_frequency_khz": "112200",
-            "dme_channel": "059X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.001",
-            "magnetic_variation_deg": "-4.371",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EGNS"
-        }
-    ]
+    }
 }

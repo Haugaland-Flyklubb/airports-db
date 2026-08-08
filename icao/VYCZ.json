@@ -85,29 +85,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mandalay_Region",
         "keywords": "Airports in Mandalay Division"
-    },
-    "navaids": [
-        {
-            "id": "90845",
-            "filename": "Mandalay_VOR-DME_MM",
-            "ident": "MDY",
-            "name": "Mandalay",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "21.93429946899414",
-            "longitude_deg": "96.12979888916016",
-            "elevation_ft": "252",
-            "iso_country": "MM",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.428",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VYCZ"
-        }
-    ]
+    }
 }

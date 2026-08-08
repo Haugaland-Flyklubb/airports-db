@@ -101,29 +101,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California",
         "keywords": "Airports in Baja California"
-    },
-    "navaids": [
-        {
-            "id": "94365",
-            "filename": "Tijuana_VOR-DME_MX",
-            "ident": "TIJ",
-            "name": "Tijuana",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "32.540401458740234",
-            "longitude_deg": "-116.9530029296875",
-            "elevation_ft": "489",
-            "iso_country": "MX",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "14.004",
-            "magnetic_variation_deg": "12.319",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMTJ"
-        }
-    ]
+    }
 }

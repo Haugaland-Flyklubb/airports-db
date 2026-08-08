@@ -85,29 +85,5 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Epirus_(region)",
         "keywords": "Ήπειρος"
-    },
-    "navaids": [
-        {
-            "id": "92258",
-            "filename": "Preveza_NDB_GR",
-            "ident": "PAK",
-            "name": "Preveza",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "38.91659927368164",
-            "longitude_deg": "20.757299423217773",
-            "elevation_ft": "",
-            "iso_country": "GR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.582",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LGPZ"
-        }
-    ]
+    }
 }

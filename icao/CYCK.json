@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "85096",
-            "filename": "Chatham_NDB_CA",
-            "ident": "4L",
-            "name": "Chatham",
-            "type": "NDB",
-            "frequency_khz": "236",
-            "latitude_deg": "42.31230163574219",
-            "longitude_deg": "-82.07769775390625",
-            "elevation_ft": "650",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.553",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYCK"
-        }
-    ]
+    }
 }

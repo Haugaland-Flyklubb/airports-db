@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
         "keywords": "Airports in Ohio"
-    },
-    "navaids": [
-        {
-            "id": "95550",
-            "filename": "Xenia_NDB_US",
-            "ident": "XEN",
-            "name": "Xenia",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "39.7150993347168",
-            "longitude_deg": "-83.92990112304688",
-            "elevation_ft": "970",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.425",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "I19"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "94652",
-            "filename": "Troughton_Island_NDB_AU",
-            "ident": "TTX",
-            "name": "Troughton Island",
-            "type": "NDB",
-            "frequency_khz": "413",
-            "latitude_deg": "-13.75469970703125",
-            "longitude_deg": "126.14900207519531",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.519",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YTTI"
-        }
-    ]
+    }
 }

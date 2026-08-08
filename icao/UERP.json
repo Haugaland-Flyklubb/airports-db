@@ -77,29 +77,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sakha_(Yakutia)_Republic",
         "keywords": "Airports in Sakha (Yakutia) Republic"
-    },
-    "navaids": [
-        {
-            "id": "95472",
-            "filename": "Poliarny_NDB_RU",
-            "ident": "WN",
-            "name": "Poliarny",
-            "type": "NDB",
-            "frequency_khz": "525",
-            "latitude_deg": "66.37000274658203",
-            "longitude_deg": "112.06700134277344",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.438",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UERP"
-        }
-    ]
+    }
 }

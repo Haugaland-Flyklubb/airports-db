@@ -93,51 +93,5 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nord-Kivu_Province",
         "keywords": "Airports in Nord-Kivu Province"
-    },
-    "navaids": [
-        {
-            "id": "88511",
-            "filename": "Goma_VOR-DME_CD",
-            "ident": "GOM",
-            "name": "Goma",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "-1.6858500242233276",
-            "longitude_deg": "29.233299255371094",
-            "elevation_ft": "5089",
-            "iso_country": "CD",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.104",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FZNA"
-        },
-        {
-            "id": "88588",
-            "filename": "Goma_NDB_CD",
-            "ident": "GS",
-            "name": "Goma",
-            "type": "NDB",
-            "frequency_khz": "336",
-            "latitude_deg": "-1.6858500242233276",
-            "longitude_deg": "29.21660041809082",
-            "elevation_ft": "",
-            "iso_country": "CD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.106",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "FZNA"
-        }
-    ]
+    }
 }

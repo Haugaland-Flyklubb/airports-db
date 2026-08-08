@@ -99,29 +99,5 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Bohemian_Region",
         "keywords": "Středočeský kraj"
-    },
-    "navaids": [
-        {
-            "id": "95232",
-            "filename": "Brezany_NDB_CZ",
-            "ident": "VO",
-            "name": "Brezany",
-            "type": "NDB",
-            "frequency_khz": "333",
-            "latitude_deg": "50.21110153198242",
-            "longitude_deg": "14.428400039672852",
-            "elevation_ft": "",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.25",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LKVO"
-        }
-    ]
+    }
 }

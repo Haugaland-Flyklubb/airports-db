@@ -69,29 +69,5 @@
         "iso_country": "GA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ngouni%C3%A9_Province",
         "keywords": "Airports in Ngounié Province"
-    },
-    "navaids": [
-        {
-            "id": "91041",
-            "filename": "Mouilla_NDB_GA",
-            "ident": "ML",
-            "name": "Mouilla",
-            "type": "NDB",
-            "frequency_khz": "263",
-            "latitude_deg": "-1.7812600135803223",
-            "longitude_deg": "11.045700073242188",
-            "elevation_ft": "",
-            "iso_country": "GA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.442",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FOGM"
-        }
-    ]
+    }
 }

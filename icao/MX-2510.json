@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chiapas",
         "keywords": "Airports in Chiapas"
-    },
-    "navaids": [
-        {
-            "id": "94149",
-            "filename": "Cristobal_VOR-DME_MX",
-            "ident": "SZT",
-            "name": "Cristobal",
-            "type": "VOR-DME",
-            "frequency_khz": "116000",
-            "latitude_deg": "16.68560028076172",
-            "longitude_deg": "-92.52169799804688",
-            "elevation_ft": "7707",
-            "iso_country": "MX",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.009",
-            "magnetic_variation_deg": "3.196",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MX-2510"
-        }
-    ]
+    }
 }

@@ -147,51 +147,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nova_Scotia",
         "keywords": "Nova Scotian airports"
-    },
-    "navaids": [
-        {
-            "id": "89193",
-            "filename": "Halifax_DME_CA",
-            "ident": "IHZ",
-            "name": "Halifax",
-            "type": "DME",
-            "frequency_khz": "109100",
-            "latitude_deg": "44.892799377441406",
-            "longitude_deg": "-63.513099670410156",
-            "elevation_ft": "495",
-            "iso_country": "CA",
-            "dme_frequency_khz": "109100",
-            "dme_channel": "028X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.593",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYHZ"
-        },
-        {
-            "id": "95692",
-            "filename": "Halifax_VOR-DME_CA",
-            "ident": "YHZ",
-            "name": "Halifax",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "44.923099517822266",
-            "longitude_deg": "-63.401798248291016",
-            "elevation_ft": "604",
-            "iso_country": "CA",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-21.001",
-            "magnetic_variation_deg": "-19.014",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYHZ"
-        }
-    ]
+    }
 }

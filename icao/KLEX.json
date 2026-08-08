@@ -131,51 +131,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
         "keywords": "Airports in Kentucky"
-    },
-    "navaids": [
-        {
-            "id": "89086",
-            "filename": "Lexington_VORTAC_US",
-            "ident": "HYK",
-            "name": "Lexington",
-            "type": "VORTAC",
-            "frequency_khz": "112600",
-            "latitude_deg": "37.966400146484375",
-            "longitude_deg": "-84.47250366210938",
-            "elevation_ft": "1039",
-            "iso_country": "US",
-            "dme_frequency_khz": "112600",
-            "dme_channel": "073X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.001",
-            "magnetic_variation_deg": "-4.524",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KLEX"
-        },
-        {
-            "id": "90262",
-            "filename": "Blayd_NDB_US",
-            "ident": "LE",
-            "name": "Blayd",
-            "type": "NDB",
-            "frequency_khz": "242",
-            "latitude_deg": "37.98699951171875",
-            "longitude_deg": "-84.6604995727539",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.437",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KLEX"
-        }
-    ]
+    }
 }

@@ -115,51 +115,5 @@
         "iso_country": "NA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khomas_Region",
         "keywords": "Airports in Khomas Region"
-    },
-    "navaids": [
-        {
-            "id": "95412",
-            "filename": "Windhoek_NDB_NA",
-            "ident": "WH",
-            "name": "Windhoek",
-            "type": "NDB",
-            "frequency_khz": "280",
-            "latitude_deg": "-22.48419952392578",
-            "longitude_deg": "17.470300674438477",
-            "elevation_ft": "5681",
-            "iso_country": "NA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.132",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FYWH"
-        },
-        {
-            "id": "95416",
-            "filename": "Windhoek_VOR-DME_NA",
-            "ident": "WHV",
-            "name": "Windhoek",
-            "type": "VOR-DME",
-            "frequency_khz": "114500",
-            "latitude_deg": "-22.477500915527344",
-            "longitude_deg": "17.470600128173828",
-            "elevation_ft": "5612",
-            "iso_country": "NA",
-            "dme_frequency_khz": "114500",
-            "dme_channel": "092X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-14.007",
-            "magnetic_variation_deg": "-13.128",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FYWH"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mardin_Province",
         "keywords": "Airports in Mardin Province"
-    },
-    "navaids": [
-        {
-            "id": "91240",
-            "filename": "Mardin_VOR-DME_TR",
-            "ident": "MRD",
-            "name": "Mardin",
-            "type": "VOR-DME",
-            "frequency_khz": "116900",
-            "latitude_deg": "37.227699279785156",
-            "longitude_deg": "40.63859939575195",
-            "elevation_ft": "1729",
-            "iso_country": "TR",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.353",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTCR"
-        },
-        {
-            "id": "91241",
-            "filename": "Mardin_NDB_TR",
-            "ident": "MRD",
-            "name": "Mardin",
-            "type": "NDB",
-            "frequency_khz": "403",
-            "latitude_deg": "37.227699279785156",
-            "longitude_deg": "40.63859939575195",
-            "elevation_ft": "1729",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.359",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LTCR"
-        }
-    ]
+    }
 }

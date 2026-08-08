@@ -77,29 +77,5 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maramureş_County",
         "keywords": "Transylvania, Transylvanian Region"
-    },
-    "navaids": [
-        {
-            "id": "86186",
-            "filename": "Baia_Mare_NDB_RO",
-            "ident": "BMR",
-            "name": "Baia Mare",
-            "type": "NDB",
-            "frequency_khz": "404",
-            "latitude_deg": "47.671199798583984",
-            "longitude_deg": "23.34600067138672",
-            "elevation_ft": "531",
-            "iso_country": "RO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.159",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LRBM"
-        }
-    ]
+    }
 }

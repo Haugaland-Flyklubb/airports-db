@@ -115,51 +115,5 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Drenthe",
         "keywords": "Airports in Drente"
-    },
-    "navaids": [
-        {
-            "id": "87671",
-            "filename": "Eelde_VOR-DME_NL",
-            "ident": "EEL",
-            "name": "Eelde",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "53.16389846801758",
-            "longitude_deg": "6.666679859161377",
-            "elevation_ft": "32",
-            "iso_country": "NL",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "-0.015",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EHGG"
-        },
-        {
-            "id": "93830",
-            "filename": "Eelde_NDB_NL",
-            "ident": "SO",
-            "name": "Eelde",
-            "type": "NDB",
-            "frequency_khz": "330",
-            "latitude_deg": "53.215301513671875",
-            "longitude_deg": "6.785160064697266",
-            "elevation_ft": "3",
-            "iso_country": "NL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.008",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EHGG"
-        }
-    ]
+    }
 }

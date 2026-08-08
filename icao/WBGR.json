@@ -93,51 +93,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
         "keywords": "Airports in Sarawak"
-    },
-    "navaids": [
-        {
-            "id": "91411",
-            "filename": "Miri_NDB_MY",
-            "ident": "MYY",
-            "name": "Miri",
-            "type": "NDB",
-            "frequency_khz": "209",
-            "latitude_deg": "4.299580097198486",
-            "longitude_deg": "113.97599792480469",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.322",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "WBGR"
-        },
-        {
-            "id": "95207",
-            "filename": "Miri_VOR-DME_MY",
-            "ident": "VMI",
-            "name": "Miri",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "4.337779998779297",
-            "longitude_deg": "113.99400329589844",
-            "elevation_ft": "55",
-            "iso_country": "MY",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "0.319",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WBGR"
-        }
-    ]
+    }
 }

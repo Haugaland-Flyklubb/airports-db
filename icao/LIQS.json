@@ -77,29 +77,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tuscany",
         "keywords": "TC"
-    },
-    "navaids": [
-        {
-            "id": "93612",
-            "filename": "Siena_VOR-DME_IT",
-            "ident": "SIE",
-            "name": "Siena",
-            "type": "VOR-DME",
-            "frequency_khz": "110200",
-            "latitude_deg": "43.25279998779297",
-            "longitude_deg": "11.253100395202637",
-            "elevation_ft": "638",
-            "iso_country": "IT",
-            "dme_frequency_khz": "110200",
-            "dme_channel": "039X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.325",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LIQS"
-        }
-    ]
+    }
 }

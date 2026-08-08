@@ -81,29 +81,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "95731",
-            "filename": "Aupaluk_NDB_CA",
-            "ident": "YLA",
-            "name": "Aupaluk",
-            "type": "NDB",
-            "frequency_khz": "248",
-            "latitude_deg": "59.3031005859375",
-            "longitude_deg": "-69.60079956054688",
-            "elevation_ft": "117",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-26.449",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYLA"
-        }
-    ]
+    }
 }

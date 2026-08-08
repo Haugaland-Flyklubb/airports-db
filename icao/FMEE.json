@@ -123,51 +123,5 @@
         "iso_country": "RE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arrondissement_of_Saint-Denis,_R%C3%A9union",
         "keywords": "Airports of Saint-Denis Arrondissement"
-    },
-    "navaids": [
-        {
-            "id": "88212",
-            "filename": "St_Denis_Gillot_NDB_RE",
-            "ident": "FXR",
-            "name": "St Denis Gillot",
-            "type": "NDB",
-            "frequency_khz": "382",
-            "latitude_deg": "-20.8927001953125",
-            "longitude_deg": "55.52619934082031",
-            "elevation_ft": "",
-            "iso_country": "RE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.271",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "FMEE"
-        },
-        {
-            "id": "93479",
-            "filename": "St_Denis_Gillot_VOR-DME_RE",
-            "ident": "SDG",
-            "name": "St Denis Gillot",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "-20.88479995727539",
-            "longitude_deg": "55.50979995727539",
-            "elevation_ft": "57",
-            "iso_country": "RE",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-18.007",
-            "magnetic_variation_deg": "-19.263",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FMEE"
-        }
-    ]
+    }
 }

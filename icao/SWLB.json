@@ -59,29 +59,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)",
         "keywords": "Airports in Amazonas"
-    },
-    "navaids": [
-        {
-            "id": "90214",
-            "filename": "Labrea_NDB_BR",
-            "ident": "LBR",
-            "name": "Labrea",
-            "type": "NDB",
-            "frequency_khz": "295",
-            "latitude_deg": "-7.250370025634766",
-            "longitude_deg": "-64.78389739990234",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.283",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SWLB"
-        }
-    ]
+    }
 }

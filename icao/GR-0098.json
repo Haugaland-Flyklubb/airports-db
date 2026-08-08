@@ -81,29 +81,5 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Attica_(region)",
         "keywords": "Airports in Attica"
-    },
-    "navaids": [
-        {
-            "id": "90070",
-            "filename": "Kavouri_NDB_GR",
-            "ident": "KVR",
-            "name": "Kavouri",
-            "type": "NDB",
-            "frequency_khz": "357",
-            "latitude_deg": "37.81420135498047",
-            "longitude_deg": "23.7593994140625",
-            "elevation_ft": "",
-            "iso_country": "GR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.166",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "GR-0098"
-        }
-    ]
+    }
 }

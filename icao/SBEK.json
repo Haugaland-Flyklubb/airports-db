@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    },
-    "navaids": [
-        {
-            "id": "89427",
-            "filename": "Jacareacanga_VOR-DME_BR",
-            "ident": "JAC",
-            "name": "Jacareacanga",
-            "type": "VOR-DME",
-            "frequency_khz": "112200",
-            "latitude_deg": "-6.23567008972168",
-            "longitude_deg": "-57.77050018310547",
-            "elevation_ft": "323",
-            "iso_country": "BR",
-            "dme_frequency_khz": "112200",
-            "dme_channel": "059X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-14.007",
-            "magnetic_variation_deg": "-15.276",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBEK"
-        },
-        {
-            "id": "89429",
-            "filename": "Jacareacanga_NDB_BR",
-            "ident": "JAC",
-            "name": "Jacareacanga",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "-6.2386698722839355",
-            "longitude_deg": "-57.77399826049805",
-            "elevation_ft": "323",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.274",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBEK"
-        }
-    ]
+    }
 }

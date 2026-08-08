@@ -77,29 +77,5 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guant%C3%A1namo_Province",
         "keywords": "Airports in Guantánamo Province"
-    },
-    "navaids": [
-        {
-            "id": "94845",
-            "filename": "Guantanamo_NDB_CU",
-            "ident": "UGT",
-            "name": "Guantanamo",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "20.078899383544922",
-            "longitude_deg": "-75.1583023071289",
-            "elevation_ft": "",
-            "iso_country": "CU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.403",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MUGT"
-        }
-    ]
+    }
 }

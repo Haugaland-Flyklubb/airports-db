@@ -59,29 +59,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    },
-    "navaids": [
-        {
-            "id": "89235",
-            "filename": "Quilmes_NDB_AR",
-            "ident": "ILM",
-            "name": "Quilmes",
-            "type": "NDB",
-            "frequency_khz": "210",
-            "latitude_deg": "-34.71080017089844",
-            "longitude_deg": "-58.240299224853516",
-            "elevation_ft": "7",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.092",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "SADQ"
-        }
-    ]
+    }
 }

@@ -115,51 +115,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "90998",
-            "filename": "Mackay_VOR-DME_AU",
-            "ident": "MK",
-            "name": "Mackay",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "-21.172800064086914",
-            "longitude_deg": "149.18699645996094",
-            "elevation_ft": "35",
-            "iso_country": "AU",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.007",
-            "magnetic_variation_deg": "8.409",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YBMK"
-        },
-        {
-            "id": "90999",
-            "filename": "Mackay_NDB_AU",
-            "ident": "MK",
-            "name": "Mackay",
-            "type": "NDB",
-            "frequency_khz": "308",
-            "latitude_deg": "-21.162200927734375",
-            "longitude_deg": "149.18600463867188",
-            "elevation_ft": "19",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.407",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YBMK"
-        }
-    ]
+    }
 }

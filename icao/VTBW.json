@@ -69,29 +69,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sa_Kaeo_province",
         "keywords": "Airports in Sa Kaeo Province"
-    },
-    "navaids": [
-        {
-            "id": "95474",
-            "filename": "Watthana_Nakhon_NDB_TH",
-            "ident": "WN",
-            "name": "Watthana Nakhon",
-            "type": "NDB",
-            "frequency_khz": "270",
-            "latitude_deg": "13.768600463867188",
-            "longitude_deg": "102.31199645996094",
-            "elevation_ft": "",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.311",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VTBW"
-        }
-    ]
+    }
 }

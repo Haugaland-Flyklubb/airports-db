@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
         "keywords": "Tasmanian airports"
-    },
-    "navaids": [
-        {
-            "id": "93780",
-            "filename": "Smithton_NDB_AU",
-            "ident": "SMI",
-            "name": "Smithton",
-            "type": "NDB",
-            "frequency_khz": "248",
-            "latitude_deg": "-40.83319854736328",
-            "longitude_deg": "145.08200073242188",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.453",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YSMI"
-        }
-    ]
+    }
 }

@@ -59,29 +59,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lakshadweep",
         "keywords": "Airports in Lakshadweep"
-    },
-    "navaids": [
-        {
-            "id": "85653",
-            "filename": "Agatti_NDB-DME_IN",
-            "ident": "AT",
-            "name": "Agatti",
-            "type": "NDB-DME",
-            "frequency_khz": "360",
-            "latitude_deg": "10.831600189208984",
-            "longitude_deg": "72.17990112304688",
-            "elevation_ft": "13",
-            "iso_country": "IN",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.12",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VOAT"
-        }
-    ]
+    }
 }

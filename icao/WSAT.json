@@ -137,29 +137,5 @@
         "iso_country": "SG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_West",
         "keywords": "Airports in North West"
-    },
-    "navaids": [
-        {
-            "id": "94473",
-            "filename": "Tengah_TACAN_SG",
-            "ident": "TNG",
-            "name": "Tengah",
-            "type": "TACAN",
-            "frequency_khz": "113900",
-            "latitude_deg": "1.3933299779891968",
-            "longitude_deg": "103.71199798583984",
-            "elevation_ft": "50",
-            "iso_country": "SG",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "0.134",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "WSAT"
-        }
-    ]
+    }
 }

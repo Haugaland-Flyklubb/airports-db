@@ -85,29 +85,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cundinamarca_Department",
         "keywords": "Airports in Cundinamarca Department"
-    },
-    "navaids": [
-        {
-            "id": "88416",
-            "filename": "Girardot_VOR-DME_CO",
-            "ident": "GIR",
-            "name": "Girardot",
-            "type": "VOR-DME",
-            "frequency_khz": "117300",
-            "latitude_deg": "4.191669940948486",
-            "longitude_deg": "-74.86579895019531",
-            "elevation_ft": "1063",
-            "iso_country": "CO",
-            "dme_frequency_khz": "117300",
-            "dme_channel": "120X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-5.006",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKGI"
-        }
-    ]
+    }
 }

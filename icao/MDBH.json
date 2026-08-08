@@ -85,51 +85,5 @@
         "iso_country": "DO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Barahona_Province",
         "keywords": "Airports in Barahona Province"
-    },
-    "navaids": [
-        {
-            "id": "86021",
-            "filename": "Barahona_NDB_DO",
-            "ident": "BHN",
-            "name": "Barahona",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "18.242300033569336",
-            "longitude_deg": "-71.11620330810547",
-            "elevation_ft": "10",
-            "iso_country": "DO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.482",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MDBH"
-        },
-        {
-            "id": "86023",
-            "filename": "Barahona_VOR-DME_DO",
-            "ident": "BHO",
-            "name": "Barahona",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "18.254499435424805",
-            "longitude_deg": "-71.13020324707031",
-            "elevation_ft": "34",
-            "iso_country": "DO",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.007",
-            "magnetic_variation_deg": "-9.479",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MDBH"
-        }
-    ]
+    }
 }

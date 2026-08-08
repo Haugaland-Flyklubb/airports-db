@@ -93,51 +93,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
         "keywords": "Limousin, Poitou-Charentes"
-    },
-    "navaids": [
-        {
-            "id": "92424",
-            "filename": "Poitiers_NDB_FR",
-            "ident": "PI",
-            "name": "Poitiers",
-            "type": "NDB",
-            "frequency_khz": "363",
-            "latitude_deg": "46.70389938354492",
-            "longitude_deg": "0.4069719910621643",
-            "elevation_ft": "316",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.295",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LFBI"
-        },
-        {
-            "id": "92603",
-            "filename": "Poitiers_VOR_FR",
-            "ident": "POI",
-            "name": "Poitiers",
-            "type": "VOR",
-            "frequency_khz": "113300",
-            "latitude_deg": "46.58100128173828",
-            "longitude_deg": "0.2981939911842346",
-            "elevation_ft": "426",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-1.308",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFBI"
-        }
-    ]
+    }
 }

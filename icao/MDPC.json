@@ -131,51 +131,5 @@
         "iso_country": "DO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Altagracia_Province",
         "keywords": "Airports in La Altagracia Province"
-    },
-    "navaids": [
-        {
-            "id": "92311",
-            "filename": "Punta_Cana_NDB_DO",
-            "ident": "PCA",
-            "name": "Punta Cana",
-            "type": "NDB",
-            "frequency_khz": "425",
-            "latitude_deg": "18.564300537109375",
-            "longitude_deg": "-68.37139892578125",
-            "elevation_ft": "40",
-            "iso_country": "DO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.247",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MDPC"
-        },
-        {
-            "id": "92560",
-            "filename": "Punta_Cana_VOR-DME_DO",
-            "ident": "PNA",
-            "name": "Punta Cana",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "18.56730079650879",
-            "longitude_deg": "-68.38330078125",
-            "elevation_ft": "40",
-            "iso_country": "DO",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.007",
-            "magnetic_variation_deg": "-11.244",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MDPC"
-        }
-    ]
+    }
 }

@@ -85,51 +85,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/İzmir_Province",
         "keywords": "Airports in İzmir Province"
-    },
-    "navaids": [
-        {
-            "id": "86800",
-            "filename": "Cigli_NDB_TR",
-            "ident": "CIG",
-            "name": "Cigli",
-            "type": "NDB",
-            "frequency_khz": "363",
-            "latitude_deg": "38.530799865722656",
-            "longitude_deg": "27.017200469970703",
-            "elevation_ft": "17",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.443",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LTFA"
-        },
-        {
-            "id": "89843",
-            "filename": "Kaklic_TACAN_TR",
-            "ident": "KLC",
-            "name": "Kaklic",
-            "type": "TACAN",
-            "frequency_khz": "116800",
-            "latitude_deg": "38.513999938964844",
-            "longitude_deg": "26.973800659179688",
-            "elevation_ft": "22",
-            "iso_country": "TR",
-            "dme_frequency_khz": "116800",
-            "dme_channel": "115X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.445",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LTFA"
-        }
-    ]
+    }
 }

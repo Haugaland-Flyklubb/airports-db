@@ -69,29 +69,5 @@
         "iso_country": "NI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Caribbean_Coast_Autonomous_Region",
         "keywords": "Atlántico Sur"
-    },
-    "navaids": [
-        {
-            "id": "86164",
-            "filename": "Bluefields_VOR-DME_NI",
-            "ident": "BLU",
-            "name": "Bluefields",
-            "type": "VOR-DME",
-            "frequency_khz": "116700",
-            "latitude_deg": "11.994500160217285",
-            "longitude_deg": "-83.77259826660156",
-            "elevation_ft": "51",
-            "iso_country": "NI",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.427",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MNBL"
-        }
-    ]
+    }
 }

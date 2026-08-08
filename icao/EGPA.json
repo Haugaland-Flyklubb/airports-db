@@ -121,51 +121,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    },
-    "navaids": [
-        {
-            "id": "90080",
-            "filename": "Kirkwall_NDB_GB",
-            "ident": "KW",
-            "name": "Kirkwall",
-            "type": "NDB",
-            "frequency_khz": "395",
-            "latitude_deg": "58.959598541259766",
-            "longitude_deg": "-2.9115800857543945",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.557",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGPA"
-        },
-        {
-            "id": "90088",
-            "filename": "Kirkwall_VOR-DME_GB",
-            "ident": "KWL",
-            "name": "Kirkwall",
-            "type": "VOR-DME",
-            "frequency_khz": "108600",
-            "latitude_deg": "58.95970153808594",
-            "longitude_deg": "-2.8939499855041504",
-            "elevation_ft": "65",
-            "iso_country": "GB",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.812",
-            "magnetic_variation_deg": "-4.552",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EGPA"
-        }
-    ]
+    }
 }

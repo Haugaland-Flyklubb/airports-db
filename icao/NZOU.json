@@ -121,29 +121,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Otago",
         "keywords": "Airports in Otago Region"
-    },
-    "navaids": [
-        {
-            "id": "92153",
-            "filename": "Oamaru_NDB_NZ",
-            "ident": "OU",
-            "name": "Oamaru",
-            "type": "NDB",
-            "frequency_khz": "302",
-            "latitude_deg": "-44.94729995727539",
-            "longitude_deg": "171.1320037841797",
-            "elevation_ft": "",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "24.121",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "NZOU"
-        }
-    ]
+    }
 }

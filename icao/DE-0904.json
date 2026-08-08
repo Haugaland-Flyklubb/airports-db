@@ -35,29 +35,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Berlin",
         "keywords": "Airports in Berlin"
-    },
-    "navaids": [
-        {
-            "id": "89347",
-            "filename": "Kinston_VORTAC_US",
-            "ident": "ISO",
-            "name": "Kinston",
-            "type": "VORTAC",
-            "frequency_khz": "109600",
-            "latitude_deg": "35.37099838256836",
-            "longitude_deg": "-77.55829620361328",
-            "elevation_ft": "70",
-            "iso_country": "US",
-            "dme_frequency_khz": "109600",
-            "dme_channel": "033X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.001",
-            "magnetic_variation_deg": "-9.235",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "DE-0904"
-        }
-    ]
+    }
 }

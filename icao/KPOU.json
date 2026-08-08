@@ -177,29 +177,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    },
-    "navaids": [
-        {
-            "id": "92593",
-            "filename": "Meier_NDB_US",
-            "ident": "PO",
-            "name": "Meier",
-            "type": "NDB",
-            "frequency_khz": "403",
-            "latitude_deg": "41.57509994506836",
-            "longitude_deg": "-73.96479797363281",
-            "elevation_ft": "9",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.301",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KPOU"
-        }
-    ]
+    }
 }

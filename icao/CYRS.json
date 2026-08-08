@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "85097",
-            "filename": "Red_Sucker_Lake_NDB_CA",
-            "ident": "4M",
-            "name": "Red Sucker Lake",
-            "type": "NDB",
-            "frequency_khz": "399",
-            "latitude_deg": "54.16889953613281",
-            "longitude_deg": "-93.56320190429688",
-            "elevation_ft": "729",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.269",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYRS"
-        }
-    ]
+    }
 }

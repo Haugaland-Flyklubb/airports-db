@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": "Virginian airports"
-    },
-    "navaids": [
-        {
-            "id": "87265",
-            "filename": "Danville_VOR_US",
-            "ident": "DAN",
-            "name": "Danville",
-            "type": "VOR",
-            "frequency_khz": "113100",
-            "latitude_deg": "36.56890106201172",
-            "longitude_deg": "-79.33670043945312",
-            "elevation_ft": "570",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-6.001",
-            "magnetic_variation_deg": "-8.264",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KDAN"
-        }
-    ]
+    }
 }

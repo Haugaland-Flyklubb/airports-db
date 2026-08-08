@@ -85,29 +85,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Krasnoyarsk_Krai",
         "keywords": "Airports in Krasnoyarsk Krai"
-    },
-    "navaids": [
-        {
-            "id": "85953",
-            "filename": "Norilsk_NDB_RU",
-            "ident": "BF",
-            "name": "Norilsk",
-            "type": "NDB",
-            "frequency_khz": "535",
-            "latitude_deg": "69.35169982910156",
-            "longitude_deg": "87.4083023071289",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "18.551",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "UOOO"
-        }
-    ]
+    }
 }

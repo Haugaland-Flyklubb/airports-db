@@ -99,29 +99,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "95870",
-            "filename": "Kapuskasing_DME_CA",
-            "ident": "YU",
-            "name": "Kapuskasing",
-            "type": "DME",
-            "frequency_khz": "109300",
-            "latitude_deg": "49.4119987487793",
-            "longitude_deg": "-82.46489715576172",
-            "elevation_ft": "750",
-            "iso_country": "CA",
-            "dme_frequency_khz": "109300",
-            "dme_channel": "030X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.157",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "CYYU"
-        }
-    ]
+    }
 }

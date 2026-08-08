@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85167",
-            "filename": "Chinchaga_NDB_CA",
-            "ident": "A5",
-            "name": "Chinchaga",
-            "type": "NDB",
-            "frequency_khz": "317",
-            "latitude_deg": "57.54499816894531",
-            "longitude_deg": "-119.11100006103516",
-            "elevation_ft": "2280",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "20.491",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CA-1022"
-        }
-    ]
+    }
 }

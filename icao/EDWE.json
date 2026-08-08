@@ -93,51 +93,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
         "keywords": "Niedersachsen"
-    },
-    "navaids": [
-        {
-            "id": "87741",
-            "filename": "Emden_NDB_DE",
-            "ident": "EMD",
-            "name": "Emden",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "53.39390182495117",
-            "longitude_deg": "7.241690158843994",
-            "elevation_ft": "",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.095",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDWE"
-        },
-        {
-            "id": "87771",
-            "filename": "Emden_DME_DE",
-            "ident": "ENW",
-            "name": "Emden",
-            "type": "DME",
-            "frequency_khz": "115250",
-            "latitude_deg": "53.38909912109375",
-            "longitude_deg": "7.229139804840088",
-            "elevation_ft": "50",
-            "iso_country": "DE",
-            "dme_frequency_khz": "115250",
-            "dme_channel": "099Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.093",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "EDWE"
-        }
-    ]
+    }
 }

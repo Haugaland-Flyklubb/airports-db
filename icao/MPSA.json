@@ -69,29 +69,5 @@
         "iso_country": "PA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Veraguas_Province",
         "keywords": "Airports in Veraguas Province"
-    },
-    "navaids": [
-        {
-            "id": "93985",
-            "filename": "Santiago_VOR-DME_PA",
-            "ident": "STG",
-            "name": "Santiago",
-            "type": "VOR-DME",
-            "frequency_khz": "114500",
-            "latitude_deg": "8.0886697769165",
-            "longitude_deg": "-80.940200805664",
-            "elevation_ft": "272",
-            "iso_country": "PA",
-            "dme_frequency_khz": "114500",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.4",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MPSA"
-        }
-    ]
+    }
 }

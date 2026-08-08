@@ -85,29 +85,5 @@
         "iso_country": "IE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Donegal",
         "keywords": "Airports in County Donegal"
-    },
-    "navaids": [
-        {
-            "id": "86706",
-            "filename": "Donegal_NDB_IE",
-            "ident": "CFN",
-            "name": "Donegal",
-            "type": "NDB",
-            "frequency_khz": "361",
-            "latitude_deg": "55.04399871826172",
-            "longitude_deg": "-8.339280128479004",
-            "elevation_ft": "",
-            "iso_country": "IE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.262",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "EIDL"
-        }
-    ]
+    }
 }

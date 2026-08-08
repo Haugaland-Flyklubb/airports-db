@@ -141,29 +141,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "91056",
-            "filename": "Mildenhall_TACAN_GB",
-            "ident": "MLD",
-            "name": "Mildenhall",
-            "type": "TACAN",
-            "frequency_khz": "115900",
-            "latitude_deg": "52.36330032348633",
-            "longitude_deg": "0.48826900124549866",
-            "elevation_ft": "63",
-            "iso_country": "GB",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.002",
-            "magnetic_variation_deg": "-2.107",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EGUN"
-        }
-    ]
+    }
 }

@@ -101,29 +101,5 @@
         "iso_country": "SR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Para",
         "keywords": "Airports in Para"
-    },
-    "navaids": [
-        {
-            "id": "96159",
-            "filename": "Zanderij_VOR-DME_SR",
-            "ident": "ZY",
-            "name": "Zanderij",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "5.450540065765381",
-            "longitude_deg": "-55.18439865112305",
-            "elevation_ft": "59",
-            "iso_country": "SR",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-14.007",
-            "magnetic_variation_deg": "-16.576",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SMJP"
-        }
-    ]
+    }
 }

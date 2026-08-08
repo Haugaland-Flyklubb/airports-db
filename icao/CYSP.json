@@ -85,29 +85,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "95841",
-            "filename": "Marathon_VOR-DME_CA",
-            "ident": "YSP",
-            "name": "Marathon",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "48.74340057373047",
-            "longitude_deg": "-86.32749938964844",
-            "elevation_ft": "1200",
-            "iso_country": "CA",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.001",
-            "magnetic_variation_deg": "-6.171",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYSP"
-        }
-    ]
+    }
 }

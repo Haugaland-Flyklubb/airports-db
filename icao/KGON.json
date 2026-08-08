@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Connecticut",
         "keywords": "Airports in Connecticut"
-    },
-    "navaids": [
-        {
-            "id": "88512",
-            "filename": "Groton_VOR-DME_US",
-            "ident": "GON",
-            "name": "Groton",
-            "type": "VOR-DME",
-            "frequency_khz": "110850",
-            "latitude_deg": "41.33039855957031",
-            "longitude_deg": "-72.052001953125",
-            "elevation_ft": "20",
-            "iso_country": "US",
-            "dme_frequency_khz": "110850",
-            "dme_channel": "045Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-14.001",
-            "magnetic_variation_deg": "-14.302",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KGON"
-        }
-    ]
+    }
 }

@@ -85,29 +85,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
         "keywords": "Niedersachsen"
-    },
-    "navaids": [
-        {
-            "id": "87497",
-            "filename": "Diepholz_NDB_DE",
-            "ident": "DP",
-            "name": "Diepholz",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "52.59170150756836",
-            "longitude_deg": "8.45341968536377",
-            "elevation_ft": "191",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.371",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ETND"
-        }
-    ]
+    }
 }

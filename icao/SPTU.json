@@ -85,29 +85,5 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Madre_de_Dios_Region",
         "keywords": "Airports in Madre de Dios Region"
-    },
-    "navaids": [
-        {
-            "id": "92343",
-            "filename": "Puerto_Maldonado_VOR-DME_PE",
-            "ident": "PDO",
-            "name": "Puerto Maldonado",
-            "type": "VOR-DME",
-            "frequency_khz": "116100",
-            "latitude_deg": "-12.60830020904541",
-            "longitude_deg": "-69.22720336914062",
-            "elevation_ft": "659",
-            "iso_country": "PE",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-5.528",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SPTU"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ayeyarwady_Region",
         "keywords": "Airports in Ayeyarwady Division"
-    },
-    "navaids": [
-        {
-            "id": "92774",
-            "filename": "Pathein_VOR-DME_MM",
-            "ident": "PTN",
-            "name": "Pathein",
-            "type": "VOR-DME",
-            "frequency_khz": "115600",
-            "latitude_deg": "16.814599990844727",
-            "longitude_deg": "94.77670288085938",
-            "elevation_ft": "20",
-            "iso_country": "MM",
-            "dme_frequency_khz": "115600",
-            "dme_channel": "103X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.484",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VYPN"
-        },
-        {
-            "id": "92775",
-            "filename": "Pathein_NDB_MM",
-            "ident": "PTN",
-            "name": "Pathein",
-            "type": "NDB",
-            "frequency_khz": "415",
-            "latitude_deg": "16.801300048828125",
-            "longitude_deg": "94.77999877929688",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.484",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VYPN"
-        }
-    ]
+    }
 }

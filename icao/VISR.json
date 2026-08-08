@@ -77,51 +77,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir",
         "keywords": "Airports in Jammu and Kashmir"
-    },
-    "navaids": [
-        {
-            "id": "93810",
-            "filename": "Srinagar_VOR-DME_IN",
-            "ident": "SNG",
-            "name": "Srinagar",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "34.00199890136719",
-            "longitude_deg": "74.75460052490234",
-            "elevation_ft": "5458",
-            "iso_country": "IN",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.011",
-            "magnetic_variation_deg": "2.021",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VISR"
-        },
-        {
-            "id": "93812",
-            "filename": "Srinagar_NDB_IN",
-            "ident": "SNG",
-            "name": "Srinagar",
-            "type": "NDB",
-            "frequency_khz": "220",
-            "latitude_deg": "33.9827995300293",
-            "longitude_deg": "74.78230285644531",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.018",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VISR"
-        }
-    ]
+    }
 }

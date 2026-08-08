@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
         "keywords": "Airports in West Virginia"
-    },
-    "navaids": [
-        {
-            "id": "90926",
-            "filename": "Morgantown_VORTAC_US",
-            "ident": "MGW",
-            "name": "Morgantown",
-            "type": "VORTAC",
-            "frequency_khz": "111600",
-            "latitude_deg": "39.55670166015625",
-            "longitude_deg": "-79.86039733886719",
-            "elevation_ft": "2340",
-            "iso_country": "US",
-            "dme_frequency_khz": "111600",
-            "dme_channel": "053X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.001",
-            "magnetic_variation_deg": "-8.51",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "4G7"
-        }
-    ]
+    }
 }

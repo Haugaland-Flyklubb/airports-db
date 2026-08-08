@@ -85,29 +85,5 @@
         "iso_country": "IL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Haifa_District",
         "keywords": "Mehoz Hefa"
-    },
-    "navaids": [
-        {
-            "id": "88801",
-            "filename": "Haifa_NDB_IL",
-            "ident": "HFA",
-            "name": "Haifa",
-            "type": "NDB",
-            "frequency_khz": "323",
-            "latitude_deg": "32.81560134887695",
-            "longitude_deg": "35.0635986328125",
-            "elevation_ft": "",
-            "iso_country": "IL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.467",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LLHA"
-        }
-    ]
+    }
 }

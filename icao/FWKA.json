@@ -69,51 +69,5 @@
         "iso_country": "MW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Karonga_District",
         "keywords": "Airports in Karonga District"
-    },
-    "navaids": [
-        {
-            "id": "89627",
-            "filename": "Karonga_NDB_MW",
-            "ident": "KA",
-            "name": "Karonga",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "-9.951569557189941",
-            "longitude_deg": "33.89509963989258",
-            "elevation_ft": "1667",
-            "iso_country": "MW",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.532",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FWKA"
-        },
-        {
-            "id": "95163",
-            "filename": "Karonga_VOR-DME_MW",
-            "ident": "VKA",
-            "name": "Karonga",
-            "type": "VOR-DME",
-            "frequency_khz": "115300",
-            "latitude_deg": "-9.955140113830566",
-            "longitude_deg": "33.89139938354492",
-            "elevation_ft": "1736",
-            "iso_country": "MW",
-            "dme_frequency_khz": "115300",
-            "dme_channel": "100X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.533",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FWKA"
-        }
-    ]
+    }
 }

@@ -109,51 +109,5 @@
         "iso_country": "CR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alajuela_Province",
         "keywords": "Airports in Alajuela"
-    },
-    "navaids": [
-        {
-            "id": "88962",
-            "filename": "Horcones_NDB_CR",
-            "ident": "HOR",
-            "name": "Horcones",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "9.960530281066895",
-            "longitude_deg": "-84.29350280761719",
-            "elevation_ft": "",
-            "iso_country": "CR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.017",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "MROC"
-        },
-        {
-            "id": "94373",
-            "filename": "El_Coco_VOR-DME_CR",
-            "ident": "TIO",
-            "name": "El Coco",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "9.983610153198242",
-            "longitude_deg": "-84.23609924316406",
-            "elevation_ft": "3021",
-            "iso_country": "CR",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.042",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MROC"
-        }
-    ]
+    }
 }

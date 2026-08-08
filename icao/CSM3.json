@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "92947",
-            "filename": "Thetford_Mines_NDB_CA",
-            "ident": "R1",
-            "name": "Thetford Mines",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "46.04560089111328",
-            "longitude_deg": "-71.26789855957031",
-            "elevation_ft": "1408",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.433",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CSM3"
-        }
-    ]
+    }
 }

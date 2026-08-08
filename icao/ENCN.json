@@ -93,51 +93,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Agder",
         "keywords": "Airports in Agder"
-    },
-    "navaids": [
-        {
-            "id": "91901",
-            "filename": "Odderoy_NDB_NO",
-            "ident": "ODR",
-            "name": "Odderoy",
-            "type": "NDB",
-            "frequency_khz": "372",
-            "latitude_deg": "58.13999938964844",
-            "longitude_deg": "7.999030113220215",
-            "elevation_ft": "55",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.072",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ENCN"
-        },
-        {
-            "id": "94060",
-            "filename": "Svensheia_VOR-DME_NO",
-            "ident": "SVA",
-            "name": "Svensheia",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "58.08449935913086",
-            "longitude_deg": "7.9083099365234375",
-            "elevation_ft": "410",
-            "iso_country": "NO",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.001",
-            "magnetic_variation_deg": "0.051",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "ENCN"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "CM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Province_%28Cameroon%29",
         "keywords": "Airports in West Region"
-    },
-    "navaids": [
-        {
-            "id": "85952",
-            "filename": "Bafoussam_VOR-DME_CM",
-            "ident": "BF",
-            "name": "Bafoussam",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "5.50832986831665",
-            "longitude_deg": "10.36970043182373",
-            "elevation_ft": "4347",
-            "iso_country": "CM",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.043",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FKKU"
-        },
-        {
-            "id": "86233",
-            "filename": "Bafoussam_NDB_CM",
-            "ident": "BO",
-            "name": "Bafoussam",
-            "type": "NDB",
-            "frequency_khz": "266",
-            "latitude_deg": "5.509069919586182",
-            "longitude_deg": "10.367199897766113",
-            "elevation_ft": "",
-            "iso_country": "CM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.042",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FKKU"
-        }
-    ]
+    }
 }

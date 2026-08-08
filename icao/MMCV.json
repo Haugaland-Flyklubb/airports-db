@@ -99,29 +99,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tamaulipas",
         "keywords": "Airports in Tamaulipas"
-    },
-    "navaids": [
-        {
-            "id": "87146",
-            "filename": "Victoria_VOR-DME_MX",
-            "ident": "CVM",
-            "name": "Victoria",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "23.70549964904785",
-            "longitude_deg": "-98.95899963378906",
-            "elevation_ft": "761",
-            "iso_country": "MX",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.011",
-            "magnetic_variation_deg": "5.515",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMCV"
-        }
-    ]
+    }
 }

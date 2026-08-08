@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    },
-    "navaids": [
-        {
-            "id": "86787",
-            "filename": "Koloe_NDB_US",
-            "ident": "CI",
-            "name": "Koloe",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "46.33250045776367",
-            "longitude_deg": "-84.54229736328125",
-            "elevation_ft": "696",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.06",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KCIU"
-        },
-        {
-            "id": "93952",
-            "filename": "Sault_Ste_Marie_VOR-DME_US",
-            "ident": "SSM",
-            "name": "Sault Ste Marie",
-            "type": "VOR-DME",
-            "frequency_khz": "112200",
-            "latitude_deg": "46.4119987487793",
-            "longitude_deg": "-84.31490325927734",
-            "elevation_ft": "690",
-            "iso_country": "US",
-            "dme_frequency_khz": "112200",
-            "dme_channel": "059X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.001",
-            "magnetic_variation_deg": "-7.201",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KCIU"
-        }
-    ]
+    }
 }

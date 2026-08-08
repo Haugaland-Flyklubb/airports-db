@@ -77,51 +77,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Friuli-Venezia_Giulia",
         "keywords": "FV"
-    },
-    "navaids": [
-        {
-            "id": "93102",
-            "filename": "Rivolto_TACAN_IT",
-            "ident": "RIV",
-            "name": "Rivolto",
-            "type": "TACAN",
-            "frequency_khz": "110000",
-            "latitude_deg": "45.99570083618164",
-            "longitude_deg": "13.088399887084961",
-            "elevation_ft": "267",
-            "iso_country": "IT",
-            "dme_frequency_khz": "110000",
-            "dme_channel": "037X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.59",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LIPI"
-        },
-        {
-            "id": "93105",
-            "filename": "Rivolto_NDB_IT",
-            "ident": "RIV",
-            "name": "Rivolto",
-            "type": "NDB",
-            "frequency_khz": "371",
-            "latitude_deg": "45.935298919677734",
-            "longitude_deg": "12.941900253295898",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.57",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LIPI"
-        }
-    ]
+    }
 }

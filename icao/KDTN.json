@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
         "keywords": "Airports in Louisiana"
-    },
-    "navaids": [
-        {
-            "id": "87547",
-            "filename": "Downtown_VOR_US",
-            "ident": "DTN",
-            "name": "Downtown",
-            "type": "VOR",
-            "frequency_khz": "108600",
-            "latitude_deg": "32.53990173339844",
-            "longitude_deg": "-93.74130249023438",
-            "elevation_ft": "175",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.001",
-            "magnetic_variation_deg": "2.448",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KDTN"
-        }
-    ]
+    }
 }

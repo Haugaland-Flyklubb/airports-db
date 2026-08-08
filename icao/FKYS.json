@@ -77,51 +77,5 @@
         "iso_country": "CM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Centre_Province",
         "keywords": "Airports in Centre Region"
-    },
-    "navaids": [
-        {
-            "id": "91625",
-            "filename": "Yaounde_Nsimalen_VOR-DME_CM",
-            "ident": "NLY",
-            "name": "Yaounde Nsimalen",
-            "type": "VOR-DME",
-            "frequency_khz": "115700",
-            "latitude_deg": "3.7258100509643555",
-            "longitude_deg": "11.556500434875488",
-            "elevation_ft": "2318",
-            "iso_country": "CM",
-            "dme_frequency_khz": "115700",
-            "dme_channel": "104X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.104",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FKYS"
-        },
-        {
-            "id": "95770",
-            "filename": "Yaounde_Nsimalen_NDB_CM",
-            "ident": "YNS",
-            "name": "Yaounde Nsimalen",
-            "type": "NDB",
-            "frequency_khz": "368",
-            "latitude_deg": "3.745759963989258",
-            "longitude_deg": "11.557100296020508",
-            "elevation_ft": "",
-            "iso_country": "CM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.101",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FKYS"
-        }
-    ]
+    }
 }

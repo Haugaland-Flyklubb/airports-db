@@ -129,51 +129,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "95379",
-            "filename": "Wolverhampton_NDB_GB",
-            "ident": "WBA",
-            "name": "Wolverhampton",
-            "type": "NDB",
-            "frequency_khz": "356",
-            "latitude_deg": "52.515899658203125",
-            "longitude_deg": "-2.2617599964141846",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.162",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGBO"
-        },
-        {
-            "id": "95482",
-            "filename": "Wolverhampton_DME_GB",
-            "ident": "WOL",
-            "name": "Wolverhampton",
-            "type": "DME",
-            "frequency_khz": "108600",
-            "latitude_deg": "52.51580047607422",
-            "longitude_deg": "-2.261820077896118",
-            "elevation_ft": "300",
-            "iso_country": "GB",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.162",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGBO"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "88618",
-            "filename": "Georgetown_NDB_AU",
-            "ident": "GTN",
-            "name": "Georgetown",
-            "type": "NDB",
-            "frequency_khz": "401",
-            "latitude_deg": "-18.29439926147461",
-            "longitude_deg": "143.5489959716797",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.501",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YGTN"
-        }
-    ]
+    }
 }

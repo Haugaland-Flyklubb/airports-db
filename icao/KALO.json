@@ -169,51 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
         "keywords": "Airports in Iowa"
-    },
-    "navaids": [
-        {
-            "id": "85389",
-            "filename": "Price_NDB_US",
-            "ident": "AL",
-            "name": "Price",
-            "type": "NDB",
-            "frequency_khz": "382",
-            "latitude_deg": "42.62220001220703",
-            "longitude_deg": "-92.5093994140625",
-            "elevation_ft": "921",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.56",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KALO"
-        },
-        {
-            "id": "85417",
-            "filename": "Waterloo_VORTAC_US",
-            "ident": "ALO",
-            "name": "Waterloo",
-            "type": "VORTAC",
-            "frequency_khz": "112200",
-            "latitude_deg": "42.55649948120117",
-            "longitude_deg": "-92.3989028930664",
-            "elevation_ft": "865",
-            "iso_country": "US",
-            "dme_frequency_khz": "112200",
-            "dme_channel": "059X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.001",
-            "magnetic_variation_deg": "0.509",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KALO"
-        }
-    ]
+    }
 }

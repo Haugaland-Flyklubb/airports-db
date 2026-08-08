@@ -69,51 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
         "keywords": "Airports in Rio Grande do Sul"
-    },
-    "navaids": [
-        {
-            "id": "87182",
-            "filename": "Do_Sul_VOR-DME_BR",
-            "ident": "CXS",
-            "name": "Do Sul",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "-29.197999954223633",
-            "longitude_deg": "-51.18870162963867",
-            "elevation_ft": "2472",
-            "iso_country": "BR",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.256",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBCX"
-        },
-        {
-            "id": "87183",
-            "filename": "Do_Sul_NDB_BR",
-            "ident": "CXS",
-            "name": "Do Sul",
-            "type": "NDB",
-            "frequency_khz": "169",
-            "latitude_deg": "-29.143999099731445",
-            "longitude_deg": "-51.23419952392578",
-            "elevation_ft": "",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.252",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBCX"
-        }
-    ]
+    }
 }

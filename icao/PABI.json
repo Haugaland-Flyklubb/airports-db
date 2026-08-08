@@ -185,51 +185,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "86048",
-            "filename": "Big_Delta_VORTAC_US",
-            "ident": "BIG",
-            "name": "Big Delta",
-            "type": "VORTAC",
-            "frequency_khz": "114900",
-            "latitude_deg": "64.00440216064453",
-            "longitude_deg": "-145.7169952392578",
-            "elevation_ft": "1230",
-            "iso_country": "US",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "29.001",
-            "magnetic_variation_deg": "22.559",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PABI"
-        },
-        {
-            "id": "87397",
-            "filename": "Delta_Junction_NDB_US",
-            "ident": "DJN",
-            "name": "Delta Junction",
-            "type": "NDB",
-            "frequency_khz": "347",
-            "latitude_deg": "64.02349853515625",
-            "longitude_deg": "-145.68699645996094",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "22.572",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PABI"
-        }
-    ]
+    }
 }

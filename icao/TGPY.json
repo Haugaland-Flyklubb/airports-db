@@ -85,51 +85,5 @@
         "iso_country": "GD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_George",
         "keywords": "Airports in Saint George"
-    },
-    "navaids": [
-        {
-            "id": "88490",
-            "filename": "Point_Salines_VOR-DME_GD",
-            "ident": "GND",
-            "name": "Point Salines",
-            "type": "VOR-DME",
-            "frequency_khz": "117100",
-            "latitude_deg": "12.001299858093262",
-            "longitude_deg": "-61.785400390625",
-            "elevation_ft": "40",
-            "iso_country": "GD",
-            "dme_frequency_khz": "117100",
-            "dme_channel": "118X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-12.107",
-            "magnetic_variation_deg": "-14.068",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "TGPY"
-        },
-        {
-            "id": "88491",
-            "filename": "Point_Salines_NDB_GD",
-            "ident": "GND",
-            "name": "Point Salines",
-            "type": "NDB",
-            "frequency_khz": "362",
-            "latitude_deg": "12.009300231933594",
-            "longitude_deg": "-61.78099822998047",
-            "elevation_ft": "30",
-            "iso_country": "GD",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.07",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "TGPY"
-        }
-    ]
+    }
 }

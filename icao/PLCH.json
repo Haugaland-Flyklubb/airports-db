@@ -77,29 +77,5 @@
         "iso_country": "KI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Line_Islands",
         "keywords": "Airports in Line Islands"
-    },
-    "navaids": [
-        {
-            "id": "95553",
-            "filename": "Christmas_Island_NDB_KI",
-            "ident": "XI",
-            "name": "Christmas Island",
-            "type": "NDB",
-            "frequency_khz": "333",
-            "latitude_deg": "1.9880599975585938",
-            "longitude_deg": "-157.35299682617188",
-            "elevation_ft": "",
-            "iso_country": "KI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.003",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "PLCH"
-        }
-    ]
+    }
 }

@@ -117,51 +117,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canary_Islands",
         "keywords": "Airports in Canary Islands, Canarias"
-    },
-    "navaids": [
-        {
-            "id": "94306",
-            "filename": "Tenerife_Norte_VOR-DME_ES",
-            "ident": "TFN",
-            "name": "Tenerife Norte",
-            "type": "VOR-DME",
-            "frequency_khz": "117700",
-            "latitude_deg": "28.536800384521484",
-            "longitude_deg": "-16.268800735473633",
-            "elevation_ft": "3360",
-            "iso_country": "ES",
-            "dme_frequency_khz": "117700",
-            "dme_channel": "124X",
-            "dme_latitude_deg": "28.5369",
-            "dme_longitude_deg": "-16.2687",
-            "dme_elevation_ft": "3360",
-            "slaved_variation_deg": "-8.007",
-            "magnetic_variation_deg": "-6.299",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GCXO"
-        },
-        {
-            "id": "94720",
-            "filename": "Tenerife_Norte_NDB_ES",
-            "ident": "TX",
-            "name": "Tenerife Norte",
-            "type": "NDB",
-            "frequency_khz": "410",
-            "latitude_deg": "28.452499389648438",
-            "longitude_deg": "-16.257699966430664",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.298",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "GCXO"
-        }
-    ]
+    }
 }

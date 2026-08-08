@@ -85,29 +85,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Karnataka",
         "keywords": "Airports in Karnataka"
-    },
-    "navaids": [
-        {
-            "id": "95686",
-            "filename": "Yelahanka_NDB_IN",
-            "ident": "YH",
-            "name": "Yelahanka",
-            "type": "NDB",
-            "frequency_khz": "223",
-            "latitude_deg": "13.151399612426758",
-            "longitude_deg": "77.6155014038086",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.485",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VOYK"
-        }
-    ]
+    }
 }

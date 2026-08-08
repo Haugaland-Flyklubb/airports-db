@@ -123,51 +123,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/İstanbul_Province",
         "keywords": "Airports in İstanbul Province"
-    },
-    "navaids": [
-        {
-            "id": "93353",
-            "filename": "Sabiha_Gokcen_NDB_TR",
-            "ident": "SAB",
-            "name": "Sabiha Gokcen",
-            "type": "NDB",
-            "frequency_khz": "347",
-            "latitude_deg": "40.89939880371094",
-            "longitude_deg": "29.32029914855957",
-            "elevation_ft": "",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.175",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LTFJ"
-        },
-        {
-            "id": "93427",
-            "filename": "Sabiha_Gokcen_VOR-DME_TR",
-            "ident": "SBH",
-            "name": "Sabiha Gokcen",
-            "type": "VOR-DME",
-            "frequency_khz": "108800",
-            "latitude_deg": "40.89970016479492",
-            "longitude_deg": "29.32040023803711",
-            "elevation_ft": "328",
-            "iso_country": "TR",
-            "dme_frequency_khz": "108800",
-            "dme_channel": "025X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.175",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "LTFJ"
-        }
-    ]
+    }
 }

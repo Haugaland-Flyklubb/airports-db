@@ -183,51 +183,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Primorsky_Krai",
         "keywords": "Airports in Primorsky Krai"
-    },
-    "navaids": [
-        {
-            "id": "90078",
-            "filename": "Knevichi_NDB_RU",
-            "ident": "KW",
-            "name": "Knevichi",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "43.470001220703125",
-            "longitude_deg": "132.322998046875",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.03",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "UHWW"
-        },
-        {
-            "id": "92877",
-            "filename": "Knevichi_NDB_RU",
-            "ident": "QD",
-            "name": "Knevichi",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "43.36669921875",
-            "longitude_deg": "132.0679931640625",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.006",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "UHWW"
-        }
-    ]
+    }
 }

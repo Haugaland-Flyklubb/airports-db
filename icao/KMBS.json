@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    },
-    "navaids": [
-        {
-            "id": "90762",
-            "filename": "Olste_NDB_US",
-            "ident": "MB",
-            "name": "Olste",
-            "type": "NDB",
-            "frequency_khz": "257",
-            "latitude_deg": "43.46160125732422",
-            "longitude_deg": "-84.17960357666016",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.301",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KMBS"
-        },
-        {
-            "id": "90772",
-            "filename": "Saginaw_VOR-DME_US",
-            "ident": "MBS",
-            "name": "Saginaw",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "43.53160095214844",
-            "longitude_deg": "-84.07720184326172",
-            "elevation_ft": "670",
-            "iso_country": "US",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.001",
-            "magnetic_variation_deg": "-6.366",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KMBS"
-        }
-    ]
+    }
 }

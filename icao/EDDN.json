@@ -125,51 +125,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
         "keywords": "Bayern"
-    },
-    "navaids": [
-        {
-            "id": "91537",
-            "filename": "Nurnberg_DME_DE",
-            "ident": "NGD",
-            "name": "Nurnberg",
-            "type": "DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "49.50120162963867",
-            "longitude_deg": "11.080100059509277",
-            "elevation_ft": "1090",
-            "iso_country": "DE",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.302",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDDN"
-        },
-        {
-            "id": "93267",
-            "filename": "Rothenbach_NDB_DE",
-            "ident": "RTB",
-            "name": "Rothenbach",
-            "type": "NDB",
-            "frequency_khz": "415",
-            "latitude_deg": "49.48270034790039",
-            "longitude_deg": "11.252900123596191",
-            "elevation_ft": "1096",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.331",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "EDDN"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhon_Phanom_province",
         "keywords": "Airports in Nakhon Phanom Province"
-    },
-    "navaids": [
-        {
-            "id": "91603",
-            "filename": "Nakhon_Phanom_VOR-DME_TH",
-            "ident": "NKP",
-            "name": "Nakhon Phanom",
-            "type": "VOR-DME",
-            "frequency_khz": "111600",
-            "latitude_deg": "17.3882999420166",
-            "longitude_deg": "104.63800048828125",
-            "elevation_ft": "603",
-            "iso_country": "TH",
-            "dme_frequency_khz": "111600",
-            "dme_channel": "053X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.473",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTUW"
-        },
-        {
-            "id": "91675",
-            "filename": "Nakhon_Phanom_NDB_TH",
-            "ident": "NP",
-            "name": "Nakhon Phanom",
-            "type": "NDB",
-            "frequency_khz": "383",
-            "latitude_deg": "17.39240074157715",
-            "longitude_deg": "104.64299774169922",
-            "elevation_ft": "",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.473",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VTUW"
-        }
-    ]
+    }
 }

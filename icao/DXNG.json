@@ -85,29 +85,5 @@
         "iso_country": "TG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kara_Region",
         "keywords": "Airports in Kara Region"
-    },
-    "navaids": [
-        {
-            "id": "91731",
-            "filename": "Niamtougou_VOR-DME_TG",
-            "ident": "NT",
-            "name": "Niamtougou",
-            "type": "VOR-DME",
-            "frequency_khz": "113200",
-            "latitude_deg": "9.747329711914062",
-            "longitude_deg": "1.0826900005340576",
-            "elevation_ft": "1516",
-            "iso_country": "TG",
-            "dme_frequency_khz": "113200",
-            "dme_channel": "079X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.195",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DXNG"
-        }
-    ]
+    }
 }

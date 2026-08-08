@@ -77,29 +77,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maluku",
         "keywords": "Airports in Maluku"
-    },
-    "navaids": [
-        {
-            "id": "94419",
-            "filename": "Dumatubin_NDB_ID",
-            "ident": "TL",
-            "name": "Dumatubin",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "-5.664420127868652",
-            "longitude_deg": "132.73199462890625",
-            "elevation_ft": "10",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.59",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAPL"
-        }
-    ]
+    }
 }

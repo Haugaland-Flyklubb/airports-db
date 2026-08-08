@@ -59,29 +59,5 @@
         "iso_country": "GN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bok%C3%A9_Region",
         "keywords": "Airports in Boké Region"
-    },
-    "navaids": [
-        {
-            "id": "93537",
-            "filename": "Sangaredi_NDB_GN",
-            "ident": "SG",
-            "name": "Sangaredi",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "11.128399848937988",
-            "longitude_deg": "-13.83489990234375",
-            "elevation_ft": "",
-            "iso_country": "GN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.067",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "GUSA"
-        }
-    ]
+    }
 }

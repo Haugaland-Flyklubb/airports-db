@@ -93,29 +93,5 @@
         "iso_country": "PR",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "90754",
-            "filename": "Mayaguez_VOR-DME_PR",
-            "ident": "MAZ",
-            "name": "Mayaguez",
-            "type": "VOR-DME",
-            "frequency_khz": "110600",
-            "latitude_deg": "18.256500244140625",
-            "longitude_deg": "-67.1510009765625",
-            "elevation_ft": "18",
-            "iso_country": "PR",
-            "dme_frequency_khz": "110600",
-            "dme_channel": "043X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10.006",
-            "magnetic_variation_deg": "-12.012",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "TJMZ"
-        }
-    ]
+    }
 }

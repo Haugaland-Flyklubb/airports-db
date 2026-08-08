@@ -77,29 +77,5 @@
         "iso_country": "CR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lim%C3%B3n_Province",
         "keywords": "Airports in Limon"
-    },
-    "navaids": [
-        {
-            "id": "90350",
-            "filename": "Limon_VOR-DME_CR",
-            "ident": "LIO",
-            "name": "Limon",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "9.963330268859863",
-            "longitude_deg": "-83.02670288085938",
-            "elevation_ft": "7",
-            "iso_country": "CR",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.481",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MRLM"
-        }
-    ]
+    }
 }

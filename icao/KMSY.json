@@ -153,29 +153,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
         "keywords": "Airports in Louisiana"
-    },
-    "navaids": [
-        {
-            "id": "91270",
-            "filename": "Kinte_NDB_US",
-            "ident": "MS",
-            "name": "Kinte",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "30.02519989013672",
-            "longitude_deg": "-90.39990234375",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.442",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KMSY"
-        }
-    ]
+    }
 }

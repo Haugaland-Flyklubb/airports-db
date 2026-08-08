@@ -77,29 +77,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kütahya_Province",
         "keywords": "Airports in Kütahya Province"
-    },
-    "navaids": [
-        {
-            "id": "90062",
-            "filename": "Kutahya_TACAN_TR",
-            "ident": "KUT",
-            "name": "Kutahya",
-            "type": "TACAN",
-            "frequency_khz": "110900",
-            "latitude_deg": "39.429901123046875",
-            "longitude_deg": "30.01289939880371",
-            "elevation_ft": "3072",
-            "iso_country": "TR",
-            "dme_frequency_khz": "110900",
-            "dme_channel": "046X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.106",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LTBN"
-        }
-    ]
+    }
 }

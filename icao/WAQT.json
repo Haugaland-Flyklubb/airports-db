@@ -69,29 +69,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kalimantan",
         "keywords": "Airports in East Kalimantan"
-    },
-    "navaids": [
-        {
-            "id": "89856",
-            "filename": "Kalimaru_NDB_ID",
-            "ident": "KM",
-            "name": "Kalimaru",
-            "type": "NDB",
-            "frequency_khz": "232",
-            "latitude_deg": "2.1606099605560303",
-            "longitude_deg": "117.43399810791016",
-            "elevation_ft": "49",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.487",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAQT"
-        }
-    ]
+    }
 }

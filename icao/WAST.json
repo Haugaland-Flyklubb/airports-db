@@ -59,29 +59,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southwest_Papua",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "96031",
-            "filename": "Teminabuan_NDB_ID",
-            "ident": "ZI",
-            "name": "Teminabuan",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "-1.4447200298309326",
-            "longitude_deg": "132.02099609375",
-            "elevation_ft": "130",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.17",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAST"
-        }
-    ]
+    }
 }

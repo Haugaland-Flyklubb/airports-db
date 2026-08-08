@@ -155,51 +155,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
         "keywords": "Airports in Iowa"
-    },
-    "navaids": [
-        {
-            "id": "86788",
-            "filename": "Cindy_NDB_US",
-            "ident": "CI",
-            "name": "Cindy",
-            "type": "NDB",
-            "frequency_khz": "326",
-            "latitude_deg": "41.88570022583008",
-            "longitude_deg": "-91.80239868164062",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.264",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KCID"
-        },
-        {
-            "id": "86797",
-            "filename": "Cedar_Rapids_VOR-DME_US",
-            "ident": "CID",
-            "name": "Cedar Rapids",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "41.88750076293945",
-            "longitude_deg": "-91.78569793701172",
-            "elevation_ft": "870",
-            "iso_country": "US",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.001",
-            "magnetic_variation_deg": "0.256",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "KCID"
-        }
-    ]
+    }
 }

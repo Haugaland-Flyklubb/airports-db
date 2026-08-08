@@ -85,29 +85,5 @@
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kinmen",
         "keywords": "Airports in Kinmen County"
-    },
-    "navaids": [
-        {
-            "id": "86356",
-            "filename": "Kinmen_NDB-DME_TW",
-            "ident": "BS",
-            "name": "Kinmen",
-            "type": "NDB-DME",
-            "frequency_khz": "345",
-            "latitude_deg": "24.42650032043457",
-            "longitude_deg": "118.3489990234375",
-            "elevation_ft": "120",
-            "iso_country": "TW",
-            "dme_frequency_khz": "108500",
-            "dme_channel": "022X",
-            "dme_latitude_deg": "24.4266",
-            "dme_longitude_deg": "118.349",
-            "dme_elevation_ft": "120",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.121",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "RCBS"
-        }
-    ]
+    }
 }

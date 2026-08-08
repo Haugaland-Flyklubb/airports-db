@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)",
         "keywords": "Airports in Amazonas"
-    },
-    "navaids": [
-        {
-            "id": "95852",
-            "filename": "Itacoatiara_NDB_BR",
-            "ident": "YTC",
-            "name": "Itacoatiara",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "-3.1193199157714844",
-            "longitude_deg": "-58.480899810791016",
-            "elevation_ft": "142",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.157",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBIC"
-        }
-    ]
+    }
 }

@@ -35,29 +35,5 @@
         "iso_country": "CG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Niari_Department",
         "keywords": "Airports in Niari Department"
-    },
-    "navaids": [
-        {
-            "id": "91001",
-            "filename": "Makabana_NDB_CG",
-            "ident": "MK",
-            "name": "Makabana",
-            "type": "NDB",
-            "frequency_khz": "276",
-            "latitude_deg": "-3.4690299034118652",
-            "longitude_deg": "12.632800102233887",
-            "elevation_ft": "",
-            "iso_country": "CG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.465",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "FCPA"
-        }
-    ]
+    }
 }

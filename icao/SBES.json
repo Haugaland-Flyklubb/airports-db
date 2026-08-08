@@ -85,51 +85,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
         "keywords": "Airports in Rio de Janeiro"
-    },
-    "navaids": [
-        {
-            "id": "85256",
-            "filename": "Aldeia_VOR-DME_BR",
-            "ident": "ADA",
-            "name": "Aldeia",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "-22.81279945373535",
-            "longitude_deg": "-42.095298767089844",
-            "elevation_ft": "61",
-            "iso_country": "BR",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.048",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBES"
-        },
-        {
-            "id": "85258",
-            "filename": "Aldeia_NDB_BR",
-            "ident": "ADA",
-            "name": "Aldeia",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "-22.822999954223633",
-            "longitude_deg": "-42.096500396728516",
-            "elevation_ft": "61",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.047",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBES"
-        }
-    ]
+    }
 }

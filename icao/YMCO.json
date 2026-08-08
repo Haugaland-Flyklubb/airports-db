@@ -107,51 +107,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    },
-    "navaids": [
-        {
-            "id": "90801",
-            "filename": "Mallacoota_VOR-DME_AU",
-            "ident": "MCO",
-            "name": "Mallacoota",
-            "type": "VOR-DME",
-            "frequency_khz": "117500",
-            "latitude_deg": "-37.59619903564453",
-            "longitude_deg": "149.71800231933594",
-            "elevation_ft": "133",
-            "iso_country": "AU",
-            "dme_frequency_khz": "117500",
-            "dme_channel": "122X",
-            "dme_latitude_deg": "-37.6006",
-            "dme_longitude_deg": "149.723",
-            "dme_elevation_ft": "133",
-            "slaved_variation_deg": "13.007",
-            "magnetic_variation_deg": "13.302",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YMCO"
-        },
-        {
-            "id": "90802",
-            "filename": "Mallacoota_NDB_AU",
-            "ident": "MCO",
-            "name": "Mallacoota",
-            "type": "NDB",
-            "frequency_khz": "338",
-            "latitude_deg": "-37.59659957885742",
-            "longitude_deg": "149.72900390625",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "13.305",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YMCO"
-        }
-    ]
+    }
 }

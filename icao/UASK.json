@@ -91,51 +91,5 @@
         "iso_country": "KZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kazakhstan_Region",
         "keywords": "Шығыс Қазақстан облысы"
-    },
-    "navaids": [
-        {
-            "id": "93604",
-            "filename": "Ust_Kamenogorsk_NDB_KZ",
-            "ident": "SI",
-            "name": "Ust Kamenogorsk",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "50.00600051879883",
-            "longitude_deg": "82.54869842529297",
-            "elevation_ft": "",
-            "iso_country": "KZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.185",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UASK"
-        },
-        {
-            "id": "94961",
-            "filename": "Ust_Kamenogorsk_NDB_KZ",
-            "ident": "US",
-            "name": "Ust Kamenogorsk",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "50.06760025024414",
-            "longitude_deg": "82.43699645996094",
-            "elevation_ft": "",
-            "iso_country": "KZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.221",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UASK"
-        }
-    ]
+    }
 }

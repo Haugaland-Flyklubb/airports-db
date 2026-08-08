@@ -77,29 +77,5 @@
         "iso_country": "SN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ziguinchor_Region",
         "keywords": "Basse Casamance"
-    },
-    "navaids": [
-        {
-            "id": "93696",
-            "filename": "Cap_Skiring_NDB_SN",
-            "ident": "SKN",
-            "name": "Cap Skiring",
-            "type": "NDB",
-            "frequency_khz": "398",
-            "latitude_deg": "12.38659954071045",
-            "longitude_deg": "-16.742799758911133",
-            "elevation_ft": "108",
-            "iso_country": "SN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.031",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "GOGS"
-        }
-    ]
+    }
 }

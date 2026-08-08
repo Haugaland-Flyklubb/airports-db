@@ -77,29 +77,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Paraíba",
         "keywords": "Airports in Paraíba"
-    },
-    "navaids": [
-        {
-            "id": "89541",
-            "filename": "Joao_Pessoa_NDB_BR",
-            "ident": "JPS",
-            "name": "Joao Pessoa",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "-7.140500068664551",
-            "longitude_deg": "-34.95249938964844",
-            "elevation_ft": "215",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.086",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBJP"
-        }
-    ]
+    }
 }

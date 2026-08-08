@@ -77,51 +77,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Finnmark",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "89795",
-            "filename": "Kirkenes_VOR-DME_NO",
-            "ident": "KIK",
-            "name": "Kirkenes",
-            "type": "VOR-DME",
-            "frequency_khz": "112000",
-            "latitude_deg": "69.72380065917969",
-            "longitude_deg": "29.86910057067871",
-            "elevation_ft": "283",
-            "iso_country": "NO",
-            "dme_frequency_khz": "112000",
-            "dme_channel": "057X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "10.001",
-            "magnetic_variation_deg": "12.349",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "ENKR"
-        },
-        {
-            "id": "89826",
-            "filename": "Kirkenes_NDB_NO",
-            "ident": "KKS",
-            "name": "Kirkenes",
-            "type": "NDB",
-            "frequency_khz": "326",
-            "latitude_deg": "69.75080108642578",
-            "longitude_deg": "30.114500045776367",
-            "elevation_ft": "330",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.437",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ENKR"
-        }
-    ]
+    }
 }

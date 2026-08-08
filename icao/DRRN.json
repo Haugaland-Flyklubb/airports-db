@@ -107,29 +107,5 @@
         "iso_country": "NE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Niamey",
         "keywords": "Airports in Niamey Capital District"
-    },
-    "navaids": [
-        {
-            "id": "91788",
-            "filename": "Niamey_VOR-DME_NE",
-            "ident": "NY",
-            "name": "Niamey",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "13.48330020904541",
-            "longitude_deg": "2.206389904022217",
-            "elevation_ft": "732",
-            "iso_country": "NE",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.195",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DRRN"
-        }
-    ]
+    }
 }

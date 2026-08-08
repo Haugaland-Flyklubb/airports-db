@@ -59,29 +59,5 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mara_Region",
         "keywords": "Airports in Mara Region"
-    },
-    "navaids": [
-        {
-            "id": "91350",
-            "filename": "Musoma_NDB_TZ",
-            "ident": "MU",
-            "name": "Musoma",
-            "type": "NDB",
-            "frequency_khz": "312",
-            "latitude_deg": "-1.4995399713516235",
-            "longitude_deg": "33.800498962402344",
-            "elevation_ft": "3806",
-            "iso_country": "TZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.151",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "HTMU"
-        }
-    ]
+    }
 }

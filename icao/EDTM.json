@@ -99,29 +99,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
         "keywords": "Baden-Wuerttemberg"
-    },
-    "navaids": [
-        {
-            "id": "90864",
-            "filename": "Mengen_NDB_DE",
-            "ident": "MEG",
-            "name": "Mengen",
-            "type": "NDB",
-            "frequency_khz": "401",
-            "latitude_deg": "48.05440139770508",
-            "longitude_deg": "9.367549896240234",
-            "elevation_ft": "",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.038",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "EDTM"
-        }
-    ]
+    }
 }

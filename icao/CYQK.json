@@ -101,51 +101,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "95058",
-            "filename": "Sioux_Narrows_VORTAC_CA",
-            "ident": "VBI",
-            "name": "Sioux Narrows",
-            "type": "VORTAC",
-            "frequency_khz": "115200",
-            "latitude_deg": "49.47669982910156",
-            "longitude_deg": "-94.04669952392578",
-            "elevation_ft": "1312",
-            "iso_country": "CA",
-            "dme_frequency_khz": "115200",
-            "dme_channel": "099X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "4.012",
-            "magnetic_variation_deg": "1.147",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYQK"
-        },
-        {
-            "id": "95808",
-            "filename": "Kenora_NDB_CA",
-            "ident": "YQK",
-            "name": "Kenora",
-            "type": "NDB",
-            "frequency_khz": "326",
-            "latitude_deg": "49.79249954223633",
-            "longitude_deg": "-94.42440032958984",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.336",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYQK"
-        }
-    ]
+    }
 }

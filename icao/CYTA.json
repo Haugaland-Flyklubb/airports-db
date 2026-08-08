@@ -93,29 +93,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "95851",
-            "filename": "Pembroke_NDB_CA",
-            "ident": "YTA",
-            "name": "Pembroke",
-            "type": "NDB",
-            "frequency_khz": "409",
-            "latitude_deg": "45.802799224853516",
-            "longitude_deg": "-77.21920013427734",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.573",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYTA"
-        }
-    ]
+    }
 }

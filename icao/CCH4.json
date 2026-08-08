@@ -59,29 +59,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    },
-    "navaids": [
-        {
-            "id": "85053",
-            "filename": "Charlottetown_NDB_CA",
-            "ident": "1D",
-            "name": "Charlottetown",
-            "type": "NDB",
-            "frequency_khz": "346",
-            "latitude_deg": "52.775001525878906",
-            "longitude_deg": "-56.124000549316406",
-            "elevation_ft": "209",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-23.163",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CCH4"
-        }
-    ]
+    }
 }

@@ -153,29 +153,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Île-de-France",
         "keywords": "Airports in Île-de-France"
-    },
-    "navaids": [
-        {
-            "id": "91986",
-            "filename": "Orly_VOR-DME_FR",
-            "ident": "OL",
-            "name": "Orly",
-            "type": "VOR-DME",
-            "frequency_khz": "111200",
-            "latitude_deg": "48.72990036010742",
-            "longitude_deg": "2.3864200115203857",
-            "elevation_ft": "285",
-            "iso_country": "FR",
-            "dme_frequency_khz": "111200",
-            "dme_channel": "049X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.012",
-            "magnetic_variation_deg": "-1.033",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFPO"
-        }
-    ]
+    }
 }

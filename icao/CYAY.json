@@ -109,51 +109,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    },
-    "navaids": [
-        {
-            "id": "85725",
-            "filename": "St_Anthony_NDB_CA",
-            "ident": "AY",
-            "name": "St Anthony",
-            "type": "NDB",
-            "frequency_khz": "356",
-            "latitude_deg": "51.38639831542969",
-            "longitude_deg": "-56.09659957885742",
-            "elevation_ft": "92",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.29",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYAY"
-        },
-        {
-            "id": "95620",
-            "filename": "St.aAthony_nNld_VOR-DME_CA",
-            "ident": "YAY",
-            "name": "St.aAthony nNld",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "51.39390182495117",
-            "longitude_deg": "-56.083900451660156",
-            "elevation_ft": "114",
-            "iso_country": "CA",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-25.001",
-            "magnetic_variation_deg": "-22.292",
-            "usageType": "",
-            "power": "",
-            "associated_airport": "CYAY"
-        }
-    ]
+    }
 }

@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "85595",
-            "filename": "Armidale_NDB-DME_AU",
-            "ident": "ARM",
-            "name": "Armidale",
-            "type": "NDB-DME",
-            "frequency_khz": "401",
-            "latitude_deg": "-30.527799606323242",
-            "longitude_deg": "151.61500549316406",
-            "elevation_ft": "3552",
-            "iso_country": "AU",
-            "dme_frequency_khz": "112600",
-            "dme_channel": "073X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.379",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YARM"
-        }
-    ]
+    }
 }

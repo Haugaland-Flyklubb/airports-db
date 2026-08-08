@@ -93,51 +93,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Coquimbo_Region",
         "keywords": "Airports in Coquimbo Region"
-    },
-    "navaids": [
-        {
-            "id": "93503",
-            "filename": "La_Serena_VOR-DME_CL",
-            "ident": "SER",
-            "name": "La Serena",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "-29.91550064086914",
-            "longitude_deg": "-71.1969985961914",
-            "elevation_ft": "479",
-            "iso_country": "CL",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.116",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SCSE"
-        },
-        {
-            "id": "93504",
-            "filename": "La_Serena_NDB_CL",
-            "ident": "SER",
-            "name": "La Serena",
-            "type": "NDB",
-            "frequency_khz": "305",
-            "latitude_deg": "-29.908899307250977",
-            "longitude_deg": "-71.21700286865234",
-            "elevation_ft": "335",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.125",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SCSE"
-        }
-    ]
+    }
 }

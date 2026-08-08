@@ -77,29 +77,5 @@
         "iso_country": "MH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Majuro",
         "keywords": "Airports in Majuro"
-    },
-    "navaids": [
-        {
-            "id": "90726",
-            "filename": "Majuro_NDB-DME_MH",
-            "ident": "MAJ",
-            "name": "Majuro",
-            "type": "NDB-DME",
-            "frequency_khz": "316",
-            "latitude_deg": "7.0688300132751465",
-            "longitude_deg": "171.28199768066406",
-            "elevation_ft": "5",
-            "iso_country": "MH",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.377",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "PKMJ"
-        }
-    ]
+    }
 }

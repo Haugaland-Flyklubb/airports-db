@@ -77,29 +77,5 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dodoma_Region",
         "keywords": "Airports in Dodoma Region"
-    },
-    "navaids": [
-        {
-            "id": "87477",
-            "filename": "Dodoma_NDB_TZ",
-            "ident": "DO",
-            "name": "Dodoma",
-            "type": "NDB",
-            "frequency_khz": "373",
-            "latitude_deg": "-6.168839931488037",
-            "longitude_deg": "35.74549865722656",
-            "elevation_ft": "3637",
-            "iso_country": "TZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.233",
-            "usageType": "HI",
-            "power": "HIGH",
-            "associated_airport": "HTDO"
-        }
-    ]
+    }
 }

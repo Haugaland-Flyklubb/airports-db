@@ -77,51 +77,5 @@
         "iso_country": "CI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Savanes_District",
         "keywords": "Airports in Savanes District"
-    },
-    "navaids": [
-        {
-            "id": "89762",
-            "filename": "Korhogo_NDB_CI",
-            "ident": "KH",
-            "name": "Korhogo",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "9.396829605102539",
-            "longitude_deg": "-5.629859924316406",
-            "elevation_ft": "",
-            "iso_country": "CI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.238",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "DIKO"
-        },
-        {
-            "id": "89963",
-            "filename": "Korhogo_VOR_CI",
-            "ident": "KRG",
-            "name": "Korhogo",
-            "type": "VOR",
-            "frequency_khz": "115200",
-            "latitude_deg": "9.372469902038574",
-            "longitude_deg": "-5.644309997558594",
-            "elevation_ft": "1213",
-            "iso_country": "CI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.245",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DIKO"
-        }
-    ]
+    }
 }

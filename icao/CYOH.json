@@ -81,29 +81,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "85098",
-            "filename": "Oxford_House_NDB_CA",
-            "ident": "4N",
-            "name": "Oxford House",
-            "type": "NDB",
-            "frequency_khz": "386",
-            "latitude_deg": "54.9286003112793",
-            "longitude_deg": "-95.28250122070312",
-            "elevation_ft": "688",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.201",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYOH"
-        }
-    ]
+    }
 }

@@ -99,51 +99,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Republic_of_Kalmykia",
         "keywords": "Airports in Republic of Kalmykia"
-    },
-    "navaids": [
-        {
-            "id": "86453",
-            "filename": "Elista_NDB_RU",
-            "ident": "BV",
-            "name": "Elista",
-            "type": "NDB",
-            "frequency_khz": "311",
-            "latitude_deg": "46.36830139160156",
-            "longitude_deg": "44.39500045776367",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.102",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "URWI"
-        },
-        {
-            "id": "93342",
-            "filename": "Elista_NDB_RU",
-            "ident": "SA",
-            "name": "Elista",
-            "type": "NDB",
-            "frequency_khz": "311",
-            "latitude_deg": "46.380001068115234",
-            "longitude_deg": "44.27000045776367",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.097",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "URWI"
-        }
-    ]
+    }
 }

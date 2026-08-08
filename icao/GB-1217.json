@@ -77,29 +77,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    },
-    "navaids": [
-        {
-            "id": "93942",
-            "filename": "Scatsta_NDB_GB",
-            "ident": "SS",
-            "name": "Scatsta",
-            "type": "NDB",
-            "frequency_khz": "316",
-            "latitude_deg": "60.460201263427734",
-            "longitude_deg": "-1.2153400182724",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.267",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "GB-1217"
-        }
-    ]
+    }
 }

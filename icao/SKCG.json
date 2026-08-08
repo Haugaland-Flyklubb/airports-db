@@ -77,51 +77,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bolívar_Department",
         "keywords": "Airports in Bolívar Department"
-    },
-    "navaids": [
-        {
-            "id": "87073",
-            "filename": "Cartagena_NDB_CO",
-            "ident": "CT",
-            "name": "Cartagena",
-            "type": "NDB",
-            "frequency_khz": "255",
-            "latitude_deg": "10.396699905395508",
-            "longitude_deg": "-75.53079986572266",
-            "elevation_ft": "27",
-            "iso_country": "CO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.398",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SKCG"
-        },
-        {
-            "id": "87084",
-            "filename": "Cartagena_VOR-DME_CO",
-            "ident": "CTG",
-            "name": "Cartagena",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "10.209199905395508",
-            "longitude_deg": "-75.50669860839844",
-            "elevation_ft": "165",
-            "iso_country": "CO",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-5.388",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKCG"
-        }
-    ]
+    }
 }

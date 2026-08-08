@@ -85,29 +85,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yukon_Territory",
         "keywords": "Airports in Yukon"
-    },
-    "navaids": [
-        {
-            "id": "96008",
-            "filename": "Faro_NDB_CA",
-            "ident": "ZFA",
-            "name": "Faro",
-            "type": "NDB",
-            "frequency_khz": "378",
-            "latitude_deg": "62.21189880371094",
-            "longitude_deg": "-133.38699340820312",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "24.599",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CZFA"
-        }
-    ]
+    }
 }

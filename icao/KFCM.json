@@ -161,29 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
         "keywords": "Airports in Minnesota"
-    },
-    "navaids": [
-        {
-            "id": "87949",
-            "filename": "Flying_Cloud_VOR-DME_US",
-            "ident": "FCM",
-            "name": "Flying Cloud",
-            "type": "VOR-DME",
-            "frequency_khz": "111800",
-            "latitude_deg": "44.82569885253906",
-            "longitude_deg": "-93.45680236816406",
-            "elevation_ft": "900",
-            "iso_country": "US",
-            "dme_frequency_khz": "111800",
-            "dme_channel": "055X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.001",
-            "magnetic_variation_deg": "1.269",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KFCM"
-        }
-    ]
+    }
 }

@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
         "keywords": "Airports in Kentucky"
-    },
-    "navaids": [
-        {
-            "id": "86480",
-            "filename": "Noora_NDB_US",
-            "ident": "BW",
-            "name": "Noora",
-            "type": "NDB",
-            "frequency_khz": "236",
-            "latitude_deg": "36.880001068115234",
-            "longitude_deg": "-86.48159790039062",
-            "elevation_ft": "614",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.042",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KBWG"
-        },
-        {
-            "id": "86483",
-            "filename": "Bowling_Green_VORTAC_US",
-            "ident": "BWG",
-            "name": "Bowling Green",
-            "type": "VORTAC",
-            "frequency_khz": "117900",
-            "latitude_deg": "36.9286994934082",
-            "longitude_deg": "-86.44339752197266",
-            "elevation_ft": "565",
-            "iso_country": "US",
-            "dme_frequency_khz": "117900",
-            "dme_channel": "126X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.001",
-            "magnetic_variation_deg": "-3.066",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KBWG"
-        }
-    ]
+    }
 }

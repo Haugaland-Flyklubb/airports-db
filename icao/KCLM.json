@@ -123,29 +123,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    },
-    "navaids": [
-        {
-            "id": "86844",
-            "filename": "Elwha_NDB_US",
-            "ident": "CL",
-            "name": "Elwha",
-            "type": "NDB",
-            "frequency_khz": "515",
-            "latitude_deg": "48.142398834228516",
-            "longitude_deg": "-123.66999816894531",
-            "elevation_ft": "1069",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "18.065",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KCLM"
-        }
-    ]
+    }
 }

@@ -123,51 +123,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    },
-    "navaids": [
-        {
-            "id": "85239",
-            "filename": "Arcata_VOR-DME_US",
-            "ident": "ACV",
-            "name": "Arcata",
-            "type": "VOR-DME",
-            "frequency_khz": "110200",
-            "latitude_deg": "40.98139953613281",
-            "longitude_deg": "-124.10800170898438",
-            "elevation_ft": "193",
-            "iso_country": "US",
-            "dme_frequency_khz": "110200",
-            "dme_channel": "039X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "17.001",
-            "magnetic_variation_deg": "15.535",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KACV"
-        },
-        {
-            "id": "87132",
-            "filename": "Abeta_NDB_US",
-            "ident": "CV",
-            "name": "Abeta",
-            "type": "NDB",
-            "frequency_khz": "233",
-            "latitude_deg": "40.964500427246094",
-            "longitude_deg": "-124.0989990234375",
-            "elevation_ft": "218",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "15.531",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KACV"
-        }
-    ]
+    }
 }

@@ -161,51 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
         "keywords": "Airports in Illinois"
-    },
-    "navaids": [
-        {
-            "id": "87328",
-            "filename": "Decatur_VORTAC_US",
-            "ident": "AXC",
-            "name": "Decatur",
-            "type": "VORTAC",
-            "frequency_khz": "117200",
-            "latitude_deg": "39.7375214",
-            "longitude_deg": "-88.8564314",
-            "elevation_ft": "708",
-            "iso_country": "US",
-            "dme_frequency_khz": "117200",
-            "dme_channel": "119X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3",
-            "magnetic_variation_deg": "3",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KDEC"
-        },
-        {
-            "id": "87327",
-            "filename": "Elwin_NDB_US",
-            "ident": "DE",
-            "name": "Elwin",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "39.79050064086914",
-            "longitude_deg": "-88.95379638671875",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.359",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KDEC"
-        }
-    ]
+    }
 }

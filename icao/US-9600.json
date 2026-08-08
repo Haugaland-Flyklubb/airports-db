@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
         "keywords": "Airports in Arizona"
-    },
-    "navaids": [
-        {
-            "id": "86151",
-            "filename": "Blythe_VORTAC_US",
-            "ident": "BLH",
-            "name": "Blythe",
-            "type": "VORTAC",
-            "frequency_khz": "117400",
-            "latitude_deg": "33.596099853515625",
-            "longitude_deg": "-114.76100158691406",
-            "elevation_ft": "410",
-            "iso_country": "US",
-            "dme_frequency_khz": "117400",
-            "dme_channel": "121X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "14.001",
-            "magnetic_variation_deg": "12.161",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "US-9600"
-        }
-    ]
+    }
 }

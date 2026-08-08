@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "86674",
-            "filename": "Ceduna_NDB_AU",
-            "ident": "CDU",
-            "name": "Ceduna",
-            "type": "NDB",
-            "frequency_khz": "293",
-            "latitude_deg": "-32.12670135498047",
-            "longitude_deg": "133.7270050048828",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.491",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YCDU"
-        }
-    ]
+    }
 }

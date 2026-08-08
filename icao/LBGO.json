@@ -69,51 +69,5 @@
         "iso_country": "BG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Veliko_Tarnovo_Province",
         "keywords": "Airports in Veliko Tarnovo Province"
-    },
-    "navaids": [
-        {
-            "id": "88565",
-            "filename": "Gorna_Oryahovitsa_VOR-DME_BG",
-            "ident": "GRN",
-            "name": "Gorna Oryahovitsa",
-            "type": "VOR-DME",
-            "frequency_khz": "113600",
-            "latitude_deg": "43.153900146484375",
-            "longitude_deg": "25.710800170898438",
-            "elevation_ft": "295",
-            "iso_country": "BG",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.057",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LBGO"
-        },
-        {
-            "id": "88566",
-            "filename": "Gorna_NDB_BG",
-            "ident": "GRN",
-            "name": "Gorna",
-            "type": "NDB",
-            "frequency_khz": "284",
-            "latitude_deg": "43.16170120239258",
-            "longitude_deg": "25.61280059814453",
-            "elevation_ft": "",
-            "iso_country": "BG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.049",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LBGO"
-        }
-    ]
+    }
 }

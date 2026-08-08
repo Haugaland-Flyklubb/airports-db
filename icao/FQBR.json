@@ -129,51 +129,5 @@
         "iso_country": "MZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sofala_Province",
         "keywords": "Airports in Sofala Province"
-    },
-    "navaids": [
-        {
-            "id": "86298",
-            "filename": "Beira_NDB_MZ",
-            "ident": "BR",
-            "name": "Beira",
-            "type": "NDB",
-            "frequency_khz": "327",
-            "latitude_deg": "-19.781600952148438",
-            "longitude_deg": "34.850101470947266",
-            "elevation_ft": "",
-            "iso_country": "MZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.321",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FQBR"
-        },
-        {
-            "id": "95059",
-            "filename": "Beira_VOR-DME_MZ",
-            "ident": "VBR",
-            "name": "Beira",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "-19.787700653076172",
-            "longitude_deg": "34.871700286865234",
-            "elevation_ft": "47",
-            "iso_country": "MZ",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.33",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FQBR"
-        }
-    ]
+    }
 }

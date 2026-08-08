@@ -77,51 +77,5 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aklan_Province",
         "keywords": "Airports in Aklan Province"
-    },
-    "navaids": [
-        {
-            "id": "89837",
-            "filename": "Kalibo_NDB_PH",
-            "ident": "KL",
-            "name": "Kalibo",
-            "type": "NDB",
-            "frequency_khz": "298",
-            "latitude_deg": "11.686800003051758",
-            "longitude_deg": "122.38099670410156",
-            "elevation_ft": "",
-            "iso_country": "PH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.458",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "RPVK"
-        },
-        {
-            "id": "89849",
-            "filename": "Kalibo_VOR-DME_PH",
-            "ident": "KLO",
-            "name": "Kalibo",
-            "type": "VOR-DME",
-            "frequency_khz": "113000",
-            "latitude_deg": "11.683600425720215",
-            "longitude_deg": "122.38300323486328",
-            "elevation_ft": "14",
-            "iso_country": "PH",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.457",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RPVK"
-        }
-    ]
+    }
 }

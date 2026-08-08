@@ -101,51 +101,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "85052",
-            "filename": "Nanaimo_DME_CA",
-            "ident": "1CD",
-            "name": "Nanaimo",
-            "type": "DME",
-            "frequency_khz": "111450",
-            "latitude_deg": "49.05720138549805",
-            "longitude_deg": "-123.87200164794922",
-            "elevation_ft": "83",
-            "iso_country": "CA",
-            "dme_frequency_khz": "111450",
-            "dme_channel": "051Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "18.282",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYCD"
-        },
-        {
-            "id": "95637",
-            "filename": "Nanaimo_NDB_CA",
-            "ident": "YCD",
-            "name": "Nanaimo",
-            "type": "NDB",
-            "frequency_khz": "251",
-            "latitude_deg": "49.12779998779297",
-            "longitude_deg": "-123.87200164794922",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "18.298",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYCD"
-        }
-    ]
+    }
 }

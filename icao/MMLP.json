@@ -85,51 +85,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California_Sur",
         "keywords": "Airports in Baja California Sur"
-    },
-    "navaids": [
-        {
-            "id": "90162",
-            "filename": "La_Paz_VOR-DME_MX",
-            "ident": "LAP",
-            "name": "La Paz",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "24.085599899291992",
-            "longitude_deg": "-110.35900115966797",
-            "elevation_ft": "69",
-            "iso_country": "MX",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "10.001",
-            "magnetic_variation_deg": "9.386",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMLP"
-        },
-        {
-            "id": "90164",
-            "filename": "La_Paz_NDB_MX",
-            "ident": "LAP",
-            "name": "La Paz",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "24.069400787353516",
-            "longitude_deg": "-110.36599731445312",
-            "elevation_ft": "69",
-            "iso_country": "MX",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.386",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MMLP"
-        }
-    ]
+    }
 }

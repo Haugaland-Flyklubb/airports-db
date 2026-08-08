@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "90688",
-            "filename": "Manning_NDB-DME_CA",
-            "ident": "M5",
-            "name": "Manning",
-            "type": "NDB-DME",
-            "frequency_khz": "307",
-            "latitude_deg": "56.94860076904297",
-            "longitude_deg": "-117.62799835205078",
-            "elevation_ft": "1620",
-            "iso_country": "CA",
-            "dme_frequency_khz": "111200",
-            "dme_channel": "049X",
-            "dme_latitude_deg": "56.9494",
-            "dme_longitude_deg": "-117.628",
-            "dme_elevation_ft": "1620",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.594",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CFX4"
-        }
-    ]
+    }
 }

@@ -161,51 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    },
-    "navaids": [
-        {
-            "id": "93820",
-            "filename": "Salinas_VORTAC_US",
-            "ident": "SNS",
-            "name": "Salinas",
-            "type": "VORTAC",
-            "frequency_khz": "117300",
-            "latitude_deg": "36.66379928588867",
-            "longitude_deg": "-121.60299682617188",
-            "elevation_ft": "101",
-            "iso_country": "US",
-            "dme_frequency_khz": "117300",
-            "dme_channel": "120X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "17.001",
-            "magnetic_variation_deg": "14.202",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KSNS"
-        },
-        {
-            "id": "94776",
-            "filename": "Chualar_NDB_US",
-            "ident": "UAD",
-            "name": "Chualar",
-            "type": "NDB",
-            "frequency_khz": "263",
-            "latitude_deg": "36.49089813232422",
-            "longitude_deg": "-121.4749984741211",
-            "elevation_ft": "105",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "14.163",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KSNS"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Port_Said_Governorate",
         "keywords": "Airports in Port Said Governorate"
-    },
-    "navaids": [
-        {
-            "id": "92723",
-            "filename": "Port_Said_VOR-DME_EG",
-            "ident": "PSD",
-            "name": "Port Said",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "31.278799057006836",
-            "longitude_deg": "32.23780059814453",
-            "elevation_ft": "30",
-            "iso_country": "EG",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "3.295",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HEPS"
-        }
-    ]
+    }
 }

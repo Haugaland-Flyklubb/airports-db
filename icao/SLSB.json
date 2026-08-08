@@ -59,51 +59,5 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/El_Beni_Department",
         "keywords": "Airports in El Beni Department"
-    },
-    "navaids": [
-        {
-            "id": "86257",
-            "filename": "San_Borja_VOR_BO",
-            "ident": "BOR",
-            "name": "San Borja",
-            "type": "VOR",
-            "frequency_khz": "117700",
-            "latitude_deg": "-14.852100372314453",
-            "longitude_deg": "-66.73650360107422",
-            "elevation_ft": "636",
-            "iso_country": "BO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-7.22",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SLSB"
-        },
-        {
-            "id": "93924",
-            "filename": "San_Borja_NDB_BO",
-            "ident": "SRJ",
-            "name": "San Borja",
-            "type": "NDB",
-            "frequency_khz": "270",
-            "latitude_deg": "-14.85770034790039",
-            "longitude_deg": "-66.73650360107422",
-            "elevation_ft": "",
-            "iso_country": "BO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.219",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SLSB"
-        }
-    ]
+    }
 }

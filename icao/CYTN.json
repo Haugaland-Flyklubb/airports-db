@@ -99,29 +99,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nova_Scotia",
         "keywords": "Nova Scotian airports"
-    },
-    "navaids": [
-        {
-            "id": "85116",
-            "filename": "Trenton_NDB_CA",
-            "ident": "5Y",
-            "name": "Trenton",
-            "type": "NDB",
-            "frequency_khz": "361",
-            "latitude_deg": "45.61180114746094",
-            "longitude_deg": "-62.625099182128906",
-            "elevation_ft": "317",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.265",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYTN"
-        }
-    ]
+    }
 }

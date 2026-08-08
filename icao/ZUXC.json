@@ -69,51 +69,5 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sichuan",
         "keywords": "Airports in Sichuan Province"
-    },
-    "navaids": [
-        {
-            "id": "93408",
-            "filename": "Hexi_NDB_CN",
-            "ident": "SB",
-            "name": "Hexi",
-            "type": "NDB",
-            "frequency_khz": "319",
-            "latitude_deg": "27.7367000579834",
-            "longitude_deg": "102.16300201416016",
-            "elevation_ft": "",
-            "iso_country": "CN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.177",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ZUXC"
-        },
-        {
-            "id": "95554",
-            "filename": "Xichang_VOR-DME_CN",
-            "ident": "XIC",
-            "name": "Xichang",
-            "type": "VOR-DME",
-            "frequency_khz": "114200",
-            "latitude_deg": "27.998300552368164",
-            "longitude_deg": "102.18000030517578",
-            "elevation_ft": "5121",
-            "iso_country": "CN",
-            "dme_frequency_khz": "114200",
-            "dme_channel": "089X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.186",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ZUXC"
-        }
-    ]
+    }
 }

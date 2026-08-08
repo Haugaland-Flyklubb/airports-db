@@ -35,29 +35,5 @@
         "iso_country": "ZW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manicaland_Province",
         "keywords": "Airports in Manicaland Province"
-    },
-    "navaids": [
-        {
-            "id": "88544",
-            "filename": "Mutare_Grand_Reef_NDB_ZW",
-            "ident": "GR",
-            "name": "Mutare Grand Reef",
-            "type": "NDB",
-            "frequency_khz": "379",
-            "latitude_deg": "-18.97170066833496",
-            "longitude_deg": "32.45000076293945",
-            "elevation_ft": "",
-            "iso_country": "ZW",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.528",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "FVGR"
-        }
-    ]
+    }
 }

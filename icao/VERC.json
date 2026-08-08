@@ -69,51 +69,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jharkhand",
         "keywords": "Airports in Jharkhand"
-    },
-    "navaids": [
-        {
-            "id": "93000",
-            "filename": "Ranchi_NDB_IN",
-            "ident": "RC",
-            "name": "Ranchi",
-            "type": "NDB",
-            "frequency_khz": "285",
-            "latitude_deg": "23.316999435424805",
-            "longitude_deg": "85.3218002319336",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.26",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VERC"
-        },
-        {
-            "id": "93233",
-            "filename": "Ranchi_VOR-DME_IN",
-            "ident": "RRC",
-            "name": "Ranchi",
-            "type": "VOR-DME",
-            "frequency_khz": "116900",
-            "latitude_deg": "23.308700561523438",
-            "longitude_deg": "85.32659912109375",
-            "elevation_ft": "2119",
-            "iso_country": "IN",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.261",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VERC"
-        }
-    ]
+    }
 }

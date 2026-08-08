@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "88268",
-            "filename": "Gustavus_NDB_US",
-            "ident": "GAV",
-            "name": "Gustavus",
-            "type": "NDB",
-            "frequency_khz": "219",
-            "latitude_deg": "58.42190170288086",
-            "longitude_deg": "-135.7050018310547",
-            "elevation_ft": "86",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "22.504",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "PAGS"
-        }
-    ]
+    }
 }

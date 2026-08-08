@@ -77,51 +77,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Madhya_Pradesh",
         "keywords": "Airports in Madhya Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "89148",
-            "filename": "Indore_NDB_IN",
-            "ident": "ID",
-            "name": "Indore",
-            "type": "NDB",
-            "frequency_khz": "335",
-            "latitude_deg": "22.729700088500977",
-            "longitude_deg": "75.81009674072266",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.194",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VAID"
-        },
-        {
-            "id": "89195",
-            "filename": "Indore_VOR-DME_IN",
-            "ident": "IID",
-            "name": "Indore",
-            "type": "VOR-DME",
-            "frequency_khz": "116700",
-            "latitude_deg": "22.72279930114746",
-            "longitude_deg": "75.80670166015625",
-            "elevation_ft": "1849",
-            "iso_country": "IN",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.195",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VAID"
-        }
-    ]
+    }
 }

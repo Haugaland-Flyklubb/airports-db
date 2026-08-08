@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
         "keywords": "Airports in North Dakota"
-    },
-    "navaids": [
-        {
-            "id": "86041",
-            "filename": "Jadan_NDB_US",
-            "ident": "BI",
-            "name": "Jadan",
-            "type": "NDB",
-            "frequency_khz": "230",
-            "latitude_deg": "46.69810104370117",
-            "longitude_deg": "-100.64800262451172",
-            "elevation_ft": "1677",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.181",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KBIS"
-        },
-        {
-            "id": "86059",
-            "filename": "Bismarck_VOR-DME_US",
-            "ident": "BIS",
-            "name": "Bismarck",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "46.76179885864258",
-            "longitude_deg": "-100.66500091552734",
-            "elevation_ft": "1841",
-            "iso_country": "US",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.001",
-            "magnetic_variation_deg": "7.19",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KBIS"
-        }
-    ]
+    }
 }

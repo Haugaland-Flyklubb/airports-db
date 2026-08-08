@@ -77,51 +77,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kordestan_Province",
         "keywords": "Airports in Kurdistan Province"
-    },
-    "navaids": [
-        {
-            "id": "93814",
-            "filename": "Sanandaj_VOR-DME_IR",
-            "ident": "SNJ",
-            "name": "Sanandaj",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "35.23889923095703",
-            "longitude_deg": "47.0078010559082",
-            "elevation_ft": "4522",
-            "iso_country": "IR",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "4.075",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OICS"
-        },
-        {
-            "id": "93815",
-            "filename": "Sanandaj_NDB_IR",
-            "ident": "SNJ",
-            "name": "Sanandaj",
-            "type": "NDB",
-            "frequency_khz": "366",
-            "latitude_deg": "35.26369857788086",
-            "longitude_deg": "47.009300231933594",
-            "elevation_ft": "4522",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.078",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "OICS"
-        }
-    ]
+    }
 }

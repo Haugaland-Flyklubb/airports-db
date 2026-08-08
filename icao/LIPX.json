@@ -101,51 +101,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Veneto",
         "keywords": "VN"
-    },
-    "navaids": [
-        {
-            "id": "95143",
-            "filename": "Villafranca_VORTAC_IT",
-            "ident": "VIL",
-            "name": "Villafranca",
-            "type": "VORTAC",
-            "frequency_khz": "115800",
-            "latitude_deg": "45.407901763916016",
-            "longitude_deg": "10.906200408935547",
-            "elevation_ft": "239",
-            "iso_country": "IT",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "45.4082",
-            "dme_longitude_deg": "10.9067",
-            "dme_elevation_ft": "238",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.287",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LIPX"
-        },
-        {
-            "id": "95145",
-            "filename": "Villafranca_NDB_IT",
-            "ident": "VIL",
-            "name": "Villafranca",
-            "type": "NDB",
-            "frequency_khz": "355",
-            "latitude_deg": "45.32440185546875",
-            "longitude_deg": "10.78600025177002",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.27",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LIPX"
-        }
-    ]
+    }
 }

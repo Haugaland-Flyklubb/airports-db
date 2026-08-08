@@ -99,51 +99,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
         "keywords": "Airports in Provence-Alpes-Côte-d'Azur"
-    },
-    "navaids": [
-        {
-            "id": "92088",
-            "filename": "Orange_TACAN_FR",
-            "ident": "ORG",
-            "name": "Orange",
-            "type": "TACAN",
-            "frequency_khz": "109400",
-            "latitude_deg": "44.13930130004883",
-            "longitude_deg": "4.86605978012085",
-            "elevation_ft": "197",
-            "iso_country": "FR",
-            "dme_frequency_khz": "109400",
-            "dme_channel": "031X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.005",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFMO"
-        },
-        {
-            "id": "92090",
-            "filename": "Orange_NDB_FR",
-            "ident": "ORG",
-            "name": "Orange",
-            "type": "NDB",
-            "frequency_khz": "328",
-            "latitude_deg": "44.148399353027344",
-            "longitude_deg": "4.857190132141113",
-            "elevation_ft": "197",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.004",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LFMO"
-        }
-    ]
+    }
 }

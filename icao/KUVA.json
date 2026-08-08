@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "94992",
-            "filename": "Uvalde_NDB_US",
-            "ident": "UVA",
-            "name": "Uvalde",
-            "type": "NDB",
-            "frequency_khz": "281",
-            "latitude_deg": "29.17770004272461",
-            "longitude_deg": "-99.72570037841797",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.154",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KUVA"
-        }
-    ]
+    }
 }

@@ -107,51 +107,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Cape",
         "keywords": "Airports in Northern Cape"
-    },
-    "navaids": [
-        {
-            "id": "89863",
-            "filename": "Kimberley_NDB_ZA",
-            "ident": "KM",
-            "name": "Kimberley",
-            "type": "NDB",
-            "frequency_khz": "365",
-            "latitude_deg": "-28.792200088500977",
-            "longitude_deg": "24.7810001373291",
-            "elevation_ft": "3935",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.201",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FAKM"
-        },
-        {
-            "id": "90095",
-            "filename": "Kimberley_VOR-DME_ZA",
-            "ident": "KYV",
-            "name": "Kimberley",
-            "type": "VOR-DME",
-            "frequency_khz": "113200",
-            "latitude_deg": "-28.79990005493164",
-            "longitude_deg": "24.760400772094727",
-            "elevation_ft": "3950",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "113200",
-            "dme_channel": "079X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.234",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FAKM"
-        }
-    ]
+    }
 }

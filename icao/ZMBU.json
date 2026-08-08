@@ -77,29 +77,5 @@
         "iso_country": "MN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%BCkhbaatar_Province",
         "keywords": "Airports in Sükhbaatar Province"
-    },
-    "navaids": [
-        {
-            "id": "93414",
-            "filename": "Baruun-Urt_NDB_MN",
-            "ident": "SB",
-            "name": "Baruun-Urt",
-            "type": "NDB",
-            "frequency_khz": "330",
-            "latitude_deg": "46.67190170288086",
-            "longitude_deg": "113.28500366210938",
-            "elevation_ft": "",
-            "iso_country": "MN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.413",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "ZMBU"
-        }
-    ]
+    }
 }

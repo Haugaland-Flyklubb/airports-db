@@ -99,29 +99,5 @@
         "iso_country": "HU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zala_County",
         "keywords": "Airports in Zala County"
-    },
-    "navaids": [
-        {
-            "id": "93773",
-            "filename": "Sarmellek_NDB_HU",
-            "ident": "SME",
-            "name": "Sarmellek",
-            "type": "NDB",
-            "frequency_khz": "428",
-            "latitude_deg": "46.66579818725586",
-            "longitude_deg": "17.166900634765625",
-            "elevation_ft": "",
-            "iso_country": "HU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.55",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "LHSM"
-        }
-    ]
+    }
 }

@@ -117,51 +117,5 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sabah",
         "keywords": "Airports in Sabah"
-    },
-    "navaids": [
-        {
-            "id": "89555",
-            "filename": "Kota_Kinabalu_NDB_MY",
-            "ident": "JSL",
-            "name": "Kota Kinabalu",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "5.899670124053955",
-            "longitude_deg": "116.02799987792969",
-            "elevation_ft": "",
-            "iso_country": "MY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.183",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WBKK"
-        },
-        {
-            "id": "95158",
-            "filename": "Kota_Kinabalu_VOR-DME_MY",
-            "ident": "VJN",
-            "name": "Kota Kinabalu",
-            "type": "VOR-DME",
-            "frequency_khz": "113100",
-            "latitude_deg": "5.899670124053955",
-            "longitude_deg": "116.02999877929688",
-            "elevation_ft": "180",
-            "iso_country": "MY",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "0.187",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WBKK"
-        }
-    ]
+    }
 }

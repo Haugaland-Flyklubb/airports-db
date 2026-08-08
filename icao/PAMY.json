@@ -101,29 +101,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "85341",
-            "filename": "Nanwak_NDB-DME_US",
-            "ident": "AIX",
-            "name": "Nanwak",
-            "type": "NDB-DME",
-            "frequency_khz": "323",
-            "latitude_deg": "60.3849983215332",
-            "longitude_deg": "-166.21499633789062",
-            "elevation_ft": "33",
-            "iso_country": "US",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.32",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PAMY"
-        }
-    ]
+    }
 }

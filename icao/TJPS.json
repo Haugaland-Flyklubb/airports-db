@@ -93,29 +93,5 @@
         "iso_country": "PR",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "92726",
-            "filename": "Ponce_VOR-DME_PR",
-            "ident": "PSE",
-            "name": "Ponce",
-            "type": "VOR-DME",
-            "frequency_khz": "109000",
-            "latitude_deg": "17.99250030517578",
-            "longitude_deg": "-66.51920318603516",
-            "elevation_ft": "16",
-            "iso_country": "PR",
-            "dme_frequency_khz": "109000",
-            "dme_channel": "027X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10.001",
-            "magnetic_variation_deg": "-12.188",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "TJPS"
-        }
-    ]
+    }
 }

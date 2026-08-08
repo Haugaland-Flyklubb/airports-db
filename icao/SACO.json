@@ -115,51 +115,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province_(Argentina)",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "86608",
-            "filename": "Cordoba_VOR-DME_AR",
-            "ident": "CBA",
-            "name": "Cordoba",
-            "type": "VOR-DME",
-            "frequency_khz": "114500",
-            "latitude_deg": "-31.31329917907715",
-            "longitude_deg": "-64.20359802246094",
-            "elevation_ft": "1588",
-            "iso_country": "AR",
-            "dme_frequency_khz": "114500",
-            "dme_channel": "092X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.007",
-            "magnetic_variation_deg": "-3.3",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SACO"
-        },
-        {
-            "id": "86611",
-            "filename": "Cordoba_NDB_AR",
-            "ident": "CBA",
-            "name": "Cordoba",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "-31.30970001220703",
-            "longitude_deg": "-64.21890258789062",
-            "elevation_ft": "1604",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.287",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SACO"
-        }
-    ]
+    }
 }

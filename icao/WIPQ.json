@@ -69,29 +69,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sumatra_Selatan",
         "keywords": "Airports in Sumatra Selatan"
-    },
-    "navaids": [
-        {
-            "id": "92328",
-            "filename": "Pendopo_NDB_ID",
-            "ident": "PD",
-            "name": "Pendopo",
-            "type": "NDB",
-            "frequency_khz": "305",
-            "latitude_deg": "-3.2834599018096924",
-            "longitude_deg": "103.88200378417969",
-            "elevation_ft": "184",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.183",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WIPQ"
-        }
-    ]
+    }
 }

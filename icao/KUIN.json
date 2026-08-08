@@ -137,51 +137,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
         "keywords": "Airports in Illinois"
-    },
-    "navaids": [
-        {
-            "id": "94857",
-            "filename": "Quincy_NDB_US",
-            "ident": "UI",
-            "name": "Quincy",
-            "type": "NDB",
-            "frequency_khz": "293",
-            "latitude_deg": "39.887001037597656",
-            "longitude_deg": "-91.25360107421875",
-            "elevation_ft": "769",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.157",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KUIN"
-        },
-        {
-            "id": "94861",
-            "filename": "Quincy_VORTAC_US",
-            "ident": "UIN",
-            "name": "Quincy",
-            "type": "VORTAC",
-            "frequency_khz": "113600",
-            "latitude_deg": "39.847900390625",
-            "longitude_deg": "-91.27880096435547",
-            "elevation_ft": "710",
-            "iso_country": "US",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "5.001",
-            "magnetic_variation_deg": "0.172",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KUIN"
-        }
-    ]
+    }
 }

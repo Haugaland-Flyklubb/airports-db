@@ -93,51 +93,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Carabobo",
         "keywords": "Airports in Carabobo State"
-    },
-    "navaids": [
-        {
-            "id": "95038",
-            "filename": "Valencia_VOR-DME_VE",
-            "ident": "VAL",
-            "name": "Valencia",
-            "type": "VOR-DME",
-            "frequency_khz": "117400",
-            "latitude_deg": "10.147899627685547",
-            "longitude_deg": "-67.92279815673828",
-            "elevation_ft": "1401",
-            "iso_country": "VE",
-            "dme_frequency_khz": "117400",
-            "dme_channel": "121X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10.007",
-            "magnetic_variation_deg": "-10.347",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVVA"
-        },
-        {
-            "id": "95182",
-            "filename": "Valencia_NDB_VE",
-            "ident": "VLC",
-            "name": "Valencia",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "10.152000427246094",
-            "longitude_deg": "-67.94239807128906",
-            "elevation_ft": "1417",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.34",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SVVA"
-        }
-    ]
+    }
 }

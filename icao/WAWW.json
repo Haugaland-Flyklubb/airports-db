@@ -69,51 +69,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Tenggara",
         "keywords": "Airports in Sulawesi Tenggara"
-    },
-    "navaids": [
-        {
-            "id": "89710",
-            "filename": "Kendari_VOR-DME_ID",
-            "ident": "KDI",
-            "name": "Kendari",
-            "type": "VOR-DME",
-            "frequency_khz": "115000",
-            "latitude_deg": "-4.0756402015686035",
-            "longitude_deg": "122.4530029296875",
-            "elevation_ft": "448",
-            "iso_country": "ID",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "1.416",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WAWW"
-        },
-        {
-            "id": "91562",
-            "filename": "Kendari_NDB_ID",
-            "ident": "NI",
-            "name": "Kendari",
-            "type": "NDB",
-            "frequency_khz": "215",
-            "latitude_deg": "-4.086490154266357",
-            "longitude_deg": "122.41100311279297",
-            "elevation_ft": "180",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.415",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAWW"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Riyadh_Region",
         "keywords": "Riyad"
-    },
-    "navaids": [
-        {
-            "id": "95391",
-            "filename": "Wadi_Al_Dawasir_VORTAC_SA",
-            "ident": "WDR",
-            "name": "Wadi Al Dawasir",
-            "type": "VORTAC",
-            "frequency_khz": "115200",
-            "latitude_deg": "20.505300521850586",
-            "longitude_deg": "45.20539855957031",
-            "elevation_ft": "2049",
-            "iso_country": "SA",
-            "dme_frequency_khz": "115200",
-            "dme_channel": "099X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "2.069",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OEWD"
-        }
-    ]
+    }
 }

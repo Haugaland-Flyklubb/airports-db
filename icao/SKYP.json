@@ -93,29 +93,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Casanare_Department",
         "keywords": "Airports in Casanare Department"
-    },
-    "navaids": [
-        {
-            "id": "87889",
-            "filename": "El_Yopal_VOR-DME_CO",
-            "ident": "EYP",
-            "name": "El Yopal",
-            "type": "VOR-DME",
-            "frequency_khz": "115600",
-            "latitude_deg": "5.276939868927002",
-            "longitude_deg": "-72.42579650878906",
-            "elevation_ft": "903",
-            "iso_country": "CO",
-            "dme_frequency_khz": "115600",
-            "dme_channel": "103X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-6.526",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SKYP"
-        }
-    ]
+    }
 }

@@ -165,29 +165,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rhineland-Palatinate",
         "keywords": "Rheinland-Pfalz"
-    },
-    "navaids": [
-        {
-            "id": "93873",
-            "filename": "Spangdahlem_TACAN_DE",
-            "ident": "SPA",
-            "name": "Spangdahlem",
-            "type": "TACAN",
-            "frequency_khz": "109500",
-            "latitude_deg": "49.979000091552734",
-            "longitude_deg": "6.697700023651123",
-            "elevation_ft": "1161",
-            "iso_country": "DE",
-            "dme_frequency_khz": "109500",
-            "dme_channel": "032X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.009",
-            "magnetic_variation_deg": "0.125",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ETAD"
-        }
-    ]
+    }
 }

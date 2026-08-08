@@ -85,51 +85,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    },
-    "navaids": [
-        {
-            "id": "88390",
-            "filename": "Fort_Good_Hope_NDB_CA",
-            "ident": "GH",
-            "name": "Fort Good Hope",
-            "type": "NDB",
-            "frequency_khz": "266",
-            "latitude_deg": "66.26249694824219",
-            "longitude_deg": "-128.62100219726562",
-            "elevation_ft": "268",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "27.445",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYGH"
-        },
-        {
-            "id": "95674",
-            "filename": "Fort_Good_Hope_VOR-DME_CA",
-            "ident": "YGH",
-            "name": "Fort Good Hope",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "66.23609924316406",
-            "longitude_deg": "-128.6230010986328",
-            "elevation_ft": "303",
-            "iso_country": "CA",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "25.001",
-            "magnetic_variation_deg": "27.434",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYGH"
-        }
-    ]
+    }
 }

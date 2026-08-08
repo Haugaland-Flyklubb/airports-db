@@ -117,51 +117,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
         "keywords": "Baden-Wuerttemberg"
-    },
-    "navaids": [
-        {
-            "id": "89680",
-            "filename": "Karlsruhe_Baden_Baden_NDB_DE",
-            "ident": "KBA",
-            "name": "Karlsruhe Baden Baden",
-            "type": "NDB",
-            "frequency_khz": "431",
-            "latitude_deg": "48.79800033569336",
-            "longitude_deg": "8.097550392150879",
-            "elevation_ft": "408",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.411",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "EDSB"
-        },
-        {
-            "id": "89681",
-            "filename": "Karlsruhe_Baden_Baden_DME_DE",
-            "ident": "KBD",
-            "name": "Karlsruhe Baden Baden",
-            "type": "DME",
-            "frequency_khz": "115800",
-            "latitude_deg": "48.78020095825195",
-            "longitude_deg": "8.088489532470703",
-            "elevation_ft": "495",
-            "iso_country": "DE",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.41",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDSB"
-        }
-    ]
+    }
 }

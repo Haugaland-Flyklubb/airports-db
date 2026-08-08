@@ -161,51 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
         "keywords": "Airports in New Jersey"
-    },
-    "navaids": [
-        {
-            "id": "87877",
-            "filename": "Chesa_NDB_US",
-            "ident": "EW",
-            "name": "Chesa",
-            "type": "NDB",
-            "frequency_khz": "241",
-            "latitude_deg": "40.59370040893555",
-            "longitude_deg": "-74.2300033569336",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.01",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KEWR"
-        },
-        {
-            "id": "87892",
-            "filename": "Lizah_NDB_US",
-            "ident": "EZ",
-            "name": "Lizah",
-            "type": "NDB",
-            "frequency_khz": "373",
-            "latitude_deg": "40.6072998046875",
-            "longitude_deg": "-74.21800231933594",
-            "elevation_ft": "10",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.017",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KEWR"
-        }
-    ]
+    }
 }

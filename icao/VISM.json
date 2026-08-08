@@ -77,29 +77,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
         "keywords": "Airports in Himachal Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "93570",
-            "filename": "Simla_NDB_IN",
-            "ident": "SH",
-            "name": "Simla",
-            "type": "NDB",
-            "frequency_khz": "398",
-            "latitude_deg": "31.086200714111328",
-            "longitude_deg": "77.06700134277344",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.112",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VISM"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Putumayo_Department",
         "keywords": "Airports in Putumayo Department"
-    },
-    "navaids": [
-        {
-            "id": "92516",
-            "filename": "Puerto_Leguizamo_VOR-DME_CO",
-            "ident": "PLG",
-            "name": "Puerto Leguizamo",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "-0.17893099784851074",
-            "longitude_deg": "-74.77539825439453",
-            "elevation_ft": "653",
-            "iso_country": "CO",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.166",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKLG"
-        }
-    ]
+    }
 }

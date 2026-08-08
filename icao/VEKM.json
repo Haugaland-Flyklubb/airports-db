@@ -59,29 +59,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tripura",
         "keywords": "Airports in Tripura"
-    },
-    "navaids": [
-        {
-            "id": "89857",
-            "filename": "Kamalpur_NDB_IN",
-            "ident": "KM",
-            "name": "Kamalpur",
-            "type": "NDB",
-            "frequency_khz": "246",
-            "latitude_deg": "24.132299423217773",
-            "longitude_deg": "91.81099700927734",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.303",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VEKM"
-        }
-    ]
+    }
 }

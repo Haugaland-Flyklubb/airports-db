@@ -131,29 +131,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
         "keywords": "Airports in Oregon"
-    },
-    "navaids": [
-        {
-            "id": "91087",
-            "filename": "Minne_NDB_US",
-            "ident": "MM",
-            "name": "Minne",
-            "type": "NDB",
-            "frequency_khz": "383",
-            "latitude_deg": "45.24610137939453",
-            "longitude_deg": "-123.02999877929688",
-            "elevation_ft": "159",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "17.017",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KMMV"
-        }
-    ]
+    }
 }

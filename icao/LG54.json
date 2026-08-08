@@ -69,29 +69,5 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Crete#Administration",
         "keywords": "Κρήτη"
-    },
-    "navaids": [
-        {
-            "id": "94369",
-            "filename": "Timbakion_TACAN_GR",
-            "ident": "TIM",
-            "name": "Timbakion",
-            "type": "TACAN",
-            "frequency_khz": "109800",
-            "latitude_deg": "35.062198638916016",
-            "longitude_deg": "24.767200469970703",
-            "elevation_ft": "7",
-            "iso_country": "GR",
-            "dme_frequency_khz": "109800",
-            "dme_channel": "035X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.097",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LG54"
-        }
-    ]
+    }
 }

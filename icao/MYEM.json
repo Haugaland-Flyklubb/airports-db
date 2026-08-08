@@ -85,29 +85,5 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Eleuthera",
         "keywords": "Airports in Central Eleuthera"
-    },
-    "navaids": [
-        {
-            "id": "96021",
-            "filename": "Governors_Harbour_NDB_BS",
-            "ident": "ZGB",
-            "name": "Governors Harbour",
-            "type": "NDB",
-            "frequency_khz": "224",
-            "latitude_deg": "25.263900756835938",
-            "longitude_deg": "-76.31670379638672",
-            "elevation_ft": "11",
-            "iso_country": "BS",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.572",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "MYEM"
-        }
-    ]
+    }
 }

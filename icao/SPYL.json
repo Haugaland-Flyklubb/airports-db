@@ -69,51 +69,5 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Piura_Region",
         "keywords": "Airports in Piura Region"
-    },
-    "navaids": [
-        {
-            "id": "94177",
-            "filename": "Talara_VOR_PE",
-            "ident": "TAL",
-            "name": "Talara",
-            "type": "VOR",
-            "frequency_khz": "116100",
-            "latitude_deg": "-4.580560207366943",
-            "longitude_deg": "-81.25250244140625",
-            "elevation_ft": "282",
-            "iso_country": "PE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "1.02",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SPYL"
-        },
-        {
-            "id": "94735",
-            "filename": "Talara_NDB_PE",
-            "ident": "TYL",
-            "name": "Talara",
-            "type": "NDB",
-            "frequency_khz": "370",
-            "latitude_deg": "-4.573329925537109",
-            "longitude_deg": "-81.25499725341797",
-            "elevation_ft": "282",
-            "iso_country": "PE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.02",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SPYL"
-        }
-    ]
+    }
 }

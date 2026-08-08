@@ -169,29 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
         "keywords": "Airports in Illinois"
-    },
-    "navaids": [
-        {
-            "id": "91050",
-            "filename": "Molli_NDB_US",
-            "ident": "ML",
-            "name": "Molli",
-            "type": "NDB",
-            "frequency_khz": "215",
-            "latitude_deg": "41.449100494384766",
-            "longitude_deg": "-90.61849975585938",
-            "elevation_ft": "578",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.292",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KMLI"
-        }
-    ]
+    }
 }

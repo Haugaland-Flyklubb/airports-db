@@ -101,29 +101,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
         "keywords": "Nordrhein-Westfalen"
-    },
-    "navaids": [
-        {
-            "id": "91568",
-            "filename": "Niederrhein_DME_DE",
-            "ident": "NID",
-            "name": "Niederrhein",
-            "type": "DME",
-            "frequency_khz": "115500",
-            "latitude_deg": "51.599998474121094",
-            "longitude_deg": "6.141479969024658",
-            "elevation_ft": "152",
-            "iso_country": "DE",
-            "dme_frequency_khz": "115500",
-            "dme_channel": "102X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.05",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "EDLV"
-        }
-    ]
+    }
 }

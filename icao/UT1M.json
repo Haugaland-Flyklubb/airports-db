@@ -59,51 +59,5 @@
         "iso_country": "UZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Surxondaryo_Region",
         "keywords": "Airports in Surxondaryo Region"
-    },
-    "navaids": [
-        {
-            "id": "88680",
-            "filename": "Kakaydy_NDB_UZ",
-            "ident": "GZ",
-            "name": "Kakaydy",
-            "type": "NDB",
-            "frequency_khz": "205",
-            "latitude_deg": "37.573299407958984",
-            "longitude_deg": "67.49500274658203",
-            "elevation_ft": "",
-            "iso_country": "UZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.388",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UT1M"
-        },
-        {
-            "id": "94270",
-            "filename": "Kakaydy_NDB_UZ",
-            "ident": "TD",
-            "name": "Kakaydy",
-            "type": "NDB",
-            "frequency_khz": "205",
-            "latitude_deg": "37.663299560546875",
-            "longitude_deg": "67.54000091552734",
-            "elevation_ft": "",
-            "iso_country": "UZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.404",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "UT1M"
-        }
-    ]
+    }
 }

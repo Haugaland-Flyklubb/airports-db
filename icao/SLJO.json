@@ -35,29 +35,5 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/El_Beni_Department",
         "keywords": "Airports in El Beni Department"
-    },
-    "navaids": [
-        {
-            "id": "89527",
-            "filename": "San_Joaquin_NDB_BO",
-            "ident": "JOA",
-            "name": "San Joaquin",
-            "type": "NDB",
-            "frequency_khz": "217",
-            "latitude_deg": "-13.050000190734863",
-            "longitude_deg": "-64.66670227050781",
-            "elevation_ft": "",
-            "iso_country": "BO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-9.296",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SLJO"
-        }
-    ]
+    }
 }

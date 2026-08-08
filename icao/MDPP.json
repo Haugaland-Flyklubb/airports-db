@@ -85,51 +85,5 @@
         "iso_country": "DO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Puerto_Plata_Province",
         "keywords": "Airports in Puerto Plata Province"
-    },
-    "navaids": [
-        {
-            "id": "92633",
-            "filename": "Puerto_Plata_NDB_DO",
-            "ident": "PPA",
-            "name": "Puerto Plata",
-            "type": "NDB",
-            "frequency_khz": "450",
-            "latitude_deg": "19.752399444580078",
-            "longitude_deg": "-70.57029724121094",
-            "elevation_ft": "16",
-            "iso_country": "DO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.224",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MDPP"
-        },
-        {
-            "id": "92758",
-            "filename": "Puerto_Plata_VOR-DME_DO",
-            "ident": "PTA",
-            "name": "Puerto Plata",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "19.759300231933594",
-            "longitude_deg": "-70.57039642333984",
-            "elevation_ft": "38",
-            "iso_country": "DO",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.007",
-            "magnetic_variation_deg": "-10.225",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MDPP"
-        }
-    ]
+    }
 }

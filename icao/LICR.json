@@ -99,51 +99,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Calabria",
         "keywords": "CI"
-    },
-    "navaids": [
-        {
-            "id": "93005",
-            "filename": "Reggio_Calabria_VOR-DME_IT",
-            "ident": "RCA",
-            "name": "Reggio Calabria",
-            "type": "VOR-DME",
-            "frequency_khz": "111000",
-            "latitude_deg": "38.075801849365234",
-            "longitude_deg": "15.645500183105469",
-            "elevation_ft": "55",
-            "iso_country": "IT",
-            "dme_frequency_khz": "111000",
-            "dme_channel": "047X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "2.098",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "LICR"
-        },
-        {
-            "id": "93006",
-            "filename": "Reggio_Calabria_NDB_IT",
-            "ident": "RCA",
-            "name": "Reggio Calabria",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "38.012901306152344",
-            "longitude_deg": "15.650300025939941",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.096",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LICR"
-        }
-    ]
+    }
 }

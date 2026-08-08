@@ -93,51 +93,5 @@
         "iso_country": "BJ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Atlantique_Department",
         "keywords": "Airports in Atlantique Department"
-    },
-    "navaids": [
-        {
-            "id": "86929",
-            "filename": "Cotonou_NDB_BJ",
-            "ident": "CO",
-            "name": "Cotonou",
-            "type": "NDB",
-            "frequency_khz": "284",
-            "latitude_deg": "6.370810031890869",
-            "longitude_deg": "2.4024999141693115",
-            "elevation_ft": "",
-            "iso_country": "BJ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.476",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "DBBB"
-        },
-        {
-            "id": "94731",
-            "filename": "Cotonou_VOR-DME_BJ",
-            "ident": "TYE",
-            "name": "Cotonou",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "6.36214017868042",
-            "longitude_deg": "2.393249988555908",
-            "elevation_ft": "39",
-            "iso_country": "BJ",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.479",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DBBB"
-        }
-    ]
+    }
 }

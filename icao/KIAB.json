@@ -163,29 +163,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
         "keywords": "Airports in Kansas"
-    },
-    "navaids": [
-        {
-            "id": "89114",
-            "filename": "Mc_Connell_TACAN_US",
-            "ident": "IAB",
-            "name": "Mc Connell",
-            "type": "TACAN",
-            "frequency_khz": "116500",
-            "latitude_deg": "37.62189865112305",
-            "longitude_deg": "-97.26820373535156",
-            "elevation_ft": "1374",
-            "iso_country": "US",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.001",
-            "magnetic_variation_deg": "4.535",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KIAB"
-        }
-    ]
+    }
 }

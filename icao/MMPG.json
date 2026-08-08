@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Coahuila",
         "keywords": "Airports in Coahuila"
-    },
-    "navaids": [
-        {
-            "id": "92568",
-            "filename": "Piedras_VOR-DME_MX",
-            "ident": "PNG",
-            "name": "Piedras",
-            "type": "VOR-DME",
-            "frequency_khz": "113600",
-            "latitude_deg": "28.631799697875977",
-            "longitude_deg": "-100.53800201416016",
-            "elevation_ft": "901",
-            "iso_country": "MX",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "10.01",
-            "magnetic_variation_deg": "6.381",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMPG"
-        }
-    ]
+    }
 }

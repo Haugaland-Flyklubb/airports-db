@@ -165,29 +165,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "91895",
-            "filename": "Odiham_TACAN_GB",
-            "ident": "ODH",
-            "name": "Odiham",
-            "type": "TACAN",
-            "frequency_khz": "109600",
-            "latitude_deg": "51.2327995300293",
-            "longitude_deg": "-0.9484919905662537",
-            "elevation_ft": "410",
-            "iso_country": "GB",
-            "dme_frequency_khz": "109600",
-            "dme_channel": "033X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.328",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "EGVO"
-        }
-    ]
+    }
 }

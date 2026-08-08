@@ -85,29 +85,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santander_Department",
         "keywords": "Airports in Santander Department"
-    },
-    "navaids": [
-        {
-            "id": "87697",
-            "filename": "Barrancabermeja_VOR-DME_CO",
-            "ident": "EJA",
-            "name": "Barrancabermeja",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "7.028520107269287",
-            "longitude_deg": "-73.80549621582031",
-            "elevation_ft": "424",
-            "iso_country": "CO",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-6.137",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKEJ"
-        }
-    ]
+    }
 }

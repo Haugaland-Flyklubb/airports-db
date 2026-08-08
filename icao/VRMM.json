@@ -85,51 +85,5 @@
         "iso_country": "MV",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mal%C3%A9",
         "keywords": "Airports in Malé (capital city)"
-    },
-    "navaids": [
-        {
-            "id": "91046",
-            "filename": "Male_NDB_MV",
-            "ident": "ML",
-            "name": "Male",
-            "type": "NDB",
-            "frequency_khz": "252",
-            "latitude_deg": "4.190470218658447",
-            "longitude_deg": "73.53109741210938",
-            "elevation_ft": "4",
-            "iso_country": "MV",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.351",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VRMM"
-        },
-        {
-            "id": "91059",
-            "filename": "Male_VOR-DME_MV",
-            "ident": "MLE",
-            "name": "Male",
-            "type": "VOR-DME",
-            "frequency_khz": "114700",
-            "latitude_deg": "4.193389892578125",
-            "longitude_deg": "73.53070068359375",
-            "elevation_ft": "22",
-            "iso_country": "MV",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-3.351",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VRMM"
-        }
-    ]
+    }
 }

@@ -189,29 +189,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "85286",
-            "filename": "Archerfield_NDB_AU",
-            "ident": "AF",
-            "name": "Archerfield",
-            "type": "NDB",
-            "frequency_khz": "419",
-            "latitude_deg": "-27.57029914855957",
-            "longitude_deg": "153.01600646972656",
-            "elevation_ft": "63",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.088",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YBAF"
-        }
-    ]
+    }
 }

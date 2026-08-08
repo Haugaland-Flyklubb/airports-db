@@ -99,51 +99,5 @@
         "iso_country": "HU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Győr-Moson-Sopron_County",
         "keywords": "Airports in Győr-Moson-Sopron County"
-    },
-    "navaids": [
-        {
-            "id": "88674",
-            "filename": "Gyor_VOR-DME_HU",
-            "ident": "GYR",
-            "name": "Gyor",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "47.65909957885742",
-            "longitude_deg": "17.72439956665039",
-            "elevation_ft": "515",
-            "iso_country": "HU",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "47.659",
-            "dme_longitude_deg": "17.7243",
-            "dme_elevation_ft": "515",
-            "slaved_variation_deg": "2.007",
-            "magnetic_variation_deg": "3.05",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "LHPR"
-        },
-        {
-            "id": "88675",
-            "filename": "Gyor_NDB_HU",
-            "ident": "GYR",
-            "name": "Gyor",
-            "type": "NDB",
-            "frequency_khz": "354",
-            "latitude_deg": "47.65999984741211",
-            "longitude_deg": "17.717899322509766",
-            "elevation_ft": "",
-            "iso_country": "HU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.05",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LHPR"
-        }
-    ]
+    }
 }

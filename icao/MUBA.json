@@ -77,29 +77,5 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guant%C3%A1namo_Province",
         "keywords": "Airports in Guantánamo Province"
-    },
-    "navaids": [
-        {
-            "id": "94787",
-            "filename": "Baracoa_NDB_CU",
-            "ident": "UBA",
-            "name": "Baracoa",
-            "type": "NDB",
-            "frequency_khz": "278",
-            "latitude_deg": "20.369400024414062",
-            "longitude_deg": "-74.52279663085938",
-            "elevation_ft": "",
-            "iso_country": "CU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.073",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MUBA"
-        }
-    ]
+    }
 }

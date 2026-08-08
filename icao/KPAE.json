@@ -185,51 +185,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    },
-    "navaids": [
-        {
-            "id": "92241",
-            "filename": "Ritts_NDB_US",
-            "ident": "PA",
-            "name": "Ritts",
-            "type": "NDB",
-            "frequency_khz": "396",
-            "latitude_deg": "48.052799224853516",
-            "longitude_deg": "-122.28900146484375",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "17.493",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KPAE"
-        },
-        {
-            "id": "92248",
-            "filename": "Paine_VOR-DME_US",
-            "ident": "PAE",
-            "name": "Paine",
-            "type": "VOR-DME",
-            "frequency_khz": "110600",
-            "latitude_deg": "47.9197998046875",
-            "longitude_deg": "-122.27799987792969",
-            "elevation_ft": "670",
-            "iso_country": "US",
-            "dme_frequency_khz": "110600",
-            "dme_channel": "043X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "20.001",
-            "magnetic_variation_deg": "17.464",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KPAE"
-        }
-    ]
+    }
 }

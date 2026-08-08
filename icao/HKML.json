@@ -81,51 +81,5 @@
         "iso_country": "KE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kilifi_County",
         "keywords": "Airports in Kilifi County"
-    },
-    "navaids": [
-        {
-            "id": "91045",
-            "filename": "Malindi_NDB_KE",
-            "ident": "ML",
-            "name": "Malindi",
-            "type": "NDB",
-            "frequency_khz": "309",
-            "latitude_deg": "-3.2311298847198486",
-            "longitude_deg": "40.099998474121094",
-            "elevation_ft": "",
-            "iso_country": "KE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.031",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HKML"
-        },
-        {
-            "id": "91057",
-            "filename": "Malindi_VOR-DME_KE",
-            "ident": "MLD",
-            "name": "Malindi",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "-3.2335400581359863",
-            "longitude_deg": "40.10260009765625",
-            "elevation_ft": "80",
-            "iso_country": "KE",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.032",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HKML"
-        }
-    ]
+    }
 }

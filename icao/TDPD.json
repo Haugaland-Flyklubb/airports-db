@@ -69,29 +69,5 @@
         "iso_country": "DM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Andrew_Parish,_Dominica",
         "keywords": "Airports in Saint Andrew Parish"
-    },
-    "navaids": [
-        {
-            "id": "87489",
-            "filename": "Melville_Hall_NDB_DM",
-            "ident": "DOM",
-            "name": "Melville Hall",
-            "type": "NDB",
-            "frequency_khz": "273",
-            "latitude_deg": "15.55090045928955",
-            "longitude_deg": "-61.29560089111328",
-            "elevation_ft": "80",
-            "iso_country": "DM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.32",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "TDPD"
-        }
-    ]
+    }
 }

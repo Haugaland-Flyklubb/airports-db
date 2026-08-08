@@ -91,29 +91,5 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Highlands_Province",
         "keywords": "Airports in Eastern Highlands Province"
-    },
-    "navaids": [
-        {
-            "id": "88241",
-            "filename": "Goroka_NDB_PG",
-            "ident": "GA",
-            "name": "Goroka",
-            "type": "NDB",
-            "frequency_khz": "173",
-            "latitude_deg": "-6.07781982421875",
-            "longitude_deg": "145.38999938964844",
-            "elevation_ft": "5208",
-            "iso_country": "PG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.306",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "AYGA"
-        }
-    ]
+    }
 }

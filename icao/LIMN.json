@@ -93,51 +93,5 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
         "keywords": "PM, Piemonte"
-    },
-    "navaids": [
-        {
-            "id": "86568",
-            "filename": "Cameri_TACAN_IT",
-            "ident": "CAM",
-            "name": "Cameri",
-            "type": "TACAN",
-            "frequency_khz": "115000",
-            "latitude_deg": "45.5702018737793",
-            "longitude_deg": "8.657529830932617",
-            "elevation_ft": "692",
-            "iso_country": "IT",
-            "dme_frequency_khz": "115000",
-            "dme_channel": "097X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.561",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LIMN"
-        },
-        {
-            "id": "86571",
-            "filename": "Cameri_NDB_IT",
-            "ident": "CAM",
-            "name": "Cameri",
-            "type": "NDB",
-            "frequency_khz": "323",
-            "latitude_deg": "45.4286003112793",
-            "longitude_deg": "8.700779914855957",
-            "elevation_ft": "",
-            "iso_country": "IT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.57",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LIMN"
-        }
-    ]
+    }
 }

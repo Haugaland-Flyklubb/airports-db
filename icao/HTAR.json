@@ -69,29 +69,5 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arusha_Region",
         "keywords": "Airports in Arusha Region"
-    },
-    "navaids": [
-        {
-            "id": "85564",
-            "filename": "Arusha_NDB_TZ",
-            "ident": "AR",
-            "name": "Arusha",
-            "type": "NDB",
-            "frequency_khz": "391",
-            "latitude_deg": "-3.3677899837493896",
-            "longitude_deg": "36.620399475097656",
-            "elevation_ft": "",
-            "iso_country": "TZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.307",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "HTAR"
-        }
-    ]
+    }
 }

@@ -35,29 +35,5 @@
         "iso_country": "KI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gilbert_Islands",
         "keywords": "Airports in Gilbert Islands"
-    },
-    "navaids": [
-        {
-            "id": "85175",
-            "filename": "Abemama_NDB_KI",
-            "ident": "AA",
-            "name": "Abemama",
-            "type": "NDB",
-            "frequency_khz": "396",
-            "latitude_deg": "0.5",
-            "longitude_deg": "173.85000610351562",
-            "elevation_ft": "108",
-            "iso_country": "KI",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.26",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "NGTB"
-        }
-    ]
+    }
 }

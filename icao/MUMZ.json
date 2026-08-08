@@ -77,29 +77,5 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Granma_Province",
         "keywords": "Airports in Granma Province"
-    },
-    "navaids": [
-        {
-            "id": "94906",
-            "filename": "Manzanillo_VOR-DME_CU",
-            "ident": "UMZ",
-            "name": "Manzanillo",
-            "type": "VOR-DME",
-            "frequency_khz": "116000",
-            "latitude_deg": "20.302799224853516",
-            "longitude_deg": "-77.09940338134766",
-            "elevation_ft": "300",
-            "iso_country": "CU",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-6.29",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MUMZ"
-        }
-    ]
+    }
 }

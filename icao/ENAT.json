@@ -77,51 +77,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Finnmark",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "85393",
-            "filename": "Alta_NDB_NO",
-            "ident": "ALA",
-            "name": "Alta",
-            "type": "NDB",
-            "frequency_khz": "358",
-            "latitude_deg": "69.99230194091797",
-            "longitude_deg": "23.29319953918457",
-            "elevation_ft": "44",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "8.543",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ENAT"
-        },
-        {
-            "id": "85654",
-            "filename": "Alta_VOR-DME_NO",
-            "ident": "ATA",
-            "name": "Alta",
-            "type": "VOR-DME",
-            "frequency_khz": "117400",
-            "latitude_deg": "69.97760009765625",
-            "longitude_deg": "23.37179946899414",
-            "elevation_ft": "32",
-            "iso_country": "NO",
-            "dme_frequency_khz": "117400",
-            "dme_channel": "121X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.001",
-            "magnetic_variation_deg": "8.569",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "ENAT"
-        }
-    ]
+    }
 }

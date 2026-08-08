@@ -81,29 +81,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Highland_Papua",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "96152",
-            "filename": "Oksibil_NDB_ID",
-            "ident": "ZX",
-            "name": "Oksibil",
-            "type": "NDB",
-            "frequency_khz": "342",
-            "latitude_deg": "-4.84499979019165",
-            "longitude_deg": "140.5780029296875",
-            "elevation_ft": "4330",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.197",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WAJO"
-        }
-    ]
+    }
 }

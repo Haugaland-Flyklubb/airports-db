@@ -77,29 +77,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southland_Region",
         "keywords": "Airports in Southland Region"
-    },
-    "navaids": [
-        {
-            "id": "91154",
-            "filename": "Manapouri_NDB-DME_NZ",
-            "ident": "MO",
-            "name": "Manapouri",
-            "type": "NDB-DME",
-            "frequency_khz": "346",
-            "latitude_deg": "-45.49689865112305",
-            "longitude_deg": "167.71800231933594",
-            "elevation_ft": "687",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "117800",
-            "dme_channel": "125X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "24.001",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "NZMO"
-        }
-    ]
+    }
 }

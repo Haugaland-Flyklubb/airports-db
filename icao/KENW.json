@@ -177,29 +177,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
         "keywords": "Airports in Wisconsin"
-    },
-    "navaids": [
-        {
-            "id": "87770",
-            "filename": "Kenosha_VOR-DME_US",
-            "ident": "ENW",
-            "name": "Kenosha",
-            "type": "VOR-DME",
-            "frequency_khz": "109200",
-            "latitude_deg": "42.599098205566406",
-            "longitude_deg": "-87.93170166015625",
-            "elevation_ft": "735",
-            "iso_country": "US",
-            "dme_frequency_khz": "109200",
-            "dme_channel": "029X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.003",
-            "magnetic_variation_deg": "-3.006",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KENW"
-        }
-    ]
+    }
 }

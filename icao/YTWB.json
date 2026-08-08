@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "94710",
-            "filename": "Toowoomba_NDB_AU",
-            "ident": "TWB",
-            "name": "Toowoomba",
-            "type": "NDB",
-            "frequency_khz": "386",
-            "latitude_deg": "-27.541900634765625",
-            "longitude_deg": "151.91200256347656",
-            "elevation_ft": "2086",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "10.507",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YTWB"
-        }
-    ]
+    }
 }

@@ -93,51 +93,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Luxor_Governorate",
         "keywords": "Airports in Luxor"
-    },
-    "navaids": [
-        {
-            "id": "90460",
-            "filename": "Luxor_NDB_EG",
-            "ident": "LO",
-            "name": "Luxor",
-            "type": "NDB",
-            "frequency_khz": "364",
-            "latitude_deg": "25.737899780273438",
-            "longitude_deg": "32.73759841918945",
-            "elevation_ft": "284",
-            "iso_country": "EG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.049",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HELX"
-        },
-        {
-            "id": "90654",
-            "filename": "Luxor_VOR-DME_EG",
-            "ident": "LXR",
-            "name": "Luxor",
-            "type": "VOR-DME",
-            "frequency_khz": "114400",
-            "latitude_deg": "25.749399185180664",
-            "longitude_deg": "32.76860046386719",
-            "elevation_ft": "332",
-            "iso_country": "EG",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.005",
-            "magnetic_variation_deg": "3.05",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HELX"
-        }
-    ]
+    }
 }

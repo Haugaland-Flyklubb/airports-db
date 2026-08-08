@@ -91,29 +91,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canterbury,_New_Zealand",
         "keywords": "Airports in Canterbury Region"
-    },
-    "navaids": [
-        {
-            "id": "89787",
-            "filename": "Kaikoura_NDB_NZ",
-            "ident": "KI",
-            "name": "Kaikoura",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "-42.4203987121582",
-            "longitude_deg": "173.6959991455078",
-            "elevation_ft": "",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "22.418",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "NZKI"
-        }
-    ]
+    }
 }

@@ -109,29 +109,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
         "keywords": "Airports in North Carolina"
-    },
-    "navaids": [
-        {
-            "id": "91588",
-            "filename": "Bogue_Mcalf_TACAN_US",
-            "ident": "NJM",
-            "name": "Bogue Mcalf",
-            "type": "TACAN",
-            "frequency_khz": "134000",
-            "latitude_deg": "34.68960189819336",
-            "longitude_deg": "-77.0271987915039",
-            "elevation_ft": "24",
-            "iso_country": "US",
-            "dme_frequency_khz": "134000",
-            "dme_channel": "067X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.005",
-            "magnetic_variation_deg": "-9.346",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "KNJM"
-        }
-    ]
+    }
 }

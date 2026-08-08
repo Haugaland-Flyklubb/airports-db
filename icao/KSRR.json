@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    },
-    "navaids": [
-        {
-            "id": "86689",
-            "filename": "Capitan_NDB_US",
-            "ident": "CEP",
-            "name": "Capitan",
-            "type": "NDB",
-            "frequency_khz": "278",
-            "latitude_deg": "33.489898681640625",
-            "longitude_deg": "-105.40399932861328",
-            "elevation_ft": "6561",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.088",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KSRR"
-        }
-    ]
+    }
 }

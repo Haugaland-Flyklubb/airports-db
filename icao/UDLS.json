@@ -69,51 +69,5 @@
         "iso_country": "AM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lori_Province",
         "keywords": "Lory, Լոռի"
-    },
-    "navaids": [
-        {
-            "id": "93325",
-            "filename": "Stepanavan_NDB_AM",
-            "ident": "S",
-            "name": "Stepanavan",
-            "type": "NDB",
-            "frequency_khz": "602",
-            "latitude_deg": "41.03609848022461",
-            "longitude_deg": "44.356201171875",
-            "elevation_ft": "",
-            "iso_country": "AM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.316",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "UDLS"
-        },
-        {
-            "id": "93958",
-            "filename": "Stepanavan_NDB_AM",
-            "ident": "ST",
-            "name": "Stepanavan",
-            "type": "NDB",
-            "frequency_khz": "292",
-            "latitude_deg": "41.03609848022461",
-            "longitude_deg": "44.356201171875",
-            "elevation_ft": "",
-            "iso_country": "AM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.316",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "UDLS"
-        }
-    ]
+    }
 }

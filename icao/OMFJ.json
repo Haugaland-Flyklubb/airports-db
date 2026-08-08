@@ -101,51 +101,5 @@
         "iso_country": "AE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fujairah",
         "keywords": "Al Fujayrah"
-    },
-    "navaids": [
-        {
-            "id": "88013",
-            "filename": "Fujairah_VOR-DME_AE",
-            "ident": "FJR",
-            "name": "Fujairah",
-            "type": "VOR-DME",
-            "frequency_khz": "114700",
-            "latitude_deg": "25.101699829101562",
-            "longitude_deg": "56.351898193359375",
-            "elevation_ft": "54",
-            "iso_country": "AE",
-            "dme_frequency_khz": "114700",
-            "dme_channel": "094X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.23",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OMFJ"
-        },
-        {
-            "id": "88191",
-            "filename": "Fujairah_NDB_AE",
-            "ident": "FUJ",
-            "name": "Fujairah",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "25.10219955444336",
-            "longitude_deg": "56.35060119628906",
-            "elevation_ft": "",
-            "iso_country": "AE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.214",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OMFJ"
-        }
-    ]
+    }
 }

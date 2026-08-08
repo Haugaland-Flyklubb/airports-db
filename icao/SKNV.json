@@ -85,29 +85,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Huila_Department",
         "keywords": "Airports in Huila Department"
-    },
-    "navaids": [
-        {
-            "id": "91768",
-            "filename": "Neiva_VOR-DME_CO",
-            "ident": "NVA",
-            "name": "Neiva",
-            "type": "VOR-DME",
-            "frequency_khz": "115800",
-            "latitude_deg": "3.0591700077056885",
-            "longitude_deg": "-75.25309753417969",
-            "elevation_ft": "1451",
-            "iso_country": "CO",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.007",
-            "magnetic_variation_deg": "-4.323",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKNV"
-        }
-    ]
+    }
 }

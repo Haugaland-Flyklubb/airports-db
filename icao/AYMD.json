@@ -85,51 +85,5 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Madang_Province",
         "keywords": "Airports in Madang Province"
-    },
-    "navaids": [
-        {
-            "id": "90817",
-            "filename": "Madang_VOR-DME_PG",
-            "ident": "MD",
-            "name": "Madang",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "-5.211629867553711",
-            "longitude_deg": "145.77699279785156",
-            "elevation_ft": "11",
-            "iso_country": "PG",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.011",
-            "magnetic_variation_deg": "5.28",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "AYMD"
-        },
-        {
-            "id": "90824",
-            "filename": "Madang_NDB_PG",
-            "ident": "MD",
-            "name": "Madang",
-            "type": "NDB",
-            "frequency_khz": "362",
-            "latitude_deg": "-5.212850093841553",
-            "longitude_deg": "145.78399658203125",
-            "elevation_ft": "100",
-            "iso_country": "PG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.281",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "AYMD"
-        }
-    ]
+    }
 }

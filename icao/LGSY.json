@@ -85,51 +85,5 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Greece_(region)",
         "keywords": "Περιφέρεια Στερεάς Ελλάδας"
-    },
-    "navaids": [
-        {
-            "id": "93702",
-            "filename": "Skiros_VOR-DME_GR",
-            "ident": "SKS",
-            "name": "Skiros",
-            "type": "VOR-DME",
-            "frequency_khz": "116600",
-            "latitude_deg": "38.97740173339844",
-            "longitude_deg": "24.490100860595703",
-            "elevation_ft": "44",
-            "iso_country": "GR",
-            "dme_frequency_khz": "116600",
-            "dme_channel": "113X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.285",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LGSY"
-        },
-        {
-            "id": "93705",
-            "filename": "Skyros_TACAN_GR",
-            "ident": "SKY",
-            "name": "Skyros",
-            "type": "TACAN",
-            "frequency_khz": "116100",
-            "latitude_deg": "38.97610092163086",
-            "longitude_deg": "24.49169921875",
-            "elevation_ft": "48",
-            "iso_country": "GR",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.285",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LGSY"
-        }
-    ]
+    }
 }

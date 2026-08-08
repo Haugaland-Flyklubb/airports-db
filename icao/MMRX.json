@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tamaulipas",
         "keywords": "Airports in Tamaulipas"
-    },
-    "navaids": [
-        {
-            "id": "93049",
-            "filename": "Reynosa_VOR-DME_MX",
-            "ident": "REX",
-            "name": "Reynosa",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "26.01059913635254",
-            "longitude_deg": "-98.23190307617188",
-            "elevation_ft": "139",
-            "iso_country": "MX",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.007",
-            "magnetic_variation_deg": "5.303",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMRX"
-        }
-    ]
+    }
 }

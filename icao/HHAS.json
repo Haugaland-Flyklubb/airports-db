@@ -99,51 +99,5 @@
         "iso_country": "ER",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Red_Sea_Region",
         "keywords": "ዞባ ሰሜናዊ ቀይሕ ባሕሪ, Zoba Semienawi Keyih Bahri, منطقة البحر الأحمر الشمال"
-    },
-    "navaids": [
-        {
-            "id": "85612",
-            "filename": "Asmara_NDB_ER",
-            "ident": "AS",
-            "name": "Asmara",
-            "type": "NDB",
-            "frequency_khz": "305",
-            "latitude_deg": "15.281299591064453",
-            "longitude_deg": "38.88520050048828",
-            "elevation_ft": "",
-            "iso_country": "ER",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.161",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "HHAS"
-        },
-        {
-            "id": "85629",
-            "filename": "Asmara_VOR-DME_ER",
-            "ident": "ASM",
-            "name": "Asmara",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "15.284000396728516",
-            "longitude_deg": "38.900901794433594",
-            "elevation_ft": "7661",
-            "iso_country": "ER",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.158",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HHAS"
-        }
-    ]
+    }
 }

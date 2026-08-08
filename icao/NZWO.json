@@ -77,29 +77,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hawke%27s_Bay",
         "keywords": "Airports in Hawke's Bay Region"
-    },
-    "navaids": [
-        {
-            "id": "95478",
-            "filename": "Wairoa_NDB_NZ",
-            "ident": "WO",
-            "name": "Wairoa",
-            "type": "NDB",
-            "frequency_khz": "246",
-            "latitude_deg": "-39.06129837036133",
-            "longitude_deg": "177.41200256347656",
-            "elevation_ft": "",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "20.558",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NZWO"
-        }
-    ]
+    }
 }

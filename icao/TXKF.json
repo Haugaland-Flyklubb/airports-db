@@ -109,29 +109,5 @@
         "iso_country": "BM",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "85894",
-            "filename": "Bermuda_VOR-DME_BM",
-            "ident": "BDA",
-            "name": "Bermuda",
-            "type": "VOR-DME",
-            "frequency_khz": "113900",
-            "latitude_deg": "32.36439895629883",
-            "longitude_deg": "-64.6895980834961",
-            "elevation_ft": "11",
-            "iso_country": "BM",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-15.003",
-            "magnetic_variation_deg": "-15.154",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "TXKF"
-        }
-    ]
+    }
 }

@@ -171,29 +171,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    },
-    "navaids": [
-        {
-            "id": "90907",
-            "filename": "Marra_NDB_US",
-            "ident": "MG",
-            "name": "Marra",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "32.31159973144531",
-            "longitude_deg": "-86.5105972290039",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.171",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KMGM"
-        }
-    ]
+    }
 }

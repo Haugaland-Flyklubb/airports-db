@@ -115,29 +115,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Madhya_Pradesh",
         "keywords": "Airports in Madhya Pradesh"
-    },
-    "navaids": [
-        {
-            "id": "86273",
-            "filename": "Bhopal_VOR-DME_IN",
-            "ident": "BPL",
-            "name": "Bhopal",
-            "type": "VOR-DME",
-            "frequency_khz": "117100",
-            "latitude_deg": "23.28219985961914",
-            "longitude_deg": "77.33709716796875",
-            "elevation_ft": "1716",
-            "iso_country": "IN",
-            "dme_frequency_khz": "117100",
-            "dme_channel": "118X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.164",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VABP"
-        }
-    ]
+    }
 }

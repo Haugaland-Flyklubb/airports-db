@@ -77,51 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "89191",
-            "filename": "Chevery_DME_CA",
-            "ident": "IHR",
-            "name": "Chevery",
-            "type": "DME",
-            "frequency_khz": "109700",
-            "latitude_deg": "50.474700927734375",
-            "longitude_deg": "-59.62580108642578",
-            "elevation_ft": "39",
-            "iso_country": "CA",
-            "dme_frequency_khz": "109700",
-            "dme_channel": "034X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.015",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYHR"
-        },
-        {
-            "id": "95690",
-            "filename": "Chevery_NDB_CA",
-            "ident": "YHR",
-            "name": "Chevery",
-            "type": "NDB",
-            "frequency_khz": "276",
-            "latitude_deg": "50.464698791503906",
-            "longitude_deg": "-59.6343994140625",
-            "elevation_ft": "39",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.011",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYHR"
-        }
-    ]
+    }
 }

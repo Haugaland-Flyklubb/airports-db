@@ -183,51 +183,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    },
-    "navaids": [
-        {
-            "id": "86515",
-            "filename": "Manni_NDB_US",
-            "ident": "BZ",
-            "name": "Manni",
-            "type": "NDB",
-            "frequency_khz": "266",
-            "latitude_deg": "45.87179946899414",
-            "longitude_deg": "-111.28600311279297",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "13.391",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KBZN"
-        },
-        {
-            "id": "86525",
-            "filename": "Bozeman_VOR-DME_US",
-            "ident": "BZN",
-            "name": "Bozeman",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "45.78390121459961",
-            "longitude_deg": "-111.15499877929688",
-            "elevation_ft": "4430",
-            "iso_country": "US",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "18.001",
-            "magnetic_variation_deg": "13.342",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "KBZN"
-        }
-    ]
+    }
 }

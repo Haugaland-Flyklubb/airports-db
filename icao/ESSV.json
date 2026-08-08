@@ -99,29 +99,5 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gotlands_län",
         "keywords": "Gotland County"
-    },
-    "navaids": [
-        {
-            "id": "95277",
-            "filename": "Visby_VOR-DME_SE",
-            "ident": "VSB",
-            "name": "Visby",
-            "type": "VOR-DME",
-            "frequency_khz": "115100",
-            "latitude_deg": "57.65950012207031",
-            "longitude_deg": "18.346900939941406",
-            "elevation_ft": "154",
-            "iso_country": "SE",
-            "dme_frequency_khz": "115100",
-            "dme_channel": "098X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "4.097",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "ESSV"
-        }
-    ]
+    }
 }

@@ -85,29 +85,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
         "keywords": "Airports in Northern Territory"
-    },
-    "navaids": [
-        {
-            "id": "95373",
-            "filename": "Wave_Hill_NDB_AU",
-            "ident": "WAV",
-            "name": "Wave Hill",
-            "type": "NDB",
-            "frequency_khz": "203",
-            "latitude_deg": "-17.392499923706055",
-            "longitude_deg": "131.12100219726562",
-            "elevation_ft": "658",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.57",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YWAV"
-        }
-    ]
+    }
 }

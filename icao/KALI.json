@@ -145,29 +145,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "85408",
-            "filename": "Alice_VOR_US",
-            "ident": "ALI",
-            "name": "Alice",
-            "type": "VOR",
-            "frequency_khz": "114500",
-            "latitude_deg": "27.73979949951172",
-            "longitude_deg": "-98.02130126953125",
-            "elevation_ft": "170",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.012",
-            "magnetic_variation_deg": "5.234",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KALI"
-        }
-    ]
+    }
 }

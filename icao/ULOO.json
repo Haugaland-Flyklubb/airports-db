@@ -91,51 +91,5 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pskov_Oblast",
         "keywords": "Airports in Pskov Oblast"
-    },
-    "navaids": [
-        {
-            "id": "91674",
-            "filename": "Pskov_NDB_RU",
-            "ident": "NP",
-            "name": "Pskov",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "57.826698303222656",
-            "longitude_deg": "28.42329978942871",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.426",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "ULOO"
-        },
-        {
-            "id": "92478",
-            "filename": "Pskov_NDB_RU",
-            "ident": "PK",
-            "name": "Pskov",
-            "type": "NDB",
-            "frequency_khz": "300",
-            "latitude_deg": "57.73830032348633",
-            "longitude_deg": "28.3700008392334",
-            "elevation_ft": "",
-            "iso_country": "RU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "7.4",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "ULOO"
-        }
-    ]
+    }
 }

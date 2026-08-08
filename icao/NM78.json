@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    },
-    "navaids": [
-        {
-            "id": "87121",
-            "filename": "Columbus_VOR-DME_US",
-            "ident": "CUS",
-            "name": "Columbus",
-            "type": "VOR-DME",
-            "frequency_khz": "111200",
-            "latitude_deg": "31.81909942626953",
-            "longitude_deg": "-107.5739974975586",
-            "elevation_ft": "4008",
-            "iso_country": "US",
-            "dme_frequency_khz": "111200",
-            "dme_channel": "049X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.001",
-            "magnetic_variation_deg": "9.486",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "NM78"
-        }
-    ]
+    }
 }

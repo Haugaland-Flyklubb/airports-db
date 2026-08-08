@@ -129,51 +129,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hamadan_Province",
         "keywords": "Airports in Hamadan Province"
-    },
-    "navaids": [
-        {
-            "id": "88701",
-            "filename": "Hamadan_Mil_VORTAC_IR",
-            "ident": "HAB",
-            "name": "Hamadan Mil",
-            "type": "VORTAC",
-            "frequency_khz": "115400",
-            "latitude_deg": "35.180599212646484",
-            "longitude_deg": "48.708099365234375",
-            "elevation_ft": "5613",
-            "iso_country": "IR",
-            "dme_frequency_khz": "115400",
-            "dme_channel": "101X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "4.026",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIHS"
-        },
-        {
-            "id": "88705",
-            "filename": "Hamadan_Mil_NDB_IR",
-            "ident": "HAB",
-            "name": "Hamadan Mil",
-            "type": "NDB",
-            "frequency_khz": "329",
-            "latitude_deg": "35.20000076293945",
-            "longitude_deg": "48.66669845581055",
-            "elevation_ft": "5613",
-            "iso_country": "IR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.03",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OIHS"
-        }
-    ]
+    }
 }

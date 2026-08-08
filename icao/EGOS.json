@@ -139,29 +139,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "94091",
-            "filename": "Shawbury_VOR-DME_GB",
-            "ident": "SWB",
-            "name": "Shawbury",
-            "type": "VOR-DME",
-            "frequency_khz": "116800",
-            "latitude_deg": "52.79800033569336",
-            "longitude_deg": "-2.6625399589538574",
-            "elevation_ft": "269",
-            "iso_country": "GB",
-            "dme_frequency_khz": "116800",
-            "dme_channel": "115X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.29",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "EGOS"
-        }
-    ]
+    }
 }

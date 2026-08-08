@@ -85,51 +85,5 @@
         "iso_country": "AE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Abu_Dhabi_(emirate)",
         "keywords": "Abu Ẓaby"
-    },
-    "navaids": [
-        {
-            "id": "85244",
-            "filename": "Bateen_NDB_AE",
-            "ident": "AD",
-            "name": "Bateen",
-            "type": "NDB",
-            "frequency_khz": "392",
-            "latitude_deg": "24.427600860595703",
-            "longitude_deg": "54.45589828491211",
-            "elevation_ft": "",
-            "iso_country": "AE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.274",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OMAD"
-        },
-        {
-            "id": "95036",
-            "filename": "Bateen_VOR-DME_AE",
-            "ident": "VAD",
-            "name": "Bateen",
-            "type": "VOR-DME",
-            "frequency_khz": "114000",
-            "latitude_deg": "24.427400588989258",
-            "longitude_deg": "54.4651985168457",
-            "elevation_ft": "60",
-            "iso_country": "AE",
-            "dme_frequency_khz": "114000",
-            "dme_channel": "087X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.274",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OMAD"
-        }
-    ]
+    }
 }

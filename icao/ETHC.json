@@ -93,29 +93,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
         "keywords": "Niedersachsen"
-    },
-    "navaids": [
-        {
-            "id": "86686",
-            "filename": "Celle_NDB_DE",
-            "ident": "CEL",
-            "name": "Celle",
-            "type": "NDB",
-            "frequency_khz": "311",
-            "latitude_deg": "52.589698791503906",
-            "longitude_deg": "10.029500007629395",
-            "elevation_ft": "173",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.08",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "ETHC"
-        }
-    ]
+    }
 }

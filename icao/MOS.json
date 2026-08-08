@@ -69,51 +69,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "91179",
-            "filename": "Moses_Point_VOR-DME_US",
-            "ident": "MOS",
-            "name": "Moses Point",
-            "type": "VOR-DME",
-            "frequency_khz": "116300",
-            "latitude_deg": "64.69650268554688",
-            "longitude_deg": "-162.0709991455078",
-            "elevation_ft": "14",
-            "iso_country": "US",
-            "dme_frequency_khz": "116300",
-            "dme_channel": "110X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "19.002",
-            "magnetic_variation_deg": "15.349",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MOS"
-        },
-        {
-            "id": "91846",
-            "filename": "Norton_Bay_NDB_US",
-            "ident": "OAY",
-            "name": "Norton Bay",
-            "type": "NDB",
-            "frequency_khz": "263",
-            "latitude_deg": "64.69609832763672",
-            "longitude_deg": "-162.06300354003906",
-            "elevation_ft": "14",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "15.351",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MOS"
-        }
-    ]
+    }
 }

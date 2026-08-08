@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
         "keywords": "Airports in Nunavut"
-    },
-    "navaids": [
-        {
-            "id": "95640",
-            "filename": "Coppermine_NDB_CA",
-            "ident": "YCO",
-            "name": "Coppermine",
-            "type": "NDB",
-            "frequency_khz": "372",
-            "latitude_deg": "67.82109832763672",
-            "longitude_deg": "-115.0979995727539",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "24.393",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYCO"
-        }
-    ]
+    }
 }

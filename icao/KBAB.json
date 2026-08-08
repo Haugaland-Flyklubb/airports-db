@@ -141,29 +141,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    },
-    "navaids": [
-        {
-            "id": "85779",
-            "filename": "Beale_TACAN_US",
-            "ident": "BAB",
-            "name": "Beale",
-            "type": "TACAN",
-            "frequency_khz": "108600",
-            "latitude_deg": "39.13479995727539",
-            "longitude_deg": "-121.44100189208984",
-            "elevation_ft": "165",
-            "iso_country": "US",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "16.001",
-            "magnetic_variation_deg": "14.578",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KBAB"
-        }
-    ]
+    }
 }

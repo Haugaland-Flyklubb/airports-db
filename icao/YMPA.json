@@ -77,29 +77,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "91197",
-            "filename": "Minnipa_NDB_AU",
-            "ident": "MPA",
-            "name": "Minnipa",
-            "type": "NDB",
-            "frequency_khz": "200",
-            "latitude_deg": "-32.843299865722656",
-            "longitude_deg": "135.1479949951172",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.262",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YMPA"
-        }
-    ]
+    }
 }

@@ -107,29 +107,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nuevo_Le%C3%B3n",
         "keywords": "Airports in Nuevo León"
-    },
-    "navaids": [
-        {
-            "id": "85268",
-            "filename": "Roberto_VOR-DME_MX",
-            "ident": "ADN",
-            "name": "Roberto",
-            "type": "VOR-DME",
-            "frequency_khz": "115400",
-            "latitude_deg": "25.865400314331055",
-            "longitude_deg": "-100.23899841308594",
-            "elevation_ft": "1476",
-            "iso_country": "MX",
-            "dme_frequency_khz": "115400",
-            "dme_channel": "101X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.004",
-            "magnetic_variation_deg": "6.258",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMAN"
-        }
-    ]
+    }
 }

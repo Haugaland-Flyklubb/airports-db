@@ -77,51 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "93083",
-            "filename": "Riviere_Du_Loup_NDB_CA",
-            "ident": "RI",
-            "name": "Riviere Du Loup",
-            "type": "NDB",
-            "frequency_khz": "201",
-            "latitude_deg": "47.76369857788086",
-            "longitude_deg": "-69.5781021118164",
-            "elevation_ft": "427",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.186",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYRI"
-        },
-        {
-            "id": "95823",
-            "filename": "Riviere_Du_Loup_VOR_CA",
-            "ident": "YRI",
-            "name": "Riviere Du Loup",
-            "type": "VOR",
-            "frequency_khz": "113900",
-            "latitude_deg": "47.75749969482422",
-            "longitude_deg": "-69.58979797363281",
-            "elevation_ft": "425",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-20.001",
-            "magnetic_variation_deg": "-18.182",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYRI"
-        }
-    ]
+    }
 }

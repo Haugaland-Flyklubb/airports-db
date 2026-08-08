@@ -129,51 +129,5 @@
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chiayi_County",
         "keywords": "Airports in Chiayi County"
-    },
-    "navaids": [
-        {
-            "id": "86761",
-            "filename": "Chiayi_TACAN_TW",
-            "ident": "CHI",
-            "name": "Chiayi",
-            "type": "TACAN",
-            "frequency_khz": "111800",
-            "latitude_deg": "23.46489906311035",
-            "longitude_deg": "120.39099884033203",
-            "elevation_ft": "82",
-            "iso_country": "TW",
-            "dme_frequency_khz": "111800",
-            "dme_channel": "055X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.011",
-            "magnetic_variation_deg": "-3.132",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "RCKU"
-        },
-        {
-            "id": "90053",
-            "filename": "Chiayi_NDB_TW",
-            "ident": "KU",
-            "name": "Chiayi",
-            "type": "NDB",
-            "frequency_khz": "525",
-            "latitude_deg": "23.584199905395508",
-            "longitude_deg": "120.38899993896484",
-            "elevation_ft": "",
-            "iso_country": "TW",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.148",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "RCKU"
-        }
-    ]
+    }
 }

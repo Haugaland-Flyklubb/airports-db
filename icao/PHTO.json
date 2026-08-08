@@ -131,51 +131,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
         "keywords": "Airports in Hawaii"
-    },
-    "navaids": [
-        {
-            "id": "89366",
-            "filename": "Hilo_VORTAC_US",
-            "ident": "ITO",
-            "name": "Hilo",
-            "type": "VORTAC",
-            "frequency_khz": "116900",
-            "latitude_deg": "19.72130012512207",
-            "longitude_deg": "-155.01100158691406",
-            "elevation_ft": "23",
-            "iso_country": "US",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.001",
-            "magnetic_variation_deg": "9.549",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PHTO"
-        },
-        {
-            "id": "92596",
-            "filename": "Pahoa_NDB_US",
-            "ident": "POA",
-            "name": "Pahoa",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "19.54330062866211",
-            "longitude_deg": "-154.97500610351562",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "9.535",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "PHTO"
-        }
-    ]
+    }
 }

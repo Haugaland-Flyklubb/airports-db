@@ -137,29 +137,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
         "keywords": "Niedersachsen"
-    },
-    "navaids": [
-        {
-            "id": "88160",
-            "filename": "Fassberg_NDB_DE",
-            "ident": "FSB",
-            "name": "Fassberg",
-            "type": "NDB",
-            "frequency_khz": "284",
-            "latitude_deg": "52.91579818725586",
-            "longitude_deg": "10.18809986114502",
-            "elevation_ft": "329",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.105",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "ETHS"
-        }
-    ]
+    }
 }

@@ -93,29 +93,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Canary_Islands",
         "keywords": "Airports in Canary Islands, Canarias"
-    },
-    "navaids": [
-        {
-            "id": "88183",
-            "filename": "Fuerteventura_VOR-DME_ES",
-            "ident": "FTV",
-            "name": "Fuerteventura",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "28.43079948425293",
-            "longitude_deg": "-13.864500045776367",
-            "elevation_ft": "46",
-            "iso_country": "ES",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "28.4309",
-            "dme_longitude_deg": "-13.8645",
-            "dme_elevation_ft": "46",
-            "slaved_variation_deg": "-7.007",
-            "magnetic_variation_deg": "-5.354",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "GCFV"
-        }
-    ]
+    }
 }

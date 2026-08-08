@@ -85,51 +85,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    },
-    "navaids": [
-        {
-            "id": "89184",
-            "filename": "Havre_St_Pierre_DME_CA",
-            "ident": "IGV",
-            "name": "Havre St Pierre",
-            "type": "DME",
-            "frequency_khz": "109300",
-            "latitude_deg": "50.28689956665039",
-            "longitude_deg": "-63.596099853515625",
-            "elevation_ft": "124",
-            "iso_country": "CA",
-            "dme_frequency_khz": "109300",
-            "dme_channel": "030X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.278",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYGV"
-        },
-        {
-            "id": "95683",
-            "filename": "Havre_St_Pierre_NDB_CA",
-            "ident": "YGV",
-            "name": "Havre St Pierre",
-            "type": "NDB",
-            "frequency_khz": "344",
-            "latitude_deg": "50.264801025390625",
-            "longitude_deg": "-63.66510009765625",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-21.264",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYGV"
-        }
-    ]
+    }
 }

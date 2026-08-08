@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    },
-    "navaids": [
-        {
-            "id": "88841",
-            "filename": "Horn_Island_NDB_AU",
-            "ident": "HID",
-            "name": "Horn Island",
-            "type": "NDB",
-            "frequency_khz": "356",
-            "latitude_deg": "-10.591899871826172",
-            "longitude_deg": "142.29200744628906",
-            "elevation_ft": "43",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "5.287",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YHID"
-        }
-    ]
+    }
 }

@@ -85,29 +85,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "91916",
-            "filename": "Filton_NDB_GB",
-            "ident": "OF",
-            "name": "Filton",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "51.52190017700195",
-            "longitude_deg": "-2.5902299880981445",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.133",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "GB-1220"
-        }
-    ]
+    }
 }

@@ -107,29 +107,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tocantins",
         "keywords": "Airports in Tocatins"
-    },
-    "navaids": [
-        {
-            "id": "92545",
-            "filename": "Palmas_VOR-DME_BR",
-            "ident": "PMS",
-            "name": "Palmas",
-            "type": "VOR-DME",
-            "frequency_khz": "112200",
-            "latitude_deg": "-10.2878999710083",
-            "longitude_deg": "-48.3583984375",
-            "elevation_ft": "656",
-            "iso_country": "BR",
-            "dme_frequency_khz": "112200",
-            "dme_channel": "059X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.151",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBPJ"
-        }
-    ]
+    }
 }

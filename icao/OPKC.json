@@ -115,51 +115,5 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sindh",
         "keywords": "Sind"
-    },
-    "navaids": [
-        {
-            "id": "89689",
-            "filename": "Karachi_VOR-DME_PK",
-            "ident": "KC",
-            "name": "Karachi",
-            "type": "VOR-DME",
-            "frequency_khz": "112100",
-            "latitude_deg": "24.910499572753906",
-            "longitude_deg": "67.17669677734375",
-            "elevation_ft": "124",
-            "iso_country": "PK",
-            "dme_frequency_khz": "112100",
-            "dme_channel": "058X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.255",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OPKC"
-        },
-        {
-            "id": "89695",
-            "filename": "Karachi_NDB_PK",
-            "ident": "KC",
-            "name": "Karachi",
-            "type": "NDB",
-            "frequency_khz": "271",
-            "latitude_deg": "24.92169952392578",
-            "longitude_deg": "67.15889739990234",
-            "elevation_ft": "",
-            "iso_country": "PK",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.257",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "OPKC"
-        }
-    ]
+    }
 }

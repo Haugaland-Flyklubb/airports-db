@@ -185,51 +185,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "92357",
-            "filename": "Pearce_TACAN_AU",
-            "ident": "PEA",
-            "name": "Pearce",
-            "type": "TACAN",
-            "frequency_khz": "112800",
-            "latitude_deg": "-31.673900604248047",
-            "longitude_deg": "116.01699829101562",
-            "elevation_ft": "144",
-            "iso_country": "AU",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-2.011",
-            "magnetic_variation_deg": "-1.325",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YPEA"
-        },
-        {
-            "id": "92358",
-            "filename": "Pearce_NDB_AU",
-            "ident": "PEA",
-            "name": "Pearce",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "-31.654399871826172",
-            "longitude_deg": "116.01899719238281",
-            "elevation_ft": "144",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.319",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YPEA"
-        }
-    ]
+    }
 }

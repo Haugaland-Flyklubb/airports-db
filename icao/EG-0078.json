@@ -107,51 +107,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alexandria_Governorate",
         "keywords": "Airports in Alexandria Governorate"
-    },
-    "navaids": [
-        {
-            "id": "85720",
-            "filename": "Alexandria_NDB_EG",
-            "ident": "AXD",
-            "name": "Alexandria",
-            "type": "NDB",
-            "frequency_khz": "403",
-            "latitude_deg": "31.194900512695312",
-            "longitude_deg": "29.952499389648438",
-            "elevation_ft": "60",
-            "iso_country": "EG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.2",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EG-0078"
-        },
-        {
-            "id": "85719",
-            "filename": "Alexandria_VOR-DME_EG",
-            "ident": "NOZ",
-            "name": "Alexandria",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "31.18767",
-            "longitude_deg": "29.95071",
-            "elevation_ft": "10",
-            "iso_country": "EG",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3",
-            "magnetic_variation_deg": "3.2",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EG-0078"
-        }
-    ]
+    }
 }

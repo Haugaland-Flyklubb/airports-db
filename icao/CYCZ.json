@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    },
-    "navaids": [
-        {
-            "id": "87236",
-            "filename": "Fairmont_Hot_Springs_NDB-DME_CA",
-            "ident": "D6",
-            "name": "Fairmont Hot Springs",
-            "type": "NDB-DME",
-            "frequency_khz": "261",
-            "latitude_deg": "50.326900482177734",
-            "longitude_deg": "-115.87699890136719",
-            "elevation_ft": "2661",
-            "iso_country": "CA",
-            "dme_frequency_khz": "109600",
-            "dme_channel": "033X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "16.456",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYCZ"
-        }
-    ]
+    }
 }

@@ -257,29 +257,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    },
-    "navaids": [
-        {
-            "id": "91609",
-            "filename": "Miramar_TACAN_US",
-            "ident": "NKX",
-            "name": "Miramar",
-            "type": "TACAN",
-            "frequency_khz": "109600",
-            "latitude_deg": "32.86970138549805",
-            "longitude_deg": "-117.15499877929688",
-            "elevation_ft": "430",
-            "iso_country": "US",
-            "dme_frequency_khz": "109600",
-            "dme_channel": "033X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "15.001",
-            "magnetic_variation_deg": "12.386",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KNKX"
-        }
-    ]
+    }
 }

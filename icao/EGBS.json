@@ -77,29 +77,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "93571",
-            "filename": "Shobdon_NDB_GB",
-            "ident": "SH",
-            "name": "Shobdon",
-            "type": "NDB",
-            "frequency_khz": "426",
-            "latitude_deg": "52.24340057373047",
-            "longitude_deg": "-2.8798398971557617",
-            "elevation_ft": "",
-            "iso_country": "GB",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.25",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EGBS"
-        }
-    ]
+    }
 }

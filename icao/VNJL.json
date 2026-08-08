@@ -59,29 +59,5 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Karnali_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "89507",
-            "filename": "Jumla_NDB_NP",
-            "ident": "JLA",
-            "name": "Jumla",
-            "type": "NDB",
-            "frequency_khz": "242",
-            "latitude_deg": "29.27389907836914",
-            "longitude_deg": "82.19190216064453",
-            "elevation_ft": "4291",
-            "iso_country": "NP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.318",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VNJL"
-        }
-    ]
+    }
 }

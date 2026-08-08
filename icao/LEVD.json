@@ -91,51 +91,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
         "keywords": "Airports in Castilla y León, Castile and León"
-    },
-    "navaids": [
-        {
-            "id": "94694",
-            "filename": "Valladolid_TACAN_ES",
-            "ident": "TVD",
-            "name": "Valladolid",
-            "type": "TACAN",
-            "frequency_khz": "108200",
-            "latitude_deg": "41.7041015625",
-            "longitude_deg": "-4.8498101234436035",
-            "elevation_ft": "2787",
-            "iso_country": "ES",
-            "dme_frequency_khz": "108200",
-            "dme_channel": "019X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.442",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LEVD"
-        },
-        {
-            "id": "95185",
-            "filename": "Valladolid_NDB_ES",
-            "ident": "VLD",
-            "name": "Valladolid",
-            "type": "NDB",
-            "frequency_khz": "342",
-            "latitude_deg": "41.78950119018555",
-            "longitude_deg": "-4.73907995223999",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.423",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LEVD"
-        }
-    ]
+    }
 }

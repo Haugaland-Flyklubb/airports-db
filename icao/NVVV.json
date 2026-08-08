@@ -123,51 +123,5 @@
         "iso_country": "VU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Shefa",
         "keywords": "Airports in Shefa"
-    },
-    "navaids": [
-        {
-            "id": "85770",
-            "filename": "Bauerfield_NDB_VU",
-            "ident": "BA",
-            "name": "Bauerfield",
-            "type": "NDB",
-            "frequency_khz": "361",
-            "latitude_deg": "-17.6924991607666",
-            "longitude_deg": "168.2689971923828",
-            "elevation_ft": "98",
-            "iso_country": "VU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.323",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "NVVV"
-        },
-        {
-            "id": "95190",
-            "filename": "Bauerfield_VOR-DME_VU",
-            "ident": "VLI",
-            "name": "Bauerfield",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "-17.662200927734375",
-            "longitude_deg": "168.24400329589844",
-            "elevation_ft": "16",
-            "iso_country": "VU",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "-17.6621",
-            "dme_longitude_deg": "168.244",
-            "dme_elevation_ft": "971",
-            "slaved_variation_deg": "12.011",
-            "magnetic_variation_deg": "11.317",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NVVV"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ceará",
         "keywords": "Airports in Ceará"
-    },
-    "navaids": [
-        {
-            "id": "89605",
-            "filename": "Juazeiro_NDB_BR",
-            "ident": "JZR",
-            "name": "Juazeiro",
-            "type": "NDB",
-            "frequency_khz": "205",
-            "latitude_deg": "-7.21382999420166",
-            "longitude_deg": "-39.27450180053711",
-            "elevation_ft": "1342",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-22.097",
-            "usageType": "RNAV",
-            "power": "MEDIUM",
-            "associated_airport": "SBJU"
-        }
-    ]
+    }
 }

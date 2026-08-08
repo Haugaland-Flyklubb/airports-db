@@ -77,29 +77,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Caquetá_Department",
         "keywords": "Airports in Caquetá Department"
-    },
-    "navaids": [
-        {
-            "id": "88034",
-            "filename": "Florencia_VOR-DME_CO",
-            "ident": "FLA",
-            "name": "Florencia",
-            "type": "VOR-DME",
-            "frequency_khz": "112400",
-            "latitude_deg": "1.4858499765396118",
-            "longitude_deg": "-75.48909759521484",
-            "elevation_ft": "808",
-            "iso_country": "CO",
-            "dme_frequency_khz": "112400",
-            "dme_channel": "071X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.007",
-            "magnetic_variation_deg": "-4.051",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKFL"
-        }
-    ]
+    }
 }

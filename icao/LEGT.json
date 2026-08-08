@@ -115,51 +115,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Community_of_Madrid",
         "keywords": "Airports in Madrid"
-    },
-    "navaids": [
-        {
-            "id": "88328",
-            "filename": "Getafe_NDB_ES",
-            "ident": "GE",
-            "name": "Getafe",
-            "type": "NDB",
-            "frequency_khz": "421",
-            "latitude_deg": "40.199798583984375",
-            "longitude_deg": "-3.8442699909210205",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.179",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LEGT"
-        },
-        {
-            "id": "95112",
-            "filename": "Getafe_TACAN_ES",
-            "ident": "VGE",
-            "name": "Getafe",
-            "type": "TACAN",
-            "frequency_khz": "112050",
-            "latitude_deg": "40.28919982910156",
-            "longitude_deg": "-3.727099895477295",
-            "elevation_ft": "2029",
-            "iso_country": "ES",
-            "dme_frequency_khz": "112050",
-            "dme_channel": "057Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.161",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LEGT"
-        }
-    ]
+    }
 }

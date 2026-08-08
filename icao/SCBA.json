@@ -85,51 +85,5 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ays%C3%A9n_Region",
         "keywords": "XI Aysén del General Carlos Ibáñez del Campo Region"
-    },
-    "navaids": [
-        {
-            "id": "85795",
-            "filename": "Balmaceda_VOR-DME_CL",
-            "ident": "BAL",
-            "name": "Balmaceda",
-            "type": "VOR-DME",
-            "frequency_khz": "115500",
-            "latitude_deg": "-45.91310119628906",
-            "longitude_deg": "-71.71279907226562",
-            "elevation_ft": "1719",
-            "iso_country": "CL",
-            "dme_frequency_khz": "115500",
-            "dme_channel": "102X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.007",
-            "magnetic_variation_deg": "11.02",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SCBA"
-        },
-        {
-            "id": "85797",
-            "filename": "Balmaceda_NDB_CL",
-            "ident": "BAL",
-            "name": "Balmaceda",
-            "type": "NDB",
-            "frequency_khz": "390",
-            "latitude_deg": "-45.91939926147461",
-            "longitude_deg": "-71.69830322265625",
-            "elevation_ft": "",
-            "iso_country": "CL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.016",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SCBA"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "92507",
-            "filename": "Pickle_Lake_DME_CA",
-            "ident": "PL",
-            "name": "Pickle Lake",
-            "type": "DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "51.44309997558594",
-            "longitude_deg": "-90.22360229492188",
-            "elevation_ft": "1261",
-            "iso_country": "CA",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.157",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CYPL"
-        },
-        {
-            "id": "95790",
-            "filename": "Pickle_Lake_NDB_CA",
-            "ident": "YPL",
-            "name": "Pickle Lake",
-            "type": "NDB",
-            "frequency_khz": "382",
-            "latitude_deg": "51.44200134277344",
-            "longitude_deg": "-90.22229766845703",
-            "elevation_ft": "1268",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.158",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYPL"
-        }
-    ]
+    }
 }

@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Hampshire",
         "keywords": "Airports in New Hampshire"
-    },
-    "navaids": [
-        {
-            "id": "89385",
-            "filename": "White_River_NDB_US",
-            "ident": "IVV",
-            "name": "White River",
-            "type": "NDB",
-            "frequency_khz": "379",
-            "latitude_deg": "43.56019973754883",
-            "longitude_deg": "-72.4655990600586",
-            "elevation_ft": "1125",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-15.046",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KLEB"
-        },
-        {
-            "id": "90267",
-            "filename": "Lebanon_VOR-DME_US",
-            "ident": "LEB",
-            "name": "Lebanon",
-            "type": "VOR-DME",
-            "frequency_khz": "113700",
-            "latitude_deg": "43.67890167236328",
-            "longitude_deg": "-72.21610260009766",
-            "elevation_ft": "1460",
-            "iso_country": "US",
-            "dme_frequency_khz": "113700",
-            "dme_channel": "084X",
-            "dme_latitude_deg": "43.6792",
-            "dme_longitude_deg": "-72.2151",
-            "dme_elevation_ft": "1460",
-            "slaved_variation_deg": "-15.001",
-            "magnetic_variation_deg": "-15.154",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KLEB"
-        }
-    ]
+    }
 }

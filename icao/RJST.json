@@ -131,29 +131,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Miyagi",
         "keywords": "Tohoku"
-    },
-    "navaids": [
-        {
-            "id": "91398",
-            "filename": "Matsushima_TACAN_JP",
-            "ident": "MXT",
-            "name": "Matsushima",
-            "type": "TACAN",
-            "frequency_khz": "114300",
-            "latitude_deg": "38.403900146484375",
-            "longitude_deg": "141.2259979248047",
-            "elevation_ft": "37",
-            "iso_country": "JP",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-8.011",
-            "magnetic_variation_deg": "-7.384",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "RJST"
-        }
-    ]
+    }
 }

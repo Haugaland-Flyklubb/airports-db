@@ -85,51 +85,5 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vysočina_Region",
         "keywords": "Kraj Vysočina"
-    },
-    "navaids": [
-        {
-            "id": "90126",
-            "filename": "Namest_NDB_CZ",
-            "ident": "LA",
-            "name": "Namest",
-            "type": "NDB",
-            "frequency_khz": "563",
-            "latitude_deg": "49.13650131225586",
-            "longitude_deg": "16.17959976196289",
-            "elevation_ft": "",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.49",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "LKNA"
-        },
-        {
-            "id": "95581",
-            "filename": "Namest_NDB_CZ",
-            "ident": "XU",
-            "name": "Namest",
-            "type": "NDB",
-            "frequency_khz": "515",
-            "latitude_deg": "49.19729995727539",
-            "longitude_deg": "16.06679916381836",
-            "elevation_ft": "",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.475",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "LKNA"
-        }
-    ]
+    }
 }

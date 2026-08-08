@@ -99,51 +99,5 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gharda%C3%AFa_Province",
         "keywords": "Airports in Ghardaïa Province"
-    },
-    "navaids": [
-        {
-            "id": "88394",
-            "filename": "Ghardaia_VOR-DME_DZ",
-            "ident": "GHA",
-            "name": "Ghardaia",
-            "type": "VOR-DME",
-            "frequency_khz": "114900",
-            "latitude_deg": "32.3932991027832",
-            "longitude_deg": "3.777780055999756",
-            "elevation_ft": "1588",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-0.108",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "DAUG"
-        },
-        {
-            "id": "88395",
-            "filename": "Ghardaia_NDB_DZ",
-            "ident": "GHA",
-            "name": "Ghardaia",
-            "type": "NDB",
-            "frequency_khz": "340",
-            "latitude_deg": "32.374698638916016",
-            "longitude_deg": "3.7941699028015137",
-            "elevation_ft": "",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.105",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "DAUG"
-        }
-    ]
+    }
 }

@@ -77,51 +77,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    },
-    "navaids": [
-        {
-            "id": "93996",
-            "filename": "Santarem_VOR-DME_BR",
-            "ident": "STM",
-            "name": "Santarem",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "-2.426500082015991",
-            "longitude_deg": "-54.817501068115234",
-            "elevation_ft": "198",
-            "iso_country": "BR",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-16.007",
-            "magnetic_variation_deg": "-17.154",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBSN"
-        },
-        {
-            "id": "93998",
-            "filename": "Santarem_NDB_BR",
-            "ident": "STM",
-            "name": "Santarem",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "-2.4276700019836426",
-            "longitude_deg": "-54.79169845581055",
-            "elevation_ft": "427",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-17.161",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBSN"
-        }
-    ]
+    }
 }

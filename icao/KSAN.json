@@ -133,29 +133,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    },
-    "navaids": [
-        {
-            "id": "85477",
-            "filename": "Boing_NDB_US",
-            "ident": "AN",
-            "name": "Boing",
-            "type": "NDB",
-            "frequency_khz": "245",
-            "latitude_deg": "32.739898681640625",
-            "longitude_deg": "-117.21600341796875",
-            "elevation_ft": "15",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.376",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KSAN"
-        }
-    ]
+    }
 }

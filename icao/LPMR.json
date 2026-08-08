@@ -85,51 +85,5 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Leiria_District",
         "keywords": "Airports in Leiria District"
-    },
-    "navaids": [
-        {
-            "id": "91326",
-            "filename": "Monte_Real_NDB_PT",
-            "ident": "MTL",
-            "name": "Monte Real",
-            "type": "NDB",
-            "frequency_khz": "336",
-            "latitude_deg": "39.907798767089844",
-            "longitude_deg": "-8.883609771728516",
-            "elevation_ft": "",
-            "iso_country": "PT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.587",
-            "usageType": "TERMINAL",
-            "power": "HIGH",
-            "associated_airport": "LPMR"
-        },
-        {
-            "id": "91338",
-            "filename": "Monte_Real_TACAN_PT",
-            "ident": "MTR",
-            "name": "Monte Real",
-            "type": "TACAN",
-            "frequency_khz": "109600",
-            "latitude_deg": "39.83259963989258",
-            "longitude_deg": "-8.89013957977295",
-            "elevation_ft": "263",
-            "iso_country": "PT",
-            "dme_frequency_khz": "109600",
-            "dme_channel": "033X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.585",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LPMR"
-        }
-    ]
+    }
 }

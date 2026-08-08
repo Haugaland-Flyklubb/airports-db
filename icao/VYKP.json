@@ -69,29 +69,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rakhine_State",
         "keywords": "Airports in Rakhine State"
-    },
-    "navaids": [
-        {
-            "id": "89927",
-            "filename": "Kyaukpyu_NDB_MM",
-            "ident": "KP",
-            "name": "Kyaukpyu",
-            "type": "NDB",
-            "frequency_khz": "250",
-            "latitude_deg": "19.42609977722168",
-            "longitude_deg": "93.53510284423828",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.455",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VYKP"
-        }
-    ]
+    }
 }

@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
         "keywords": "Airports in Arizona"
-    },
-    "navaids": [
-        {
-            "id": "90597",
-            "filename": "Luke_TACAN_US",
-            "ident": "LUF",
-            "name": "Luke",
-            "type": "TACAN",
-            "frequency_khz": "113000",
-            "latitude_deg": "33.53770065307617",
-            "longitude_deg": "-112.37999725341797",
-            "elevation_ft": "1076",
-            "iso_country": "US",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.01",
-            "magnetic_variation_deg": "11.377",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KLUF"
-        }
-    ]
+    }
 }

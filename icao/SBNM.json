@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
         "keywords": "Airports in Rio Grande do Sul"
-    },
-    "navaids": [
-        {
-            "id": "93381",
-            "filename": "Santo_Angelo_NDB_BR",
-            "ident": "SAN",
-            "name": "Santo Angelo",
-            "type": "NDB",
-            "frequency_khz": "280",
-            "latitude_deg": "-28.279300689697266",
-            "longitude_deg": "-54.17190170288086",
-            "elevation_ft": "1056",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.351",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBNM"
-        }
-    ]
+    }
 }

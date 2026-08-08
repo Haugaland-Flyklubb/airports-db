@@ -93,29 +93,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
         "keywords": "Airports in Hauts-de-France"
-    },
-    "navaids": [
-        {
-            "id": "87035",
-            "filename": "Creil_VORTAC_FR",
-            "ident": "CRL",
-            "name": "Creil",
-            "type": "VORTAC",
-            "frequency_khz": "109200",
-            "latitude_deg": "49.25529861450195",
-            "longitude_deg": "2.514780044555664",
-            "elevation_ft": "325",
-            "iso_country": "FR",
-            "dme_frequency_khz": "109200",
-            "dme_channel": "029X",
-            "dme_latitude_deg": "49.256",
-            "dme_longitude_deg": "2.51728",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.04",
-            "usageType": "HI",
-            "power": "HIGH",
-            "associated_airport": "LFPC"
-        }
-    ]
+    }
 }

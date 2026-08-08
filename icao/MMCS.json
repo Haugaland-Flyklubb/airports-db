@@ -99,29 +99,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chihuahua_(state)",
         "keywords": "Airports in Chihuahua"
-    },
-    "navaids": [
-        {
-            "id": "86818",
-            "filename": "Juarez_VOR-DME_MX",
-            "ident": "CJS",
-            "name": "Juarez",
-            "type": "VOR-DME",
-            "frequency_khz": "116700",
-            "latitude_deg": "31.636199951171875",
-            "longitude_deg": "-106.427001953125",
-            "elevation_ft": "3904",
-            "iso_country": "MX",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "11.001",
-            "magnetic_variation_deg": "9.217",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMCS"
-        }
-    ]
+    }
 }

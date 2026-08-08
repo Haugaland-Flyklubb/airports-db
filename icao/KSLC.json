@@ -191,29 +191,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
         "keywords": "Airports in Utah"
-    },
-    "navaids": [
-        {
-            "id": "94253",
-            "filename": "Wasatch_VORTAC_US",
-            "ident": "TCH",
-            "name": "Wasatch",
-            "type": "VORTAC",
-            "frequency_khz": "116800",
-            "latitude_deg": "40.85029983520508",
-            "longitude_deg": "-111.98200225830078",
-            "elevation_ft": "4220",
-            "iso_country": "US",
-            "dme_frequency_khz": "116800",
-            "dme_channel": "115X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "16.001",
-            "magnetic_variation_deg": "12.529",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KSLC"
-        }
-    ]
+    }
 }

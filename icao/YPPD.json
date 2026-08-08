@@ -99,51 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "92325",
-            "filename": "Port_Hedland_VOR-DME_AU",
-            "ident": "PD",
-            "name": "Port Hedland",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "-20.378299713134766",
-            "longitude_deg": "118.62300109863281",
-            "elevation_ft": "56",
-            "iso_country": "AU",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "-20.3767",
-            "dme_longitude_deg": "118.621",
-            "dme_elevation_ft": "56",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "1.48",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YPPD"
-        },
-        {
-            "id": "92326",
-            "filename": "Port_Hedland_NDB_AU",
-            "ident": "PD",
-            "name": "Port Hedland",
-            "type": "NDB",
-            "frequency_khz": "260",
-            "latitude_deg": "-20.38920021057129",
-            "longitude_deg": "118.64299774169922",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.482",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YPPD"
-        }
-    ]
+    }
 }

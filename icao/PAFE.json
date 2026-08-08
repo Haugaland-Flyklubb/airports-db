@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "85288",
-            "filename": "Kake_NDB-DME_US",
-            "ident": "AFE",
-            "name": "Kake",
-            "type": "NDB-DME",
-            "frequency_khz": "223",
-            "latitude_deg": "56.96390151977539",
-            "longitude_deg": "-133.91200256347656",
-            "elevation_ft": "170",
-            "iso_country": "US",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "22.201",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "PAFE"
-        }
-    ]
+    }
 }

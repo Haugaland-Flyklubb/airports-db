@@ -69,29 +69,5 @@
         "iso_country": "HT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sud_Department",
         "keywords": "Airports in Sud Department"
-    },
-    "navaids": [
-        {
-            "id": "86598",
-            "filename": "Cayes_NDB_HT",
-            "ident": "CAY",
-            "name": "Cayes",
-            "type": "NDB",
-            "frequency_khz": "350",
-            "latitude_deg": "18.26729965209961",
-            "longitude_deg": "-73.78299713134766",
-            "elevation_ft": "",
-            "iso_country": "HT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.116",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "MTCA"
-        }
-    ]
+    }
 }

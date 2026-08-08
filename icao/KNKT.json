@@ -191,29 +191,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
         "keywords": "Airports in North Carolina"
-    },
-    "navaids": [
-        {
-            "id": "91607",
-            "filename": "Cherry_Point_TACAN_US",
-            "ident": "NKT",
-            "name": "Cherry Point",
-            "type": "TACAN",
-            "frequency_khz": "112800",
-            "latitude_deg": "34.902198791503906",
-            "longitude_deg": "-76.87480163574219",
-            "elevation_ft": "30",
-            "iso_country": "US",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.012",
-            "magnetic_variation_deg": "-9.432",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KNKT"
-        }
-    ]
+    }
 }

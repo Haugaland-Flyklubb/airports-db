@@ -69,29 +69,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Entre_R%C3%ADos_Province",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "92274",
-            "filename": "Parana_VOR-DME_AR",
-            "ident": "PAR",
-            "name": "Parana",
-            "type": "VOR-DME",
-            "frequency_khz": "116800",
-            "latitude_deg": "-31.808300018310547",
-            "longitude_deg": "-60.48469924926758",
-            "elevation_ft": "243",
-            "iso_country": "AR",
-            "dme_frequency_khz": "116800",
-            "dme_channel": "115X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.007",
-            "magnetic_variation_deg": "-6.398",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SAAP"
-        }
-    ]
+    }
 }

@@ -69,51 +69,5 @@
         "iso_country": "CM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Adamawa_Province",
         "keywords": "Airports in Adamaoua Region"
-    },
-    "navaids": [
-        {
-            "id": "94387",
-            "filename": "Ngaoundere_VOR_CM",
-            "ident": "TJN",
-            "name": "Ngaoundere",
-            "type": "VOR",
-            "frequency_khz": "112700",
-            "latitude_deg": "7.3300700187683105",
-            "longitude_deg": "13.548199653625488",
-            "elevation_ft": "3652",
-            "iso_country": "CM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.03",
-            "usageType": "HI",
-            "power": "HIGH",
-            "associated_airport": "FKKN"
-        },
-        {
-            "id": "94388",
-            "filename": "Ngaoundere_NDB_CM",
-            "ident": "TJN",
-            "name": "Ngaoundere",
-            "type": "NDB",
-            "frequency_khz": "295",
-            "latitude_deg": "7.35605001449585",
-            "longitude_deg": "13.562000274658203",
-            "elevation_ft": "3652",
-            "iso_country": "CM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.026",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FKKN"
-        }
-    ]
+    }
 }

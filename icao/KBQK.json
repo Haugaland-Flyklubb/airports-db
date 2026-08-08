@@ -101,51 +101,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "86282",
-            "filename": "Jeffi_NDB_US",
-            "ident": "BQ",
-            "name": "Jeffi",
-            "type": "NDB",
-            "frequency_khz": "275",
-            "latitude_deg": "31.228300094604492",
-            "longitude_deg": "-81.5427017211914",
-            "elevation_ft": "10",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.402",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KBQK"
-        },
-        {
-            "id": "93950",
-            "filename": "Brunswick_VORTAC_US",
-            "ident": "SSI",
-            "name": "Brunswick",
-            "type": "VORTAC",
-            "frequency_khz": "109800",
-            "latitude_deg": "31.050500869750977",
-            "longitude_deg": "-81.44599914550781",
-            "elevation_ft": "10",
-            "iso_country": "US",
-            "dme_frequency_khz": "109800",
-            "dme_channel": "035X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.001",
-            "magnetic_variation_deg": "-5.422",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KBQK"
-        }
-    ]
+    }
 }

@@ -35,29 +35,5 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cuanza_Sul_ Province",
         "keywords": "Airports in Cuanza Sul Province"
-    },
-    "navaids": [
-        {
-            "id": "95430",
-            "filename": "Waco_Kungo_NDB_AO",
-            "ident": "WK",
-            "name": "Waco Kungo",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "-11.433300018310547",
-            "longitude_deg": "15.100000381469727",
-            "elevation_ft": "4324",
-            "iso_country": "AO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.058",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FNWK"
-        }
-    ]
+    }
 }

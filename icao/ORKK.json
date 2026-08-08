@@ -139,29 +139,5 @@
         "iso_country": "IQ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/At-Ta%27mim_Governorate",
         "keywords": "At-Ta'mim, السليمانية"
-    },
-    "navaids": [
-        {
-            "id": "89967",
-            "filename": "Kirkuk_TACAN_IQ",
-            "ident": "KRK",
-            "name": "Kirkuk",
-            "type": "TACAN",
-            "frequency_khz": "113900",
-            "latitude_deg": "35.47119903564453",
-            "longitude_deg": "44.347900390625",
-            "elevation_ft": "1049",
-            "iso_country": "IQ",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.148",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ORKK"
-        }
-    ]
+    }
 }

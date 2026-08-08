@@ -85,29 +85,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
         "keywords": "Airports in Provence-Alpes-Côte-d'Azur"
-    },
-    "navaids": [
-        {
-            "id": "86866",
-            "filename": "Caumont_NDB_FR",
-            "ident": "CM",
-            "name": "Caumont",
-            "type": "NDB",
-            "frequency_khz": "369",
-            "latitude_deg": "43.90829849243164",
-            "longitude_deg": "4.905360221862793",
-            "elevation_ft": "124",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.018",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LFMV"
-        }
-    ]
+    }
 }

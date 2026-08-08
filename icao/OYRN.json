@@ -85,29 +85,5 @@
         "iso_country": "YE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hadhramaut_Governorate",
         "keywords": "Airports in Hadhramaut Governorate"
-    },
-    "navaids": [
-        {
-            "id": "93098",
-            "filename": "Riyan_VOR-DME_YE",
-            "ident": "RIN",
-            "name": "Riyan",
-            "type": "VOR-DME",
-            "frequency_khz": "116000",
-            "latitude_deg": "14.670900344848633",
-            "longitude_deg": "49.39149856567383",
-            "elevation_ft": "90",
-            "iso_country": "YE",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.495",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OYRN"
-        }
-    ]
+    }
 }

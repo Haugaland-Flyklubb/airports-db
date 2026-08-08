@@ -85,29 +85,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sinaloa",
         "keywords": "Airports in Sinaloa"
-    },
-    "navaids": [
-        {
-            "id": "87112",
-            "filename": "Culiacan_VOR-DME_MX",
-            "ident": "CUL",
-            "name": "Culiacan",
-            "type": "VOR-DME",
-            "frequency_khz": "112200",
-            "latitude_deg": "24.764400482177734",
-            "longitude_deg": "-107.47699737548828",
-            "elevation_ft": "108",
-            "iso_country": "MX",
-            "dme_frequency_khz": "112200",
-            "dme_channel": "059X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "9.008",
-            "magnetic_variation_deg": "8.588",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMCL"
-        }
-    ]
+    }
 }

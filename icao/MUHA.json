@@ -133,29 +133,5 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Habana_Province",
         "keywords": "Havana"
-    },
-    "navaids": [
-        {
-            "id": "94849",
-            "filename": "Habana_VOR-DME_CU",
-            "ident": "UHA",
-            "name": "Habana",
-            "type": "VOR-DME",
-            "frequency_khz": "116100",
-            "latitude_deg": "22.978900909423828",
-            "longitude_deg": "-82.42669677734375",
-            "elevation_ft": "197",
-            "iso_country": "CU",
-            "dme_frequency_khz": "116100",
-            "dme_channel": "108X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.318",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MUHA"
-        }
-    ]
+    }
 }

@@ -59,29 +59,5 @@
         "iso_country": "CF",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bamingui-Bangoran",
         "keywords": "Airports in Bamingui-Bangoran"
-    },
-    "navaids": [
-        {
-            "id": "90257",
-            "filename": "Ndele_VOR_CF",
-            "ident": "LE",
-            "name": "Ndele",
-            "type": "VOR",
-            "frequency_khz": "113100",
-            "latitude_deg": "8.397109985351562",
-            "longitude_deg": "20.68589973449707",
-            "elevation_ft": "1647",
-            "iso_country": "CF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.278",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "FEFN"
-        }
-    ]
+    }
 }

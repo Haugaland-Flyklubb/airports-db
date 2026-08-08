@@ -139,51 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
         "keywords": "Airports in Kentucky"
-    },
-    "navaids": [
-        {
-            "id": "85900",
-            "filename": "Bellgrade_NDB_US",
-            "ident": "BDD",
-            "name": "Bellgrade",
-            "type": "NDB",
-            "frequency_khz": "254",
-            "latitude_deg": "37.14550018310547",
-            "longitude_deg": "-88.67050170898438",
-            "elevation_ft": "388",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.24",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KPAH"
-        },
-        {
-            "id": "86911",
-            "filename": "Cunningham_VORTAC_US",
-            "ident": "CNG",
-            "name": "Cunningham",
-            "type": "VORTAC",
-            "frequency_khz": "113100",
-            "latitude_deg": "37.00859832763672",
-            "longitude_deg": "-88.83689880371094",
-            "elevation_ft": "480",
-            "iso_country": "US",
-            "dme_frequency_khz": "113100",
-            "dme_channel": "078X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.001",
-            "magnetic_variation_deg": "-1.149",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KPAH"
-        }
-    ]
+    }
 }

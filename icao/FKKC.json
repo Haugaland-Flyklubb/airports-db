@@ -69,29 +69,5 @@
         "iso_country": "CM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southwest_Province",
         "keywords": "Airports in South-West Region"
-    },
-    "navaids": [
-        {
-            "id": "94355",
-            "filename": "Tiko_NDB_CM",
-            "ident": "TI",
-            "name": "Tiko",
-            "type": "NDB",
-            "frequency_khz": "270",
-            "latitude_deg": "4.087639808654785",
-            "longitude_deg": "9.355890274047852",
-            "elevation_ft": "210",
-            "iso_country": "CM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.373",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FKKC"
-        }
-    ]
+    }
 }

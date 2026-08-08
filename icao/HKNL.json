@@ -59,29 +59,5 @@
         "iso_country": "KE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nyeri_County",
         "keywords": "Airports in Nyeri County"
-    },
-    "navaids": [
-        {
-            "id": "91796",
-            "filename": "Nanyuki_NDB_KE",
-            "ident": "NYK",
-            "name": "Nanyuki",
-            "type": "NDB",
-            "frequency_khz": "306",
-            "latitude_deg": "-0.06936100125312805",
-            "longitude_deg": "37.00080108642578",
-            "elevation_ft": "",
-            "iso_country": "KE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.202",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HKNL"
-        }
-    ]
+    }
 }

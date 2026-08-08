@@ -115,51 +115,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "86736",
-            "filename": "Coffs_Harbour_VOR-DME_AU",
-            "ident": "CH",
-            "name": "Coffs Harbour",
-            "type": "VOR-DME",
-            "frequency_khz": "117000",
-            "latitude_deg": "-30.31920051574707",
-            "longitude_deg": "153.11599731445312",
-            "elevation_ft": "28",
-            "iso_country": "AU",
-            "dme_frequency_khz": "117000",
-            "dme_channel": "117X",
-            "dme_latitude_deg": "-30.3194",
-            "dme_longitude_deg": "153.116",
-            "dme_elevation_ft": "28",
-            "slaved_variation_deg": "11.007",
-            "magnetic_variation_deg": "12",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YCFS"
-        },
-        {
-            "id": "86740",
-            "filename": "Coffs_Harbour_NDB_AU",
-            "ident": "CH",
-            "name": "Coffs Harbour",
-            "type": "NDB",
-            "frequency_khz": "311",
-            "latitude_deg": "-30.31220054626465",
-            "longitude_deg": "153.11700439453125",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.599",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YCFS"
-        }
-    ]
+    }
 }

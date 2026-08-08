@@ -99,29 +99,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony-Anhalt",
         "keywords": "Sachsen-Anhalt"
-    },
-    "navaids": [
-        {
-            "id": "90720",
-            "filename": "Magdeburg_VOR-DME_DE",
-            "ident": "MAG",
-            "name": "Magdeburg",
-            "type": "VOR-DME",
-            "frequency_khz": "110450",
-            "latitude_deg": "51.994998931884766",
-            "longitude_deg": "11.794300079345703",
-            "elevation_ft": "209",
-            "iso_country": "DE",
-            "dme_frequency_khz": "110450",
-            "dme_channel": "041Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.011",
-            "magnetic_variation_deg": "1.417",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EDOV"
-        }
-    ]
+    }
 }

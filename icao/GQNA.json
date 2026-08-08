@@ -77,29 +77,5 @@
         "iso_country": "MR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hodh_El_Gharbi_Region",
         "keywords": "Airports in Hodh el Charbi Region"
-    },
-    "navaids": [
-        {
-            "id": "85176",
-            "filename": "Aioun_El_Atrouss_NDB_MR",
-            "ident": "AA",
-            "name": "Aioun El Atrouss",
-            "type": "NDB",
-            "frequency_khz": "310",
-            "latitude_deg": "16.692100524902344",
-            "longitude_deg": "-9.600379943847656",
-            "elevation_ft": "",
-            "iso_country": "MR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.157",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "GQNA"
-        }
-    ]
+    }
 }

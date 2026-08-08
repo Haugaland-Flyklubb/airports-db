@@ -113,29 +113,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    },
-    "navaids": [
-        {
-            "id": "85132",
-            "filename": "Iroquois_Falls_NDB_CA",
-            "ident": "7P",
-            "name": "Iroquois Falls",
-            "type": "NDB",
-            "frequency_khz": "382",
-            "latitude_deg": "48.70840072631836",
-            "longitude_deg": "-80.73590087890625",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.281",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CNE4"
-        }
-    ]
+    }
 }

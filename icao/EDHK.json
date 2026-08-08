@@ -139,51 +139,5 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Schleswig-Holstein",
         "keywords": "Airports in Schleswig-Holstein"
-    },
-    "navaids": [
-        {
-            "id": "89768",
-            "filename": "Kiel_Holtenau_DME_DE",
-            "ident": "KHD",
-            "name": "Kiel Holtenau",
-            "type": "DME",
-            "frequency_khz": "109500",
-            "latitude_deg": "54.37879943847656",
-            "longitude_deg": "10.145400047302246",
-            "elevation_ft": "119",
-            "iso_country": "DE",
-            "dme_frequency_khz": "109500",
-            "dme_channel": "032X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.072",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "EDHK"
-        },
-        {
-            "id": "89797",
-            "filename": "Kiel_Holtenau_NDB_DE",
-            "ident": "KIL",
-            "name": "Kiel Holtenau",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "54.377601623535156",
-            "longitude_deg": "10.119999885559082",
-            "elevation_ft": "",
-            "iso_country": "DE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.067",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "EDHK"
-        }
-    ]
+    }
 }

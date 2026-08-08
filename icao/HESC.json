@@ -77,29 +77,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Sinai_Governorate",
         "keywords": "Airports in South Sinai Governorate"
-    },
-    "navaids": [
-        {
-            "id": "86590",
-            "filename": "St_Catherine_NDB_EG",
-            "ident": "CAT",
-            "name": "St Catherine",
-            "type": "NDB",
-            "frequency_khz": "262",
-            "latitude_deg": "28.68440055847168",
-            "longitude_deg": "34.059898376464844",
-            "elevation_ft": "4440",
-            "iso_country": "EG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.211",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HESC"
-        }
-    ]
+    }
 }

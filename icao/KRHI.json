@@ -137,51 +137,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
         "keywords": "Airports in Wisconsin"
-    },
-    "navaids": [
-        {
-            "id": "93079",
-            "filename": "Arsha_NDB_US",
-            "ident": "RH",
-            "name": "Arsha",
-            "type": "NDB",
-            "frequency_khz": "272",
-            "latitude_deg": "45.62810134887695",
-            "longitude_deg": "-89.618896484375",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.109",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KRHI"
-        },
-        {
-            "id": "93081",
-            "filename": "Rhinelander_VORTAC_US",
-            "ident": "RHI",
-            "name": "Rhinelander",
-            "type": "VORTAC",
-            "frequency_khz": "109200",
-            "latitude_deg": "45.6338005065918",
-            "longitude_deg": "-89.45780181884766",
-            "elevation_ft": "1590",
-            "iso_country": "US",
-            "dme_frequency_khz": "109200",
-            "dme_channel": "029X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.001",
-            "magnetic_variation_deg": "-2.2",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KRHI"
-        }
-    ]
+    }
 }

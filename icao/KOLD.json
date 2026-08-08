@@ -121,29 +121,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
         "keywords": "Airports in Maine"
-    },
-    "navaids": [
-        {
-            "id": "91999",
-            "filename": "Old_Town_NDB_US",
-            "ident": "OLD",
-            "name": "Old Town",
-            "type": "NDB",
-            "frequency_khz": "272",
-            "latitude_deg": "45.00669860839844",
-            "longitude_deg": "-68.63330078125",
-            "elevation_ft": "120",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-17.284",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KOLD"
-        }
-    ]
+    }
 }

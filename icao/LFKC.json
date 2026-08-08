@@ -85,29 +85,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Corsica",
         "keywords": "Corse"
-    },
-    "navaids": [
-        {
-            "id": "87130",
-            "filename": "Calvi_NDB_FR",
-            "ident": "CV",
-            "name": "Calvi",
-            "type": "NDB",
-            "frequency_khz": "375",
-            "latitude_deg": "42.57699966430664",
-            "longitude_deg": "8.80657958984375",
-            "elevation_ft": "",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.006",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFKC"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Azores",
         "keywords": "Região Autónoma dos Açores"
-    },
-    "navaids": [
-        {
-            "id": "92427",
-            "filename": "Pico_NDB_PT",
-            "ident": "PI",
-            "name": "Pico",
-            "type": "NDB",
-            "frequency_khz": "420",
-            "latitude_deg": "38.55820083618164",
-            "longitude_deg": "-28.403200149536133",
-            "elevation_ft": "",
-            "iso_country": "PT",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.157",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LPPI"
-        }
-    ]
+    }
 }

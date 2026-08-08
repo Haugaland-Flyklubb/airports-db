@@ -77,51 +77,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
         "keywords": "Airports in Punjab"
-    },
-    "navaids": [
-        {
-            "id": "85187",
-            "filename": "Amritsar_VOR-DME_IN",
-            "ident": "AAR",
-            "name": "Amritsar",
-            "type": "VOR-DME",
-            "frequency_khz": "115500",
-            "latitude_deg": "31.706899642944336",
-            "longitude_deg": "74.80079650878906",
-            "elevation_ft": "752",
-            "iso_country": "IN",
-            "dme_frequency_khz": "115500",
-            "dme_channel": "102X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.011",
-            "magnetic_variation_deg": "1.28",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VIAR"
-        },
-        {
-            "id": "85558",
-            "filename": "Amritsar_NDB_IN",
-            "ident": "AR",
-            "name": "Amritsar",
-            "type": "NDB",
-            "frequency_khz": "351",
-            "latitude_deg": "31.708599090576172",
-            "longitude_deg": "74.81430053710938",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.28",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VIAR"
-        }
-    ]
+    }
 }

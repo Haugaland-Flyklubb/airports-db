@@ -69,51 +69,5 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jambi",
         "keywords": "Airports in Jambi"
-    },
-    "navaids": [
-        {
-            "id": "89512",
-            "filename": "Jambi_VOR-DME_ID",
-            "ident": "JMB",
-            "name": "Jambi",
-            "type": "VOR-DME",
-            "frequency_khz": "117500",
-            "latitude_deg": "-1.6360399723052979",
-            "longitude_deg": "103.6449966430664",
-            "elevation_ft": "82",
-            "iso_country": "ID",
-            "dme_frequency_khz": "117500",
-            "dme_channel": "122X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "0.162",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "WIPA"
-        },
-        {
-            "id": "91784",
-            "filename": "Jambi_NDB_ID",
-            "ident": "NX",
-            "name": "Jambi",
-            "type": "NDB",
-            "frequency_khz": "365",
-            "latitude_deg": "-1.6309800148010254",
-            "longitude_deg": "103.64099884033203",
-            "elevation_ft": "82",
-            "iso_country": "ID",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.162",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "WIPA"
-        }
-    ]
+    }
 }

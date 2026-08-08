@@ -91,29 +91,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/San_Luis_Potos%C3%AD",
         "keywords": "Airports in San Luis Potosí"
-    },
-    "navaids": [
-        {
-            "id": "93738",
-            "filename": "Potosi_VOR-DME_MX",
-            "ident": "SLP",
-            "name": "Potosi",
-            "type": "VOR-DME",
-            "frequency_khz": "117200",
-            "latitude_deg": "22.256399154663086",
-            "longitude_deg": "-100.93000030517578",
-            "elevation_ft": "6035",
-            "iso_country": "MX",
-            "dme_frequency_khz": "117200",
-            "dme_channel": "119X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.002",
-            "magnetic_variation_deg": "6.399",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMSP"
-        }
-    ]
+    }
 }

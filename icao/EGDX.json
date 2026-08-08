@@ -101,29 +101,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
         "keywords": "Welsh airports, Cymru, Meysydd awyr Cymru"
-    },
-    "navaids": [
-        {
-            "id": "93388",
-            "filename": "St_Athan_TACAN_GB",
-            "ident": "SAT",
-            "name": "St Athan",
-            "type": "TACAN",
-            "frequency_khz": "114800",
-            "latitude_deg": "51.40639877319336",
-            "longitude_deg": "-3.434969902038574",
-            "elevation_ft": "178",
-            "iso_country": "GB",
-            "dme_frequency_khz": "114800",
-            "dme_channel": "095X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.318",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "EGDX"
-        }
-    ]
+    }
 }

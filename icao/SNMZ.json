@@ -59,29 +59,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    },
-    "navaids": [
-        {
-            "id": "91188",
-            "filename": "Moz_NDB_BR",
-            "ident": "MOZ",
-            "name": "Moz",
-            "type": "NDB",
-            "frequency_khz": "285",
-            "latitude_deg": "-1.7503299713134766",
-            "longitude_deg": "-52.23379898071289",
-            "elevation_ft": "53",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.254",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SNMZ"
-        }
-    ]
+    }
 }

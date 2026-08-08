@@ -69,29 +69,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colima",
         "keywords": "Airports in Colima"
-    },
-    "navaids": [
-        {
-            "id": "86950",
-            "filename": "Colima_VOR-DME_MX",
-            "ident": "COL",
-            "name": "Colima",
-            "type": "VOR-DME",
-            "frequency_khz": "117700",
-            "latitude_deg": "19.275100708007812",
-            "longitude_deg": "-103.5790023803711",
-            "elevation_ft": "2467",
-            "iso_country": "MX",
-            "dme_frequency_khz": "117700",
-            "dme_channel": "124X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.01",
-            "magnetic_variation_deg": "7.308",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMIA"
-        }
-    ]
+    }
 }

@@ -161,51 +161,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "94728",
-            "filename": "Indoo_NDB_US",
-            "ident": "TY",
-            "name": "Indoo",
-            "type": "NDB",
-            "frequency_khz": "320",
-            "latitude_deg": "32.41579818725586",
-            "longitude_deg": "-95.46959686279297",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.515",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KTYR"
-        },
-        {
-            "id": "94739",
-            "filename": "Tyler_VOR-DME_US",
-            "ident": "TYR",
-            "name": "Tyler",
-            "type": "VOR-DME",
-            "frequency_khz": "114200",
-            "latitude_deg": "32.355899810791016",
-            "longitude_deg": "-95.40350341796875",
-            "elevation_ft": "540",
-            "iso_country": "US",
-            "dme_frequency_khz": "114200",
-            "dme_channel": "089X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.012",
-            "magnetic_variation_deg": "3.491",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KTYR"
-        }
-    ]
+    }
 }

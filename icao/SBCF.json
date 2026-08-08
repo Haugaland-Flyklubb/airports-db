@@ -109,29 +109,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    },
-    "navaids": [
-        {
-            "id": "86910",
-            "filename": "Confins_VOR-DME_BR",
-            "ident": "CNF",
-            "name": "Confins",
-            "type": "VOR-DME",
-            "frequency_khz": "114400",
-            "latitude_deg": "-19.55820083618164",
-            "longitude_deg": "-44.048500061035156",
-            "elevation_ft": "2782",
-            "iso_country": "BR",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-20.007",
-            "magnetic_variation_deg": "-21.398",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBCF"
-        }
-    ]
+    }
 }

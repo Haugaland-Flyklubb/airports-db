@@ -117,51 +117,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "85230",
-            "filename": "Kachemak_NDB_US",
-            "ident": "ACE",
-            "name": "Kachemak",
-            "type": "NDB",
-            "frequency_khz": "277",
-            "latitude_deg": "59.641300201416016",
-            "longitude_deg": "-151.5",
-            "elevation_ft": "78",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.119",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "PAHO"
-        },
-        {
-            "id": "88957",
-            "filename": "Homer_VOR-DME_US",
-            "ident": "HOM",
-            "name": "Homer",
-            "type": "VOR-DME",
-            "frequency_khz": "114600",
-            "latitude_deg": "59.70940017700195",
-            "longitude_deg": "-151.45700073242188",
-            "elevation_ft": "1621",
-            "iso_country": "US",
-            "dme_frequency_khz": "114600",
-            "dme_channel": "093X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "24.001",
-            "magnetic_variation_deg": "19.141",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PAHO"
-        }
-    ]
+    }
 }

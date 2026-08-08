@@ -69,29 +69,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sucre_(state)",
         "keywords": "Airports in Sucre State"
-    },
-    "navaids": [
-        {
-            "id": "87119",
-            "filename": "Carupano_NDB_VE",
-            "ident": "CUP",
-            "name": "Carupano",
-            "type": "NDB",
-            "frequency_khz": "270",
-            "latitude_deg": "10.660300254821777",
-            "longitude_deg": "-63.257598876953125",
-            "elevation_ft": "",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.168",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SVCP"
-        }
-    ]
+    }
 }

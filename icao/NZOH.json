@@ -145,51 +145,5 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manawatu-Wanganui",
         "keywords": "Airports in Manawatu-Wanganui Region"
-    },
-    "navaids": [
-        {
-            "id": "91931",
-            "filename": "Ohakea_VORTAC_NZ",
-            "ident": "OH",
-            "name": "Ohakea",
-            "type": "VORTAC",
-            "frequency_khz": "109000",
-            "latitude_deg": "-40.209598541259766",
-            "longitude_deg": "175.39199829101562",
-            "elevation_ft": "164",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "109000",
-            "dme_channel": "027X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "21.007",
-            "magnetic_variation_deg": "21.259",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NZOH"
-        },
-        {
-            "id": "91934",
-            "filename": "Ohakea_NDB_NZ",
-            "ident": "OH",
-            "name": "Ohakea",
-            "type": "NDB",
-            "frequency_khz": "218",
-            "latitude_deg": "-40.20159912109375",
-            "longitude_deg": "175.39300537109375",
-            "elevation_ft": "",
-            "iso_country": "NZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "21.257",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "NZOH"
-        }
-    ]
+    }
 }

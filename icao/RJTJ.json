@@ -93,29 +93,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tokyo",
         "keywords": "Kanto"
-    },
-    "navaids": [
-        {
-            "id": "95740",
-            "filename": "Iruma_TACAN_JP",
-            "ident": "YLT",
-            "name": "Iruma",
-            "type": "TACAN",
-            "frequency_khz": "110600",
-            "latitude_deg": "35.84000015258789",
-            "longitude_deg": "139.4149932861328",
-            "elevation_ft": "319",
-            "iso_country": "JP",
-            "dme_frequency_khz": "110600",
-            "dme_channel": "043X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.011",
-            "magnetic_variation_deg": "-7.015",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJTJ"
-        }
-    ]
+    }
 }

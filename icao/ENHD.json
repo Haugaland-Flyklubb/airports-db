@@ -77,29 +77,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rogaland",
         "keywords": "Airports in Rogaland"
-    },
-    "navaids": [
-        {
-            "id": "89969",
-            "filename": "Karmoy_VOR-DME_NO",
-            "ident": "KRM",
-            "name": "Karmoy",
-            "type": "VOR-DME",
-            "frequency_khz": "115150",
-            "latitude_deg": "59.346500396728516",
-            "longitude_deg": "5.201690196990967",
-            "elevation_ft": "102",
-            "iso_country": "NO",
-            "dme_frequency_khz": "115150",
-            "dme_channel": "098Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-3.001",
-            "magnetic_variation_deg": "-1.125",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ENHD"
-        }
-    ]
+    }
 }

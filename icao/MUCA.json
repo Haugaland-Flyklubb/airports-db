@@ -77,51 +77,5 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ciego_de_%C3%81vila_Province",
         "keywords": "Airports in Ciego de Ávila Province"
-    },
-    "navaids": [
-        {
-            "id": "94802",
-            "filename": "Ciego_De_Avila_VOR-DME_CU",
-            "ident": "UCA",
-            "name": "Ciego De Avila",
-            "type": "VOR-DME",
-            "frequency_khz": "117400",
-            "latitude_deg": "22.015100479125977",
-            "longitude_deg": "-78.81580352783203",
-            "elevation_ft": "394",
-            "iso_country": "CU",
-            "dme_frequency_khz": "117400",
-            "dme_channel": "121X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.425",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MUCA"
-        },
-        {
-            "id": "94803",
-            "filename": "Ciego_De_Avila_NDB_CU",
-            "ident": "UCA",
-            "name": "Ciego De Avila",
-            "type": "NDB",
-            "frequency_khz": "390",
-            "latitude_deg": "21.98940086364746",
-            "longitude_deg": "-78.87190246582031",
-            "elevation_ft": "",
-            "iso_country": "CU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-5.4",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "MUCA"
-        }
-    ]
+    }
 }

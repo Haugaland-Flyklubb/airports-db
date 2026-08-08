@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
         "keywords": "Airports in Minnesota"
-    },
-    "navaids": [
-        {
-            "id": "92578",
-            "filename": "Princeton_NDB_US",
-            "ident": "PNM",
-            "name": "Princeton",
-            "type": "NDB",
-            "frequency_khz": "368",
-            "latitude_deg": "45.564701080322266",
-            "longitude_deg": "-93.60759735107422",
-            "elevation_ft": "979",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.287",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KPNM"
-        }
-    ]
+    }
 }

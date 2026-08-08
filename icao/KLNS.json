@@ -139,29 +139,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    },
-    "navaids": [
-        {
-            "id": "90533",
-            "filename": "Lancaster_VORTAC_US",
-            "ident": "LRP",
-            "name": "Lancaster",
-            "type": "VORTAC",
-            "frequency_khz": "117300",
-            "latitude_deg": "40.119998931884766",
-            "longitude_deg": "-76.29129791259766",
-            "elevation_ft": "400",
-            "iso_country": "US",
-            "dme_frequency_khz": "117300",
-            "dme_channel": "120X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.002",
-            "magnetic_variation_deg": "-11.331",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KLNS"
-        }
-    ]
+    }
 }

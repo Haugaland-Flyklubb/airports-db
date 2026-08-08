@@ -59,29 +59,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    },
-    "navaids": [
-        {
-            "id": "94677",
-            "filename": "Tupa_NDB_BR",
-            "ident": "TUP",
-            "name": "Tupa",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "-21.893800735473633",
-            "longitude_deg": "-50.502201080322266",
-            "elevation_ft": "1805",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.026",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SDTP"
-        }
-    ]
+    }
 }

@@ -133,29 +133,5 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    },
-    "navaids": [
-        {
-            "id": "86735",
-            "filename": "Coningsby_TACAN_GB",
-            "ident": "CGY",
-            "name": "Coningsby",
-            "type": "TACAN",
-            "frequency_khz": "111100",
-            "latitude_deg": "53.090999603271484",
-            "longitude_deg": "-0.16897499561309814",
-            "elevation_ft": "24",
-            "iso_country": "GB",
-            "dme_frequency_khz": "111100",
-            "dme_channel": "048X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-4.011",
-            "magnetic_variation_deg": "-2.328",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "EGXC"
-        }
-    ]
+    }
 }

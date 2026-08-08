@@ -101,29 +101,5 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fukuoka",
         "keywords": "Kyushu and Okinawa"
-    },
-    "navaids": [
-        {
-            "id": "94561",
-            "filename": "Tsuiki_TACAN_JP",
-            "ident": "TQT",
-            "name": "Tsuiki",
-            "type": "TACAN",
-            "frequency_khz": "110400",
-            "latitude_deg": "33.6880989074707",
-            "longitude_deg": "131.03799438476562",
-            "elevation_ft": "84",
-            "iso_country": "JP",
-            "dme_frequency_khz": "110400",
-            "dme_channel": "041X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.011",
-            "magnetic_variation_deg": "-6.492",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "RJFZ"
-        }
-    ]
+    }
 }

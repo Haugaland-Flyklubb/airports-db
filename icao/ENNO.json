@@ -69,29 +69,5 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Telemark",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "91739",
-            "filename": "Notodden_NDB_NO",
-            "ident": "NTD",
-            "name": "Notodden",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "59.587100982666016",
-            "longitude_deg": "9.144209861755371",
-            "elevation_ft": "65",
-            "iso_country": "NO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.318",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "ENNO"
-        }
-    ]
+    }
 }

@@ -85,29 +85,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "94889",
-            "filename": "Kukuliak_VOR-DME_US",
-            "ident": "ULL",
-            "name": "Kukuliak",
-            "type": "VOR-DME",
-            "frequency_khz": "117300",
-            "latitude_deg": "63.692298889160156",
-            "longitude_deg": "-170.47000122070312",
-            "elevation_ft": "380",
-            "iso_country": "US",
-            "dme_frequency_khz": "117300",
-            "dme_channel": "120X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "13.001",
-            "magnetic_variation_deg": "10.372",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PASA"
-        }
-    ]
+    }
 }

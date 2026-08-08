@@ -85,29 +85,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Catalonia",
         "keywords": "Airports in Catalonia"
-    },
-    "navaids": [
-        {
-            "id": "93422",
-            "filename": "Sabadell_NDB_ES",
-            "ident": "SBD",
-            "name": "Sabadell",
-            "type": "NDB",
-            "frequency_khz": "367",
-            "latitude_deg": "41.51940155029297",
-            "longitude_deg": "2.1030499935150146",
-            "elevation_ft": "",
-            "iso_country": "ES",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.369",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "LELL"
-        }
-    ]
+    }
 }

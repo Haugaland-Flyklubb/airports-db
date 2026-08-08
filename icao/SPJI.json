@@ -69,29 +69,5 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/San_Martín_Region",
         "keywords": "Airports in San Martín Region"
-    },
-    "navaids": [
-        {
-            "id": "94778",
-            "filename": "Juanjui_NDB_PE",
-            "ident": "UAN",
-            "name": "Juanjui",
-            "type": "NDB",
-            "frequency_khz": "290",
-            "latitude_deg": "-7.1714701652526855",
-            "longitude_deg": "-76.72380065917969",
-            "elevation_ft": "1148",
-            "iso_country": "PE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.252",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SPJI"
-        }
-    ]
+    }
 }

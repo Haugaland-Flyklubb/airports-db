@@ -59,51 +59,5 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/In_Guezzam_Province",
         "keywords": "ولاية عين قزّام"
-    },
-    "navaids": [
-        {
-            "id": "89185",
-            "filename": "In_Guezzam_VOR_DZ",
-            "ident": "IGZ",
-            "name": "In Guezzam",
-            "type": "VOR",
-            "frequency_khz": "113400",
-            "latitude_deg": "19.563600540161133",
-            "longitude_deg": "5.733890056610107",
-            "elevation_ft": "1312",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.438",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "DATG"
-        },
-        {
-            "id": "89186",
-            "filename": "In_Guezzam_NDB_DZ",
-            "ident": "IGZ",
-            "name": "In Guezzam",
-            "type": "NDB",
-            "frequency_khz": "435",
-            "latitude_deg": "19.572200775146484",
-            "longitude_deg": "5.762499809265137",
-            "elevation_ft": "",
-            "iso_country": "DZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.448",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "DATG"
-        }
-    ]
+    }
 }

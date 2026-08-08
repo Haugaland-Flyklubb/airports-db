@@ -81,29 +81,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mpumalanga",
         "keywords": "Airports in Mpumalanga"
-    },
-    "navaids": [
-        {
-            "id": "94017",
-            "filename": "Standerton_VOR_ZA",
-            "ident": "STV",
-            "name": "Standerton",
-            "type": "VOR",
-            "frequency_khz": "116000",
-            "latitude_deg": "-26.696733",
-            "longitude_deg": "28.867443",
-            "elevation_ft": "5412",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.456",
-            "usageType": "RNAV",
-            "power": "HIGH",
-            "associated_airport": "FASR"
-        }
-    ]
+    }
 }

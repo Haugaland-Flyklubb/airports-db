@@ -77,29 +77,5 @@
         "iso_country": "DO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Distrito_Nacional",
         "keywords": "Santo Domingo"
-    },
-    "navaids": [
-        {
-            "id": "88818",
-            "filename": "Higuero_VOR-DME_DO",
-            "ident": "HGR",
-            "name": "Higuero",
-            "type": "VOR-DME",
-            "frequency_khz": "115800",
-            "latitude_deg": "18.571699142456055",
-            "longitude_deg": "-69.98410034179688",
-            "elevation_ft": "60",
-            "iso_country": "DO",
-            "dme_frequency_khz": "115800",
-            "dme_channel": "105X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.309",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "MDJB"
-        }
-    ]
+    }
 }

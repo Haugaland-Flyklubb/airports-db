@@ -177,29 +177,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": "Virginian airports"
-    },
-    "navaids": [
-        {
-            "id": "93089",
-            "filename": "Richmond_VORTAC_US",
-            "ident": "RIC",
-            "name": "Richmond",
-            "type": "VORTAC",
-            "frequency_khz": "114100",
-            "latitude_deg": "37.50230026245117",
-            "longitude_deg": "-77.32029724121094",
-            "elevation_ft": "159",
-            "iso_country": "US",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.001",
-            "magnetic_variation_deg": "-10.058",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "KRIC"
-        }
-    ]
+    }
 }

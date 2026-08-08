@@ -69,29 +69,5 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/East_Azerbaijan_Province",
         "keywords": "Airports in East Azerbaijan Province"
-    },
-    "navaids": [
-        {
-            "id": "93580",
-            "filename": "Sahand_NDB-DME_IR",
-            "ident": "SHD",
-            "name": "Sahand",
-            "type": "NDB-DME",
-            "frequency_khz": "363",
-            "latitude_deg": "37.34600067138672",
-            "longitude_deg": "46.1427001953125",
-            "elevation_ft": "4382",
-            "iso_country": "IR",
-            "dme_frequency_khz": "116000",
-            "dme_channel": "107X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.382",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "OITM"
-        }
-    ]
+    }
 }

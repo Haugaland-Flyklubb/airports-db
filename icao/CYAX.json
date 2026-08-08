@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    },
-    "navaids": [
-        {
-            "id": "85104",
-            "filename": "Lac_Du_Bonnet_NDB_CA",
-            "ident": "4X",
-            "name": "Lac Du Bonnet",
-            "type": "NDB",
-            "frequency_khz": "386",
-            "latitude_deg": "50.29029846191406",
-            "longitude_deg": "-96.01419830322266",
-            "elevation_ft": "850",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.03",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "CYAX"
-        }
-    ]
+    }
 }

@@ -77,29 +77,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    },
-    "navaids": [
-        {
-            "id": "332714",
-            "filename": "Tuktoyaktuk_NDB_CA",
-            "ident": "UB",
-            "name": "Tuktoyaktuk",
-            "type": "NDB",
-            "frequency_khz": "380",
-            "latitude_deg": "69.434403",
-            "longitude_deg": "-133.016998",
-            "elevation_ft": "15",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "29.3",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYUB"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    },
-    "navaids": [
-        {
-            "id": "93321",
-            "filename": "Marengo_NDB_US",
-            "ident": "RZO",
-            "name": "Marengo",
-            "type": "NDB",
-            "frequency_khz": "391",
-            "latitude_deg": "32.41429901123047",
-            "longitude_deg": "-88.01529693603516",
-            "elevation_ft": "109",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-1.126",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "K70A"
-        }
-    ]
+    }
 }

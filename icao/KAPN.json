@@ -147,51 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    },
-    "navaids": [
-        {
-            "id": "85534",
-            "filename": "Felps_NDB_US",
-            "ident": "AP",
-            "name": "Felps",
-            "type": "NDB",
-            "frequency_khz": "206",
-            "latitude_deg": "44.96070098876953",
-            "longitude_deg": "-83.55999755859375",
-            "elevation_ft": "750",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-7.305",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KAPN"
-        },
-        {
-            "id": "85542",
-            "filename": "Alpena_VORTAC_US",
-            "ident": "APN",
-            "name": "Alpena",
-            "type": "VORTAC",
-            "frequency_khz": "108800",
-            "latitude_deg": "45.082801818847656",
-            "longitude_deg": "-83.55699920654297",
-            "elevation_ft": "680",
-            "iso_country": "US",
-            "dme_frequency_khz": "108800",
-            "dme_channel": "025X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-7.001",
-            "magnetic_variation_deg": "-7.332",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KAPN"
-        }
-    ]
+    }
 }

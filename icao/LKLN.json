@@ -69,29 +69,5 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Plzeň_Region",
         "keywords": "Plzeňský kraj"
-    },
-    "navaids": [
-        {
-            "id": "87225",
-            "filename": "Line_NDB_CZ",
-            "ident": "D",
-            "name": "Line",
-            "type": "NDB",
-            "frequency_khz": "398",
-            "latitude_deg": "49.683101654052734",
-            "longitude_deg": "13.29419994354248",
-            "elevation_ft": "",
-            "iso_country": "CZ",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "2.062",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "LKLN"
-        }
-    ]
+    }
 }

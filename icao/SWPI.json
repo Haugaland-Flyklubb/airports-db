@@ -59,29 +59,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)",
         "keywords": "Airports in Amazonas"
-    },
-    "navaids": [
-        {
-            "id": "92686",
-            "filename": "Parintins_VOR-DME_BR",
-            "ident": "PRI",
-            "name": "Parintins",
-            "type": "VOR-DME",
-            "frequency_khz": "114100",
-            "latitude_deg": "-2.6672799587249756",
-            "longitude_deg": "-56.773101806640625",
-            "elevation_ft": "87",
-            "iso_country": "BR",
-            "dme_frequency_khz": "114100",
-            "dme_channel": "088X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.134",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SWPI"
-        }
-    ]
+    }
 }

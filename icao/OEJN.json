@@ -185,29 +185,5 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Makkah_Region",
         "keywords": "Airports in Makkah Region"
-    },
-    "navaids": [
-        {
-            "id": "89466",
-            "filename": "King Abdulaziz_VORTAC_SA",
-            "ident": "JDW",
-            "name": "King Abdulaziz",
-            "type": "VORTAC",
-            "frequency_khz": "115300",
-            "latitude_deg": "21.679100036621",
-            "longitude_deg": "39.166198730469",
-            "elevation_ft": "28",
-            "iso_country": "SA",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1",
-            "magnetic_variation_deg": "2.5",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OEJN"
-        }
-    ]
+    }
 }

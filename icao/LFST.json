@@ -125,51 +125,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
         "keywords": "Airports in Grand Est"
-    },
-    "navaids": [
-        {
-            "id": "93398",
-            "filename": "Saverne_VOR-DME_FR",
-            "ident": "SAV",
-            "name": "Saverne",
-            "type": "VOR-DME",
-            "frequency_khz": "110450",
-            "latitude_deg": "48.796199798583984",
-            "longitude_deg": "7.447979927062988",
-            "elevation_ft": "831",
-            "iso_country": "FR",
-            "dme_frequency_khz": "110450",
-            "dme_channel": "041Y",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "0.299",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFST"
-        },
-        {
-            "id": "94010",
-            "filename": "Strasbourg_VOR-DME_FR",
-            "ident": "STR",
-            "name": "Strasbourg",
-            "type": "VOR-DME",
-            "frequency_khz": "115600",
-            "latitude_deg": "48.505401611328125",
-            "longitude_deg": "7.571969985961914",
-            "elevation_ft": "586",
-            "iso_country": "FR",
-            "dme_frequency_khz": "115600",
-            "dme_channel": "103X",
-            "dme_latitude_deg": "48.5056",
-            "dme_longitude_deg": "7.57083",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "1.007",
-            "magnetic_variation_deg": "0.329",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LFST"
-        }
-    ]
+    }
 }

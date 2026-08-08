@@ -77,51 +77,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_West_(South_African_province)",
         "keywords": "Airports in North-West"
-    },
-    "navaids": [
-        {
-            "id": "90933",
-            "filename": "Mafikeng_NDB_ZA",
-            "ident": "MH",
-            "name": "Mafikeng",
-            "type": "NDB",
-            "frequency_khz": "305",
-            "latitude_deg": "-25.74139976501465",
-            "longitude_deg": "25.575000762939453",
-            "elevation_ft": "",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.382",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FAMM"
-        },
-        {
-            "id": "91099",
-            "filename": "Mafikeng_VOR-DME_ZA",
-            "ident": "MMV",
-            "name": "Mafikeng",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "-25.825899124145508",
-            "longitude_deg": "25.53510093688965",
-            "elevation_ft": "4128",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.441",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "FAMM"
-        }
-    ]
+    }
 }

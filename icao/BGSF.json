@@ -85,29 +85,5 @@
         "iso_country": "GL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Qeqqata",
         "keywords": ""
-    },
-    "navaids": [
-        {
-            "id": "93511",
-            "filename": "Sondre_Stromfjord_NDB_GL",
-            "ident": "SF",
-            "name": "Sondre Stromfjord",
-            "type": "NDB",
-            "frequency_khz": "382",
-            "latitude_deg": "66.96749877929688",
-            "longitude_deg": "-50.94169998168945",
-            "elevation_ft": "",
-            "iso_country": "GL",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-34.119",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "BGSF"
-        }
-    ]
+    }
 }

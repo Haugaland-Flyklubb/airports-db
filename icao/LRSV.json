@@ -77,29 +77,5 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Suceava_County",
         "keywords": "Moldavia, Moldavian"
-    },
-    "navaids": [
-        {
-            "id": "93468",
-            "filename": "Suceava_VOR-DME_RO",
-            "ident": "SCV",
-            "name": "Suceava",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "47.672298431396484",
-            "longitude_deg": "26.36079978942871",
-            "elevation_ft": "1302",
-            "iso_country": "RO",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.512",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LRSV"
-        }
-    ]
+    }
 }

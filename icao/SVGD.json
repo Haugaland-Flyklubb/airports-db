@@ -59,29 +59,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Apure",
         "keywords": "Airports in Apure State"
-    },
-    "navaids": [
-        {
-            "id": "88620",
-            "filename": "Guasdualito_NDB_VE",
-            "ident": "GTO",
-            "name": "Guasdualito",
-            "type": "NDB",
-            "frequency_khz": "250",
-            "latitude_deg": "7.233059883117676",
-            "longitude_deg": "-70.80039978027344",
-            "elevation_ft": "489",
-            "iso_country": "VE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-8.171",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SVGD"
-        }
-    ]
+    }
 }

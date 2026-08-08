@@ -169,29 +169,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    },
-    "navaids": [
-        {
-            "id": "87419",
-            "filename": "Laughlin_VORTAC_US",
-            "ident": "DLF",
-            "name": "Laughlin",
-            "type": "VORTAC",
-            "frequency_khz": "114400",
-            "latitude_deg": "29.36090087890625",
-            "longitude_deg": "-100.77200317382812",
-            "elevation_ft": "1071",
-            "iso_country": "US",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.012",
-            "magnetic_variation_deg": "6.461",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "KDLF"
-        }
-    ]
+    }
 }

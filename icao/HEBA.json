@@ -129,29 +129,5 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alexandria_Governorate",
         "keywords": "Airports in Alexandria Governorate"
-    },
-    "navaids": [
-        {
-            "id": "87389",
-            "filename": "Borg_El_Arab_NDB_EG",
-            "ident": "DJ",
-            "name": "Borg El Arab",
-            "type": "NDB",
-            "frequency_khz": "563",
-            "latitude_deg": "30.876699447631836",
-            "longitude_deg": "29.731700897216797",
-            "elevation_ft": "144",
-            "iso_country": "EG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.174",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "HEBA"
-        }
-    ]
+    }
 }

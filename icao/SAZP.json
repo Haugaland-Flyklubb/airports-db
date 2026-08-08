@@ -69,29 +69,5 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    },
-    "navaids": [
-        {
-            "id": "92364",
-            "filename": "Pehuajo_NDB_AR",
-            "ident": "PEH",
-            "name": "Pehuajo",
-            "type": "NDB",
-            "frequency_khz": "265",
-            "latitude_deg": "-35.84109878540039",
-            "longitude_deg": "-61.860801696777344",
-            "elevation_ft": "279",
-            "iso_country": "AR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.156",
-            "usageType": "LO",
-            "power": "HIGH",
-            "associated_airport": "SAZP"
-        }
-    ]
+    }
 }

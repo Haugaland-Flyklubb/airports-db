@@ -59,29 +59,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)",
         "keywords": "Airports in Amazonas"
-    },
-    "navaids": [
-        {
-            "id": "86641",
-            "filename": "Cucui_NDB_BR",
-            "ident": "CCI",
-            "name": "Cucui",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "1.1829999685287476",
-            "longitude_deg": "-66.83380126953125",
-            "elevation_ft": "312",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.091",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SWKU"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gu%C3%A1rico",
         "keywords": "Airports in Guárico State"
-    },
-    "navaids": [
-        {
-            "id": "95244",
-            "filename": "Valle_De_La_Pascua_VOR-DME_VE",
-            "ident": "VPA",
-            "name": "Valle De La Pascua",
-            "type": "VOR-DME",
-            "frequency_khz": "117800",
-            "latitude_deg": "9.228919982910156",
-            "longitude_deg": "-65.98390197753906",
-            "elevation_ft": "410",
-            "iso_country": "VE",
-            "dme_frequency_khz": "117800",
-            "dme_channel": "125X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-11.365",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SVVP"
-        }
-    ]
+    }
 }

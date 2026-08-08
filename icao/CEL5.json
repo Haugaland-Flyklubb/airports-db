@@ -69,29 +69,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    },
-    "navaids": [
-        {
-            "id": "85141",
-            "filename": "Valleyview_NDB_CA",
-            "ident": "8K",
-            "name": "Valleyview",
-            "type": "NDB",
-            "frequency_khz": "229",
-            "latitude_deg": "55.034400939941406",
-            "longitude_deg": "-117.28900146484375",
-            "elevation_ft": "2450",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "19.016",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "CEL5"
-        }
-    ]
+    }
 }

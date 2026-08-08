@@ -103,29 +103,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chiapas",
         "keywords": "Airports in Chiapas"
-    },
-    "navaids": [
-        {
-            "id": "94333",
-            "filename": "Tuxtla_VOR-DME_MX",
-            "ident": "TGZ",
-            "name": "Tuxtla",
-            "type": "VOR-DME",
-            "frequency_khz": "113900",
-            "latitude_deg": "16.771799087524414",
-            "longitude_deg": "-93.34770202636719",
-            "elevation_ft": "3451",
-            "iso_country": "MX",
-            "dme_frequency_khz": "113900",
-            "dme_channel": "086X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.003",
-            "magnetic_variation_deg": "3.428",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMTG"
-        }
-    ]
+    }
 }

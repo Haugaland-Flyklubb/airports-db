@@ -99,29 +99,5 @@
         "iso_country": "MG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Toliara",
         "keywords": "Airports in Toliara"
-    },
-    "navaids": [
-        {
-            "id": "95293",
-            "filename": "Toliara_NDB_MG",
-            "ident": "VSQ",
-            "name": "Toliara",
-            "type": "NDB",
-            "frequency_khz": "367",
-            "latitude_deg": "-23.389400482177734",
-            "longitude_deg": "43.7223014831543",
-            "elevation_ft": "",
-            "iso_country": "MG",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.484",
-            "usageType": "RNAV",
-            "power": "MEDIUM",
-            "associated_airport": "FMST"
-        }
-    ]
+    }
 }

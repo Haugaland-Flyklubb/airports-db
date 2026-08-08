@@ -77,29 +77,5 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kachin_State",
         "keywords": "Airports in Kachin State"
-    },
-    "navaids": [
-        {
-            "id": "91015",
-            "filename": "Myitkyina_West_NDB_MM",
-            "ident": "MKA",
-            "name": "Myitkyina West",
-            "type": "NDB",
-            "frequency_khz": "410",
-            "latitude_deg": "25.35070037841797",
-            "longitude_deg": "97.27950286865234",
-            "elevation_ft": "",
-            "iso_country": "MM",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.44",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VYNP"
-        }
-    ]
+    }
 }

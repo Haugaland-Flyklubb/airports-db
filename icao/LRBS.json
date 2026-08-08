@@ -93,51 +93,5 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bucharest",
         "keywords": "Airports in Bucharest (municipality)"
-    },
-    "navaids": [
-        {
-            "id": "86362",
-            "filename": "Baneasa_Southeast_NDB_RO",
-            "ident": "BSE",
-            "name": "Baneasa Southeast",
-            "type": "NDB",
-            "frequency_khz": "256",
-            "latitude_deg": "44.529598236083984",
-            "longitude_deg": "26.230499267578125",
-            "elevation_ft": "",
-            "iso_country": "RO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.214",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LRBS"
-        },
-        {
-            "id": "86374",
-            "filename": "Baneasa_Southwest_NDB_RO",
-            "ident": "BSW",
-            "name": "Baneasa Southwest",
-            "type": "NDB",
-            "frequency_khz": "521",
-            "latitude_deg": "44.47209930419922",
-            "longitude_deg": "25.95199966430664",
-            "elevation_ft": "",
-            "iso_country": "RO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.183",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LRBS"
-        }
-    ]
+    }
 }

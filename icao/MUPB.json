@@ -69,51 +69,5 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Artemisa_Province",
         "keywords": "Airports in Artemisa Province"
-    },
-    "navaids": [
-        {
-            "id": "94928",
-            "filename": "Playa_Baracoa_VOR_CU",
-            "ident": "UPB",
-            "name": "Playa Baracoa",
-            "type": "VOR",
-            "frequency_khz": "109200",
-            "latitude_deg": "23.023300170898438",
-            "longitude_deg": "-82.58170318603516",
-            "elevation_ft": "102",
-            "iso_country": "CU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.262",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "MUPB"
-        },
-        {
-            "id": "94929",
-            "filename": "Playa_Baracoa_NDB_CU",
-            "ident": "UPB",
-            "name": "Playa Baracoa",
-            "type": "NDB",
-            "frequency_khz": "250",
-            "latitude_deg": "23.0231990814209",
-            "longitude_deg": "-82.58070373535156",
-            "elevation_ft": "",
-            "iso_country": "CU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.262",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "MUPB"
-        }
-    ]
+    }
 }

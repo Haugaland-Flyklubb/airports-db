@@ -137,29 +137,5 @@
         "iso_country": "KW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Farwaniyah_Governorate",
         "keywords": "Airports in Al Farwaniyah Governorate"
-    },
-    "navaids": [
-        {
-            "id": "90055",
-            "filename": "Kuwait_VOR-DME_KW",
-            "ident": "KUA",
-            "name": "Kuwait",
-            "type": "VOR-DME",
-            "frequency_khz": "115500",
-            "latitude_deg": "29.218399047851562",
-            "longitude_deg": "47.96760177612305",
-            "elevation_ft": "188",
-            "iso_country": "KW",
-            "dme_frequency_khz": "115500",
-            "dme_channel": "102X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.007",
-            "magnetic_variation_deg": "2.563",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OKKK"
-        }
-    ]
+    }
 }

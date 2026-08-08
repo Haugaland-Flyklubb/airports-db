@@ -123,29 +123,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
         "keywords": "Airports in Indiana"
-    },
-    "navaids": [
-        {
-            "id": "89375",
-            "filename": "La_Porte_NDB_US",
-            "ident": "IUL",
-            "name": "La Porte",
-            "type": "NDB",
-            "frequency_khz": "356",
-            "latitude_deg": "41.4989013671875",
-            "longitude_deg": "-86.77149963378906",
-            "elevation_ft": "805",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.458",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "KPPO"
-        }
-    ]
+    }
 }

@@ -115,29 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
         "keywords": "Airports in Iowa"
-    },
-    "navaids": [
-        {
-            "id": "92140",
-            "filename": "Ottumwa_VOR-DME_US",
-            "ident": "OTM",
-            "name": "Ottumwa",
-            "type": "VOR-DME",
-            "frequency_khz": "111600",
-            "latitude_deg": "41.02909851074219",
-            "longitude_deg": "-92.32589721679688",
-            "elevation_ft": "820",
-            "iso_country": "US",
-            "dme_frequency_khz": "111600",
-            "dme_channel": "053X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.001",
-            "magnetic_variation_deg": "0.591",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KOTM"
-        }
-    ]
+    }
 }

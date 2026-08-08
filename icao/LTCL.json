@@ -69,51 +69,5 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Siirt_Province",
         "keywords": "Airports in Siirt Province"
-    },
-    "navaids": [
-        {
-            "id": "93935",
-            "filename": "Siirt_VOR-DME_TR",
-            "ident": "SRT",
-            "name": "Siirt",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "37.909400939941406",
-            "longitude_deg": "41.882198333740234",
-            "elevation_ft": "3146",
-            "iso_country": "TR",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "4.436",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTCL"
-        },
-        {
-            "id": "93937",
-            "filename": "Siirt_NDB_TR",
-            "ident": "SRT",
-            "name": "Siirt",
-            "type": "NDB",
-            "frequency_khz": "409",
-            "latitude_deg": "37.976898193359375",
-            "longitude_deg": "41.84360122680664",
-            "elevation_ft": "2001",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.444",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LTCL"
-        }
-    ]
+    }
 }

@@ -147,29 +147,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    },
-    "navaids": [
-        {
-            "id": "88971",
-            "filename": "Hestr_NDB_US",
-            "ident": "HP",
-            "name": "Hestr",
-            "type": "NDB",
-            "frequency_khz": "281",
-            "latitude_deg": "41.145301818847656",
-            "longitude_deg": "-73.76640319824219",
-            "elevation_ft": "501",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-13.285",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KHPN"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina_(state)",
         "keywords": "Airports in Santa Catarina"
-    },
-    "navaids": [
-        {
-            "id": "86555",
-            "filename": "Cacador_NDB_BR",
-            "ident": "CAD",
-            "name": "Cacador",
-            "type": "NDB",
-            "frequency_khz": "400",
-            "latitude_deg": "-26.791400909423828",
-            "longitude_deg": "-50.93840026855469",
-            "elevation_ft": "14",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-16.295",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "SBCD"
-        }
-    ]
+    }
 }

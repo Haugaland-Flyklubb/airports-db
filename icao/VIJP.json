@@ -107,29 +107,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rajasthan",
         "keywords": "Airports in Rajasthan"
-    },
-    "navaids": [
-        {
-            "id": "89498",
-            "filename": "Jaipur_VOR-DME_IN",
-            "ident": "JJP",
-            "name": "Jaipur",
-            "type": "VOR-DME",
-            "frequency_khz": "112900",
-            "latitude_deg": "26.824899673461914",
-            "longitude_deg": "75.80069732666016",
-            "elevation_ft": "1263",
-            "iso_country": "IN",
-            "dme_frequency_khz": "112900",
-            "dme_channel": "076X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "0.236",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VIJP"
-        }
-    ]
+    }
 }

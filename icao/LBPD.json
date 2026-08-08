@@ -69,29 +69,5 @@
         "iso_country": "BG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Plovdiv_Province",
         "keywords": "Airports in Plovdiv Province"
-    },
-    "navaids": [
-        {
-            "id": "92347",
-            "filename": "Plovdiv_VOR-DME_BG",
-            "ident": "PDV",
-            "name": "Plovdiv",
-            "type": "VOR-DME",
-            "frequency_khz": "114900",
-            "latitude_deg": "42.05329895019531",
-            "longitude_deg": "24.876100540161133",
-            "elevation_ft": "590",
-            "iso_country": "BG",
-            "dme_frequency_khz": "114900",
-            "dme_channel": "096X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "2.007",
-            "magnetic_variation_deg": "3.506",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LBPD"
-        }
-    ]
+    }
 }

@@ -149,29 +149,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": "Virginian airports"
-    },
-    "navaids": [
-        {
-            "id": "87252",
-            "filename": "Davee_NDB_US",
-            "ident": "DA",
-            "name": "Davee",
-            "type": "NDB",
-            "frequency_khz": "223",
-            "latitude_deg": "38.663299560546875",
-            "longitude_deg": "-77.10970306396484",
-            "elevation_ft": "54",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.339",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KDAA"
-        }
-    ]
+    }
 }

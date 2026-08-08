@@ -121,29 +121,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "92513",
-            "filename": "Port_Lincoln_NDB_AU",
-            "ident": "PLC",
-            "name": "Port Lincoln",
-            "type": "NDB",
-            "frequency_khz": "389",
-            "latitude_deg": "-34.604400634765625",
-            "longitude_deg": "135.8730010986328",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.559",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YPLC"
-        }
-    ]
+    }
 }

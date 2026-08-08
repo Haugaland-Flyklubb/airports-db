@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "86667",
-            "filename": "Condobolin_NDB_AU",
-            "ident": "CDO",
-            "name": "Condobolin",
-            "type": "NDB",
-            "frequency_khz": "401",
-            "latitude_deg": "-33.0703010559082",
-            "longitude_deg": "147.21600341796875",
-            "elevation_ft": "633",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.002",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YCDO"
-        }
-    ]
+    }
 }

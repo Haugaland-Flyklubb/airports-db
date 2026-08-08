@@ -93,51 +93,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chiang_Rai_province",
         "keywords": "Airports in Chiang Rai Province"
-    },
-    "navaids": [
-        {
-            "id": "87075",
-            "filename": "Chiang_Rai_NDB_TH",
-            "ident": "CT",
-            "name": "Chiang Rai",
-            "type": "NDB",
-            "frequency_khz": "277",
-            "latitude_deg": "19.959699630737305",
-            "longitude_deg": "99.88310241699219",
-            "elevation_ft": "",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.475",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VTCT"
-        },
-        {
-            "id": "87093",
-            "filename": "Chiang_Rai_VOR-DME_TH",
-            "ident": "CTR",
-            "name": "Chiang Rai",
-            "type": "VOR-DME",
-            "frequency_khz": "116500",
-            "latitude_deg": "19.948200225830078",
-            "longitude_deg": "99.8833999633789",
-            "elevation_ft": "1295",
-            "iso_country": "TH",
-            "dme_frequency_khz": "116500",
-            "dme_channel": "112X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "-0.475",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTCT"
-        }
-    ]
+    }
 }

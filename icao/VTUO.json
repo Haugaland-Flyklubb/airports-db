@@ -85,51 +85,5 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buriram_province",
         "keywords": "Buri Ram"
-    },
-    "navaids": [
-        {
-            "id": "86299",
-            "filename": "Buri_Ram_NDB_TH",
-            "ident": "BR",
-            "name": "Buri Ram",
-            "type": "NDB",
-            "frequency_khz": "303",
-            "latitude_deg": "15.238699913024902",
-            "longitude_deg": "103.25299835205078",
-            "elevation_ft": "",
-            "iso_country": "TH",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.361",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VTUO"
-        },
-        {
-            "id": "86322",
-            "filename": "Buri_Ram_VOR-DME_TH",
-            "ident": "BRM",
-            "name": "Buri Ram",
-            "type": "VOR-DME",
-            "frequency_khz": "117200",
-            "latitude_deg": "15.23960018157959",
-            "longitude_deg": "103.25900268554688",
-            "elevation_ft": "590",
-            "iso_country": "TH",
-            "dme_frequency_khz": "117200",
-            "dme_channel": "119X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-1.011",
-            "magnetic_variation_deg": "-0.361",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "VTUO"
-        }
-    ]
+    }
 }

@@ -69,29 +69,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    },
-    "navaids": [
-        {
-            "id": "86337",
-            "filename": "Barretos_NDB_BR",
-            "ident": "BRT",
-            "name": "Barretos",
-            "type": "NDB",
-            "frequency_khz": "360",
-            "latitude_deg": "-20.582199096679688",
-            "longitude_deg": "-48.59669876098633",
-            "elevation_ft": "1898",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.235",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBBT"
-        }
-    ]
+    }
 }

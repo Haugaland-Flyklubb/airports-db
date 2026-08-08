@@ -69,29 +69,5 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mpumalanga",
         "keywords": "Airports in Mpumalanga"
-    },
-    "navaids": [
-        {
-            "id": "94661",
-            "filename": "Tutuka_NDB_ZA",
-            "ident": "TU",
-            "name": "Tutuka",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "-26.721599578857422",
-            "longitude_deg": "29.357999801635742",
-            "elevation_ft": "5354",
-            "iso_country": "ZA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-18.569",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "FATT"
-        }
-    ]
+    }
 }

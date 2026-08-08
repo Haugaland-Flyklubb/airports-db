@@ -93,29 +93,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    },
-    "navaids": [
-        {
-            "id": "93646",
-            "filename": "Sao Jose_VOR-DME_BR",
-            "ident": "SCP",
-            "name": "Sao Jose",
-            "type": "VOR-DME",
-            "frequency_khz": "112800",
-            "latitude_deg": "-23.2463",
-            "longitude_deg": "-45.854198",
-            "elevation_ft": "2120",
-            "iso_country": "BR",
-            "dme_frequency_khz": "112800",
-            "dme_channel": "075X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-20.2",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBSJ"
-        }
-    ]
+    }
 }

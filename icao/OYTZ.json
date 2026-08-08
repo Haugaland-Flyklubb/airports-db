@@ -85,51 +85,5 @@
         "iso_country": "YE",
         "wikipedia_link": "https://en.wikipediaorg/wiki/Taiz_Governorate",
         "keywords": "Airports in Taiz Governorate"
-    },
-    "navaids": [
-        {
-            "id": "94205",
-            "filename": "Taiz_VOR-DME_YE",
-            "ident": "TAZ",
-            "name": "Taiz",
-            "type": "VOR-DME",
-            "frequency_khz": "113600",
-            "latitude_deg": "13.697099685668945",
-            "longitude_deg": "44.138301849365234",
-            "elevation_ft": "4600",
-            "iso_country": "YE",
-            "dme_frequency_khz": "113600",
-            "dme_channel": "083X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.007",
-            "magnetic_variation_deg": "1.326",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OYTZ"
-        },
-        {
-            "id": "94747",
-            "filename": "Taiz_NDB_YE",
-            "ident": "TZ",
-            "name": "Taiz",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "13.688899993896484",
-            "longitude_deg": "44.13750076293945",
-            "elevation_ft": "4600",
-            "iso_country": "YE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.326",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "OYTZ"
-        }
-    ]
+    }
 }

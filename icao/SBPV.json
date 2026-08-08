@@ -85,51 +85,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rondônia",
         "keywords": "Airports in Rondônia"
-    },
-    "navaids": [
-        {
-            "id": "92813",
-            "filename": "Porto_Velho_VOR-DME_BR",
-            "ident": "PVH",
-            "name": "Porto Velho",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "-8.71399974822998",
-            "longitude_deg": "-63.90330123901367",
-            "elevation_ft": "290",
-            "iso_country": "BR",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-9.007",
-            "magnetic_variation_deg": "-10.543",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBPV"
-        },
-        {
-            "id": "92814",
-            "filename": "Porto_Velho_NDB_BR",
-            "ident": "PVH",
-            "name": "Porto Velho",
-            "type": "NDB",
-            "frequency_khz": "385",
-            "latitude_deg": "-8.707670211791992",
-            "longitude_deg": "-63.89830017089844",
-            "elevation_ft": "290",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-10.546",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "SBPV"
-        }
-    ]
+    }
 }

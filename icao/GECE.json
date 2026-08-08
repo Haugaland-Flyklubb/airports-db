@@ -77,29 +77,5 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ceuta",
         "keywords": "Airports in Ceuta"
-    },
-    "navaids": [
-        {
-            "id": "86691",
-            "filename": "Ceuta_NDB-DME_ES",
-            "ident": "CEU",
-            "name": "Ceuta",
-            "type": "NDB-DME",
-            "frequency_khz": "300",
-            "latitude_deg": "35.892601013183594",
-            "longitude_deg": "-5.3054399490356445",
-            "elevation_ft": "39",
-            "iso_country": "ES",
-            "dme_frequency_khz": "117750",
-            "dme_channel": "124Y",
-            "dme_latitude_deg": "35.8926",
-            "dme_longitude_deg": "-5.30528",
-            "dme_elevation_ft": "39",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-2.344",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "GECE"
-        }
-    ]
+    }
 }

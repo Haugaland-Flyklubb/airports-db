@@ -69,51 +69,5 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manipur",
         "keywords": "Airports in Manipur"
-    },
-    "navaids": [
-        {
-            "id": "89198",
-            "filename": "Imphal_VOR-DME_IN",
-            "ident": "IIM",
-            "name": "Imphal",
-            "type": "VOR-DME",
-            "frequency_khz": "115900",
-            "latitude_deg": "24.76759910583496",
-            "longitude_deg": "93.90440368652344",
-            "elevation_ft": "2536",
-            "iso_country": "IN",
-            "dme_frequency_khz": "115900",
-            "dme_channel": "106X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "0.011",
-            "magnetic_variation_deg": "-0.331",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "VEIM"
-        },
-        {
-            "id": "89243",
-            "filename": "Imphal_NDB_IN",
-            "ident": "IM",
-            "name": "Imphal",
-            "type": "NDB",
-            "frequency_khz": "289",
-            "latitude_deg": "24.75819969177246",
-            "longitude_deg": "93.88909912109375",
-            "elevation_ft": "",
-            "iso_country": "IN",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.331",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "VEIM"
-        }
-    ]
+    }
 }

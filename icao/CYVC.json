@@ -115,51 +115,5 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    },
-    "navaids": [
-        {
-            "id": "95066",
-            "filename": "La_Ronge_NDB_CA",
-            "ident": "VC",
-            "name": "La Ronge",
-            "type": "NDB",
-            "frequency_khz": "317",
-            "latitude_deg": "55.08610153198242",
-            "longitude_deg": "-105.31800079345703",
-            "elevation_ft": "",
-            "iso_country": "CA",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "11.419",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "CYVC"
-        },
-        {
-            "id": "95879",
-            "filename": "La_Ronge_VOR-DME_CA",
-            "ident": "YVC",
-            "name": "La Ronge",
-            "type": "VOR-DME",
-            "frequency_khz": "112300",
-            "latitude_deg": "55.15829849243164",
-            "longitude_deg": "-105.26699829101562",
-            "elevation_ft": "1344",
-            "iso_country": "CA",
-            "dme_frequency_khz": "112300",
-            "dme_channel": "070X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.001",
-            "magnetic_variation_deg": "11.398",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "CYVC"
-        }
-    ]
+    }
 }

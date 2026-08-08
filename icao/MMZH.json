@@ -77,29 +77,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guerrero",
         "keywords": "Airports in Guerrero"
-    },
-    "navaids": [
-        {
-            "id": "96033",
-            "filename": "Zihuatanejo_VOR-DME_MX",
-            "ident": "ZIH",
-            "name": "Zihuatanejo",
-            "type": "VOR-DME",
-            "frequency_khz": "113800",
-            "latitude_deg": "17.603200912475586",
-            "longitude_deg": "-101.47699737548828",
-            "elevation_ft": "26",
-            "iso_country": "MX",
-            "dme_frequency_khz": "113800",
-            "dme_channel": "085X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "8.004",
-            "magnetic_variation_deg": "6.519",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMZH"
-        }
-    ]
+    }
 }

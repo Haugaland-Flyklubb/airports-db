@@ -69,29 +69,5 @@
         "iso_country": "HU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baranya_County",
         "keywords": "Airports in Baranya County"
-    },
-    "navaids": [
-        {
-            "id": "92629",
-            "filename": "Pecs-Pogany_NDB_HU",
-            "ident": "PP",
-            "name": "Pecs-Pogany",
-            "type": "NDB",
-            "frequency_khz": "412",
-            "latitude_deg": "46.00579833984375",
-            "longitude_deg": "18.232799530029297",
-            "elevation_ft": "",
-            "iso_country": "HU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "3.057",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "LHPP"
-        }
-    ]
+    }
 }

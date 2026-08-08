@@ -99,29 +99,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "94582",
-            "filename": "Taree_NDB_AU",
-            "ident": "TRE",
-            "name": "Taree",
-            "type": "NDB",
-            "frequency_khz": "371",
-            "latitude_deg": "-31.88949966430664",
-            "longitude_deg": "152.50900268554688",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.204",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YTRE"
-        }
-    ]
+    }
 }

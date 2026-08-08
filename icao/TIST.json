@@ -133,29 +133,5 @@
         "iso_country": "VI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Thomas,_U.S._Virgin_Islands",
         "keywords": "Airports in Saint Thomas"
-    },
-    "navaids": [
-        {
-            "id": "94013",
-            "filename": "St_Thomas_VOR-DME_VI",
-            "ident": "STT",
-            "name": "St Thomas",
-            "type": "VOR-DME",
-            "frequency_khz": "108600",
-            "latitude_deg": "18.35580062866211",
-            "longitude_deg": "-65.02459716796875",
-            "elevation_ft": "679",
-            "iso_country": "VI",
-            "dme_frequency_khz": "108600",
-            "dme_channel": "023X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-10.001",
-            "magnetic_variation_deg": "-13.057",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "TIST"
-        }
-    ]
+    }
 }

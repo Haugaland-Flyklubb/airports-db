@@ -183,29 +183,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "89230",
-            "filename": "Iliamna_NDB-DME_US",
-            "ident": "ILI",
-            "name": "Iliamna",
-            "type": "NDB-DME",
-            "frequency_khz": "411",
-            "latitude_deg": "59.74789810180664",
-            "longitude_deg": "-154.91000366210938",
-            "elevation_ft": "168",
-            "iso_country": "US",
-            "dme_frequency_khz": "114400",
-            "dme_channel": "091X",
-            "dme_latitude_deg": "59.749",
-            "dme_longitude_deg": "-154.909",
-            "dme_elevation_ft": "168",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "17.509",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "PAIL"
-        }
-    ]
+    }
 }

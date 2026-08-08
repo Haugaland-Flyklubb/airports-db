@@ -59,29 +59,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    },
-    "navaids": [
-        {
-            "id": "93394",
-            "filename": "Sausalito_VORTAC_US",
-            "ident": "SAU",
-            "name": "Sausalito",
-            "type": "VORTAC",
-            "frequency_khz": "116200",
-            "latitude_deg": "37.85530090332031",
-            "longitude_deg": "-122.52300262451172",
-            "elevation_ft": "1040",
-            "iso_country": "US",
-            "dme_frequency_khz": "116200",
-            "dme_channel": "109X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "17.001",
-            "magnetic_variation_deg": "14.474",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "JMC"
-        }
-    ]
+    }
 }

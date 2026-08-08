@@ -133,29 +133,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    },
-    "navaids": [
-        {
-            "id": "88005",
-            "filename": "Fish_Hook_NDB_US",
-            "ident": "FIS",
-            "name": "Fish Hook",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "24.54829978942871",
-            "longitude_deg": "-81.7863998413086",
-            "elevation_ft": "",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.142",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "KEYW"
-        }
-    ]
+    }
 }

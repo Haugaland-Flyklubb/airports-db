@@ -131,29 +131,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
         "keywords": "Airports in Indiana"
-    },
-    "navaids": [
-        {
-            "id": "95243",
-            "filename": "Sedly_NDB_US",
-            "ident": "VP",
-            "name": "Sedly",
-            "type": "NDB",
-            "frequency_khz": "212",
-            "latitude_deg": "41.45119857788086",
-            "longitude_deg": "-86.87750244140625",
-            "elevation_ft": "740",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.398",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "KVPZ"
-        }
-    ]
+    }
 }

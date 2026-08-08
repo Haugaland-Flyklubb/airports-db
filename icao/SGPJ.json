@@ -69,29 +69,5 @@
         "iso_country": "PY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amambay_Department",
         "keywords": "Airports in Amambay Department"
-    },
-    "navaids": [
-        {
-            "id": "92464",
-            "filename": "Pedro_Juan_Caballero_NDB_PY",
-            "ident": "PJC",
-            "name": "Pedro Juan Caballero",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "-22.64189910888672",
-            "longitude_deg": "-55.83330154418945",
-            "elevation_ft": "1873",
-            "iso_country": "PY",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-14.109",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "SGPJ"
-        }
-    ]
+    }
 }

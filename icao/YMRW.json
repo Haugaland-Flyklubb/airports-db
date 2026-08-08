@@ -121,29 +121,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    },
-    "navaids": [
-        {
-            "id": "91257",
-            "filename": "Morawa_NDB_AU",
-            "ident": "MRW",
-            "name": "Morawa",
-            "type": "NDB",
-            "frequency_khz": "407",
-            "latitude_deg": "-29.208900451660156",
-            "longitude_deg": "116.02400207519531",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-0.367",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "YMRW"
-        }
-    ]
+    }
 }

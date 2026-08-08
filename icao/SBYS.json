@@ -137,51 +137,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    },
-    "navaids": [
-        {
-            "id": "92736",
-            "filename": "Piracununga_VOR-DME_BR",
-            "ident": "PSN",
-            "name": "Piracununga",
-            "type": "VOR-DME",
-            "frequency_khz": "113300",
-            "latitude_deg": "-21.984500885009766",
-            "longitude_deg": "-47.344200134277344",
-            "elevation_ft": "1968",
-            "iso_country": "BR",
-            "dme_frequency_khz": "113300",
-            "dme_channel": "080X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.491",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBYS"
-        },
-        {
-            "id": "92737",
-            "filename": "Piracununga_NDB_BR",
-            "ident": "PSN",
-            "name": "Piracununga",
-            "type": "NDB",
-            "frequency_khz": "310",
-            "latitude_deg": "-21.986000061035156",
-            "longitude_deg": "-47.337501525878906",
-            "elevation_ft": "1968",
-            "iso_country": "BR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-19.493",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SBYS"
-        }
-    ]
+    }
 }

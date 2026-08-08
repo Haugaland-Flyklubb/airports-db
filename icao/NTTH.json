@@ -85,51 +85,5 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "88823",
-            "filename": "Huahine_NDB_PF",
-            "ident": "HH",
-            "name": "Huahine",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "-16.691099166870117",
-            "longitude_deg": "-151.02999877929688",
-            "elevation_ft": "43",
-            "iso_country": "PF",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.281",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "NTTH"
-        },
-        {
-            "id": "88828",
-            "filename": "Huahine_VOR-DME_PF",
-            "ident": "HHN",
-            "name": "Huahine",
-            "type": "VOR-DME",
-            "frequency_khz": "112700",
-            "latitude_deg": "-16.685400009155273",
-            "longitude_deg": "-151.00999450683594",
-            "elevation_ft": "39",
-            "iso_country": "PF",
-            "dme_frequency_khz": "112700",
-            "dme_channel": "074X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.011",
-            "magnetic_variation_deg": "12.28",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "NTTH"
-        }
-    ]
+    }
 }

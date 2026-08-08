@@ -85,29 +85,5 @@
         "iso_country": "MP",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    },
-    "navaids": [
-        {
-            "id": "88572",
-            "filename": "Rota_NDB_MP",
-            "ident": "GRO",
-            "name": "Rota",
-            "type": "NDB",
-            "frequency_khz": "332",
-            "latitude_deg": "14.171699523925781",
-            "longitude_deg": "145.24000549316406",
-            "elevation_ft": "607",
-            "iso_country": "MP",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "1.22",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "PGRO"
-        }
-    ]
+    }
 }

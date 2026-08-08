@@ -35,29 +35,5 @@
         "iso_country": "KE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Marsabit_County",
         "keywords": "Airports in Marsabit County"
-    },
-    "navaids": [
-        {
-            "id": "91222",
-            "filename": "Marsabit_NDB_KE",
-            "ident": "MR",
-            "name": "Marsabit",
-            "type": "NDB",
-            "frequency_khz": "264",
-            "latitude_deg": "2.35263991355896",
-            "longitude_deg": "37.98419952392578",
-            "elevation_ft": "",
-            "iso_country": "KE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.446",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "HKMB"
-        }
-    ]
+    }
 }

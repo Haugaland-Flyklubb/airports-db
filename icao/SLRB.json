@@ -59,29 +59,5 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Department",
         "keywords": "Airports in Santa Cruz Department"
-    },
-    "navaids": [
-        {
-            "id": "91864",
-            "filename": "Robore_NDB_BO",
-            "ident": "OBO",
-            "name": "Robore",
-            "type": "NDB",
-            "frequency_khz": "325",
-            "latitude_deg": "-18.331899642944336",
-            "longitude_deg": "-59.76620101928711",
-            "elevation_ft": "",
-            "iso_country": "BO",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-12.14",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "SLRB"
-        }
-    ]
+    }
 }

@@ -93,29 +93,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    },
-    "navaids": [
-        {
-            "id": "95234",
-            "filename": "Alcovy_NDB_US",
-            "ident": "VOF",
-            "name": "Alcovy",
-            "type": "NDB",
-            "frequency_khz": "370",
-            "latitude_deg": "33.629798889160156",
-            "longitude_deg": "-83.78209686279297",
-            "elevation_ft": "658",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-4.312",
-            "usageType": "TERMINAL",
-            "power": "LOW",
-            "associated_airport": "K9A1"
-        }
-    ]
+    }
 }

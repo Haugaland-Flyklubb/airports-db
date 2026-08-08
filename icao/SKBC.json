@@ -77,29 +77,5 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Magdalena_Department",
         "keywords": "Airports in Magdalena Department"
-    },
-    "navaids": [
-        {
-            "id": "87715",
-            "filename": "El_Banco_VOR-DME_CO",
-            "ident": "ELB",
-            "name": "El Banco",
-            "type": "VOR-DME",
-            "frequency_khz": "114300",
-            "latitude_deg": "9.045280456542969",
-            "longitude_deg": "-73.96720123291016",
-            "elevation_ft": "118",
-            "iso_country": "CO",
-            "dme_frequency_khz": "114300",
-            "dme_channel": "090X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-5.007",
-            "magnetic_variation_deg": "-6.278",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SKBC"
-        }
-    ]
+    }
 }

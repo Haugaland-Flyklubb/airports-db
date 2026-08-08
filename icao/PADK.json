@@ -81,51 +81,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    },
-    "navaids": [
-        {
-            "id": "85264",
-            "filename": "Mount_Moffett_NDB-DME_US",
-            "ident": "ADK",
-            "name": "Mount Moffett",
-            "type": "NDB-DME",
-            "frequency_khz": "530",
-            "latitude_deg": "51.87189865112305",
-            "longitude_deg": "-176.67599487304688",
-            "elevation_ft": "332",
-            "iso_country": "US",
-            "dme_frequency_khz": "114000",
-            "dme_channel": "087X",
-            "dme_latitude_deg": "51.8713",
-            "dme_longitude_deg": "-176.674",
-            "dme_elevation_ft": "379",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "6.285",
-            "usageType": "BOTH",
-            "power": "MEDIUM",
-            "associated_airport": "PADK"
-        },
-        {
-            "id": "91756",
-            "filename": "Adak_TACAN_US",
-            "ident": "NUD",
-            "name": "Adak",
-            "type": "TACAN",
-            "frequency_khz": "113000",
-            "latitude_deg": "51.871299743652344",
-            "longitude_deg": "-176.6739959716797",
-            "elevation_ft": "379",
-            "iso_country": "US",
-            "dme_frequency_khz": "113000",
-            "dme_channel": "077X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "7.011",
-            "magnetic_variation_deg": "6.286",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "PADK"
-        }
-    ]
+    }
 }

@@ -101,29 +101,5 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pernambuco",
         "keywords": "Airports in Pernambuco"
-    },
-    "navaids": [
-        {
-            "id": "93039",
-            "filename": "Recife_VOR-DME_BR",
-            "ident": "REC",
-            "name": "Recife",
-            "type": "VOR-DME",
-            "frequency_khz": "116900",
-            "latitude_deg": "-8.136590003967285",
-            "longitude_deg": "-34.944000244140625",
-            "elevation_ft": "33",
-            "iso_country": "BR",
-            "dme_frequency_khz": "116900",
-            "dme_channel": "116X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "-22.007",
-            "magnetic_variation_deg": "-22.238",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "SBRF"
-        }
-    ]
+    }
 }

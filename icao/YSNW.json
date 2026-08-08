@@ -139,51 +139,5 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    },
-    "navaids": [
-        {
-            "id": "91778",
-            "filename": "Nowra_TACAN_AU",
-            "ident": "NWA",
-            "name": "Nowra",
-            "type": "TACAN",
-            "frequency_khz": "116400",
-            "latitude_deg": "-34.95000076293945",
-            "longitude_deg": "150.5330047607422",
-            "elevation_ft": "350",
-            "iso_country": "AU",
-            "dme_frequency_khz": "116400",
-            "dme_channel": "111X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "12.007",
-            "magnetic_variation_deg": "12.471",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "YSNW"
-        },
-        {
-            "id": "91779",
-            "filename": "Nowra_NDB_AU",
-            "ident": "NWA",
-            "name": "Nowra",
-            "type": "NDB",
-            "frequency_khz": "359",
-            "latitude_deg": "-34.95119857788086",
-            "longitude_deg": "150.52999877929688",
-            "elevation_ft": "",
-            "iso_country": "AU",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "12.47",
-            "usageType": "BOTH",
-            "power": "LOW",
-            "associated_airport": "YSNW"
-        }
-    ]
+    }
 }

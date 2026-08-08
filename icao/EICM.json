@@ -85,29 +85,5 @@
         "iso_country": "IE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/County_Galway",
         "keywords": "Airports in County Galway"
-    },
-    "navaids": [
-        {
-            "id": "87042",
-            "filename": "Galway_NDB_IE",
-            "ident": "CRN",
-            "name": "Galway",
-            "type": "NDB",
-            "frequency_khz": "342",
-            "latitude_deg": "53.299400329589844",
-            "longitude_deg": "-8.940879821777344",
-            "elevation_ft": "",
-            "iso_country": "IE",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-6.102",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "EICM"
-        }
-    ]
+    }
 }

@@ -115,51 +115,5 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
         "keywords": "Airports in Minnesota"
-    },
-    "navaids": [
-        {
-            "id": "89264",
-            "filename": "Raize_NDB_US",
-            "ident": "IN",
-            "name": "Raize",
-            "type": "NDB",
-            "frequency_khz": "353",
-            "latitude_deg": "48.481300354003906",
-            "longitude_deg": "-93.2780990600586",
-            "elevation_ft": "1120",
-            "iso_country": "US",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "0.409",
-            "usageType": "TERMINAL",
-            "power": "MEDIUM",
-            "associated_airport": "KINL"
-        },
-        {
-            "id": "89273",
-            "filename": "International_Falls_VORTAC_US",
-            "ident": "INL",
-            "name": "International Falls",
-            "type": "VORTAC",
-            "frequency_khz": "111000",
-            "latitude_deg": "48.565799713134766",
-            "longitude_deg": "-93.40570068359375",
-            "elevation_ft": "1180",
-            "iso_country": "US",
-            "dme_frequency_khz": "111000",
-            "dme_channel": "047X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "6.001",
-            "magnetic_variation_deg": "0.474",
-            "usageType": "LO",
-            "power": "MEDIUM",
-            "associated_airport": "KINL"
-        }
-    ]
+    }
 }

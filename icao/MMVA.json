@@ -77,29 +77,5 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tabasco",
         "keywords": "Airports in Tabasco"
-    },
-    "navaids": [
-        {
-            "id": "95275",
-            "filename": "Villahermosa_VOR-DME_MX",
-            "ident": "VSA",
-            "name": "Villahermosa",
-            "type": "VOR-DME",
-            "frequency_khz": "116700",
-            "latitude_deg": "17.998899459838867",
-            "longitude_deg": "-92.81819915771484",
-            "elevation_ft": "46",
-            "iso_country": "MX",
-            "dme_frequency_khz": "116700",
-            "dme_channel": "114X",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "3.007",
-            "magnetic_variation_deg": "3.198",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "MMVA"
-        }
-    ]
+    }
 }
