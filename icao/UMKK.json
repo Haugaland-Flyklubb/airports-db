@@ -109,5 +109,29 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kaliningrad_Oblast",
         "keywords": "Airports in Kaliningrad Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89951",
+            "filename": "Kaliningrad_NDB_RU",
+            "ident": "KR",
+            "name": "Kaliningrad",
+            "type": "NDB",
+            "frequency_khz": "840",
+            "latitude_deg": "54.90999984741211",
+            "longitude_deg": "20.67169952392578",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.354",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UMKK"
+        }
+    ]
 }

@@ -161,5 +161,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85475",
+            "filename": "Alamo_NDB_US",
+            "ident": "AN",
+            "name": "Alamo",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "29.604900360107422",
+            "longitude_deg": "-98.57140350341797",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.406",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KSAT"
+        },
+        {
+            "id": "93347",
+            "filename": "Bluie_NDB_US",
+            "ident": "SA",
+            "name": "Bluie",
+            "type": "NDB",
+            "frequency_khz": "219",
+            "latitude_deg": "29.474599838256836",
+            "longitude_deg": "-98.51860046386719",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.388",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KSAT"
+        }
+    ]
 }

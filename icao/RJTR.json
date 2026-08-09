@@ -85,5 +85,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kanagawa",
         "keywords": "Kanto"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95572",
+            "filename": "Kastner_NDB-DME_JP",
+            "ident": "XR",
+            "name": "Kastner",
+            "type": "NDB-DME",
+            "frequency_khz": "379",
+            "latitude_deg": "35.51499938964844",
+            "longitude_deg": "139.39500427246094",
+            "elevation_ft": "368",
+            "iso_country": "JP",
+            "dme_frequency_khz": "109800",
+            "dme_channel": "035X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.549",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "RJTR"
+        }
+    ]
 }

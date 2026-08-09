@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Meghalaya",
         "keywords": "Airports in Meghalaya"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86297",
+            "filename": "Barapani_NDB_IN",
+            "ident": "BR",
+            "name": "Barapani",
+            "type": "NDB",
+            "frequency_khz": "320",
+            "latitude_deg": "25.706100463867188",
+            "longitude_deg": "91.97570037841797",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.245",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VEBI"
+        }
+    ]
 }

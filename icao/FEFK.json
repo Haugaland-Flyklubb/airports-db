@@ -35,5 +35,29 @@
         "iso_country": "CF",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Basse-Kotto",
         "keywords": "Airports in Basse-Kotto"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89672",
+            "filename": "Kembe_NDB_CF",
+            "ident": "KB",
+            "name": "Kembe",
+            "type": "NDB",
+            "frequency_khz": "378",
+            "latitude_deg": "4.6136298179626465",
+            "longitude_deg": "21.86639976501465",
+            "elevation_ft": "1972",
+            "iso_country": "CF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.122",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "FEFK"
+        }
+    ]
 }

@@ -91,5 +91,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province_(Argentina)",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "94578",
+            "filename": "Rio_Cuarto_VOR_AR",
+            "ident": "TRC",
+            "name": "Rio Cuarto",
+            "type": "VOR",
+            "frequency_khz": "114200",
+            "latitude_deg": "-33.092201232910156",
+            "longitude_deg": "-64.26499938964844",
+            "elevation_ft": "1378",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-2.318",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAOC"
+        }
+    ]
 }

@@ -93,5 +93,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kursk_Oblast",
         "keywords": "Airports in Kursk Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88326",
+            "filename": "Kursk_NDB_RU",
+            "ident": "GE",
+            "name": "Kursk",
+            "type": "NDB",
+            "frequency_khz": "742",
+            "latitude_deg": "51.77669906616211",
+            "longitude_deg": "36.233299255371094",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.5",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "UUOK"
+        },
+        {
+            "id": "95365",
+            "filename": "Kursk_NDB_RU",
+            "ident": "WA",
+            "name": "Kursk",
+            "type": "NDB",
+            "frequency_khz": "742",
+            "latitude_deg": "51.724998474121094",
+            "longitude_deg": "36.358299255371094",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.505",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "UUOK"
+        }
+    ]
 }

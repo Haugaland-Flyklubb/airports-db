@@ -115,5 +115,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85681",
+            "filename": "Opole_NDB_US",
+            "ident": "AU",
+            "name": "Opole",
+            "type": "NDB",
+            "frequency_khz": "423",
+            "latitude_deg": "32.509300231933594",
+            "longitude_deg": "-85.43720245361328",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.081",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KAUO"
+        }
+    ]
 }

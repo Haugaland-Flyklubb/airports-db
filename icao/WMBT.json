@@ -69,5 +69,29 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pahang",
         "keywords": "Airports in Pahang"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95248",
+            "filename": "Pulau_Tioman_VOR-DME_MY",
+            "ident": "VPT",
+            "name": "Pulau Tioman",
+            "type": "VOR-DME",
+            "frequency_khz": "114000",
+            "latitude_deg": "2.910939931869507",
+            "longitude_deg": "104.10099792480469",
+            "elevation_ft": "89",
+            "iso_country": "MY",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.126",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WMBT"
+        }
+    ]
 }

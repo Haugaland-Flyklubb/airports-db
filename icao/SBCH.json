@@ -69,5 +69,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina_(state)",
         "keywords": "Airports in Santa Catarina"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95567",
+            "filename": "Chapeco_VOR-DME_BR",
+            "ident": "XPC",
+            "name": "Chapeco",
+            "type": "VOR-DME",
+            "frequency_khz": "116100",
+            "latitude_deg": "-27.135700225830078",
+            "longitude_deg": "-52.66299819946289",
+            "elevation_ft": "2146",
+            "iso_country": "BR",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.08",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBCH"
+        },
+        {
+            "id": "95568",
+            "filename": "Chapeco_NDB_BR",
+            "ident": "XPC",
+            "name": "Chapeco",
+            "type": "NDB",
+            "frequency_khz": "173",
+            "latitude_deg": "-27.130800247192383",
+            "longitude_deg": "-52.64929962158203",
+            "elevation_ft": "2146",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.087",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBCH"
+        }
+    ]
 }

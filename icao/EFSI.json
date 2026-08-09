@@ -93,5 +93,29 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Ostrobothnia",
         "keywords": "Airports in South Ostrobothnia Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92729",
+            "filename": "Seinajoki_NDB_FI",
+            "ident": "PSJ",
+            "name": "Seinajoki",
+            "type": "NDB",
+            "frequency_khz": "352",
+            "latitude_deg": "62.6421012878418",
+            "longitude_deg": "22.936100006103516",
+            "elevation_ft": "",
+            "iso_country": "FI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.531",
+            "usageType": "RNAV",
+            "power": "LOW",
+            "associated_airport": "EFSI"
+        }
+    ]
 }

@@ -69,5 +69,51 @@
         "iso_country": "EH",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87403",
+            "filename": "Dakhla_NDB_EH",
+            "ident": "DKA",
+            "name": "Dakhla",
+            "type": "NDB",
+            "frequency_khz": "221",
+            "latitude_deg": "23.704700469970703",
+            "longitude_deg": "-15.93280029296875",
+            "elevation_ft": "",
+            "iso_country": "EH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.444",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMMH"
+        },
+        {
+            "id": "87407",
+            "filename": "Dakhla_VOR-DME_EH",
+            "ident": "DKH",
+            "name": "Dakhla",
+            "type": "VOR-DME",
+            "frequency_khz": "115800",
+            "latitude_deg": "23.73979949951172",
+            "longitude_deg": "-15.926300048828125",
+            "elevation_ft": "43",
+            "iso_country": "EH",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.007",
+            "magnetic_variation_deg": "-6.441",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMMH"
+        }
+    ]
 }

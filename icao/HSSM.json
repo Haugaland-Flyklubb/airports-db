@@ -69,5 +69,29 @@
         "iso_country": "SS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Upper_Nile_(state)",
         "keywords": "Airports in Upper Nile State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91064",
+            "filename": "Malakal_VOR-DME_SS",
+            "ident": "MLK",
+            "name": "Malakal",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "9.563170433044434",
+            "longitude_deg": "31.653200149536133",
+            "elevation_ft": "1316",
+            "iso_country": "SS",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.534",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HSSM"
+        }
+    ]
 }

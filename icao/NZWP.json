@@ -137,5 +137,29 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Auckland_Region",
         "keywords": "Airports in Auckland Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95485",
+            "filename": "Whenuapai_VORTAC_NZ",
+            "ident": "WP",
+            "name": "Whenuapai",
+            "type": "VORTAC",
+            "frequency_khz": "108800",
+            "latitude_deg": "-36.786800384521484",
+            "longitude_deg": "174.63099670410156",
+            "elevation_ft": "100",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "108800",
+            "dme_channel": "025X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "19.011",
+            "magnetic_variation_deg": "19.197",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "NZWP"
+        }
+    ]
 }

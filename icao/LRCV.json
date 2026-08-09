@@ -77,5 +77,51 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dolj_County",
         "keywords": "Southern Romania (Wallachia), Wallachian"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87052",
+            "filename": "Craiova_VOR-DME_RO",
+            "ident": "CRV",
+            "name": "Craiova",
+            "type": "VOR-DME",
+            "frequency_khz": "110200",
+            "latitude_deg": "44.318599700927734",
+            "longitude_deg": "23.922800064086914",
+            "elevation_ft": "634",
+            "iso_country": "RO",
+            "dme_frequency_khz": "110200",
+            "dme_channel": "039X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.572",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "LRCV"
+        },
+        {
+            "id": "87623",
+            "filename": "Craiova_NDB_RO",
+            "ident": "EA",
+            "name": "Craiova",
+            "type": "NDB",
+            "frequency_khz": "417",
+            "latitude_deg": "44.31949996948242",
+            "longitude_deg": "23.99220085144043",
+            "elevation_ft": "505",
+            "iso_country": "RO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.579",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LRCV"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Paraíba",
         "keywords": "Airports in Paraíba"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86991",
+            "filename": "Campina_Grande_NDB_BR",
+            "ident": "CPG",
+            "name": "Campina Grande",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-7.26600980758667",
+            "longitude_deg": "-35.8927001953125",
+            "elevation_ft": "1777",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.125",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBKG"
+        }
+    ]
 }

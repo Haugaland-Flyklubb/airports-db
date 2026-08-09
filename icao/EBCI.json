@@ -93,5 +93,51 @@
         "iso_country": "BE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hainaut_Province",
         "keywords": "Wallonia, Walloon Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88599",
+            "filename": "Gosly_VOR-DME_BE",
+            "ident": "GSY",
+            "name": "Gosly",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "50.45389938354492",
+            "longitude_deg": "4.441390037536621",
+            "elevation_ft": "654",
+            "iso_country": "BE",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.329",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "EBCI"
+        },
+        {
+            "id": "92032",
+            "filename": "Charleroi_NDB_BE",
+            "ident": "ONC",
+            "name": "Charleroi",
+            "type": "NDB",
+            "frequency_khz": "323",
+            "latitude_deg": "50.48939895629883",
+            "longitude_deg": "4.5552802085876465",
+            "elevation_ft": "",
+            "iso_country": "BE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.309",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EBCI"
+        }
+    ]
 }

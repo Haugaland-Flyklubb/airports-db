@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90830",
+            "filename": "Dourado_NDB_BR",
+            "ident": "MDD",
+            "name": "Dourado",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-0.8833330273628235",
+            "longitude_deg": "-52.60300064086914",
+            "elevation_ft": "677",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.143",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBMD"
+        }
+    ]
 }

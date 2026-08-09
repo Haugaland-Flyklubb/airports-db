@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91011",
+            "filename": "Musko_NDB_US",
+            "ident": "MK",
+            "name": "Musko",
+            "type": "NDB",
+            "frequency_khz": "219",
+            "latitude_deg": "43.12110137939453",
+            "longitude_deg": "-86.16850280761719",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.406",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KMKG"
+        },
+        {
+            "id": "91019",
+            "filename": "Muskegon_VORTAC_US",
+            "ident": "MKG",
+            "name": "Muskegon",
+            "type": "VORTAC",
+            "frequency_khz": "115200",
+            "latitude_deg": "43.1693000793457",
+            "longitude_deg": "-86.03929901123047",
+            "elevation_ft": "660",
+            "iso_country": "US",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.001",
+            "magnetic_variation_deg": "-4.481",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KMKG"
+        }
+    ]
 }

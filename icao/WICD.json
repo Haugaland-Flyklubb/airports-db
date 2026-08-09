@@ -69,5 +69,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Java",
         "keywords": "Airports in Jawa Barat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86541",
+            "filename": "Cirebon_NDB_ID",
+            "ident": "CA",
+            "name": "Cirebon",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "-6.697979927062988",
+            "longitude_deg": "108.55999755859375",
+            "elevation_ft": "89",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.588",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WICD"
+        },
+        {
+            "id": "92392",
+            "filename": "Penggung_NDB_ID",
+            "ident": "PG",
+            "name": "Penggung",
+            "type": "NDB",
+            "frequency_khz": "276",
+            "latitude_deg": "-6.755099773406982",
+            "longitude_deg": "108.54000091552734",
+            "elevation_ft": "89",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.587",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WICD"
+        }
+    ]
 }

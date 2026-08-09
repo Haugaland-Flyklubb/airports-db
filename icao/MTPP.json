@@ -101,5 +101,51 @@
         "iso_country": "HT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ouest_Department",
         "keywords": "Airports in Ouest Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88831",
+            "filename": "Port_Au_Prince_NDB_HT",
+            "ident": "HHP",
+            "name": "Port Au Prince",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "18.577299118041992",
+            "longitude_deg": "-72.2865982055664",
+            "elevation_ft": "121",
+            "iso_country": "HT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.098",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MTPP"
+        },
+        {
+            "id": "92272",
+            "filename": "Port_Au_Prince_VOR-DME_HT",
+            "ident": "PAP",
+            "name": "Port Au Prince",
+            "type": "VOR-DME",
+            "frequency_khz": "115300",
+            "latitude_deg": "18.576499938964844",
+            "longitude_deg": "-72.30419921875",
+            "elevation_ft": "125",
+            "iso_country": "HT",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.003",
+            "magnetic_variation_deg": "-9.091",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MTPP"
+        }
+    ]
 }

@@ -101,5 +101,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
         "keywords": "Airports in Rio Grande do Sul"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86939",
+            "filename": "Canoas_VOR-DME_BR",
+            "ident": "COA",
+            "name": "Canoas",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "-29.950300216674805",
+            "longitude_deg": "-51.14580154418945",
+            "elevation_ft": "26",
+            "iso_country": "BR",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.097",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBCO"
+        },
+        {
+            "id": "91843",
+            "filename": "Canoas_NDB_BR",
+            "ident": "OAS",
+            "name": "Canoas",
+            "type": "NDB",
+            "frequency_khz": "250",
+            "latitude_deg": "-29.944700241088867",
+            "longitude_deg": "-51.137298583984375",
+            "elevation_ft": "26",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.102",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBCO"
+        }
+    ]
 }

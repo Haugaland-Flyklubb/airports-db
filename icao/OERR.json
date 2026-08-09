@@ -77,5 +77,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Borders_Province",
         "keywords": "Al Hudud ash Shamaliyah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85186",
+            "filename": "Arar_VORTAC_SA",
+            "ident": "AAR",
+            "name": "Arar",
+            "type": "VORTAC",
+            "frequency_khz": "113300",
+            "latitude_deg": "30.908000946044922",
+            "longitude_deg": "41.1422004699707",
+            "elevation_ft": "1811",
+            "iso_country": "SA",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.355",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OERR"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92303",
+            "filename": "Paraburdoo_VOR-DME_AU",
+            "ident": "PBO",
+            "name": "Paraburdoo",
+            "type": "VOR-DME",
+            "frequency_khz": "116900",
+            "latitude_deg": "-23.172500610351562",
+            "longitude_deg": "117.73699951171875",
+            "elevation_ft": "1416",
+            "iso_country": "AU",
+            "dme_frequency_khz": "116900",
+            "dme_channel": "116X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.188",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YPBO"
+        },
+        {
+            "id": "92304",
+            "filename": "Paraburdoo_NDB_AU",
+            "ident": "PBO",
+            "name": "Paraburdoo",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "-23.17889976501465",
+            "longitude_deg": "117.74299621582031",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.188",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YPBO"
+        }
+    ]
 }

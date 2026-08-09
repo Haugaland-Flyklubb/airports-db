@@ -77,5 +77,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oaxaca",
         "keywords": "Airports in Oaxaca"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89411",
+            "filename": "Ixtepec_VOR-DME_MX",
+            "ident": "IZT",
+            "name": "Ixtepec",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "16.463899612426758",
+            "longitude_deg": "-95.09510040283203",
+            "elevation_ft": "164",
+            "iso_country": "MX",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.007",
+            "magnetic_variation_deg": "4.321",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMIT"
+        }
+    ]
 }

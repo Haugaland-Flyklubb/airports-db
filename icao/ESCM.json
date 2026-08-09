@@ -107,5 +107,29 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uppsala_län",
         "keywords": "Uppsala County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94925",
+            "filename": "Uppsala_NDB_SE",
+            "ident": "UP",
+            "name": "Uppsala",
+            "type": "NDB",
+            "frequency_khz": "366",
+            "latitude_deg": "59.98059844970703",
+            "longitude_deg": "17.700000762939453",
+            "elevation_ft": "",
+            "iso_country": "SE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.109",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "ESCM"
+        }
+    ]
 }

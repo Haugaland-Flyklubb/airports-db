@@ -77,5 +77,29 @@
         "iso_country": "TN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sfax_Governorate",
         "keywords": "Airports in Sfax Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93533",
+            "filename": "Sfax_VOR_TN",
+            "ident": "SFX",
+            "name": "Sfax",
+            "type": "VOR",
+            "frequency_khz": "114000",
+            "latitude_deg": "34.71609878540039",
+            "longitude_deg": "10.688899993896484",
+            "elevation_ft": "85",
+            "iso_country": "TN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.127",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DTTX"
+        }
+    ]
 }

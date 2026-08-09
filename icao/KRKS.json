@@ -107,5 +107,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
         "keywords": "Airports in Wyoming"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85524",
+            "filename": "Antelope_NDB_US",
+            "ident": "AOP",
+            "name": "Antelope",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "41.60419845581055",
+            "longitude_deg": "-109.00199890136719",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.485",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KRKS"
+        },
+        {
+            "id": "91881",
+            "filename": "Rock_Springs_VORTAC_US",
+            "ident": "OCS",
+            "name": "Rock Springs",
+            "type": "VORTAC",
+            "frequency_khz": "116000",
+            "latitude_deg": "41.5901985168457",
+            "longitude_deg": "-109.01499938964844",
+            "elevation_ft": "6780",
+            "iso_country": "US",
+            "dme_frequency_khz": "116000",
+            "dme_channel": "107X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "13.001",
+            "magnetic_variation_deg": "11.484",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KRKS"
+        }
+    ]
 }

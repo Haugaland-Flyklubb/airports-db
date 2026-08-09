@@ -145,5 +145,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hesse",
         "keywords": "Hessen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90005",
+            "filename": "Kassel_NDB_DE",
+            "ident": "KSL",
+            "name": "Kassel",
+            "type": "NDB",
+            "frequency_khz": "349",
+            "latitude_deg": "51.46480178833008",
+            "longitude_deg": "9.45740032196045",
+            "elevation_ft": "886",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.593",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EDVK"
+        }
+    ]
 }

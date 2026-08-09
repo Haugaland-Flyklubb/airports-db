@@ -69,5 +69,29 @@
         "iso_country": "MV",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Haa_Dhaalu_Atoll",
         "keywords": "Airports in Haa Dhaalu Atoll"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88695",
+            "filename": "Hanimaadhoo_NDB_MV",
+            "ident": "HA",
+            "name": "Hanimaadhoo",
+            "type": "NDB",
+            "frequency_khz": "267",
+            "latitude_deg": "6.74390983581543",
+            "longitude_deg": "73.16649627685547",
+            "elevation_ft": "",
+            "iso_country": "MV",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.005",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VRMH"
+        }
+    ]
 }

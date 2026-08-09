@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89268",
+            "filename": "Konna_NDB_US",
+            "ident": "INE",
+            "name": "Konna",
+            "type": "NDB",
+            "frequency_khz": "521",
+            "latitude_deg": "47.094398498535156",
+            "longitude_deg": "-114.39700317382812",
+            "elevation_ft": "3720",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.144",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KMSO"
+        },
+        {
+            "id": "91288",
+            "filename": "Missoula_VOR-DME_US",
+            "ident": "MSO",
+            "name": "Missoula",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "46.90800094604492",
+            "longitude_deg": "-114.08399963378906",
+            "elevation_ft": "3203",
+            "iso_country": "US",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "15.042",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KMSO"
+        }
+    ]
 }

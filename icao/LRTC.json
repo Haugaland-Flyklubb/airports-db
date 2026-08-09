@@ -77,5 +77,51 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tulcea_County",
         "keywords": "Dobrudja"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94424",
+            "filename": "Tulcea_VOR-DME_RO",
+            "ident": "TLA",
+            "name": "Tulcea",
+            "type": "VOR-DME",
+            "frequency_khz": "114800",
+            "latitude_deg": "45.07870101928711",
+            "longitude_deg": "28.70949935913086",
+            "elevation_ft": "278",
+            "iso_country": "RO",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.5",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LRTC"
+        },
+        {
+            "id": "94429",
+            "filename": "Tulcea_NDB_RO",
+            "ident": "TLC",
+            "name": "Tulcea",
+            "type": "NDB",
+            "frequency_khz": "422",
+            "latitude_deg": "44.99259948730469",
+            "longitude_deg": "28.736400604248047",
+            "elevation_ft": "52",
+            "iso_country": "RO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.494",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LRTC"
+        }
+    ]
 }

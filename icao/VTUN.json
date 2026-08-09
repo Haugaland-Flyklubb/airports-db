@@ -101,5 +101,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhon_Ratchasima_province",
         "keywords": "Airports in Nakhon Ratchasima Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89979",
+            "filename": "Khorat_TACAN_TH",
+            "ident": "KRT",
+            "name": "Khorat",
+            "type": "TACAN",
+            "frequency_khz": "117800",
+            "latitude_deg": "14.9350004196167",
+            "longitude_deg": "102.072998046875",
+            "elevation_ft": "729",
+            "iso_country": "TH",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.353",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTUN"
+        },
+        {
+            "id": "89981",
+            "filename": "Khorat_VOR-DME_TH",
+            "ident": "KRT",
+            "name": "Khorat",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "14.9173002243042",
+            "longitude_deg": "102.13999938964844",
+            "elevation_ft": "729",
+            "iso_country": "TH",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.352",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTUN"
+        }
+    ]
 }

@@ -93,5 +93,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Perm_Krai",
         "keywords": "Airports in Perm Krai"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86090",
+            "filename": "Perm_NDB_RU",
+            "ident": "BK",
+            "name": "Perm",
+            "type": "NDB",
+            "frequency_khz": "705",
+            "latitude_deg": "57.88169860839844",
+            "longitude_deg": "55.95830154418945",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.26",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "USPP"
+        },
+        {
+            "id": "92840",
+            "filename": "Perm_NDB_RU",
+            "ident": "PX",
+            "name": "Perm",
+            "type": "NDB",
+            "frequency_khz": "705",
+            "latitude_deg": "57.95000076293945",
+            "longitude_deg": "56.09000015258789",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.297",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "USPP"
+        }
+    ]
 }

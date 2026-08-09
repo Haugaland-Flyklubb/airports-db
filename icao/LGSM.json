@@ -85,5 +85,51 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Aegean",
         "keywords": "Περιφέρεια Βορείου Αιγαίου"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93373",
+            "filename": "Samos_VOR-DME_GR",
+            "ident": "SAM",
+            "name": "Samos",
+            "type": "VOR-DME",
+            "frequency_khz": "111600",
+            "latitude_deg": "37.68659973144531",
+            "longitude_deg": "26.907100677490234",
+            "elevation_ft": "30",
+            "iso_country": "GR",
+            "dme_frequency_khz": "111600",
+            "dme_channel": "053X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.384",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "LGSM"
+        },
+        {
+            "id": "93787",
+            "filename": "Samos_NDB_GR",
+            "ident": "SMO",
+            "name": "Samos",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "37.685298919677734",
+            "longitude_deg": "26.91659927368164",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.384",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LGSM"
+        }
+    ]
 }

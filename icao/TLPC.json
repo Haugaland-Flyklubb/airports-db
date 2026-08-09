@@ -93,5 +93,29 @@
         "iso_country": "LC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Castries_Quarter",
         "keywords": "Airports in Castries"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93748",
+            "filename": "Vigie_NDB_LC",
+            "ident": "SLU",
+            "name": "Vigie",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "14.014100074768066",
+            "longitude_deg": "-61.006099700927734",
+            "elevation_ft": "18",
+            "iso_country": "LC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.346",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "TLPC"
+        }
+    ]
 }

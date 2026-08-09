@@ -101,5 +101,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86392",
+            "filename": "Barter_Island_NDB_US",
+            "ident": "BTI",
+            "name": "Barter Island",
+            "type": "NDB",
+            "frequency_khz": "308",
+            "latitude_deg": "70.13069915771484",
+            "longitude_deg": "-143.6439971923828",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "26.406",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PABA"
+        }
+    ]
 }

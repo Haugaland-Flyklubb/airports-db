@@ -85,5 +85,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina_(state)",
         "keywords": "Airports in Santa Catarina"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91770",
+            "filename": "Navegantes_NDB_BR",
+            "ident": "NVG",
+            "name": "Navegantes",
+            "type": "NDB",
+            "frequency_khz": "235",
+            "latitude_deg": "-26.875699996948242",
+            "longitude_deg": "-48.652801513671875",
+            "elevation_ft": "18",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.54",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBNF"
+        }
+    ]
 }

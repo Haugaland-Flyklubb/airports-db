@@ -85,5 +85,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Corsica",
         "keywords": "Corse"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87982",
+            "filename": "Figari_VOR-DME_FR",
+            "ident": "FGI",
+            "name": "Figari",
+            "type": "VOR-DME",
+            "frequency_khz": "116700",
+            "latitude_deg": "41.502201080322266",
+            "longitude_deg": "9.083419799804688",
+            "elevation_ft": "87",
+            "iso_country": "FR",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.042",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LFKF"
+        }
+    ]
 }

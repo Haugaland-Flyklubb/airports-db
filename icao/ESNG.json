@@ -69,5 +69,29 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Norrbottena_län",
         "keywords": "Norrbotten County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91925",
+            "filename": "Gallivare_NDB_SE",
+            "ident": "OG",
+            "name": "Gallivare",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "67.10389709472656",
+            "longitude_deg": "20.95199966430664",
+            "elevation_ft": "",
+            "iso_country": "SE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.542",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ESNG"
+        }
+    ]
 }

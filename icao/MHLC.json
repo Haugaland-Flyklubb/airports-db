@@ -85,5 +85,51 @@
         "iso_country": "HN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Atl%C3%A1ntida_Department",
         "keywords": "Airports in Atlántida Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86399",
+            "filename": "Bonito_VOR-DME_HN",
+            "ident": "BTO",
+            "name": "Bonito",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "15.736800193786621",
+            "longitude_deg": "-86.86399841308594",
+            "elevation_ft": "49",
+            "iso_country": "HN",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.003",
+            "magnetic_variation_deg": "0.27",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MHLC"
+        },
+        {
+            "id": "90231",
+            "filename": "La_Ceiba_NDB-DME_HN",
+            "ident": "LCE",
+            "name": "La Ceiba",
+            "type": "NDB-DME",
+            "frequency_khz": "227",
+            "latitude_deg": "15.738200187683105",
+            "longitude_deg": "-86.8905029296875",
+            "elevation_ft": "49",
+            "iso_country": "HN",
+            "dme_frequency_khz": "111700",
+            "dme_channel": "054X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.279",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MHLC"
+        }
+    ]
 }

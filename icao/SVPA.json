@@ -69,5 +69,51 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Venezuelan_state)",
         "keywords": "Airports in Amazonas State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92282",
+            "filename": "Puerto_Ayacucho_VOR_VE",
+            "ident": "PAY",
+            "name": "Puerto Ayacucho",
+            "type": "VOR",
+            "frequency_khz": "112800",
+            "latitude_deg": "5.618889808654785",
+            "longitude_deg": "-67.60900115966797",
+            "elevation_ft": "245",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.007",
+            "magnetic_variation_deg": "-10.106",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVPA"
+        },
+        {
+            "id": "92283",
+            "filename": "Puerto_Ayacucho_NDB_VE",
+            "ident": "PAY",
+            "name": "Puerto Ayacucho",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "5.622220039367676",
+            "longitude_deg": "-67.60870361328125",
+            "elevation_ft": "245",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.107",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SVPA"
+        }
+    ]
 }

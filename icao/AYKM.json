@@ -69,5 +69,29 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gulf_Province",
         "keywords": "Airports in Gulf Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89970",
+            "filename": "Kerema_NDB-DME_PG",
+            "ident": "KRM",
+            "name": "Kerema",
+            "type": "NDB-DME",
+            "frequency_khz": "401",
+            "latitude_deg": "-7.962619781494141",
+            "longitude_deg": "145.77499389648438",
+            "elevation_ft": "223",
+            "iso_country": "PG",
+            "dme_frequency_khz": "116900",
+            "dme_channel": "116X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.515",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "AYKM"
+        }
+    ]
 }

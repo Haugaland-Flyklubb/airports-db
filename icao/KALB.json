@@ -155,5 +155,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85391",
+            "filename": "Hawky_NDB_US",
+            "ident": "AL",
+            "name": "Hawky",
+            "type": "NDB",
+            "frequency_khz": "219",
+            "latitude_deg": "42.817298889160156",
+            "longitude_deg": "-73.81060028076172",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.018",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KALB"
+        },
+        {
+            "id": "85394",
+            "filename": "Albany_VORTAC_US",
+            "ident": "ALB",
+            "name": "Albany",
+            "type": "VORTAC",
+            "frequency_khz": "115300",
+            "latitude_deg": "42.74720001220703",
+            "longitude_deg": "-73.8031997680664",
+            "elevation_ft": "275",
+            "iso_country": "US",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-13.004",
+            "magnetic_variation_deg": "-14.006",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KALB"
+        }
+    ]
 }

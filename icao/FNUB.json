@@ -69,5 +69,51 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hu%C3%ADla_Province",
         "keywords": "Airports in Huíla Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94782",
+            "filename": "Lubango_NDB_AO",
+            "ident": "UB",
+            "name": "Lubango",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "-14.923999786376953",
+            "longitude_deg": "13.597700119018555",
+            "elevation_ft": "",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.406",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNUB"
+        },
+        {
+            "id": "95319",
+            "filename": "Lubango_VOR-DME_AO",
+            "ident": "VUB",
+            "name": "Lubango",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "-14.91670036315918",
+            "longitude_deg": "13.600000381469727",
+            "elevation_ft": "5778",
+            "iso_country": "AO",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.007",
+            "magnetic_variation_deg": "-8.403",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FNUB"
+        }
+    ]
 }

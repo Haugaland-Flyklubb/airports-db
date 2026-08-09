@@ -85,5 +85,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85089",
+            "filename": "Koala_NDB-DME_CA",
+            "ident": "4A",
+            "name": "Koala",
+            "type": "NDB-DME",
+            "frequency_khz": "350",
+            "latitude_deg": "64.6980972290039",
+            "longitude_deg": "-110.60900115966797",
+            "elevation_ft": "1540",
+            "iso_country": "CA",
+            "dme_frequency_khz": "111800",
+            "dme_channel": "055X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "19.093",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "CYOA"
+        }
+    ]
 }

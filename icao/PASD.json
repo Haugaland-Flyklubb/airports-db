@@ -109,5 +109,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88740",
+            "filename": "Borland_NDB-DME_US",
+            "ident": "HBT",
+            "name": "Borland",
+            "type": "NDB-DME",
+            "frequency_khz": "390",
+            "latitude_deg": "55.31560134887695",
+            "longitude_deg": "-160.51800537109375",
+            "elevation_ft": "132",
+            "iso_country": "US",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.247",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PASD"
+        }
+    ]
 }

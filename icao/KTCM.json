@@ -139,5 +139,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94255",
+            "filename": "Mcchord_VORTAC_US",
+            "ident": "TCM",
+            "name": "Mcchord",
+            "type": "VORTAC",
+            "frequency_khz": "109600",
+            "latitude_deg": "47.147701263427734",
+            "longitude_deg": "-122.4749984741211",
+            "elevation_ft": "284",
+            "iso_country": "US",
+            "dme_frequency_khz": "109600",
+            "dme_channel": "033X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "22.001",
+            "magnetic_variation_deg": "17.33",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KTCM"
+        }
+    ]
 }

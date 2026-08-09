@@ -69,5 +69,51 @@
         "iso_country": "GL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Avannaata",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "92906",
+            "filename": "Qaanaaq_DME_GL",
+            "ident": "QN",
+            "name": "Qaanaaq",
+            "type": "DME",
+            "frequency_khz": "108350",
+            "latitude_deg": "77.48739624023438",
+            "longitude_deg": "-69.37300109863281",
+            "elevation_ft": "83",
+            "iso_country": "GL",
+            "dme_frequency_khz": "108350",
+            "dme_channel": "020Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-57.244",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "BGQQ"
+        },
+        {
+            "id": "92914",
+            "filename": "Qaanaaq_NDB_GL",
+            "ident": "QQ",
+            "name": "Qaanaaq",
+            "type": "NDB",
+            "frequency_khz": "336",
+            "latitude_deg": "77.4791030883789",
+            "longitude_deg": "-69.32589721679688",
+            "elevation_ft": "",
+            "iso_country": "GL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-57.221",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "BGQQ"
+        }
+    ]
 }

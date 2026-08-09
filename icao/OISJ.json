@@ -69,5 +69,29 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fars_Province",
         "keywords": "Airports in Fars Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89549",
+            "filename": "Jahrom_NDB_IR",
+            "ident": "JRM",
+            "name": "Jahrom",
+            "type": "NDB",
+            "frequency_khz": "374",
+            "latitude_deg": "28.585399627685547",
+            "longitude_deg": "53.58409881591797",
+            "elevation_ft": "3350",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.173",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OISJ"
+        }
+    ]
 }

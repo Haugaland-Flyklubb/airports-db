@@ -93,5 +93,29 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kaskazini_Unguja_Region",
         "keywords": "Airports in Kaskazini Unguja Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96170",
+            "filename": "Zanzibar_NDB_TZ",
+            "ident": "ZZ",
+            "name": "Zanzibar",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "-6.217339992523193",
+            "longitude_deg": "39.2224006652832",
+            "elevation_ft": "54",
+            "iso_country": "TZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.023",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "HTZA"
+        }
+    ]
 }

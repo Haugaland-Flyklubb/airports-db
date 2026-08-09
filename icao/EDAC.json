@@ -109,5 +109,51 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Thuringia",
         "keywords": "Thueringen, Freistaat Thüringen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85221",
+            "filename": "Altenburg_NDB_DE",
+            "ident": "ABU",
+            "name": "Altenburg",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "50.99380111694336",
+            "longitude_deg": "12.520999908447266",
+            "elevation_ft": "581",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.561",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDAC"
+        },
+        {
+            "id": "85303",
+            "filename": "Altenburg_DME_DE",
+            "ident": "AGD",
+            "name": "Altenburg",
+            "type": "DME",
+            "frequency_khz": "115300",
+            "latitude_deg": "50.98270034790039",
+            "longitude_deg": "12.512299537658691",
+            "elevation_ft": "624",
+            "iso_country": "DE",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.542",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDAC"
+        }
+    ]
 }

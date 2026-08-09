@@ -99,5 +99,29 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Isla_de_la_Juventud",
         "keywords": "Airports in Isla de la Juventud (special municipality)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94913",
+            "filename": "Gerona_NDB_CU",
+            "ident": "UNG",
+            "name": "Gerona",
+            "type": "NDB",
+            "frequency_khz": "412",
+            "latitude_deg": "21.755800247192383",
+            "longitude_deg": "-82.87809753417969",
+            "elevation_ft": "",
+            "iso_country": "CU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.011",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MUNG"
+        }
+    ]
 }

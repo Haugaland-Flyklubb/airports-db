@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89392",
+            "filename": "Blaak_NDB_US",
+            "ident": "IWJ",
+            "name": "Blaak",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "31.455699920654297",
+            "longitude_deg": "-84.81909942626953",
+            "elevation_ft": "253",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.221",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KBIJ"
+        }
+    ]
 }

@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89169",
+            "filename": "Innisfail_NDB_AU",
+            "ident": "IFL",
+            "name": "Innisfail",
+            "type": "NDB",
+            "frequency_khz": "212",
+            "latitude_deg": "-17.56170082092285",
+            "longitude_deg": "146.01499938964844",
+            "elevation_ft": "46",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.18",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YIFL"
+        }
+    ]
 }

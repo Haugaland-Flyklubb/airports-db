@@ -113,5 +113,51 @@
         "iso_country": "SY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Deir_ez-Zor_Governorate",
         "keywords": "Dayr az Zawr"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87530",
+            "filename": "Deir_Zzor_VOR-DME_SY",
+            "ident": "DRZ",
+            "name": "Deir Zzor",
+            "type": "VOR-DME",
+            "frequency_khz": "117000",
+            "latitude_deg": "35.291900634765625",
+            "longitude_deg": "40.15380096435547",
+            "elevation_ft": "700",
+            "iso_country": "SY",
+            "dme_frequency_khz": "117000",
+            "dme_channel": "117X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.137",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "OSDZ"
+        },
+        {
+            "id": "87531",
+            "filename": "Deir_Zzor_NDB_SY",
+            "ident": "DRZ",
+            "name": "Deir Zzor",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "35.28919982910156",
+            "longitude_deg": "40.187400817871094",
+            "elevation_ft": "",
+            "iso_country": "SY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.138",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OSDZ"
+        }
+    ]
 }

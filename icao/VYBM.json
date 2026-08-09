@@ -69,5 +69,29 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kachin_State",
         "keywords": "Airports in Kachin State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86167",
+            "filename": "Banmaw_NDB_MM",
+            "ident": "BM",
+            "name": "Banmaw",
+            "type": "NDB",
+            "frequency_khz": "320",
+            "latitude_deg": "24.26740074157715",
+            "longitude_deg": "97.24620056152344",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.442",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VYBM"
+        }
+    ]
 }

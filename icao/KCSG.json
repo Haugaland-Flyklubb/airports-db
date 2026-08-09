@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87058",
+            "filename": "Fenix_NDB_US",
+            "ident": "CS",
+            "name": "Fenix",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "32.45199966430664",
+            "longitude_deg": "-85.04190063476562",
+            "elevation_ft": "368",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.227",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCSG"
+        },
+        {
+            "id": "87062",
+            "filename": "Columbus_VORTAC_US",
+            "ident": "CSG",
+            "name": "Columbus",
+            "type": "VORTAC",
+            "frequency_khz": "117100",
+            "latitude_deg": "32.615299224853516",
+            "longitude_deg": "-85.0176010131836",
+            "elevation_ft": "630",
+            "iso_country": "US",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "-3.255",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KCSG"
+        }
+    ]
 }

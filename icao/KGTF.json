@@ -161,5 +161,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88612",
+            "filename": "Great_Falls_VORTAC_US",
+            "ident": "GTF",
+            "name": "Great Falls",
+            "type": "VORTAC",
+            "frequency_khz": "115100",
+            "latitude_deg": "47.45000076293945",
+            "longitude_deg": "-111.41200256347656",
+            "elevation_ft": "3673",
+            "iso_country": "US",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "16.001",
+            "magnetic_variation_deg": "14.038",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KGTF"
+        },
+        {
+            "id": "89372",
+            "filename": "Truly_NDB_US",
+            "ident": "ITU",
+            "name": "Truly",
+            "type": "NDB",
+            "frequency_khz": "371",
+            "latitude_deg": "47.36589813232422",
+            "longitude_deg": "-111.37300109863281",
+            "elevation_ft": "4201",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.015",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KGTF"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Barat",
         "keywords": "Airports in Nusa Tenggara Barat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91680",
+            "filename": "Sumbawa_NDB_ID",
+            "ident": "NQ",
+            "name": "Sumbawa",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-8.474329948425293",
+            "longitude_deg": "117.40499877929688",
+            "elevation_ft": "16",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.465",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WADS"
+        }
+    ]
 }

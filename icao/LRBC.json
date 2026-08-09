@@ -85,5 +85,51 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bacău_County",
         "keywords": "Moldavia, Moldavian"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85862",
+            "filename": "Bacau_NDB_RO",
+            "ident": "BC",
+            "name": "Bacau",
+            "type": "NDB",
+            "frequency_khz": "426",
+            "latitude_deg": "46.47809982299805",
+            "longitude_deg": "26.927400588989258",
+            "elevation_ft": "479",
+            "iso_country": "RO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.458",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LRBC"
+        },
+        {
+            "id": "85880",
+            "filename": "Bacau_VOR-DME_RO",
+            "ident": "BCU",
+            "name": "Bacau",
+            "type": "VOR-DME",
+            "frequency_khz": "109400",
+            "latitude_deg": "46.51089859008789",
+            "longitude_deg": "26.82550048828125",
+            "elevation_ft": "1752",
+            "iso_country": "RO",
+            "dme_frequency_khz": "109400",
+            "dme_channel": "031X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.007",
+            "magnetic_variation_deg": "4.45",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LRBC"
+        }
+    ]
 }

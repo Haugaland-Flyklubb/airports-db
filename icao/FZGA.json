@@ -69,5 +69,29 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mongala",
         "keywords": "Airports in Mongala Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90357",
+            "filename": "Lisala_NDB_CD",
+            "ident": "LIS",
+            "name": "Lisala",
+            "type": "NDB",
+            "frequency_khz": "324",
+            "latitude_deg": "2.163830041885376",
+            "longitude_deg": "21.49970054626465",
+            "elevation_ft": "",
+            "iso_country": "CD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.136",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FZGA"
+        }
+    ]
 }

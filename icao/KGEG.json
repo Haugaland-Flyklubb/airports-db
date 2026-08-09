@@ -147,5 +147,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88331",
+            "filename": "Phort_NDB_US",
+            "ident": "GE",
+            "name": "Phort",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "47.67689895629883",
+            "longitude_deg": "-117.44999694824219",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.281",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KGEG"
+        }
+    ]
 }

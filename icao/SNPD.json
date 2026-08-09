@@ -59,5 +59,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92280",
+            "filename": "Patos_De_Minas_NDB_BR",
+            "ident": "PAT",
+            "name": "Patos De Minas",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "-18.66860008239746",
+            "longitude_deg": "-46.49330139160156",
+            "elevation_ft": "3274",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.421",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SNPD"
+        }
+    ]
 }

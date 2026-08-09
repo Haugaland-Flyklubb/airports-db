@@ -133,5 +133,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91786",
+            "filename": "Willow_Grove_TACAN_US",
+            "ident": "NXX",
+            "name": "Willow Grove",
+            "type": "TACAN",
+            "frequency_khz": "133400",
+            "latitude_deg": "40.19449996948242",
+            "longitude_deg": "-75.14630126953125",
+            "elevation_ft": "360",
+            "iso_country": "US",
+            "dme_frequency_khz": "133400",
+            "dme_channel": "061X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.012",
+            "magnetic_variation_deg": "-12.192",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "US-9347"
+        },
+        {
+            "id": "91787",
+            "filename": "Willow_Grove_NDB_US",
+            "ident": "NXX",
+            "name": "Willow Grove",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "40.189300537109375",
+            "longitude_deg": "-75.14610290527344",
+            "elevation_ft": "350",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.191",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "US-9347"
+        }
+    ]
 }

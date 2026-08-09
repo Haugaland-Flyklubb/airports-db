@@ -77,5 +77,29 @@
         "iso_country": "MG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fianarantsoa",
         "keywords": "Airports in Fianarantsoa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90988",
+            "filename": "Mananjary_NDB_MG",
+            "ident": "MJ",
+            "name": "Mananjary",
+            "type": "NDB",
+            "frequency_khz": "329",
+            "latitude_deg": "-21.201200485229492",
+            "longitude_deg": "48.36650085449219",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.191",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FMSM"
+        }
+    ]
 }

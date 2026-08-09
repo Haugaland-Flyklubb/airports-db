@@ -153,5 +153,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
         "keywords": "Airports in North Dakota"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85178",
+            "filename": "Kenie_NDB_US",
+            "ident": "AA",
+            "name": "Kenie",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "47.009300231933594",
+            "longitude_deg": "-96.81520080566406",
+            "elevation_ft": "887",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.089",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KFAR"
+        },
+        {
+            "id": "87932",
+            "filename": "Fargo_VORTAC_US",
+            "ident": "FAR",
+            "name": "Fargo",
+            "type": "VORTAC",
+            "frequency_khz": "116200",
+            "latitude_deg": "46.75339889526367",
+            "longitude_deg": "-96.85130310058594",
+            "elevation_ft": "910",
+            "iso_country": "US",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.001",
+            "magnetic_variation_deg": "4.12",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KFAR"
+        }
+    ]
 }

@@ -69,5 +69,51 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lumbini_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "91539",
+            "filename": "Nepalgunj_VOR-DME_NP",
+            "ident": "NGJ",
+            "name": "Nepalgunj",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "28.10140037536621",
+            "longitude_deg": "81.65080261230469",
+            "elevation_ft": "540",
+            "iso_country": "NP",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.218",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VNNG"
+        },
+        {
+            "id": "91679",
+            "filename": "Nepalgunj_NDB_NP",
+            "ident": "NPJ",
+            "name": "Nepalgunj",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "28.098100662231445",
+            "longitude_deg": "81.65579986572266",
+            "elevation_ft": "50",
+            "iso_country": "NP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.218",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VNNG"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85137",
+            "filename": "Stettler_NDB-DME_CA",
+            "ident": "8G",
+            "name": "Stettler",
+            "type": "NDB-DME",
+            "frequency_khz": "286",
+            "latitude_deg": "52.30830001831055",
+            "longitude_deg": "-112.75399780273438",
+            "elevation_ft": "2700",
+            "iso_country": "CA",
+            "dme_frequency_khz": "108400",
+            "dme_channel": "021X",
+            "dme_latitude_deg": "52.3086",
+            "dme_longitude_deg": "-112.754",
+            "dme_elevation_ft": "2700",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.01",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CEJ3"
+        }
+    ]
 }

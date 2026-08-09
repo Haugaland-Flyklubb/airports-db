@@ -69,5 +69,29 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Møre_og_Romsdal",
         "keywords": "Airports in Møre og Romsdal"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94201",
+            "filename": "Tautra_NDB_NO",
+            "ident": "TAT",
+            "name": "Tautra",
+            "type": "NDB",
+            "frequency_khz": "393",
+            "latitude_deg": "62.6797981262207",
+            "longitude_deg": "6.912290096282959",
+            "elevation_ft": "",
+            "iso_country": "NO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.432",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ENML"
+        }
+    ]
 }

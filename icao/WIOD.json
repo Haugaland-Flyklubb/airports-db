@@ -69,5 +69,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bangka_Belitung",
         "keywords": "Airports in Bangka Belitung"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91493",
+            "filename": "Tanjung_Pandan_NDB_ID",
+            "ident": "ND",
+            "name": "Tanjung Pandan",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "-2.75423002243042",
+            "longitude_deg": "107.7509994506836",
+            "elevation_ft": "164",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.496",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIOD"
+        },
+        {
+            "id": "94546",
+            "filename": "Tanjung_Pandan_VOR-DME_ID",
+            "ident": "TPN",
+            "name": "Tanjung Pandan",
+            "type": "VOR-DME",
+            "frequency_khz": "116700",
+            "latitude_deg": "-2.7245399951934814",
+            "longitude_deg": "107.75299835205078",
+            "elevation_ft": "20",
+            "iso_country": "ID",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "0.496",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WIOD"
+        }
+    ]
 }

@@ -85,5 +85,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93526",
+            "filename": "Sheffield_City_DME_GB",
+            "ident": "SFH",
+            "name": "Sheffield City",
+            "type": "DME",
+            "frequency_khz": "111350",
+            "latitude_deg": "53.393001556396484",
+            "longitude_deg": "-1.383139967918396",
+            "elevation_ft": "273",
+            "iso_country": "GB",
+            "dme_frequency_khz": "111350",
+            "dme_channel": "050Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.048",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "GB-1219"
+        },
+        {
+            "id": "93776",
+            "filename": "Sheffield_City_NDB_GB",
+            "ident": "SMF",
+            "name": "Sheffield City",
+            "type": "NDB",
+            "frequency_khz": "333",
+            "latitude_deg": "53.392601013183594",
+            "longitude_deg": "-1.383139967918396",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.047",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "GB-1219"
+        }
+    ]
 }

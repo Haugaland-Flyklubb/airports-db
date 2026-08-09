@@ -85,5 +85,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85150",
+            "filename": "Pincher_Creek_NDB_CA",
+            "ident": "9Y",
+            "name": "Pincher Creek",
+            "type": "NDB",
+            "frequency_khz": "311",
+            "latitude_deg": "49.52330017089844",
+            "longitude_deg": "-113.9990005493164",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.458",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CZPC"
+        }
+    ]
 }

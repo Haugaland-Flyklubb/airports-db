@@ -85,5 +85,29 @@
         "iso_country": "IE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/County_Dublin",
         "keywords": "Airports in County Dublin"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95505",
+            "filename": "Weston_VOR-DME_IE",
+            "ident": "WST",
+            "name": "Weston",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "53.35300064086914",
+            "longitude_deg": "-6.494870185852051",
+            "elevation_ft": "200",
+            "iso_country": "IE",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.076",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "EIWT"
+        }
+    ]
 }

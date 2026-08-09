@@ -77,5 +77,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88105",
+            "filename": "Fairoaks_NDB_GB",
+            "ident": "FOS",
+            "name": "Fairoaks",
+            "type": "NDB",
+            "frequency_khz": "348",
+            "latitude_deg": "51.3474006652832",
+            "longitude_deg": "-0.5654289722442627",
+            "elevation_ft": "80",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.253",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGTF"
+        },
+        {
+            "id": "88139",
+            "filename": "Fairoaks_DME_GB",
+            "ident": "FRK",
+            "name": "Fairoaks",
+            "type": "DME",
+            "frequency_khz": "109850",
+            "latitude_deg": "51.3474006652832",
+            "longitude_deg": "-0.5654289722442627",
+            "elevation_ft": "80",
+            "iso_country": "GB",
+            "dme_frequency_khz": "109850",
+            "dme_channel": "035Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.253",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGTF"
+        }
+    ]
 }

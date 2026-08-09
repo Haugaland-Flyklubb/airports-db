@@ -193,5 +193,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
         "keywords": "Airports in Indiana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86935",
+            "filename": "Colfa_NDB_US",
+            "ident": "CO",
+            "name": "Colfa",
+            "type": "NDB",
+            "frequency_khz": "232",
+            "latitude_deg": "39.656898498535156",
+            "longitude_deg": "-86.18550109863281",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.512",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KIND"
+        }
+    ]
 }

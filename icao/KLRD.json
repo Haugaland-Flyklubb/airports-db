@@ -161,5 +161,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90519",
+            "filename": "Pekks_NDB_US",
+            "ident": "LR",
+            "name": "Pekks",
+            "type": "NDB",
+            "frequency_khz": "405",
+            "latitude_deg": "27.642200469970703",
+            "longitude_deg": "-99.45809936523438",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.06",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KLRD"
+        }
+    ]
 }

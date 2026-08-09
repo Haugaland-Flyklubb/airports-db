@@ -69,5 +69,29 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/San_Martín_Region",
         "keywords": "Airports in San Martín Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93100",
+            "filename": "Rioja_NDB_PE",
+            "ident": "RIO",
+            "name": "Rioja",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "-6.030029773712158",
+            "longitude_deg": "-77.16929626464844",
+            "elevation_ft": "659",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.22",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SPJA"
+        }
+    ]
 }

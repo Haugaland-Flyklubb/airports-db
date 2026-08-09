@@ -85,5 +85,51 @@
         "iso_country": "BW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gaborone",
         "keywords": "Airports in Gabarone (city)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88281",
+            "filename": "Gaborone_NDB_BW",
+            "ident": "GBE",
+            "name": "Gaborone",
+            "type": "NDB",
+            "frequency_khz": "311",
+            "latitude_deg": "-24.517900466918945",
+            "longitude_deg": "25.993999481201172",
+            "elevation_ft": "",
+            "iso_country": "BW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.094",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FBSK"
+        },
+        {
+            "id": "88293",
+            "filename": "Gaborone_VOR-DME_BW",
+            "ident": "GBV",
+            "name": "Gaborone",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "-24.597700119018555",
+            "longitude_deg": "25.832500457763672",
+            "elevation_ft": "3400",
+            "iso_country": "BW",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-13.007",
+            "magnetic_variation_deg": "-15.137",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FBSK"
+        }
+    ]
 }

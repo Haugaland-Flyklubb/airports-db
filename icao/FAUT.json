@@ -91,5 +91,51 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Cape",
         "keywords": "Airports in Eastern Cape"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94772",
+            "filename": "Mthatha_NDB_ZA",
+            "ident": "UA",
+            "name": "Mthatha",
+            "type": "NDB",
+            "frequency_khz": "228",
+            "latitude_deg": "-31.558300018310547",
+            "longitude_deg": "28.701900482177734",
+            "elevation_ft": "2400",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-25.08",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAUT"
+        },
+        {
+            "id": "94971",
+            "filename": "Mthatha_NDB_ZA",
+            "ident": "UT",
+            "name": "Mthatha",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "-31.547800064086914",
+            "longitude_deg": "28.729700088500977",
+            "elevation_ft": "2400",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-25.079",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAUT"
+        }
+    ]
 }

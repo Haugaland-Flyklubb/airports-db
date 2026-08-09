@@ -59,5 +59,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur",
         "keywords": "Airports in Nusa Tenggara Timur"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89313",
+            "filename": "Kisar_NDB_ID",
+            "ident": "IR",
+            "name": "Kisar",
+            "type": "NDB",
+            "frequency_khz": "220",
+            "latitude_deg": "-8.017510414123535",
+            "longitude_deg": "127.19999694824219",
+            "elevation_ft": "90",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.302",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WATQ"
+        }
+    ]
 }

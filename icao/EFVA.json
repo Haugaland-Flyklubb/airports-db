@@ -99,5 +99,29 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ostrobothnia_(region)",
         "keywords": "Pohjanmaa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95047",
+            "filename": "Vaasa_VOR-DME_FI",
+            "ident": "VAS",
+            "name": "Vaasa",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "63.04140090942383",
+            "longitude_deg": "21.76490020751953",
+            "elevation_ft": "36",
+            "iso_country": "FI",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.007",
+            "magnetic_variation_deg": "6.268",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EFVA"
+        }
+    ]
 }

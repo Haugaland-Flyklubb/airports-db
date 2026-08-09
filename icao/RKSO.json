@@ -147,5 +147,29 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggi_Province",
         "keywords": "Airports in Gyeonggi-do"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92121",
+            "filename": "Osan_VORTAC_KR",
+            "ident": "OSN",
+            "name": "Osan",
+            "type": "VORTAC",
+            "frequency_khz": "114700",
+            "latitude_deg": "37.09189987182617",
+            "longitude_deg": "127.02999877929688",
+            "elevation_ft": "34",
+            "iso_country": "KR",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.399",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RKSO"
+        }
+    ]
 }

@@ -115,5 +115,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/%27Asir_Province",
         "keywords": "Airports in Asir Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89647",
+            "filename": "Khamis_Mushait_VORTAC_SA",
+            "ident": "KAM",
+            "name": "Khamis Mushait",
+            "type": "VORTAC",
+            "frequency_khz": "115900",
+            "latitude_deg": "18.299699783325195",
+            "longitude_deg": "42.790000915527344",
+            "elevation_ft": "6701",
+            "iso_country": "SA",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.105",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OEKM"
+        }
+    ]
 }

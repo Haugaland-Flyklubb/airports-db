@@ -93,5 +93,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93129",
+            "filename": "Red_Lake_NDB_CA",
+            "ident": "RL",
+            "name": "Red Lake",
+            "type": "NDB",
+            "frequency_khz": "218",
+            "latitude_deg": "51.06079864501953",
+            "longitude_deg": "-93.78489685058594",
+            "elevation_ft": "1280",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.388",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYRL"
+        },
+        {
+            "id": "95825",
+            "filename": "Red_Lake_VOR-DME_CA",
+            "ident": "YRL",
+            "name": "Red Lake",
+            "type": "VOR-DME",
+            "frequency_khz": "114000",
+            "latitude_deg": "51.0713996887207",
+            "longitude_deg": "-93.76190185546875",
+            "elevation_ft": "1280",
+            "iso_country": "CA",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "0.372",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYRL"
+        }
+    ]
 }

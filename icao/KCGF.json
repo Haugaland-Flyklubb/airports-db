@@ -101,5 +101,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
         "keywords": "Airports in Ohio"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87181",
+            "filename": "Chardon_VOR-DME_US",
+            "ident": "CXR",
+            "name": "Chardon",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "41.51689910888672",
+            "longitude_deg": "-81.16320037841797",
+            "elevation_ft": "1310",
+            "iso_country": "US",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.001",
+            "magnetic_variation_deg": "-8.25",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KCGF"
+        },
+        {
+            "id": "88349",
+            "filename": "Hogaf_NDB_US",
+            "ident": "GF",
+            "name": "Hogaf",
+            "type": "NDB",
+            "frequency_khz": "521",
+            "latitude_deg": "41.574100494384766",
+            "longitude_deg": "-81.47119903564453",
+            "elevation_ft": "870",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.114",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCGF"
+        }
+    ]
 }

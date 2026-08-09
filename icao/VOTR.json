@@ -99,5 +99,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tamil_Nadu",
         "keywords": "Airports in Tamil Nadu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94565",
+            "filename": "Tiruchirappalli_NDB_IN",
+            "ident": "TR",
+            "name": "Tiruchirappalli",
+            "type": "NDB",
+            "frequency_khz": "307",
+            "latitude_deg": "10.749899864196777",
+            "longitude_deg": "78.68840026855469",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.095",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VOTR"
+        },
+        {
+            "id": "94647",
+            "filename": "Tiruchirappalli_VOR-DME_IN",
+            "ident": "TTR",
+            "name": "Tiruchirappalli",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "10.762399673461914",
+            "longitude_deg": "78.7134017944336",
+            "elevation_ft": "311",
+            "iso_country": "IN",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.011",
+            "magnetic_variation_deg": "-2.094",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOTR"
+        }
+    ]
 }

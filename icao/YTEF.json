@@ -85,5 +85,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94287",
+            "filename": "Telfer_NDB_AU",
+            "ident": "TEF",
+            "name": "Telfer",
+            "type": "NDB",
+            "frequency_khz": "374",
+            "latitude_deg": "-21.71139907836914",
+            "longitude_deg": "122.21299743652344",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.246",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YTEF"
+        }
+    ]
 }

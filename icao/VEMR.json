@@ -69,5 +69,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nagaland",
         "keywords": "Airports in Nagaland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87441",
+            "filename": "Dimapur_VOR-DME_IN",
+            "ident": "DMR",
+            "name": "Dimapur",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "25.880800247192383",
+            "longitude_deg": "93.78160095214844",
+            "elevation_ft": "472",
+            "iso_country": "IN",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.297",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VEMR"
+        },
+        {
+            "id": "91221",
+            "filename": "Dimapur_NDB_IN",
+            "ident": "MR",
+            "name": "Dimapur",
+            "type": "NDB",
+            "frequency_khz": "422",
+            "latitude_deg": "25.883899688720703",
+            "longitude_deg": "93.7677001953125",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.296",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VEMR"
+        }
+    ]
 }

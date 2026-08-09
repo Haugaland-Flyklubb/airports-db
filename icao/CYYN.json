@@ -115,5 +115,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95924",
+            "filename": "Swift_Current_VOR-DME_CA",
+            "ident": "YYN",
+            "name": "Swift Current",
+            "type": "VOR-DME",
+            "frequency_khz": "117400",
+            "latitude_deg": "50.29719924926758",
+            "longitude_deg": "-107.69100189208984",
+            "elevation_ft": "2680",
+            "iso_country": "CA",
+            "dme_frequency_khz": "117400",
+            "dme_channel": "121X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.001",
+            "magnetic_variation_deg": "12.378",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYYN"
+        }
+    ]
 }

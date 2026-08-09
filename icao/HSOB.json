@@ -69,5 +69,51 @@
         "iso_country": "SD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Kordofan",
         "keywords": "Airports in North Kurdufan State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91856",
+            "filename": "El_Obeid_VOR-DME_SD",
+            "ident": "OBD",
+            "name": "El Obeid",
+            "type": "VOR-DME",
+            "frequency_khz": "115800",
+            "latitude_deg": "13.147700309753418",
+            "longitude_deg": "30.233400344848633",
+            "elevation_ft": "1942",
+            "iso_country": "SD",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.064",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HSOB"
+        },
+        {
+            "id": "91857",
+            "filename": "El_Obeid_NDB_SD",
+            "ident": "OBD",
+            "name": "El Obeid",
+            "type": "NDB",
+            "frequency_khz": "279",
+            "latitude_deg": "13.156700134277344",
+            "longitude_deg": "30.238800048828125",
+            "elevation_ft": "",
+            "iso_country": "SD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.065",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HSOB"
+        }
+    ]
 }

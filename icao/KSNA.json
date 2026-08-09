@@ -203,5 +203,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91455",
+            "filename": "Maagg_NDB_US",
+            "ident": "NA",
+            "name": "Maagg",
+            "type": "NDB",
+            "frequency_khz": "337",
+            "latitude_deg": "33.68880081176758",
+            "longitude_deg": "-117.86000061035156",
+            "elevation_ft": "53",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.578",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KSNA"
+        }
+    ]
 }

@@ -85,5 +85,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lampang_province",
         "keywords": "Airports in Lampang Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90493",
+            "filename": "Lampang_NDB_TH",
+            "ident": "LP",
+            "name": "Lampang",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "18.277999877929688",
+            "longitude_deg": "99.50749969482422",
+            "elevation_ft": "809",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.442",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTCL"
+        },
+        {
+            "id": "90500",
+            "filename": "Lampang_VOR-DME_TH",
+            "ident": "LPN",
+            "name": "Lampang",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "18.276899337768555",
+            "longitude_deg": "99.50240325927734",
+            "elevation_ft": "809",
+            "iso_country": "TH",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.442",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTCL"
+        }
+    ]
 }

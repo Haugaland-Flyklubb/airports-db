@@ -145,5 +145,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Norte",
         "keywords": "Airports in Rio Grande do Norte"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91742",
+            "filename": "Natal_VOR-DME_BR",
+            "ident": "NTL",
+            "name": "Natal",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "-5.90831995010376",
+            "longitude_deg": "-35.248600006103516",
+            "elevation_ft": "169",
+            "iso_country": "BR",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-22.007",
+            "magnetic_variation_deg": "-21.504",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBNT"
+        },
+        {
+            "id": "91744",
+            "filename": "Natal_NDB_BR",
+            "ident": "NTL",
+            "name": "Natal",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "-5.900000095367432",
+            "longitude_deg": "-35.246299743652344",
+            "elevation_ft": "169",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.502",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBNT"
+        }
+    ]
 }

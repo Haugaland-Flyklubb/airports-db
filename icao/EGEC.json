@@ -69,5 +69,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86623",
+            "filename": "Campbeltown_NDB_GB",
+            "ident": "CBL",
+            "name": "Campbeltown",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "55.43560028076172",
+            "longitude_deg": "-5.688069820404053",
+            "elevation_ft": "44",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.207",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EGEC"
+        },
+        {
+            "id": "90712",
+            "filename": "Machrihanish_VOR-DME_GB",
+            "ident": "MAC",
+            "name": "Machrihanish",
+            "type": "VOR-DME",
+            "frequency_khz": "116000",
+            "latitude_deg": "55.43000030517578",
+            "longitude_deg": "-5.650279998779297",
+            "elevation_ft": "95",
+            "iso_country": "GB",
+            "dme_frequency_khz": "116000",
+            "dme_channel": "107X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.001",
+            "magnetic_variation_deg": "-5.196",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGEC"
+        }
+    ]
 }

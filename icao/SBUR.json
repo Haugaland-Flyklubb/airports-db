@@ -85,5 +85,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94944",
+            "filename": "Uberaba_NDB_BR",
+            "ident": "URB",
+            "name": "Uberaba",
+            "type": "NDB",
+            "frequency_khz": "235",
+            "latitude_deg": "-19.765499114990234",
+            "longitude_deg": "-47.95920181274414",
+            "elevation_ft": "2649",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.512",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBUR"
+        }
+    ]
 }

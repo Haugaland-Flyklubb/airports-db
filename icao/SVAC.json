@@ -91,5 +91,51 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Portuguesa_(state)",
         "keywords": "Airports in Portuguesa State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85313",
+            "filename": "Acarigua_VOR-DME_VE",
+            "ident": "AGV",
+            "name": "Acarigua",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "9.554750442504883",
+            "longitude_deg": "-69.23619842529297",
+            "elevation_ft": "640",
+            "iso_country": "VE",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.007",
+            "magnetic_variation_deg": "-9.393",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVAC"
+        },
+        {
+            "id": "85314",
+            "filename": "Acarigua_NDB_VE",
+            "ident": "AGV",
+            "name": "Acarigua",
+            "type": "NDB",
+            "frequency_khz": "225",
+            "latitude_deg": "9.551690101623535",
+            "longitude_deg": "-69.23290252685547",
+            "elevation_ft": "640",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.384",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SVAC"
+        }
+    ]
 }

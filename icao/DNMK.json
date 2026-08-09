@@ -69,5 +69,29 @@
         "iso_country": "NG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Benue_State",
         "keywords": "Airports in Benue"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91007",
+            "filename": "Makurdi_NDB_NG",
+            "ident": "MK",
+            "name": "Makurdi",
+            "type": "NDB",
+            "frequency_khz": "364",
+            "latitude_deg": "7.717050075531006",
+            "longitude_deg": "8.599289894104004",
+            "elevation_ft": "",
+            "iso_country": "NG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.008",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "DNMK"
+        }
+    ]
 }

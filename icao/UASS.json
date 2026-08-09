@@ -91,5 +91,29 @@
         "iso_country": "KZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Abai_Region",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "93863",
+            "filename": "Semipalatinsk_NDB_KZ",
+            "ident": "SP",
+            "name": "Semipalatinsk",
+            "type": "NDB",
+            "frequency_khz": "418",
+            "latitude_deg": "50.356998443603516",
+            "longitude_deg": "80.31659698486328",
+            "elevation_ft": "",
+            "iso_country": "KZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.064",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UASS"
+        }
+    ]
 }

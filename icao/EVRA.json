@@ -101,5 +101,51 @@
         "iso_country": "LV",
         "wikipedia_link": "https://en.wikipedia.org/wiki/M%C4%81rupe_Municipality",
         "keywords": "Airports in Mārupe Municipality"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93087",
+            "filename": "Riga_VOR-DME_LV",
+            "ident": "RIA",
+            "name": "Riga",
+            "type": "VOR-DME",
+            "frequency_khz": "112050",
+            "latitude_deg": "56.9208984375",
+            "longitude_deg": "23.965200424194336",
+            "elevation_ft": "100",
+            "iso_country": "LV",
+            "dme_frequency_khz": "112050",
+            "dme_channel": "057Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EVRA"
+        },
+        {
+            "id": "93107",
+            "filename": "Riga_VOR-DME_LV",
+            "ident": "RIX",
+            "name": "Riga",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "56.89739990234375",
+            "longitude_deg": "23.966999053955078",
+            "elevation_ft": "60",
+            "iso_country": "LV",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.007",
+            "magnetic_variation_deg": "5.597",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "EVRA"
+        }
+    ]
 }

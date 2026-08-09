@@ -69,5 +69,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hidalgo_(state)",
         "keywords": "Airports in Hidalgo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92309",
+            "filename": "Pachuca_VOR-DME_MX",
+            "ident": "PCA",
+            "name": "Pachuca",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "20.131799697875977",
+            "longitude_deg": "-98.68440246582031",
+            "elevation_ft": "4950",
+            "iso_country": "MX",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.009",
+            "magnetic_variation_deg": "5.485",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMPC"
+        }
+    ]
 }

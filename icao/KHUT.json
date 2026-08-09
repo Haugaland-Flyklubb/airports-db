@@ -161,5 +161,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
         "keywords": "Airports in Kansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89034",
+            "filename": "Saltt_NDB_US",
+            "ident": "HU",
+            "name": "Saltt",
+            "type": "NDB",
+            "frequency_khz": "404",
+            "latitude_deg": "38.12369918823242",
+            "longitude_deg": "-97.927001953125",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.196",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KHUT"
+        },
+        {
+            "id": "89052",
+            "filename": "Hutchinson_VOR-DME_US",
+            "ident": "HUT",
+            "name": "Hutchinson",
+            "type": "VOR-DME",
+            "frequency_khz": "116800",
+            "latitude_deg": "37.99689865112305",
+            "longitude_deg": "-97.93419647216797",
+            "elevation_ft": "1531",
+            "iso_country": "US",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.001",
+            "magnetic_variation_deg": "5.199",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KHUT"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aceh",
         "keywords": "Airports in Aceh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90538",
+            "filename": "Lhok_Sukon_NDB_ID",
+            "ident": "LS",
+            "name": "Lhok Sukon",
+            "type": "NDB",
+            "frequency_khz": "222",
+            "latitude_deg": "5.068329811096191",
+            "longitude_deg": "97.25309753417969",
+            "elevation_ft": "28",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.446",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WITL"
+        }
+    ]
 }

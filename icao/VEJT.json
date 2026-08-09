@@ -77,5 +77,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Assam",
         "keywords": "Airports in Assam"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89488",
+            "filename": "Jorhat_VOR-DME_IN",
+            "ident": "JHT",
+            "name": "Jorhat",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "26.701900482177734",
+            "longitude_deg": "94.14869689941406",
+            "elevation_ft": "284",
+            "iso_country": "IN",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.288",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VEJT"
+        },
+        {
+            "id": "89566",
+            "filename": "Jorhat_NDB_IN",
+            "ident": "JT",
+            "name": "Jorhat",
+            "type": "NDB",
+            "frequency_khz": "217",
+            "latitude_deg": "26.717199325561523",
+            "longitude_deg": "94.14649963378906",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.287",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VEJT"
+        }
+    ]
 }

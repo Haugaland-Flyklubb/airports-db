@@ -35,5 +35,29 @@
         "iso_country": "ZM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwestern_Province_(Zambia)",
         "keywords": "Airports in North-Western Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95979",
+            "filename": "Zambezi_NDB_ZM",
+            "ident": "ZB",
+            "name": "Zambezi",
+            "type": "NDB",
+            "frequency_khz": "215",
+            "latitude_deg": "-13.534799575805664",
+            "longitude_deg": "23.11639976501465",
+            "elevation_ft": "",
+            "iso_country": "ZM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.558",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FLZB"
+        }
+    ]
 }

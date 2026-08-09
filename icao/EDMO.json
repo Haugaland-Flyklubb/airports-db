@@ -109,5 +109,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
         "keywords": "Bayern"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91861",
+            "filename": "Oberpfaffenhofen_NDB-DME_DE",
+            "ident": "OBI",
+            "name": "Oberpfaffenhofen",
+            "type": "NDB-DME",
+            "frequency_khz": "429",
+            "latitude_deg": "48.08060073852539",
+            "longitude_deg": "11.285400390625",
+            "elevation_ft": "1923",
+            "iso_country": "DE",
+            "dme_frequency_khz": "110500",
+            "dme_channel": "042X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.34",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EDMO"
+        }
+    ]
 }

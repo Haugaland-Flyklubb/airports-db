@@ -77,5 +77,51 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87765",
+            "filename": "Mariano_Moreno_VOR-DME_AR",
+            "ident": "ENO",
+            "name": "Mariano Moreno",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "-34.562801361083984",
+            "longitude_deg": "-58.79059982299805",
+            "elevation_ft": "105",
+            "iso_country": "AR",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-6.449",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SADJ"
+        },
+        {
+            "id": "92200",
+            "filename": "Mariano_Moreno_NDB_AR",
+            "ident": "OZ",
+            "name": "Mariano Moreno",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "-34.483299255371094",
+            "longitude_deg": "-58.82170104980469",
+            "elevation_ft": "",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.458",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "SADJ"
+        }
+    ]
 }

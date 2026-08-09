@@ -101,5 +101,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kerala",
         "keywords": "Airports in Kerala"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94700",
+            "filename": "Trivandrum_VOR-DME_IN",
+            "ident": "TVM",
+            "name": "Trivandrum",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "8.474809646606445",
+            "longitude_deg": "76.92469787597656",
+            "elevation_ft": "15",
+            "iso_country": "IN",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.011",
+            "magnetic_variation_deg": "-2.359",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOTV"
+        }
+    ]
 }

@@ -147,5 +147,51 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
         "keywords": "Airports in Brandenburg"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93476",
+            "filename": "Schonefeld_DME_DE",
+            "ident": "SDD",
+            "name": "Schonefeld",
+            "type": "DME",
+            "frequency_khz": "114400",
+            "latitude_deg": "52.3745002746582",
+            "longitude_deg": "13.503700256347656",
+            "elevation_ft": "173",
+            "iso_country": "DE",
+            "dme_frequency_khz": "114400",
+            "dme_channel": "091X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.128",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "DE-0440"
+        },
+        {
+            "id": "93734",
+            "filename": "Schonefeld_NDB_DE",
+            "ident": "SLN",
+            "name": "Schonefeld",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "52.392601013183594",
+            "longitude_deg": "13.569999694824219",
+            "elevation_ft": "",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.14",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "DE-0440"
+        }
+    ]
 }

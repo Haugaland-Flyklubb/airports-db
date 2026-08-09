@@ -109,5 +109,51 @@
         "iso_country": "BA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Federation_of_Bosnia_and_Herzegovina",
         "keywords": "Bosnian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94653",
+            "filename": "Tuzla_NDB_BA",
+            "ident": "TU",
+            "name": "Tuzla",
+            "type": "NDB",
+            "frequency_khz": "445",
+            "latitude_deg": "44.477298736572266",
+            "longitude_deg": "18.482999801635742",
+            "elevation_ft": "",
+            "iso_country": "BA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.01",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "LQTZ"
+        },
+        {
+            "id": "94685",
+            "filename": "Tuzla_TACAN_BA",
+            "ident": "TUZ",
+            "name": "Tuzla",
+            "type": "TACAN",
+            "frequency_khz": "109700",
+            "latitude_deg": "44.45709991455078",
+            "longitude_deg": "18.72960090637207",
+            "elevation_ft": "785",
+            "iso_country": "BA",
+            "dme_frequency_khz": "109700",
+            "dme_channel": "034X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "3.036",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LQTZ"
+        }
+    ]
 }

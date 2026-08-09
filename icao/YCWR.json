@@ -99,5 +99,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87168",
+            "filename": "Cowra_VOR_AU",
+            "ident": "CWR",
+            "name": "Cowra",
+            "type": "VOR",
+            "frequency_khz": "112400",
+            "latitude_deg": "-33.847900390625",
+            "longitude_deg": "148.64599609375",
+            "elevation_ft": "960",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.007",
+            "magnetic_variation_deg": "11.446",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YCWR"
+        },
+        {
+            "id": "87169",
+            "filename": "Cowra_NDB_AU",
+            "ident": "CWR",
+            "name": "Cowra",
+            "type": "NDB",
+            "frequency_khz": "299",
+            "latitude_deg": "-33.84489822387695",
+            "longitude_deg": "148.6529998779297",
+            "elevation_ft": "966",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.447",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YCWR"
+        }
+    ]
 }

@@ -131,5 +131,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bangkok",
         "keywords": "Airports in Bangkok (special administrative area)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86091",
+            "filename": "Bangkok_NDB_TH",
+            "ident": "BK",
+            "name": "Bangkok",
+            "type": "NDB",
+            "frequency_khz": "293",
+            "latitude_deg": "13.994600296020508",
+            "longitude_deg": "100.6510009765625",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.344",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "VTBD"
+        },
+        {
+            "id": "86102",
+            "filename": "Bangkok_VOR-DME_TH",
+            "ident": "BKK",
+            "name": "Bangkok",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "13.893600463867188",
+            "longitude_deg": "100.59600067138672",
+            "elevation_ft": "54",
+            "iso_country": "TH",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.342",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTBD"
+        }
+    ]
 }

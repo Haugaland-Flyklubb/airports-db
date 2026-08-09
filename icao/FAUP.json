@@ -129,5 +129,51 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Cape",
         "keywords": "Airports in Northern Cape"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94909",
+            "filename": "Upington_NDB_ZA",
+            "ident": "UN",
+            "name": "Upington",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "-28.478500366210938",
+            "longitude_deg": "21.30299949645996",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.193",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAUP"
+        },
+        {
+            "id": "94933",
+            "filename": "Upington_VOR-DME_ZA",
+            "ident": "UPV",
+            "name": "Upington",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "-28.40169906616211",
+            "longitude_deg": "21.260400772094727",
+            "elevation_ft": "2753",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-18.007",
+            "magnetic_variation_deg": "-19.136",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FAUP"
+        }
+    ]
 }

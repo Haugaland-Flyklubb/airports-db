@@ -69,5 +69,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bushehr_Province",
         "keywords": "Airports in Bushehr Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89772",
+            "filename": "Khark_Island_VOR-DME_IR",
+            "ident": "KHG",
+            "name": "Khark Island",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "29.26460075378418",
+            "longitude_deg": "50.31719970703125",
+            "elevation_ft": "17",
+            "iso_country": "IR",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.501",
+            "magnetic_variation_deg": "2.441",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OIBQ"
+        },
+        {
+            "id": "89773",
+            "filename": "Khark_Island_NDB_IR",
+            "ident": "KHG",
+            "name": "Khark Island",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "29.260700225830078",
+            "longitude_deg": "50.3213005065918",
+            "elevation_ft": "17",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.44",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "OIBQ"
+        }
+    ]
 }

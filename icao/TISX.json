@@ -117,5 +117,51 @@
         "iso_country": "VI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Croix",
         "keywords": "Airports in Saint Croix"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86975",
+            "filename": "St_Croix_VOR-DME_VI",
+            "ident": "COY",
+            "name": "St Croix",
+            "type": "VOR-DME",
+            "frequency_khz": "108200",
+            "latitude_deg": "17.734399795532227",
+            "longitude_deg": "-64.70069885253906",
+            "elevation_ft": "850",
+            "iso_country": "VI",
+            "dme_frequency_khz": "108200",
+            "dme_channel": "019X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.001",
+            "magnetic_variation_deg": "-13.109",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "TISX"
+        },
+        {
+            "id": "94110",
+            "filename": "Peste_NDB_VI",
+            "ident": "SX",
+            "name": "Peste",
+            "type": "NDB",
+            "frequency_khz": "241",
+            "latitude_deg": "17.6919002532959",
+            "longitude_deg": "-64.88469696044922",
+            "elevation_ft": "",
+            "iso_country": "VI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.054",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "TISX"
+        }
+    ]
 }

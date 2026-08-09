@@ -69,5 +69,29 @@
         "iso_country": "NC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Province,_New_Caledonia",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "89693",
+            "filename": "Koumac_NDB_NC",
+            "ident": "KO",
+            "name": "Koumac",
+            "type": "NDB",
+            "frequency_khz": "313",
+            "latitude_deg": "-20.54175",
+            "longitude_deg": "164.261056",
+            "elevation_ft": "",
+            "iso_country": "NC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "NWWK"
+        }
+    ]
 }

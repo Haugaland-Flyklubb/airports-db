@@ -69,5 +69,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
         "keywords": "Airports in Gujarat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86451",
+            "filename": "Bhavnagar_NDB_IN",
+            "ident": "BV",
+            "name": "Bhavnagar",
+            "type": "NDB",
+            "frequency_khz": "243",
+            "latitude_deg": "21.75860023498535",
+            "longitude_deg": "72.17669677734375",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.226",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VABV"
+        },
+        {
+            "id": "86468",
+            "filename": "Bhavnagar_VOR-DME_IN",
+            "ident": "BVR",
+            "name": "Bhavnagar",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "21.750099182128906",
+            "longitude_deg": "72.18890380859375",
+            "elevation_ft": "20",
+            "iso_country": "IN",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.227",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VABV"
+        }
+    ]
 }

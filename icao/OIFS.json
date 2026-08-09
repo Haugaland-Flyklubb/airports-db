@@ -69,5 +69,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chaharmahal_and_Bakhtiari_Province",
         "keywords": "Airports in Chaharmahal and Bakhtiari Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93681",
+            "filename": "Shahre_Kord_VOR-DME_IR",
+            "ident": "SKD",
+            "name": "Shahre Kord",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "32.27980041503906",
+            "longitude_deg": "50.85490036010742",
+            "elevation_ft": "6723",
+            "iso_country": "IR",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.169",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIFS"
+        },
+        {
+            "id": "93682",
+            "filename": "Shahre_Kord_NDB_IR",
+            "ident": "SKD",
+            "name": "Shahre Kord",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "32.30550003051758",
+            "longitude_deg": "50.838600158691406",
+            "elevation_ft": "6723",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.169",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OIFS"
+        }
+    ]
 }

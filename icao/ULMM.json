@@ -77,5 +77,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Murmansk_Oblast",
         "keywords": "Airports in Murmansk Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92378",
+            "filename": "Murmansk_NDB_RU",
+            "ident": "PF",
+            "name": "Murmansk",
+            "type": "NDB",
+            "frequency_khz": "635",
+            "latitude_deg": "68.82330322265625",
+            "longitude_deg": "32.66830062866211",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.425",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "ULMM"
+        },
+        {
+            "id": "93014",
+            "filename": "Murmansk_NDB_RU",
+            "ident": "RD",
+            "name": "Murmansk",
+            "type": "NDB",
+            "frequency_khz": "635",
+            "latitude_deg": "68.74330139160156",
+            "longitude_deg": "32.81829833984375",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.451",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "ULMM"
+        }
+    ]
 }

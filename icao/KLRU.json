@@ -129,5 +129,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90520",
+            "filename": "Hawke_NDB_US",
+            "ident": "LR",
+            "name": "Hawke",
+            "type": "NDB",
+            "frequency_khz": "206",
+            "latitude_deg": "32.21900177001953",
+            "longitude_deg": "-106.83599853515625",
+            "elevation_ft": "4180",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.351",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KLRU"
+        }
+    ]
 }

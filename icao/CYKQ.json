@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95725",
+            "filename": "Waskaganish_NDB_CA",
+            "ident": "YKQ",
+            "name": "Waskaganish",
+            "type": "NDB",
+            "frequency_khz": "351",
+            "latitude_deg": "51.48699951171875",
+            "longitude_deg": "-78.74479675292969",
+            "elevation_ft": "79",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.377",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYKQ"
+        }
+    ]
 }

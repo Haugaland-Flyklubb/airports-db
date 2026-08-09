@@ -117,5 +117,29 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lara_(state)",
         "keywords": "Airports in Lara State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86323",
+            "filename": "Barquisimeto_VOR-DME_VE",
+            "ident": "BRM",
+            "name": "Barquisimeto",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "10.047499656677246",
+            "longitude_deg": "-69.35179901123047",
+            "elevation_ft": "2042",
+            "iso_country": "VE",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.007",
+            "magnetic_variation_deg": "-9.39",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVBM"
+        }
+    ]
 }

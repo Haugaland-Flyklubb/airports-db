@@ -77,5 +77,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Krasnodar_Krai",
         "keywords": "Airports in Krasnodar Krai"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85472",
+            "filename": "Anapa_NDB_RU",
+            "ident": "AN",
+            "name": "Anapa",
+            "type": "NDB",
+            "frequency_khz": "443",
+            "latitude_deg": "44.968299865722656",
+            "longitude_deg": "37.30500030517578",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.002",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "URKA"
+        },
+        {
+            "id": "85529",
+            "filename": "Anapa_NDB_RU",
+            "ident": "AP",
+            "name": "Anapa",
+            "type": "NDB",
+            "frequency_khz": "443",
+            "latitude_deg": "45.03499984741211",
+            "longitude_deg": "37.391700744628906",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.018",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "URKA"
+        }
+    ]
 }

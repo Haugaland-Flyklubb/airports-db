@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/San_Luis_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "94863",
+            "filename": "San_Luis_VOR_AR",
+            "ident": "UIS",
+            "name": "San Luis",
+            "type": "VOR",
+            "frequency_khz": "116000",
+            "latitude_deg": "-33.26940155029297",
+            "longitude_deg": "-66.36080169677734",
+            "elevation_ft": "2329",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "-0.296",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAOU"
+        }
+    ]
 }

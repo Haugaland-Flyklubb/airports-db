@@ -113,5 +113,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85144",
+            "filename": "Hanna_NDB_CA",
+            "ident": "9A",
+            "name": "Hanna",
+            "type": "NDB",
+            "frequency_khz": "221",
+            "latitude_deg": "51.62779998779297",
+            "longitude_deg": "-111.9010009765625",
+            "elevation_ft": "2738",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.227",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CEL4"
+        }
+    ]
 }

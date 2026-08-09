@@ -177,5 +177,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92293",
+            "filename": "Rubin_NDB_US",
+            "ident": "PB",
+            "name": "Rubin",
+            "type": "NDB",
+            "frequency_khz": "356",
+            "latitude_deg": "26.687700271606445",
+            "longitude_deg": "-80.21019744873047",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.416",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KPBI"
+        },
+        {
+            "id": "92300",
+            "filename": "Palm_Beach_VORTAC_US",
+            "ident": "PBI",
+            "name": "Palm Beach",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "26.680099487304688",
+            "longitude_deg": "-80.08650207519531",
+            "elevation_ft": "19",
+            "iso_country": "US",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.001",
+            "magnetic_variation_deg": "-5.465",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KPBI"
+        }
+    ]
 }

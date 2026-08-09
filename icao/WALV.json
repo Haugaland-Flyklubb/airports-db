@@ -77,5 +77,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Kalimantan",
         "keywords": "Kalimantan Utara"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86411",
+            "filename": "Bunyu_NDB_ID",
+            "ident": "BU",
+            "name": "Bunyu",
+            "type": "NDB",
+            "frequency_khz": "220",
+            "latitude_deg": "3.4561901092529297",
+            "longitude_deg": "117.86699676513672",
+            "elevation_ft": "16",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.386",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WALV"
+        }
+    ]
 }

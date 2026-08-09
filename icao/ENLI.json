@@ -69,5 +69,51 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Agder",
         "keywords": "Airports in Agder"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90554",
+            "filename": "Lista_TACAN_NO",
+            "ident": "LST",
+            "name": "Lista",
+            "type": "TACAN",
+            "frequency_khz": "109300",
+            "latitude_deg": "58.10150146484375",
+            "longitude_deg": "6.625810146331787",
+            "elevation_ft": "48",
+            "iso_country": "NO",
+            "dme_frequency_khz": "109300",
+            "dme_channel": "030X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.001",
+            "magnetic_variation_deg": "-0.274",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ENLI"
+        },
+        {
+            "id": "90557",
+            "filename": "Lista_NDB_NO",
+            "ident": "LST",
+            "name": "Lista",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "58.07160186767578",
+            "longitude_deg": "6.686820030212402",
+            "elevation_ft": "25",
+            "iso_country": "NO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.257",
+            "usageType": "HI",
+            "power": "MEDIUM",
+            "associated_airport": "ENLI"
+        }
+    ]
 }

@@ -185,5 +185,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
         "keywords": "Airports in Indiana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88203",
+            "filename": "Hoagy_NDB_US",
+            "ident": "FW",
+            "name": "Hoagy",
+            "type": "NDB",
+            "frequency_khz": "251",
+            "latitude_deg": "40.93050003051758",
+            "longitude_deg": "-85.11959838867188",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.015",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KFWA"
+        },
+        {
+            "id": "88204",
+            "filename": "Fort_Wayne_VORTAC_US",
+            "ident": "FWA",
+            "name": "Fort Wayne",
+            "type": "VORTAC",
+            "frequency_khz": "117800",
+            "latitude_deg": "40.97909927368164",
+            "longitude_deg": "-85.18810272216797",
+            "elevation_ft": "802",
+            "iso_country": "US",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "-4.588",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KFWA"
+        }
+    ]
 }

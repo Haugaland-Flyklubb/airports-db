@@ -77,5 +77,51 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ionian_Islands_(region)",
         "keywords": "Περιφέρεια Ιονίων Νήσων"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89724",
+            "filename": "Kefallinia_NDB_GR",
+            "ident": "KEF",
+            "name": "Kefallinia",
+            "type": "NDB",
+            "frequency_khz": "318",
+            "latitude_deg": "38.115699768066406",
+            "longitude_deg": "20.499300003051758",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.524",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "LGKF"
+        },
+        {
+            "id": "89741",
+            "filename": "Kefallinia_VOR-DME_GR",
+            "ident": "KFN",
+            "name": "Kefallinia",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "38.11309814453125",
+            "longitude_deg": "20.50469970703125",
+            "elevation_ft": "32",
+            "iso_country": "GR",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.524",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LGKF"
+        }
+    ]
 }

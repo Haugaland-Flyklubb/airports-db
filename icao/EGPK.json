@@ -115,5 +115,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92443",
+            "filename": "Prestwick_NDB_GB",
+            "ident": "PIK",
+            "name": "Prestwick",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "55.506099700927734",
+            "longitude_deg": "-4.577250003814697",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.521",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGPK"
+        },
+        {
+            "id": "92829",
+            "filename": "Prestwick_NDB_GB",
+            "ident": "PW",
+            "name": "Prestwick",
+            "type": "NDB",
+            "frequency_khz": "426",
+            "latitude_deg": "55.54439926147461",
+            "longitude_deg": "-4.681550025939941",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.554",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGPK"
+        }
+    ]
 }

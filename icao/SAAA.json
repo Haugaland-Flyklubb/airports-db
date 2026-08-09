@@ -59,5 +59,51 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93821",
+            "filename": "San_Antonio_De_Areco_VOR-DME_AR",
+            "ident": "SNT",
+            "name": "San Antonio De Areco",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "-34.219398498535156",
+            "longitude_deg": "-59.43560028076172",
+            "elevation_ft": "98",
+            "iso_country": "AR",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-6.215",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAAA"
+        },
+        {
+            "id": "93824",
+            "filename": "San_Antonio_De_Areco_NDB_AR",
+            "ident": "SNT",
+            "name": "San Antonio De Areco",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "-34.247798919677734",
+            "longitude_deg": "-59.47560119628906",
+            "elevation_ft": "98",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.185",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAAA"
+        }
+    ]
 }

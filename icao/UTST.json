@@ -85,5 +85,51 @@
         "iso_country": "UZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Surxondaryo_Region",
         "keywords": "Airports in Surxondaryo Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91658",
+            "filename": "Termez_NDB_UZ",
+            "ident": "NO",
+            "name": "Termez",
+            "type": "NDB",
+            "frequency_khz": "398",
+            "latitude_deg": "37.29999923706055",
+            "longitude_deg": "67.36499786376953",
+            "elevation_ft": "",
+            "iso_country": "UZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.338",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UTST"
+        },
+        {
+            "id": "94618",
+            "filename": "Termez_VOR-DME_UZ",
+            "ident": "TRZ",
+            "name": "Termez",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "37.28499984741211",
+            "longitude_deg": "67.30670166015625",
+            "elevation_ft": "1026",
+            "iso_country": "UZ",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "3.337",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UTST"
+        }
+    ]
 }

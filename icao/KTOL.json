@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
         "keywords": "Airports in Ohio"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94499",
+            "filename": "Tophr_NDB_US",
+            "ident": "TO",
+            "name": "Tophr",
+            "type": "NDB",
+            "frequency_khz": "219",
+            "latitude_deg": "41.55339813232422",
+            "longitude_deg": "-83.92109680175781",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.11",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KTOL"
+        },
+        {
+            "id": "94511",
+            "filename": "Toledo_TACAN_US",
+            "ident": "TOL",
+            "name": "Toledo",
+            "type": "TACAN",
+            "frequency_khz": "112500",
+            "latitude_deg": "41.59370040893555",
+            "longitude_deg": "-83.79940032958984",
+            "elevation_ft": "671",
+            "iso_country": "US",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.001",
+            "magnetic_variation_deg": "-6.178",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KTOL"
+        }
+    ]
 }

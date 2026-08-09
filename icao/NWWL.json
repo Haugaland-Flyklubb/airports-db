@@ -85,5 +85,51 @@
         "iso_country": "NC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Loyalty_Islands_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "90299",
+            "filename": "Lifou_VOR-DME_NC",
+            "ident": "LFU",
+            "name": "Lifou",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "-20.774200439453125",
+            "longitude_deg": "167.24099731445312",
+            "elevation_ft": "92",
+            "iso_country": "NC",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.011",
+            "magnetic_variation_deg": "12.087",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "NWWL"
+        },
+        {
+            "id": "90586",
+            "filename": "Lifou_NDB_NC",
+            "ident": "LU",
+            "name": "Lifou",
+            "type": "NDB",
+            "frequency_khz": "264",
+            "latitude_deg": "-20.77589988708496",
+            "longitude_deg": "167.23899841308594",
+            "elevation_ft": "92",
+            "iso_country": "NC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.087",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "NWWL"
+        }
+    ]
 }

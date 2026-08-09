@@ -69,5 +69,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Norte",
         "keywords": "Airports in Rio Grande do Norte"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91294",
+            "filename": "Mossoro_VOR-DME_BR",
+            "ident": "MSS",
+            "name": "Mossoro",
+            "type": "VOR-DME",
+            "frequency_khz": "112400",
+            "latitude_deg": "-5.197329998016357",
+            "longitude_deg": "-37.364498138427734",
+            "elevation_ft": "88",
+            "iso_country": "BR",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-22.007",
+            "magnetic_variation_deg": "-21.466",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBMS"
+        },
+        {
+            "id": "91295",
+            "filename": "Mossoro_NDB_BR",
+            "ident": "MSS",
+            "name": "Mossoro",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "-5.19350004196167",
+            "longitude_deg": "-37.364498138427734",
+            "elevation_ft": "217",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.465",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBMS"
+        }
+    ]
 }

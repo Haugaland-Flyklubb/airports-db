@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91724",
+            "filename": "Norseman_NDB_AU",
+            "ident": "NSM",
+            "name": "Norseman",
+            "type": "NDB",
+            "frequency_khz": "347",
+            "latitude_deg": "-32.194400787353516",
+            "longitude_deg": "121.79900360107422",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.585",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YNSM"
+        }
+    ]
 }

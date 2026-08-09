@@ -131,5 +131,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90794",
+            "filename": "Manchester_NDB_GB",
+            "ident": "MCH",
+            "name": "Manchester",
+            "type": "NDB",
+            "frequency_khz": "428",
+            "latitude_deg": "53.35329818725586",
+            "longitude_deg": "-2.2730300426483154",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.259",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGCC"
+        },
+        {
+            "id": "90810",
+            "filename": "Manchester_VOR-DME_GB",
+            "ident": "MCT",
+            "name": "Manchester",
+            "type": "VOR-DME",
+            "frequency_khz": "113550",
+            "latitude_deg": "53.35689926147461",
+            "longitude_deg": "-2.2622199058532715",
+            "elevation_ft": "282",
+            "iso_country": "GB",
+            "dme_frequency_khz": "113550",
+            "dme_channel": "082Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-3.257",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EGCC"
+        }
+    ]
 }

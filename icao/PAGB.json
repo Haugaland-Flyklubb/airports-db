@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88285",
+            "filename": "Galbraith_Lake_NDB_US",
+            "ident": "GBH",
+            "name": "Galbraith Lake",
+            "type": "NDB",
+            "frequency_khz": "417",
+            "latitude_deg": "68.47930145263672",
+            "longitude_deg": "-149.49600219726562",
+            "elevation_ft": "2670",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "23.155",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "PAGB"
+        }
+    ]
 }

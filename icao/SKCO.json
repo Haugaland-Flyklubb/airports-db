@@ -77,5 +77,51 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nariño_Department",
         "keywords": "Airports in Nariño Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94257",
+            "filename": "Tumaco_VOR-DME_CO",
+            "ident": "TCO",
+            "name": "Tumaco",
+            "type": "VOR-DME",
+            "frequency_khz": "114000",
+            "latitude_deg": "1.8147300481796265",
+            "longitude_deg": "-78.74800109863281",
+            "elevation_ft": "3",
+            "iso_country": "CO",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.554",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKCO"
+        },
+        {
+            "id": "94259",
+            "filename": "Tumaco_NDB_CO",
+            "ident": "TCO",
+            "name": "Tumaco",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "1.814170002937317",
+            "longitude_deg": "-78.75460052490234",
+            "elevation_ft": "7",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.551",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKCO"
+        }
+    ]
 }

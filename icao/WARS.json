@@ -85,5 +85,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jawa_Tengah",
         "keywords": "Airports in Jawa Tengah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85515",
+            "filename": "Achmad_Yani_VOR-DME_ID",
+            "ident": "ANY",
+            "name": "Achmad Yani",
+            "type": "VOR-DME",
+            "frequency_khz": "115200",
+            "latitude_deg": "-6.974720001220703",
+            "longitude_deg": "110.37999725341797",
+            "elevation_ft": "10",
+            "iso_country": "ID",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.114",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WARS"
+        },
+        {
+            "id": "91871",
+            "filename": "Semarang_NDB_ID",
+            "ident": "OC",
+            "name": "Semarang",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "-6.982170104980469",
+            "longitude_deg": "110.3759994506836",
+            "elevation_ft": "10",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.114",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WARS"
+        }
+    ]
 }

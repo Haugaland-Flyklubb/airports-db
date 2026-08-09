@@ -123,5 +123,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87055",
+            "filename": "Cairns_VOR-DME_AU",
+            "ident": "CS",
+            "name": "Cairns",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "-16.850000381469727",
+            "longitude_deg": "145.74400329589844",
+            "elevation_ft": "23",
+            "iso_country": "AU",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.007",
+            "magnetic_variation_deg": "7.076",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YBCS"
+        },
+        {
+            "id": "87056",
+            "filename": "Cairns_NDB_AU",
+            "ident": "CS",
+            "name": "Cairns",
+            "type": "NDB",
+            "frequency_khz": "364",
+            "latitude_deg": "-16.846900939941406",
+            "longitude_deg": "145.73599243164062",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.075",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YBCS"
+        }
+    ]
 }

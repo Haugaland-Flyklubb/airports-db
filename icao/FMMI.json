@@ -69,5 +69,29 @@
         "iso_country": "MG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Antananarivo",
         "keywords": "Airports in Antananarivo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94488",
+            "filename": "Ivato_VOR-DME_MG",
+            "ident": "TNV",
+            "name": "Ivato",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "-18.803300857543945",
+            "longitude_deg": "47.518699645996094",
+            "elevation_ft": "4198",
+            "iso_country": "MG",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.584",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FMMI"
+        }
+    ]
 }

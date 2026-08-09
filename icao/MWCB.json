@@ -77,5 +77,29 @@
         "iso_country": "KY",
         "wikipedia_link": "",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "86616",
+            "filename": "Cayman_Brac_NDB_KY",
+            "ident": "CBC",
+            "name": "Cayman Brac",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "19.690000534057617",
+            "longitude_deg": "-79.85679626464844",
+            "elevation_ft": "3",
+            "iso_country": "KY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.355",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MWCB"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Department",
         "keywords": "Airports in Santa Cruz Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93795",
+            "filename": "San_Matias_NDB_BO",
+            "ident": "SMT",
+            "name": "San Matias",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "-16.33799934387207",
+            "longitude_deg": "-58.387001037597656",
+            "elevation_ft": "",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.444",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SLTI"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gävleborge_län",
         "keywords": "Gävleborg County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91926",
+            "filename": "Gavle_NDB_SE",
+            "ident": "OG",
+            "name": "Gavle",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "60.663700103759766",
+            "longitude_deg": "16.954099655151367",
+            "elevation_ft": "979",
+            "iso_country": "SE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.566",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "ESSK"
+        }
+    ]
 }

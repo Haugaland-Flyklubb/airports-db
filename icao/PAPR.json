@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92636",
+            "filename": "Prospect_Creek_NDB_US",
+            "ident": "PPC",
+            "name": "Prospect Creek",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "66.81759643554688",
+            "longitude_deg": "-150.63400268554688",
+            "elevation_ft": "1099",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.525",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "PAPR"
+        }
+    ]
 }

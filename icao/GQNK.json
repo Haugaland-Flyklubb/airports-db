@@ -69,5 +69,29 @@
         "iso_country": "MR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gorgol_Region",
         "keywords": "Airports in Gorgol Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89640",
+            "filename": "Kaedi_NDB_MR",
+            "ident": "KAE",
+            "name": "Kaedi",
+            "type": "NDB",
+            "frequency_khz": "289",
+            "latitude_deg": "16.156600952148438",
+            "longitude_deg": "-13.507399559020996",
+            "elevation_ft": "",
+            "iso_country": "MR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.517",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GQNK"
+        }
+    ]
 }

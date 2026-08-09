@@ -113,5 +113,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93008",
+            "filename": "Rochester_NDB_GB",
+            "ident": "RCH",
+            "name": "Rochester",
+            "type": "NDB",
+            "frequency_khz": "369",
+            "latitude_deg": "51.35380172729492",
+            "longitude_deg": "0.5036669969558716",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.016",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGTO"
+        }
+    ]
 }

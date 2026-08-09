@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95726",
+            "filename": "Kirkland_Lake_NDB_CA",
+            "ident": "YKX",
+            "name": "Kirkland Lake",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "48.22700119018555",
+            "longitude_deg": "-79.86979675292969",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.584",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYKX"
+        }
+    ]
 }

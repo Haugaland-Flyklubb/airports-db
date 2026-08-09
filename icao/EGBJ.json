@@ -145,5 +145,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88513",
+            "filename": "Gloucestershire_DME_GB",
+            "ident": "GOS",
+            "name": "Gloucestershire",
+            "type": "DME",
+            "frequency_khz": "115550",
+            "latitude_deg": "51.8922004699707",
+            "longitude_deg": "-2.1679298877716064",
+            "elevation_ft": "109",
+            "iso_country": "GB",
+            "dme_frequency_khz": "115550",
+            "dme_channel": "102Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.073",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "EGBJ"
+        },
+        {
+            "id": "88598",
+            "filename": "Gloucestershire_NDB_GB",
+            "ident": "GST",
+            "name": "Gloucestershire",
+            "type": "NDB",
+            "frequency_khz": "331",
+            "latitude_deg": "51.891998291015625",
+            "longitude_deg": "-2.1679000854492188",
+            "elevation_ft": "111",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.073",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGBJ"
+        }
+    ]
 }

@@ -85,5 +85,29 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Thessaly",
         "keywords": "Θεσσαλία"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93680",
+            "filename": "Skiathos_NDB_GR",
+            "ident": "SKC",
+            "name": "Skiathos",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "39.174198150634766",
+            "longitude_deg": "23.50079917907715",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.219",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LGSK"
+        }
+    ]
 }

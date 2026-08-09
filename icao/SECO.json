@@ -85,5 +85,29 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Orellana_Province",
         "keywords": "Airports in Orellana Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86941",
+            "filename": "Coca_NDB_EC",
+            "ident": "COC",
+            "name": "Coca",
+            "type": "NDB",
+            "frequency_khz": "322",
+            "latitude_deg": "-0.44749999046325684",
+            "longitude_deg": "-76.99440002441406",
+            "elevation_ft": "833",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.4",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SECO"
+        }
+    ]
 }

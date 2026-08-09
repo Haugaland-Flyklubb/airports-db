@@ -77,5 +77,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Boyacá_Department",
         "keywords": "Airports in Boyacá Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93842",
+            "filename": "Sogamoso_NDB_CO",
+            "ident": "SOG",
+            "name": "Sogamoso",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "5.676939964294434",
+            "longitude_deg": "-72.9677963256836",
+            "elevation_ft": "8147",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.342",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SKSO"
+        }
+    ]
 }

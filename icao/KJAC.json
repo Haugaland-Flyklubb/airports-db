@@ -125,5 +125,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
         "keywords": "Airports in Wyoming"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89428",
+            "filename": "Jackson_VOR-DME_US",
+            "ident": "JAC",
+            "name": "Jackson",
+            "type": "VOR-DME",
+            "frequency_khz": "115400",
+            "latitude_deg": "43.62099838256836",
+            "longitude_deg": "-110.73200225830078",
+            "elevation_ft": "6452",
+            "iso_country": "US",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "43.6214",
+            "dme_longitude_deg": "-110.733",
+            "dme_elevation_ft": "6452",
+            "slaved_variation_deg": "13.006",
+            "magnetic_variation_deg": "12.559",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KJAC"
+        }
+    ]
 }

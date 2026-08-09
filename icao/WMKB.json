@@ -101,5 +101,51 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Penang",
         "keywords": "Lapangan terbang di Pulau Pinang, Airports in Penang"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86402",
+            "filename": "Butterworth_TACAN_MY",
+            "ident": "BTR",
+            "name": "Butterworth",
+            "type": "TACAN",
+            "frequency_khz": "113500",
+            "latitude_deg": "5.471859931945801",
+            "longitude_deg": "100.39299774169922",
+            "elevation_ft": "11",
+            "iso_country": "MY",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.181",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WMKB"
+        },
+        {
+            "id": "95061",
+            "filename": "Butterworth_VORTAC_MY",
+            "ident": "VBT",
+            "name": "Butterworth",
+            "type": "VORTAC",
+            "frequency_khz": "113300",
+            "latitude_deg": "5.476309776306152",
+            "longitude_deg": "100.39399719238281",
+            "elevation_ft": "11",
+            "iso_country": "MY",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.181",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WMKB"
+        }
+    ]
 }

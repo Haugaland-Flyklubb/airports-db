@@ -69,5 +69,29 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gandaki_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "92421",
+            "filename": "Pokhara_NDB-DME_NP",
+            "ident": "PHR",
+            "name": "Pokhara",
+            "type": "NDB-DME",
+            "frequency_khz": "336",
+            "latitude_deg": "28.200599670410156",
+            "longitude_deg": "83.9843978881836",
+            "elevation_ft": "2712",
+            "iso_country": "NP",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.157",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VNPK"
+        }
+    ]
 }

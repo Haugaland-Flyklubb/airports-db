@@ -69,5 +69,29 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Västernorrlands_län",
         "keywords": "Västernorrland County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92119",
+            "filename": "Ornskoldsvik_VOR-DME_SE",
+            "ident": "OSK",
+            "name": "Ornskoldsvik",
+            "type": "VOR-DME",
+            "frequency_khz": "115000",
+            "latitude_deg": "63.40610122680664",
+            "longitude_deg": "18.993600845336914",
+            "elevation_ft": "351",
+            "iso_country": "SE",
+            "dme_frequency_khz": "115000",
+            "dme_channel": "097X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.001",
+            "magnetic_variation_deg": "5.134",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "ESNO"
+        }
+    ]
 }

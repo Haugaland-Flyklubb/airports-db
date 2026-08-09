@@ -69,5 +69,29 @@
         "iso_country": "NE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maradi_Region",
         "keywords": "Airports in Maradi Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91403",
+            "filename": "Maradi_NDB_NE",
+            "ident": "MY",
+            "name": "Maradi",
+            "type": "NDB",
+            "frequency_khz": "284",
+            "latitude_deg": "13.500699996948242",
+            "longitude_deg": "7.109000205993652",
+            "elevation_ft": "1299",
+            "iso_country": "NE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.183",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DRRM"
+        }
+    ]
 }

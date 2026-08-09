@@ -99,5 +99,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
         "keywords": "Airports in Auvergne-Rhône-Alpes"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85464",
+            "filename": "Amberieu_TACAN_FR",
+            "ident": "AMU",
+            "name": "Amberieu",
+            "type": "TACAN",
+            "frequency_khz": "116300",
+            "latitude_deg": "45.98860168457031",
+            "longitude_deg": "5.331250190734863",
+            "elevation_ft": "801",
+            "iso_country": "FR",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.026",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFXA"
+        }
+    ]
 }

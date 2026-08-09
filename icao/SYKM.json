@@ -35,5 +35,29 @@
         "iso_country": "GY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cuyuni-Mazaruni",
         "keywords": "Airports in Cuyuni-Mazaruni"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89650",
+            "filename": "Kamarang_NDB_GY",
+            "ident": "KAM",
+            "name": "Kamarang",
+            "type": "NDB",
+            "frequency_khz": "406",
+            "latitude_deg": "5.88332986831665",
+            "longitude_deg": "-60.61669921875",
+            "elevation_ft": "",
+            "iso_country": "GY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.247",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SYKM"
+        }
+    ]
 }

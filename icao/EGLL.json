@@ -203,5 +203,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90474",
+            "filename": "London_VOR-DME_GB",
+            "ident": "LON",
+            "name": "London",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "51.48720169067383",
+            "longitude_deg": "-0.4666669964790344",
+            "elevation_ft": "110",
+            "iso_country": "GB",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.001",
+            "magnetic_variation_deg": "-2.243",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGLL"
+        }
+    ]
 }

@@ -69,5 +69,51 @@
         "iso_country": "GT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Izabal_Department",
         "keywords": "Airports in Izabal Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85813",
+            "filename": "Puerto_Barrios_NDB_GT",
+            "ident": "BAR",
+            "name": "Puerto Barrios",
+            "type": "NDB",
+            "frequency_khz": "347",
+            "latitude_deg": "15.736700057983398",
+            "longitude_deg": "-88.59500122070312",
+            "elevation_ft": "33",
+            "iso_country": "GT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.253",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MGPB"
+        },
+        {
+            "id": "89291",
+            "filename": "Puerto_Barrios_VOR-DME_GT",
+            "ident": "IOS",
+            "name": "Puerto Barrios",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "15.736800193786621",
+            "longitude_deg": "-88.58879852294922",
+            "elevation_ft": "20",
+            "iso_country": "GT",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.251",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MGPB"
+        }
+    ]
 }

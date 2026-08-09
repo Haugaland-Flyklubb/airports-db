@@ -77,5 +77,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Riyadh_Region",
         "keywords": "Riyad"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92717",
+            "filename": "Pump_Station_6_NDB_SA",
+            "ident": "PS6",
+            "name": "Pump Station 6",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "24.700000762939453",
+            "longitude_deg": "44.968299865722656",
+            "elevation_ft": "2530",
+            "iso_country": "SA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.359",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OEPF"
+        }
+    ]
 }

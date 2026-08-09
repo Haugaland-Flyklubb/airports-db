@@ -77,5 +77,29 @@
         "iso_country": "MR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Assaba_Region",
         "keywords": "Airports in Assaba Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89734",
+            "filename": "Kiffa_NDB_MR",
+            "ident": "KF",
+            "name": "Kiffa",
+            "type": "NDB",
+            "frequency_khz": "265",
+            "latitude_deg": "16.621000289916992",
+            "longitude_deg": "-11.402700424194336",
+            "elevation_ft": "",
+            "iso_country": "MR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.569",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GQNF"
+        }
+    ]
 }

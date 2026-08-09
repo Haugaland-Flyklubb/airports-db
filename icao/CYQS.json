@@ -121,5 +121,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85125",
+            "filename": "St_Thomas_NDB_CA",
+            "ident": "7B",
+            "name": "St Thomas",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "42.77090072631836",
+            "longitude_deg": "-81.10569763183594",
+            "elevation_ft": "776",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.511",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "CYQS"
+        }
+    ]
 }

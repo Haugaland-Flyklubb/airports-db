@@ -107,5 +107,51 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northland_Region",
         "keywords": "Airports in Northland Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93514",
+            "filename": "Springfield_NDB_NZ",
+            "ident": "SF",
+            "name": "Springfield",
+            "type": "NDB",
+            "frequency_khz": "366",
+            "latitude_deg": "-35.885501861572266",
+            "longitude_deg": "174.35699462890625",
+            "elevation_ft": "",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.488",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NZWR"
+        },
+        {
+            "id": "95498",
+            "filename": "Whangarei_NDB-DME_NZ",
+            "ident": "WR",
+            "name": "Whangarei",
+            "type": "NDB-DME",
+            "frequency_khz": "326",
+            "latitude_deg": "-35.77180099487305",
+            "longitude_deg": "174.36199951171875",
+            "elevation_ft": "133",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "-35.7713",
+            "dme_longitude_deg": "174.362",
+            "dme_elevation_ft": "133",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.453",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NZWR"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Salta_Province",
         "keywords": "Airports in Salta Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94199",
+            "filename": "Tartagal_NDB_AR",
+            "ident": "TAR",
+            "name": "Tartagal",
+            "type": "NDB",
+            "frequency_khz": "210",
+            "latitude_deg": "-22.62779998779297",
+            "longitude_deg": "-63.81919860839844",
+            "elevation_ft": "1476",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.317",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "SAST"
+        }
+    ]
 }

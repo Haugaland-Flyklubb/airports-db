@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
         "keywords": "Airports in Goiás"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86905",
+            "filename": "Cana_Brava_NDB_BR",
+            "ident": "CNB",
+            "name": "Cana Brava",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-13.543700218200684",
+            "longitude_deg": "-48.194801330566406",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.168",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBMC"
+        }
+    ]
 }

@@ -91,5 +91,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Fe_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "93266",
+            "filename": "Reconquista_VOR-DME_AR",
+            "ident": "RTA",
+            "name": "Reconquista",
+            "type": "VOR-DME",
+            "frequency_khz": "117100",
+            "latitude_deg": "-29.208599090576172",
+            "longitude_deg": "-59.682498931884766",
+            "elevation_ft": "157",
+            "iso_country": "AR",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-8.364",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SATR"
+        }
+    ]
 }

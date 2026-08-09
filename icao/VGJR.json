@@ -69,5 +69,51 @@
         "iso_country": "BD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khulna_Division",
         "keywords": "Khulna bibhag"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89544",
+            "filename": "Jessore_NDB_BD",
+            "ident": "JR",
+            "name": "Jessore",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "23.175199508666992",
+            "longitude_deg": "89.16179656982422",
+            "elevation_ft": "",
+            "iso_country": "BD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.307",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VGJR"
+        },
+        {
+            "id": "89559",
+            "filename": "Jessore_VOR_BD",
+            "ident": "JSR",
+            "name": "Jessore",
+            "type": "VOR",
+            "frequency_khz": "113000",
+            "latitude_deg": "23.17690086364746",
+            "longitude_deg": "89.16310119628906",
+            "elevation_ft": "20",
+            "iso_country": "BD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.307",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VGJR"
+        }
+    ]
 }

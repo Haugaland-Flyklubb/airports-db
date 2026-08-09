@@ -115,5 +115,51 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_de_Cuba_Province",
         "keywords": "Airports in Santiago de Cuba Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94813",
+            "filename": "Santiago_De_Cuba_VOR-DME_CU",
+            "ident": "UCU",
+            "name": "Santiago De Cuba",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "19.977800369262695",
+            "longitude_deg": "-75.82279968261719",
+            "elevation_ft": "197",
+            "iso_country": "CU",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.01",
+            "magnetic_variation_deg": "-7.14",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MUCU"
+        },
+        {
+            "id": "94815",
+            "filename": "Santiago_De_Cuba_NDB_CU",
+            "ident": "UCU",
+            "name": "Santiago De Cuba",
+            "type": "NDB",
+            "frequency_khz": "339",
+            "latitude_deg": "19.972900390625",
+            "longitude_deg": "-75.8208999633789",
+            "elevation_ft": "",
+            "iso_country": "CU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.14",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MUCU"
+        }
+    ]
 }

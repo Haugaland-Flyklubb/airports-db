@@ -85,5 +85,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guanajuato",
         "keywords": "Airports in Guanajuato"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86080",
+            "filename": "Leon_VOR-DME_MX",
+            "ident": "BJX",
+            "name": "Leon",
+            "type": "VOR-DME",
+            "frequency_khz": "115800",
+            "latitude_deg": "20.997299194335938",
+            "longitude_deg": "-101.48300170898438",
+            "elevation_ft": "5956",
+            "iso_country": "MX",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.004",
+            "magnetic_variation_deg": "6.514",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMLO"
+        }
+    ]
 }

@@ -123,5 +123,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87894",
+            "filename": "Ezeiza_VOR-DME_AR",
+            "ident": "EZE",
+            "name": "Ezeiza",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "-34.82419967651367",
+            "longitude_deg": "-58.535301208496094",
+            "elevation_ft": "66",
+            "iso_country": "AR",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-6.498",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAEZ"
+        }
+    ]
 }

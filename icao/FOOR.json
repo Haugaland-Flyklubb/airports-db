@@ -35,5 +35,29 @@
         "iso_country": "GA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ogoou%C3%A9-Lolo_Province",
         "keywords": "Airports in Ogooué-Lolo Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90611",
+            "filename": "Lastourville_NDB_GA",
+            "ident": "LV",
+            "name": "Lastourville",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "-0.8328750133514404",
+            "longitude_deg": "12.74899959564209",
+            "elevation_ft": "",
+            "iso_country": "GA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.58",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FOOR"
+        }
+    ]
 }

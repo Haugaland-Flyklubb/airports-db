@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
         "keywords": "Airports in Himachal Pradesh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86225",
+            "filename": "Bhuntar_NDB_IN",
+            "ident": "BNR",
+            "name": "Bhuntar",
+            "type": "NDB",
+            "frequency_khz": "334",
+            "latitude_deg": "31.88170051574707",
+            "longitude_deg": "77.15149688720703",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.214",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VIBR"
+        }
+    ]
 }

@@ -35,5 +35,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Cape",
         "keywords": "Airports in Northern Cape"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94816",
+            "filename": "Ulco_VOR_ZA",
+            "ident": "UCV",
+            "name": "Ulco",
+            "type": "VOR",
+            "frequency_khz": "114700",
+            "latitude_deg": "-28.40999984741211",
+            "longitude_deg": "24.325599670410156",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.455",
+            "usageType": "HI",
+            "power": "HIGH",
+            "associated_airport": "FAUC"
+        }
+    ]
 }

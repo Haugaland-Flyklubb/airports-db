@@ -85,5 +85,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California",
         "keywords": "Airports in Baja California"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91392",
+            "filename": "Mexicali_VOR-DME_MX",
+            "ident": "MXL",
+            "name": "Mexicali",
+            "type": "VOR-DME",
+            "frequency_khz": "115000",
+            "latitude_deg": "32.631099700927734",
+            "longitude_deg": "-115.23799896240234",
+            "elevation_ft": "74",
+            "iso_country": "MX",
+            "dme_frequency_khz": "115000",
+            "dme_channel": "097X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "13.002",
+            "magnetic_variation_deg": "12.111",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMML"
+        }
+    ]
 }

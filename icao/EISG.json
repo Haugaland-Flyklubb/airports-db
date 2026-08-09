@@ -85,5 +85,29 @@
         "iso_country": "IE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sligo",
         "keywords": "Airports in County Sligo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93724",
+            "filename": "Sligo_NDB-DME_IE",
+            "ident": "SLG",
+            "name": "Sligo",
+            "type": "NDB-DME",
+            "frequency_khz": "384",
+            "latitude_deg": "54.27870178222656",
+            "longitude_deg": "-8.591110229492188",
+            "elevation_ft": "15",
+            "iso_country": "IE",
+            "dme_frequency_khz": "109000",
+            "dme_channel": "027X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.182",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EISG"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kerala",
         "keywords": "Airports in Kerala"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86839",
+            "filename": "Calicut_NDB_IN",
+            "ident": "CL",
+            "name": "Calicut",
+            "type": "NDB",
+            "frequency_khz": "303",
+            "latitude_deg": "11.1427001953125",
+            "longitude_deg": "75.94779968261719",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.09",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOCL"
+        },
+        {
+            "id": "86849",
+            "filename": "Calicut_VOR-DME_IN",
+            "ident": "CLC",
+            "name": "Calicut",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "11.135100364685059",
+            "longitude_deg": "75.95480346679688",
+            "elevation_ft": "331",
+            "iso_country": "IN",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.011",
+            "magnetic_variation_deg": "-2.091",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOCL"
+        }
+    ]
 }

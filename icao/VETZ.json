@@ -59,5 +59,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Assam",
         "keywords": "Airports in Assam"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94298",
+            "filename": "Tezpur_VOR-DME_IN",
+            "ident": "TEZ",
+            "name": "Tezpur",
+            "type": "VOR-DME",
+            "frequency_khz": "117900",
+            "latitude_deg": "26.710800170898438",
+            "longitude_deg": "92.79949951171875",
+            "elevation_ft": "240",
+            "iso_country": "IN",
+            "dme_frequency_khz": "117900",
+            "dme_channel": "126X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.234",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VETZ"
+        },
+        {
+            "id": "94742",
+            "filename": "Tezpur_NDB_IN",
+            "ident": "TZ",
+            "name": "Tezpur",
+            "type": "NDB",
+            "frequency_khz": "208",
+            "latitude_deg": "26.710800170898438",
+            "longitude_deg": "92.79949951171875",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.234",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VETZ"
+        }
+    ]
 }

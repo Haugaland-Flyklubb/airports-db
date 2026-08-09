@@ -147,5 +147,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92913",
+            "filename": "Comox_NDB_CA",
+            "ident": "QQ",
+            "name": "Comox",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "49.75389862060547",
+            "longitude_deg": "-124.95800018310547",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.54",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYQQ"
+        },
+        {
+            "id": "94935",
+            "filename": "Comox_TACAN_CA",
+            "ident": "UQQ",
+            "name": "Comox",
+            "type": "TACAN",
+            "frequency_khz": "110400",
+            "latitude_deg": "49.712501525878906",
+            "longitude_deg": "-124.89399719238281",
+            "elevation_ft": "80",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110400",
+            "dme_channel": "041X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "19.001",
+            "magnetic_variation_deg": "18.525",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYQQ"
+        }
+    ]
 }

@@ -123,5 +123,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Occitania_(administrative_region)",
         "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88014",
+            "filename": "Mediterranee_VOR-DME_FR",
+            "ident": "FJR",
+            "name": "Mediterranee",
+            "type": "VOR-DME",
+            "frequency_khz": "114450",
+            "latitude_deg": "43.578399658203125",
+            "longitude_deg": "3.974720001220703",
+            "elevation_ft": "17",
+            "iso_country": "FR",
+            "dme_frequency_khz": "114450",
+            "dme_channel": "091Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-0.122",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFMT"
+        }
+    ]
 }

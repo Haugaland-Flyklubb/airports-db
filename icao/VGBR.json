@@ -69,5 +69,29 @@
         "iso_country": "BD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Barisal_Division",
         "keywords": "Barisal bibhag"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86123",
+            "filename": "Barisal_NDB_BD",
+            "ident": "BL",
+            "name": "Barisal",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "22.797800064086914",
+            "longitude_deg": "90.29779815673828",
+            "elevation_ft": "",
+            "iso_country": "BD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.337",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VGBR"
+        }
+    ]
 }

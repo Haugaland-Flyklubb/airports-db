@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95193",
+            "filename": "Lumsden_VORTAC_CA",
+            "ident": "VLN",
+            "name": "Lumsden",
+            "type": "VORTAC",
+            "frequency_khz": "114200",
+            "latitude_deg": "50.66699981689453",
+            "longitude_deg": "-104.88999938964844",
+            "elevation_ft": "1895",
+            "iso_country": "CA",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.001",
+            "magnetic_variation_deg": "10.459",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CKH8"
+        }
+    ]
 }

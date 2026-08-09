@@ -139,5 +139,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
         "keywords": "Airports in Ohio"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87978",
+            "filename": "Patterson_TACAN_US",
+            "ident": "FFO",
+            "name": "Patterson",
+            "type": "TACAN",
+            "frequency_khz": "115200",
+            "latitude_deg": "39.819000244140625",
+            "longitude_deg": "-84.05549621582031",
+            "elevation_ft": "804",
+            "iso_country": "US",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.005",
+            "magnetic_variation_deg": "-5.379",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KFFO"
+        }
+    ]
 }

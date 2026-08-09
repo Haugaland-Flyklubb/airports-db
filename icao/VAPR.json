@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
         "keywords": "Airports in Gujarat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92663",
+            "filename": "Porbandar_NDB_IN",
+            "ident": "PR",
+            "name": "Porbandar",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "21.641199111938477",
+            "longitude_deg": "69.66259765625",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.178",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VAPR"
+        }
+    ]
 }

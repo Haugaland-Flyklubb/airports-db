@@ -69,5 +69,29 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bragança_District",
         "keywords": "Airports in Bragança District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86314",
+            "filename": "Braganca_NDB_PT",
+            "ident": "BRG",
+            "name": "Braganca",
+            "type": "NDB",
+            "frequency_khz": "358",
+            "latitude_deg": "41.79669952392578",
+            "longitude_deg": "-6.725279808044434",
+            "elevation_ft": "2241",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.23",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPBG"
+        }
+    ]
 }

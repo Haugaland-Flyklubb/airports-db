@@ -69,5 +69,29 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jämtlande_län",
         "keywords": "Jämtland County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92193",
+            "filename": "Sveg_NDB_SE",
+            "ident": "OY",
+            "name": "Sveg",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "62.0453987121582",
+            "longitude_deg": "14.32610034942627",
+            "elevation_ft": "1176",
+            "iso_country": "SE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.53",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ESND"
+        }
+    ]
 }

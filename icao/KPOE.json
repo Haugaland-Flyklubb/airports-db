@@ -133,5 +133,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
         "keywords": "Airports in Louisiana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88214",
+            "filename": "Polk_VORTAC_US",
+            "ident": "FXU",
+            "name": "Polk",
+            "type": "VORTAC",
+            "frequency_khz": "108400",
+            "latitude_deg": "31.111600875854492",
+            "longitude_deg": "-93.21790313720703",
+            "elevation_ft": "315",
+            "iso_country": "US",
+            "dme_frequency_khz": "108400",
+            "dme_channel": "021X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.001",
+            "magnetic_variation_deg": "2.297",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KPOE"
+        },
+        {
+            "id": "88635",
+            "filename": "Gator_NDB_US",
+            "ident": "GUV",
+            "name": "Gator",
+            "type": "NDB",
+            "frequency_khz": "359",
+            "latitude_deg": "31.028200149536133",
+            "longitude_deg": "-93.18489837646484",
+            "elevation_ft": "348",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.288",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KPOE"
+        }
+    ]
 }

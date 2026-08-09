@@ -109,5 +109,51 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Gyeongsang_Province",
         "keywords": "Airports in Gyeongsangbuk-do"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87115",
+            "filename": "Yecheon_VOR-DME_KR",
+            "ident": "CUN",
+            "name": "Yecheon",
+            "type": "VOR-DME",
+            "frequency_khz": "114800",
+            "latitude_deg": "36.63199996948242",
+            "longitude_deg": "128.3249969482422",
+            "elevation_ft": "400",
+            "iso_country": "KR",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.384",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RKTY"
+        },
+        {
+            "id": "95639",
+            "filename": "Yecheon_TACAN_KR",
+            "ident": "YCN",
+            "name": "Yecheon",
+            "type": "TACAN",
+            "frequency_khz": "108900",
+            "latitude_deg": "36.63410186767578",
+            "longitude_deg": "128.36399841308594",
+            "elevation_ft": "354",
+            "iso_country": "KR",
+            "dme_frequency_khz": "108900",
+            "dme_channel": "026X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.386",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKTY"
+        }
+    ]
 }

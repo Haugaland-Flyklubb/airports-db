@@ -77,5 +77,51 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Piura_Region",
         "keywords": "Airports in Piura Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94942",
+            "filename": "Piura_VOR-DME_PE",
+            "ident": "URA",
+            "name": "Piura",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "-5.210000038146973",
+            "longitude_deg": "-80.61609649658203",
+            "elevation_ft": "174",
+            "iso_country": "PE",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.463",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPUR"
+        },
+        {
+            "id": "94943",
+            "filename": "Piura_NDB_PE",
+            "ident": "URA",
+            "name": "Piura",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "-5.211669921875",
+            "longitude_deg": "-80.61720275878906",
+            "elevation_ft": "174",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.463",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "SPUR"
+        }
+    ]
 }

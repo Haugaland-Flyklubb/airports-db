@@ -85,5 +85,29 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arequipa_Region",
         "keywords": "Airports in Arequipa Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87792",
+            "filename": "Arequipa_VOR-DME_PE",
+            "ident": "EQU",
+            "name": "Arequipa",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "-16.338899612426758",
+            "longitude_deg": "-71.59750366210938",
+            "elevation_ft": "8405",
+            "iso_country": "PE",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-2.536",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPQU"
+        }
+    ]
 }

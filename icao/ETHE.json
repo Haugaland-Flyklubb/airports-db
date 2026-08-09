@@ -93,5 +93,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
         "keywords": "Nordrhein-Westfalen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85949",
+            "filename": "Rheine_Bentlage_NDB_DE",
+            "ident": "BET",
+            "name": "Rheine Bentlage",
+            "type": "NDB",
+            "frequency_khz": "402",
+            "latitude_deg": "52.28779983520508",
+            "longitude_deg": "7.385670185089111",
+            "elevation_ft": "219",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.169",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ETHE"
+        }
+    ]
 }

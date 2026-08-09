@@ -59,5 +59,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maluku",
         "keywords": "Airports in Maluku"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85431",
+            "filename": "Amahai_NDB_ID",
+            "ident": "AM",
+            "name": "Amahai",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "-3.3475000858306885",
+            "longitude_deg": "128.92599487304688",
+            "elevation_ft": "30",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.089",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAPA"
+        }
+    ]
 }

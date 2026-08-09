@@ -131,5 +131,51 @@
         "iso_country": "DO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Distrito_Nacional",
         "keywords": "Santo Domingo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86665",
+            "filename": "Punta_Caucedo_VOR-DME_DO",
+            "ident": "CDO",
+            "name": "Punta Caucedo",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "18.432899475097656",
+            "longitude_deg": "-69.66729736328125",
+            "elevation_ft": "77",
+            "iso_country": "DO",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.007",
+            "magnetic_variation_deg": "-10.404",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MDSD"
+        },
+        {
+            "id": "90175",
+            "filename": "Guerra_NDB_DO",
+            "ident": "LAS",
+            "name": "Guerra",
+            "type": "NDB",
+            "frequency_khz": "200",
+            "latitude_deg": "18.578100204467773",
+            "longitude_deg": "-69.72440338134766",
+            "elevation_ft": "57",
+            "iso_country": "DO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.398",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "MDSD"
+        }
+    ]
 }

@@ -85,5 +85,29 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Abaco",
         "keywords": "Airports in Central Abaco"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96122",
+            "filename": "Treasure_Cay_VOR-DME_BS",
+            "ident": "ZTC",
+            "name": "Treasure Cay",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "26.734800338745117",
+            "longitude_deg": "-77.37920379638672",
+            "elevation_ft": "8",
+            "iso_country": "BS",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.002",
+            "magnetic_variation_deg": "-7.343",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MYAT"
+        }
+    ]
 }

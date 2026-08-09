@@ -115,5 +115,29 @@
         "iso_country": "SG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_West",
         "keywords": "Airports in North West"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85299",
+            "filename": "Sembawang_NDB_SG",
+            "ident": "AG",
+            "name": "Sembawang",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "1.4233299493789673",
+            "longitude_deg": "103.822998046875",
+            "elevation_ft": "86",
+            "iso_country": "SG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.141",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "WSAG"
+        }
+    ]
 }

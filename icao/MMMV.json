@@ -91,5 +91,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Coahuila",
         "keywords": "Airports in Coahuila"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91186",
+            "filename": "Monclova_VOR-DME_MX",
+            "ident": "MOV",
+            "name": "Monclova",
+            "type": "VOR-DME",
+            "frequency_khz": "117900",
+            "latitude_deg": "26.95549964904785",
+            "longitude_deg": "-101.47100067138672",
+            "elevation_ft": "1864",
+            "iso_country": "MX",
+            "dme_frequency_khz": "117900",
+            "dme_channel": "126X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.001",
+            "magnetic_variation_deg": "6.597",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMMV"
+        }
+    ]
 }

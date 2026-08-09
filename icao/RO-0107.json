@@ -85,5 +85,51 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Olt_County",
         "keywords": "Southern Romania (Wallachia), Wallachian"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87228",
+            "filename": "Deveselu_NDB_RO",
+            "ident": "D",
+            "name": "Deveselu",
+            "type": "NDB",
+            "frequency_khz": "432",
+            "latitude_deg": "44.08470153808594",
+            "longitude_deg": "24.38610076904297",
+            "elevation_ft": "",
+            "iso_country": "RO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.004",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "RO-0107"
+        },
+        {
+            "id": "87250",
+            "filename": "Deveselu_West_NDB_RO",
+            "ident": "DA",
+            "name": "Deveselu West",
+            "type": "NDB",
+            "frequency_khz": "214",
+            "latitude_deg": "44.09000015258789",
+            "longitude_deg": "24.34939956665039",
+            "elevation_ft": "",
+            "iso_country": "RO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.001",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "RO-0107"
+        }
+    ]
 }

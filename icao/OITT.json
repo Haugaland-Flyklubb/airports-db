@@ -107,5 +107,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/East_Azerbaijan_Province",
         "keywords": "Airports in East Azerbaijan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94245",
+            "filename": "Tabriz_VORTAC_IR",
+            "ident": "TBZ",
+            "name": "Tabriz",
+            "type": "VORTAC",
+            "frequency_khz": "112000",
+            "latitude_deg": "38.13909912109375",
+            "longitude_deg": "46.230899810791016",
+            "elevation_ft": "4490",
+            "iso_country": "IR",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.001",
+            "magnetic_variation_deg": "4.485",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OITT"
+        },
+        {
+            "id": "94246",
+            "filename": "Tabriz_NDB_IR",
+            "ident": "TBZ",
+            "name": "Tabriz",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "38.120201110839844",
+            "longitude_deg": "46.2406005859375",
+            "elevation_ft": "4432",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.483",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OITT"
+        }
+    ]
 }

@@ -59,5 +59,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sinop_Province",
         "keywords": "Airports in Sinop Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93624",
+            "filename": "Sinop_VOR-DME_TR",
+            "ident": "SIN",
+            "name": "Sinop",
+            "type": "VOR-DME",
+            "frequency_khz": "114000",
+            "latitude_deg": "42.02220153808594",
+            "longitude_deg": "35.076698303222656",
+            "elevation_ft": "49",
+            "iso_country": "TR",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "5.068",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTCM"
+        },
+        {
+            "id": "93625",
+            "filename": "Sinop_NDB_TR",
+            "ident": "SIN",
+            "name": "Sinop",
+            "type": "NDB",
+            "frequency_khz": "465",
+            "latitude_deg": "42.02220153808594",
+            "longitude_deg": "35.076698303222656",
+            "elevation_ft": "21",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.068",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LTCM"
+        }
+    ]
 }

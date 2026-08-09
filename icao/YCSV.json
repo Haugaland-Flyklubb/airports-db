@@ -93,5 +93,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87070",
+            "filename": "Collinsville_VOR_AU",
+            "ident": "CSV",
+            "name": "Collinsville",
+            "type": "VOR",
+            "frequency_khz": "112200",
+            "latitude_deg": "-20.591400146484375",
+            "longitude_deg": "147.78500366210938",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.007",
+            "magnetic_variation_deg": "8.14",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YCSV"
+        }
+    ]
 }

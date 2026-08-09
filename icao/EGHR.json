@@ -135,5 +135,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88654",
+            "filename": "Goodwood_VOR-DME_GB",
+            "ident": "GWC",
+            "name": "Goodwood",
+            "type": "VOR-DME",
+            "frequency_khz": "114750",
+            "latitude_deg": "50.85530090332031",
+            "longitude_deg": "-0.7566670179367065",
+            "elevation_ft": "113",
+            "iso_country": "GB",
+            "dme_frequency_khz": "114750",
+            "dme_channel": "094Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.807",
+            "magnetic_variation_deg": "-2.25",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EGHR"
+        }
+    ]
 }

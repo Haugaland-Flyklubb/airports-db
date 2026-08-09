@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95684",
+            "filename": "Gillam_NDB_CA",
+            "ident": "YGX",
+            "name": "Gillam",
+            "type": "NDB",
+            "frequency_khz": "212",
+            "latitude_deg": "56.35329818725586",
+            "longitude_deg": "-94.69999694824219",
+            "elevation_ft": "476",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.112",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYGX"
+        }
+    ]
 }

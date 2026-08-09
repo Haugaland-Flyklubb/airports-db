@@ -147,5 +147,29 @@
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Taoyuan,_Taiwan",
         "keywords": "Airports in Taoyuan City"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94359",
+            "filename": "Chiang_Kai_Shek_VOR-DME_TW",
+            "ident": "TIA",
+            "name": "Chiang Kai Shek",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "25.08839988708496",
+            "longitude_deg": "121.23300170898438",
+            "elevation_ft": "80",
+            "iso_country": "TW",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.011",
+            "magnetic_variation_deg": "-3.414",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "RCTP"
+        }
+    ]
 }

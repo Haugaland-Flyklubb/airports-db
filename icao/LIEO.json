@@ -85,5 +85,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sardinia",
         "keywords": "SD"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93772",
+            "filename": "Olbia_Costa_Smeralda_VOR-DME_IT",
+            "ident": "SME",
+            "name": "Olbia Costa Smeralda",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "40.88999938964844",
+            "longitude_deg": "9.501179695129395",
+            "elevation_ft": "64",
+            "iso_country": "IT",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "40.8902",
+            "dme_longitude_deg": "9.50056",
+            "dme_elevation_ft": "64",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.093",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "LIEO"
+        },
+        {
+            "id": "93774",
+            "filename": "Olbia_Costa_Smeralda_NDB_IT",
+            "ident": "SME",
+            "name": "Olbia Costa Smeralda",
+            "type": "NDB",
+            "frequency_khz": "357",
+            "latitude_deg": "40.89360046386719",
+            "longitude_deg": "9.502289772033691",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.093",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LIEO"
+        }
+    ]
 }

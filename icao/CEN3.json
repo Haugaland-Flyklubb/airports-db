@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95955",
+            "filename": "Three_Hills_NDB_CA",
+            "ident": "Z1",
+            "name": "Three Hills",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "51.697200775146484",
+            "longitude_deg": "-113.21700286865234",
+            "elevation_ft": "2975",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.033",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CEN3"
+        }
+    ]
 }

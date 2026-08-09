@@ -149,5 +149,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
         "keywords": "Airports in North Carolina"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88594",
+            "filename": "Seymour_Johnson_TACAN_US",
+            "ident": "GSB",
+            "name": "Seymour Johnson",
+            "type": "TACAN",
+            "frequency_khz": "116500",
+            "latitude_deg": "35.334999084472656",
+            "longitude_deg": "-77.97160339355469",
+            "elevation_ft": "82",
+            "iso_country": "US",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.006",
+            "magnetic_variation_deg": "-9.053",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KGSB"
+        }
+    ]
 }

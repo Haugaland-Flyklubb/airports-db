@@ -77,5 +77,51 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Melilla",
         "keywords": "Airports in Melilla"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90868",
+            "filename": "Melilla_VOR-DME_ES",
+            "ident": "MEL",
+            "name": "Melilla",
+            "type": "VOR-DME",
+            "frequency_khz": "114250",
+            "latitude_deg": "35.280399322509766",
+            "longitude_deg": "-2.958169937133789",
+            "elevation_ft": "200",
+            "iso_country": "ES",
+            "dme_frequency_khz": "114250",
+            "dme_channel": "089Y",
+            "dme_latitude_deg": "35.2803",
+            "dme_longitude_deg": "-2.95828",
+            "dme_elevation_ft": "200",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.51",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "GEML"
+        },
+        {
+            "id": "91065",
+            "filename": "Melilla_DME_ES",
+            "ident": "MLL",
+            "name": "Melilla",
+            "type": "DME",
+            "frequency_khz": "117400",
+            "latitude_deg": "35.30739974975586",
+            "longitude_deg": "-2.9554200172424316",
+            "elevation_ft": "381",
+            "iso_country": "ES",
+            "dme_frequency_khz": "117400",
+            "dme_channel": "121X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.51",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "GEML"
+        }
+    ]
 }

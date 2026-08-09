@@ -69,5 +69,29 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sulu_Province",
         "keywords": "Airports in Sulu Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89504",
+            "filename": "Jolo_NDB_PH",
+            "ident": "JL",
+            "name": "Jolo",
+            "type": "NDB",
+            "frequency_khz": "404",
+            "latitude_deg": "6.055570125579834",
+            "longitude_deg": "121.01799774169922",
+            "elevation_ft": "118",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.156",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPMJ"
+        }
+    ]
 }

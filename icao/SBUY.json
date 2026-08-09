@@ -59,5 +59,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)",
         "keywords": "Airports in Amazonas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94948",
+            "filename": "Coari_NDB_BR",
+            "ident": "URC",
+            "name": "Coari",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "-4.886109828948975",
+            "longitude_deg": "-65.34919738769531",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.243",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "SBUY"
+        }
+    ]
 }

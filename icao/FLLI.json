@@ -99,5 +99,51 @@
         "iso_country": "ZM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Province,_Zambia",
         "keywords": "Airports in Southern Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90677",
+            "filename": "Livingstone_NDB_ZM",
+            "ident": "LZ",
+            "name": "Livingstone",
+            "type": "NDB",
+            "frequency_khz": "308",
+            "latitude_deg": "-17.82029914855957",
+            "longitude_deg": "25.80109977722168",
+            "elevation_ft": "",
+            "iso_country": "ZM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.493",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FLLI"
+        },
+        {
+            "id": "95189",
+            "filename": "Livingstone_VOR_ZM",
+            "ident": "VLI",
+            "name": "Livingstone",
+            "type": "VOR",
+            "frequency_khz": "112500",
+            "latitude_deg": "-17.812599182128906",
+            "longitude_deg": "25.81999969482422",
+            "elevation_ft": "3302",
+            "iso_country": "ZM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.49",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FLLI"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/El_Beni_Department",
         "keywords": "Airports in El Beni Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90916",
+            "filename": "Magdalena_NDB_BO",
+            "ident": "MGD",
+            "name": "Magdalena",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "-13.262100219726562",
+            "longitude_deg": "-64.07499694824219",
+            "elevation_ft": "",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.554",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SLMG"
+        }
+    ]
 }

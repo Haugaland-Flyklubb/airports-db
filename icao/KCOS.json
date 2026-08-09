@@ -201,5 +201,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
         "keywords": "Airports in Colorado"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86933",
+            "filename": "Petey_NDB_US",
+            "ident": "CO",
+            "name": "Petey",
+            "type": "NDB",
+            "frequency_khz": "407",
+            "latitude_deg": "38.69430160522461",
+            "longitude_deg": "-104.71600341796875",
+            "elevation_ft": "5570",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.214",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KCOS"
+        }
+    ]
 }

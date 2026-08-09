@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bihar",
         "keywords": "Airports in Bihar"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92648",
+            "filename": "Patna_VOR-DME_IN",
+            "ident": "PPT",
+            "name": "Patna",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "25.59040069580078",
+            "longitude_deg": "85.08989715576172",
+            "elevation_ft": "167",
+            "iso_country": "IN",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.089",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VEPT"
+        }
+    ]
 }

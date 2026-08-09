@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91442",
+            "filename": "Tumbler_NDB_CA",
+            "ident": "N9",
+            "name": "Tumbler",
+            "type": "NDB",
+            "frequency_khz": "346",
+            "latitude_deg": "55.026100158691406",
+            "longitude_deg": "-120.93599700927734",
+            "elevation_ft": "3075",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "20.13",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CBX7"
+        }
+    ]
 }

@@ -107,5 +107,51 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Savo",
         "keywords": "Airports in Northern Savonia Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90059",
+            "filename": "Kurki_NDB_FI",
+            "ident": "KUR",
+            "name": "Kurki",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "62.92250061035156",
+            "longitude_deg": "27.878000259399414",
+            "elevation_ft": "",
+            "iso_country": "FI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.072",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EFKU"
+        },
+        {
+            "id": "95087",
+            "filename": "Vehkaa_VOR-DME_FI",
+            "ident": "VEH",
+            "name": "Vehkaa",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "62.979801177978516",
+            "longitude_deg": "27.813800811767578",
+            "elevation_ft": "481",
+            "iso_country": "FI",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.007",
+            "magnetic_variation_deg": "9.066",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EFKU"
+        }
+    ]
 }

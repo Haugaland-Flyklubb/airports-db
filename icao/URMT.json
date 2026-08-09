@@ -77,5 +77,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Stavropol_Krai",
         "keywords": "Airports in Stavropol Krai"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90020",
+            "filename": "Stavropol_NDB_RU",
+            "ident": "KT",
+            "name": "Stavropol",
+            "type": "NDB",
+            "frequency_khz": "730",
+            "latitude_deg": "45.121700286865234",
+            "longitude_deg": "42.18170166015625",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.335",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "URMT"
+        },
+        {
+            "id": "92053",
+            "filename": "Stavropol_NDB_RU",
+            "ident": "OP",
+            "name": "Stavropol",
+            "type": "NDB",
+            "frequency_khz": "730",
+            "latitude_deg": "45.09830093383789",
+            "longitude_deg": "42.04999923706055",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.324",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "URMT"
+        }
+    ]
 }

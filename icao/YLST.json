@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90555",
+            "filename": "Leinster_NDB_AU",
+            "ident": "LST",
+            "name": "Leinster",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-27.840599060058594",
+            "longitude_deg": "120.69999694824219",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.258",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YLST"
+        }
+    ]
 }

@@ -101,5 +101,51 @@
         "iso_country": "AF",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kandahar_Province",
         "keywords": "Airports in Kandahar Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89641",
+            "filename": "Kandahar_TACAN_AF",
+            "ident": "KAF",
+            "name": "Kandahar",
+            "type": "TACAN",
+            "frequency_khz": "112800",
+            "latitude_deg": "31.505699157714844",
+            "longitude_deg": "65.84860229492188",
+            "elevation_ft": "3314",
+            "iso_country": "AF",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.579",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OAKN"
+        },
+        {
+            "id": "91977",
+            "filename": "Kandahar_NDB_AF",
+            "ident": "OKN",
+            "name": "Kandahar",
+            "type": "NDB",
+            "frequency_khz": "172",
+            "latitude_deg": "31.499399185180664",
+            "longitude_deg": "65.85260009765625",
+            "elevation_ft": "3280",
+            "iso_country": "AF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.578",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OAKN"
+        }
+    ]
 }

@@ -99,5 +99,51 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Annaba_Province",
         "keywords": "Airports in Annaba Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85481",
+            "filename": "Annaba_VOR-DME_DZ",
+            "ident": "ANB",
+            "name": "Annaba",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "36.81669998168945",
+            "longitude_deg": "7.800000190734863",
+            "elevation_ft": "16",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "0.471",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DABB"
+        },
+        {
+            "id": "85482",
+            "filename": "Annaba_NDB_DZ",
+            "ident": "ANB",
+            "name": "Annaba",
+            "type": "NDB",
+            "frequency_khz": "366",
+            "latitude_deg": "36.81809997558594",
+            "longitude_deg": "7.802499771118164",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.472",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DABB"
+        }
+    ]
 }

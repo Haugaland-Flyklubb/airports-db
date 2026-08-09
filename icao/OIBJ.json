@@ -69,5 +69,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bushehr_Province",
         "keywords": "Airports in Bushehr Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89431",
+            "filename": "Jam_VOR-DME_IR",
+            "ident": "JAM",
+            "name": "Jam",
+            "type": "VOR-DME",
+            "frequency_khz": "116800",
+            "latitude_deg": "27.821800231933594",
+            "longitude_deg": "52.342899322509766",
+            "elevation_ft": "2173",
+            "iso_country": "IR",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.165",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIBJ"
+        },
+        {
+            "id": "89432",
+            "filename": "Jam_NDB_IR",
+            "ident": "JAM",
+            "name": "Jam",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "27.823200225830078",
+            "longitude_deg": "52.339599609375",
+            "elevation_ft": "2173",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.165",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIBJ"
+        }
+    ]
 }

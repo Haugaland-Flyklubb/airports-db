@@ -77,5 +77,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Loei_province",
         "keywords": "Airports in Loei Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90486",
+            "filename": "Loei_VOR-DME_TH",
+            "ident": "LOY",
+            "name": "Loei",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "17.447099685668945",
+            "longitude_deg": "101.7229995727539",
+            "elevation_ft": "860",
+            "iso_country": "TH",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-0.434",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTUL"
+        },
+        {
+            "id": "90658",
+            "filename": "Loei_NDB_TH",
+            "ident": "LY",
+            "name": "Loei",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "17.44860076904297",
+            "longitude_deg": "101.72699737548828",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.434",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTUL"
+        }
+    ]
 }

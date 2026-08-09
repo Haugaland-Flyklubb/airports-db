@@ -93,5 +93,51 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87918",
+            "filename": "Tahiti_Faaa_NDB_PF",
+            "ident": "FA",
+            "name": "Tahiti Faaa",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-17.55299949645996",
+            "longitude_deg": "-149.61399841308594",
+            "elevation_ft": "10",
+            "iso_country": "PF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.449",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "NTAA"
+        },
+        {
+            "id": "94173",
+            "filename": "Tahiti_Faaa_VOR-DME_PF",
+            "ident": "TAF",
+            "name": "Tahiti Faaa",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "-17.547100067138672",
+            "longitude_deg": "-149.6020050048828",
+            "elevation_ft": "36",
+            "iso_country": "PF",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.007",
+            "magnetic_variation_deg": "12.448",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NTAA"
+        }
+    ]
 }

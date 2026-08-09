@@ -69,5 +69,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
         "keywords": "Welsh airports, Cymru, Meysydd awyr Cymru"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85532",
+            "filename": "Aberporth_NDB_GB",
+            "ident": "AP",
+            "name": "Aberporth",
+            "type": "NDB",
+            "frequency_khz": "371",
+            "latitude_deg": "52.11629867553711",
+            "longitude_deg": "-4.559830188751221",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.07",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGFA"
+        }
+    ]
 }

@@ -99,5 +99,51 @@
         "iso_country": "ZW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Masvingo_Province",
         "keywords": "Airports in Masvingo Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91274",
+            "filename": "Masvingo_NDB_ZW",
+            "ident": "MS",
+            "name": "Masvingo",
+            "type": "NDB",
+            "frequency_khz": "317",
+            "latitude_deg": "-20.01020050048828",
+            "longitude_deg": "30.843900680541992",
+            "elevation_ft": "",
+            "iso_country": "ZW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.389",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FVMV"
+        },
+        {
+            "id": "95214",
+            "filename": "Masvingo_VOR-DME_ZW",
+            "ident": "VMV",
+            "name": "Masvingo",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "-20.056800842285156",
+            "longitude_deg": "30.853599548339844",
+            "elevation_ft": "3600",
+            "iso_country": "ZW",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.007",
+            "magnetic_variation_deg": "-10.423",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FVMV"
+        }
+    ]
 }

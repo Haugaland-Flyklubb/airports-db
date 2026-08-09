@@ -69,5 +69,29 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Marrakesh-Safi",
         "keywords": "مراكش آسفي"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87844",
+            "filename": "Essaouira_VOR-DME_MA",
+            "ident": "ESS",
+            "name": "Essaouira",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "31.401199340820312",
+            "longitude_deg": "-9.686960220336914",
+            "elevation_ft": "39",
+            "iso_country": "MA",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.598",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMMI"
+        }
+    ]
 }

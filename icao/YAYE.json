@@ -85,5 +85,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
         "keywords": "Airports in Northern Territory"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85733",
+            "filename": "Ayers_Rock_NDB-DME_AU",
+            "ident": "AYE",
+            "name": "Ayers Rock",
+            "type": "NDB-DME",
+            "frequency_khz": "233",
+            "latitude_deg": "-25.172800064086914",
+            "longitude_deg": "130.97500610351562",
+            "elevation_ft": "1636",
+            "iso_country": "AU",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "-25.1714",
+            "dme_longitude_deg": "130.975",
+            "dme_elevation_ft": "1636",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.285",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YAYE"
+        }
+    ]
 }

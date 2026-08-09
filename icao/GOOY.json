@@ -115,5 +115,51 @@
         "iso_country": "SN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dakar_Region",
         "keywords": "Airports in Dakar Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93488",
+            "filename": "Dakar_NDB_SN",
+            "ident": "SDS",
+            "name": "Dakar",
+            "type": "NDB",
+            "frequency_khz": "323",
+            "latitude_deg": "14.716699600219727",
+            "longitude_deg": "-17.483299255371094",
+            "elevation_ft": "144",
+            "iso_country": "SN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.496",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GOOY"
+        },
+        {
+            "id": "95663",
+            "filename": "Dakar_VOR-DME_SN",
+            "ident": "YF",
+            "name": "Dakar",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "14.744799613952637",
+            "longitude_deg": "-17.47480010986328",
+            "elevation_ft": "111",
+            "iso_country": "SN",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.007",
+            "magnetic_variation_deg": "-8.49",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GOOY"
+        }
+    ]
 }

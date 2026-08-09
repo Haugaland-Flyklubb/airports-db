@@ -147,5 +147,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
         "keywords": "Airports in Colorado"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89520",
+            "filename": "Grand_Junction_VORTAC_US",
+            "ident": "JNC",
+            "name": "Grand Junction",
+            "type": "VORTAC",
+            "frequency_khz": "112400",
+            "latitude_deg": "39.059600830078125",
+            "longitude_deg": "-108.79299926757812",
+            "elevation_ft": "7100",
+            "iso_country": "US",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "11.182",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KGJT"
+        }
+    ]
 }

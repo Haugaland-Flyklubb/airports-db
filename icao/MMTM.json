@@ -121,5 +121,51 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tamaulipas",
         "keywords": "Airports in Tamaulipas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94183",
+            "filename": "Tampico_VOR-DME_MX",
+            "ident": "TAM",
+            "name": "Tampico",
+            "type": "VOR-DME",
+            "frequency_khz": "117500",
+            "latitude_deg": "22.289600372314453",
+            "longitude_deg": "-97.86299896240234",
+            "elevation_ft": "80",
+            "iso_country": "MX",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.004",
+            "magnetic_variation_deg": "5.24",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMTM"
+        },
+        {
+            "id": "94186",
+            "filename": "Tampico_NDB_MX",
+            "ident": "TAM",
+            "name": "Tampico",
+            "type": "NDB",
+            "frequency_khz": "413",
+            "latitude_deg": "22.28809928894043",
+            "longitude_deg": "-97.86750030517578",
+            "elevation_ft": "80",
+            "iso_country": "MX",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.241",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MMTM"
+        }
+    ]
 }

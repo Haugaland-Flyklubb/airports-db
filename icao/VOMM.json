@@ -131,5 +131,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tamil_Nadu",
         "keywords": "Airports in Tamil Nadu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90701",
+            "filename": "Chennai_NDB_IN",
+            "ident": "MA",
+            "name": "Chennai",
+            "type": "NDB",
+            "frequency_khz": "228",
+            "latitude_deg": "12.955599784851074",
+            "longitude_deg": "80.07489776611328",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.472",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "VOMM"
+        },
+        {
+            "id": "91098",
+            "filename": "Chennai_VOR-DME_IN",
+            "ident": "MMV",
+            "name": "Chennai",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "12.993399620056152",
+            "longitude_deg": "80.17070007324219",
+            "elevation_ft": "51",
+            "iso_country": "IN",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.011",
+            "magnetic_variation_deg": "-1.467",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOMM"
+        }
+    ]
 }

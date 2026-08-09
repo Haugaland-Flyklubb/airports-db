@@ -77,5 +77,51 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Esmeraldas_Province",
         "keywords": "Airports in Esmeraldas Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87835",
+            "filename": "Esmeraldas_NDB_EC",
+            "ident": "ESM",
+            "name": "Esmeraldas",
+            "type": "NDB",
+            "frequency_khz": "215",
+            "latitude_deg": "0.9708330035209656",
+            "longitude_deg": "-79.62940216064453",
+            "elevation_ft": "32",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.105",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SETN"
+        },
+        {
+            "id": "87849",
+            "filename": "Esmeraldas_VOR-DME_EC",
+            "ident": "ESV",
+            "name": "Esmeraldas",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "0.9890829920768738",
+            "longitude_deg": "-79.62670135498047",
+            "elevation_ft": "26",
+            "iso_country": "EC",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "-1.108",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SETN"
+        }
+    ]
 }

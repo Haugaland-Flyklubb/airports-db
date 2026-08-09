@@ -107,5 +107,29 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Chungcheong_Province",
         "keywords": "Airports in Chungcheongnam-do"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91725",
+            "filename": "Nonsan_VOR-DME_KR",
+            "ident": "NSN",
+            "name": "Nonsan",
+            "type": "VOR-DME",
+            "frequency_khz": "117500",
+            "latitude_deg": "36.2672004699707",
+            "longitude_deg": "127.11900329589844",
+            "elevation_ft": "104",
+            "iso_country": "KR",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.253",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RKUL"
+        }
+    ]
 }

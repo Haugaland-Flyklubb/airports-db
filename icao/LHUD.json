@@ -135,5 +135,51 @@
         "iso_country": "HU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Csongrád-Csanád_County",
         "keywords": "Airports in Csongrád-Csanád County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88231",
+            "filename": "Szeged_NDB_HU",
+            "ident": "G",
+            "name": "Szeged",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "46.26060104370117",
+            "longitude_deg": "20.090700149536133",
+            "elevation_ft": "",
+            "iso_country": "HU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.279",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LHUD"
+        },
+        {
+            "id": "96016",
+            "filename": "Szeged_NDB_HU",
+            "ident": "ZG",
+            "name": "Szeged",
+            "type": "NDB",
+            "frequency_khz": "445",
+            "latitude_deg": "46.293399810791016",
+            "longitude_deg": "20.090700149536133",
+            "elevation_ft": "",
+            "iso_country": "HU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.281",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LHUD"
+        }
+    ]
 }

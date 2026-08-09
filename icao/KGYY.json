@@ -139,5 +139,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
         "keywords": "Airports in Indiana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88666",
+            "filename": "Garie_NDB_US",
+            "ident": "GY",
+            "name": "Garie",
+            "type": "NDB",
+            "frequency_khz": "236",
+            "latitude_deg": "41.5723991394043",
+            "longitude_deg": "-87.3270034790039",
+            "elevation_ft": "587",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.184",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KGYY"
+        }
+    ]
 }

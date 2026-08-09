@@ -77,5 +77,29 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ayacucho_Region",
         "keywords": "Airports in Ayacucho Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85732",
+            "filename": "Ayacucho_NDB_PE",
+            "ident": "AYA",
+            "name": "Ayacucho",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "-13.151900291442871",
+            "longitude_deg": "-74.2052993774414",
+            "elevation_ft": "8994",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.455",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SPHO"
+        }
+    ]
 }

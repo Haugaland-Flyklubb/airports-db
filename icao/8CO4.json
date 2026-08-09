@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
         "keywords": "Airports in Colorado"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86469",
+            "filename": "Byers_VOR-DME_US",
+            "ident": "BVR",
+            "name": "Byers",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "39.76580047607422",
+            "longitude_deg": "-103.9280014038086",
+            "elevation_ft": "5252",
+            "iso_country": "US",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.009",
+            "magnetic_variation_deg": "9.024",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "8CO4"
+        }
+    ]
 }

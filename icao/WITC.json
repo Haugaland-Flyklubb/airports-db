@@ -35,5 +35,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aceh",
         "keywords": "Airports in Aceh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90929",
+            "filename": "Meulaboh_NDB_ID",
+            "ident": "MH",
+            "name": "Meulaboh",
+            "type": "NDB",
+            "frequency_khz": "200",
+            "latitude_deg": "4.046309947967529",
+            "longitude_deg": "96.25039672851562",
+            "elevation_ft": "10",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.546",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WITC"
+        }
+    ]
 }

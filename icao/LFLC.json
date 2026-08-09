@@ -153,5 +153,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
         "keywords": "Airports in Auvergne-Rhône-Alpes"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86700",
+            "filename": "Clermont_VOR-DME_FR",
+            "ident": "CFA",
+            "name": "Clermont",
+            "type": "VOR-DME",
+            "frequency_khz": "114350",
+            "latitude_deg": "45.787498474121094",
+            "longitude_deg": "3.192189931869507",
+            "elevation_ft": "1093",
+            "iso_country": "FR",
+            "dme_frequency_khz": "114350",
+            "dme_channel": "090Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.333",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFLC"
+        }
+    ]
 }

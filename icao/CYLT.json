@@ -69,5 +69,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
         "keywords": "Airports in Nunavut"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90562",
+            "filename": "Alert_NDB_CA",
+            "ident": "LT",
+            "name": "Alert",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "82.52580261230469",
+            "longitude_deg": "-62.21139907836914",
+            "elevation_ft": "100",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-61.342",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYLT"
+        },
+        {
+            "id": "94893",
+            "filename": "Alert_TACAN_CA",
+            "ident": "ULT",
+            "name": "Alert",
+            "type": "TACAN",
+            "frequency_khz": "110700",
+            "latitude_deg": "82.51730346679688",
+            "longitude_deg": "-62.31169891357422",
+            "elevation_ft": "72",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110700",
+            "dme_channel": "044X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-61.384",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYLT"
+        }
+    ]
 }

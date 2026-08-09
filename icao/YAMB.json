@@ -139,5 +139,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85441",
+            "filename": "Amberley_TACAN_AU",
+            "ident": "AMB",
+            "name": "Amberley",
+            "type": "TACAN",
+            "frequency_khz": "114700",
+            "latitude_deg": "-27.641700744628906",
+            "longitude_deg": "152.71600341796875",
+            "elevation_ft": "91",
+            "iso_country": "AU",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.011",
+            "magnetic_variation_deg": "11.053",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YAMB"
+        },
+        {
+            "id": "85444",
+            "filename": "Amberley_NDB_AU",
+            "ident": "AMB",
+            "name": "Amberley",
+            "type": "NDB",
+            "frequency_khz": "359",
+            "latitude_deg": "-27.64889907836914",
+            "longitude_deg": "152.7239990234375",
+            "elevation_ft": "91",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.055",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YAMB"
+        }
+    ]
 }

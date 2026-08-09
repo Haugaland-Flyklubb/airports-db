@@ -85,5 +85,29 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lombardy",
         "keywords": "LM"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88396",
+            "filename": "Ghedi_TACAN_IT",
+            "ident": "GHE",
+            "name": "Ghedi",
+            "type": "TACAN",
+            "frequency_khz": "110900",
+            "latitude_deg": "45.44029998779297",
+            "longitude_deg": "10.276700019836426",
+            "elevation_ft": "332",
+            "iso_country": "IT",
+            "dme_frequency_khz": "110900",
+            "dme_channel": "046X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.198",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIPL"
+        }
+    ]
 }

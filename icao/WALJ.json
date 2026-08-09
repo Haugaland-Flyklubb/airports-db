@@ -59,5 +59,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kalimantan",
         "keywords": "Airports in East Kalimantan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94310",
+            "filename": "Tiong_Ohong_NDB_ID",
+            "ident": "TG",
+            "name": "Tiong Ohong",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "0.8116670250892639",
+            "longitude_deg": "114.52999877929688",
+            "elevation_ft": "132",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.564",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WALJ"
+        }
+    ]
 }

@@ -91,5 +91,29 @@
         "iso_country": "LS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maseru_District",
         "keywords": "Airports in Maseru District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91348",
+            "filename": "Mejametalana_NDB_LS",
+            "ident": "MU",
+            "name": "Mejametalana",
+            "type": "NDB",
+            "frequency_khz": "317",
+            "latitude_deg": "-29.302600860595703",
+            "longitude_deg": "27.505599975585938",
+            "elevation_ft": "",
+            "iso_country": "LS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.487",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FXMU"
+        }
+    ]
 }

@@ -85,5 +85,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
         "keywords": "Airports in Goiás"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88505",
+            "filename": "Goiania_VOR-DME_BR",
+            "ident": "GOI",
+            "name": "Goiania",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "-16.632400512695312",
+            "longitude_deg": "-49.21540069580078",
+            "elevation_ft": "2450",
+            "iso_country": "BR",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-18.007",
+            "magnetic_variation_deg": "-19.359",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBGO"
+        },
+        {
+            "id": "88506",
+            "filename": "Goiania_NDB_BR",
+            "ident": "GOI",
+            "name": "Goiania",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "-16.63719940185547",
+            "longitude_deg": "-49.22439956665039",
+            "elevation_ft": "2450",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.343",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBGO"
+        }
+    ]
 }

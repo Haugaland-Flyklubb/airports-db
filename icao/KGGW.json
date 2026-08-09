@@ -115,5 +115,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88387",
+            "filename": "Glasgow_VOR-DME_US",
+            "ident": "GGW",
+            "name": "Glasgow",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "48.215301513671875",
+            "longitude_deg": "-106.625",
+            "elevation_ft": "2280",
+            "iso_country": "US",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.001",
+            "magnetic_variation_deg": "11.363",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KGGW"
+        },
+        {
+            "id": "91030",
+            "filename": "Milk_River_NDB_US",
+            "ident": "MKR",
+            "name": "Milk River",
+            "type": "NDB",
+            "frequency_khz": "339",
+            "latitude_deg": "48.20790100097656",
+            "longitude_deg": "-106.6259994506836",
+            "elevation_ft": "2293",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.363",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KGGW"
+        }
+    ]
 }

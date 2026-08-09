@@ -69,5 +69,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Tengah",
         "keywords": "Airports in Sulawesi Tengah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92052",
+            "filename": "Palu_NDB_ID",
+            "ident": "OP",
+            "name": "Palu",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "-0.9174669981002808",
+            "longitude_deg": "119.90499877929688",
+            "elevation_ft": "284",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.139",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAFF"
+        },
+        {
+            "id": "92260",
+            "filename": "Palu_VOR-DME_ID",
+            "ident": "PAL",
+            "name": "Palu",
+            "type": "VOR-DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "-0.8850110173225403",
+            "longitude_deg": "119.8949966430664",
+            "elevation_ft": "284",
+            "iso_country": "ID",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.136",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WAFF"
+        }
+    ]
 }

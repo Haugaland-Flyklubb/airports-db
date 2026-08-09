@@ -151,5 +151,51 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southland_Region",
         "keywords": "Airports in Southland Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91762",
+            "filename": "Invercargill_VOR-DME_NZ",
+            "ident": "NV",
+            "name": "Invercargill",
+            "type": "VOR-DME",
+            "frequency_khz": "116800",
+            "latitude_deg": "-46.411598205566406",
+            "longitude_deg": "168.3179931640625",
+            "elevation_ft": "5",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "24.007",
+            "magnetic_variation_deg": "24.537",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NZNV"
+        },
+        {
+            "id": "91765",
+            "filename": "Invercargill_NDB_NZ",
+            "ident": "NV",
+            "name": "Invercargill",
+            "type": "NDB",
+            "frequency_khz": "214",
+            "latitude_deg": "-46.418701171875",
+            "longitude_deg": "168.33299255371094",
+            "elevation_ft": "",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "24.543",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NZNV"
+        }
+    ]
 }

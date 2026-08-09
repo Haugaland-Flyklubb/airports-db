@@ -69,5 +69,29 @@
         "iso_country": "AE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Abu_Dhabi_(emirate)",
         "keywords": "Abu Ẓaby"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93168",
+            "filename": "Arzanah_NDB_AE",
+            "ident": "RNZ",
+            "name": "Arzanah",
+            "type": "NDB",
+            "frequency_khz": "327",
+            "latitude_deg": "24.799999237060547",
+            "longitude_deg": "52.55830001831055",
+            "elevation_ft": "",
+            "iso_country": "AE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.446",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OMAR"
+        }
+    ]
 }

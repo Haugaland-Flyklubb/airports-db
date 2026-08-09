@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92783",
+            "filename": "Trombetas_NDB_BR",
+            "ident": "PTT",
+            "name": "Trombetas",
+            "type": "NDB",
+            "frequency_khz": "205",
+            "latitude_deg": "-1.4863300323486328",
+            "longitude_deg": "-56.39780044555664",
+            "elevation_ft": "287",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.272",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBTB"
+        }
+    ]
 }

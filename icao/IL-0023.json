@@ -77,5 +77,29 @@
         "iso_country": "IL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jerusalem_District",
         "keywords": "Mehoz Yerushalayim"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89325",
+            "filename": "Jerusalem_NDB_PS",
+            "ident": "IRM",
+            "name": "Jerusalem",
+            "type": "NDB",
+            "frequency_khz": "336",
+            "latitude_deg": "31.863399505615234",
+            "longitude_deg": "35.216400146484375",
+            "elevation_ft": "2485",
+            "iso_country": "PS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.409",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "IL-0023"
+        }
+    ]
 }

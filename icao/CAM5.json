@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95917",
+            "filename": "Houston_VOR-DME_CA",
+            "ident": "YYD",
+            "name": "Houston",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "54.45220184326172",
+            "longitude_deg": "-126.6510009765625",
+            "elevation_ft": "4189",
+            "iso_country": "CA",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "25.001",
+            "magnetic_variation_deg": "21.02",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CAM5"
+        }
+    ]
 }

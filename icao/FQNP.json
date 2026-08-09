@@ -99,5 +99,51 @@
         "iso_country": "MZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nampula_Province",
         "keywords": "Airports in Nampula Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91672",
+            "filename": "Nampula_NDB_MZ",
+            "ident": "NP",
+            "name": "Nampula",
+            "type": "NDB",
+            "frequency_khz": "382",
+            "latitude_deg": "-15.06820011138916",
+            "longitude_deg": "39.33380126953125",
+            "elevation_ft": "",
+            "iso_country": "MZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.594",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FQNP"
+        },
+        {
+            "id": "95227",
+            "filename": "Nampula_VOR-DME_MZ",
+            "ident": "VNP",
+            "name": "Nampula",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "-15.08489990234375",
+            "longitude_deg": "39.30039978027344",
+            "elevation_ft": "1381",
+            "iso_country": "MZ",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.597",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FQNP"
+        }
+    ]
 }

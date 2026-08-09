@@ -59,5 +59,29 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Province_(Papua_New_Guinea)",
         "keywords": "Airports in Western Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89809",
+            "filename": "Kiunga_NDB-DME_PG",
+            "ident": "KIU",
+            "name": "Kiunga",
+            "type": "NDB-DME",
+            "frequency_khz": "169",
+            "latitude_deg": "-6.121600151062012",
+            "longitude_deg": "141.28700256347656",
+            "elevation_ft": "225",
+            "iso_country": "PG",
+            "dme_frequency_khz": "113800",
+            "dme_channel": "085X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.394",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "AYKI"
+        }
+    ]
 }

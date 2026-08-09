@@ -85,5 +85,51 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Catalonia",
         "keywords": "Airports in Catalonia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88417",
+            "filename": "Gerona_VOR-DME_ES",
+            "ident": "GIR",
+            "name": "Gerona",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "41.93119812011719",
+            "longitude_deg": "2.77197003364563",
+            "elevation_ft": "535",
+            "iso_country": "ES",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "41.9312",
+            "dme_longitude_deg": "2.77189",
+            "dme_elevation_ft": "535",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-0.272",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LEGE"
+        },
+        {
+            "id": "88568",
+            "filename": "Gerona_NDB_ES",
+            "ident": "GRN",
+            "name": "Gerona",
+            "type": "NDB",
+            "frequency_khz": "412",
+            "latitude_deg": "42.025001525878906",
+            "longitude_deg": "2.8072099685668945",
+            "elevation_ft": "",
+            "iso_country": "ES",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.268",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LEGE"
+        }
+    ]
 }

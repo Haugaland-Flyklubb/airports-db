@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88738",
+            "filename": "Holbrook_NDB_AU",
+            "ident": "HBK",
+            "name": "Holbrook",
+            "type": "NDB",
+            "frequency_khz": "323",
+            "latitude_deg": "-35.625099182128906",
+            "longitude_deg": "147.4669952392578",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.545",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YHBK"
+        }
+    ]
 }

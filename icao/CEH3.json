@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87232",
+            "filename": "Ponoka_Indus_NDB_CA",
+            "ident": "D3",
+            "name": "Ponoka Indus",
+            "type": "NDB",
+            "frequency_khz": "363",
+            "latitude_deg": "52.68330001831055",
+            "longitude_deg": "-113.60600280761719",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.334",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CEH3"
+        }
+    ]
 }

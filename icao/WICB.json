@@ -121,5 +121,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Banten",
         "keywords": "Airports in Banten"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86400",
+            "filename": "Budiarto_VOR-DME_ID",
+            "ident": "BTO",
+            "name": "Budiarto",
+            "type": "VOR-DME",
+            "frequency_khz": "115800",
+            "latitude_deg": "-6.292479991912842",
+            "longitude_deg": "106.58300018310547",
+            "elevation_ft": "151",
+            "iso_country": "ID",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.011",
+            "magnetic_variation_deg": "0.423",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WICB"
+        },
+        {
+            "id": "94465",
+            "filename": "Tangerang_NDB_ID",
+            "ident": "TN",
+            "name": "Tangerang",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "-6.290229797363281",
+            "longitude_deg": "106.56800079345703",
+            "elevation_ft": "151",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.422",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WICB"
+        }
+    ]
 }

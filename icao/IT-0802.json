@@ -93,5 +93,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Veneto",
         "keywords": "VN"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95133",
+            "filename": "Vicenza_VOR-DME_IT",
+            "ident": "VIC",
+            "name": "Vicenza",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "45.637298583984375",
+            "longitude_deg": "11.676400184631348",
+            "elevation_ft": "206",
+            "iso_country": "IT",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "45.6375",
+            "dme_longitude_deg": "11.6764",
+            "dme_elevation_ft": "195",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.394",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "IT-0802"
+        },
+        {
+            "id": "95134",
+            "filename": "Vicenza_NDB_IT",
+            "ident": "VIC",
+            "name": "Vicenza",
+            "type": "NDB",
+            "frequency_khz": "417",
+            "latitude_deg": "45.63690185546875",
+            "longitude_deg": "11.674699783325195",
+            "elevation_ft": "230",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.394",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "IT-0802"
+        }
+    ]
 }

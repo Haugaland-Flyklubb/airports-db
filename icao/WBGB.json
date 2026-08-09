@@ -85,5 +85,51 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
         "keywords": "Airports in Sarawak"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86405",
+            "filename": "Bintulu_NDB_MY",
+            "ident": "BTU",
+            "name": "Bintulu",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "3.102410078048706",
+            "longitude_deg": "113.0250015258789",
+            "elevation_ft": "128",
+            "iso_country": "MY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.403",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WBGB"
+        },
+        {
+            "id": "95062",
+            "filename": "Bintulu_VOR-DME_MY",
+            "ident": "VBU",
+            "name": "Bintulu",
+            "type": "VOR-DME",
+            "frequency_khz": "112600",
+            "latitude_deg": "3.1539700031280518",
+            "longitude_deg": "113.01300048828125",
+            "elevation_ft": "23",
+            "iso_country": "MY",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.011",
+            "magnetic_variation_deg": "0.399",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "WBGB"
+        }
+    ]
 }

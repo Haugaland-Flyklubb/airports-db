@@ -123,5 +123,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94619",
+            "filename": "Timmins_NDB_CA",
+            "ident": "TS",
+            "name": "Timmins",
+            "type": "NDB",
+            "frequency_khz": "212",
+            "latitude_deg": "48.56529998779297",
+            "longitude_deg": "-81.45249938964844",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.467",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYTS"
+        },
+        {
+            "id": "95863",
+            "filename": "Timmins_VOR-DME_CA",
+            "ident": "YTS",
+            "name": "Timmins",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "48.5718994140625",
+            "longitude_deg": "-81.37000274658203",
+            "elevation_ft": "976",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.001",
+            "magnetic_variation_deg": "-10.512",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYTS"
+        }
+    ]
 }

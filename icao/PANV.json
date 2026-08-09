@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85510",
+            "filename": "Anvik_NDB-DME_US",
+            "ident": "ANV",
+            "name": "Anvik",
+            "type": "NDB-DME",
+            "frequency_khz": "365",
+            "latitude_deg": "62.64139938354492",
+            "longitude_deg": "-160.19000244140625",
+            "elevation_ft": "358",
+            "iso_country": "US",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "62.6415",
+            "dme_longitude_deg": "-160.189",
+            "dme_elevation_ft": "358",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.061",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PANV"
+        }
+    ]
 }

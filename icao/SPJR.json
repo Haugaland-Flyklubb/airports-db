@@ -69,5 +69,29 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cajamarca_Region",
         "keywords": "Airports in Cajamarca Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90746",
+            "filename": "Cajamarca_NDB_PE",
+            "ident": "MAR",
+            "name": "Cajamarca",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "-7.139999866485596",
+            "longitude_deg": "-78.4906005859375",
+            "elevation_ft": "8590",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.115",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SPJR"
+        }
+    ]
 }

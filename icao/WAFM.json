@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Selatan",
         "keywords": "Airports in Sulawesi Selatan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90700",
+            "filename": "Masamba_NDB_ID",
+            "ident": "MA",
+            "name": "Masamba",
+            "type": "NDB",
+            "frequency_khz": "244",
+            "latitude_deg": "-2.558039903640747",
+            "longitude_deg": "120.3239974975586",
+            "elevation_ft": "164",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.259",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAFM"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cotopaxi_Province",
         "keywords": "Airports in Cotopaxi Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90576",
+            "filename": "Latacunga_VOR-DME_EC",
+            "ident": "LTV",
+            "name": "Latacunga",
+            "type": "VOR-DME",
+            "frequency_khz": "117100",
+            "latitude_deg": "-0.9241859912872314",
+            "longitude_deg": "-78.61750030517578",
+            "elevation_ft": "9140",
+            "iso_country": "EC",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.278",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SELT"
+        }
+    ]
 }

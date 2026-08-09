@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
         "keywords": "Airports in Utah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95088",
+            "filename": "Vernal_VOR-DME_US",
+            "ident": "VEL",
+            "name": "Vernal",
+            "type": "VOR-DME",
+            "frequency_khz": "108200",
+            "latitude_deg": "40.37900161743164",
+            "longitude_deg": "-109.49299621582031",
+            "elevation_ft": "5344",
+            "iso_country": "US",
+            "dme_frequency_khz": "108200",
+            "dme_channel": "019X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "11.488",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "US-12313"
+        }
+    ]
 }

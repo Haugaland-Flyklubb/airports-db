@@ -91,5 +91,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pays-de-la-Loire",
         "keywords": "Airports in Pays-de-la-Loire"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90410",
+            "filename": "Le_Mans_NDB_FR",
+            "ident": "LM",
+            "name": "Le Mans",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "47.89360046386719",
+            "longitude_deg": "0.17138899862766266",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.418",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LFRM"
+        }
+    ]
 }

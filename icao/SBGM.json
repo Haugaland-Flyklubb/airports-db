@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rondônia",
         "keywords": "Airports in Rondônia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88424",
+            "filename": "Guajara_NDB_BR",
+            "ident": "GJM",
+            "name": "Guajara",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "-10.784299850463867",
+            "longitude_deg": "-65.28109741210938",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.281",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBGM"
+        }
+    ]
 }

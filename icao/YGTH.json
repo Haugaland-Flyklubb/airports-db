@@ -99,5 +99,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88614",
+            "filename": "Griffith_VOR-DME_AU",
+            "ident": "GTH",
+            "name": "Griffith",
+            "type": "VOR-DME",
+            "frequency_khz": "114800",
+            "latitude_deg": "-34.2494010925293",
+            "longitude_deg": "146.06500244140625",
+            "elevation_ft": "446",
+            "iso_country": "AU",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "-34.2497",
+            "dme_longitude_deg": "146.065",
+            "dme_elevation_ft": "446",
+            "slaved_variation_deg": "10.007",
+            "magnetic_variation_deg": "10.567",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YGTH"
+        },
+        {
+            "id": "88615",
+            "filename": "Griffith_NDB_AU",
+            "ident": "GTH",
+            "name": "Griffith",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-34.277198791503906",
+            "longitude_deg": "146.0570068359375",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.57",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YGTH"
+        }
+    ]
 }

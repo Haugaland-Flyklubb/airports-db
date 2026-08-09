@@ -91,5 +91,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Corrientes_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "90807",
+            "filename": "Monte_Caseros_VOR-DME_AR",
+            "ident": "MCS",
+            "name": "Monte Caseros",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "-30.266700744628906",
+            "longitude_deg": "-57.638301849365234",
+            "elevation_ft": "174",
+            "iso_country": "AR",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-9.549",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SARM"
+        }
+    ]
 }

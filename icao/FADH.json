@@ -35,5 +35,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kwazulu-Natal",
         "keywords": "Airports in Kwazulu-Natal"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87360",
+            "filename": "Durnacol_NDB_ZA",
+            "ident": "DH",
+            "name": "Durnacol",
+            "type": "NDB",
+            "frequency_khz": "358",
+            "latitude_deg": "-28.11669921875",
+            "longitude_deg": "29.966699600219727",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.063",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FADH"
+        }
+    ]
 }

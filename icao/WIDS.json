@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kepulauan_Riau",
         "keywords": "Airports in Kepulauan Riau"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91505",
+            "filename": "Singkep_NDB_ID",
+            "ident": "NE",
+            "name": "Singkep",
+            "type": "NDB",
+            "frequency_khz": "320",
+            "latitude_deg": "-0.48299700021743774",
+            "longitude_deg": "104.57599639892578",
+            "elevation_ft": "95",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.231",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIDS"
+        }
+    ]
 }

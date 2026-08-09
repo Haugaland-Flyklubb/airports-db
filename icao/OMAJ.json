@@ -69,5 +69,29 @@
         "iso_country": "AE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Abu_Dhabi_(emirate)",
         "keywords": "Abu Ẓaby"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89458",
+            "filename": "Jebel_Dhana_NDB_AE",
+            "ident": "JD",
+            "name": "Jebel Dhana",
+            "type": "NDB",
+            "frequency_khz": "303",
+            "latitude_deg": "24.193300247192383",
+            "longitude_deg": "52.625",
+            "elevation_ft": "",
+            "iso_country": "AE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.384",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OMAJ"
+        }
+    ]
 }

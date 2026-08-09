@@ -35,5 +35,29 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tshuapa",
         "keywords": "Airports in Tshuapa Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85902",
+            "filename": "Boende_NDB_CD",
+            "ident": "BDE",
+            "name": "Boende",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "-0.23597300052642822",
+            "longitude_deg": "20.8164005279541",
+            "elevation_ft": "",
+            "iso_country": "CD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.474",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FZGN"
+        }
+    ]
 }

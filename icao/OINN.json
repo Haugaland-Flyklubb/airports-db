@@ -69,5 +69,29 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mazandaran_Province",
         "keywords": "Airports in Mazandaran Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91727",
+            "filename": "Noshahr_NDB-DME_IR",
+            "ident": "NSR",
+            "name": "Noshahr",
+            "type": "NDB-DME",
+            "frequency_khz": "260",
+            "latitude_deg": "36.65330123901367",
+            "longitude_deg": "51.50469970703125",
+            "elevation_ft": "-64",
+            "iso_country": "IR",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.175",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OINN"
+        }
+    ]
 }

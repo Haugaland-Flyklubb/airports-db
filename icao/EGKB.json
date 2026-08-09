@@ -123,5 +123,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86050",
+            "filename": "Biggin_VOR-DME_GB",
+            "ident": "BIG",
+            "name": "Biggin",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "51.33089828491211",
+            "longitude_deg": "0.034811001271009445",
+            "elevation_ft": "590",
+            "iso_country": "GB",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.001",
+            "magnetic_variation_deg": "-2.117",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGKB"
+        }
+    ]
 }

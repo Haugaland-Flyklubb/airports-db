@@ -93,5 +93,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Phetchaburi_province",
         "keywords": "Airports in Phetchaburi Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88829",
+            "filename": "Hua_Hin_VOR-DME_TH",
+            "ident": "HHN",
+            "name": "Hua Hin",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "12.634499549865723",
+            "longitude_deg": "99.95120239257812",
+            "elevation_ft": "62",
+            "iso_country": "TH",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.331",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTPH"
+        },
+        {
+            "id": "88928",
+            "filename": "Hua_Hin_NDB_TH",
+            "ident": "HN",
+            "name": "Hua Hin",
+            "type": "NDB",
+            "frequency_khz": "213",
+            "latitude_deg": "12.643199920654297",
+            "longitude_deg": "99.94960021972656",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.331",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTPH"
+        }
+    ]
 }

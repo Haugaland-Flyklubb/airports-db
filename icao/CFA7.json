@@ -35,5 +35,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85166",
+            "filename": "Taltheilei_Narrows_NDB_CA",
+            "ident": "A1",
+            "name": "Taltheilei Narrows",
+            "type": "NDB",
+            "frequency_khz": "264",
+            "latitude_deg": "62.59469985961914",
+            "longitude_deg": "-111.51899719238281",
+            "elevation_ft": "570",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "19.032",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CFA7"
+        }
+    ]
 }

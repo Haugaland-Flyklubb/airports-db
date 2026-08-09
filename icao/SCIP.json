@@ -93,5 +93,51 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Valparaíso_Region",
         "keywords": "Airports in Valparaíso Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89299",
+            "filename": "Isla_De_Pascua_VOR-DME_CL",
+            "ident": "IPA",
+            "name": "Isla De Pascua",
+            "type": "VOR-DME",
+            "frequency_khz": "117100",
+            "latitude_deg": "-27.16390037536621",
+            "longitude_deg": "-109.40599822998047",
+            "elevation_ft": "719",
+            "iso_country": "CL",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.244",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "SCIP"
+        },
+        {
+            "id": "89300",
+            "filename": "Isla_De_Pascua_NDB_CL",
+            "ident": "IPA",
+            "name": "Isla De Pascua",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "-27.15399932861328",
+            "longitude_deg": "-109.4209976196289",
+            "elevation_ft": "394",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.242",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "SCIP"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "ZW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mashonaland_West_Province",
         "keywords": "Airports in Mashonaland West Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87584",
+            "filename": "Kariba_NDB_ZW",
+            "ident": "DW",
+            "name": "Kariba",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "-16.51449966430664",
+            "longitude_deg": "28.885799407958984",
+            "elevation_ft": "",
+            "iso_country": "ZW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.496",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "FVKB"
+        },
+        {
+            "id": "89679",
+            "filename": "Kariba_NDB_ZW",
+            "ident": "KB",
+            "name": "Kariba",
+            "type": "NDB",
+            "frequency_khz": "399",
+            "latitude_deg": "-16.52720069885254",
+            "longitude_deg": "28.823699951171875",
+            "elevation_ft": "",
+            "iso_country": "ZW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.499",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FVKB"
+        }
+    ]
 }

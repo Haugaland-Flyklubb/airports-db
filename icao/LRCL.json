@@ -123,5 +123,29 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cluj_County",
         "keywords": "Transylvania, Transylvanian Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86853",
+            "filename": "Cluj_VOR-DME_RO",
+            "ident": "CLJ",
+            "name": "Cluj",
+            "type": "VOR-DME",
+            "frequency_khz": "111200",
+            "latitude_deg": "46.80009841918945",
+            "longitude_deg": "23.78730010986328",
+            "elevation_ft": "1549",
+            "iso_country": "RO",
+            "dme_frequency_khz": "111200",
+            "dme_channel": "049X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.141",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "LRCL"
+        }
+    ]
 }

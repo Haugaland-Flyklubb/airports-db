@@ -233,5 +233,29 @@
         "iso_country": "DK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Capital_Region",
         "keywords": "Hovedstaden"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89659",
+            "filename": "Kastrup_VOR-DME_DK",
+            "ident": "KAS",
+            "name": "Kastrup",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "55.59049987792969",
+            "longitude_deg": "12.61359977722168",
+            "elevation_ft": "29",
+            "iso_country": "DK",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.008",
+            "magnetic_variation_deg": "1.584",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EKCH"
+        }
+    ]
 }

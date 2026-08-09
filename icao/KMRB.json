@@ -155,5 +155,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
         "keywords": "Airports in West Virginia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91234",
+            "filename": "Martinsburg_VORTAC_US",
+            "ident": "MRB",
+            "name": "Martinsburg",
+            "type": "VORTAC",
+            "frequency_khz": "112100",
+            "latitude_deg": "39.38560104370117",
+            "longitude_deg": "-77.84839630126953",
+            "elevation_ft": "600",
+            "iso_country": "US",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.001",
+            "magnetic_variation_deg": "-10.158",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KMRB"
+        }
+    ]
 }

@@ -121,5 +121,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
         "keywords": "Airports in Grand Est"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94601",
+            "filename": "Troyes_VOR_FR",
+            "ident": "TRO",
+            "name": "Troyes",
+            "type": "VOR",
+            "frequency_khz": "116000",
+            "latitude_deg": "48.25120162963867",
+            "longitude_deg": "3.9631400108337402",
+            "elevation_ft": "859",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-0.306",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFQB"
+        }
+    ]
 }

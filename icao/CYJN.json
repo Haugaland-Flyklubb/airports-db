@@ -145,5 +145,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95705",
+            "filename": "St-Jean_VORTAC_CA",
+            "ident": "YJN",
+            "name": "St-Jean",
+            "type": "VORTAC",
+            "frequency_khz": "115800",
+            "latitude_deg": "45.25579833984375",
+            "longitude_deg": "-73.32129669189453",
+            "elevation_ft": "200",
+            "iso_country": "CA",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-16.001",
+            "magnetic_variation_deg": "-15.162",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYJN"
+        }
+    ]
 }

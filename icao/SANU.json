@@ -77,5 +77,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/San_Juan_Province_(Argentina)",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "89571",
+            "filename": "San_Juan_VOR-DME_AR",
+            "ident": "JUA",
+            "name": "San Juan",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "-31.563899993896484",
+            "longitude_deg": "-68.42140197753906",
+            "elevation_ft": "1959",
+            "iso_country": "AR",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "0.316",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SANU"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chubut_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "85599",
+            "filename": "Alto_Rio_Senguerr_NDB_AR",
+            "ident": "ARS",
+            "name": "Alto Rio Senguerr",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "-45.01639938354492",
+            "longitude_deg": "-70.80110168457031",
+            "elevation_ft": "2287",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.499",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SAVR"
+        }
+    ]
 }

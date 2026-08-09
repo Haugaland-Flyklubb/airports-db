@@ -131,5 +131,29 @@
         "iso_country": "IQ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Salah_ad_Din_Governorate",
         "keywords": "صلاح الدين"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86146",
+            "filename": "Balad_VORTAC_IQ",
+            "ident": "BLD",
+            "name": "Balad",
+            "type": "VORTAC",
+            "frequency_khz": "114600",
+            "latitude_deg": "33.9359016418457",
+            "longitude_deg": "44.368099212646484",
+            "elevation_ft": "157",
+            "iso_country": "IQ",
+            "dme_frequency_khz": "114600",
+            "dme_channel": "093X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.012",
+            "magnetic_variation_deg": "3.575",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "ORBD"
+        }
+    ]
 }

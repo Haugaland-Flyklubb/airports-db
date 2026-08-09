@@ -85,5 +85,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maharashtra",
         "keywords": "Airports in Maharashtra"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85189",
+            "filename": "Aurangabad_VOR-DME_IN",
+            "ident": "AAU",
+            "name": "Aurangabad",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "19.864700317382812",
+            "longitude_deg": "75.39409637451172",
+            "elevation_ft": "1908",
+            "iso_country": "IN",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-0.464",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VAAU"
+        },
+        {
+            "id": "85676",
+            "filename": "Aurangabad_NDB_IN",
+            "ident": "AU",
+            "name": "Aurangabad",
+            "type": "NDB",
+            "frequency_khz": "205",
+            "latitude_deg": "19.86050033569336",
+            "longitude_deg": "75.39849853515625",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.465",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VAAU"
+        }
+    ]
 }

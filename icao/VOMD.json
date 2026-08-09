@@ -99,5 +99,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tamil_Nadu",
         "keywords": "Airports in Tamil Nadu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90821",
+            "filename": "Madurai_NDB_IN",
+            "ident": "MD",
+            "name": "Madurai",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "9.84220027923584",
+            "longitude_deg": "78.09960174560547",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.195",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VOMD"
+        },
+        {
+            "id": "90836",
+            "filename": "Madurai_VOR-DME_IN",
+            "ident": "MDI",
+            "name": "Madurai",
+            "type": "VOR-DME",
+            "frequency_khz": "116100",
+            "latitude_deg": "9.831080436706543",
+            "longitude_deg": "78.08899688720703",
+            "elevation_ft": "461",
+            "iso_country": "IN",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.011",
+            "magnetic_variation_deg": "-2.196",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOMD"
+        }
+    ]
 }

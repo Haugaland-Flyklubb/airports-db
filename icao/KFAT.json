@@ -163,5 +163,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87214",
+            "filename": "Clovis_VORTAC_US",
+            "ident": "CZQ",
+            "name": "Clovis",
+            "type": "VORTAC",
+            "frequency_khz": "112900",
+            "latitude_deg": "36.884300231933594",
+            "longitude_deg": "-119.81500244140625",
+            "elevation_ft": "363",
+            "iso_country": "US",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "14.054",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KFAT"
+        }
+    ]
 }

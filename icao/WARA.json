@@ -99,5 +99,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jawa_Timur",
         "keywords": "Airports in Jawa Timur"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90631",
+            "filename": "Lawang_NDB_ID",
+            "ident": "LW",
+            "name": "Lawang",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "-7.821879863739014",
+            "longitude_deg": "112.69100189208984",
+            "elevation_ft": "",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.254",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WARA"
+        },
+        {
+            "id": "91042",
+            "filename": "Malang_NDB_ID",
+            "ident": "ML",
+            "name": "Malang",
+            "type": "NDB",
+            "frequency_khz": "342",
+            "latitude_deg": "-7.934020042419434",
+            "longitude_deg": "112.71199798583984",
+            "elevation_ft": "1726",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.256",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WARA"
+        }
+    ]
 }

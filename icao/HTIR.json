@@ -69,5 +69,29 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iringa_Region",
         "keywords": "Airports in Iringa Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89316",
+            "filename": "Iringa_NDB_TZ",
+            "ident": "IR",
+            "name": "Iringa",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "-7.676199913024902",
+            "longitude_deg": "35.752498626708984",
+            "elevation_ft": "4678",
+            "iso_country": "TZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.022",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "HTIR"
+        }
+    ]
 }

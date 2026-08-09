@@ -77,5 +77,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86538",
+            "filename": "Geraldton_NDB_CA",
+            "ident": "C7",
+            "name": "Geraldton",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "49.772300720214844",
+            "longitude_deg": "-86.97139739990234",
+            "elevation_ft": "1144",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.024",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYGQ"
+        },
+        {
+            "id": "95680",
+            "filename": "Geraldton_VOR-DME_CA",
+            "ident": "YGQ",
+            "name": "Geraldton",
+            "type": "VOR-DME",
+            "frequency_khz": "114200",
+            "latitude_deg": "49.769798278808594",
+            "longitude_deg": "-86.9844970703125",
+            "elevation_ft": "1100",
+            "iso_country": "CA",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.001",
+            "magnetic_variation_deg": "-6.016",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYGQ"
+        }
+    ]
 }

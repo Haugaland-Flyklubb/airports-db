@@ -375,5 +375,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
         "keywords": "Airports in Kentucky"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94940",
+            "filename": "Burln_NDB_US",
+            "ident": "UR",
+            "name": "Burln",
+            "type": "NDB",
+            "frequency_khz": "321",
+            "latitude_deg": "39.04570007324219",
+            "longitude_deg": "-84.77300262451172",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.522",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCVG"
+        }
+    ]
 }

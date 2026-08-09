@@ -85,5 +85,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Muş_Province",
         "keywords": "Airports in Muş Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91358",
+            "filename": "Mus_VOR-DME_TR",
+            "ident": "MUS",
+            "name": "Mus",
+            "type": "VOR-DME",
+            "frequency_khz": "111200",
+            "latitude_deg": "38.74810028076172",
+            "longitude_deg": "41.66109848022461",
+            "elevation_ft": "4173",
+            "iso_country": "TR",
+            "dme_frequency_khz": "111200",
+            "dme_channel": "049X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "4.536",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTCK"
+        },
+        {
+            "id": "91360",
+            "filename": "Mus_NDB_TR",
+            "ident": "MUS",
+            "name": "Mus",
+            "type": "NDB",
+            "frequency_khz": "319",
+            "latitude_deg": "38.74810028076172",
+            "longitude_deg": "41.66109848022461",
+            "elevation_ft": "4157",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.536",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTCK"
+        }
+    ]
 }

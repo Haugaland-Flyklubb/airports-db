@@ -85,5 +85,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sinaloa",
         "keywords": "Airports in Sinaloa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91422",
+            "filename": "Mazatlan_VOR-DME_MX",
+            "ident": "MZT",
+            "name": "Mazatlan",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "23.160499572753906",
+            "longitude_deg": "-106.27100372314453",
+            "elevation_ft": "38",
+            "iso_country": "MX",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.004",
+            "magnetic_variation_deg": "8.296",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMMZ"
+        }
+    ]
 }

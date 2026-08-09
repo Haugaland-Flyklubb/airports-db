@@ -125,5 +125,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": "Virginian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85748",
+            "filename": "Azalea_Park_NDB_US",
+            "ident": "AZS",
+            "name": "Azalea Park",
+            "type": "NDB",
+            "frequency_khz": "336",
+            "latitude_deg": "38.01020050048828",
+            "longitude_deg": "-78.51809692382812",
+            "elevation_ft": "378",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.241",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCHO"
+        }
+    ]
 }

@@ -107,5 +107,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Prachuap_Khiri_Khan_province",
         "keywords": "Airports in Prachuap Khiri Khan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92314",
+            "filename": "Prachuap_TACAN_TH",
+            "ident": "PCK",
+            "name": "Prachuap",
+            "type": "TACAN",
+            "frequency_khz": "113700",
+            "latitude_deg": "11.803500175476074",
+            "longitude_deg": "99.8102035522461",
+            "elevation_ft": "33",
+            "iso_country": "TH",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.32",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTBP"
+        },
+        {
+            "id": "92316",
+            "filename": "Prachuap_NDB_TH",
+            "ident": "PCK",
+            "name": "Prachuap",
+            "type": "NDB",
+            "frequency_khz": "320",
+            "latitude_deg": "11.79010009765625",
+            "longitude_deg": "99.80680084228516",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.319",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTBP"
+        }
+    ]
 }

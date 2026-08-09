@@ -69,5 +69,29 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Shan_State",
         "keywords": "Airports in Shan State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89750",
+            "filename": "Kengtung_NDB_MM",
+            "ident": "KG",
+            "name": "Kengtung",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "21.30270004272461",
+            "longitude_deg": "99.63269805908203",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.493",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VYKG"
+        }
+    ]
 }

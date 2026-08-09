@@ -77,5 +77,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Province,_Saudi_Arabia",
         "keywords": "Airports in Ash Sharqiyah Region, Eastern Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93265",
+            "filename": "Ras_Tanura_NDB_SA",
+            "ident": "RT",
+            "name": "Ras Tanura",
+            "type": "NDB",
+            "frequency_khz": "286",
+            "latitude_deg": "26.716699600219727",
+            "longitude_deg": "50",
+            "elevation_ft": "6",
+            "iso_country": "SA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.204",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OERT"
+        }
+    ]
 }

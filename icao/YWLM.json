@@ -117,5 +117,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95458",
+            "filename": "Williamtown_TACAN_AU",
+            "ident": "WLM",
+            "name": "Williamtown",
+            "type": "TACAN",
+            "frequency_khz": "113300",
+            "latitude_deg": "-32.79710006713867",
+            "longitude_deg": "151.83299255371094",
+            "elevation_ft": "59",
+            "iso_country": "AU",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.011",
+            "magnetic_variation_deg": "12.265",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YWLM"
+        },
+        {
+            "id": "95459",
+            "filename": "Williamtown_NDB_AU",
+            "ident": "WLM",
+            "name": "Williamtown",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "-32.80339813232422",
+            "longitude_deg": "151.82899475097656",
+            "elevation_ft": "30",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.266",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YWLM"
+        }
+    ]
 }

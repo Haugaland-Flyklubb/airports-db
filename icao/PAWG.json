@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90619",
+            "filename": "Level_Island_VOR-DME_US",
+            "ident": "LVD",
+            "name": "Level Island",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "56.46770095825195",
+            "longitude_deg": "-133.08299255371094",
+            "elevation_ft": "100",
+            "iso_country": "US",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "28.001",
+            "magnetic_variation_deg": "22.094",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAWG"
+        }
+    ]
 }

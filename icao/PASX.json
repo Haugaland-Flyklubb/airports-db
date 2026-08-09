@@ -101,5 +101,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92007",
+            "filename": "Soldotna_NDB-DME_US",
+            "ident": "OLT",
+            "name": "Soldotna",
+            "type": "NDB-DME",
+            "frequency_khz": "346",
+            "latitude_deg": "60.474998474121094",
+            "longitude_deg": "-150.87899780273438",
+            "elevation_ft": "250",
+            "iso_country": "US",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "19.419",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "PASX"
+        }
+    ]
 }

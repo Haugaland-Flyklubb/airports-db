@@ -69,5 +69,51 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
         "keywords": "Airports in Limpopo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92423",
+            "filename": "Phalaborwa_VOR_ZA",
+            "ident": "PHV",
+            "name": "Phalaborwa",
+            "type": "VOR",
+            "frequency_khz": "115300",
+            "latitude_deg": "-23.900800704956055",
+            "longitude_deg": "31.152000427246094",
+            "elevation_ft": "1528",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-15.007",
+            "magnetic_variation_deg": "-15.388",
+            "usageType": "HI",
+            "power": "HIGH",
+            "associated_airport": "FAPH"
+        },
+        {
+            "id": "92828",
+            "filename": "Phalaborwa_NDB_ZA",
+            "ident": "PW",
+            "name": "Phalaborwa",
+            "type": "NDB",
+            "frequency_khz": "272",
+            "latitude_deg": "-23.917400360107422",
+            "longitude_deg": "31.153900146484375",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.402",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAPH"
+        }
+    ]
 }

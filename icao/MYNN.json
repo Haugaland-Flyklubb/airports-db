@@ -147,5 +147,51 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Providence",
         "keywords": "Airports in New Providence"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96091",
+            "filename": "Nassau_VOR-DME_BS",
+            "ident": "ZQA",
+            "name": "Nassau",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "25.02549934387207",
+            "longitude_deg": "-77.44640350341797",
+            "elevation_ft": "7",
+            "iso_country": "BS",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.001",
+            "magnetic_variation_deg": "-7.11",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MYNN"
+        },
+        {
+            "id": "96092",
+            "filename": "Nassau_NDB_BS",
+            "ident": "ZQA",
+            "name": "Nassau",
+            "type": "NDB",
+            "frequency_khz": "251",
+            "latitude_deg": "25.0403995513916",
+            "longitude_deg": "-77.47049713134766",
+            "elevation_ft": "16",
+            "iso_country": "BS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.103",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MYNN"
+        }
+    ]
 }

@@ -147,5 +147,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
         "keywords": "Airports in Massachusetts"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87699",
+            "filename": "Gozzr_NDB_US",
+            "ident": "EK",
+            "name": "Gozzr",
+            "type": "NDB",
+            "frequency_khz": "417",
+            "latitude_deg": "42.259300231933594",
+            "longitude_deg": "-71.73609924316406",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.594",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KORH"
+        },
+        {
+            "id": "93247",
+            "filename": "Dunca_NDB_US",
+            "ident": "RS",
+            "name": "Dunca",
+            "type": "NDB",
+            "frequency_khz": "279",
+            "latitude_deg": "42.27439880371094",
+            "longitude_deg": "-72.0198974609375",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.508",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KORH"
+        }
+    ]
 }

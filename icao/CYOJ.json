@@ -93,5 +93,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95779",
+            "filename": "High_Level_VOR-DME_CA",
+            "ident": "YOJ",
+            "name": "High Level",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "58.55440139770508",
+            "longitude_deg": "-117.09300231933594",
+            "elevation_ft": "1129",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "21.001",
+            "magnetic_variation_deg": "20.311",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYOJ"
+        }
+    ]
 }

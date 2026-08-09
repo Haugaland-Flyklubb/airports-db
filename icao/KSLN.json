@@ -191,5 +191,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
         "keywords": "Airports in Kansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93716",
+            "filename": "Flory_NDB_US",
+            "ident": "SL",
+            "name": "Flory",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "38.68149948120117",
+            "longitude_deg": "-97.64510345458984",
+            "elevation_ft": "1315",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.079",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KSLN"
+        },
+        {
+            "id": "93733",
+            "filename": "Salina_VORTAC_US",
+            "ident": "SLN",
+            "name": "Salina",
+            "type": "VORTAC",
+            "frequency_khz": "117100",
+            "latitude_deg": "38.92509841918945",
+            "longitude_deg": "-97.62139892578125",
+            "elevation_ft": "1310",
+            "iso_country": "US",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.004",
+            "magnetic_variation_deg": "5.067",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KSLN"
+        }
+    ]
 }

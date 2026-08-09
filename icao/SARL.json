@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Corrientes_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "90338",
+            "filename": "Paso_De_Los_Libres_NDB_AR",
+            "ident": "LIB",
+            "name": "Paso De Los Libres",
+            "type": "NDB",
+            "frequency_khz": "250",
+            "latitude_deg": "-29.694700241088867",
+            "longitude_deg": "-57.148101806640625",
+            "elevation_ft": "230",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.353",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SARL"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Potosí_Department",
         "keywords": "Airports in Potosí Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92604",
+            "filename": "Potosi_NDB_BO",
+            "ident": "POI",
+            "name": "Potosi",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "-19.548500061035156",
+            "longitude_deg": "-65.72989654541016",
+            "elevation_ft": "12913",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.524",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SLPO"
+        }
+    ]
 }

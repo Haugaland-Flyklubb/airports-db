@@ -69,5 +69,29 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Calabria",
         "keywords": "CI"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87041",
+            "filename": "Crotone_VOR-DME_IT",
+            "ident": "CRN",
+            "name": "Crotone",
+            "type": "VOR-DME",
+            "frequency_khz": "117100",
+            "latitude_deg": "38.99610137939453",
+            "longitude_deg": "17.083099365234375",
+            "elevation_ft": "522",
+            "iso_country": "IT",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.262",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIBC"
+        }
+    ]
 }

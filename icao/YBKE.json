@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86099",
+            "filename": "Bourke_NDB_AU",
+            "ident": "BKE",
+            "name": "Bourke",
+            "type": "NDB",
+            "frequency_khz": "389",
+            "latitude_deg": "-30.04330062866211",
+            "longitude_deg": "145.94900512695312",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.453",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YBKE"
+        }
+    ]
 }

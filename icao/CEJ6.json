@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85142",
+            "filename": "Elk_Point_NDB-DME_CA",
+            "ident": "8M",
+            "name": "Elk Point",
+            "type": "NDB-DME",
+            "frequency_khz": "414",
+            "latitude_deg": "53.89030075073242",
+            "longitude_deg": "-110.76799774169922",
+            "elevation_ft": "1999",
+            "iso_country": "CA",
+            "dme_frequency_khz": "111400",
+            "dme_channel": "051X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.234",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CEJ6"
+        }
+    ]
 }

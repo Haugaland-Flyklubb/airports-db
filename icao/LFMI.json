@@ -109,5 +109,51 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
         "keywords": "Airports in Provence-Alpes-Côte-d'Azur"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89368",
+            "filename": "Istres_TACAN_FR",
+            "ident": "ITR",
+            "name": "Istres",
+            "type": "TACAN",
+            "frequency_khz": "115700",
+            "latitude_deg": "43.526100158691406",
+            "longitude_deg": "4.926919937133789",
+            "elevation_ft": "82",
+            "iso_country": "FR",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "0.03",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFMI"
+        },
+        {
+            "id": "89369",
+            "filename": "Istres_NDB_FR",
+            "ident": "ITR",
+            "name": "Istres",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "43.52619934082031",
+            "longitude_deg": "4.929940223693848",
+            "elevation_ft": "82",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.031",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFMI"
+        }
+    ]
 }

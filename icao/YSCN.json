@@ -123,5 +123,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86894",
+            "filename": "Camden_NDB_AU",
+            "ident": "CN",
+            "name": "Camden",
+            "type": "NDB",
+            "frequency_khz": "281",
+            "latitude_deg": "-34.03860092163086",
+            "longitude_deg": "150.69200134277344",
+            "elevation_ft": "228",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.304",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YSCN"
+        }
+    ]
 }

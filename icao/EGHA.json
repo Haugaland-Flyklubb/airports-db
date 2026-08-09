@@ -69,5 +69,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86955",
+            "filename": "Compt0n_Abbas_NDB_GB",
+            "ident": "COM",
+            "name": "Compt0n Abbas",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "50.96620178222656",
+            "longitude_deg": "-2.15516996383667",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.576",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EGHA"
+        }
+    ]
 }

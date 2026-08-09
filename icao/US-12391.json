@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92019",
+            "filename": "Omak_NDB_US",
+            "ident": "OMK",
+            "name": "Omak",
+            "type": "NDB",
+            "frequency_khz": "219",
+            "latitude_deg": "48.453399658203125",
+            "longitude_deg": "-119.51699829101562",
+            "elevation_ft": "1303",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.187",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "US-12391"
+        }
+    ]
 }

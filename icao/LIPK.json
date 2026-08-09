@@ -85,5 +85,29 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Emilia-Romagna",
         "keywords": "ER"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88102",
+            "filename": "Forli_NDB_IT",
+            "ident": "FOR",
+            "name": "Forli",
+            "type": "NDB",
+            "frequency_khz": "423",
+            "latitude_deg": "44.24810028076172",
+            "longitude_deg": "11.924699783325195",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.419",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LIPK"
+        }
+    ]
 }

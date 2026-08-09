@@ -77,5 +77,51 @@
         "iso_country": "ZW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Masvingo_Province",
         "keywords": "Airports in Masvingo Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86043",
+            "filename": "Buffalo_Range_NDB_ZW",
+            "ident": "BI",
+            "name": "Buffalo Range",
+            "type": "NDB",
+            "frequency_khz": "233",
+            "latitude_deg": "-20.997600555419922",
+            "longitude_deg": "31.565099716186523",
+            "elevation_ft": "",
+            "iso_country": "ZW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.001",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FVCZ"
+        },
+        {
+            "id": "87199",
+            "filename": "Buffalo_Range_NDB_ZW",
+            "ident": "CZ",
+            "name": "Buffalo Range",
+            "type": "NDB",
+            "frequency_khz": "250",
+            "latitude_deg": "-20.963899612426758",
+            "longitude_deg": "31.52199935913086",
+            "elevation_ft": "",
+            "iso_country": "ZW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.569",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FVCZ"
+        }
+    ]
 }

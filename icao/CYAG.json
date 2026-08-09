@@ -107,5 +107,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95610",
+            "filename": "Fort_Frances_NDB_CA",
+            "ident": "YAG",
+            "name": "Fort Frances",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "48.689701080322266",
+            "longitude_deg": "-93.53910064697266",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.538",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYAG"
+        }
+    ]
 }

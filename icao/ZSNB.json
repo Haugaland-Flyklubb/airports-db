@@ -77,5 +77,51 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zhejiang",
         "keywords": "Airports in Zhejiang Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86084",
+            "filename": "Ningbo_NDB_CN",
+            "ident": "BK",
+            "name": "Ningbo",
+            "type": "NDB",
+            "frequency_khz": "227",
+            "latitude_deg": "29.895000457763672",
+            "longitude_deg": "121.33200073242188",
+            "elevation_ft": "",
+            "iso_country": "CN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.547",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ZSNB"
+        },
+        {
+            "id": "91536",
+            "filename": "Ningbo_VOR-DME_CN",
+            "ident": "NGB",
+            "name": "Ningbo",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "29.82670021057129",
+            "longitude_deg": "121.45999908447266",
+            "elevation_ft": "23",
+            "iso_country": "CN",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.539",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZSNB"
+        }
+    ]
 }

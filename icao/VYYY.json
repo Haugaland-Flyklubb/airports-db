@@ -93,5 +93,51 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yangon_Region",
         "keywords": "Airports in Yangon Division"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90843",
+            "filename": "Mingaladon_NDB_MM",
+            "ident": "MDS",
+            "name": "Mingaladon",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "16.87459945678711",
+            "longitude_deg": "96.10980224609375",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.459",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VYYY"
+        },
+        {
+            "id": "95677",
+            "filename": "Yangon_NDB_MM",
+            "ident": "YGN",
+            "name": "Yangon",
+            "type": "NDB",
+            "frequency_khz": "265",
+            "latitude_deg": "17.0762996673584",
+            "longitude_deg": "96.23819732666016",
+            "elevation_ft": "41",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.456",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYYY"
+        }
+    ]
 }

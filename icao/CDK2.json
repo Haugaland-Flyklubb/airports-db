@@ -35,5 +35,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85073",
+            "filename": "Diavik_NDB_CA",
+            "ident": "2Z",
+            "name": "Diavik",
+            "type": "NDB",
+            "frequency_khz": "382",
+            "latitude_deg": "64.51000213623047",
+            "longitude_deg": "-110.30699920654297",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.473",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CDK2"
+        },
+        {
+            "id": "85074",
+            "filename": "Diavik_DME_CA",
+            "ident": "2Z",
+            "name": "Diavik",
+            "type": "DME",
+            "frequency_khz": "111250",
+            "latitude_deg": "64.50830078125",
+            "longitude_deg": "-110.30699920654297",
+            "elevation_ft": "1413",
+            "iso_country": "CA",
+            "dme_frequency_khz": "111250",
+            "dme_channel": "049Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.471",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CDK2"
+        }
+    ]
 }

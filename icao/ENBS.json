@@ -69,5 +69,29 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Finnmark",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "86492",
+            "filename": "Batsfjord_NDB_NO",
+            "ident": "BX",
+            "name": "Batsfjord",
+            "type": "NDB",
+            "frequency_khz": "348",
+            "latitude_deg": "70.6072006225586",
+            "longitude_deg": "29.712900161743164",
+            "elevation_ft": "",
+            "iso_country": "NO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.501",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "ENBS"
+        }
+    ]
 }

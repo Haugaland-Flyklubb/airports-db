@@ -141,5 +141,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
         "keywords": "Airports in Maryland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91330",
+            "filename": "Martin_NDB_US",
+            "ident": "MTN",
+            "name": "Martin",
+            "type": "NDB",
+            "frequency_khz": "342",
+            "latitude_deg": "39.29970169067383",
+            "longitude_deg": "-76.38009643554688",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.146",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMTN"
+        }
+    ]
 }

@@ -115,5 +115,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
         "keywords": "Airports in Utah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87503",
+            "filename": "Dugway_NDB_US",
+            "ident": "DPG",
+            "name": "Dugway",
+            "type": "NDB",
+            "frequency_khz": "284",
+            "latitude_deg": "40.18239974975586",
+            "longitude_deg": "-112.93699645996094",
+            "elevation_ft": "4374",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.05",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KDPG"
+        },
+        {
+            "id": "90971",
+            "filename": "Michael_TACAN_US",
+            "ident": "MIJ",
+            "name": "Michael",
+            "type": "TACAN",
+            "frequency_khz": "113200",
+            "latitude_deg": "40.19160079956055",
+            "longitude_deg": "-112.9219970703125",
+            "elevation_ft": "4372",
+            "iso_country": "US",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "13.048",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KDPG"
+        }
+    ]
 }

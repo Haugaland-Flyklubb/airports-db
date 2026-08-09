@@ -107,5 +107,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khuzestan_Province",
         "keywords": "Airports in Khuzestan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87611",
+            "filename": "Dezful_TACAN_IR",
+            "ident": "DZF",
+            "name": "Dezful",
+            "type": "TACAN",
+            "frequency_khz": "112500",
+            "latitude_deg": "32.416301727295",
+            "longitude_deg": "48.416900634766",
+            "elevation_ft": "487",
+            "iso_country": "IR",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.2",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIAD"
+        },
+        {
+            "id": "87612",
+            "filename": "Dezful_NDB_IR",
+            "ident": "DZF",
+            "name": "Dezful",
+            "type": "NDB",
+            "frequency_khz": "293",
+            "latitude_deg": "32.4379997253418",
+            "longitude_deg": "48.378299713134766",
+            "elevation_ft": "474",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.293",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIAD"
+        }
+    ]
 }

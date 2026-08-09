@@ -77,5 +77,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Çanakkale_Province",
         "keywords": "Airports in Çanakkale Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86913",
+            "filename": "Canakkale_VOR-DME_TR",
+            "ident": "CNK",
+            "name": "Canakkale",
+            "type": "VOR-DME",
+            "frequency_khz": "111200",
+            "latitude_deg": "40.14080047607422",
+            "longitude_deg": "26.4325008392334",
+            "elevation_ft": "39",
+            "iso_country": "TR",
+            "dme_frequency_khz": "111200",
+            "dme_channel": "049X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.505",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTBH"
+        },
+        {
+            "id": "86914",
+            "filename": "Canakkale_NDB_TR",
+            "ident": "CNK",
+            "name": "Canakkale",
+            "type": "NDB",
+            "frequency_khz": "422",
+            "latitude_deg": "40.14080047607422",
+            "longitude_deg": "26.4325008392334",
+            "elevation_ft": "23",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.505",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LTBH"
+        }
+    ]
 }

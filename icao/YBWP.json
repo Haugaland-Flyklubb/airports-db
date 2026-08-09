@@ -77,5 +77,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95486",
+            "filename": "Weipa_VOR-DME_AU",
+            "ident": "WP",
+            "name": "Weipa",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "-12.673299789428711",
+            "longitude_deg": "141.92300415039062",
+            "elevation_ft": "75",
+            "iso_country": "AU",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.007",
+            "magnetic_variation_deg": "5.406",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YBWP"
+        },
+        {
+            "id": "95487",
+            "filename": "Weipa_NDB_AU",
+            "ident": "WP",
+            "name": "Weipa",
+            "type": "NDB",
+            "frequency_khz": "377",
+            "latitude_deg": "-12.661700248718262",
+            "longitude_deg": "141.8990020751953",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.402",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YBWP"
+        }
+    ]
 }

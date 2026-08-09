@@ -85,5 +85,29 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ilocos_Norte_Province",
         "keywords": "Airports in Ilocos Norte Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90160",
+            "filename": "Laoag_VOR-DME_PH",
+            "ident": "LAO",
+            "name": "Laoag",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "18.178800582885742",
+            "longitude_deg": "120.52899932861328",
+            "elevation_ft": "53",
+            "iso_country": "PH",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-2.031",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPLI"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "CK",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85641",
+            "filename": "Atiu_NDB_CK",
+            "ident": "AT",
+            "name": "Atiu",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "-20.003299713134766",
+            "longitude_deg": "-158.10699462890625",
+            "elevation_ft": "",
+            "iso_country": "CK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.193",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NCAT"
+        }
+    ]
 }

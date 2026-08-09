@@ -115,5 +115,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
         "keywords": "Airports in Maine"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92652",
+            "filename": "Excal_NDB_US",
+            "ident": "PQ",
+            "name": "Excal",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "46.610198974609375",
+            "longitude_deg": "-68.0186996459961",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.24",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KPQI"
+        }
+    ]
 }

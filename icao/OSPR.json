@@ -69,5 +69,29 @@
         "iso_country": "SY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Homs_Governorate",
         "keywords": "Jim', Ḩimş"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92264",
+            "filename": "Palmyra_NDB_SY",
+            "ident": "PAL",
+            "name": "Palmyra",
+            "type": "NDB",
+            "frequency_khz": "337",
+            "latitude_deg": "34.55289840698242",
+            "longitude_deg": "38.298301696777344",
+            "elevation_ft": "",
+            "iso_country": "SY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.053",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OSPR"
+        }
+    ]
 }

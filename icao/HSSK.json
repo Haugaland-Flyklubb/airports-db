@@ -101,5 +101,29 @@
         "iso_country": "SD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khartoum_State",
         "keywords": "Airports in Khartoum State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90034",
+            "filename": "Khartoum_VOR-DME_SD",
+            "ident": "KTM",
+            "name": "Khartoum",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "15.566100120544434",
+            "longitude_deg": "32.55339813232422",
+            "elevation_ft": "1280",
+            "iso_country": "SD",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.239",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HSSK"
+        }
+    ]
 }

@@ -35,5 +35,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Caquetá_Department",
         "keywords": "Airports in Caquetá Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85570",
+            "filename": "Araracuara_NDB_CO",
+            "ident": "ARA",
+            "name": "Araracuara",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "-0.6060360074043274",
+            "longitude_deg": "-72.3958969116211",
+            "elevation_ft": "845",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.545",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SKAC"
+        }
+    ]
 }

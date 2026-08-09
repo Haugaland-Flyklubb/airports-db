@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85138",
+            "filename": "St_Paul_NDB_CA",
+            "ident": "8H",
+            "name": "St Paul",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "53.99190139770508",
+            "longitude_deg": "-111.39099884033203",
+            "elevation_ft": "2147",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.474",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CEW3"
+        }
+    ]
 }

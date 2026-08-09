@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88650",
+            "filename": "Jarpik_NDB_CA",
+            "ident": "GW",
+            "name": "Jarpik",
+            "type": "NDB",
+            "frequency_khz": "371",
+            "latitude_deg": "55.28459930419922",
+            "longitude_deg": "-77.75140380859375",
+            "elevation_ft": "60",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.053",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYGW"
+        }
+    ]
 }

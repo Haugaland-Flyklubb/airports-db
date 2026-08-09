@@ -129,5 +129,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93428",
+            "filename": "Sumburgh_NDB_GB",
+            "ident": "SBH",
+            "name": "Sumburgh",
+            "type": "NDB",
+            "frequency_khz": "351",
+            "latitude_deg": "59.88240051269531",
+            "longitude_deg": "-1.2948299646377563",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.214",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGPB"
+        },
+        {
+            "id": "94042",
+            "filename": "Sumburgh_VOR-DME_GB",
+            "ident": "SUM",
+            "name": "Sumburgh",
+            "type": "VOR-DME",
+            "frequency_khz": "117350",
+            "latitude_deg": "59.87889862060547",
+            "longitude_deg": "-1.2866699695587158",
+            "elevation_ft": "19",
+            "iso_country": "GB",
+            "dme_frequency_khz": "117350",
+            "dme_channel": "120Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.001",
+            "magnetic_variation_deg": "-4.212",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGPB"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "ET",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oromia_Region",
         "keywords": "Airports in Oromia Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89510",
+            "filename": "Jimma_NDB_ET",
+            "ident": "JM",
+            "name": "Jimma",
+            "type": "NDB",
+            "frequency_khz": "263",
+            "latitude_deg": "7.668710231781006",
+            "longitude_deg": "36.82160186767578",
+            "elevation_ft": "",
+            "iso_country": "ET",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.393",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HAJM"
+        },
+        {
+            "id": "90015",
+            "filename": "Jimma_NDB_ET",
+            "ident": "KT",
+            "name": "Jimma",
+            "type": "NDB",
+            "frequency_khz": "252",
+            "latitude_deg": "7.655409812927246",
+            "longitude_deg": "36.8317985534668",
+            "elevation_ft": "",
+            "iso_country": "ET",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.392",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HAJM"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Pampa_Province",
         "keywords": "Airports in La Pampa Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92112",
+            "filename": "Santa_Rosa_VOR-DME_AR",
+            "ident": "OSA",
+            "name": "Santa Rosa",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "-36.58369827270508",
+            "longitude_deg": "-64.27279663085938",
+            "elevation_ft": "630",
+            "iso_country": "AR",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "-0.378",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAZR"
+        }
+    ]
 }

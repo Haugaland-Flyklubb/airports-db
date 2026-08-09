@@ -85,5 +85,51 @@
         "iso_country": "KE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uasin_Gishu_County",
         "keywords": "Airports in Uasin Gishu County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87719",
+            "filename": "Eldoret_VOR-DME_KE",
+            "ident": "ELD",
+            "name": "Eldoret",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "0.4063990116119385",
+            "longitude_deg": "35.23109817504883",
+            "elevation_ft": "7137",
+            "iso_country": "KE",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.357",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HKEL"
+        },
+        {
+            "id": "87723",
+            "filename": "Eldoret_NDB_KE",
+            "ident": "ELI",
+            "name": "Eldoret",
+            "type": "NDB",
+            "frequency_khz": "373",
+            "latitude_deg": "0.3993079960346222",
+            "longitude_deg": "35.21269989013672",
+            "elevation_ft": "",
+            "iso_country": "KE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.36",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HKEL"
+        }
+    ]
 }

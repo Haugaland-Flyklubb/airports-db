@@ -93,5 +93,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
         "keywords": "Airports in Grand Est"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93042",
+            "filename": "Reims_VORTAC_FR",
+            "ident": "REM",
+            "name": "Reims",
+            "type": "VORTAC",
+            "frequency_khz": "112300",
+            "latitude_deg": "49.31159973144531",
+            "longitude_deg": "4.045360088348389",
+            "elevation_ft": "335",
+            "iso_country": "FR",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "49.3097",
+            "dme_longitude_deg": "4.04116",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-0.345",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FR-1241"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mazandaran_Province",
         "keywords": "Airports in Mazandaran Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87467",
+            "filename": "Dasht-E-Naz_VOR-DME_IR",
+            "ident": "DNZ",
+            "name": "Dasht-E-Naz",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "36.64459991455078",
+            "longitude_deg": "53.190399169921875",
+            "elevation_ft": "35",
+            "iso_country": "IR",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.001",
+            "magnetic_variation_deg": "4.126",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OINZ"
+        },
+        {
+            "id": "87468",
+            "filename": "Dasht-E-Naz_NDB_IR",
+            "ident": "DNZ",
+            "name": "Dasht-E-Naz",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "36.670101165771484",
+            "longitude_deg": "53.17770004272461",
+            "elevation_ft": "35",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.131",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OINZ"
+        }
+    ]
 }

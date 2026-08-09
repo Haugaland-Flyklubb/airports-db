@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88146",
+            "filename": "Forrest_NDB_AU",
+            "ident": "FRT",
+            "name": "Forrest",
+            "type": "NDB",
+            "frequency_khz": "268",
+            "latitude_deg": "-30.854999542236328",
+            "longitude_deg": "128.0989990234375",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.402",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YFRT"
+        }
+    ]
 }

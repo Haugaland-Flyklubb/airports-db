@@ -59,5 +59,51 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Liaoning",
         "keywords": "Airports in Liaoning Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86759",
+            "filename": "Chaoyang_VOR-DME_CN",
+            "ident": "CHG",
+            "name": "Chaoyang",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "41.53670120239258",
+            "longitude_deg": "120.43299865722656",
+            "elevation_ft": "603",
+            "iso_country": "CN",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.48",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZYCY"
+        },
+        {
+            "id": "88007",
+            "filename": "Chaoyang_NDB_CN",
+            "ident": "FJ",
+            "name": "Chaoyang",
+            "type": "NDB",
+            "frequency_khz": "226",
+            "latitude_deg": "41.58330154418945",
+            "longitude_deg": "120.43299865722656",
+            "elevation_ft": "",
+            "iso_country": "CN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.478",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ZYCY"
+        }
+    ]
 }

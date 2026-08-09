@@ -131,5 +131,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90599",
+            "filename": "Leuchars_TACAN_GB",
+            "ident": "LUK",
+            "name": "Leuchars",
+            "type": "TACAN",
+            "frequency_khz": "110500",
+            "latitude_deg": "56.372798919677734",
+            "longitude_deg": "-2.8636701107025146",
+            "elevation_ft": "72",
+            "iso_country": "GB",
+            "dme_frequency_khz": "110500",
+            "dme_channel": "042X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-4.184",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGQL"
+        }
+    ]
 }

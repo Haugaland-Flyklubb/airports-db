@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86113",
+            "filename": "Burketown_NDB_AU",
+            "ident": "BKT",
+            "name": "Burketown",
+            "type": "NDB",
+            "frequency_khz": "236",
+            "latitude_deg": "-17.751100540161133",
+            "longitude_deg": "139.53199768066406",
+            "elevation_ft": "21",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.487",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YBKT"
+        }
+    ]
 }

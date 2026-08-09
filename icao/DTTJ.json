@@ -77,5 +77,29 @@
         "iso_country": "TN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Medenine_Governorate",
         "keywords": "airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89448",
+            "filename": "Djerba_VOR-DME_TN",
+            "ident": "JBA",
+            "name": "Djerba",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "33.877201080322266",
+            "longitude_deg": "10.771400451660156",
+            "elevation_ft": "33",
+            "iso_country": "TN",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.113",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DTTJ"
+        }
+    ]
 }

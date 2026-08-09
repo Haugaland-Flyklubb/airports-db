@@ -107,5 +107,51 @@
         "iso_country": "LS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maseru_District",
         "keywords": "Airports in Maseru District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90852",
+            "filename": "Berea_NDB_LS",
+            "ident": "ME",
+            "name": "Berea",
+            "type": "NDB",
+            "frequency_khz": "255",
+            "latitude_deg": "-29.41990089416504",
+            "longitude_deg": "27.56570053100586",
+            "elevation_ft": "",
+            "iso_country": "LS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.591",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FXMM"
+        },
+        {
+            "id": "91425",
+            "filename": "Mazenod_VOR-DME_LS",
+            "ident": "MZV",
+            "name": "Mazenod",
+            "type": "VOR-DME",
+            "frequency_khz": "117200",
+            "latitude_deg": "-29.50040054321289",
+            "longitude_deg": "27.540599822998047",
+            "elevation_ft": "5578",
+            "iso_country": "LS",
+            "dme_frequency_khz": "117200",
+            "dme_channel": "119X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.043",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FXMM"
+        }
+    ]
 }

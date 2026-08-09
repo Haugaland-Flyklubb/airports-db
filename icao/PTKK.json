@@ -85,5 +85,29 @@
         "iso_country": "FM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chuuk_State",
         "keywords": "Airports in Chuuk State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94406",
+            "filename": "Truk_NDB-DME_FM",
+            "ident": "TKK",
+            "name": "Truk",
+            "type": "NDB-DME",
+            "frequency_khz": "375",
+            "latitude_deg": "7.457170009613037",
+            "longitude_deg": "151.83999633789062",
+            "elevation_ft": "96",
+            "iso_country": "FM",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.354",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PTKK"
+        }
+    ]
 }

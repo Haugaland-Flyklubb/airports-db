@@ -59,5 +59,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Occitania_(administrative_region)",
         "keywords": "Languedoc-Roussillon, Midi-Pyrénées"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87065",
+            "filename": "Castelsarrasin_Moissac_NDB_FR",
+            "ident": "CSM",
+            "name": "Castelsarrasin Moissac",
+            "type": "NDB",
+            "frequency_khz": "327",
+            "latitude_deg": "44.087100982666016",
+            "longitude_deg": "1.1307799816131592",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.024",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LFCX"
+        }
+    ]
 }

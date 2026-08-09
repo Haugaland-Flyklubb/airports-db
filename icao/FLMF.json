@@ -77,5 +77,51 @@
         "iso_country": "ZM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Province,_Zambia",
         "keywords": "Airports in Eastern Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90893",
+            "filename": "Mfuwe_NDB_ZM",
+            "ident": "MF",
+            "name": "Mfuwe",
+            "type": "NDB",
+            "frequency_khz": "401",
+            "latitude_deg": "-13.270400047302246",
+            "longitude_deg": "31.915000915527344",
+            "elevation_ft": "",
+            "iso_country": "ZM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.394",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FLMF"
+        },
+        {
+            "id": "95205",
+            "filename": "Mfuwe_VOR-DME_ZM",
+            "ident": "VMF",
+            "name": "Mfuwe",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "-13.261500358581543",
+            "longitude_deg": "31.915000915527344",
+            "elevation_ft": "1871",
+            "iso_country": "ZM",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.391",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FLMF"
+        }
+    ]
 }

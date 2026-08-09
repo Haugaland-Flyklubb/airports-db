@@ -93,5 +93,29 @@
         "iso_country": "PR",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86285",
+            "filename": "Borinquen_VORTAC_PR",
+            "ident": "BQN",
+            "name": "Borinquen",
+            "type": "VORTAC",
+            "frequency_khz": "113500",
+            "latitude_deg": "18.49799919128418",
+            "longitude_deg": "-67.1083984375",
+            "elevation_ft": "214",
+            "iso_country": "PR",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.01",
+            "magnetic_variation_deg": "-12.045",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "TJBQ"
+        }
+    ]
 }

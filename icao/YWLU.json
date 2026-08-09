@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95460",
+            "filename": "Wiluna_NDB_AU",
+            "ident": "WLU",
+            "name": "Wiluna",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "-26.62470054626465",
+            "longitude_deg": "120.22000122070312",
+            "elevation_ft": "1649",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.284",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "YWLU"
+        }
+    ]
 }

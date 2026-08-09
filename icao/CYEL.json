@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95657",
+            "filename": "Elliot_Lake_NDB_CA",
+            "ident": "YEL",
+            "name": "Elliot Lake",
+            "type": "NDB",
+            "frequency_khz": "276",
+            "latitude_deg": "46.371700286865234",
+            "longitude_deg": "-82.6281967163086",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.497",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYEL"
+        }
+    ]
 }

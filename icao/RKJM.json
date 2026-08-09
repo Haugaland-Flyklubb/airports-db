@@ -93,5 +93,51 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Jeolla_Province",
         "keywords": "Airports in Jeollanam-do (South Jeolla)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91027",
+            "filename": "Mokpo_VOR-DME_KR",
+            "ident": "MKP",
+            "name": "Mokpo",
+            "type": "VOR-DME",
+            "frequency_khz": "111200",
+            "latitude_deg": "34.75979995727539",
+            "longitude_deg": "126.37899780273438",
+            "elevation_ft": "23",
+            "iso_country": "KR",
+            "dme_frequency_khz": "111200",
+            "dme_channel": "049X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-6.533",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RKJM"
+        },
+        {
+            "id": "91192",
+            "filename": "Mokpo_NDB_KR",
+            "ident": "MP",
+            "name": "Mokpo",
+            "type": "NDB",
+            "frequency_khz": "267",
+            "latitude_deg": "34.757598876953125",
+            "longitude_deg": "126.38200378417969",
+            "elevation_ft": "23",
+            "iso_country": "KR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.533",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RKJM"
+        }
+    ]
 }

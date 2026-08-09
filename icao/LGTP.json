@@ -69,5 +69,51 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Peloponnese_(region)",
         "keywords": "Περιφέρεια Πελοποννήσου"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94547",
+            "filename": "Tripolis_TACAN_GR",
+            "ident": "TPO",
+            "name": "Tripolis",
+            "type": "TACAN",
+            "frequency_khz": "109800",
+            "latitude_deg": "37.527801513671875",
+            "longitude_deg": "22.40530014038086",
+            "elevation_ft": "2113",
+            "iso_country": "GR",
+            "dme_frequency_khz": "109800",
+            "dme_channel": "035X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.048",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LGTP"
+        },
+        {
+            "id": "94591",
+            "filename": "Tripolis_VOR-DME_GR",
+            "ident": "TRL",
+            "name": "Tripolis",
+            "type": "VOR-DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "37.4026985168457",
+            "longitude_deg": "22.339599609375",
+            "elevation_ft": "3429",
+            "iso_country": "GR",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.036",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LGTP"
+        }
+    ]
 }

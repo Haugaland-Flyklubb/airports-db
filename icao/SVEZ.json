@@ -59,5 +59,29 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Apure",
         "keywords": "Airports in Apure State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87893",
+            "filename": "Elorza_NDB_VE",
+            "ident": "EZA",
+            "name": "Elorza",
+            "type": "NDB",
+            "frequency_khz": "240",
+            "latitude_deg": "7.058330059051514",
+            "longitude_deg": "-69.49199676513672",
+            "elevation_ft": "",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.088",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SVEZ"
+        }
+    ]
 }

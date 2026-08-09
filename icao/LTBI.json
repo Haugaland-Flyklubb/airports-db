@@ -93,5 +93,29 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eskişehir_Province",
         "keywords": "Airports in Eskişehir Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87831",
+            "filename": "Eskisehir_TACAN_TR",
+            "ident": "ESK",
+            "name": "Eskisehir",
+            "type": "TACAN",
+            "frequency_khz": "114400",
+            "latitude_deg": "39.78369903564453",
+            "longitude_deg": "30.606300354003906",
+            "elevation_ft": "2599",
+            "iso_country": "TR",
+            "dme_frequency_khz": "114400",
+            "dme_channel": "091X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.172",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTBI"
+        }
+    ]
 }

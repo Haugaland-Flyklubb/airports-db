@@ -69,5 +69,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94670",
+            "filename": "Tucurui_VOR-DME_BR",
+            "ident": "TUI",
+            "name": "Tucurui",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "-3.801340103149414",
+            "longitude_deg": "-49.72129821777344",
+            "elevation_ft": "830",
+            "iso_country": "BR",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-18.007",
+            "magnetic_variation_deg": "-19.298",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBTU"
+        },
+        {
+            "id": "94671",
+            "filename": "Tucurui_NDB_BR",
+            "ident": "TUI",
+            "name": "Tucurui",
+            "type": "NDB",
+            "frequency_khz": "220",
+            "latitude_deg": "-3.786410093307495",
+            "longitude_deg": "-49.71440124511719",
+            "elevation_ft": "830",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.299",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBTU"
+        }
+    ]
 }

@@ -117,5 +117,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
         "keywords": "Airports in Hawaii"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86363",
+            "filename": "Bradshaw_NDB_US",
+            "ident": "BSF",
+            "name": "Bradshaw",
+            "type": "NDB",
+            "frequency_khz": "339",
+            "latitude_deg": "19.763399124145508",
+            "longitude_deg": "-155.593994140625",
+            "elevation_ft": "5785",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.533",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "PHSF"
+        },
+        {
+            "id": "94932",
+            "filename": "Upolu_Point_VORTAC_US",
+            "ident": "UPP",
+            "name": "Upolu Point",
+            "type": "VORTAC",
+            "frequency_khz": "112300",
+            "latitude_deg": "20.20050048828125",
+            "longitude_deg": "-155.84300231933594",
+            "elevation_ft": "1760",
+            "iso_country": "US",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "9.561",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PHSF"
+        }
+    ]
 }

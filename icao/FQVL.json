@@ -91,5 +91,29 @@
         "iso_country": "MZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Inhambane_Province",
         "keywords": "Airports in Inhambane Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95175",
+            "filename": "Vilankulo_NDB_MZ",
+            "ident": "VL",
+            "name": "Vilankulo",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "-21.967500686645508",
+            "longitude_deg": "35.28340148925781",
+            "elevation_ft": "",
+            "iso_country": "MZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.285",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FQVL"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
         "keywords": "Airports in Goiás"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95622",
+            "filename": "Itumbiara_NDB_BR",
+            "ident": "YBA",
+            "name": "Itumbiara",
+            "type": "NDB",
+            "frequency_khz": "245",
+            "latitude_deg": "-18.44029998779297",
+            "longitude_deg": "-49.21870040893555",
+            "elevation_ft": "1630",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.236",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBIT"
+        }
+    ]
 }

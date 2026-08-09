@@ -69,5 +69,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
         "keywords": "Airports in Gujarat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92915",
+            "filename": "Vadodara_VOR-DME_IN",
+            "ident": "QQZ",
+            "name": "Vadodara",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "22.332799911499023",
+            "longitude_deg": "73.22509765625",
+            "elevation_ft": "123",
+            "iso_country": "IN",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.188",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VABO"
+        },
+        {
+            "id": "92930",
+            "filename": "Vadodara_NDB_IN",
+            "ident": "QZ",
+            "name": "Vadodara",
+            "type": "NDB",
+            "frequency_khz": "304",
+            "latitude_deg": "22.334800720214844",
+            "longitude_deg": "73.20929718017578",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.188",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VABO"
+        }
+    ]
 }

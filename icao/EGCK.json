@@ -91,5 +91,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
         "keywords": "Welsh airports, Cymru, Meysydd awyr Cymru"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86559",
+            "filename": "Caernarfon_NDB_GB",
+            "ident": "CAE",
+            "name": "Caernarfon",
+            "type": "NDB",
+            "frequency_khz": "320",
+            "latitude_deg": "53.100101470947266",
+            "longitude_deg": "-4.33951997756958",
+            "elevation_ft": "1",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.137",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGCK"
+        }
+    ]
 }

@@ -175,5 +175,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Volgograd_Oblast",
         "keywords": "Airports in Volgograd Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95389",
+            "filename": "Gumrak_NDB_RU",
+            "ident": "WD",
+            "name": "Gumrak",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "48.7599983215332",
+            "longitude_deg": "44.406700134277344",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.035",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "URWW"
+        },
+        {
+            "id": "95406",
+            "filename": "Gumrak_NDB_RU",
+            "ident": "WG",
+            "name": "Gumrak",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "48.80500030517578",
+            "longitude_deg": "44.28670120239258",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.037",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "URWW"
+        }
+    ]
 }

@@ -93,5 +93,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95513",
+            "filename": "Wattisham_TACAN_GB",
+            "ident": "WTZ",
+            "name": "Wattisham",
+            "type": "TACAN",
+            "frequency_khz": "109300",
+            "latitude_deg": "52.12189865112305",
+            "longitude_deg": "0.9404690265655518",
+            "elevation_ft": "324",
+            "iso_country": "GB",
+            "dme_frequency_khz": "109300",
+            "dme_channel": "030X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-1.584",
+            "usageType": "HI",
+            "power": "HIGH",
+            "associated_airport": "EGUW"
+        }
+    ]
 }

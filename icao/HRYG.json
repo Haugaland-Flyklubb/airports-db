@@ -77,5 +77,29 @@
         "iso_country": "RW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Province,_Rwanda",
         "keywords": "Intara y'Iburengerazuba, Province de l'Ouest"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88663",
+            "filename": "Gisenyi_NDB_RW",
+            "ident": "GY",
+            "name": "Gisenyi",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "-1.6766899824142456",
+            "longitude_deg": "29.260299682617188",
+            "elevation_ft": "5126",
+            "iso_country": "RW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.106",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "HRYG"
+        }
+    ]
 }

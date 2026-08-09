@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91293",
+            "filename": "Massena_VORTAC_US",
+            "ident": "MSS",
+            "name": "Massena",
+            "type": "VORTAC",
+            "frequency_khz": "114100",
+            "latitude_deg": "44.914398193359375",
+            "longitude_deg": "-74.72270202636719",
+            "elevation_ft": "200",
+            "iso_country": "US",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-14.004",
+            "magnetic_variation_deg": "-14.167",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYCC"
+        }
+    ]
 }

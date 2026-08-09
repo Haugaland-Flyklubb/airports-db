@@ -117,5 +117,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Friuli-Venezia_Giulia",
         "keywords": "FV"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85701",
+            "filename": "Aviano_TACAN_IT",
+            "ident": "AVI",
+            "name": "Aviano",
+            "type": "TACAN",
+            "frequency_khz": "116400",
+            "latitude_deg": "46.02790069580078",
+            "longitude_deg": "12.586899757385254",
+            "elevation_ft": "413",
+            "iso_country": "IT",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "1.522",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIPA"
+        },
+        {
+            "id": "85702",
+            "filename": "Aviano_NDB_IT",
+            "ident": "AVI",
+            "name": "Aviano",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "45.92430114746094",
+            "longitude_deg": "12.428500175476074",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.5",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LIPA"
+        }
+    ]
 }

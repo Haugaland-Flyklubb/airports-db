@@ -183,5 +183,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
         "keywords": "Airports in Colorado"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92793",
+            "filename": "Mertz_NDB_US",
+            "ident": "PU",
+            "name": "Mertz",
+            "type": "NDB",
+            "frequency_khz": "302",
+            "latitude_deg": "38.28390121459961",
+            "longitude_deg": "-104.64700317382812",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.17",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KPUB"
+        },
+        {
+            "id": "94301",
+            "filename": "Aruba_NDB_US",
+            "ident": "TF",
+            "name": "Aruba",
+            "type": "NDB",
+            "frequency_khz": "373",
+            "latitude_deg": "38.29090118408203",
+            "longitude_deg": "-104.3550033569336",
+            "elevation_ft": "4671",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.079",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KPUB"
+        }
+    ]
 }

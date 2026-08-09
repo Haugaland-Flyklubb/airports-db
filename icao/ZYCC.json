@@ -85,5 +85,29 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jilin",
         "keywords": "Airports in Jilin Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90365",
+            "filename": "Wanchang_VOR-DME_CN",
+            "ident": "LJB",
+            "name": "Wanchang",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "43.77330017089844",
+            "longitude_deg": "125.85199737548828",
+            "elevation_ft": "653",
+            "iso_country": "CN",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.344",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZYCC"
+        }
+    ]
 }

@@ -113,5 +113,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94376",
+            "filename": "Tiree_VOR-DME_GB",
+            "ident": "TIR",
+            "name": "Tiree",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "56.49319839477539",
+            "longitude_deg": "-6.8755598068237305",
+            "elevation_ft": "36",
+            "iso_country": "GB",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.001",
+            "magnetic_variation_deg": "-6.098",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGPU"
+        }
+    ]
 }

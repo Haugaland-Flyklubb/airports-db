@@ -77,5 +77,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kerman_Province",
         "keywords": "Airports in Kerman Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85800",
+            "filename": "Bam_VOR-DME_IR",
+            "ident": "BAM",
+            "name": "Bam",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "29.077499389648438",
+            "longitude_deg": "58.45759963989258",
+            "elevation_ft": "3231",
+            "iso_country": "IR",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "1.559",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIKM"
+        },
+        {
+            "id": "85801",
+            "filename": "Bam_NDB_IR",
+            "ident": "BAM",
+            "name": "Bam",
+            "type": "NDB",
+            "frequency_khz": "379",
+            "latitude_deg": "29.077899932861328",
+            "longitude_deg": "58.45429992675781",
+            "elevation_ft": "3084",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.56",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OIKM"
+        }
+    ]
 }

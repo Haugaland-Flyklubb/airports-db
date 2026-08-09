@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89619",
+            "filename": "Nemiscau_NDB_CA",
+            "ident": "K8",
+            "name": "Nemiscau",
+            "type": "NDB",
+            "frequency_khz": "214",
+            "latitude_deg": "51.688899993896484",
+            "longitude_deg": "-76.13420104980469",
+            "elevation_ft": "804",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.455",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYHH"
+        }
+    ]
 }

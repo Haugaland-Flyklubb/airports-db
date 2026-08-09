@@ -35,5 +35,29 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
         "keywords": "Baluchistan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87283",
+            "filename": "Dalbandin_NDB_PK",
+            "ident": "DB",
+            "name": "Dalbandin",
+            "type": "NDB",
+            "frequency_khz": "287",
+            "latitude_deg": "28.87350082397461",
+            "longitude_deg": "64.4011001586914",
+            "elevation_ft": "",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.256",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPDB"
+        }
+    ]
 }

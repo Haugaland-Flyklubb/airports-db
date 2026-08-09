@@ -69,5 +69,29 @@
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Taitung_County",
         "keywords": "Airports in Taitung County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90659",
+            "filename": "Lanyu_NDB_TW",
+            "ident": "LY",
+            "name": "Lanyu",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "22.07670021057129",
+            "longitude_deg": "121.50800323486328",
+            "elevation_ft": "",
+            "iso_country": "TW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.598",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RCLY"
+        }
+    ]
 }

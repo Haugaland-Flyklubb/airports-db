@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
         "keywords": "Airports in Missouri"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86717",
+            "filename": "Dutch_NDB_US",
+            "ident": "CG",
+            "name": "Dutch",
+            "type": "NDB",
+            "frequency_khz": "248",
+            "latitude_deg": "37.25339889526367",
+            "longitude_deg": "-89.70059967041016",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.367",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCGI"
+        },
+        {
+            "id": "86722",
+            "filename": "Cape_Girardeau_VOR-DME_US",
+            "ident": "CGI",
+            "name": "Cape Girardeau",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "37.227500915527344",
+            "longitude_deg": "-89.57240295410156",
+            "elevation_ft": "340",
+            "iso_country": "US",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "-0.425",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KCGI"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88305",
+            "filename": "Greene_County_VORTAC_US",
+            "ident": "GCV",
+            "name": "Greene County",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "31.097999572753906",
+            "longitude_deg": "-88.48609924316406",
+            "elevation_ft": "300",
+            "iso_country": "US",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.004",
+            "magnetic_variation_deg": "-0.42",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "K2R0"
+        }
+    ]
 }

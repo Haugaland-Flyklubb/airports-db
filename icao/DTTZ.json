@@ -77,5 +77,51 @@
         "iso_country": "TN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tozeur_Governorate",
         "keywords": "airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94515",
+            "filename": "Tozeur_VOR-DME_TN",
+            "ident": "TON",
+            "name": "Tozeur",
+            "type": "VOR-DME",
+            "frequency_khz": "117000",
+            "latitude_deg": "33.941001892089844",
+            "longitude_deg": "8.100390434265137",
+            "elevation_ft": "289",
+            "iso_country": "TN",
+            "dme_frequency_khz": "117000",
+            "dme_channel": "117X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "0.437",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DTTZ"
+        },
+        {
+            "id": "96073",
+            "filename": "Nefta_NDB_TN",
+            "ident": "ZN",
+            "name": "Nefta",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "33.93980026245117",
+            "longitude_deg": "8.005220413208008",
+            "elevation_ft": "",
+            "iso_country": "TN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.427",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "DTTZ"
+        }
+    ]
 }

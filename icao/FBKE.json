@@ -77,5 +77,51 @@
         "iso_country": "BW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chobe_District",
         "keywords": "Airports in Chobe District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89661",
+            "filename": "Kasane_NDB_BW",
+            "ident": "KAS",
+            "name": "Kasane",
+            "type": "NDB",
+            "frequency_khz": "287",
+            "latitude_deg": "-17.822999954223633",
+            "longitude_deg": "25.1564998626709",
+            "elevation_ft": "",
+            "iso_country": "BW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.5",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FBKE"
+        },
+        {
+            "id": "90012",
+            "filename": "Kasane_VOR-DME_BW",
+            "ident": "KSV",
+            "name": "Kasane",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "-17.832700729370117",
+            "longitude_deg": "25.16990089416504",
+            "elevation_ft": "3293",
+            "iso_country": "BW",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.506",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FBKE"
+        }
+    ]
 }

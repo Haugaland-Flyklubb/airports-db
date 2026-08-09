@@ -35,5 +35,29 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_Metropolitan_Region",
         "keywords": "Airports in Santiago Metropolitan Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93990",
+            "filename": "Los_Cerrillos_VOR-DME_CL",
+            "ident": "STI",
+            "name": "Los Cerrillos",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "-33.502201080322266",
+            "longitude_deg": "-70.7029037475586",
+            "elevation_ft": "1684",
+            "iso_country": "CL",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.336",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "CL-0021"
+        }
+    ]
 }

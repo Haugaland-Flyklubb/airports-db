@@ -69,5 +69,29 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Azerbaijan_province",
         "keywords": "Airports in West Azerbaijan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89780",
+            "filename": "Khoy_NDB_IR",
+            "ident": "KHY",
+            "name": "Khoy",
+            "type": "NDB",
+            "frequency_khz": "288",
+            "latitude_deg": "38.42919921875",
+            "longitude_deg": "44.969200134277344",
+            "elevation_ft": "",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.529",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OITK"
+        }
+    ]
 }

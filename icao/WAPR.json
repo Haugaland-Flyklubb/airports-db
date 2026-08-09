@@ -59,5 +59,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maluku",
         "keywords": "Airports in Maluku"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91449",
+            "filename": "Namlea_NDB_ID",
+            "ident": "NA",
+            "name": "Namlea",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "-3.237639904022217",
+            "longitude_deg": "127.0979995727539",
+            "elevation_ft": "108",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.563",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAPR"
+        }
+    ]
 }

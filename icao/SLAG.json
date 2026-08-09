@@ -35,5 +35,29 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chuquisaca_Department",
         "keywords": "Airports in Chuquisaca Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85311",
+            "filename": "Monteagudo_NDB_BO",
+            "ident": "AGU",
+            "name": "Monteagudo",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-19.835500717163086",
+            "longitude_deg": "-63.965301513671875",
+            "elevation_ft": "",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.191",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SLAG"
+        }
+    ]
 }

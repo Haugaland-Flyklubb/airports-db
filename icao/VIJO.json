@@ -77,5 +77,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rajasthan",
         "keywords": "Airports in Rajasthan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89497",
+            "filename": "Jodhpur_VOR-DME_IN",
+            "ident": "JJO",
+            "name": "Jodhpur",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "26.233600616455078",
+            "longitude_deg": "73.04930114746094",
+            "elevation_ft": "717",
+            "iso_country": "IN",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.238",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VIJO"
+        },
+        {
+            "id": "89525",
+            "filename": "Jodhpur_NDB_IN",
+            "ident": "JO",
+            "name": "Jodhpur",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "26.250200271606445",
+            "longitude_deg": "73.03269958496094",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.24",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VIJO"
+        }
+    ]
 }

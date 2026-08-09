@@ -115,5 +115,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
         "keywords": "Airports in Arkansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86456",
+            "filename": "Almnd_NDB_US",
+            "ident": "BV",
+            "name": "Almnd",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "35.70320129394531",
+            "longitude_deg": "-91.79779815673828",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.092",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBVX"
+        }
+    ]
 }

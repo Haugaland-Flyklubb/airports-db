@@ -85,5 +85,29 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Utrecht",
         "keywords": "Airports in Utrecht"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93944",
+            "filename": "Soesterberg_TACAN_NL",
+            "ident": "SSB",
+            "name": "Soesterberg",
+            "type": "TACAN",
+            "frequency_khz": "115800",
+            "latitude_deg": "52.128299713134766",
+            "longitude_deg": "5.275559902191162",
+            "elevation_ft": "49",
+            "iso_country": "NL",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.252",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NL-0144"
+        }
+    ]
 }

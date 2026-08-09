@@ -93,5 +93,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
         "keywords": "Airports in Gujarat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85181",
+            "filename": "Ahmedabad_VOR-DME_IN",
+            "ident": "AAE",
+            "name": "Ahmedabad",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "23.072200775146484",
+            "longitude_deg": "72.625",
+            "elevation_ft": "184",
+            "iso_country": "IN",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.099",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VAAH"
+        },
+        {
+            "id": "85317",
+            "filename": "Ahmedabad_NDB_IN",
+            "ident": "AH",
+            "name": "Ahmedabad",
+            "type": "NDB",
+            "frequency_khz": "215",
+            "latitude_deg": "23.141399383544922",
+            "longitude_deg": "72.69969940185547",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.094",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VAAH"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Valley_Governorate",
         "keywords": "Airports in New Valley Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89771",
+            "filename": "El_Kharga_VOR-DME_EG",
+            "ident": "KHG",
+            "name": "El Kharga",
+            "type": "VOR-DME",
+            "frequency_khz": "113800",
+            "latitude_deg": "25.448400497436523",
+            "longitude_deg": "30.59079933166504",
+            "elevation_ft": "137",
+            "iso_country": "EG",
+            "dme_frequency_khz": "113800",
+            "dme_channel": "085X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "2.571",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HEKG"
+        }
+    ]
 }

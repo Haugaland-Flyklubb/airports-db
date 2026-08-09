@@ -69,5 +69,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
         "keywords": "Welsh airports, Cymru, Meysydd awyr Cymru"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95489",
+            "filename": "Welshpool_NDB-DME_GB",
+            "ident": "WPL",
+            "name": "Welshpool",
+            "type": "NDB-DME",
+            "frequency_khz": "323",
+            "latitude_deg": "52.630001068115234",
+            "longitude_deg": "-3.1538898944854736",
+            "elevation_ft": "282",
+            "iso_country": "GB",
+            "dme_frequency_khz": "115950",
+            "dme_channel": "106Y",
+            "dme_latitude_deg": "52.6297",
+            "dme_longitude_deg": "-3.15389",
+            "dme_elevation_ft": "282",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.389",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGCW"
+        }
+    ]
 }

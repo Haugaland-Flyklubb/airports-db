@@ -93,5 +93,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90239",
+            "filename": "City_NDB_GB",
+            "ident": "LCY",
+            "name": "City",
+            "type": "NDB",
+            "frequency_khz": "322",
+            "latitude_deg": "51.50429916381836",
+            "longitude_deg": "0.06750299781560898",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.125",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGLC"
+        }
+    ]
 }

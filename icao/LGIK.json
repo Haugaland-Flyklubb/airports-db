@@ -77,5 +77,29 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Aegean",
         "keywords": "Περιφέρεια Βορείου Αιγαίου"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89211",
+            "filename": "Ikaria_NDB_GR",
+            "ident": "IKA",
+            "name": "Ikaria",
+            "type": "NDB",
+            "frequency_khz": "322",
+            "latitude_deg": "37.682899475097656",
+            "longitude_deg": "26.345600128173828",
+            "elevation_ft": "80",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.345",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LGIK"
+        }
+    ]
 }

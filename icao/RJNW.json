@@ -77,5 +77,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ishikawa",
         "keywords": "Chubu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91740",
+            "filename": "Noto_VOR-DME_JP",
+            "ident": "NTE",
+            "name": "Noto",
+            "type": "VOR-DME",
+            "frequency_khz": "111450",
+            "latitude_deg": "37.290000915527344",
+            "longitude_deg": "136.96299743652344",
+            "elevation_ft": "786",
+            "iso_country": "JP",
+            "dme_frequency_khz": "111450",
+            "dme_channel": "051Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.482",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "RJNW"
+        }
+    ]
 }

@@ -69,5 +69,51 @@
         "iso_country": "YT",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87615",
+            "filename": "Dzaoudzi_Pamandzi_VOR-DME_YT",
+            "ident": "DZP",
+            "name": "Dzaoudzi Pamandzi",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "-12.810999870300293",
+            "longitude_deg": "45.28089904785156",
+            "elevation_ft": "23",
+            "iso_country": "YT",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-7.599",
+            "usageType": "HI",
+            "power": "HIGH",
+            "associated_airport": "FMCZ"
+        },
+        {
+            "id": "88012",
+            "filename": "Dzaoudzi_Pamandzi_NDB_YT",
+            "ident": "FJO",
+            "name": "Dzaoudzi Pamandzi",
+            "type": "NDB",
+            "frequency_khz": "341",
+            "latitude_deg": "-12.801899909973145",
+            "longitude_deg": "45.281898498535156",
+            "elevation_ft": "",
+            "iso_country": "YT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.595",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FMCZ"
+        }
+    ]
 }

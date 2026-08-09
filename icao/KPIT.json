@@ -223,5 +223,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91091",
+            "filename": "Montour_VORTAC_US",
+            "ident": "MMJ",
+            "name": "Montour",
+            "type": "VORTAC",
+            "frequency_khz": "112000",
+            "latitude_deg": "40.48820114135742",
+            "longitude_deg": "-80.19390106201172",
+            "elevation_ft": "1200",
+            "iso_country": "US",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.004",
+            "magnetic_variation_deg": "-8.519",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KPIT"
+        }
+    ]
 }

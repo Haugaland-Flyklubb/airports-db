@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95358",
+            "filename": "Jenpeg_NDB_CA",
+            "ident": "W4",
+            "name": "Jenpeg",
+            "type": "NDB",
+            "frequency_khz": "323",
+            "latitude_deg": "54.52000045776367",
+            "longitude_deg": "-98.04340362548828",
+            "elevation_ft": "730",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.33",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CZJG"
+        }
+    ]
 }

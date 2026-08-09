@@ -77,5 +77,29 @@
         "iso_country": "GH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bono_Region",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "93800",
+            "filename": "Sunyani_NDB_GH",
+            "ident": "SN",
+            "name": "Sunyani",
+            "type": "NDB",
+            "frequency_khz": "357",
+            "latitude_deg": "7.3774800300598145",
+            "longitude_deg": "-2.299570083618164",
+            "elevation_ft": "",
+            "iso_country": "GH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.516",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "DGSN"
+        }
+    ]
 }

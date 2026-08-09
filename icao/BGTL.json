@@ -109,5 +109,29 @@
         "iso_country": "GL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Avannaata",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "94352",
+            "filename": "Thule_VORTAC_GL",
+            "ident": "THT",
+            "name": "Thule",
+            "type": "VORTAC",
+            "frequency_khz": "111000",
+            "latitude_deg": "76.54239654541016",
+            "longitude_deg": "-68.23919677734375",
+            "elevation_ft": "1294",
+            "iso_country": "GL",
+            "dme_frequency_khz": "111000",
+            "dme_channel": "047X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0",
+            "magnetic_variation_deg": "-55",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "BGTL"
+        }
+    ]
 }

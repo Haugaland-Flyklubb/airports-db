@@ -77,5 +77,29 @@
         "iso_country": "SI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Municipality_of_Piran",
         "keywords": "Airports in Piran"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92860",
+            "filename": "Portoroz_NDB_SI",
+            "ident": "PZ",
+            "name": "Portoroz",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "45.477500915527344",
+            "longitude_deg": "13.614899635314941",
+            "elevation_ft": "10",
+            "iso_country": "SI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.053",
+            "usageType": "RNAV",
+            "power": "LOW",
+            "associated_airport": "LJPZ"
+        }
+    ]
 }

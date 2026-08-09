@@ -69,5 +69,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
         "keywords": "Airports in Nevada"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93485",
+            "filename": "Sod_House_VORTAC_US",
+            "ident": "SDO",
+            "name": "Sod House",
+            "type": "VORTAC",
+            "frequency_khz": "114300",
+            "latitude_deg": "41.407100677490234",
+            "longitude_deg": "-118.03500366210938",
+            "elevation_ft": "4161",
+            "iso_country": "US",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "18.001",
+            "magnetic_variation_deg": "14.516",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "US-11943"
+        }
+    ]
 }

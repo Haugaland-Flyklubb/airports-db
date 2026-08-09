@@ -35,5 +35,29 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Madhesh_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "92984",
+            "filename": "Rajbiraj_NDB_NP",
+            "ident": "RBJ",
+            "name": "Rajbiraj",
+            "type": "NDB",
+            "frequency_khz": "306",
+            "latitude_deg": "26.520000457763672",
+            "longitude_deg": "86.73809814453125",
+            "elevation_ft": "100",
+            "iso_country": "NP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.057",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VNRB"
+        }
+    ]
 }

@@ -69,5 +69,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rondônia",
         "keywords": "Airports in Rondônia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95187",
+            "filename": "Vilhena_VOR-DME_BR",
+            "ident": "VLH",
+            "name": "Vilhena",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "-12.693699836730957",
+            "longitude_deg": "-60.095298767089844",
+            "elevation_ft": "2036",
+            "iso_country": "BR",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.007",
+            "magnetic_variation_deg": "-13.072",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBVH"
+        },
+        {
+            "id": "95188",
+            "filename": "Vilhena_NDB_BR",
+            "ident": "VLH",
+            "name": "Vilhena",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "-12.689499855041504",
+            "longitude_deg": "-60.10329818725586",
+            "elevation_ft": "2252",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.068",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBVH"
+        }
+    ]
 }

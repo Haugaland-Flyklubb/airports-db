@@ -131,5 +131,51 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jeju_Province",
         "keywords": "Airports in Jeju Teukbyeoljachi-do"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86819",
+            "filename": "Jeju_VORTAC_KR",
+            "ident": "CJU",
+            "name": "Jeju",
+            "type": "VORTAC",
+            "frequency_khz": "116100",
+            "latitude_deg": "33.384700775146484",
+            "longitude_deg": "126.6240005493164",
+            "elevation_ft": "2450",
+            "iso_country": "KR",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.011",
+            "magnetic_variation_deg": "-6.298",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RKPC"
+        },
+        {
+            "id": "95647",
+            "filename": "Yongdam_VOR-DME_KR",
+            "ident": "YDM",
+            "name": "Yongdam",
+            "type": "VOR-DME",
+            "frequency_khz": "109000",
+            "latitude_deg": "33.51139831542969",
+            "longitude_deg": "126.48799896240234",
+            "elevation_ft": "100",
+            "iso_country": "KR",
+            "dme_frequency_khz": "109000",
+            "dme_channel": "027X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.011",
+            "magnetic_variation_deg": "-6.315",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKPC"
+        }
+    ]
 }

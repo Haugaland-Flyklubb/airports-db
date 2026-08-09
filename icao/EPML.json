@@ -121,5 +121,29 @@
         "iso_country": "PL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Subcarpathian_Voivodeship",
         "keywords": "Podkarpackie, Subcarpethia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93341",
+            "filename": "Mielec_NDB_PL",
+            "ident": "SA",
+            "name": "Mielec",
+            "type": "NDB",
+            "frequency_khz": "296",
+            "latitude_deg": "50.322200775146484",
+            "longitude_deg": "21.501100540161133",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.122",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EPML"
+        }
+    ]
 }

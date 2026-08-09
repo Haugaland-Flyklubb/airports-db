@@ -155,5 +155,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88000",
+            "filename": "Fillmore_VORTAC_US",
+            "ident": "FIM",
+            "name": "Fillmore",
+            "type": "VORTAC",
+            "frequency_khz": "112500",
+            "latitude_deg": "34.3567008972168",
+            "longitude_deg": "-118.88099670410156",
+            "elevation_ft": "2200",
+            "iso_country": "US",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "13.184",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KNTD"
+        },
+        {
+            "id": "91738",
+            "filename": "Point_Mugu_TACAN_US",
+            "ident": "NTD",
+            "name": "Point Mugu",
+            "type": "TACAN",
+            "frequency_khz": "110600",
+            "latitude_deg": "34.12329864501953",
+            "longitude_deg": "-119.12200164794922",
+            "elevation_ft": "6",
+            "iso_country": "US",
+            "dme_frequency_khz": "110600",
+            "dme_channel": "043X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "13.178",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KNTD"
+        }
+    ]
 }

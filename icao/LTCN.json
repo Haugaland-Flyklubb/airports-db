@@ -77,5 +77,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kahramanmaraş_Province",
         "keywords": "Airports in Kahramanmaraş Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89774",
+            "filename": "Kahramanmaras_VOR-DME_TR",
+            "ident": "KHM",
+            "name": "Kahramanmaras",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "37.53810119628906",
+            "longitude_deg": "36.9536018371582",
+            "elevation_ft": "1723",
+            "iso_country": "TR",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.287",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTCN"
+        },
+        {
+            "id": "89775",
+            "filename": "Kahramanmaras_NDB_TR",
+            "ident": "KHM",
+            "name": "Kahramanmaras",
+            "type": "NDB",
+            "frequency_khz": "374",
+            "latitude_deg": "37.53810119628906",
+            "longitude_deg": "36.9536018371582",
+            "elevation_ft": "1723",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.287",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LTCN"
+        }
+    ]
 }

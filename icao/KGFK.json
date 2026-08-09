@@ -183,5 +183,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
         "keywords": "Airports in North Dakota"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88351",
+            "filename": "Hiser_NDB_US",
+            "ident": "GF",
+            "name": "Hiser",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "47.84629821777344",
+            "longitude_deg": "-97.181396484375",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.242",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KGFK"
+        },
+        {
+            "id": "88356",
+            "filename": "Grand_Forks_VOR-DME_US",
+            "ident": "GFK",
+            "name": "Grand Forks",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "47.95479965209961",
+            "longitude_deg": "-97.1854019165039",
+            "elevation_ft": "841",
+            "iso_country": "US",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.001",
+            "magnetic_variation_deg": "4.239",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "KGFK"
+        }
+    ]
 }

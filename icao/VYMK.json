@@ -77,5 +77,29 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kachin_State",
         "keywords": "Airports in Kachin State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91000",
+            "filename": "Myitkyina_NDB_MM",
+            "ident": "MK",
+            "name": "Myitkyina",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "25.387399673461914",
+            "longitude_deg": "97.356201171875",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.443",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYMK"
+        }
+    ]
 }

@@ -69,5 +69,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
         "keywords": "Airports in Rio Grande do Sul"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92381",
+            "filename": "Passo_Fundo_VOR_BR",
+            "ident": "PFD",
+            "name": "Passo Fundo",
+            "type": "VOR",
+            "frequency_khz": "112700",
+            "latitude_deg": "-28.238300323486328",
+            "longitude_deg": "-52.326499938964844",
+            "elevation_ft": "2376",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.588",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBPF"
+        },
+        {
+            "id": "92382",
+            "filename": "Passo_Fundo_NDB_BR",
+            "ident": "PFD",
+            "name": "Passo Fundo",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "-28.240800857543945",
+            "longitude_deg": "-52.32979965209961",
+            "elevation_ft": "2376",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.586",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBPF"
+        }
+    ]
 }

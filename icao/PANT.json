@@ -107,5 +107,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85499",
+            "filename": "Annette_Island_VOR-DME_US",
+            "ident": "ANN",
+            "name": "Annette Island",
+            "type": "VOR-DME",
+            "frequency_khz": "117100",
+            "latitude_deg": "55.06039810180664",
+            "longitude_deg": "-131.5780029296875",
+            "elevation_ft": "174",
+            "iso_country": "US",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "27.001",
+            "magnetic_variation_deg": "21.341",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PANT"
+        },
+        {
+            "id": "89139",
+            "filename": "Nichols_NDB_US",
+            "ident": "ICK",
+            "name": "Nichols",
+            "type": "NDB",
+            "frequency_khz": "266",
+            "latitude_deg": "55.070899963378906",
+            "longitude_deg": "-131.60499572753906",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.343",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PANT"
+        }
+    ]
 }

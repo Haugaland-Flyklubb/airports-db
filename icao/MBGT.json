@@ -85,5 +85,51 @@
         "iso_country": "TC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Turk_",
         "keywords": "Airports in Grand Turk"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88607",
+            "filename": "Grand_Turk_NDB_TC",
+            "ident": "GT",
+            "name": "Grand Turk",
+            "type": "NDB",
+            "frequency_khz": "232",
+            "latitude_deg": "21.43720054626465",
+            "longitude_deg": "-71.14600372314453",
+            "elevation_ft": "13",
+            "iso_country": "TC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.2",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MBGT"
+        },
+        {
+            "id": "88616",
+            "filename": "Grand_Turk_VORTAC_TC",
+            "ident": "GTK",
+            "name": "Grand Turk",
+            "type": "VORTAC",
+            "frequency_khz": "114200",
+            "latitude_deg": "21.44070053100586",
+            "longitude_deg": "-71.1343994140625",
+            "elevation_ft": "36",
+            "iso_country": "TC",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.001",
+            "magnetic_variation_deg": "-10.204",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MBGT"
+        }
+    ]
 }

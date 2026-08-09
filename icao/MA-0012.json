@@ -59,5 +59,29 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Casablanca-Settat",
         "keywords": "الدار البيضاء - سطات"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86610",
+            "filename": "Casablanca_VOR-DME_MA",
+            "ident": "CBA",
+            "name": "Casablanca",
+            "type": "VOR-DME",
+            "frequency_khz": "116900",
+            "latitude_deg": "33.52149963378906",
+            "longitude_deg": "-7.677189826965332",
+            "elevation_ft": "365",
+            "iso_country": "MA",
+            "dme_frequency_khz": "116900",
+            "dme_channel": "116X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-3.184",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MA-0012"
+        }
+    ]
 }

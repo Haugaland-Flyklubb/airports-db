@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90356",
+            "filename": "Lismore_NDB_AU",
+            "ident": "LIS",
+            "name": "Lismore",
+            "type": "NDB",
+            "frequency_khz": "239",
+            "latitude_deg": "-28.82309913635254",
+            "longitude_deg": "153.25799560546875",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.346",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YLIS"
+        }
+    ]
 }

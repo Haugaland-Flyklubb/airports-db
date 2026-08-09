@@ -181,5 +181,51 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Waikato",
         "keywords": "Airports in Waikato Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88922",
+            "filename": "Hamilton_VOR-DME_NZ",
+            "ident": "HN",
+            "name": "Hamilton",
+            "type": "VOR-DME",
+            "frequency_khz": "114000",
+            "latitude_deg": "-37.849300384521484",
+            "longitude_deg": "175.33900451660156",
+            "elevation_ft": "172",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "20.107",
+            "magnetic_variation_deg": "20.002",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NZHN"
+        },
+        {
+            "id": "88927",
+            "filename": "Hamilton_NDB_NZ",
+            "ident": "HN",
+            "name": "Hamilton",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "-37.860599517822266",
+            "longitude_deg": "175.33099365234375",
+            "elevation_ft": "",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "20.006",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NZHN"
+        }
+    ]
 }

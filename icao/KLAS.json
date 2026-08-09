@@ -183,5 +183,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
         "keywords": "Airports in Nevada"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90174",
+            "filename": "Las_Vegas_VORTAC_US",
+            "ident": "LAS",
+            "name": "Las Vegas",
+            "type": "VORTAC",
+            "frequency_khz": "116900",
+            "latitude_deg": "36.0797004699707",
+            "longitude_deg": "-115.16000366210938",
+            "elevation_ft": "2141",
+            "iso_country": "US",
+            "dme_frequency_khz": "116900",
+            "dme_channel": "116X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "12.529",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KLAS"
+        }
+    ]
 }

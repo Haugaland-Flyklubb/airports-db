@@ -147,5 +147,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95543",
+            "filename": "Bagotville_TACAN_CA",
+            "ident": "XBG",
+            "name": "Bagotville",
+            "type": "TACAN",
+            "frequency_khz": "111800",
+            "latitude_deg": "48.329498291015625",
+            "longitude_deg": "-70.99569702148438",
+            "elevation_ft": "531",
+            "iso_country": "CA",
+            "dme_frequency_khz": "111800",
+            "dme_channel": "055X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-20.001",
+            "magnetic_variation_deg": "-17.563",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYBG"
+        },
+        {
+            "id": "95626",
+            "filename": "Bagotville_NDB_CA",
+            "ident": "YBG",
+            "name": "Bagotville",
+            "type": "NDB",
+            "frequency_khz": "356",
+            "latitude_deg": "48.333900451660156",
+            "longitude_deg": "-71.1458969116211",
+            "elevation_ft": "521",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.52",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYBG"
+        }
+    ]
 }

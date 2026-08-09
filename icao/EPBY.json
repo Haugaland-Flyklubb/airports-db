@@ -77,5 +77,51 @@
         "iso_country": "PL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kuyavian-Pomeranian_Voivodeship",
         "keywords": "Kujawsko-Pomorskie"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93330",
+            "filename": "Bydgoszcz_NDB_PL",
+            "ident": "S",
+            "name": "Bydgoszcz",
+            "type": "NDB",
+            "frequency_khz": "109",
+            "latitude_deg": "53.099700927734375",
+            "longitude_deg": "18.012500762939453",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.35",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EPBY"
+        },
+        {
+            "id": "93710",
+            "filename": "Bydgoszcz_NDB_PL",
+            "ident": "SL",
+            "name": "Bydgoszcz",
+            "type": "NDB",
+            "frequency_khz": "534",
+            "latitude_deg": "53.10309982299805",
+            "longitude_deg": "18.0531005859375",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.358",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EPBY"
+        }
+    ]
 }

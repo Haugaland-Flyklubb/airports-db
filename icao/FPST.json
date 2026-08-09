@@ -69,5 +69,51 @@
         "iso_country": "ST",
         "wikipedia_link": "https://en.wikipedia.org/wiki/%C3%81gua_Grande_District",
         "keywords": "Airports in Água Grande District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93868",
+            "filename": "Sao_Tome_NDB_ST",
+            "ident": "SP",
+            "name": "Sao Tome",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "0.37485799193382263",
+            "longitude_deg": "6.716639995574951",
+            "elevation_ft": "33",
+            "iso_country": "ST",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.21",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FPST"
+        },
+        {
+            "id": "93997",
+            "filename": "Sao_Tome_VOR-DME_ST",
+            "ident": "STM",
+            "name": "Sao Tome",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "0.3784469962120056",
+            "longitude_deg": "6.717060089111328",
+            "elevation_ft": "33",
+            "iso_country": "ST",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.209",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FPST"
+        }
+    ]
 }

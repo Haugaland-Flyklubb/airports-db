@@ -139,5 +139,51 @@
         "iso_country": "OM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Muscat_Governorate",
         "keywords": "Airports in Masqat Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90808",
+            "filename": "Seeb_VOR-DME_OM",
+            "ident": "MCT",
+            "name": "Seeb",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "23.591100692749023",
+            "longitude_deg": "58.260101318359375",
+            "elevation_ft": "80",
+            "iso_country": "OM",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.542",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OOMS"
+        },
+        {
+            "id": "91714",
+            "filename": "Seeb_NDB_OM",
+            "ident": "NSB",
+            "name": "Seeb",
+            "type": "NDB",
+            "frequency_khz": "318",
+            "latitude_deg": "23.590599060058594",
+            "longitude_deg": "58.25410079956055",
+            "elevation_ft": "48",
+            "iso_country": "OM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.533",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OOMS"
+        }
+    ]
 }

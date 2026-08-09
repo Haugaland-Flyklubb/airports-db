@@ -115,5 +115,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Selatan",
         "keywords": "Airports in Sulawesi Selatan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91032",
+            "filename": "Hasanuddin_VOR-DME_ID",
+            "ident": "MKS",
+            "name": "Hasanuddin",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "-5.0378098487854",
+            "longitude_deg": "119.5260009765625",
+            "elevation_ft": "78",
+            "iso_country": "ID",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.388",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WAAA"
+        },
+        {
+            "id": "91951",
+            "filename": "Hasanuddin_NDB_ID",
+            "ident": "OJ",
+            "name": "Hasanuddin",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "-5.082459926605225",
+            "longitude_deg": "119.51899719238281",
+            "elevation_ft": "",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.39",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAAA"
+        }
+    ]
 }

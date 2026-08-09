@@ -85,5 +85,51 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ituri_Province",
         "keywords": "Airports in Ituri Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86436",
+            "filename": "Bunia_VOR_CD",
+            "ident": "BUN",
+            "name": "Bunia",
+            "type": "VOR",
+            "frequency_khz": "114000",
+            "latitude_deg": "1.5638799667358398",
+            "longitude_deg": "30.21660041809082",
+            "elevation_ft": "4045",
+            "iso_country": "CD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.505",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FZKA"
+        },
+        {
+            "id": "86439",
+            "filename": "Bunia_NDB_CD",
+            "ident": "BUN",
+            "name": "Bunia",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "1.5305500030517578",
+            "longitude_deg": "30.249900817871094",
+            "elevation_ft": "",
+            "iso_country": "CD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.505",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "FZKA"
+        }
+    ]
 }

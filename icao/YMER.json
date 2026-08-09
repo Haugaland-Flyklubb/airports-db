@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90876",
+            "filename": "Merimbula_NDB-DME_AU",
+            "ident": "MER",
+            "name": "Merimbula",
+            "type": "NDB-DME",
+            "frequency_khz": "395",
+            "latitude_deg": "-36.91429901123047",
+            "longitude_deg": "149.8990020751953",
+            "elevation_ft": "90",
+            "iso_country": "AU",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "-36.9145",
+            "dme_longitude_deg": "149.899",
+            "dme_elevation_ft": "90",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.18",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YMER"
+        }
+    ]
 }

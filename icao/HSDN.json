@@ -69,5 +69,29 @@
         "iso_country": "SD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_state,_Sudan",
         "keywords": "Airports in Northern State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87485",
+            "filename": "Dongola_VOR-DME_SD",
+            "ident": "DOG",
+            "name": "Dongola",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "19.182600021362305",
+            "longitude_deg": "30.42729949951172",
+            "elevation_ft": "802",
+            "iso_country": "SD",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.32",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HSDN"
+        }
+    ]
 }

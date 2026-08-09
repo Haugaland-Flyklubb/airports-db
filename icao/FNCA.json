@@ -69,5 +69,51 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cabinda_ Province",
         "keywords": "Airports in Cabinda Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86539",
+            "filename": "Cabinda_NDB_AO",
+            "ident": "CA",
+            "name": "Cabinda",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "-5.584839820861816",
+            "longitude_deg": "12.189399719238281",
+            "elevation_ft": "",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.389",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNCA"
+        },
+        {
+            "id": "95071",
+            "filename": "Cabinda_VOR-DME_AO",
+            "ident": "VCA",
+            "name": "Cabinda",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "-5.61667013168335",
+            "longitude_deg": "12.199999809265137",
+            "elevation_ft": "66",
+            "iso_country": "AO",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.007",
+            "magnetic_variation_deg": "-4.394",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FNCA"
+        }
+    ]
 }

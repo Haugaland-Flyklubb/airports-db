@@ -107,5 +107,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sardinia",
         "keywords": "SD"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87329",
+            "filename": "Decimomannu_TACAN_IT",
+            "ident": "DEC",
+            "name": "Decimomannu",
+            "type": "TACAN",
+            "frequency_khz": "108200",
+            "latitude_deg": "39.381099700927734",
+            "longitude_deg": "8.965559959411621",
+            "elevation_ft": "198",
+            "iso_country": "IT",
+            "dme_frequency_khz": "108200",
+            "dme_channel": "019X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.018",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIED"
+        },
+        {
+            "id": "87330",
+            "filename": "Decimomannu_NDB_IT",
+            "ident": "DEC",
+            "name": "Decimomannu",
+            "type": "NDB",
+            "frequency_khz": "331",
+            "latitude_deg": "39.36360168457031",
+            "longitude_deg": "8.974169731140137",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.019",
+            "usageType": "RNAV",
+            "power": "LOW",
+            "associated_airport": "LIED"
+        }
+    ]
 }

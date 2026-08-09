@@ -85,5 +85,51 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
         "keywords": "Airports in Andalucía"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93891",
+            "filename": "Sevilla_NDB_ES",
+            "ident": "SPP",
+            "name": "Sevilla",
+            "type": "NDB",
+            "frequency_khz": "420",
+            "latitude_deg": "37.41809844970703",
+            "longitude_deg": "-5.795519828796387",
+            "elevation_ft": "",
+            "iso_country": "ES",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.468",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LEZL"
+        },
+        {
+            "id": "94069",
+            "filename": "Sevilla_VOR-DME_ES",
+            "ident": "SVL",
+            "name": "Sevilla",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "37.42789840698242",
+            "longitude_deg": "-5.762209892272949",
+            "elevation_ft": "404",
+            "iso_country": "ES",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "37.4278",
+            "dme_longitude_deg": "-5.76218",
+            "dme_elevation_ft": "404",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-2.462",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LEZL"
+        }
+    ]
 }

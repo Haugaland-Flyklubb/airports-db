@@ -69,5 +69,51 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Moxico_ Province",
         "keywords": "Airports in Moxico Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94830",
+            "filename": "Luena_NDB_AO",
+            "ident": "UE",
+            "name": "Luena",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "-11.762299537658691",
+            "longitude_deg": "19.899200439453125",
+            "elevation_ft": "4360",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.415",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNUE"
+        },
+        {
+            "id": "95320",
+            "filename": "Luena_VOR_AO",
+            "ident": "VUE",
+            "name": "Luena",
+            "type": "VOR",
+            "frequency_khz": "113700",
+            "latitude_deg": "-11.763500213623047",
+            "longitude_deg": "19.877899169921875",
+            "elevation_ft": "4360",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-4.419",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FNUE"
+        }
+    ]
 }

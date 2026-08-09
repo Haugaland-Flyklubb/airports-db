@@ -131,5 +131,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95939",
+            "filename": "Yellowknife_VORTAC_CA",
+            "ident": "YZF",
+            "name": "Yellowknife",
+            "type": "VORTAC",
+            "frequency_khz": "115500",
+            "latitude_deg": "62.46440124511719",
+            "longitude_deg": "-114.43699645996094",
+            "elevation_ft": "712",
+            "iso_country": "CA",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "22.001",
+            "magnetic_variation_deg": "21.054",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYZF"
+        },
+        {
+            "id": "96005",
+            "filename": "Yellowknife_NDB_CA",
+            "ident": "ZF",
+            "name": "Yellowknife",
+            "type": "NDB",
+            "frequency_khz": "356",
+            "latitude_deg": "62.41059875488281",
+            "longitude_deg": "-114.43399810791016",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.037",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYZF"
+        }
+    ]
 }

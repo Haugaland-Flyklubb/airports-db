@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90246",
+            "filename": "Crimson_VORTAC_US",
+            "ident": "LDK",
+            "name": "Crimson",
+            "type": "VORTAC",
+            "frequency_khz": "117800",
+            "latitude_deg": "33.2588996887207",
+            "longitude_deg": "-87.53690338134766",
+            "elevation_ft": "370",
+            "iso_country": "US",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "-1.416",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KTCL"
+        },
+        {
+            "id": "94250",
+            "filename": "Tuske_NDB_US",
+            "ident": "TC",
+            "name": "Tuske",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "33.15850067138672",
+            "longitude_deg": "-87.67030334472656",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.349",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KTCL"
+        }
+    ]
 }

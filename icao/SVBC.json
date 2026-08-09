@@ -123,5 +123,29 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Anzo%C3%A1tegui",
         "keywords": "Airports in Anzoátegui State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86203",
+            "filename": "Barcelona_VORTAC_VE",
+            "ident": "BNA",
+            "name": "Barcelona",
+            "type": "VORTAC",
+            "frequency_khz": "115900",
+            "latitude_deg": "10.133099555969238",
+            "longitude_deg": "-64.70559692382812",
+            "elevation_ft": "3",
+            "iso_country": "VE",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.007",
+            "magnetic_variation_deg": "-12.273",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVBC"
+        }
+    ]
 }

@@ -99,5 +99,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Putumayo_Department",
         "keywords": "Airports in Putumayo Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93634",
+            "filename": "Puerto_Asis_NDB_CO",
+            "ident": "SIS",
+            "name": "Puerto Asis",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "0.5516669750213623",
+            "longitude_deg": "-76.50140380859375",
+            "elevation_ft": "820",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.122",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SKAS"
+        }
+    ]
 }

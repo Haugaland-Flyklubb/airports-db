@@ -69,5 +69,51 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91574",
+            "filename": "Junin_VOR_AR",
+            "ident": "NIN",
+            "name": "Junin",
+            "type": "VOR",
+            "frequency_khz": "116100",
+            "latitude_deg": "-34.541099548339844",
+            "longitude_deg": "-60.93389892578125",
+            "elevation_ft": "269",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-4.497",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "AR-0743"
+        },
+        {
+            "id": "91575",
+            "filename": "Junin_NDB_AR",
+            "ident": "NIN",
+            "name": "Junin",
+            "type": "NDB",
+            "frequency_khz": "220",
+            "latitude_deg": "-34.55110168457031",
+            "longitude_deg": "-60.93389892578125",
+            "elevation_ft": "269",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.494",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "AR-0743"
+        }
+    ]
 }

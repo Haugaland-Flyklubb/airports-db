@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90556",
+            "filename": "Lagoa_Santa_NDB_BR",
+            "ident": "LST",
+            "name": "Lagoa Santa",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "-19.65880012512207",
+            "longitude_deg": "-43.89699935913086",
+            "elevation_ft": "2747",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.429",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBLS"
+        }
+    ]
 }

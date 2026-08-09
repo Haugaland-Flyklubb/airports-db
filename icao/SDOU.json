@@ -59,5 +59,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92092",
+            "filename": "Ourinhos_NDB_BR",
+            "ident": "ORH",
+            "name": "Ourinhos",
+            "type": "NDB",
+            "frequency_khz": "315",
+            "latitude_deg": "-22.973499298095703",
+            "longitude_deg": "-49.91230010986328",
+            "elevation_ft": "1531",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.1",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SDOU"
+        }
+    ]
 }

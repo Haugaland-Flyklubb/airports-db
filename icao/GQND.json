@@ -77,5 +77,29 @@
         "iso_country": "MR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tagant_Region",
         "keywords": "Airports in Tagant Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94402",
+            "filename": "Tidjikja_NDB_MR",
+            "ident": "TKA",
+            "name": "Tidjikja",
+            "type": "NDB",
+            "frequency_khz": "381",
+            "latitude_deg": "18.566999435424805",
+            "longitude_deg": "-11.417099952697754",
+            "elevation_ft": "",
+            "iso_country": "MR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.384",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GQND"
+        }
+    ]
 }

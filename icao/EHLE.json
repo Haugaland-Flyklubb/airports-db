@@ -147,5 +147,29 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Flevoland",
         "keywords": "Airports in Flevoland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92267",
+            "filename": "Pampus_VOR-DME_NL",
+            "ident": "PAM",
+            "name": "Pampus",
+            "type": "VOR-DME",
+            "frequency_khz": "117800",
+            "latitude_deg": "52.334800720214844",
+            "longitude_deg": "5.092160224914551",
+            "elevation_ft": "27",
+            "iso_country": "NL",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-0.302",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EHLE"
+        }
+    ]
 }

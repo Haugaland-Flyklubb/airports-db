@@ -155,5 +155,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93913",
+            "filename": "Ringy_NDB_US",
+            "ident": "SR",
+            "name": "Ringy",
+            "type": "NDB",
+            "frequency_khz": "245",
+            "latitude_deg": "27.32819938659668",
+            "longitude_deg": "-82.47840118408203",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.183",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KSRQ"
+        },
+        {
+            "id": "93931",
+            "filename": "Sarasota_VORTAC_US",
+            "ident": "SRQ",
+            "name": "Sarasota",
+            "type": "VORTAC",
+            "frequency_khz": "115200",
+            "latitude_deg": "27.39780044555664",
+            "longitude_deg": "-82.5542984008789",
+            "elevation_ft": "20",
+            "iso_country": "US",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.001",
+            "magnetic_variation_deg": "-4.159",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KSRQ"
+        }
+    ]
 }

@@ -123,5 +123,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93771",
+            "filename": "Saint_Marys_NDB_US",
+            "ident": "SMA",
+            "name": "Saint Marys",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "62.05839920043945",
+            "longitude_deg": "-163.29200744628906",
+            "elevation_ft": "311",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.188",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PASM"
+        }
+    ]
 }

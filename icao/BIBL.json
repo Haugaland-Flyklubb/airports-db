@@ -59,5 +59,29 @@
         "iso_country": "IS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwestern_Region_(Iceland)",
         "keywords": "Norðurland vestra"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86128",
+            "filename": "Blonduos_NDB_IS",
+            "ident": "BL",
+            "name": "Blonduos",
+            "type": "NDB",
+            "frequency_khz": "351",
+            "latitude_deg": "65.6864013671875",
+            "longitude_deg": "-20.292499542236328",
+            "elevation_ft": "",
+            "iso_country": "IS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.592",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "BIBL"
+        }
+    ]
 }

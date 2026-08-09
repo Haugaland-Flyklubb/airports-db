@@ -137,5 +137,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87662",
+            "filename": "Edinburgh_NDB_GB",
+            "ident": "EDN",
+            "name": "Edinburgh",
+            "type": "NDB",
+            "frequency_khz": "341",
+            "latitude_deg": "55.97840118408203",
+            "longitude_deg": "-3.2841200828552246",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.243",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGPH"
+        },
+        {
+            "id": "94994",
+            "filename": "Edinburgh_NDB_GB",
+            "ident": "UW",
+            "name": "Edinburgh",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "55.90520095825195",
+            "longitude_deg": "-3.5025100708007812",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.291",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGPH"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arauca_Department",
         "keywords": "Airports in Arauca Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94449",
+            "filename": "Tame_NDB_CO",
+            "ident": "TME",
+            "name": "Tame",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "6.451499938964844",
+            "longitude_deg": "-71.752197265625",
+            "elevation_ft": "1050",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.315",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SKTM"
+        }
+    ]
 }

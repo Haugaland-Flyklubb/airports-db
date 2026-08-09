@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85099",
+            "filename": "Swan_Hills_NDB_CA",
+            "ident": "4O",
+            "name": "Swan Hills",
+            "type": "NDB",
+            "frequency_khz": "251",
+            "latitude_deg": "54.67499923706055",
+            "longitude_deg": "-115.42400360107422",
+            "elevation_ft": "3473",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.062",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CEM5"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aceh",
         "keywords": "Airports in Aceh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90632",
+            "filename": "Malikus_Saleh_NDB_ID",
+            "ident": "LW",
+            "name": "Malikus Saleh",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "5.226669788360596",
+            "longitude_deg": "96.95030212402344",
+            "elevation_ft": "90",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.463",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIMA"
+        }
+    ]
 }

@@ -115,5 +115,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zabaykalsky_Krai",
         "keywords": "Airports in Zabaykalsky Krai"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87351",
+            "filename": "Chita_NDB_RU",
+            "ident": "DG",
+            "name": "Chita",
+            "type": "NDB",
+            "frequency_khz": "518",
+            "latitude_deg": "52.016700744628906",
+            "longitude_deg": "113.37799835205078",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.484",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UIAA"
+        },
+        {
+            "id": "96059",
+            "filename": "Chita_NDB_RU",
+            "ident": "ZM",
+            "name": "Chita",
+            "type": "NDB",
+            "frequency_khz": "518",
+            "latitude_deg": "52.040000915527344",
+            "longitude_deg": "113.18699645996094",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.432",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UIAA"
+        }
+    ]
 }

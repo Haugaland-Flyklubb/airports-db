@@ -77,5 +77,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91781",
+            "filename": "Newman_VOR-DME_AU",
+            "ident": "NWN",
+            "name": "Newman",
+            "type": "VOR-DME",
+            "frequency_khz": "117200",
+            "latitude_deg": "-23.420799255371094",
+            "longitude_deg": "119.8030014038086",
+            "elevation_ft": "1734",
+            "iso_country": "AU",
+            "dme_frequency_khz": "117200",
+            "dme_channel": "119X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.463",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YNWN"
+        },
+        {
+            "id": "91782",
+            "filename": "Newman_NDB_AU",
+            "ident": "NWN",
+            "name": "Newman",
+            "type": "NDB",
+            "frequency_khz": "233",
+            "latitude_deg": "-23.418100357055664",
+            "longitude_deg": "119.7969970703125",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.463",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YNWN"
+        }
+    ]
 }

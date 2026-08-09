@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Papua_(region)",
         "keywords": "Irian Jaya"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87919",
+            "filename": "Fak_Fak_NDB_ID",
+            "ident": "FA",
+            "name": "Fak Fak",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "-2.933500051498413",
+            "longitude_deg": "132.2480010986328",
+            "elevation_ft": "240",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.321",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WASF"
+        }
+    ]
 }

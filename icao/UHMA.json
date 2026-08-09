@@ -85,5 +85,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chukotka_Autonomous_Okrug",
         "keywords": "Airports in Chukotka Autonomous Okrug"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89674",
+            "filename": "Anadyr_NDB_RU",
+            "ident": "KB",
+            "name": "Anadyr",
+            "type": "NDB",
+            "frequency_khz": "790",
+            "latitude_deg": "64.69000244140625",
+            "longitude_deg": "177.7100067138672",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.285",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UHMA"
+        },
+        {
+            "id": "95001",
+            "filename": "Anadyr_NDB_RU",
+            "ident": "UX",
+            "name": "Anadyr",
+            "type": "NDB",
+            "frequency_khz": "790",
+            "latitude_deg": "64.78500366210938",
+            "longitude_deg": "177.77000427246094",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.31",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UHMA"
+        }
+    ]
 }

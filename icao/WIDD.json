@@ -109,5 +109,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kepulauan_Riau",
         "keywords": "Airports in Kepulauan Riau"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86170",
+            "filename": "Batam_NDB_ID",
+            "ident": "BM",
+            "name": "Batam",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "1.1212600469589233",
+            "longitude_deg": "104.11100006103516",
+            "elevation_ft": "131",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.168",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIDD"
+        },
+        {
+            "id": "86394",
+            "filename": "Batam_VOR-DME_ID",
+            "ident": "BTM",
+            "name": "Batam",
+            "type": "VOR-DME",
+            "frequency_khz": "116000",
+            "latitude_deg": "1.1368800401687622",
+            "longitude_deg": "104.13300323486328",
+            "elevation_ft": "131",
+            "iso_country": "ID",
+            "dme_frequency_khz": "116000",
+            "dme_channel": "107X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.17",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WIDD"
+        }
+    ]
 }

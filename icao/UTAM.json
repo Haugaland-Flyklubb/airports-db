@@ -107,5 +107,51 @@
         "iso_country": "TM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mary_Region",
         "keywords": "Airports in Mary"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91195",
+            "filename": "Mary_NDB_TM",
+            "ident": "MP",
+            "name": "Mary",
+            "type": "NDB",
+            "frequency_khz": "439",
+            "latitude_deg": "37.57170104980469",
+            "longitude_deg": "61.89970016479492",
+            "elevation_ft": "",
+            "iso_country": "TM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.01",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UTAM"
+        },
+        {
+            "id": "91711",
+            "filename": "Mary_NDB_TM",
+            "ident": "NS",
+            "name": "Mary",
+            "type": "NDB",
+            "frequency_khz": "480",
+            "latitude_deg": "37.57170104980469",
+            "longitude_deg": "61.898101806640625",
+            "elevation_ft": "",
+            "iso_country": "TM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.011",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UTAM"
+        }
+    ]
 }

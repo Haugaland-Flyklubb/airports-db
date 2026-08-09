@@ -91,5 +91,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93333",
+            "filename": "Hanover_NDB_CA",
+            "ident": "S7",
+            "name": "Hanover",
+            "type": "NDB",
+            "frequency_khz": "268",
+            "latitude_deg": "44.16230010986328",
+            "longitude_deg": "-81.0604019165039",
+            "elevation_ft": "939",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.211",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYHS"
+        }
+    ]
 }

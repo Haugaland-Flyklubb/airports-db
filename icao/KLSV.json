@@ -171,5 +171,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
         "keywords": "Airports in Nevada"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90558",
+            "filename": "Nellis_TACAN_US",
+            "ident": "LSV",
+            "name": "Nellis",
+            "type": "TACAN",
+            "frequency_khz": "135500",
+            "latitude_deg": "36.24470138549805",
+            "longitude_deg": "-115.0250015258789",
+            "elevation_ft": "1864",
+            "iso_country": "US",
+            "dme_frequency_khz": "135500",
+            "dme_channel": "012X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "12.529",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KLSV"
+        }
+    ]
 }

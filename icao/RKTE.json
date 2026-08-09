@@ -77,5 +77,29 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Chungcheong_Province",
         "keywords": "Airports in Chungcheongbuk-do"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87159",
+            "filename": "Seongmu_NDB_KR",
+            "ident": "CW",
+            "name": "Seongmu",
+            "type": "NDB",
+            "frequency_khz": "351",
+            "latitude_deg": "36.56489944458008",
+            "longitude_deg": "127.49700164794922",
+            "elevation_ft": "388",
+            "iso_country": "KR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.329",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RKTE"
+        }
+    ]
 }

@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86888",
+            "filename": "Clermont_NDB_AU",
+            "ident": "CMT",
+            "name": "Clermont",
+            "type": "NDB",
+            "frequency_khz": "209",
+            "latitude_deg": "-22.773099899291992",
+            "longitude_deg": "147.625",
+            "elevation_ft": "908",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.365",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YCMT"
+        }
+    ]
 }

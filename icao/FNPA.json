@@ -69,5 +69,29 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cuanza_Sul_ Province",
         "keywords": "Airports in Cuanza Sul Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92226",
+            "filename": "Porto_Amboim_NDB_AO",
+            "ident": "PA",
+            "name": "Porto Amboim",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "-10.716699600219727",
+            "longitude_deg": "13.76669979095459",
+            "elevation_ft": "16",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.15",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNPA"
+        }
+    ]
 }

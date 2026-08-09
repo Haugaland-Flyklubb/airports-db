@@ -99,5 +99,29 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
         "keywords": "Airports in Punjab"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87920",
+            "filename": "Faisalabad_NDB_PK",
+            "ident": "FA",
+            "name": "Faisalabad",
+            "type": "NDB",
+            "frequency_khz": "212",
+            "latitude_deg": "31.37030029296875",
+            "longitude_deg": "72.99500274658203",
+            "elevation_ft": "654",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.299",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPFA"
+        }
+    ]
 }

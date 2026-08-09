@@ -107,5 +107,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Belgorod_Oblast",
         "keywords": "Airports in Belgorod Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85473",
+            "filename": "Belgorod_NDB_RU",
+            "ident": "AN",
+            "name": "Belgorod",
+            "type": "NDB",
+            "frequency_khz": "718",
+            "latitude_deg": "50.665000915527344",
+            "longitude_deg": "36.52669906616211",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.313",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "UUOB"
+        },
+        {
+            "id": "86493",
+            "filename": "Belgorod_NDB_RU",
+            "ident": "BX",
+            "name": "Belgorod",
+            "type": "NDB",
+            "frequency_khz": "718",
+            "latitude_deg": "50.621700286865234",
+            "longitude_deg": "36.65829849243164",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.319",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "UUOB"
+        }
+    ]
 }

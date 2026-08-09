@@ -69,5 +69,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
         "keywords": "Airports in Limpopo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90465",
+            "filename": "Louis_Trichardt_NDB_ZA",
+            "ident": "LO",
+            "name": "Louis Trichardt",
+            "type": "NDB",
+            "frequency_khz": "458",
+            "latitude_deg": "-23.049999237060547",
+            "longitude_deg": "29.86669921875",
+            "elevation_ft": "3025",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.078",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FALO"
+        }
+    ]
 }

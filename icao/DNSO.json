@@ -69,5 +69,29 @@
         "iso_country": "NG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sokoto_State",
         "keywords": "Airports in Sokoto"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93844",
+            "filename": "Sokoto_VOR-DME_NG",
+            "ident": "SOK",
+            "name": "Sokoto",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "12.921099662780762",
+            "longitude_deg": "5.229310035705566",
+            "elevation_ft": "1004",
+            "iso_country": "NG",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.46",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DNSO"
+        }
+    ]
 }

@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88316",
+            "filename": "Goondiwindi_NDB_AU",
+            "ident": "GDI",
+            "name": "Goondiwindi",
+            "type": "NDB",
+            "frequency_khz": "398",
+            "latitude_deg": "-28.522499084472656",
+            "longitude_deg": "150.3260040283203",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.405",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YGDI"
+        }
+    ]
 }

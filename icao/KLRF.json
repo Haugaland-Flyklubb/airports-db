@@ -155,5 +155,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
         "keywords": "Airports in Arkansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90528",
+            "filename": "Jacksonville_TACAN_US",
+            "ident": "LRF",
+            "name": "Jacksonville",
+            "type": "TACAN",
+            "frequency_khz": "109200",
+            "latitude_deg": "34.91809844970703",
+            "longitude_deg": "-92.15769958496094",
+            "elevation_ft": "328",
+            "iso_country": "US",
+            "dme_frequency_khz": "109200",
+            "dme_channel": "029X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.001",
+            "magnetic_variation_deg": "1.291",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KLRF"
+        },
+        {
+            "id": "94740",
+            "filename": "Toneyville_NDB_US",
+            "ident": "TYV",
+            "name": "Toneyville",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "34.95249938964844",
+            "longitude_deg": "-92.01950073242188",
+            "elevation_ft": "272",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.23",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KLRF"
+        }
+    ]
 }

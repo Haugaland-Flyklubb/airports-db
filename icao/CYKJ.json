@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85105",
+            "filename": "Key_Lake_NDB_CA",
+            "ident": "4Y",
+            "name": "Key Lake",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "57.25419998168945",
+            "longitude_deg": "-105.62200164794922",
+            "elevation_ft": "1670",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.181",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYKJ"
+        }
+    ]
 }

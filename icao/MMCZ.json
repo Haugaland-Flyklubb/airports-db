@@ -115,5 +115,51 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quintana_Roo",
         "keywords": "Airports in Quintana Roo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87210",
+            "filename": "Cozumel_VOR-DME_MX",
+            "ident": "CZM",
+            "name": "Cozumel",
+            "type": "VOR-DME",
+            "frequency_khz": "112600",
+            "latitude_deg": "20.5221004486084",
+            "longitude_deg": "-86.9292984008789",
+            "elevation_ft": "15",
+            "iso_country": "MX",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.006",
+            "magnetic_variation_deg": "-0.158",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMCZ"
+        },
+        {
+            "id": "87211",
+            "filename": "Cozumel_NDB_MX",
+            "ident": "CZM",
+            "name": "Cozumel",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "20.521900177001953",
+            "longitude_deg": "-86.93389892578125",
+            "elevation_ft": "15",
+            "iso_country": "MX",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.156",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MMCZ"
+        }
+    ]
 }

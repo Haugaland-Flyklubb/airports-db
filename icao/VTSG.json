@@ -93,5 +93,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Krabi_province",
         "keywords": "Airports in Krabi Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89676",
+            "filename": "Krabi_NDB_TH",
+            "ident": "KB",
+            "name": "Krabi",
+            "type": "NDB",
+            "frequency_khz": "299",
+            "latitude_deg": "8.105279922485352",
+            "longitude_deg": "98.97450256347656",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.308",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTSG"
+        },
+        {
+            "id": "89684",
+            "filename": "Krabi_VOR-DME_TH",
+            "ident": "KBI",
+            "name": "Krabi",
+            "type": "VOR-DME",
+            "frequency_khz": "111000",
+            "latitude_deg": "8.107549667358398",
+            "longitude_deg": "98.97750091552734",
+            "elevation_ft": "82",
+            "iso_country": "TH",
+            "dme_frequency_khz": "111000",
+            "dme_channel": "047X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.308",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTSG"
+        }
+    ]
 }

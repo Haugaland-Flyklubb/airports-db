@@ -35,5 +35,29 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bengo_Province",
         "keywords": "Airports in Bengo Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85429",
+            "filename": "Ambriz_NDB_AO",
+            "ident": "AM",
+            "name": "Ambriz",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "-7.833330154418945",
+            "longitude_deg": "13.100000381469727",
+            "elevation_ft": "",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.123",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNAM"
+        }
+    ]
 }

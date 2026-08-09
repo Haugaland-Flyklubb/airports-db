@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85201",
+            "filename": "Leehi_NDB_US",
+            "ident": "AB",
+            "name": "Leehi",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "40.58580017089844",
+            "longitude_deg": "-75.54959869384766",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.112",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KABE"
+        },
+        {
+            "id": "88010",
+            "filename": "Allentown_VORTAC_US",
+            "ident": "FJC",
+            "name": "Allentown",
+            "type": "VORTAC",
+            "frequency_khz": "117500",
+            "latitude_deg": "40.72669982910156",
+            "longitude_deg": "-75.45480346679688",
+            "elevation_ft": "680",
+            "iso_country": "US",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.002",
+            "magnetic_variation_deg": "-12.175",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KABE"
+        }
+    ]
 }

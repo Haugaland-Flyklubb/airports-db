@@ -93,5 +93,51 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Matanzas_Province",
         "keywords": "Airports in Matanzas Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "332466",
+            "filename": "Varder_NDB_CU",
+            "ident": "URV",
+            "name": "Varder",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "23.019899368286",
+            "longitude_deg": "-81.458099365234",
+            "elevation_ft": "210",
+            "iso_country": "CU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.103",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "MUVR"
+        },
+        {
+            "id": "94991",
+            "filename": "Varder_VOR-DME_CU",
+            "ident": "UVA",
+            "name": "Varder",
+            "type": "VOR-DME",
+            "frequency_khz": "114800",
+            "latitude_deg": "23.024700164795",
+            "longitude_deg": "-81.453598022461",
+            "elevation_ft": "295",
+            "iso_country": "CU",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.106",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MUVR"
+        }
+    ]
 }

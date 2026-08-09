@@ -85,5 +85,29 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
         "keywords": "Airports in Andalucía"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88310",
+            "filename": "Granada_VOR-DME_ES",
+            "ident": "GDA",
+            "name": "Granada",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "37.18320083618164",
+            "longitude_deg": "-3.990910053253174",
+            "elevation_ft": "1991",
+            "iso_country": "ES",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.118",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "LEGR"
+        }
+    ]
 }

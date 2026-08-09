@@ -69,5 +69,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
         "keywords": "Airports in Limpopo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94745",
+            "filename": "Tzaneen_NDB_ZA",
+            "ident": "TZ",
+            "name": "Tzaneen",
+            "type": "NDB",
+            "frequency_khz": "213",
+            "latitude_deg": "-23.80229949951172",
+            "longitude_deg": "30.36079978942871",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.16",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FATZ"
+        }
+    ]
 }

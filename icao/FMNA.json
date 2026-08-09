@@ -77,5 +77,29 @@
         "iso_country": "MG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Antsiranana",
         "keywords": "Airports in Antsiranana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87474",
+            "filename": "Arrachart_NDB_MG",
+            "ident": "DO",
+            "name": "Arrachart",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "-12.34630012512207",
+            "longitude_deg": "49.289398193359375",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.531",
+            "usageType": "HI",
+            "power": "MEDIUM",
+            "associated_airport": "FMNA"
+        }
+    ]
 }

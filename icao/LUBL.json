@@ -69,5 +69,51 @@
         "iso_country": "MD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rîşcani_District",
         "keywords": "Airports in Rîşcani District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86131",
+            "filename": "Balti_NDB_MD",
+            "ident": "BL",
+            "name": "Balti",
+            "type": "NDB",
+            "frequency_khz": "790",
+            "latitude_deg": "47.79790115356445",
+            "longitude_deg": "27.81399917602539",
+            "elevation_ft": "",
+            "iso_country": "MD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.091",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LUBL"
+        },
+        {
+            "id": "90220",
+            "filename": "Balti_NDB_MD",
+            "ident": "LC",
+            "name": "Balti",
+            "type": "NDB",
+            "frequency_khz": "790",
+            "latitude_deg": "47.88130187988281",
+            "longitude_deg": "27.75",
+            "elevation_ft": "",
+            "iso_country": "MD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.093",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "LUBL"
+        }
+    ]
 }

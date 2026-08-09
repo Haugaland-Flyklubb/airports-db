@@ -85,5 +85,51 @@
         "iso_country": "ET",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dire_Dawa",
         "keywords": "Airports in Dire Dawa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85726",
+            "filename": "Dire_Dawa_NDB_ET",
+            "ident": "AY",
+            "name": "Dire Dawa",
+            "type": "NDB",
+            "frequency_khz": "241",
+            "latitude_deg": "9.64385986328125",
+            "longitude_deg": "41.84410095214844",
+            "elevation_ft": "",
+            "iso_country": "ET",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.234",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HADR"
+        },
+        {
+            "id": "87585",
+            "filename": "Dire_Dawa_VOR-DME_ET",
+            "ident": "DWA",
+            "name": "Dire Dawa",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "9.637789726257324",
+            "longitude_deg": "41.848899841308594",
+            "elevation_ft": "3750",
+            "iso_country": "ET",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.234",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HADR"
+        }
+    ]
 }

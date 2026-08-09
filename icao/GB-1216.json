@@ -91,5 +91,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86454",
+            "filename": "Brough_NDB_GB",
+            "ident": "BV",
+            "name": "Brough",
+            "type": "NDB",
+            "frequency_khz": "372",
+            "latitude_deg": "53.725399017333984",
+            "longitude_deg": "-0.581483006477356",
+            "elevation_ft": "12",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.49",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "GB-1216"
+        }
+    ]
 }

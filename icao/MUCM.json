@@ -93,5 +93,51 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Camag%C3%BCey_Province",
         "keywords": "Airports in Camagüey Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94810",
+            "filename": "Camaguey_VOR-DME_CU",
+            "ident": "UCM",
+            "name": "Camaguey",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "21.437400817871094",
+            "longitude_deg": "-77.80079650878906",
+            "elevation_ft": "492",
+            "iso_country": "CU",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.151",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MUCM"
+        },
+        {
+            "id": "94811",
+            "filename": "Camaguey_NDB_CU",
+            "ident": "UCM",
+            "name": "Camaguey",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "21.390399932861328",
+            "longitude_deg": "-77.9291000366211",
+            "elevation_ft": "",
+            "iso_country": "CU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.097",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MUCM"
+        }
+    ]
 }

@@ -109,5 +109,29 @@
         "iso_country": "DK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Denmark",
         "keywords": "Syddanmark"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90459",
+            "filename": "Billund_NDB_DK",
+            "ident": "LO",
+            "name": "Billund",
+            "type": "NDB",
+            "frequency_khz": "341",
+            "latitude_deg": "55.74449920654297",
+            "longitude_deg": "9.279669761657715",
+            "elevation_ft": "",
+            "iso_country": "DK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.455",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EKBI"
+        }
+    ]
 }

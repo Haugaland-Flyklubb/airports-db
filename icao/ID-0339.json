@@ -77,5 +77,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Papua",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "91475",
+            "filename": "Nabire_VOR-DME_ID",
+            "ident": "NBR",
+            "name": "Nabire",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "-3.381959915161133",
+            "longitude_deg": "135.50100708007812",
+            "elevation_ft": "20",
+            "iso_country": "ID",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.011",
+            "magnetic_variation_deg": "3.082",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ID-0339"
+        },
+        {
+            "id": "96101",
+            "filename": "Nabire_NDB_ID",
+            "ident": "ZR",
+            "name": "Nabire",
+            "type": "NDB",
+            "frequency_khz": "242",
+            "latitude_deg": "-3.3616700172424316",
+            "longitude_deg": "135.4949951171875",
+            "elevation_ft": "20",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.079",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ID-0339"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
         "keywords": "Airports in Sarawak"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95186",
+            "filename": "Limbang_VOR-DME_MY",
+            "ident": "VLG",
+            "name": "Limbang",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "4.7972798347473145",
+            "longitude_deg": "115.00199890136719",
+            "elevation_ft": "14",
+            "iso_country": "MY",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.283",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WBGJ"
+        }
+    ]
 }

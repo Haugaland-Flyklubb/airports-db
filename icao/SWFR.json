@@ -59,5 +59,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
         "keywords": "Airports in Goiás"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88142",
+            "filename": "Formosa_NDB_BR",
+            "ident": "FRM",
+            "name": "Formosa",
+            "type": "NDB",
+            "frequency_khz": "210",
+            "latitude_deg": "-15.551300048828125",
+            "longitude_deg": "-47.34619903564453",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.34",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SWFR"
+        }
+    ]
 }

@@ -147,5 +147,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92962",
+            "filename": "Riverside_VOR_US",
+            "ident": "RAL",
+            "name": "Riverside",
+            "type": "VOR",
+            "frequency_khz": "112400",
+            "latitude_deg": "33.95199966430664",
+            "longitude_deg": "-117.4489974975586",
+            "elevation_ft": "762",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "12.564",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KRAL"
+        }
+    ]
 }

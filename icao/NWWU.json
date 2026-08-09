@@ -77,5 +77,29 @@
         "iso_country": "NC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Province,_New_Caledonia",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "94338",
+            "filename": "Touho_NDB_NC",
+            "ident": "TH",
+            "name": "Touho",
+            "type": "NDB",
+            "frequency_khz": "256",
+            "latitude_deg": "-20.790300369262695",
+            "longitude_deg": "165.25599670410156",
+            "elevation_ft": "10",
+            "iso_country": "NC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.518",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "NWWU"
+        }
+    ]
 }

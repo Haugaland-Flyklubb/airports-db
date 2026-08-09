@@ -59,5 +59,29 @@
         "iso_country": "KE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mandera_County",
         "keywords": "Airports in Mandera County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90702",
+            "filename": "Mandera_NDB_KE",
+            "ident": "MA",
+            "name": "Mandera",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "3.9403300285339355",
+            "longitude_deg": "41.864200592041016",
+            "elevation_ft": "",
+            "iso_country": "KE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.299",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HKMA"
+        }
+    ]
 }

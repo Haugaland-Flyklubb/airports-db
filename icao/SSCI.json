@@ -59,5 +59,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
         "keywords": "Airports in Mato Grosso do Sul"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87180",
+            "filename": "Coxim_NDB_BR",
+            "ident": "CXM",
+            "name": "Coxim",
+            "type": "NDB",
+            "frequency_khz": "205",
+            "latitude_deg": "-18.503799438476562",
+            "longitude_deg": "-54.7504997253418",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.569",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SSCI"
+        }
+    ]
 }

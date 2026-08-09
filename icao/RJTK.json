@@ -77,5 +77,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chiba",
         "keywords": "Kanto"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90102",
+            "filename": "Kisarazu_VOR-DME_JP",
+            "ident": "KZE",
+            "name": "Kisarazu",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "35.402400970458984",
+            "longitude_deg": "139.9029998779297",
+            "elevation_ft": "45",
+            "iso_country": "JP",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-6.483",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RJTK"
+        }
+    ]
 }

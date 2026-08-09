@@ -81,5 +81,29 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
         "keywords": "Airports in Punjab"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90955",
+            "filename": "Mianwali_NDB_PK",
+            "ident": "MI",
+            "name": "Mianwali",
+            "type": "NDB",
+            "frequency_khz": "240",
+            "latitude_deg": "32.56629943847656",
+            "longitude_deg": "71.56620025634766",
+            "elevation_ft": "",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.529",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OPMI"
+        }
+    ]
 }

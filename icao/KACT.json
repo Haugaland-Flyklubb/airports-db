@@ -147,5 +147,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85224",
+            "filename": "Coffi_NDB_US",
+            "ident": "AC",
+            "name": "Coffi",
+            "type": "NDB",
+            "frequency_khz": "358",
+            "latitude_deg": "31.694000244140625",
+            "longitude_deg": "-97.20379638671875",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.551",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KACT"
+        }
+    ]
 }

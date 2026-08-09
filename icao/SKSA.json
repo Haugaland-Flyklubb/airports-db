@@ -59,5 +59,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arauca_Department",
         "keywords": "Airports in Arauca Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94061",
+            "filename": "Saravena_NDB_CO",
+            "ident": "SVA",
+            "name": "Saravena",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "6.955190181732178",
+            "longitude_deg": "-71.86019897460938",
+            "elevation_ft": "700",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.319",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SKSA"
+        }
+    ]
 }

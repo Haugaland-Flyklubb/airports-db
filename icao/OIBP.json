@@ -69,5 +69,29 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bushehr_Province",
         "keywords": "Airports in Bushehr Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92683",
+            "filename": "Persian_Gulf_NDB_IR",
+            "ident": "PRG",
+            "name": "Persian Gulf",
+            "type": "NDB",
+            "frequency_khz": "457",
+            "latitude_deg": "27.393199920654297",
+            "longitude_deg": "52.724998474121094",
+            "elevation_ft": "27",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.114",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "OIBP"
+        }
+    ]
 }

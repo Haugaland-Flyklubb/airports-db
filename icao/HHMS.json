@@ -77,5 +77,29 @@
         "iso_country": "ER",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Red_Sea_Region",
         "keywords": "ዞባ ሰሜናዊ ቀይሕ ባሕሪ, Zoba Semienawi Keyih Bahri, منطقة البحر الأحمر الشمال"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91263",
+            "filename": "Massawa_NDB_ER",
+            "ident": "MS",
+            "name": "Massawa",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "15.66569995880127",
+            "longitude_deg": "39.315799713134766",
+            "elevation_ft": "",
+            "iso_country": "ER",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.162",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "HHMS"
+        }
+    ]
 }

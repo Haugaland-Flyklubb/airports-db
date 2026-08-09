@@ -117,5 +117,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
         "keywords": "Airports in Arkansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87258",
+            "filename": "Drake_VOR-DME_US",
+            "ident": "DAK",
+            "name": "Drake",
+            "type": "VOR-DME",
+            "frequency_khz": "108800",
+            "latitude_deg": "36.04290008544922",
+            "longitude_deg": "-94.19760131835938",
+            "elevation_ft": "1530",
+            "iso_country": "US",
+            "dme_frequency_khz": "108800",
+            "dme_channel": "025X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.001",
+            "magnetic_variation_deg": "2.508",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KFYV"
+        }
+    ]
 }

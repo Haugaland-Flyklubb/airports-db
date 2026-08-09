@@ -103,5 +103,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gauteng",
         "keywords": "Airports in Gauteng"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88822",
+            "filename": "Heidelberg_VOR_ZA",
+            "ident": "HGV",
+            "name": "Heidelberg",
+            "type": "VOR",
+            "frequency_khz": "116700",
+            "latitude_deg": "-26.696909",
+            "longitude_deg": "28.283136",
+            "elevation_ft": "5159",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.343",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FAHG"
+        }
+    ]
 }

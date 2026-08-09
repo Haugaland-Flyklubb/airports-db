@@ -123,5 +123,51 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sichuan",
         "keywords": "Airports in Sichuan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86025",
+            "filename": "Baihesi_VOR-DME_CN",
+            "ident": "BHS",
+            "name": "Baihesi",
+            "type": "VOR-DME",
+            "frequency_khz": "117900",
+            "latitude_deg": "30.50830078125",
+            "longitude_deg": "104.2030029296875",
+            "elevation_ft": "1667",
+            "iso_country": "CN",
+            "dme_frequency_khz": "117900",
+            "dme_channel": "126X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.471",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZUUU"
+        },
+        {
+            "id": "87095",
+            "filename": "Shuangliu_VOR-DME_CN",
+            "ident": "CTU",
+            "name": "Shuangliu",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "30.575000762939453",
+            "longitude_deg": "103.94300079345703",
+            "elevation_ft": "1612",
+            "iso_country": "CN",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.446",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZUUU"
+        }
+    ]
 }

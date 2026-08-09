@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86945",
+            "filename": "Coen_NDB_AU",
+            "ident": "COE",
+            "name": "Coen",
+            "type": "NDB",
+            "frequency_khz": "404",
+            "latitude_deg": "-13.76609992980957",
+            "longitude_deg": "143.11700439453125",
+            "elevation_ft": "532",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.053",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YCOE"
+        }
+    ]
 }

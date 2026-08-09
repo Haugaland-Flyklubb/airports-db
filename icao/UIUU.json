@@ -129,5 +129,29 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Republic_of_Buryat",
         "keywords": "Airports in Republic of Buryat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95990",
+            "filename": "Ulan-Ude_NDB_RU",
+            "ident": "ZD",
+            "name": "Ulan-Ude",
+            "type": "NDB",
+            "frequency_khz": "349",
+            "latitude_deg": "51.81999969482422",
+            "longitude_deg": "107.52300262451172",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.469",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "UIUU"
+        }
+    ]
 }

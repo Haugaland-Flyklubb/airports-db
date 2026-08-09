@@ -59,5 +59,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85094",
+            "filename": "Knee_Lake_NDB_CA",
+            "ident": "4J",
+            "name": "Knee Lake",
+            "type": "NDB",
+            "frequency_khz": "314",
+            "latitude_deg": "54.88330078125",
+            "longitude_deg": "-94.80000305175781",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.468",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CJT3"
+        },
+        {
+            "id": "85111",
+            "filename": "Gods_River_NDB_CA",
+            "ident": "5O",
+            "name": "Gods River",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "54.84189987182617",
+            "longitude_deg": "-94.06909942626953",
+            "elevation_ft": "676",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.043",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CJT3"
+        }
+    ]
 }

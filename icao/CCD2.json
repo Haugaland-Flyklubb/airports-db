@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85062",
+            "filename": "Springdale_NDB_CA",
+            "ident": "2B",
+            "name": "Springdale",
+            "type": "NDB",
+            "frequency_khz": "364",
+            "latitude_deg": "49.4900016784668",
+            "longitude_deg": "-56.18470001220703",
+            "elevation_ft": "250",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.312",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CCD2"
+        }
+    ]
 }

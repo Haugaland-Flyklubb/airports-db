@@ -93,5 +93,51 @@
         "iso_country": "GH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Region,_Ghana",
         "keywords": "Airports in Northern Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94418",
+            "filename": "Tamale_NDB_GH",
+            "ident": "TL",
+            "name": "Tamale",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "9.571669578552246",
+            "longitude_deg": "-0.849166989326477",
+            "elevation_ft": "",
+            "iso_country": "GH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.528",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "DGLE"
+        },
+        {
+            "id": "94431",
+            "filename": "Tamale_VOR-DME_GH",
+            "ident": "TLE",
+            "name": "Tamale",
+            "type": "VOR-DME",
+            "frequency_khz": "116900",
+            "latitude_deg": "9.573490142822266",
+            "longitude_deg": "-0.8471390008926392",
+            "elevation_ft": "553",
+            "iso_country": "GH",
+            "dme_frequency_khz": "116900",
+            "dme_channel": "116X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.528",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DGLE"
+        }
+    ]
 }

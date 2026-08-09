@@ -69,5 +69,51 @@
         "iso_country": "KE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wajir_County",
         "keywords": "Airports in Wajir County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95363",
+            "filename": "Wajir_NDB_KE",
+            "ident": "WA",
+            "name": "Wajir",
+            "type": "NDB",
+            "frequency_khz": "318",
+            "latitude_deg": "1.7479599714279175",
+            "longitude_deg": "40.06019973754883",
+            "elevation_ft": "",
+            "iso_country": "KE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.203",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HKWJ"
+        },
+        {
+            "id": "95372",
+            "filename": "Wajir_VOR-DME_KE",
+            "ident": "WAV",
+            "name": "Wajir",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "1.746809959411621",
+            "longitude_deg": "40.082401275634766",
+            "elevation_ft": "770",
+            "iso_country": "KE",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "0.2",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HKWJ"
+        }
+    ]
 }

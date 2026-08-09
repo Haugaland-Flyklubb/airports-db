@@ -191,5 +191,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86381",
+            "filename": "Batol_NDB_US",
+            "ident": "BT",
+            "name": "Batol",
+            "type": "NDB",
+            "frequency_khz": "272",
+            "latitude_deg": "42.361900329589844",
+            "longitude_deg": "-85.18419647216797",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.199",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBTL"
+        },
+        {
+            "id": "86393",
+            "filename": "Battle_Creek_VORTAC_US",
+            "ident": "BTL",
+            "name": "Battle Creek",
+            "type": "VORTAC",
+            "frequency_khz": "109400",
+            "latitude_deg": "42.30979919433594",
+            "longitude_deg": "-85.2522964477539",
+            "elevation_ft": "930",
+            "iso_country": "US",
+            "dme_frequency_khz": "109400",
+            "dme_channel": "031X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.001",
+            "magnetic_variation_deg": "-5.155",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KBTL"
+        }
+    ]
 }

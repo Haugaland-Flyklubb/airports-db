@@ -99,5 +99,29 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tanger-Tetouan-Al_Hoceima",
         "keywords": "طنجة - تطوان - الحسيمة"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94474",
+            "filename": "Tanger_VOR-DME_MA",
+            "ident": "TNG",
+            "name": "Tanger",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "35.72890090942383",
+            "longitude_deg": "-5.890830039978027",
+            "elevation_ft": "105",
+            "iso_country": "MA",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-2.454",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMTT"
+        }
+    ]
 }

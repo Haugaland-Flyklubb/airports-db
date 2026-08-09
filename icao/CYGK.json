@@ -123,5 +123,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95675",
+            "filename": "Kingston_NDB_CA",
+            "ident": "YGK",
+            "name": "Kingston",
+            "type": "NDB",
+            "frequency_khz": "263",
+            "latitude_deg": "44.29669952392578",
+            "longitude_deg": "-76.60559844970703",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.47",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYGK"
+        }
+    ]
 }

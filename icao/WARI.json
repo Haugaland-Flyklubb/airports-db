@@ -99,5 +99,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jawa_Timur",
         "keywords": "Airports in Jawa Timur"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85557",
+            "filename": "Iswahyudi_NDB_ID",
+            "ident": "AR",
+            "name": "Iswahyudi",
+            "type": "NDB",
+            "frequency_khz": "315",
+            "latitude_deg": "-7.664669990539551",
+            "longitude_deg": "111.43399810791016",
+            "elevation_ft": "361",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.184",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WARI"
+        },
+        {
+            "id": "89394",
+            "filename": "Iswahyudi_TACAN_ID",
+            "ident": "IWY",
+            "name": "Iswahyudi",
+            "type": "TACAN",
+            "frequency_khz": "114800",
+            "latitude_deg": "-7.610730171203613",
+            "longitude_deg": "111.43699645996094",
+            "elevation_ft": "361",
+            "iso_country": "ID",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.011",
+            "magnetic_variation_deg": "1.184",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WARI"
+        }
+    ]
 }

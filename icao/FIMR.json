@@ -77,5 +77,29 @@
         "iso_country": "MU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rodrigues_Island",
         "keywords": "Airports in Rodrigues Island"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93240",
+            "filename": "Rodrigues_NDB_MU",
+            "ident": "RS",
+            "name": "Rodrigues",
+            "type": "NDB",
+            "frequency_khz": "302",
+            "latitude_deg": "-19.759899139404297",
+            "longitude_deg": "63.36040115356445",
+            "elevation_ft": "",
+            "iso_country": "MU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.195",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FIMR"
+        }
+    ]
 }

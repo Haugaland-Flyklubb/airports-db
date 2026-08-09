@@ -59,5 +59,29 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Morona-Santiago_Province",
         "keywords": "Airports in Morona-Santiago Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88463",
+            "filename": "Gualaquiza_NDB_EC",
+            "ident": "GLZ",
+            "name": "Gualaquiza",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "-3.4200000762939453",
+            "longitude_deg": "-78.53559875488281",
+            "elevation_ft": "",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.598",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SEGZ"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "NA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Erongo_Region",
         "keywords": "Airports in Erongo Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85254",
+            "filename": "Arandis_NDB_NA",
+            "ident": "AD",
+            "name": "Arandis",
+            "type": "NDB",
+            "frequency_khz": "328",
+            "latitude_deg": "-22.466699600219727",
+            "longitude_deg": "14.95829963684082",
+            "elevation_ft": "",
+            "iso_country": "NA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.554",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FYAR"
+        }
+    ]
 }

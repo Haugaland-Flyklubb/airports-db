@@ -77,5 +77,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chandigarh",
         "keywords": "Airports in Chandigarh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86714",
+            "filename": "Chandigarh_NDB_IN",
+            "ident": "CG",
+            "name": "Chandigarh",
+            "type": "NDB",
+            "frequency_khz": "228",
+            "latitude_deg": "30.666500091552734",
+            "longitude_deg": "76.79879760742188",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.068",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VICG"
+        },
+        {
+            "id": "86760",
+            "filename": "Chandigarh_VOR-DME_IN",
+            "ident": "CHG",
+            "name": "Chandigarh",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "30.667600631713867",
+            "longitude_deg": "76.80570220947266",
+            "elevation_ft": "1012",
+            "iso_country": "IN",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.011",
+            "magnetic_variation_deg": "1.068",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VICG"
+        }
+    ]
 }

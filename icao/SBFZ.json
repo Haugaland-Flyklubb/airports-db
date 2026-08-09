@@ -101,5 +101,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ceará",
         "keywords": "Airports in Ceará"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88056",
+            "filename": "Fortaleza_VOR-DME_BR",
+            "ident": "FLZ",
+            "name": "Fortaleza",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "-3.7722699642181396",
+            "longitude_deg": "-38.547698974609375",
+            "elevation_ft": "82",
+            "iso_country": "BR",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-21.007",
+            "magnetic_variation_deg": "-21.279",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBFZ"
+        },
+        {
+            "id": "88057",
+            "filename": "Fortaleza_NDB_BR",
+            "ident": "FLZ",
+            "name": "Fortaleza",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "-3.7698400020599365",
+            "longitude_deg": "-38.5276985168457",
+            "elevation_ft": "192",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.279",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBFZ"
+        }
+    ]
 }

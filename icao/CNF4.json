@@ -99,5 +99,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95840",
+            "filename": "Simcoe_VOR-DME_CA",
+            "ident": "YSO",
+            "name": "Simcoe",
+            "type": "VOR-DME",
+            "frequency_khz": "117350",
+            "latitude_deg": "44.23860168457031",
+            "longitude_deg": "-79.17169952392578",
+            "elevation_ft": "932",
+            "iso_country": "CA",
+            "dme_frequency_khz": "117350",
+            "dme_channel": "120Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.001",
+            "magnetic_variation_deg": "-10.527",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CNF4"
+        }
+    ]
 }

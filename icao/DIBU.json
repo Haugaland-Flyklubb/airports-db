@@ -59,5 +59,51 @@
         "iso_country": "CI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zanzan",
         "keywords": "Airports in Zanzan District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85907",
+            "filename": "Bondoukou_Soko_NDB_CI",
+            "ident": "BDK",
+            "name": "Bondoukou/Soko",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "8.005080223083496",
+            "longitude_deg": "-2.7673299312591553",
+            "elevation_ft": "",
+            "iso_country": "CI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.501",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DIBU"
+        },
+        {
+            "id": "85919",
+            "filename": "Bondoukou_Soko_VOR_CI",
+            "ident": "BDU",
+            "name": "Bondoukou/Soko",
+            "type": "VOR",
+            "frequency_khz": "116100",
+            "latitude_deg": "8.036499977111816",
+            "longitude_deg": "-2.754610061645508",
+            "elevation_ft": "1247",
+            "iso_country": "CI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.494",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DIBU"
+        }
+    ]
 }

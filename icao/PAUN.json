@@ -115,5 +115,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89522",
+            "filename": "North_River_NDB_US",
+            "ident": "JNR",
+            "name": "North River",
+            "type": "NDB",
+            "frequency_khz": "382",
+            "latitude_deg": "63.90769958496094",
+            "longitude_deg": "-160.81199645996094",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.045",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PAUN"
+        },
+        {
+            "id": "94914",
+            "filename": "Unalakleet_VOR-DME_US",
+            "ident": "UNK",
+            "name": "Unalakleet",
+            "type": "VOR-DME",
+            "frequency_khz": "116900",
+            "latitude_deg": "63.89189910888672",
+            "longitude_deg": "-160.6840057373047",
+            "elevation_ft": "430",
+            "iso_country": "US",
+            "dme_frequency_khz": "116900",
+            "dme_channel": "116X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "20.001",
+            "magnetic_variation_deg": "16.083",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAUN"
+        }
+    ]
 }

@@ -101,5 +101,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
         "keywords": "Airports in Grand Est"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90879",
+            "filename": "Metz_TACAN_FR",
+            "ident": "MET",
+            "name": "Metz",
+            "type": "TACAN",
+            "frequency_khz": "108000",
+            "latitude_deg": "49.066898345947266",
+            "longitude_deg": "6.129389762878418",
+            "elevation_ft": "663",
+            "iso_country": "FR",
+            "dme_frequency_khz": "108000",
+            "dme_channel": "017X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "0.056",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FR-1240"
+        }
+    ]
 }

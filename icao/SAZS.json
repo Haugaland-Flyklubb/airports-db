@@ -85,5 +85,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/R%C3%ADo_Negro_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "85810",
+            "filename": "San_Carlos_De_Bariloche_VOR-DME_AR",
+            "ident": "BAR",
+            "name": "San Carlos De Bariloche",
+            "type": "VOR-DME",
+            "frequency_khz": "117400",
+            "latitude_deg": "-41.14030075073242",
+            "longitude_deg": "-71.18890380859375",
+            "elevation_ft": "2776",
+            "iso_country": "AR",
+            "dme_frequency_khz": "117400",
+            "dme_channel": "121X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.007",
+            "magnetic_variation_deg": "8.037",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAZS"
+        }
+    ]
 }

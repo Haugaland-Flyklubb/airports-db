@@ -77,5 +77,29 @@
         "iso_country": "MR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Adrar_Region",
         "keywords": "Airports in Adrar Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85560",
+            "filename": "Atar_NDB_MR",
+            "ident": "AR",
+            "name": "Atar",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "20.502300262451172",
+            "longitude_deg": "-13.059100151062012",
+            "elevation_ft": "",
+            "iso_country": "MR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.597",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GQPA"
+        }
+    ]
 }

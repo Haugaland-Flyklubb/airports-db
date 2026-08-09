@@ -77,5 +77,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94224",
+            "filename": "Taubate_NDB_BR",
+            "ident": "TBE",
+            "name": "Taubate",
+            "type": "NDB",
+            "frequency_khz": "430",
+            "latitude_deg": "-23.045700073242188",
+            "longitude_deg": "-45.51679992675781",
+            "elevation_ft": "1923",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.325",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBTA"
+        }
+    ]
 }

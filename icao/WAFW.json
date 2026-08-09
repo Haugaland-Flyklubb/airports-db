@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Tengah",
         "keywords": "Airports in Sulawesi Tengah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90375",
+            "filename": "Bubung_NDB_ID",
+            "ident": "LK",
+            "name": "Bubung",
+            "type": "NDB",
+            "frequency_khz": "250",
+            "latitude_deg": "-1.0433100461959839",
+            "longitude_deg": "122.7760009765625",
+            "elevation_ft": "56",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.21",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAFW"
+        }
+    ]
 }

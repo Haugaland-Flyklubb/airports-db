@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85072",
+            "filename": "Mackenzie_Bc_NDB-DME_CA",
+            "ident": "2U",
+            "name": "Mackenzie Bc",
+            "type": "NDB-DME",
+            "frequency_khz": "284",
+            "latitude_deg": "55.3036003112793",
+            "longitude_deg": "-123.13700103759766",
+            "elevation_ft": "2303",
+            "iso_country": "CA",
+            "dme_frequency_khz": "108900",
+            "dme_channel": "026X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "20.519",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYZY"
+        }
+    ]
 }

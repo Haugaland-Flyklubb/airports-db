@@ -35,5 +35,29 @@
         "iso_country": "FJ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Division,_Fiji",
         "keywords": "Airports in Eastern"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90374",
+            "filename": "Lakeba_NDB_FJ",
+            "ident": "LK",
+            "name": "Lakeba",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "-18.204999923706055",
+            "longitude_deg": "-178.81300354003906",
+            "elevation_ft": "",
+            "iso_country": "FJ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.292",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "NFNK"
+        }
+    ]
 }

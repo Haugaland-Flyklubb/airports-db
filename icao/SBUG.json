@@ -91,5 +91,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
         "keywords": "Airports in Rio Grande do Sul"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94953",
+            "filename": "Uruguaiana_NDB_BR",
+            "ident": "URG",
+            "name": "Uruguaiana",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "-29.785999298095703",
+            "longitude_deg": "-57.03670120239258",
+            "elevation_ft": "256",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.385",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBUG"
+        }
+    ]
 }

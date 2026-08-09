@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maranhão",
         "keywords": "Airports in Maranhão"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85398",
+            "filename": "Alcantara_NDB_BR",
+            "ident": "ALC",
+            "name": "Alcantara",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-2.381500005722046",
+            "longitude_deg": "-44.39929962158203",
+            "elevation_ft": "148",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.459",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SNCW"
+        }
+    ]
 }

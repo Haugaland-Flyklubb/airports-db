@@ -99,5 +99,29 @@
         "iso_country": "LY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Jabal_al_Akhdar_District",
         "keywords": "Al Jabal al Akhḑar"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90144",
+            "filename": "Labraq_NDB_LY",
+            "ident": "LAB",
+            "name": "Labraq",
+            "type": "NDB",
+            "frequency_khz": "392",
+            "latitude_deg": "32.78689956665039",
+            "longitude_deg": "21.96579933166504",
+            "elevation_ft": "2157",
+            "iso_country": "LY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.398",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HLLQ"
+        }
+    ]
 }

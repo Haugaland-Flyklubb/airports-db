@@ -81,5 +81,51 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/B%C3%A9char_Province",
         "keywords": "Airports in Béchar Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85857",
+            "filename": "Bechar_NDB_DZ",
+            "ident": "BC",
+            "name": "Bechar",
+            "type": "NDB",
+            "frequency_khz": "417",
+            "latitude_deg": "31.63330078125",
+            "longitude_deg": "-2.3055601119995117",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.411",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DAOR"
+        },
+        {
+            "id": "85878",
+            "filename": "Bechar_VOR-DME_DZ",
+            "ident": "BCR",
+            "name": "Bechar",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "31.685300827026367",
+            "longitude_deg": "-2.2572200298309326",
+            "elevation_ft": "2692",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.393",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAOR"
+        }
+    ]
 }

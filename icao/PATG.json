@@ -115,5 +115,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94508",
+            "filename": "Togiak_NDB-DME_US",
+            "ident": "TOG",
+            "name": "Togiak",
+            "type": "NDB-DME",
+            "frequency_khz": "393",
+            "latitude_deg": "59.0640983581543",
+            "longitude_deg": "-160.37399291992188",
+            "elevation_ft": "21",
+            "iso_country": "US",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.14",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PATG"
+        }
+    ]
 }

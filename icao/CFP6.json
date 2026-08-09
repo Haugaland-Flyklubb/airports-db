@@ -35,5 +35,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yukon_Territory",
         "keywords": "Airports in Yukon"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88235",
+            "filename": "La_Biche_River_NDB_CA",
+            "ident": "G6",
+            "name": "La Biche River",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "60.12860107421875",
+            "longitude_deg": "-124.0510025024414",
+            "elevation_ft": "1356",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "23.291",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CFP6"
+        }
+    ]
 }

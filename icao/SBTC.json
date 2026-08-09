@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
         "keywords": "Airports in Bahia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86954",
+            "filename": "Comandatuba_NDB_BR",
+            "ident": "COM",
+            "name": "Comandatuba",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "-15.360799789428711",
+            "longitude_deg": "-39.00130081176758",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-23.143",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBTC"
+        }
+    ]
 }

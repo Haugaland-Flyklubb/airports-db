@@ -77,5 +77,51 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Aegean",
         "keywords": "Περιφέρεια Νοτίου Αιγαίου"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89959",
+            "filename": "Karpathos_NDB_GR",
+            "ident": "KRC",
+            "name": "Karpathos",
+            "type": "NDB",
+            "frequency_khz": "314",
+            "latitude_deg": "35.419700622558594",
+            "longitude_deg": "27.149999618530273",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.269",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LGKP"
+        },
+        {
+            "id": "93215",
+            "filename": "Karpathos_TACAN_GR",
+            "ident": "RPA",
+            "name": "Karpathos",
+            "type": "TACAN",
+            "frequency_khz": "109600",
+            "latitude_deg": "35.421199798583984",
+            "longitude_deg": "27.165300369262695",
+            "elevation_ft": "66",
+            "iso_country": "GR",
+            "dme_frequency_khz": "109600",
+            "dme_channel": "033X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.27",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LGKP"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "BW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jwaneng",
         "keywords": "Airports in Jwaneng (town)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89589",
+            "filename": "Jwaneng_NDB_BW",
+            "ident": "JWN",
+            "name": "Jwaneng",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "-24.60070037841797",
+            "longitude_deg": "24.68589973449707",
+            "elevation_ft": "",
+            "iso_country": "BW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.041",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FBJW"
+        }
+    ]
 }

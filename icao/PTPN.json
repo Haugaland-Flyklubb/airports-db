@@ -77,5 +77,29 @@
         "iso_country": "FM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pohnpei_State",
         "keywords": "Airports in Pohnpei State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92574",
+            "filename": "Pohnpei_NDB-DME_FM",
+            "ident": "PNI",
+            "name": "Pohnpei",
+            "type": "NDB-DME",
+            "frequency_khz": "366",
+            "latitude_deg": "6.971980094909668",
+            "longitude_deg": "158.18499755859375",
+            "elevation_ft": "10",
+            "iso_country": "FM",
+            "dme_frequency_khz": "111000",
+            "dme_channel": "047X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.102",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PTPN"
+        }
+    ]
 }

@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88450",
+            "filename": "Glen_Innes_NDB_AU",
+            "ident": "GLI",
+            "name": "Glen Innes",
+            "type": "NDB",
+            "frequency_khz": "212",
+            "latitude_deg": "-29.672199249267578",
+            "longitude_deg": "151.69500732421875",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.237",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YGLI"
+        }
+    ]
 }

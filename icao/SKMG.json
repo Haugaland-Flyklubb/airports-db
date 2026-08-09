@@ -77,5 +77,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bolívar_Department",
         "keywords": "Airports in Bolívar Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90920",
+            "filename": "Magangue_VOR-DME_CO",
+            "ident": "MGN",
+            "name": "Magangue",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "9.287409782409668",
+            "longitude_deg": "-74.84719848632812",
+            "elevation_ft": "164",
+            "iso_country": "CO",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-5.552",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKMG"
+        }
+    ]
 }

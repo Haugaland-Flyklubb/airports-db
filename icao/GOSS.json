@@ -99,5 +99,29 @@
         "iso_country": "SN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saint-Louis_Region",
         "keywords": "Airports in Saint-Louis Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93736",
+            "filename": "Saint_Louis_NDB_SN",
+            "ident": "SLO",
+            "name": "Saint Louis",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "16.049100875854492",
+            "longitude_deg": "-16.45709991455078",
+            "elevation_ft": "68",
+            "iso_country": "SN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.064",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GOSS"
+        }
+    ]
 }

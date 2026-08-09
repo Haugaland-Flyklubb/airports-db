@@ -137,5 +137,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86572",
+            "filename": "Cambridge_NDB_GB",
+            "ident": "CAM",
+            "name": "Cambridge",
+            "type": "NDB",
+            "frequency_khz": "333",
+            "latitude_deg": "52.21080017089844",
+            "longitude_deg": "0.18279199302196503",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.163",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGSC"
+        }
+    ]
 }

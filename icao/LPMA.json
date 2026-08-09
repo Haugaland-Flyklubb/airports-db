@@ -77,5 +77,51 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Madeira",
         "keywords": "Região Autónoma da Madeira"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88193",
+            "filename": "Madeira_VOR-DME_PT",
+            "ident": "FUN",
+            "name": "Madeira",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "32.74700164794922",
+            "longitude_deg": "-16.705699920654297",
+            "elevation_ft": "504",
+            "iso_country": "PT",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "32.7469",
+            "dme_longitude_deg": "-16.7056",
+            "dme_elevation_ft": "504",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.335",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPMA"
+        },
+        {
+            "id": "90717",
+            "filename": "Madeira_NDB_PT",
+            "ident": "MAD",
+            "name": "Madeira",
+            "type": "NDB",
+            "frequency_khz": "318",
+            "latitude_deg": "32.74810028076172",
+            "longitude_deg": "-16.706499099731445",
+            "elevation_ft": "",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.335",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPMA"
+        }
+    ]
 }

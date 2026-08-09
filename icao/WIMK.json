@@ -85,5 +85,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Sumatra",
         "keywords": "Airports in Sumatra Utara"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90839",
+            "filename": "Medan_VOR-DME_ID",
+            "ident": "MDN",
+            "name": "Medan",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "3.504549980163574",
+            "longitude_deg": "98.60769653320312",
+            "elevation_ft": "175",
+            "iso_country": "ID",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.322",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WIMK"
+        },
+        {
+            "id": "92025",
+            "filename": "Medan_NDB_ID",
+            "ident": "ON",
+            "name": "Medan",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "3.5684399604797363",
+            "longitude_deg": "98.6729965209961",
+            "elevation_ft": "90",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.316",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIMK"
+        }
+    ]
 }

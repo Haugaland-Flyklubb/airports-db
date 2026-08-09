@@ -113,5 +113,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hauts-de-France",
         "keywords": "Airports in Hauts-de-France"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85205",
+            "filename": "Abbeville_VOR-DME_FR",
+            "ident": "ABB",
+            "name": "Abbeville",
+            "type": "VOR-DME",
+            "frequency_khz": "108450",
+            "latitude_deg": "50.135101318359375",
+            "longitude_deg": "1.8546899557113647",
+            "elevation_ft": "223",
+            "iso_country": "FR",
+            "dme_frequency_khz": "108450",
+            "dme_channel": "021Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-1.232",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFOI"
+        }
+    ]
 }

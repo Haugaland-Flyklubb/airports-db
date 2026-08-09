@@ -159,5 +159,51 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Cape",
         "keywords": "Airports in Western Cape"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90634",
+            "filename": "Langebaanweg_NDB_ZA",
+            "ident": "LW",
+            "name": "Langebaanweg",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "-32.980899810791016",
+            "longitude_deg": "18.14900016784668",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-23.203",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FALW"
+        },
+        {
+            "id": "90646",
+            "filename": "Langebaanweg_VORTAC_ZA",
+            "ident": "LWV",
+            "name": "Langebaanweg",
+            "type": "VORTAC",
+            "frequency_khz": "117000",
+            "latitude_deg": "-32.9828987121582",
+            "longitude_deg": "18.16390037536621",
+            "elevation_ft": "106",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "117000",
+            "dme_channel": "117X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-23.206",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FALW"
+        }
+    ]
 }

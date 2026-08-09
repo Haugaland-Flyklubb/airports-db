@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95653",
+            "filename": "Empress_VORTAC_CA",
+            "ident": "YEA",
+            "name": "Empress",
+            "type": "VORTAC",
+            "frequency_khz": "115900",
+            "latitude_deg": "50.92639923095703",
+            "longitude_deg": "-109.98899841308594",
+            "elevation_ft": "2436",
+            "iso_country": "CA",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "14.09",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYEA"
+        }
+    ]
 }

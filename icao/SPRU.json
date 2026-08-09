@@ -77,5 +77,29 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Libertad_Region",
         "keywords": "Airports in La Libertad Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94614",
+            "filename": "Trujillo_VOR-DME_PE",
+            "ident": "TRU",
+            "name": "Trujillo",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "-8.087220191955566",
+            "longitude_deg": "-79.11219787597656",
+            "elevation_ft": "100",
+            "iso_country": "PE",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "0.276",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPRU"
+        }
+    ]
 }

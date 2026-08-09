@@ -69,5 +69,29 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Coimbra_District",
         "keywords": "Airports in Coimbra District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86606",
+            "filename": "Coimbra_NDB_PT",
+            "ident": "CB",
+            "name": "Coimbra",
+            "type": "NDB",
+            "frequency_khz": "426",
+            "latitude_deg": "40.16059875488281",
+            "longitude_deg": "-8.471940040588379",
+            "elevation_ft": "",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.512",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LPCO"
+        }
+    ]
 }

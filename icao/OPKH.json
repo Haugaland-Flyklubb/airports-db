@@ -59,5 +59,29 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
         "keywords": "Baluchistan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89763",
+            "filename": "Khuzdar_NDB_PK",
+            "ident": "KH",
+            "name": "Khuzdar",
+            "type": "NDB",
+            "frequency_khz": "405",
+            "latitude_deg": "27.79759979248047",
+            "longitude_deg": "66.63870239257812",
+            "elevation_ft": "4022",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.027",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPKH"
+        }
+    ]
 }

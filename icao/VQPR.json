@@ -59,5 +59,51 @@
         "iso_country": "BT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Paro_District",
         "keywords": "Airports in Paro"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92660",
+            "filename": "Paro_NDB_BT",
+            "ident": "PR",
+            "name": "Paro",
+            "type": "NDB",
+            "frequency_khz": "410",
+            "latitude_deg": "27.400299072265625",
+            "longitude_deg": "89.41539764404297",
+            "elevation_ft": "",
+            "iso_country": "BT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.08",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VQPR"
+        },
+        {
+            "id": "92693",
+            "filename": "Paro_VOR_BT",
+            "ident": "PRO",
+            "name": "Paro",
+            "type": "VOR",
+            "frequency_khz": "108400",
+            "latitude_deg": "27.299999237060547",
+            "longitude_deg": "89.5",
+            "elevation_ft": "7332",
+            "iso_country": "BT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.09",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VQPR"
+        }
+    ]
 }

@@ -69,5 +69,51 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tiaret_Province",
         "keywords": "Airports in Tiaret Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94576",
+            "filename": "Tiaret_VOR-DME_DZ",
+            "ident": "TRB",
+            "name": "Tiaret",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "35.347801208496094",
+            "longitude_deg": "1.5149999856948853",
+            "elevation_ft": "2902",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.387",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAOB"
+        },
+        {
+            "id": "94577",
+            "filename": "Tiaret_NDB_DZ",
+            "ident": "TRB",
+            "name": "Tiaret",
+            "type": "NDB",
+            "frequency_khz": "389",
+            "latitude_deg": "35.34579849243164",
+            "longitude_deg": "1.5005600452423096",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.369",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "DAOB"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91302",
+            "filename": "Chiboo_NDB_CA",
+            "ident": "MT",
+            "name": "Chiboo",
+            "type": "NDB",
+            "frequency_khz": "209",
+            "latitude_deg": "49.79970169067383",
+            "longitude_deg": "-74.49559783935547",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.45",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYMT"
+        },
+        {
+            "id": "95753",
+            "filename": "Chiboo_DME_CA",
+            "ident": "YMT",
+            "name": "Chiboo",
+            "type": "DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "49.799400329589844",
+            "longitude_deg": "-74.49559783935547",
+            "elevation_ft": "1277",
+            "iso_country": "CA",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.449",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYMT"
+        }
+    ]
 }

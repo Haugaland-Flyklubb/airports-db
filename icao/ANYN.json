@@ -77,5 +77,51 @@
         "iso_country": "NR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yaren_District",
         "keywords": "Airports in Yaren"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91560",
+            "filename": "Nauru_VOR-DME_NR",
+            "ident": "NI",
+            "name": "Nauru",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "-0.5438330173492432",
+            "longitude_deg": "166.92100524902344",
+            "elevation_ft": "22",
+            "iso_country": "NR",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.002",
+            "magnetic_variation_deg": "8.505",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ANYN"
+        },
+        {
+            "id": "91565",
+            "filename": "Nauru_NDB_NR",
+            "ident": "NI",
+            "name": "Nauru",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "-0.5428329706192017",
+            "longitude_deg": "166.91799926757812",
+            "elevation_ft": "109",
+            "iso_country": "NR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.505",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ANYN"
+        }
+    ]
 }

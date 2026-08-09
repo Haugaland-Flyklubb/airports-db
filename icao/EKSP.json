@@ -99,5 +99,29 @@
         "iso_country": "DK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Denmark",
         "keywords": "Syddanmark"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93700",
+            "filename": "Skrydstrup_VORTAC_DK",
+            "ident": "SKR",
+            "name": "Skrydstrup",
+            "type": "VORTAC",
+            "frequency_khz": "110400",
+            "latitude_deg": "55.22890090942383",
+            "longitude_deg": "9.214059829711914",
+            "elevation_ft": "138",
+            "iso_country": "DK",
+            "dme_frequency_khz": "110400",
+            "dme_channel": "041X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.008",
+            "magnetic_variation_deg": "0.454",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EKSP"
+        }
+    ]
 }

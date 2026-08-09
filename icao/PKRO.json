@@ -93,5 +93,29 @@
         "iso_country": "MH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kwajalein",
         "keywords": "Airports in Kwajalein"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93192",
+            "filename": "Roi_Namur_TACAN_MH",
+            "ident": "ROI",
+            "name": "Roi Namur",
+            "type": "TACAN",
+            "frequency_khz": "111400",
+            "latitude_deg": "9.39540958404541",
+            "longitude_deg": "167.4739990234375",
+            "elevation_ft": "12",
+            "iso_country": "MH",
+            "dme_frequency_khz": "111400",
+            "dme_channel": "051X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.456",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PKRO"
+        }
+    ]
 }

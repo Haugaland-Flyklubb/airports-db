@@ -101,5 +101,29 @@
         "iso_country": "GT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pet%C3%A9n_Department",
         "keywords": "Airports in Petén Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94367",
+            "filename": "Tikal_VOR-DME_GT",
+            "ident": "TIK",
+            "name": "Tikal",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "16.91900062561035",
+            "longitude_deg": "-89.87650299072266",
+            "elevation_ft": "427",
+            "iso_country": "GT",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "1.567",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MGTK"
+        }
+    ]
 }

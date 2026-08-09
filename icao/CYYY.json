@@ -115,5 +115,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95914",
+            "filename": "Mont_Joli_NDB_CA",
+            "ident": "YY",
+            "name": "Mont Joli",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "48.56669998168945",
+            "longitude_deg": "-68.25859832763672",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.147",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYYY"
+        },
+        {
+            "id": "95930",
+            "filename": "Mont_Joli_VOR-DME_CA",
+            "ident": "YYY",
+            "name": "Mont Joli",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "48.612098693847656",
+            "longitude_deg": "-68.20899963378906",
+            "elevation_ft": "190",
+            "iso_country": "CA",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-22.001",
+            "magnetic_variation_deg": "-19.172",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYYY"
+        }
+    ]
 }

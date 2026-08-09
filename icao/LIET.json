@@ -69,5 +69,29 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sardinia",
         "keywords": "SD"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85573",
+            "filename": "Tortoli_NDB_IT",
+            "ident": "ARB",
+            "name": "Tortoli",
+            "type": "NDB",
+            "frequency_khz": "289",
+            "latitude_deg": "39.9213981628418",
+            "longitude_deg": "9.678669929504395",
+            "elevation_ft": "22",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.108",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LIET"
+        }
+    ]
 }

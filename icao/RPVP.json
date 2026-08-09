@@ -85,5 +85,51 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Palawan_Province",
         "keywords": "Airports in Palawan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92659",
+            "filename": "Puerto_Princesa_VOR-DME_PH",
+            "ident": "PR",
+            "name": "Puerto Princesa",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "9.74133014678955",
+            "longitude_deg": "118.75299835205078",
+            "elevation_ft": "20",
+            "iso_country": "PH",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.205",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPVP"
+        },
+        {
+            "id": "92665",
+            "filename": "Puerto_Princesa_NDB_PH",
+            "ident": "PR",
+            "name": "Puerto Princesa",
+            "type": "NDB",
+            "frequency_khz": "292",
+            "latitude_deg": "9.737079620361328",
+            "longitude_deg": "118.75399780273438",
+            "elevation_ft": "20",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.205",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPVP"
+        }
+    ]
 }

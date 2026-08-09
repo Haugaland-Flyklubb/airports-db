@@ -59,5 +59,29 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khyber_Pakhtunkhwa",
         "keywords": "North-West Frontier Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86199",
+            "filename": "Bannu_NDB_PK",
+            "ident": "BN",
+            "name": "Bannu",
+            "type": "NDB",
+            "frequency_khz": "257",
+            "latitude_deg": "32.97639846801758",
+            "longitude_deg": "70.5208969116211",
+            "elevation_ft": "1325",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.033",
+            "usageType": "RNAV",
+            "power": "MEDIUM",
+            "associated_airport": "OPBN"
+        }
+    ]
 }

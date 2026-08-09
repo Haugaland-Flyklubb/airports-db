@@ -69,5 +69,51 @@
         "iso_country": "GA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nyanga_Province",
         "keywords": "Airports in Nyanga Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94208",
+            "filename": "Tchibanga_VOR_GA",
+            "ident": "TB",
+            "name": "Tchibanga",
+            "type": "VOR",
+            "frequency_khz": "117500",
+            "latitude_deg": "-2.882309913635254",
+            "longitude_deg": "10.952899932861328",
+            "elevation_ft": "285",
+            "iso_country": "GA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.069",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FOOT"
+        },
+        {
+            "id": "94247",
+            "filename": "Tchibanga_NDB_GA",
+            "ident": "TC",
+            "name": "Tchibanga",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "-2.8883299827575684",
+            "longitude_deg": "10.955300331115723",
+            "elevation_ft": "269",
+            "iso_country": "GA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.07",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FOOT"
+        }
+    ]
 }

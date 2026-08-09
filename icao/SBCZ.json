@@ -69,5 +69,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Acre_(state)",
         "keywords": "Airports in Acre"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87215",
+            "filename": "Cruzeiro_Do_Sul_VOR-DME_BR",
+            "ident": "CZS",
+            "name": "Cruzeiro Do Sul",
+            "type": "VOR-DME",
+            "frequency_khz": "112000",
+            "latitude_deg": "-7.60683012008667",
+            "longitude_deg": "-72.77349853515625",
+            "elevation_ft": "637",
+            "iso_country": "BR",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-4.151",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBCZ"
+        },
+        {
+            "id": "87216",
+            "filename": "Cruzeiro_Do_Sul_NDB_BR",
+            "ident": "CZS",
+            "name": "Cruzeiro Do Sul",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "-7.594550132751465",
+            "longitude_deg": "-72.77140045166016",
+            "elevation_ft": "637",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.153",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBCZ"
+        }
+    ]
 }

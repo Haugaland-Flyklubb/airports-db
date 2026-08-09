@@ -109,5 +109,51 @@
         "iso_country": "BE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hainaut_Province",
         "keywords": "Wallonia, Walloon Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86810",
+            "filename": "Chièvres_VOR_BE",
+            "ident": "CIV",
+            "name": "Chièvres",
+            "type": "VOR",
+            "frequency_khz": "113200",
+            "latitude_deg": "50.57389831542969",
+            "longitude_deg": "3.832779884338379",
+            "elevation_ft": "221",
+            "iso_country": "BE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.307",
+            "magnetic_variation_deg": "-0.458",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EBCV"
+        },
+        {
+            "id": "86811",
+            "filename": "Chièvres_TACAN_BE",
+            "ident": "CIV",
+            "name": "Chièvres",
+            "type": "TACAN",
+            "frequency_khz": "113200",
+            "latitude_deg": "50.57229995727539",
+            "longitude_deg": "3.8218300342559814",
+            "elevation_ft": "185",
+            "iso_country": "BE",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-0.46",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EBCV"
+        }
+    ]
 }

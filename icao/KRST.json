@@ -139,5 +139,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
         "keywords": "Airports in Minnesota"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93245",
+            "filename": "Mingo_NDB_US",
+            "ident": "RS",
+            "name": "Mingo",
+            "type": "NDB",
+            "frequency_khz": "329",
+            "latitude_deg": "43.854400634765625",
+            "longitude_deg": "-92.41169738769531",
+            "elevation_ft": "1263",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.405",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KRST"
+        }
+    ]
 }

@@ -91,5 +91,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
         "keywords": "Welsh airports, Cymru, Meysydd awyr Cymru"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88725",
+            "filename": "Haverfordwest_NDB_GB",
+            "ident": "HAV",
+            "name": "Haverfordwest",
+            "type": "NDB",
+            "frequency_khz": "328",
+            "latitude_deg": "51.83190155029297",
+            "longitude_deg": "-4.968090057373047",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.135",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGFE"
+        },
+        {
+            "id": "88776",
+            "filename": "Haverfordwest_DME_GB",
+            "ident": "HDW",
+            "name": "Haverfordwest",
+            "type": "DME",
+            "frequency_khz": "116750",
+            "latitude_deg": "51.832000732421875",
+            "longitude_deg": "-4.970119953155518",
+            "elevation_ft": "201",
+            "iso_country": "GB",
+            "dme_frequency_khz": "116750",
+            "dme_channel": "114Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.135",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGFE"
+        }
+    ]
 }

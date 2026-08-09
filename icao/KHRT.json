@@ -133,5 +133,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88999",
+            "filename": "Hurlburt_TACAN_US",
+            "ident": "HRT",
+            "name": "Hurlburt",
+            "type": "TACAN",
+            "frequency_khz": "110800",
+            "latitude_deg": "30.42799949645996",
+            "longitude_deg": "-86.69029998779297",
+            "elevation_ft": "35",
+            "iso_country": "US",
+            "dme_frequency_khz": "110800",
+            "dme_channel": "045X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "-1.522",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KHRT"
+        }
+    ]
 }

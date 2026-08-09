@@ -121,5 +121,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93044",
+            "filename": "Renmark_NDB_AU",
+            "ident": "REN",
+            "name": "Renmark",
+            "type": "NDB",
+            "frequency_khz": "200",
+            "latitude_deg": "-34.19219970703125",
+            "longitude_deg": "140.67599487304688",
+            "elevation_ft": "115",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.513",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YREN"
+        }
+    ]
 }

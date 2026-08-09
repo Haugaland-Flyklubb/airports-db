@@ -121,5 +121,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94000",
+            "filename": "St_Marys_NDB_GB",
+            "ident": "STM",
+            "name": "St Marys",
+            "type": "NDB",
+            "frequency_khz": "321",
+            "latitude_deg": "49.914100646972656",
+            "longitude_deg": "-6.291130065917969",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.225",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGHE"
+        }
+    ]
 }

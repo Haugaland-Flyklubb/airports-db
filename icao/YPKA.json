@@ -77,5 +77,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89620",
+            "filename": "Karratha_VOR-DME_AU",
+            "ident": "KA",
+            "name": "Karratha",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "-20.71500015258789",
+            "longitude_deg": "116.77400207519531",
+            "elevation_ft": "39",
+            "iso_country": "AU",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.245",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YPKA"
+        },
+        {
+            "id": "89622",
+            "filename": "Karratha_NDB_AU",
+            "ident": "KA",
+            "name": "Karratha",
+            "type": "NDB",
+            "frequency_khz": "404",
+            "latitude_deg": "-20.706100463867188",
+            "longitude_deg": "116.78399658203125",
+            "elevation_ft": "29",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.247",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YPKA"
+        }
+    ]
 }

@@ -91,5 +91,51 @@
         "iso_country": "NG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Adamawa_State",
         "keywords": "Airports in Adamawa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95729",
+            "filename": "Yola_NDB_NG",
+            "ident": "YL",
+            "name": "Yola",
+            "type": "NDB",
+            "frequency_khz": "336",
+            "latitude_deg": "9.2669095993042",
+            "longitude_deg": "12.432700157165527",
+            "elevation_ft": "",
+            "iso_country": "NG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.575",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DNYO"
+        },
+        {
+            "id": "95781",
+            "filename": "Yola_VOR-DME_NG",
+            "ident": "YOL",
+            "name": "Yola",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "9.292110443115234",
+            "longitude_deg": "12.424699783325195",
+            "elevation_ft": "599",
+            "iso_country": "NG",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.574",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DNYO"
+        }
+    ]
 }

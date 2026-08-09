@@ -77,5 +77,51 @@
         "iso_country": "MZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tete_Province",
         "keywords": "Airports in Tete Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94743",
+            "filename": "Tete_Chingodzi_NDB_MZ",
+            "ident": "TZ",
+            "name": "Tete Chingodzi",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "-16.180700302124023",
+            "longitude_deg": "33.63869857788086",
+            "elevation_ft": "",
+            "iso_country": "MZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.206",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FQTT"
+        },
+        {
+            "id": "95317",
+            "filename": "Tete_Chingodzi_VOR_MZ",
+            "ident": "VTZ",
+            "name": "Tete Chingodzi",
+            "type": "VOR",
+            "frequency_khz": "114100",
+            "latitude_deg": "-16.126300811767578",
+            "longitude_deg": "33.63999938964844",
+            "elevation_ft": "",
+            "iso_country": "MZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.176",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FQTT"
+        }
+    ]
 }

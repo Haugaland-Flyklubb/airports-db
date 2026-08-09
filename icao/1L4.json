@@ -69,5 +69,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
         "keywords": "Airports in Nevada"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88359",
+            "filename": "Goffs_VORTAC_US",
+            "ident": "GFS",
+            "name": "Goffs",
+            "type": "VORTAC",
+            "frequency_khz": "114400",
+            "latitude_deg": "35.131099700927734",
+            "longitude_deg": "-115.1760025024414",
+            "elevation_ft": "4000",
+            "iso_country": "US",
+            "dme_frequency_khz": "114400",
+            "dme_channel": "091X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "12.41",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "1L4"
+        }
+    ]
 }

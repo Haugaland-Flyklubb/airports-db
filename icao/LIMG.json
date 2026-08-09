@@ -69,5 +69,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Liguria",
         "keywords": "LG"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85216",
+            "filename": "Albenga_NDB_IT",
+            "ident": "ABN",
+            "name": "Albenga",
+            "type": "NDB",
+            "frequency_khz": "420",
+            "latitude_deg": "44.05580139160156",
+            "longitude_deg": "8.221110343933105",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.515",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LIMG"
+        },
+        {
+            "id": "85396",
+            "filename": "Albenga_VOR-DME_IT",
+            "ident": "ALB",
+            "name": "Albenga",
+            "type": "VOR-DME",
+            "frequency_khz": "116950",
+            "latitude_deg": "44.04819869995117",
+            "longitude_deg": "8.127619743347168",
+            "elevation_ft": "136",
+            "iso_country": "IT",
+            "dme_frequency_khz": "116950",
+            "dme_channel": "116Y",
+            "dme_latitude_deg": "44.0483",
+            "dme_longitude_deg": "8.12761",
+            "dme_elevation_ft": "136",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.501",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LIMG"
+        }
+    ]
 }

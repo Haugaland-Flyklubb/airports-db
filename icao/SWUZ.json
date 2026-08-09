@@ -59,5 +59,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
         "keywords": "Airports in Goiás"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90608",
+            "filename": "Luziania_VOR-DME_BR",
+            "ident": "LUZ",
+            "name": "Luziania",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "-16.260900497436523",
+            "longitude_deg": "-47.97100067138672",
+            "elevation_ft": "3269",
+            "iso_country": "BR",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.135",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SWUZ"
+        },
+        {
+            "id": "90609",
+            "filename": "Luziania_NDB_BR",
+            "ident": "LUZ",
+            "name": "Luziania",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "-16.25860023498535",
+            "longitude_deg": "-47.969600677490234",
+            "elevation_ft": "3269",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.136",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SWUZ"
+        }
+    ]
 }

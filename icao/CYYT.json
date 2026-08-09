@@ -153,5 +153,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95010",
+            "filename": "St.John's_TACAN_CA",
+            "ident": "UYT",
+            "name": "St.John's",
+            "type": "TACAN",
+            "frequency_khz": "108600",
+            "latitude_deg": "47.627201080300004",
+            "longitude_deg": "-52.7481994629",
+            "elevation_ft": "491",
+            "iso_country": "CA",
+            "dme_frequency_khz": "108600",
+            "dme_channel": "023X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-24.001",
+            "magnetic_variation_deg": "-20.236",
+            "usageType": "",
+            "power": "",
+            "associated_airport": "CYYT"
+        },
+        {
+            "id": "95927",
+            "filename": "Torbay_VOR-DME_CA",
+            "ident": "YYT",
+            "name": "Torbay",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "47.48529815673828",
+            "longitude_deg": "-52.85219955444336",
+            "elevation_ft": "833",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-24.001",
+            "magnetic_variation_deg": "-20.209",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYYT"
+        }
+    ]
 }

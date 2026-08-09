@@ -133,5 +133,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88537",
+            "filename": "Starn_NDB_US",
+            "ident": "GR",
+            "name": "Starn",
+            "type": "NDB",
+            "frequency_khz": "323",
+            "latitude_deg": "31.167800903320312",
+            "longitude_deg": "-97.8781967163086",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.152",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KGRK"
+        },
+        {
+            "id": "88561",
+            "filename": "Gray_VOR-DME_US",
+            "ident": "GRK",
+            "name": "Gray",
+            "type": "VOR-DME",
+            "frequency_khz": "111800",
+            "latitude_deg": "31.032899856567383",
+            "longitude_deg": "-97.81379699707031",
+            "elevation_ft": "980",
+            "iso_country": "US",
+            "dme_frequency_khz": "111800",
+            "dme_channel": "055X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.012",
+            "magnetic_variation_deg": "5.162",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KGRK"
+        }
+    ]
 }

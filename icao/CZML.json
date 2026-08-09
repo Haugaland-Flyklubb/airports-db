@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89415",
+            "filename": "One_Hunderd_Eight_Mile_NDB-DME_CA",
+            "ident": "J7",
+            "name": "One Hunderd Eight Mile",
+            "type": "NDB-DME",
+            "frequency_khz": "285",
+            "latitude_deg": "51.74330139160156",
+            "longitude_deg": "-121.33699798583984",
+            "elevation_ft": "3164",
+            "iso_country": "CA",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "51.7422",
+            "dme_longitude_deg": "-121.338",
+            "dme_elevation_ft": "3164",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.575",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CZML"
+        }
+    ]
 }

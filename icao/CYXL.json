@@ -115,5 +115,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95558",
+            "filename": "Sioux_Lookout_DME_CA",
+            "ident": "XL",
+            "name": "Sioux Lookout",
+            "type": "DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "50.117801666259766",
+            "longitude_deg": "-91.89859771728516",
+            "elevation_ft": "1337",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.047",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CYXL"
+        },
+        {
+            "id": "95905",
+            "filename": "Sioux_Lookout_NDB_CA",
+            "ident": "YXL",
+            "name": "Sioux Lookout",
+            "type": "NDB",
+            "frequency_khz": "346",
+            "latitude_deg": "50.118099212646484",
+            "longitude_deg": "-91.89790344238281",
+            "elevation_ft": "1280",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.048",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYXL"
+        }
+    ]
 }

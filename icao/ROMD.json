@@ -69,5 +69,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Okinawa",
         "keywords": "Kyushu and Okinawa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90822",
+            "filename": "Minami_Daito_NDB_JP",
+            "ident": "MD",
+            "name": "Minami Daito",
+            "type": "NDB",
+            "frequency_khz": "405",
+            "latitude_deg": "25.840599060058594",
+            "longitude_deg": "131.24600219726562",
+            "elevation_ft": "",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.189",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ROMD"
+        },
+        {
+            "id": "90831",
+            "filename": "Minami_Daito_VOR-DME_JP",
+            "ident": "MDE",
+            "name": "Minami Daito",
+            "type": "VOR-DME",
+            "frequency_khz": "117800",
+            "latitude_deg": "25.85449981689453",
+            "longitude_deg": "131.26400756835938",
+            "elevation_ft": "167",
+            "iso_country": "JP",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.011",
+            "magnetic_variation_deg": "-4.191",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "ROMD"
+        }
+    ]
 }

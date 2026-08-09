@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85143",
+            "filename": "Edson_NDB-DME_CA",
+            "ident": "8N",
+            "name": "Edson",
+            "type": "NDB-DME",
+            "frequency_khz": "393",
+            "latitude_deg": "53.5807991027832",
+            "longitude_deg": "-116.45500183105469",
+            "elevation_ft": "3066",
+            "iso_country": "CA",
+            "dme_frequency_khz": "109400",
+            "dme_channel": "031X",
+            "dme_latitude_deg": "53.58",
+            "dme_longitude_deg": "-116.453",
+            "dme_elevation_ft": "3066",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.074",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYET"
+        }
+    ]
 }

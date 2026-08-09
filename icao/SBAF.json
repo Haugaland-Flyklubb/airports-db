@@ -85,5 +85,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
         "keywords": "Airports in Rio de Janeiro"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85294",
+            "filename": "Afonsos_NDB_BR",
+            "ident": "AFS",
+            "name": "Afonsos",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "-22.867000579833984",
+            "longitude_deg": "-43.36690139770508",
+            "elevation_ft": "112",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.323",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBAF"
+        }
+    ]
 }

@@ -183,5 +183,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92183",
+            "filename": "Oxford_NDB_GB",
+            "ident": "OX",
+            "name": "Oxford",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "51.83250045776367",
+            "longitude_deg": "-1.323240041732788",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.471",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGTK"
+        },
+        {
+            "id": "92186",
+            "filename": "Oxford_DME_GB",
+            "ident": "OX",
+            "name": "Oxford",
+            "type": "DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "51.832401275634766",
+            "longitude_deg": "-1.3228199481964111",
+            "elevation_ft": "276",
+            "iso_country": "GB",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.471",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGTK"
+        }
+    ]
 }

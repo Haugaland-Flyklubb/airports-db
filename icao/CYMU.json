@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95754",
+            "filename": "Umiujaq_NDB_CA",
+            "ident": "YMU",
+            "name": "Umiujaq",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "56.53689956665039",
+            "longitude_deg": "-76.52310180664062",
+            "elevation_ft": "295",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.068",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYMU"
+        }
+    ]
 }

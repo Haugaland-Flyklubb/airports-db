@@ -161,5 +161,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87891",
+            "filename": "Key_West_VORTAC_US",
+            "ident": "EYW",
+            "name": "Key West",
+            "type": "VORTAC",
+            "frequency_khz": "113500",
+            "latitude_deg": "24.585899353027344",
+            "longitude_deg": "-81.80049896240234",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "-4.14",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KNQX"
+        },
+        {
+            "id": "91685",
+            "filename": "Key_West_TACAN_US",
+            "ident": "NQX",
+            "name": "Key West",
+            "type": "TACAN",
+            "frequency_khz": "113100",
+            "latitude_deg": "24.58009910583496",
+            "longitude_deg": "-81.68229675292969",
+            "elevation_ft": "16",
+            "iso_country": "US",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.001",
+            "magnetic_variation_deg": "-4.187",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KNQX"
+        }
+    ]
 }

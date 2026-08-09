@@ -91,5 +91,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gauteng",
         "keywords": "Airports in Gauteng"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95325",
+            "filename": "Vereeniging_NDB_ZA",
+            "ident": "VV",
+            "name": "Vereeniging",
+            "type": "NDB",
+            "frequency_khz": "460",
+            "latitude_deg": "-26.575000762939453",
+            "longitude_deg": "27.95829963684082",
+            "elevation_ft": "4846",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.186",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAVV"
+        }
+    ]
 }

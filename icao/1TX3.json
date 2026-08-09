@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88613",
+            "filename": "Guthrie_VORTAC_US",
+            "ident": "GTH",
+            "name": "Guthrie",
+            "type": "VORTAC",
+            "frequency_khz": "114500",
+            "latitude_deg": "33.77830123901367",
+            "longitude_deg": "-100.33599853515625",
+            "elevation_ft": "1940",
+            "iso_country": "US",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.012",
+            "magnetic_variation_deg": "6.425",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "1TX3"
+        }
+    ]
 }

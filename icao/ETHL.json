@@ -145,5 +145,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
         "keywords": "Baden-Wuerttemberg"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90603",
+            "filename": "Laupheim_NDB_DE",
+            "ident": "LUP",
+            "name": "Laupheim",
+            "type": "NDB",
+            "frequency_khz": "407",
+            "latitude_deg": "48.21799850463867",
+            "longitude_deg": "9.910869598388672",
+            "elevation_ft": "1846",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.122",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "ETHL"
+        }
+    ]
 }

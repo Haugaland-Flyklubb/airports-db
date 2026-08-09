@@ -115,5 +115,29 @@
         "iso_country": "IE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/County_Cork",
         "keywords": "Airports in County Cork"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87034",
+            "filename": "Cork_VOR-DME_IE",
+            "ident": "CRK",
+            "name": "Cork",
+            "type": "VOR-DME",
+            "frequency_khz": "114600",
+            "latitude_deg": "51.840599060058594",
+            "longitude_deg": "-8.494270324707031",
+            "elevation_ft": "500",
+            "iso_country": "IE",
+            "dme_frequency_khz": "114600",
+            "dme_channel": "093X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-5.413",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EICK"
+        }
+    ]
 }

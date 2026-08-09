@@ -77,5 +77,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sonora",
         "keywords": "Airports in Sonora"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88673",
+            "filename": "Guaymas_NDB_MX",
+            "ident": "GYM",
+            "name": "Guaymas",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "27.955799102783203",
+            "longitude_deg": "-110.92900085449219",
+            "elevation_ft": "59",
+            "iso_country": "MX",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.188",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MMGM"
+        }
+    ]
 }

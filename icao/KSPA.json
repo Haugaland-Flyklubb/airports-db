@@ -101,5 +101,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
         "keywords": "Airports in South Carolina"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88147",
+            "filename": "Fairmont_NDB_US",
+            "ident": "FRT",
+            "name": "Fairmont",
+            "type": "NDB",
+            "frequency_khz": "248",
+            "latitude_deg": "34.902400970458984",
+            "longitude_deg": "-81.98480224609375",
+            "elevation_ft": "845",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.068",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KSPA"
+        },
+        {
+            "id": "93872",
+            "filename": "Spartanburg_VORTAC_US",
+            "ident": "SPA",
+            "name": "Spartanburg",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "35.03369903564453",
+            "longitude_deg": "-81.9271011352539",
+            "elevation_ft": "910",
+            "iso_country": "US",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.001",
+            "magnetic_variation_deg": "-6.111",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KSPA"
+        }
+    ]
 }

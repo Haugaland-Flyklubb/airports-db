@@ -181,5 +181,51 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
         "keywords": "Nordrhein-Westfalen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93621",
+            "filename": "Siegerland_NDB_DE",
+            "ident": "SIL",
+            "name": "Siegerland",
+            "type": "NDB",
+            "frequency_khz": "489",
+            "latitude_deg": "50.68000030517578",
+            "longitude_deg": "8.138500213623047",
+            "elevation_ft": "",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.368",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDGS"
+        },
+        {
+            "id": "93723",
+            "filename": "Siegerland_DME_DE",
+            "ident": "SLD",
+            "name": "Siegerland",
+            "type": "DME",
+            "frequency_khz": "108050",
+            "latitude_deg": "50.7067985534668",
+            "longitude_deg": "8.078510284423828",
+            "elevation_ft": "2019",
+            "iso_country": "DE",
+            "dme_frequency_khz": "108050",
+            "dme_channel": "017Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.356",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDGS"
+        }
+    ]
 }

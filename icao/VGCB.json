@@ -69,5 +69,29 @@
         "iso_country": "BD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chittagong_Division",
         "keywords": "Chittagong bibhag"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86602",
+            "filename": "Coxs_Bazar_NDB_BD",
+            "ident": "CB",
+            "name": "Coxs Bazar",
+            "type": "NDB",
+            "frequency_khz": "396",
+            "latitude_deg": "21.452899932861328",
+            "longitude_deg": "91.9657974243164",
+            "elevation_ft": "",
+            "iso_country": "BD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.401",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VGCB"
+        }
+    ]
 }

@@ -131,5 +131,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88461",
+            "filename": "Glasgow_NDB_GB",
+            "ident": "GLW",
+            "name": "Glasgow",
+            "type": "NDB",
+            "frequency_khz": "331",
+            "latitude_deg": "55.86980056762695",
+            "longitude_deg": "-4.433629989624023",
+            "elevation_ft": "26",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.5",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EGPF"
+        },
+        {
+            "id": "88515",
+            "filename": "Glasgow_VOR-DME_GB",
+            "ident": "GOW",
+            "name": "Glasgow",
+            "type": "VOR-DME",
+            "frequency_khz": "115400",
+            "latitude_deg": "55.87049865722656",
+            "longitude_deg": "-4.445720195770264",
+            "elevation_ft": "37",
+            "iso_country": "GB",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.007",
+            "magnetic_variation_deg": "-4.538",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGPF"
+        }
+    ]
 }

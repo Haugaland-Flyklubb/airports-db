@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85569",
+            "filename": "Aracatuba_NDB_BR",
+            "ident": "ARA",
+            "name": "Aracatuba",
+            "type": "NDB",
+            "frequency_khz": "265",
+            "latitude_deg": "-21.139299392700195",
+            "longitude_deg": "-50.426700592041016",
+            "elevation_ft": "1361",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.145",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBAU"
+        }
+    ]
 }

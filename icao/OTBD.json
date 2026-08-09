@@ -101,5 +101,51 @@
         "iso_country": "QA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ad-Dawhah_(municipality)",
         "keywords": "Airports in Ad-Dawhah Municipality"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87486",
+            "filename": "Doha_VOR-DME_QA",
+            "ident": "DOH",
+            "name": "Doha",
+            "type": "VOR-DME",
+            "frequency_khz": "112400",
+            "latitude_deg": "25.233600616455078",
+            "longitude_deg": "51.57720184326172",
+            "elevation_ft": "48",
+            "iso_country": "QA",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "1.558",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OTBD"
+        },
+        {
+            "id": "95435",
+            "filename": "Wk_NDB_QA",
+            "ident": "WK",
+            "name": "Wk",
+            "type": "NDB",
+            "frequency_khz": "323",
+            "latitude_deg": "25.179500579833984",
+            "longitude_deg": "51.60139846801758",
+            "elevation_ft": "",
+            "iso_country": "QA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.551",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OTBD"
+        }
+    ]
 }

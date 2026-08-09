@@ -153,5 +153,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
         "keywords": "Airports in Oklahoma"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94099",
+            "filename": "Stillwater_VOR-DME_US",
+            "ident": "SWO",
+            "name": "Stillwater",
+            "type": "VOR-DME",
+            "frequency_khz": "108400",
+            "latitude_deg": "36.224300384521484",
+            "longitude_deg": "-97.081298828125",
+            "elevation_ft": "1020",
+            "iso_country": "US",
+            "dme_frequency_khz": "108400",
+            "dme_channel": "021X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.001",
+            "magnetic_variation_deg": "4.474",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KSWO"
+        }
+    ]
 }

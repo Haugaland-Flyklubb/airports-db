@@ -93,5 +93,51 @@
         "iso_country": "PM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saint-Pierre",
         "keywords": "Airports in Saint-Pierre"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93867",
+            "filename": "St-Pierre_NDB_PM",
+            "ident": "SP",
+            "name": "St-Pierre",
+            "type": "NDB",
+            "frequency_khz": "386",
+            "latitude_deg": "46.76250076293945",
+            "longitude_deg": "-56.16939926147461",
+            "elevation_ft": "22",
+            "iso_country": "PM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.196",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LFVP"
+        },
+        {
+            "id": "93871",
+            "filename": "St-Pierre_DME_PM",
+            "ident": "SP",
+            "name": "St-Pierre",
+            "type": "DME",
+            "frequency_khz": "108900",
+            "latitude_deg": "46.76639938354492",
+            "longitude_deg": "-56.169700622558594",
+            "elevation_ft": "22",
+            "iso_country": "PM",
+            "dme_frequency_khz": "108900",
+            "dme_channel": "026X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.197",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LFVP"
+        }
+    ]
 }

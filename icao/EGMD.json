@@ -107,5 +107,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90661",
+            "filename": "Lydd_VOR-DME_GB",
+            "ident": "LYD",
+            "name": "Lydd",
+            "type": "VOR-DME",
+            "frequency_khz": "114050",
+            "latitude_deg": "50.999698638916016",
+            "longitude_deg": "0.8786110281944275",
+            "elevation_ft": "30",
+            "iso_country": "GB",
+            "dme_frequency_khz": "114050",
+            "dme_channel": "087Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-1.504",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGMD"
+        },
+        {
+            "id": "90671",
+            "filename": "Lydd_NDB_GB",
+            "ident": "LYX",
+            "name": "Lydd",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "50.972198486328125",
+            "longitude_deg": "0.9552860260009766",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.485",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGMD"
+        }
+    ]
 }

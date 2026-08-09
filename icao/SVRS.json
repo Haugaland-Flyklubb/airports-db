@@ -59,5 +59,29 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Federal_Dependencies_of_Venezuela",
         "keywords": "Airports in Federal Dependencies"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90535",
+            "filename": "Gran_Roque_VOR-DME_VE",
+            "ident": "LRS",
+            "name": "Gran Roque",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "11.947799682617188",
+            "longitude_deg": "-66.66950225830078",
+            "elevation_ft": "0",
+            "iso_country": "VE",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.007",
+            "magnetic_variation_deg": "-11.303",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVRS"
+        }
+    ]
 }

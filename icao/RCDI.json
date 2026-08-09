@@ -69,5 +69,29 @@
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Taoyuan,_Taiwan",
         "keywords": "Airports in Taoyuan City"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92954",
+            "filename": "Lungtang_NDB_TW",
+            "ident": "RA",
+            "name": "Lungtang",
+            "type": "NDB",
+            "frequency_khz": "202",
+            "latitude_deg": "24.8617000579834",
+            "longitude_deg": "121.25299835205078",
+            "elevation_ft": "",
+            "iso_country": "TW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.382",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "RCDI"
+        }
+    ]
 }

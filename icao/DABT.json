@@ -69,5 +69,51 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Batna_Province",
         "keywords": "Airports in Batna Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86395",
+            "filename": "Batna_VOR-DME_DZ",
+            "ident": "BTN",
+            "name": "Batna",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "35.77149963378906",
+            "longitude_deg": "6.343790054321289",
+            "elevation_ft": "2786",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.266",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DABT"
+        },
+        {
+            "id": "86396",
+            "filename": "Batna_NDB_DZ",
+            "ident": "BTN",
+            "name": "Batna",
+            "type": "NDB",
+            "frequency_khz": "421",
+            "latitude_deg": "35.75170135498047",
+            "longitude_deg": "6.302219867706299",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.279",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DABT"
+        }
+    ]
 }

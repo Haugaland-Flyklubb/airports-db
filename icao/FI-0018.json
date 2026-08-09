@@ -107,5 +107,29 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uusimaa",
         "keywords": "Airports in Uusimaa Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92817",
+            "filename": "Porvoo_VOR-DME_FI",
+            "ident": "PVO",
+            "name": "Porvoo",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "60.29439926147461",
+            "longitude_deg": "25.588499069213867",
+            "elevation_ft": "121",
+            "iso_country": "FI",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.007",
+            "magnetic_variation_deg": "7.237",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "FI-0018"
+        }
+    ]
 }

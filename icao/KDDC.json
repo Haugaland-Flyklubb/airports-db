@@ -115,5 +115,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
         "keywords": "Airports in Kansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87315",
+            "filename": "Dodge_City_VORTAC_US",
+            "ident": "DDC",
+            "name": "Dodge City",
+            "type": "VORTAC",
+            "frequency_khz": "108200",
+            "latitude_deg": "37.85060119628906",
+            "longitude_deg": "-100.00599670410156",
+            "elevation_ft": "2565",
+            "iso_country": "US",
+            "dme_frequency_khz": "108200",
+            "dme_channel": "019X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.01",
+            "magnetic_variation_deg": "6.389",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KDDC"
+        }
+    ]
 }

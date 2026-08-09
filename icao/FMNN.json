@@ -77,5 +77,51 @@
         "iso_country": "MG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Antsiranana",
         "keywords": "Airports in Antsiranana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91713",
+            "filename": "Fascene_VOR-DME_MG",
+            "ident": "NSB",
+            "name": "Fascene",
+            "type": "VOR-DME",
+            "frequency_khz": "117500",
+            "latitude_deg": "-13.3056001663208",
+            "longitude_deg": "48.32310104370117",
+            "elevation_ft": "36",
+            "iso_country": "MG",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.253",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FMNN"
+        },
+        {
+            "id": "95290",
+            "filename": "Fascene_NDB_MG",
+            "ident": "VSN",
+            "name": "Fascene",
+            "type": "NDB",
+            "frequency_khz": "381",
+            "latitude_deg": "-13.319899559020996",
+            "longitude_deg": "48.31010055541992",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.258",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FMNN"
+        }
+    ]
 }

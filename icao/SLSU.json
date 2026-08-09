@@ -85,5 +85,51 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chuquisaca_Department",
         "keywords": "Airports in Chuquisaca Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93920",
+            "filename": "Sucre_NDB_BO",
+            "ident": "SRE",
+            "name": "Sucre",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-19.012399673461914",
+            "longitude_deg": "-65.29190063476562",
+            "elevation_ft": "9527",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.252",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SLSU"
+        },
+        {
+            "id": "94046",
+            "filename": "Sucre_VOR-DME_BO",
+            "ident": "SUR",
+            "name": "Sucre",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "-19.01129913330078",
+            "longitude_deg": "-65.2916030883789",
+            "elevation_ft": "9528",
+            "iso_country": "BO",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-7.252",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SLSU"
+        }
+    ]
 }

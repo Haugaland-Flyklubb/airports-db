@@ -85,5 +85,51 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Galicia_(Spain)",
         "keywords": "Airports in Galicia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93818",
+            "filename": "Santiago_NDB_ES",
+            "ident": "SNO",
+            "name": "Santiago",
+            "type": "NDB",
+            "frequency_khz": "417",
+            "latitude_deg": "42.907798767089844",
+            "longitude_deg": "-8.428449630737305",
+            "elevation_ft": "",
+            "iso_country": "ES",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.063",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LEST"
+        },
+        {
+            "id": "93986",
+            "filename": "Santiago_VOR-DME_ES",
+            "ident": "STG",
+            "name": "Santiago",
+            "type": "VOR-DME",
+            "frequency_khz": "116400",
+            "latitude_deg": "42.92689895629883",
+            "longitude_deg": "-8.425390243530273",
+            "elevation_ft": "1283",
+            "iso_country": "ES",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "42.9267",
+            "dme_longitude_deg": "-8.42533",
+            "dme_elevation_ft": "1283",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-4.064",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LEST"
+        }
+    ]
 }

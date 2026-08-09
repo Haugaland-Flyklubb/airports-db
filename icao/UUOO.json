@@ -123,5 +123,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Voronezh_Oblast",
         "keywords": "Airports in Voronezh Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85530",
+            "filename": "Voronezh_NDB_RU",
+            "ident": "AP",
+            "name": "Voronezh",
+            "type": "NDB",
+            "frequency_khz": "289",
+            "latitude_deg": "51.77669906616211",
+            "longitude_deg": "39.30329895019531",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.266",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UUOO"
+        },
+        {
+            "id": "95496",
+            "filename": "Voronezh_NDB_RU",
+            "ident": "WR",
+            "name": "Voronezh",
+            "type": "NDB",
+            "frequency_khz": "289",
+            "latitude_deg": "51.845001220703125",
+            "longitude_deg": "39.176700592041016",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.267",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UUOO"
+        }
+    ]
 }

@@ -131,5 +131,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88253",
+            "filename": "Galena_VORTAC_US",
+            "ident": "GAL",
+            "name": "Galena",
+            "type": "VORTAC",
+            "frequency_khz": "114800",
+            "latitude_deg": "64.73819732666016",
+            "longitude_deg": "-156.77699279785156",
+            "elevation_ft": "130",
+            "iso_country": "US",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "23.001",
+            "magnetic_variation_deg": "18.224",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAGA"
+        }
+    ]
 }

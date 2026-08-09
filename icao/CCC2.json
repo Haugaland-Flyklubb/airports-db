@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85129",
+            "filename": "Marystown_NDB_CA",
+            "ident": "7H",
+            "name": "Marystown",
+            "type": "NDB",
+            "frequency_khz": "234",
+            "latitude_deg": "47.138301849365234",
+            "longitude_deg": "-55.32500076293945",
+            "elevation_ft": "96",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.262",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CCC2"
+        }
+    ]
 }

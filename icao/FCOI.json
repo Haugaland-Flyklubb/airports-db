@@ -35,5 +35,29 @@
         "iso_country": "CG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Likouala_Department",
         "keywords": "Airports in Likouala Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89296",
+            "filename": "Impfondo_NDB_CG",
+            "ident": "IP",
+            "name": "Impfondo",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "1.6138700246810913",
+            "longitude_deg": "18.066299438476562",
+            "elevation_ft": "",
+            "iso_country": "CG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.034",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FCOI"
+        }
+    ]
 }

@@ -107,5 +107,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Osaka",
         "keywords": "Kansai"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93668",
+            "filename": "Shinoda_NDB_JP",
+            "ident": "SK",
+            "name": "Shinoda",
+            "type": "NDB",
+            "frequency_khz": "219",
+            "latitude_deg": "34.49129867553711",
+            "longitude_deg": "135.44400024414062",
+            "elevation_ft": "",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.579",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RJOY"
+        },
+        {
+            "id": "95777",
+            "filename": "Yao_VOR-DME_JP",
+            "ident": "YOE",
+            "name": "Yao",
+            "type": "VOR-DME",
+            "frequency_khz": "114600",
+            "latitude_deg": "34.5984992980957",
+            "longitude_deg": "135.593994140625",
+            "elevation_ft": "101",
+            "iso_country": "JP",
+            "dme_frequency_khz": "114600",
+            "dme_channel": "093X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-6.595",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJOY"
+        }
+    ]
 }

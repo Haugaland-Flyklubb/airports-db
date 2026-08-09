@@ -35,5 +35,29 @@
         "iso_country": "CI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bas-Sassandra_District",
         "keywords": "Airports in Bas-Sassandra District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94242",
+            "filename": "Tabou_NDB_CI",
+            "ident": "TBU",
+            "name": "Tabou",
+            "type": "NDB",
+            "frequency_khz": "311",
+            "latitude_deg": "4.453889846801758",
+            "longitude_deg": "-7.373330116271973",
+            "elevation_ft": "",
+            "iso_country": "CI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.32",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "DITB"
+        }
+    ]
 }

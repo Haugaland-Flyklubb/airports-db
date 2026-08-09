@@ -115,5 +115,51 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gauteng",
         "keywords": "Airports in Gauteng"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90135",
+            "filename": "Lanseria_NDB_ZA",
+            "ident": "LA",
+            "name": "Lanseria",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "-26.010299682617188",
+            "longitude_deg": "27.839500427246094",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.312",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FALA"
+        },
+        {
+            "id": "90360",
+            "filename": "Lanseria_VOR-DME_ZA",
+            "ident": "LIV",
+            "name": "Lanseria",
+            "type": "VOR-DME",
+            "frequency_khz": "117400",
+            "latitude_deg": "-25.94890022277832",
+            "longitude_deg": "27.91360092163086",
+            "elevation_ft": "4570",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "117400",
+            "dme_channel": "121X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.272",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FALA"
+        }
+    ]
 }

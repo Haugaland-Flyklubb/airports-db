@@ -161,5 +161,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93525",
+            "filename": "Felts_NDB_US",
+            "ident": "SFF",
+            "name": "Felts",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "47.68619918823242",
+            "longitude_deg": "-117.31199645996094",
+            "elevation_ft": "1950",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.255",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KSFF"
+        }
+    ]
 }

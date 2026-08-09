@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rajasthan",
         "keywords": "Airports in Rajasthan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89908",
+            "filename": "Kota_NDB_IN",
+            "ident": "KO",
+            "name": "Kota",
+            "type": "NDB",
+            "frequency_khz": "284",
+            "latitude_deg": "25.165599822998047",
+            "longitude_deg": "75.84369659423828",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.054",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VIKO"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85130",
+            "filename": "Forestburg_NDB_CA",
+            "ident": "7J",
+            "name": "Forestburg",
+            "type": "NDB",
+            "frequency_khz": "261",
+            "latitude_deg": "52.57640075683594",
+            "longitude_deg": "-112.08599853515625",
+            "elevation_ft": "2352",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.451",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CA-1023"
+        }
+    ]
 }

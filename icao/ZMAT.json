@@ -59,5 +59,51 @@
         "iso_country": "MN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Govi-Altai_Province",
         "keywords": "Airports in Govi-Altai Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85761",
+            "filename": "Altai_NDB_MN",
+            "ident": "B",
+            "name": "Altai",
+            "type": "NDB",
+            "frequency_khz": "425",
+            "latitude_deg": "46.37189865112305",
+            "longitude_deg": "96.24610137939453",
+            "elevation_ft": "",
+            "iso_country": "MN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.299",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ZMAT"
+        },
+        {
+            "id": "88240",
+            "filename": "Altai_NDB_MN",
+            "ident": "GA",
+            "name": "Altai",
+            "type": "NDB",
+            "frequency_khz": "364",
+            "latitude_deg": "46.36439895629883",
+            "longitude_deg": "96.29109954833984",
+            "elevation_ft": "",
+            "iso_country": "MN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.288",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ZMAT"
+        }
+    ]
 }

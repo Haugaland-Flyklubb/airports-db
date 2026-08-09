@@ -155,5 +155,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87152",
+            "filename": "Cannon_TACAN_US",
+            "ident": "CVS",
+            "name": "Cannon",
+            "type": "TACAN",
+            "frequency_khz": "111600",
+            "latitude_deg": "34.38059997558594",
+            "longitude_deg": "-103.3219985961914",
+            "elevation_ft": "4280",
+            "iso_country": "US",
+            "dme_frequency_khz": "111600",
+            "dme_channel": "053X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.001",
+            "magnetic_variation_deg": "8.167",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KCVS"
+        }
+    ]
 }

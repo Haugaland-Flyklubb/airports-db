@@ -101,5 +101,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern",
         "keywords": "Airports in Mecklenburg-Vorpommern"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90148",
+            "filename": "Laage_TACAN_DE",
+            "ident": "LAG",
+            "name": "Laage",
+            "type": "TACAN",
+            "frequency_khz": "108250",
+            "latitude_deg": "53.9197998046875",
+            "longitude_deg": "12.286299705505371",
+            "elevation_ft": "190",
+            "iso_country": "DE",
+            "dme_frequency_khz": "108250",
+            "dme_channel": "019Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.51",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETNL"
+        }
+    ]
 }

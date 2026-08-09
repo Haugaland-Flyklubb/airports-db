@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85113",
+            "filename": "Fort_Vermilion_NDB-DME_CA",
+            "ident": "5U",
+            "name": "Fort Vermilion",
+            "type": "NDB-DME",
+            "frequency_khz": "261",
+            "latitude_deg": "58.40250015258789",
+            "longitude_deg": "-115.95099639892578",
+            "elevation_ft": "836",
+            "iso_country": "CA",
+            "dme_frequency_khz": "108800",
+            "dme_channel": "025X",
+            "dme_latitude_deg": "58.4033",
+            "dme_longitude_deg": "-115.946",
+            "dme_elevation_ft": "836",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "19.554",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CEZ4"
+        }
+    ]
 }

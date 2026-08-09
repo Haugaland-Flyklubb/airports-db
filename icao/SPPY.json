@@ -69,5 +69,29 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_Region",
         "keywords": "Airports in Amazonas Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92619",
+            "filename": "Chachapoyas_VOR-DME_PE",
+            "ident": "POY",
+            "name": "Chachapoyas",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "-6.20028018951416",
+            "longitude_deg": "-77.86000061035156",
+            "elevation_ft": "8294",
+            "iso_country": "PE",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.507",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPPY"
+        }
+    ]
 }

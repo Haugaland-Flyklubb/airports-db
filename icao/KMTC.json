@@ -149,5 +149,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91312",
+            "filename": "Selfridge_TACAN_US",
+            "ident": "MTC",
+            "name": "Selfridge",
+            "type": "TACAN",
+            "frequency_khz": "133700",
+            "latitude_deg": "42.612998962402344",
+            "longitude_deg": "-82.83180236816406",
+            "elevation_ft": "580",
+            "iso_country": "US",
+            "dme_frequency_khz": "133700",
+            "dme_channel": "064X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.001",
+            "magnetic_variation_deg": "-7.234",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KMTC"
+        }
+    ]
 }

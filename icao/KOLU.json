@@ -115,5 +115,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
         "keywords": "Airports in Nebraska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92008",
+            "filename": "Columbus_VOR-DME_US",
+            "ident": "OLU",
+            "name": "Columbus",
+            "type": "VOR-DME",
+            "frequency_khz": "111800",
+            "latitude_deg": "41.45000076293945",
+            "longitude_deg": "-97.3407974243164",
+            "elevation_ft": "1442",
+            "iso_country": "US",
+            "dme_frequency_khz": "111800",
+            "dme_channel": "055X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.001",
+            "magnetic_variation_deg": "4.515",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KOLU"
+        },
+        {
+            "id": "92526",
+            "filename": "Platte_Center_NDB_US",
+            "ident": "PLT",
+            "name": "Platte Center",
+            "type": "NDB",
+            "frequency_khz": "407",
+            "latitude_deg": "41.49660110473633",
+            "longitude_deg": "-97.38179779052734",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.533",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KOLU"
+        }
+    ]
 }

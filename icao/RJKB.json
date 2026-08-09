@@ -77,5 +77,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kagoshima",
         "keywords": "Kyushu and Okinawa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92026",
+            "filename": "Erabu_NDB_JP",
+            "ident": "ON",
+            "name": "Erabu",
+            "type": "NDB",
+            "frequency_khz": "398",
+            "latitude_deg": "27.43000030517578",
+            "longitude_deg": "128.70799255371094",
+            "elevation_ft": "",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.492",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RJKB"
+        },
+        {
+            "id": "92031",
+            "filename": "Erabu_VORTAC_JP",
+            "ident": "ONC",
+            "name": "Erabu",
+            "type": "VORTAC",
+            "frequency_khz": "113100",
+            "latitude_deg": "27.432899475097656",
+            "longitude_deg": "128.69900512695312",
+            "elevation_ft": "218",
+            "iso_country": "JP",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "27.4334",
+            "dme_longitude_deg": "128.699",
+            "dme_elevation_ft": "218",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-4.492",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJKB"
+        }
+    ]
 }

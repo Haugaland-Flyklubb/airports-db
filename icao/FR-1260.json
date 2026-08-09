@@ -59,5 +59,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
         "keywords": "Airports in Provence-Alpes-Côte-d'Azur"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93456",
+            "filename": "Saint_Christol_NDB_FR",
+            "ident": "SCL",
+            "name": "Saint Christol",
+            "type": "NDB",
+            "frequency_khz": "348",
+            "latitude_deg": "44.05070114135742",
+            "longitude_deg": "5.503469944000244",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.108",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "FR-1260"
+        }
+    ]
 }

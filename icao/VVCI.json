@@ -59,5 +59,51 @@
         "iso_country": "VN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Red_River_Delta",
         "keywords": "Airports in Red River Delta Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86094",
+            "filename": "Catbi_NDB_VN",
+            "ident": "BK",
+            "name": "Catbi",
+            "type": "NDB",
+            "frequency_khz": "274",
+            "latitude_deg": "20.80139923095703",
+            "longitude_deg": "106.65799713134766",
+            "elevation_ft": "",
+            "iso_country": "VN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.134",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VVCI"
+        },
+        {
+            "id": "86553",
+            "filename": "Catbi_VOR-DME_VN",
+            "ident": "CAB",
+            "name": "Catbi",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "20.818199157714844",
+            "longitude_deg": "106.72799682617188",
+            "elevation_ft": "54",
+            "iso_country": "VN",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-1.139",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VVCI"
+        }
+    ]
 }

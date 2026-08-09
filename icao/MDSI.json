@@ -69,5 +69,51 @@
         "iso_country": "DO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Distrito_Nacional",
         "keywords": "Santo Domingo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88846",
+            "filename": "San_Isidro_NDB_DO",
+            "ident": "HIJ",
+            "name": "San Isidro",
+            "type": "NDB",
+            "frequency_khz": "220",
+            "latitude_deg": "18.51420021057129",
+            "longitude_deg": "-69.76580047607422",
+            "elevation_ft": "",
+            "iso_country": "DO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.378",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "MDSI"
+        },
+        {
+            "id": "93631",
+            "filename": "San_Isidro_VOR_DO",
+            "ident": "SIS",
+            "name": "San Isidro",
+            "type": "VOR",
+            "frequency_khz": "114500",
+            "latitude_deg": "18.5044002532959",
+            "longitude_deg": "-69.76249694824219",
+            "elevation_ft": "111",
+            "iso_country": "DO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.378",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "MDSI"
+        }
+    ]
 }

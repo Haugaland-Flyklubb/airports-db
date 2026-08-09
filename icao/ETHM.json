@@ -77,5 +77,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rhineland-Palatinate",
         "keywords": "Rheinland-Pfalz"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91635",
+            "filename": "Mendig_NDB_DE",
+            "ident": "NMN",
+            "name": "Mendig",
+            "type": "NDB",
+            "frequency_khz": "331",
+            "latitude_deg": "50.367801666259766",
+            "longitude_deg": "7.3136701583862305",
+            "elevation_ft": "671",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.225",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "ETHM"
+        }
+    ]
 }

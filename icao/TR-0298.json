@@ -77,5 +77,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Şanlıurfa_Province",
         "keywords": "Airports in Şanlıurfa Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94950",
+            "filename": "Sanliurfa_VOR-DME_TR",
+            "ident": "URF",
+            "name": "Sanliurfa",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "37.09389877319336",
+            "longitude_deg": "38.84469985961914",
+            "elevation_ft": "1486",
+            "iso_country": "TR",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.007",
+            "magnetic_variation_deg": "4.295",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "TR-0298"
+        },
+        {
+            "id": "94951",
+            "filename": "Sanliurfa_NDB_TR",
+            "ident": "URF",
+            "name": "Sanliurfa",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "37.09389877319336",
+            "longitude_deg": "38.84469985961914",
+            "elevation_ft": "1483",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.295",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "TR-0298"
+        }
+    ]
 }

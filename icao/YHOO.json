@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
         "keywords": "Airports in Northern Territory"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88961",
+            "filename": "Hooker_Creek_NDB_AU",
+            "ident": "HOO",
+            "name": "Hooker Creek",
+            "type": "NDB",
+            "frequency_khz": "398",
+            "latitude_deg": "-18.330799102783203",
+            "longitude_deg": "130.63699340820312",
+            "elevation_ft": "1050",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.559",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YHOO"
+        }
+    ]
 }

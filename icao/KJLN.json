@@ -161,5 +161,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
         "keywords": "Airports in Missouri"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87780",
+            "filename": "Neosho_VOR-DME_US",
+            "ident": "EOS",
+            "name": "Neosho",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "36.84239959716797",
+            "longitude_deg": "-94.43569946289062",
+            "elevation_ft": "1200",
+            "iso_country": "US",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.001",
+            "magnetic_variation_deg": "2.58",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KJLN"
+        },
+        {
+            "id": "89506",
+            "filename": "Lunns_NDB_US",
+            "ident": "JL",
+            "name": "Lunns",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "37.20309829711914",
+            "longitude_deg": "-94.55860137939453",
+            "elevation_ft": "910",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.019",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KJLN"
+        }
+    ]
 }

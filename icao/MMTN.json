@@ -59,5 +59,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/San_Luis_Potos%C3%AD",
         "keywords": "Airports in San Luis Potosí"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94451",
+            "filename": "Tamuin_VOR-DME_MX",
+            "ident": "TMN",
+            "name": "Tamuin",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "22.03849983215332",
+            "longitude_deg": "-98.80789947509766",
+            "elevation_ft": "164",
+            "iso_country": "MX",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.007",
+            "magnetic_variation_deg": "5.489",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMTN"
+        }
+    ]
 }

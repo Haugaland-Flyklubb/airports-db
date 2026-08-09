@@ -69,5 +69,29 @@
         "iso_country": "ZM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Province,_Zambia",
         "keywords": "Airports in Western Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90909",
+            "filename": "Mongu_NDB_ZM",
+            "ident": "MG",
+            "name": "Mongu",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "-15.218000411987305",
+            "longitude_deg": "23.149799346923828",
+            "elevation_ft": "",
+            "iso_country": "ZM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.597",
+            "usageType": "HI",
+            "power": "LOW",
+            "associated_airport": "FLMG"
+        }
+    ]
 }

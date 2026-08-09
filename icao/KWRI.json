@@ -163,5 +163,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
         "keywords": "Airports in New Jersey"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88662",
+            "filename": "Mc_Guire_VORTAC_US",
+            "ident": "GXU",
+            "name": "Mc Guire",
+            "type": "VORTAC",
+            "frequency_khz": "110600",
+            "latitude_deg": "40.009498596191406",
+            "longitude_deg": "-74.59629821777344",
+            "elevation_ft": "114",
+            "iso_country": "US",
+            "dme_frequency_khz": "110600",
+            "dme_channel": "043X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.002",
+            "magnetic_variation_deg": "-12.357",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KWRI"
+        }
+    ]
 }

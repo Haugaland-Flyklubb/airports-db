@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
         "keywords": "Airports in Colorado"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88816",
+            "filename": "Hugo_VORTAC_US",
+            "ident": "HGO",
+            "name": "Hugo",
+            "type": "VORTAC",
+            "frequency_khz": "112100",
+            "latitude_deg": "38.817501068115234",
+            "longitude_deg": "-103.62100219726562",
+            "elevation_ft": "5233",
+            "iso_country": "US",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.001",
+            "magnetic_variation_deg": "8.474",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "6CO6"
+        }
+    ]
 }

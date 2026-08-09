@@ -85,5 +85,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khon_Kaen_province",
         "keywords": "Airports in Khon Kaen Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89824",
+            "filename": "Khon_Kaen_VOR-DME_TH",
+            "ident": "KKN",
+            "name": "Khon Kaen",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "16.470800399780273",
+            "longitude_deg": "102.78800201416016",
+            "elevation_ft": "670",
+            "iso_country": "TH",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.408",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTUK"
+        },
+        {
+            "id": "89889",
+            "filename": "Khon_Kaen_NDB_TH",
+            "ident": "KN",
+            "name": "Khon Kaen",
+            "type": "NDB",
+            "frequency_khz": "393",
+            "latitude_deg": "16.462099075317383",
+            "longitude_deg": "102.78399658203125",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.407",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTUK"
+        }
+    ]
 }

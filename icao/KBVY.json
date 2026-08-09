@@ -131,5 +131,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
         "keywords": "Airports in Massachusetts"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94507",
+            "filename": "Topsfield_NDB_US",
+            "ident": "TOF",
+            "name": "Topsfield",
+            "type": "NDB",
+            "frequency_khz": "269",
+            "latitude_deg": "42.619300842285156",
+            "longitude_deg": "-70.95680236816406",
+            "elevation_ft": "250",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.309",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBVY"
+        }
+    ]
 }

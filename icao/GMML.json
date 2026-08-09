@@ -99,5 +99,29 @@
         "iso_country": "EH",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90185",
+            "filename": "Laayoune_VOR-DME_EH",
+            "ident": "LAY",
+            "name": "Laayoune",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "27.142900466918945",
+            "longitude_deg": "-13.218000411987305",
+            "elevation_ft": "223",
+            "iso_country": "EH",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.007",
+            "magnetic_variation_deg": "-5.251",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMML"
+        }
+    ]
 }

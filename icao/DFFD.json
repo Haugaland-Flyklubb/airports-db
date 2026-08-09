@@ -107,5 +107,51 @@
         "iso_country": "BF",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kadiogo_Province",
         "keywords": "Airports in Kadiogo Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91921",
+            "filename": "Ouagadougou_VOR-DME_BF",
+            "ident": "OG",
+            "name": "Ouagadougou",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "12.34630012512207",
+            "longitude_deg": "-1.5128300189971924",
+            "elevation_ft": "1048",
+            "iso_country": "BF",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.281",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DFFD"
+        },
+        {
+            "id": "92155",
+            "filename": "Ouagadougou_NDB_BF",
+            "ident": "OUA",
+            "name": "Ouagadougou",
+            "type": "NDB",
+            "frequency_khz": "333",
+            "latitude_deg": "12.333999633789062",
+            "longitude_deg": "-1.525189995765686",
+            "elevation_ft": "1102",
+            "iso_country": "BF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.284",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DFFD"
+        }
+    ]
 }

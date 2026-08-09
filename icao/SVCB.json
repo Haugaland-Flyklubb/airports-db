@@ -107,5 +107,51 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
         "keywords": "Airports in Bolívar State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86622",
+            "filename": "Ciudad_Bolivar_VOR-DME_VE",
+            "ident": "CBL",
+            "name": "Ciudad Bolivar",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "8.124190330505371",
+            "longitude_deg": "-63.53139877319336",
+            "elevation_ft": "197",
+            "iso_country": "VE",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.007",
+            "magnetic_variation_deg": "-12.572",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVCB"
+        },
+        {
+            "id": "86624",
+            "filename": "Ciudad_Bolivar_NDB_VE",
+            "ident": "CBL",
+            "name": "Ciudad Bolivar",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "8.117250442504883",
+            "longitude_deg": "-63.53390121459961",
+            "elevation_ft": "197",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.57",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SVCB"
+        }
+    ]
 }

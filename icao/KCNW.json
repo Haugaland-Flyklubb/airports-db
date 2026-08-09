@@ -155,5 +155,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86901",
+            "filename": "Leroi_NDB_US",
+            "ident": "CN",
+            "name": "Leroi",
+            "type": "NDB",
+            "frequency_khz": "378",
+            "latitude_deg": "31.74090003967285",
+            "longitude_deg": "-97.07820129394531",
+            "elevation_ft": "570",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.476",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KCNW"
+        },
+        {
+            "id": "93185",
+            "filename": "Robinson_NDB_US",
+            "ident": "ROB",
+            "name": "Robinson",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "31.503799438476562",
+            "longitude_deg": "-97.0696029663086",
+            "elevation_ft": "394",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.475",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCNW"
+        }
+    ]
 }

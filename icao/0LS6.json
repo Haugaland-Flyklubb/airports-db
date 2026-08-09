@@ -35,5 +35,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
         "keywords": "Airports in Louisiana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86484",
+            "filename": "Bunkie_NDB_US",
+            "ident": "BWK",
+            "name": "Bunkie",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "30.865400314331055",
+            "longitude_deg": "-92.23410034179688",
+            "elevation_ft": "50",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.525",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "0LS6"
+        }
+    ]
 }

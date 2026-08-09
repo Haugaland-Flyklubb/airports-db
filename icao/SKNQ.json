@@ -59,5 +59,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chocó_Department",
         "keywords": "Airports in Chocó Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91684",
+            "filename": "Nuqui_NDB_CO",
+            "ident": "NQI",
+            "name": "Nuqui",
+            "type": "NDB",
+            "frequency_khz": "461",
+            "latitude_deg": "5.7136101722717285",
+            "longitude_deg": "-77.26000213623047",
+            "elevation_ft": "16",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.396",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SKNQ"
+        }
+    ]
 }

@@ -85,5 +85,29 @@
         "iso_country": "DO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros_Province",
         "keywords": "Airports in Santiago de los Caballeros Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93561",
+            "filename": "Santiago_VOR-DME_DO",
+            "ident": "SGO",
+            "name": "Santiago",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "19.40730094909668",
+            "longitude_deg": "-70.60379791259766",
+            "elevation_ft": "580",
+            "iso_country": "DO",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.178",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "MDST"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bagmati_Province",
         "keywords": "Airports in Bagmati"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86024",
+            "filename": "Bharatpur_NDB_NP",
+            "ident": "BHP",
+            "name": "Bharatpur",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "27.679399490356445",
+            "longitude_deg": "84.42970275878906",
+            "elevation_ft": "70",
+            "iso_country": "NP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.098",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VNBP"
+        }
+    ]
 }

@@ -141,5 +141,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
         "keywords": "Airports in Maine"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85977",
+            "filename": "Totte_NDB_US",
+            "ident": "BG",
+            "name": "Totte",
+            "type": "NDB",
+            "frequency_khz": "227",
+            "latitude_deg": "44.727500915527344",
+            "longitude_deg": "-68.71289825439453",
+            "elevation_ft": "514",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.187",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBGR"
+        },
+        {
+            "id": "85999",
+            "filename": "Bangor_VORTAC_US",
+            "ident": "BGR",
+            "name": "Bangor",
+            "type": "VORTAC",
+            "frequency_khz": "114800",
+            "latitude_deg": "44.841800689697266",
+            "longitude_deg": "-68.8740005493164",
+            "elevation_ft": "359",
+            "iso_country": "US",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-19.001",
+            "magnetic_variation_deg": "-17.185",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KBGR"
+        }
+    ]
 }

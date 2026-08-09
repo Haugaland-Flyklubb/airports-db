@@ -69,5 +69,51 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mascara_Province",
         "keywords": "Airports in Mascara Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88576",
+            "filename": "Ghriss_VOR_DZ",
+            "ident": "GRS",
+            "name": "Ghriss",
+            "type": "VOR",
+            "frequency_khz": "113100",
+            "latitude_deg": "35.20940017700195",
+            "longitude_deg": "0.14891399443149567",
+            "elevation_ft": "1686",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.596",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAOV"
+        },
+        {
+            "id": "88577",
+            "filename": "Ghriss_NDB_DZ",
+            "ident": "GRS",
+            "name": "Ghriss",
+            "type": "NDB",
+            "frequency_khz": "424",
+            "latitude_deg": "35.20830154418945",
+            "longitude_deg": "0.1599999964237213",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.593",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "DAOV"
+        }
+    ]
 }

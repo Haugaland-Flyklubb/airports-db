@@ -77,5 +77,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Riau",
         "keywords": "Airports in Riau"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85246",
+            "filename": "Rengat_NDB_ID",
+            "ident": "AD",
+            "name": "Rengat",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "-0.3491609990596771",
+            "longitude_deg": "102.33599853515625",
+            "elevation_ft": "61",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.035",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIBJ"
+        }
+    ]
 }

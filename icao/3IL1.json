@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
         "keywords": "Airports in Illinois"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88556",
+            "filename": "Greenville_NDB_US",
+            "ident": "GRE",
+            "name": "Greenville",
+            "type": "NDB",
+            "frequency_khz": "233",
+            "latitude_deg": "38.83420181274414",
+            "longitude_deg": "-89.37229919433594",
+            "elevation_ft": "539",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.061",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "3IL1"
+        }
+    ]
 }

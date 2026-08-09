@@ -81,5 +81,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91876",
+            "filename": "Ocean_Cape_NDB_US",
+            "ident": "OCC",
+            "name": "Ocean Cape",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "59.54359817504883",
+            "longitude_deg": "-139.72799682617188",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "22.419",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PAYA"
+        },
+        {
+            "id": "95611",
+            "filename": "Yakutat_VOR-DME_US",
+            "ident": "YAK",
+            "name": "Yakutat",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "59.510799407958984",
+            "longitude_deg": "-139.6479949951172",
+            "elevation_ft": "35",
+            "iso_country": "US",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "23.001",
+            "magnetic_variation_deg": "22.42",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAYA"
+        }
+    ]
 }

@@ -185,5 +185,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Delaware",
         "keywords": "Airports in Delaware"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87512",
+            "filename": "Dupont_VORTAC_US",
+            "ident": "DQO",
+            "name": "Dupont",
+            "type": "VORTAC",
+            "frequency_khz": "114000",
+            "latitude_deg": "39.6781005859375",
+            "longitude_deg": "-75.60710144042969",
+            "elevation_ft": "70",
+            "iso_country": "US",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.001",
+            "magnetic_variation_deg": "-11.519",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KILG"
+        },
+        {
+            "id": "89224",
+            "filename": "Hadin_NDB_US",
+            "ident": "IL",
+            "name": "Hadin",
+            "type": "NDB",
+            "frequency_khz": "248",
+            "latitude_deg": "39.581298828125",
+            "longitude_deg": "-75.61389923095703",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.499",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KILG"
+        }
+    ]
 }

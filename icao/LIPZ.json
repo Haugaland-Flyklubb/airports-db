@@ -115,5 +115,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Veneto",
         "keywords": "VN"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94295",
+            "filename": "Tessera_VOR-DME_IT",
+            "ident": "TES",
+            "name": "Tessera",
+            "type": "VOR-DME",
+            "frequency_khz": "115300",
+            "latitude_deg": "45.51919937133789",
+            "longitude_deg": "12.368200302124023",
+            "elevation_ft": "6",
+            "iso_country": "IT",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.488",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIPZ"
+        },
+        {
+            "id": "95089",
+            "filename": "Venezia_NDB_IT",
+            "ident": "VEN",
+            "name": "Venezia",
+            "type": "NDB",
+            "frequency_khz": "379",
+            "latitude_deg": "45.449100494384766",
+            "longitude_deg": "12.277000427246094",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.475",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LIPZ"
+        }
+    ]
 }

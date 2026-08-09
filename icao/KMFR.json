@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
         "keywords": "Airports in Oregon"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90863",
+            "filename": "Medford_NDB_US",
+            "ident": "MEF",
+            "name": "Medford",
+            "type": "NDB",
+            "frequency_khz": "356",
+            "latitude_deg": "42.3916015625",
+            "longitude_deg": "-122.87899780273438",
+            "elevation_ft": "1286",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.074",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KMFR"
+        },
+        {
+            "id": "90892",
+            "filename": "Pumie_NDB_US",
+            "ident": "MF",
+            "name": "Pumie",
+            "type": "NDB",
+            "frequency_khz": "373",
+            "latitude_deg": "42.45090103149414",
+            "longitude_deg": "-122.91300201416016",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.089",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMFR"
+        }
+    ]
 }

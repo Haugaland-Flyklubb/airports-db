@@ -137,5 +137,29 @@
         "iso_country": "UA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Odessa_Oblast",
         "keywords": "Airports in Odessa Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91902",
+            "filename": "Odesa_VOR-DME_UA",
+            "ident": "ODS",
+            "name": "Odesa",
+            "type": "VOR-DME",
+            "frequency_khz": "113950",
+            "latitude_deg": "46.43000030517578",
+            "longitude_deg": "30.670299530029297",
+            "elevation_ft": "197",
+            "iso_country": "UA",
+            "dme_frequency_khz": "113950",
+            "dme_channel": "086Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.248",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UKOO"
+        }
+    ]
 }

@@ -85,5 +85,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/%27Asir_Province",
         "keywords": "Airports in Asir Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85210",
+            "filename": "Abha_VORTAC_SA",
+            "ident": "ABH",
+            "name": "Abha",
+            "type": "VORTAC",
+            "frequency_khz": "112900",
+            "latitude_deg": "18.241899490356445",
+            "longitude_deg": "42.656898498535156",
+            "elevation_ft": "6862",
+            "iso_country": "SA",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.111",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OEAB"
+        }
+    ]
 }

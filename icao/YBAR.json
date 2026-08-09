@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85812",
+            "filename": "Barcaldine_NDB_AU",
+            "ident": "BAR",
+            "name": "Barcaldine",
+            "type": "NDB",
+            "frequency_khz": "332",
+            "latitude_deg": "-23.558300018310547",
+            "longitude_deg": "145.29800415039062",
+            "elevation_ft": "878",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.094",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YBAR"
+        }
+    ]
 }

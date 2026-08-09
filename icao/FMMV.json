@@ -99,5 +99,29 @@
         "iso_country": "MG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Toliara",
         "keywords": "Airports in Toliara"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95291",
+            "filename": "Morondava_NDB_MG",
+            "ident": "VSO",
+            "name": "Morondava",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "-20.287599563598633",
+            "longitude_deg": "44.31719970703125",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.447",
+            "usageType": "HI",
+            "power": "MEDIUM",
+            "associated_airport": "FMMV"
+        }
+    ]
 }

@@ -197,5 +197,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91957",
+            "filename": "Oakey_VOR-DME_AU",
+            "ident": "OK",
+            "name": "Oakey",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "-27.399999618530273",
+            "longitude_deg": "151.73800659179688",
+            "elevation_ft": "1335",
+            "iso_country": "AU",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.011",
+            "magnetic_variation_deg": "10.456",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YBOK"
+        },
+        {
+            "id": "91958",
+            "filename": "Oakey_NDB_AU",
+            "ident": "OK",
+            "name": "Oakey",
+            "type": "NDB",
+            "frequency_khz": "254",
+            "latitude_deg": "-27.42140007019043",
+            "longitude_deg": "151.73699951171875",
+            "elevation_ft": "1335",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.459",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YBOK"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88384",
+            "filename": "Guaratingueta_NDB_BR",
+            "ident": "GGT",
+            "name": "Guaratingueta",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "-22.788000106811523",
+            "longitude_deg": "-45.215301513671875",
+            "elevation_ft": "1761",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.439",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBGW"
+        }
+    ]
 }

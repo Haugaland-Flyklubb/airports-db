@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amapá",
         "keywords": "Airports in Amapá"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85460",
+            "filename": "Amapa_NDB_BR",
+            "ident": "AMP",
+            "name": "Amapa",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "2.0688300132751465",
+            "longitude_deg": "-50.86050033569336",
+            "elevation_ft": "184",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.418",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBAM"
+        }
+    ]
 }

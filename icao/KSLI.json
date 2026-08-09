@@ -161,5 +161,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90303",
+            "filename": "Becca_NDB_US",
+            "ident": "LG",
+            "name": "Becca",
+            "type": "NDB",
+            "frequency_khz": "233",
+            "latitude_deg": "33.75669860839844",
+            "longitude_deg": "-118.0770034790039",
+            "elevation_ft": "12",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.012",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KSLI"
+        },
+        {
+            "id": "93725",
+            "filename": "Seal_Beach_VORTAC_US",
+            "ident": "SLI",
+            "name": "Seal Beach",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "33.78329849243164",
+            "longitude_deg": "-118.05500030517578",
+            "elevation_ft": "23",
+            "iso_country": "US",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "13.013",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KSLI"
+        }
+    ]
 }

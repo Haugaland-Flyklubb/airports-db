@@ -59,5 +59,29 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Antofagasta_Region",
         "keywords": "Airports in Antofagasta Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94502",
+            "filename": "Tocopilla_VOR_CL",
+            "ident": "TOC",
+            "name": "Tocopilla",
+            "type": "VOR",
+            "frequency_khz": "114500",
+            "latitude_deg": "-22.139999389648438",
+            "longitude_deg": "-70.05500030517578",
+            "elevation_ft": "3475",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.117",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SCBE"
+        }
+    ]
 }

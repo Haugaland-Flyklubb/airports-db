@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92317",
+            "filename": "Pocos_NDB_BR",
+            "ident": "PCL",
+            "name": "Pocos",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "-21.835800170898438",
+            "longitude_deg": "-46.56570053100586",
+            "elevation_ft": "4135",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.143",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBPC"
+        }
+    ]
 }

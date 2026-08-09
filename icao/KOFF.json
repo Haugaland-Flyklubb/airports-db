@@ -117,5 +117,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
         "keywords": "Airports in Nebraska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91918",
+            "filename": "Offutt_TACAN_US",
+            "ident": "OFF",
+            "name": "Offutt",
+            "type": "TACAN",
+            "frequency_khz": "111700",
+            "latitude_deg": "41.1171989440918",
+            "longitude_deg": "-95.9000015258789",
+            "elevation_ft": "1090",
+            "iso_country": "US",
+            "dme_frequency_khz": "111700",
+            "dme_channel": "054X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.011",
+            "magnetic_variation_deg": "3.478",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KOFF"
+        }
+    ]
 }

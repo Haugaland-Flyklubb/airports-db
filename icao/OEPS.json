@@ -123,5 +123,51 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Riyadh_Region",
         "keywords": "Riyad"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92719",
+            "filename": "Prince_Sultan_VORTAC_SA",
+            "ident": "PSA",
+            "name": "Prince Sultan",
+            "type": "VORTAC",
+            "frequency_khz": "115400",
+            "latitude_deg": "24.07390022277832",
+            "longitude_deg": "47.58330154418945",
+            "elevation_ft": "1599",
+            "iso_country": "SA",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.144",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OEPS"
+        },
+        {
+            "id": "94001",
+            "filename": "Prince_Sultan_TACAN_SA",
+            "ident": "STN",
+            "name": "Prince Sultan",
+            "type": "TACAN",
+            "frequency_khz": "134100",
+            "latitude_deg": "24.069599151611328",
+            "longitude_deg": "47.58169937133789",
+            "elevation_ft": "1589",
+            "iso_country": "SA",
+            "dme_frequency_khz": "134100",
+            "dme_channel": "068X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.144",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OEPS"
+        }
+    ]
 }

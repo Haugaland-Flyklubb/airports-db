@@ -59,5 +59,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mpumalanga",
         "keywords": "Airports in Mpumalanga"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92681",
+            "filename": "Piet_Retief_NDB_ZA",
+            "ident": "PRF",
+            "name": "Piet Retief",
+            "type": "NDB",
+            "frequency_khz": "525",
+            "latitude_deg": "-26.939899444580078",
+            "longitude_deg": "30.770099639892578",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.455",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAPF"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Papua_(region)",
         "keywords": "Irian Jaya"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86035",
+            "filename": "Bintuni_NDB_ID",
+            "ident": "BI",
+            "name": "Bintuni",
+            "type": "NDB",
+            "frequency_khz": "348",
+            "latitude_deg": "-2.1077799797058105",
+            "longitude_deg": "133.52099609375",
+            "elevation_ft": "39",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.367",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WASB"
+        }
+    ]
 }

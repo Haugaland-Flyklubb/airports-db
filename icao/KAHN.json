@@ -147,5 +147,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85321",
+            "filename": "Athens_VORTAC_US",
+            "ident": "AHN",
+            "name": "Athens",
+            "type": "VORTAC",
+            "frequency_khz": "109600",
+            "latitude_deg": "33.947601318359375",
+            "longitude_deg": "-83.32479858398438",
+            "elevation_ft": "790",
+            "iso_country": "US",
+            "dme_frequency_khz": "109600",
+            "dme_channel": "033X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "-4.57",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KAHN"
+        },
+        {
+            "id": "86078",
+            "filename": "Bulldog_NDB_US",
+            "ident": "BJT",
+            "name": "Bulldog",
+            "type": "NDB",
+            "frequency_khz": "221",
+            "latitude_deg": "33.951499938964844",
+            "longitude_deg": "-83.21959686279297",
+            "elevation_ft": "738",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KAHN"
+        }
+    ]
 }

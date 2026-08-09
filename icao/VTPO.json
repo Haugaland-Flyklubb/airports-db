@@ -77,5 +77,29 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sukhothai_province",
         "keywords": "Airports in Sukhothai Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94351",
+            "filename": "Sukhothai_NDB-DME_TH",
+            "ident": "THS",
+            "name": "Sukhothai",
+            "type": "NDB-DME",
+            "frequency_khz": "292",
+            "latitude_deg": "17.235200881958008",
+            "longitude_deg": "99.8219985961914",
+            "elevation_ft": "181",
+            "iso_country": "TH",
+            "dme_frequency_khz": "110300",
+            "dme_channel": "040X",
+            "dme_latitude_deg": "17.2356",
+            "dme_longitude_deg": "99.8222",
+            "dme_elevation_ft": "181",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.424",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTPO"
+        }
+    ]
 }

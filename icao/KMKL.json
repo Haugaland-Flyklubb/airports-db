@@ -147,5 +147,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
         "keywords": "Airports in Tennessee"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91012",
+            "filename": "Mersy_NDB_US",
+            "ident": "MK",
+            "name": "Mersy",
+            "type": "NDB",
+            "frequency_khz": "394",
+            "latitude_deg": "35.51580047607422",
+            "longitude_deg": "-88.95700073242188",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.565",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMKL"
+        },
+        {
+            "id": "91023",
+            "filename": "Mc_Kellar_VOR-DME_US",
+            "ident": "MKL",
+            "name": "Mc Kellar",
+            "type": "VOR-DME",
+            "frequency_khz": "112000",
+            "latitude_deg": "35.603599548339844",
+            "longitude_deg": "-88.910400390625",
+            "elevation_ft": "410",
+            "iso_country": "US",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "-0.594",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMKL"
+        }
+    ]
 }

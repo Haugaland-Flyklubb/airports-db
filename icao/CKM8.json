@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85068",
+            "filename": "Opapimiskan_Lake_NDB_CA",
+            "ident": "2M",
+            "name": "Opapimiskan Lake",
+            "type": "NDB",
+            "frequency_khz": "393",
+            "latitude_deg": "52.60309982299805",
+            "longitude_deg": "-90.37439727783203",
+            "elevation_ft": "934",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.318",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CKM8"
+        }
+    ]
 }

@@ -139,5 +139,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91231",
+            "filename": "Munso_NDB_US",
+            "ident": "MR",
+            "name": "Munso",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "36.62080001831055",
+            "longitude_deg": "-121.93900299072266",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.226",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KMRY"
+        }
+    ]
 }

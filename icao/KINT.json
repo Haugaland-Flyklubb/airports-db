@@ -131,5 +131,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
         "keywords": "Airports in North Carolina"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89265",
+            "filename": "Reeno_NDB_US",
+            "ident": "IN",
+            "name": "Reeno",
+            "type": "NDB",
+            "frequency_khz": "317",
+            "latitude_deg": "36.070899963378906",
+            "longitude_deg": "-80.16680145263672",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.431",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KINT"
+        }
+    ]
 }

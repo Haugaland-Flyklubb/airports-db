@@ -99,5 +99,29 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gilgit-Baltistan",
         "keywords": "Airports in Gilgit-Baltistan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88605",
+            "filename": "Gilgit_NDB_PK",
+            "ident": "GT",
+            "name": "Gilgit",
+            "type": "NDB",
+            "frequency_khz": "324",
+            "latitude_deg": "35.9202995300293",
+            "longitude_deg": "74.33509826660156",
+            "elevation_ft": "4817",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.355",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPGT"
+        }
+    ]
 }

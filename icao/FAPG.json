@@ -77,5 +77,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Cape",
         "keywords": "Airports in Western Cape"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92851",
+            "filename": "Plettenberg_Bay_NDB_ZA",
+            "ident": "PY",
+            "name": "Plettenberg Bay",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "-34.09049987792969",
+            "longitude_deg": "23.326000213623047",
+            "elevation_ft": "443",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-25.464",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAPG"
+        }
+    ]
 }

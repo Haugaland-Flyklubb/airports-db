@@ -69,5 +69,51 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Thessaly",
         "keywords": "Θεσσαλία"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93982",
+            "filename": "Stefanovikion_NDB_GR",
+            "ident": "STF",
+            "name": "Stefanovikion",
+            "type": "NDB",
+            "frequency_khz": "522",
+            "latitude_deg": "39.4656982421875",
+            "longitude_deg": "22.749300003051758",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.174",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "GR-0097"
+        },
+        {
+            "id": "94016",
+            "filename": "Stefanovikion_VOR_GR",
+            "ident": "STV",
+            "name": "Stefanovikion",
+            "type": "VOR",
+            "frequency_khz": "112900",
+            "latitude_deg": "39.480098724365234",
+            "longitude_deg": "22.7716007232666",
+            "elevation_ft": "146",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.176",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "GR-0097"
+        }
+    ]
 }

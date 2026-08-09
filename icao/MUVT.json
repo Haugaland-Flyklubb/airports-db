@@ -77,5 +77,29 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Las_Tunas_Province",
         "keywords": "Airports in Las Tunas Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94993",
+            "filename": "Tunas_NDB_CU",
+            "ident": "UVT",
+            "name": "Tunas",
+            "type": "NDB",
+            "frequency_khz": "296",
+            "latitude_deg": "20.98859977722168",
+            "longitude_deg": "-76.93879699707031",
+            "elevation_ft": "",
+            "iso_country": "CU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.431",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MUVT"
+        }
+    ]
 }

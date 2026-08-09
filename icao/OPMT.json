@@ -85,5 +85,51 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
         "keywords": "Airports in Punjab"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91301",
+            "filename": "Multan_VOR_PK",
+            "ident": "MT",
+            "name": "Multan",
+            "type": "VOR",
+            "frequency_khz": "116700",
+            "latitude_deg": "30.194000244140625",
+            "longitude_deg": "71.41639709472656",
+            "elevation_ft": "423",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.188",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OPMT"
+        },
+        {
+            "id": "91305",
+            "filename": "Multan_NDB_PK",
+            "ident": "MT",
+            "name": "Multan",
+            "type": "NDB",
+            "frequency_khz": "387",
+            "latitude_deg": "30.196800231933594",
+            "longitude_deg": "71.42389678955078",
+            "elevation_ft": "436",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.187",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPMT"
+        }
+    ]
 }

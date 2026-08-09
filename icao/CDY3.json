@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85126",
+            "filename": "Fogo_NDB_CA",
+            "ident": "7C",
+            "name": "Fogo",
+            "type": "NDB",
+            "frequency_khz": "237",
+            "latitude_deg": "49.661598205566406",
+            "longitude_deg": "-54.24509811401367",
+            "elevation_ft": "97",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.274",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CDY3"
+        }
+    ]
 }

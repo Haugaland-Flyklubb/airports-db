@@ -69,5 +69,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
         "keywords": "PM, Piemonte"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86141",
+            "filename": "Biella_Cerrione_VOR-DME_IT",
+            "ident": "BLA",
+            "name": "Biella Cerrione",
+            "type": "VOR-DME",
+            "frequency_khz": "116100",
+            "latitude_deg": "45.49420166015625",
+            "longitude_deg": "8.100580215454102",
+            "elevation_ft": "921",
+            "iso_country": "IT",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.478",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LILE"
+        },
+        {
+            "id": "86142",
+            "filename": "Biella_Cerrione_NDB_IT",
+            "ident": "BLA",
+            "name": "Biella Cerrione",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "45.46220016479492",
+            "longitude_deg": "8.123330116271973",
+            "elevation_ft": "900",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.482",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LILE"
+        }
+    ]
 }

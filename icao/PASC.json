@@ -101,5 +101,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92818",
+            "filename": "Put_River_NDB_US",
+            "ident": "PVQ",
+            "name": "Put River",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "70.22270202636719",
+            "longitude_deg": "-148.41600036621094",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "24.281",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PASC"
+        },
+        {
+            "id": "93452",
+            "filename": "Deadhorse_VOR-DME_US",
+            "ident": "SCC",
+            "name": "Deadhorse",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "70.19920349121094",
+            "longitude_deg": "-148.41600036621094",
+            "elevation_ft": "74",
+            "iso_country": "US",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "31.001",
+            "magnetic_variation_deg": "24.275",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PASC"
+        }
+    ]
 }

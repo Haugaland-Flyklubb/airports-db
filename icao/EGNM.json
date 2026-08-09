@@ -109,5 +109,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90203",
+            "filename": "Leeds_Bradford_NDB_GB",
+            "ident": "LBA",
+            "name": "Leeds Bradford",
+            "type": "NDB",
+            "frequency_khz": "403",
+            "latitude_deg": "53.8650016784668",
+            "longitude_deg": "-1.6528899669647217",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.165",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "EGNM"
+        }
+    ]
 }

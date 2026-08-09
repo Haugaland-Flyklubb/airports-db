@@ -145,5 +145,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92539",
+            "filename": "Palmdale_VORTAC_US",
+            "ident": "PMD",
+            "name": "Palmdale",
+            "type": "VORTAC",
+            "frequency_khz": "114500",
+            "latitude_deg": "34.63140106201172",
+            "longitude_deg": "-118.06400299072266",
+            "elevation_ft": "2500",
+            "iso_country": "US",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "13.121",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KPMD"
+        }
+    ]
 }

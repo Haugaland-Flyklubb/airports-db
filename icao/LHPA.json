@@ -59,5 +59,51 @@
         "iso_country": "HU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Veszprém_County",
         "keywords": "Airports in Veszprém County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86979",
+            "filename": "Parduc_NDB_HU",
+            "ident": "CP",
+            "name": "Parduc",
+            "type": "NDB",
+            "frequency_khz": "481",
+            "latitude_deg": "47.3202018737793",
+            "longitude_deg": "17.525299072265625",
+            "elevation_ft": "",
+            "iso_country": "HU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.011",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LHPA"
+        },
+        {
+            "id": "92306",
+            "filename": "Parduc_NDB_HU",
+            "ident": "PC",
+            "name": "Parduc",
+            "type": "NDB",
+            "frequency_khz": "481",
+            "latitude_deg": "47.40729904174805",
+            "longitude_deg": "17.478599548339844",
+            "elevation_ft": "",
+            "iso_country": "HU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.008",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LHPA"
+        }
+    ]
 }

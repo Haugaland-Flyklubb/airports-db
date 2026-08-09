@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kalimantan",
         "keywords": "Airports in East Kalimantan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94309",
+            "filename": "Temindung_NDB_ID",
+            "ident": "TG",
+            "name": "Temindung",
+            "type": "NDB",
+            "frequency_khz": "404",
+            "latitude_deg": "-0.4818440079689026",
+            "longitude_deg": "117.15699768066406",
+            "elevation_ft": "33",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.074",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WALS"
+        }
+    ]
 }

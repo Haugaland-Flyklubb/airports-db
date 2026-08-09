@@ -81,5 +81,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88354",
+            "filename": "Malmstrom_TACAN_US",
+            "ident": "GFA",
+            "name": "Malmstrom",
+            "type": "TACAN",
+            "frequency_khz": "115800",
+            "latitude_deg": "47.50410079956055",
+            "longitude_deg": "-111.18199920654297",
+            "elevation_ft": "3501",
+            "iso_country": "US",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "13.58",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KGFA"
+        }
+    ]
 }

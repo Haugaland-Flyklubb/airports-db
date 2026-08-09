@@ -69,5 +69,29 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Benguela_ Province",
         "keywords": "Airports in Benguela Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85970",
+            "filename": "Benguela_NDB_AO",
+            "ident": "BG",
+            "name": "Benguela",
+            "type": "NDB",
+            "frequency_khz": "372",
+            "latitude_deg": "-12.608099937438965",
+            "longitude_deg": "13.405400276184082",
+            "elevation_ft": "",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.229",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNBG"
+        }
+    ]
 }

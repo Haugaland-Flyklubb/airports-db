@@ -69,5 +69,51 @@
         "iso_country": "GL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kujalleq",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "91448",
+            "filename": "Narsarsuaq_NDB_GL",
+            "ident": "NA",
+            "name": "Narsarsuaq",
+            "type": "NDB",
+            "frequency_khz": "359",
+            "latitude_deg": "61.17070007324219",
+            "longitude_deg": "-45.412899017333984",
+            "elevation_ft": "",
+            "iso_country": "GL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-26.438",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "BGBW"
+        },
+        {
+            "id": "91682",
+            "filename": "Narsarsuaq_DME_GL",
+            "ident": "NQ",
+            "name": "Narsarsuaq",
+            "type": "DME",
+            "frequency_khz": "111850",
+            "latitude_deg": "61.160400390625",
+            "longitude_deg": "-45.407100677490234",
+            "elevation_ft": "112",
+            "iso_country": "GL",
+            "dme_frequency_khz": "111850",
+            "dme_channel": "055Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-26.432",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "BGBW"
+        }
+    ]
 }

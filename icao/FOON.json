@@ -77,5 +77,51 @@
         "iso_country": "GA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Ogoou%C3%A9_Province",
         "keywords": "Airports in Haut-Ogooué Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88150",
+            "filename": "Franceville_VOR-DME_GA",
+            "ident": "FRV",
+            "name": "Franceville",
+            "type": "VOR-DME",
+            "frequency_khz": "116100",
+            "latitude_deg": "-1.6530799865722656",
+            "longitude_deg": "13.443900108337402",
+            "elevation_ft": "1578",
+            "iso_country": "GA",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.596",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FOON"
+        },
+        {
+            "id": "88151",
+            "filename": "Franceville_NDB_GA",
+            "ident": "FRV",
+            "name": "Franceville",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "-1.6034200191497803",
+            "longitude_deg": "13.399299621582031",
+            "elevation_ft": "",
+            "iso_country": "GA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.595",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FOON"
+        }
+    ]
 }

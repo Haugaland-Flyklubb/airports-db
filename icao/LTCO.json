@@ -69,5 +69,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ağrı_Province",
         "keywords": "Airports in Ağrı Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85588",
+            "filename": "Agri_VOR-DME_TR",
+            "ident": "ARI",
+            "name": "Agri",
+            "type": "VOR-DME",
+            "frequency_khz": "116700",
+            "latitude_deg": "39.67169952392578",
+            "longitude_deg": "43.020599365234375",
+            "elevation_ft": "5354",
+            "iso_country": "TR",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.083",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LTCO"
+        },
+        {
+            "id": "85589",
+            "filename": "Agri_NDB_TR",
+            "ident": "ARI",
+            "name": "Agri",
+            "type": "NDB",
+            "frequency_khz": "289",
+            "latitude_deg": "39.66910171508789",
+            "longitude_deg": "43.02199935913086",
+            "elevation_ft": "5462",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.083",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LTCO"
+        }
+    ]
 }

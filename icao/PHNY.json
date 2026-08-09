@@ -93,5 +93,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
         "keywords": "Airports in Hawaii"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90397",
+            "filename": "Lanai_NDB_US",
+            "ident": "LLD",
+            "name": "Lanai",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "20.77239990234375",
+            "longitude_deg": "-156.97300720214844",
+            "elevation_ft": "990",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.571",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "PHNY"
+        },
+        {
+            "id": "90454",
+            "filename": "Lanai_VORTAC_US",
+            "ident": "LNY",
+            "name": "Lanai",
+            "type": "VORTAC",
+            "frequency_khz": "117700",
+            "latitude_deg": "20.76449966430664",
+            "longitude_deg": "-156.968994140625",
+            "elevation_ft": "1250",
+            "iso_country": "US",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "9.57",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PHNY"
+        }
+    ]
 }

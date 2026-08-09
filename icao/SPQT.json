@@ -77,5 +77,51 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Loreto_Region",
         "keywords": "Airports in Loreto Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87639",
+            "filename": "Iquitos_NDB_PE",
+            "ident": "EC",
+            "name": "Iquitos",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "-3.7961599826812744",
+            "longitude_deg": "-73.32610321044922",
+            "elevation_ft": "",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.379",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "SPQT"
+        },
+        {
+            "id": "89310",
+            "filename": "Iquitos_VOR-DME_PE",
+            "ident": "IQT",
+            "name": "Iquitos",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "-3.792259931564331",
+            "longitude_deg": "-73.31739807128906",
+            "elevation_ft": "335",
+            "iso_country": "PE",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-4.383",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPQT"
+        }
+    ]
 }

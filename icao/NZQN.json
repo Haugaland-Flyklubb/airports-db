@@ -131,5 +131,29 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Otago",
         "keywords": "Airports in Otago Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93568",
+            "filename": "Slope_Hill_VOR-DME_NZ",
+            "ident": "SH",
+            "name": "Slope Hill",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "-44.984100341796875",
+            "longitude_deg": "168.7830047607422",
+            "elevation_ft": "1394",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "23.007",
+            "magnetic_variation_deg": "23.484",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NZQN"
+        }
+    ]
 }

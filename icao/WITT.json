@@ -77,5 +77,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aceh",
         "keywords": "Airports in Aceh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85781",
+            "filename": "Banda_Aceh_VOR-DME_ID",
+            "ident": "BAC",
+            "name": "Banda Aceh",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "5.522630214691162",
+            "longitude_deg": "95.42220306396484",
+            "elevation_ft": "64",
+            "iso_country": "ID",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.597",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WITT"
+        },
+        {
+            "id": "91803",
+            "filename": "Banda_Aceh_NDB_ID",
+            "ident": "NZ",
+            "name": "Banda Aceh",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "5.512320041656494",
+            "longitude_deg": "95.41940307617188",
+            "elevation_ft": "65",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.597",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WITT"
+        }
+    ]
 }

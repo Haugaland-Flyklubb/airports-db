@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85198",
+            "filename": "Putny_NDB_US",
+            "ident": "AB",
+            "name": "Putny",
+            "type": "NDB",
+            "frequency_khz": "227",
+            "latitude_deg": "31.456100463867188",
+            "longitude_deg": "-84.27619934082031",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.456",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KABY"
+        },
+        {
+            "id": "92864",
+            "filename": "Pecan_VORTAC_US",
+            "ident": "PZD",
+            "name": "Pecan",
+            "type": "VORTAC",
+            "frequency_khz": "116100",
+            "latitude_deg": "31.65519905090332",
+            "longitude_deg": "-84.29309844970703",
+            "elevation_ft": "280",
+            "iso_country": "US",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.001",
+            "magnetic_variation_deg": "-3.47",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KABY"
+        }
+    ]
 }

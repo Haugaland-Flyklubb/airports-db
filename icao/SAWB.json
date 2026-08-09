@@ -69,5 +69,51 @@
         "iso_country": "AQ",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90767",
+            "filename": "Marambio_VOR-DME_AQ",
+            "ident": "MBI",
+            "name": "Marambio",
+            "type": "VOR-DME",
+            "frequency_khz": "117000",
+            "latitude_deg": "-64.23470306396484",
+            "longitude_deg": "-56.619998931884766",
+            "elevation_ft": "760",
+            "iso_country": "AQ",
+            "dme_frequency_khz": "117000",
+            "dme_channel": "117X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.007",
+            "magnetic_variation_deg": "11.12",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAWB"
+        },
+        {
+            "id": "90768",
+            "filename": "Marambio_NDB_AQ",
+            "ident": "MBI",
+            "name": "Marambio",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "-64.23169708251953",
+            "longitude_deg": "-56.599998474121094",
+            "elevation_ft": "",
+            "iso_country": "AQ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.112",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "SAWB"
+        }
+    ]
 }

@@ -85,5 +85,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86324",
+            "filename": "Broome_NDB-DME_AU",
+            "ident": "BRM",
+            "name": "Broome",
+            "type": "NDB-DME",
+            "frequency_khz": "320",
+            "latitude_deg": "-17.946399688720703",
+            "longitude_deg": "122.23500061035156",
+            "elevation_ft": "67",
+            "iso_country": "AU",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "-17.9469",
+            "dme_longitude_deg": "122.235",
+            "dme_elevation_ft": "67",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.289",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YBRM"
+        }
+    ]
 }

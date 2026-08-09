@@ -77,5 +77,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
         "keywords": "Airports in New Jersey"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87189",
+            "filename": "Coyle_VORTAC_US",
+            "ident": "CYN",
+            "name": "Coyle",
+            "type": "VORTAC",
+            "frequency_khz": "113400",
+            "latitude_deg": "39.817298889160156",
+            "longitude_deg": "-74.43160247802734",
+            "elevation_ft": "210",
+            "iso_country": "US",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.002",
+            "magnetic_variation_deg": "-12.388",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NJ24"
+        }
+    ]
 }

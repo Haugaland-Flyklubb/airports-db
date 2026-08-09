@@ -121,5 +121,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Schleswig-Holstein",
         "keywords": "Airports in Schleswig-Holstein"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87362",
+            "filename": "Helgoland_VOR-DME_DE",
+            "ident": "DHE",
+            "name": "Helgoland",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "54.185699462890625",
+            "longitude_deg": "7.910699844360352",
+            "elevation_ft": "44",
+            "iso_country": "DE",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.206",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EDXH"
+        }
+    ]
 }

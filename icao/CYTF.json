@@ -85,5 +85,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89363",
+            "filename": "Alma_DME_CA",
+            "ident": "ITF",
+            "name": "Alma",
+            "type": "DME",
+            "frequency_khz": "110700",
+            "latitude_deg": "48.505001068115234",
+            "longitude_deg": "-71.6322021484375",
+            "elevation_ft": "445",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110700",
+            "dme_channel": "044X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.424",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CYTF"
+        },
+        {
+            "id": "95855",
+            "filename": "Alma_NDB_CA",
+            "ident": "YTF",
+            "name": "Alma",
+            "type": "NDB",
+            "frequency_khz": "253",
+            "latitude_deg": "48.5077018737793",
+            "longitude_deg": "-71.64929962158203",
+            "elevation_ft": "445",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.42",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYTF"
+        }
+    ]
 }

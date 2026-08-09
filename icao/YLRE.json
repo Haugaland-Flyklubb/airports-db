@@ -99,5 +99,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90526",
+            "filename": "Longreach_VOR_AU",
+            "ident": "LRE",
+            "name": "Longreach",
+            "type": "VOR",
+            "frequency_khz": "117900",
+            "latitude_deg": "-23.424400329589844",
+            "longitude_deg": "144.28199768066406",
+            "elevation_ft": "627",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.007",
+            "magnetic_variation_deg": "7.518",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YLRE"
+        },
+        {
+            "id": "90527",
+            "filename": "Longreach_NDB_AU",
+            "ident": "LRE",
+            "name": "Longreach",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "-23.428300857543945",
+            "longitude_deg": "144.28900146484375",
+            "elevation_ft": "627",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.52",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YLRE"
+        }
+    ]
 }

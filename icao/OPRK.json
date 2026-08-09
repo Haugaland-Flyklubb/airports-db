@@ -77,5 +77,51 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
         "keywords": "Airports in Punjab"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93114",
+            "filename": "Rahim_Yar_Khan_VOR-DME_PK",
+            "ident": "RK",
+            "name": "Rahim Yar Khan",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "28.3656005859375",
+            "longitude_deg": "70.27320098876953",
+            "elevation_ft": "289",
+            "iso_country": "PK",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.579",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OPRK"
+        },
+        {
+            "id": "93120",
+            "filename": "Rahim_Yar_Khan_NDB_PK",
+            "ident": "RK",
+            "name": "Rahim Yar Khan",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "28.411300659179688",
+            "longitude_deg": "70.30349731445312",
+            "elevation_ft": "360",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.584",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OPRK"
+        }
+    ]
 }

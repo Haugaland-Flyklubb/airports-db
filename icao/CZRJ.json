@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96104",
+            "filename": "Round_Lake_NDB_CA",
+            "ident": "ZRJ",
+            "name": "Round Lake",
+            "type": "NDB",
+            "frequency_khz": "236",
+            "latitude_deg": "52.94889831542969",
+            "longitude_deg": "-91.3239974975586",
+            "elevation_ft": "934",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.356",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CZRJ"
+        }
+    ]
 }

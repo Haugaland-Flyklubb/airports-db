@@ -101,5 +101,51 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sarawak",
         "keywords": "Airports in Sarawak"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85471",
+            "filename": "Kuching_NDB_MY",
+            "ident": "AN",
+            "name": "Kuching",
+            "type": "NDB",
+            "frequency_khz": "402",
+            "latitude_deg": "1.718309998512268",
+            "longitude_deg": "110.30899810791016",
+            "elevation_ft": "",
+            "iso_country": "MY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.444",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WBGG"
+        },
+        {
+            "id": "95166",
+            "filename": "Kuching_VOR-DME_MY",
+            "ident": "VKG",
+            "name": "Kuching",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "1.473330020904541",
+            "longitude_deg": "110.30599975585938",
+            "elevation_ft": "220",
+            "iso_country": "MY",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.011",
+            "magnetic_variation_deg": "0.456",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WBGG"
+        }
+    ]
 }

@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85996",
+            "filename": "Balgo_Hill_NDB_AU",
+            "ident": "BGO",
+            "name": "Balgo Hill",
+            "type": "NDB",
+            "frequency_khz": "206",
+            "latitude_deg": "-20.135900497436523",
+            "longitude_deg": "127.98899841308594",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.315",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YBGO"
+        }
+    ]
 }

@@ -185,5 +185,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
         "keywords": "Airports in Idaho"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86240",
+            "filename": "Ustik_NDB_US",
+            "ident": "BO",
+            "name": "Ustik",
+            "type": "NDB",
+            "frequency_khz": "359",
+            "latitude_deg": "43.596900939941406",
+            "longitude_deg": "-116.31500244140625",
+            "elevation_ft": "2700",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.578",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KBOI"
+        }
+    ]
 }

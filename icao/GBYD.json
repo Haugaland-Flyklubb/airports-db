@@ -85,5 +85,51 @@
         "iso_country": "GM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Coast_Division_(Gambia)",
         "keywords": "Western Division"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86064",
+            "filename": "Banjul_VOR-DME_GM",
+            "ident": "BJ",
+            "name": "Banjul",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "13.33810043334961",
+            "longitude_deg": "-16.655500411987305",
+            "elevation_ft": "95",
+            "iso_country": "GM",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.469",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GBYD"
+        },
+        {
+            "id": "91491",
+            "filename": "Banjul_NDB_GM",
+            "ident": "ND",
+            "name": "Banjul",
+            "type": "NDB",
+            "frequency_khz": "256",
+            "latitude_deg": "13.345399856567383",
+            "longitude_deg": "-16.657400131225586",
+            "elevation_ft": "",
+            "iso_country": "GM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.468",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GBYD"
+        }
+    ]
 }

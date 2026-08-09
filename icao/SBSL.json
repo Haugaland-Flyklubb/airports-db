@@ -107,5 +107,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maranhão",
         "keywords": "Airports in Maranhão"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93726",
+            "filename": "Sao_Luis_VOR-DME_BR",
+            "ident": "SLI",
+            "name": "Sao Luis",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "-2.589169979095459",
+            "longitude_deg": "-44.2400016784668",
+            "elevation_ft": "178",
+            "iso_country": "BR",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-20.507",
+            "magnetic_variation_deg": "-20.492",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBSL"
+        },
+        {
+            "id": "93727",
+            "filename": "Sao_Luis_NDB_BR",
+            "ident": "SLI",
+            "name": "Sao Luis",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "-2.5818300247192383",
+            "longitude_deg": "-44.23619842529297",
+            "elevation_ft": "291",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.491",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBSL"
+        }
+    ]
 }

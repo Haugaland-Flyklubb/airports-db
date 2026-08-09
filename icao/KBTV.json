@@ -155,5 +155,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vermont",
         "keywords": "Airports in Vermont"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86383",
+            "filename": "Herro_NDB_US",
+            "ident": "BT",
+            "name": "Herro",
+            "type": "NDB",
+            "frequency_khz": "382",
+            "latitude_deg": "44.53219985961914",
+            "longitude_deg": "-73.24949645996094",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.009",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBTV"
+        },
+        {
+            "id": "86406",
+            "filename": "Burlington_VORTAC_US",
+            "ident": "BTV",
+            "name": "Burlington",
+            "type": "VORTAC",
+            "frequency_khz": "117500",
+            "latitude_deg": "44.397098541259766",
+            "longitude_deg": "-73.18260192871094",
+            "elevation_ft": "420",
+            "iso_country": "US",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-15.004",
+            "magnetic_variation_deg": "-15",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KBTV"
+        }
+    ]
 }

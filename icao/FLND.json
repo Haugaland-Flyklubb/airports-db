@@ -99,5 +99,51 @@
         "iso_country": "ZM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Copperbelt_Province",
         "keywords": "Airports in Copperbelt Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91777",
+            "filename": "Ndola_NDB_ZM",
+            "ident": "NW",
+            "name": "Ndola",
+            "type": "NDB",
+            "frequency_khz": "240",
+            "latitude_deg": "-12.996600151062012",
+            "longitude_deg": "28.586599349975586",
+            "elevation_ft": "",
+            "iso_country": "ZM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.124",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FLND"
+        },
+        {
+            "id": "95221",
+            "filename": "Ndola_VOR-DME_ZM",
+            "ident": "VND",
+            "name": "Ndola",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "-12.999899864196777",
+            "longitude_deg": "28.66659927368164",
+            "elevation_ft": "4196",
+            "iso_country": "ZM",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.129",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FLND"
+        }
+    ]
 }

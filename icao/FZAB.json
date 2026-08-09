@@ -69,5 +69,29 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kinshasa_Province",
         "keywords": "Airports in Kinshasa Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91502",
+            "filename": "Ndolo_NDB_CD",
+            "ident": "NDO",
+            "name": "Ndolo",
+            "type": "NDB",
+            "frequency_khz": "318",
+            "latitude_deg": "-4.318950176239014",
+            "longitude_deg": "15.316200256347656",
+            "elevation_ft": "",
+            "iso_country": "CD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.126",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FZAB"
+        }
+    ]
 }

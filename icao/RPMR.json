@@ -85,5 +85,51 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Cotabato_Province",
         "keywords": "Airports in South Cotabato Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88593",
+            "filename": "Tambler_VOR-DME_PH",
+            "ident": "GSA",
+            "name": "Tambler",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "6.075669765472412",
+            "longitude_deg": "125.09200286865234",
+            "elevation_ft": "550",
+            "iso_country": "PH",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.215",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPMR"
+        },
+        {
+            "id": "94235",
+            "filename": "Tambler_NDB_PH",
+            "ident": "TBR",
+            "name": "Tambler",
+            "type": "NDB",
+            "frequency_khz": "377",
+            "latitude_deg": "6.059579849243164",
+            "longitude_deg": "125.0999984741211",
+            "elevation_ft": "",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.217",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "RPMR"
+        }
+    ]
 }

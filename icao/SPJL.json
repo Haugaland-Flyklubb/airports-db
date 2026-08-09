@@ -69,5 +69,29 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Puno_Region",
         "keywords": "Airports in Puno Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89577",
+            "filename": "Juliaca_VOR-DME_PE",
+            "ident": "JUL",
+            "name": "Juliaca",
+            "type": "VOR-DME",
+            "frequency_khz": "115550",
+            "latitude_deg": "-15.468099594116211",
+            "longitude_deg": "-70.1511001586914",
+            "elevation_ft": "12552",
+            "iso_country": "PE",
+            "dme_frequency_khz": "115550",
+            "dme_channel": "102Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-4.208",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPJL"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "CM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Littoral_Province_(Cameroon)",
         "keywords": "Airports in Littoral Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87415",
+            "filename": "Douala_VOR-DME_CM",
+            "ident": "DLA",
+            "name": "Douala",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "3.993920087814331",
+            "longitude_deg": "9.743470191955566",
+            "elevation_ft": "39",
+            "iso_country": "CM",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.33",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FKKD"
+        },
+        {
+            "id": "95711",
+            "filename": "Douala_NDB_CM",
+            "ident": "YK",
+            "name": "Douala",
+            "type": "NDB",
+            "frequency_khz": "399",
+            "latitude_deg": "3.97475004196167",
+            "longitude_deg": "9.783610343933105",
+            "elevation_ft": "126",
+            "iso_country": "CM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.326",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "FKKD"
+        }
+    ]
 }

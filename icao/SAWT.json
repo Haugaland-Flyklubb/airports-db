@@ -103,5 +103,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Province_(Argentina)",
         "keywords": "Airports in Santa Cruz Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86056",
+            "filename": "El_Turbio_NDB_AR",
+            "ident": "BIO",
+            "name": "El Turbio",
+            "type": "NDB",
+            "frequency_khz": "205",
+            "latitude_deg": "-51.61000061035156",
+            "longitude_deg": "-72.22139739990234",
+            "elevation_ft": "896",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.197",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAWT"
+        }
+    ]
 }

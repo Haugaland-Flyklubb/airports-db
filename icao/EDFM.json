@@ -145,5 +145,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
         "keywords": "Baden-Wuerttemberg"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91115",
+            "filename": "Mannheim_DME_DE",
+            "ident": "MND",
+            "name": "Mannheim",
+            "type": "DME",
+            "frequency_khz": "113550",
+            "latitude_deg": "49.47060012817383",
+            "longitude_deg": "8.515979766845703",
+            "elevation_ft": "351",
+            "iso_country": "DE",
+            "dme_frequency_khz": "113550",
+            "dme_channel": "082Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.468",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDFM"
+        }
+    ]
 }

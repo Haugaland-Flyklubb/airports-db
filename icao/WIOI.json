@@ -59,5 +59,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kalimantan_Barat",
         "keywords": "Airports in Kalimantan Barat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91523",
+            "filename": "Singkawang_NDB_ID",
+            "ident": "NF",
+            "name": "Singkawang",
+            "type": "NDB",
+            "frequency_khz": "210",
+            "latitude_deg": "1.0921599864959717",
+            "longitude_deg": "109.69300079345703",
+            "elevation_ft": "115",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.458",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIOI"
+        }
+    ]
 }

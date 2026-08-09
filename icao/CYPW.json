@@ -85,5 +85,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85148",
+            "filename": "Powell_River_Bc_DME_CA",
+            "ident": "9S",
+            "name": "Powell River Bc",
+            "type": "DME",
+            "frequency_khz": "109300",
+            "latitude_deg": "49.835601806640625",
+            "longitude_deg": "-124.4990005493164",
+            "elevation_ft": "425",
+            "iso_country": "CA",
+            "dme_frequency_khz": "109300",
+            "dme_channel": "030X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.516",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CYPW"
+        },
+        {
+            "id": "95796",
+            "filename": "Powell_River_NDB_CA",
+            "ident": "YPW",
+            "name": "Powell River",
+            "type": "NDB",
+            "frequency_khz": "382",
+            "latitude_deg": "49.836700439453125",
+            "longitude_deg": "-124.5009994506836",
+            "elevation_ft": "425",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.516",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYPW"
+        }
+    ]
 }

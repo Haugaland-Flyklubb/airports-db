@@ -107,5 +107,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92550",
+            "filename": "Proserpine_VOR-DME_AU",
+            "ident": "PN",
+            "name": "Proserpine",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "-20.496700286865234",
+            "longitude_deg": "148.55299377441406",
+            "elevation_ft": "92",
+            "iso_country": "AU",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.011",
+            "magnetic_variation_deg": "8.24",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "YBPN"
+        },
+        {
+            "id": "92551",
+            "filename": "Proserpine_NDB_AU",
+            "ident": "PN",
+            "name": "Proserpine",
+            "type": "NDB",
+            "frequency_khz": "245",
+            "latitude_deg": "-20.489200592041016",
+            "longitude_deg": "148.5590057373047",
+            "elevation_ft": "82",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.24",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YBPN"
+        }
+    ]
 }

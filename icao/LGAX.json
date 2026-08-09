@@ -69,5 +69,29 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Macedonia",
         "keywords": "Κεντρική Μακεδονία"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88311",
+            "filename": "Alexandria_NDB_GR",
+            "ident": "GDA",
+            "name": "Alexandria",
+            "type": "NDB",
+            "frequency_khz": "394",
+            "latitude_deg": "40.64469909667969",
+            "longitude_deg": "22.489200592041016",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.215",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LGAX"
+        }
+    ]
 }

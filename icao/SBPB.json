@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Piauí",
         "keywords": "Airports in Piauí"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92562",
+            "filename": "Parnaiba_NDB_BR",
+            "ident": "PNB",
+            "name": "Parnaiba",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "-2.8975000381469727",
+            "longitude_deg": "-41.72880172729492",
+            "elevation_ft": "16",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.105",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBPB"
+        }
+    ]
 }

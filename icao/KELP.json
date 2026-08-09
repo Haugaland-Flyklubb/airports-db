@@ -169,5 +169,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87711",
+            "filename": "Valtr_NDB_US",
+            "ident": "EL",
+            "name": "Valtr",
+            "type": "NDB",
+            "frequency_khz": "242",
+            "latitude_deg": "31.860300064086914",
+            "longitude_deg": "-106.31800079345703",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.208",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KELP"
+        },
+        {
+            "id": "87729",
+            "filename": "El_Paso_VORTAC_US",
+            "ident": "ELP",
+            "name": "El Paso",
+            "type": "VORTAC",
+            "frequency_khz": "115200",
+            "latitude_deg": "31.815900802612305",
+            "longitude_deg": "-106.28199768066406",
+            "elevation_ft": "4020",
+            "iso_country": "US",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.012",
+            "magnetic_variation_deg": "9.196",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KELP"
+        }
+    ]
 }

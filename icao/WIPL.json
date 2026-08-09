@@ -69,5 +69,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bengkulu",
         "keywords": "Airports in Bengkulu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86105",
+            "filename": "Bengkulu_VOR-DME_ID",
+            "ident": "BKL",
+            "name": "Bengkulu",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "-3.8605101108551025",
+            "longitude_deg": "102.33300018310547",
+            "elevation_ft": "50",
+            "iso_country": "ID",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.006",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WIPL"
+        },
+        {
+            "id": "92286",
+            "filename": "Bengkulu_NDB_ID",
+            "ident": "PB",
+            "name": "Bengkulu",
+            "type": "NDB",
+            "frequency_khz": "210",
+            "latitude_deg": "-3.8599300384521484",
+            "longitude_deg": "102.34100341796875",
+            "elevation_ft": "50",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.007",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIPL"
+        }
+    ]
 }

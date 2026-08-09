@@ -99,5 +99,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Guajira_Department",
         "keywords": "Airports in La Guajira Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93080",
+            "filename": "Riohacha_VOR-DME_CO",
+            "ident": "RHC",
+            "name": "Riohacha",
+            "type": "VOR-DME",
+            "frequency_khz": "117100",
+            "latitude_deg": "11.52750015258789",
+            "longitude_deg": "-72.9175033569336",
+            "elevation_ft": "13",
+            "iso_country": "CO",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.343",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKRH"
+        }
+    ]
 }

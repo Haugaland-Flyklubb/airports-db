@@ -115,5 +115,51 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yucat%C3%A1n",
         "keywords": "Airports in Yucatán"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90967",
+            "filename": "Merida_VOR-DME_MX",
+            "ident": "MID",
+            "name": "Merida",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "20.937999725341797",
+            "longitude_deg": "-89.65619659423828",
+            "elevation_ft": "38",
+            "iso_country": "MX",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.004",
+            "magnetic_variation_deg": "1.177",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMMD"
+        },
+        {
+            "id": "91201",
+            "filename": "Progreso_NDB_MX",
+            "ident": "MPG",
+            "name": "Progreso",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "21.273399353027344",
+            "longitude_deg": "-89.7136001586914",
+            "elevation_ft": "18",
+            "iso_country": "MX",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.172",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MMMD"
+        }
+    ]
 }

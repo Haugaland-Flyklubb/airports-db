@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95360",
+            "filename": "Pabok_(Du_Rocher-Perce)_NDB_CA",
+            "ident": "W7",
+            "name": "Pabok (Du Rocher-Perce)",
+            "type": "NDB",
+            "frequency_khz": "219",
+            "latitude_deg": "48.38169860839844",
+            "longitude_deg": "-64.56390380859375",
+            "elevation_ft": "87",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.165",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CTG3"
+        }
+    ]
 }

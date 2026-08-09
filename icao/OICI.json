@@ -69,5 +69,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iiam_Province",
         "keywords": "Airports in Iiam Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89234",
+            "filename": "Ilam_VOR-DME_IR",
+            "ident": "ILM",
+            "name": "Ilam",
+            "type": "VOR-DME",
+            "frequency_khz": "112600",
+            "latitude_deg": "33.578399658203125",
+            "longitude_deg": "46.415401458740234",
+            "elevation_ft": "4426",
+            "iso_country": "IR",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "3.487",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OICI"
+        },
+        {
+            "id": "89237",
+            "filename": "Ilam_NDB_IR",
+            "ident": "ILM",
+            "name": "Ilam",
+            "type": "NDB",
+            "frequency_khz": "311",
+            "latitude_deg": "33.584800720214844",
+            "longitude_deg": "46.41210174560547",
+            "elevation_ft": "4404",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.488",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OICI"
+        }
+    ]
 }

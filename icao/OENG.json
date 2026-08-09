@@ -93,5 +93,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Najran_Region",
         "keywords": "Airports in Najran Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91510",
+            "filename": "Nejran_VORTAC_SA",
+            "ident": "NEJ",
+            "name": "Nejran",
+            "type": "VORTAC",
+            "frequency_khz": "116700",
+            "latitude_deg": "17.60689926147461",
+            "longitude_deg": "44.41559982299805",
+            "elevation_ft": "3957",
+            "iso_country": "SA",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.55",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OENG"
+        }
+    ]
 }

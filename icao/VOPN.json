@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andhra_Pradesh",
         "keywords": "Airports in Andhra Pradesh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93364",
+            "filename": "Sri_Sathya_Sai_NDB_IN",
+            "ident": "SAI",
+            "name": "Sri Sathya Sai",
+            "type": "NDB",
+            "frequency_khz": "241",
+            "latitude_deg": "14.149900436401367",
+            "longitude_deg": "77.78459930419922",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.393",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VOPN"
+        }
+    ]
 }

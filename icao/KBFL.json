@@ -163,5 +163,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85957",
+            "filename": "Niley_NDB_US",
+            "ident": "BF",
+            "name": "Niley",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "35.372398376464844",
+            "longitude_deg": "-118.98100280761719",
+            "elevation_ft": "415",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.34",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBFL"
+        }
+    ]
 }

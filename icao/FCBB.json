@@ -85,5 +85,29 @@
         "iso_country": "CG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pool_Department",
         "keywords": "Airports in Pool Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86508",
+            "filename": "Brazzaville_Maya_Maya_VOR-DME_CG",
+            "ident": "BZ",
+            "name": "Brazzaville Maya Maya",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "-4.245610237121582",
+            "longitude_deg": "15.263799667358398",
+            "elevation_ft": "1048",
+            "iso_country": "CG",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.122",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FCBB"
+        }
+    ]
 }

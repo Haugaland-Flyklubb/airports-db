@@ -69,5 +69,29 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yaracuy",
         "keywords": "Airports in Yaracuy State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93878",
+            "filename": "San_Felipe_NDB_VE",
+            "ident": "SPE",
+            "name": "San Felipe",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "10.284700393676758",
+            "longitude_deg": "-68.75399780273438",
+            "elevation_ft": "761",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.035",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SVSP"
+        }
+    ]
 }

@@ -115,5 +115,29 @@
         "iso_country": "MZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maputo",
         "keywords": "Airports in Maputo (city)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95203",
+            "filename": "Maputo_VOR-DME_MZ",
+            "ident": "VMA",
+            "name": "Maputo",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "-25.868900299072266",
+            "longitude_deg": "32.60499954223633",
+            "elevation_ft": "180",
+            "iso_country": "MZ",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.557",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FQMA"
+        }
+    ]
 }

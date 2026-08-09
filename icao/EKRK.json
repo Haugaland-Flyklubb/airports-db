@@ -123,5 +123,29 @@
         "iso_country": "DK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zealand",
         "keywords": "Sjælland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93116",
+            "filename": "Roskilde_NDB_DK",
+            "ident": "RK",
+            "name": "Roskilde",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "55.62310028076172",
+            "longitude_deg": "11.997200012207031",
+            "elevation_ft": "",
+            "iso_country": "DK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.453",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "EKRK"
+        }
+    ]
 }

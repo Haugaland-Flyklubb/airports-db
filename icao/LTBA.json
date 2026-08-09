@@ -153,5 +153,29 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/İstanbul_Province",
         "keywords": "Airports in İstanbul Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89352",
+            "filename": "Istanbul_VORTAC_TR",
+            "ident": "IST",
+            "name": "Istanbul",
+            "type": "VORTAC",
+            "frequency_khz": "112500",
+            "latitude_deg": "40.962501525878906",
+            "longitude_deg": "28.80970001220703",
+            "elevation_ft": "108",
+            "iso_country": "TR",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "4.143",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTBA"
+        }
+    ]
 }

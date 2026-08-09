@@ -113,5 +113,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
         "keywords": "Airports in Auvergne-Rhône-Alpes"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90775",
+            "filename": "Moulins_Montbeugny_VOR_FR",
+            "ident": "MBY",
+            "name": "Moulins/Montbeugny",
+            "type": "VOR",
+            "frequency_khz": "109600",
+            "latitude_deg": "46.54130172729492",
+            "longitude_deg": "3.4995601177215576",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.31",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LFHY"
+        }
+    ]
 }

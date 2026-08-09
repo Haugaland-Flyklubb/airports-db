@@ -69,5 +69,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lombardy",
         "keywords": "LM"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95235",
+            "filename": "Voghera_VOR-DME_IT",
+            "ident": "VOG",
+            "name": "Voghera",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "44.96440124511719",
+            "longitude_deg": "8.970279693603516",
+            "elevation_ft": "388",
+            "iso_country": "IT",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.014",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LILH"
+        },
+        {
+            "id": "95236",
+            "filename": "Voghera_NDB_IT",
+            "ident": "VOG",
+            "name": "Voghera",
+            "type": "NDB",
+            "frequency_khz": "334",
+            "latitude_deg": "44.9640007019043",
+            "longitude_deg": "8.971500396728516",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.026",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LILH"
+        }
+    ]
 }

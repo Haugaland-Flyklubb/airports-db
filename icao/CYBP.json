@@ -81,5 +81,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85149",
+            "filename": "Brooks_NDB-DME_CA",
+            "ident": "9X",
+            "name": "Brooks",
+            "type": "NDB-DME",
+            "frequency_khz": "227",
+            "latitude_deg": "50.632198333740234",
+            "longitude_deg": "-111.9219970703125",
+            "elevation_ft": "2499",
+            "iso_country": "CA",
+            "dme_frequency_khz": "109800",
+            "dme_channel": "035X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.068",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYBP"
+        }
+    ]
 }

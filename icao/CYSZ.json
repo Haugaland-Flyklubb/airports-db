@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89618",
+            "filename": "Ste-Anne-Des-Monts_NDB_CA",
+            "ident": "K7",
+            "name": "Ste-Anne-Des-Monts",
+            "type": "NDB",
+            "frequency_khz": "211",
+            "latitude_deg": "49.12860107421875",
+            "longitude_deg": "-66.55000305175781",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.071",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYSZ"
+        }
+    ]
 }

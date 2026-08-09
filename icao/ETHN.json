@@ -93,5 +93,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
         "keywords": "Baden-Wuerttemberg"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91726",
+            "filename": "Niederstetten_NDB_DE",
+            "ident": "NSN",
+            "name": "Niederstetten",
+            "type": "NDB",
+            "frequency_khz": "311",
+            "latitude_deg": "49.394798278808594",
+            "longitude_deg": "9.96500015258789",
+            "elevation_ft": "1595",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.117",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "ETHN"
+        }
+    ]
 }

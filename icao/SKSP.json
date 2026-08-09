@@ -101,5 +101,51 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/San_Andrés,_Providencia_y_Santa_Catalina_Department",
         "keywords": "Airports in San Andrés, Providencia y Santa Catalina Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93889",
+            "filename": "San_Andres_VOR-DME_CO",
+            "ident": "SPP",
+            "name": "San Andres",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "12.582200050354004",
+            "longitude_deg": "-81.70559692382812",
+            "elevation_ft": "182",
+            "iso_country": "CO",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-2.052",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKSP"
+        },
+        {
+            "id": "93890",
+            "filename": "San_Andres_NDB_CO",
+            "ident": "SPP",
+            "name": "San Andres",
+            "type": "NDB",
+            "frequency_khz": "387",
+            "latitude_deg": "12.591899871826172",
+            "longitude_deg": "-81.70189666748047",
+            "elevation_ft": "12",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.055",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SKSP"
+        }
+    ]
 }

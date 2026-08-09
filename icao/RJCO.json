@@ -85,5 +85,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hokkaido",
         "keywords": "Hokkaido"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93862",
+            "filename": "Sapporo_NDB_JP",
+            "ident": "SP",
+            "name": "Sapporo",
+            "type": "NDB",
+            "frequency_khz": "357",
+            "latitude_deg": "43.168800354003906",
+            "longitude_deg": "141.3209991455078",
+            "elevation_ft": "",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.14",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "RJCO"
+        },
+        {
+            "id": "93877",
+            "filename": "Sapporo_VOR-DME_JP",
+            "ident": "SPE",
+            "name": "Sapporo",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "43.174598693847656",
+            "longitude_deg": "141.302001953125",
+            "elevation_ft": "87",
+            "iso_country": "JP",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.011",
+            "magnetic_variation_deg": "-9.143",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJCO"
+        }
+    ]
 }

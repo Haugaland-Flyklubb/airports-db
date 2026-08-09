@@ -59,5 +59,51 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guangdong",
         "keywords": "Canton Province, Kwangtung Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94764",
+            "filename": "Sanzao_NDB_CN",
+            "ident": "U",
+            "name": "Sanzao",
+            "type": "NDB",
+            "frequency_khz": "272",
+            "latitude_deg": "21.985000610351562",
+            "longitude_deg": "113.35700225830078",
+            "elevation_ft": "90",
+            "iso_country": "CN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.07",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "ZGSD"
+        },
+        {
+            "id": "96132",
+            "filename": "Lianshengwei_VOR-DME_CN",
+            "ident": "ZUH",
+            "name": "Lianshengwei",
+            "type": "VOR-DME",
+            "frequency_khz": "116700",
+            "latitude_deg": "22.22170066833496",
+            "longitude_deg": "113.46700286865234",
+            "elevation_ft": "21",
+            "iso_country": "CN",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.102",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZGSD"
+        }
+    ]
 }

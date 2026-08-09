@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85064",
+            "filename": "Lebel-sur-Quevillon_NDB_CA",
+            "ident": "2H",
+            "name": "Lebel-sur-Quevillon",
+            "type": "NDB",
+            "frequency_khz": "261",
+            "latitude_deg": "49.0372009277",
+            "longitude_deg": "-77.0207977295",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.363",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CSH4"
+        }
+    ]
 }

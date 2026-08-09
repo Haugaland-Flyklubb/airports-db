@@ -147,5 +147,51 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Metro_Manila",
         "keywords": "Mga Paliparan sa Kalakhang Maynila, Mga Paliparan sa Pambansang Punong Rehiyon"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90961",
+            "filename": "Manila_VOR-DME_PH",
+            "ident": "MIA",
+            "name": "Manila",
+            "type": "VOR-DME",
+            "frequency_khz": "113800",
+            "latitude_deg": "14.508000373840332",
+            "longitude_deg": "121.02200317382812",
+            "elevation_ft": "60",
+            "iso_country": "PH",
+            "dme_frequency_khz": "113800",
+            "dme_channel": "085X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-1.183",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPLL"
+        },
+        {
+            "id": "93242",
+            "filename": "Rosario_NDB_PH",
+            "ident": "RS",
+            "name": "Rosario",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "14.404800415039062",
+            "longitude_deg": "120.86499786376953",
+            "elevation_ft": "",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.167",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "RPLL"
+        }
+    ]
 }

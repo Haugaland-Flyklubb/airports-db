@@ -115,5 +115,29 @@
         "iso_country": "IQ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ninawa_Governorate",
         "keywords": "نينوى"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92929",
+            "filename": "Qayyarah_West_TACAN_IQ",
+            "ident": "QYW",
+            "name": "Qayyarah West",
+            "type": "TACAN",
+            "frequency_khz": "112500",
+            "latitude_deg": "35.7672004699707",
+            "longitude_deg": "43.12519836425781",
+            "elevation_ft": "749",
+            "iso_country": "IQ",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.191",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ORQW"
+        }
+    ]
 }

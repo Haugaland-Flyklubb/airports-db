@@ -147,5 +147,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Carolina",
         "keywords": "Airports in South Carolina"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93947",
+            "filename": "Shaw_TACAN_US",
+            "ident": "SSC",
+            "name": "Shaw",
+            "type": "TACAN",
+            "frequency_khz": "110100",
+            "latitude_deg": "33.97779846191406",
+            "longitude_deg": "-80.46620178222656",
+            "elevation_ft": "241",
+            "iso_country": "US",
+            "dme_frequency_khz": "110100",
+            "dme_channel": "038X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.001",
+            "magnetic_variation_deg": "-7.01",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KSSC"
+        }
+    ]
 }

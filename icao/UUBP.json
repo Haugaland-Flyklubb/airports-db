@@ -77,5 +77,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bryansk_Oblast",
         "keywords": "Airports in Bryansk Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91751",
+            "filename": "Bryansk_NDB_RU",
+            "ident": "NU",
+            "name": "Bryansk",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "53.16999816894531",
+            "longitude_deg": "34.18830108642578",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.511",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UUBP"
+        },
+        {
+            "id": "91888",
+            "filename": "Bryansk_NDB_RU",
+            "ident": "OD",
+            "name": "Bryansk",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "53.2599983215332",
+            "longitude_deg": "34.16669845581055",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.546",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UUBP"
+        }
+    ]
 }

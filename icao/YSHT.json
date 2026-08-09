@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93594",
+            "filename": "Shepparton_NDB_AU",
+            "ident": "SHT",
+            "name": "Shepparton",
+            "type": "NDB",
+            "frequency_khz": "212",
+            "latitude_deg": "-36.42839813232422",
+            "longitude_deg": "145.39599609375",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.215",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YSHT"
+        }
+    ]
 }

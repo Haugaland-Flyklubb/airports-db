@@ -69,5 +69,29 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kerman_Province",
         "keywords": "Airports in Kerman Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92959",
+            "filename": "Rafsanjan_NDB-DME_IR",
+            "ident": "RAF",
+            "name": "Rafsanjan",
+            "type": "NDB-DME",
+            "frequency_khz": "260",
+            "latitude_deg": "30.30270004272461",
+            "longitude_deg": "56.055599212646484",
+            "elevation_ft": "5298",
+            "iso_country": "IR",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.247",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIKR"
+        }
+    ]
 }

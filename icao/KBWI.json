@@ -191,5 +191,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
         "keywords": "Airports in Maryland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85793",
+            "filename": "Baltimore_VORTAC_US",
+            "ident": "BAL",
+            "name": "Baltimore",
+            "type": "VORTAC",
+            "frequency_khz": "115100",
+            "latitude_deg": "39.17110061645508",
+            "longitude_deg": "-76.66130065917969",
+            "elevation_ft": "140",
+            "iso_country": "US",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.001",
+            "magnetic_variation_deg": "-11.01",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KBWI"
+        },
+        {
+            "id": "88080",
+            "filename": "Ellicott_NDB_US",
+            "ident": "FND",
+            "name": "Ellicott",
+            "type": "NDB",
+            "frequency_khz": "371",
+            "latitude_deg": "39.28739929199219",
+            "longitude_deg": "-76.7770004272461",
+            "elevation_ft": "381",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.584",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBWI"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "NC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Loyalty_Islands_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "91834",
+            "filename": "Ouvea_NDB_NC",
+            "ident": "OA",
+            "name": "Ouvea",
+            "type": "NDB",
+            "frequency_khz": "402",
+            "latitude_deg": "-20.642099380493164",
+            "longitude_deg": "166.57200622558594",
+            "elevation_ft": "23",
+            "iso_country": "NC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.011",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "NWWV"
+        }
+    ]
 }

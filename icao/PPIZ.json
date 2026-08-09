@@ -109,5 +109,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92460",
+            "filename": "Point_Lay_NDB_US",
+            "ident": "PIZ",
+            "name": "Point Lay",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "69.7343978881836",
+            "longitude_deg": "-163.01300048828125",
+            "elevation_ft": "20",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.164",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PPIZ"
+        }
+    ]
 }

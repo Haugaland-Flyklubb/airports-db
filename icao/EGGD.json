@@ -93,5 +93,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86316",
+            "filename": "Bristol_NDB_GB",
+            "ident": "BRI",
+            "name": "Bristol",
+            "type": "NDB",
+            "frequency_khz": "414",
+            "latitude_deg": "51.38140106201172",
+            "longitude_deg": "-2.7175400257110596",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.148",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "EGGD"
+        }
+    ]
 }

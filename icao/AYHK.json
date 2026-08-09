@@ -69,5 +69,29 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_New_Britain_Province",
         "keywords": "Airports in West New Britain Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88868",
+            "filename": "Hoskins_NDB-DME_PG",
+            "ident": "HKN",
+            "name": "Hoskins",
+            "type": "NDB-DME",
+            "frequency_khz": "251",
+            "latitude_deg": "-5.4590301513671875",
+            "longitude_deg": "150.41400146484375",
+            "elevation_ft": "66",
+            "iso_country": "PG",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "-5.45817",
+            "dme_longitude_deg": "150.414",
+            "dme_elevation_ft": "27",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.283",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "AYHK"
+        }
+    ]
 }

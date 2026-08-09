@@ -77,5 +77,51 @@
         "iso_country": "BY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minsk_Region",
         "keywords": "Minskaja voblasc', Мі́нская во́бласць"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88426",
+            "filename": "Minsk-1_NDB_BY",
+            "ident": "GK",
+            "name": "Minsk-1",
+            "type": "NDB",
+            "frequency_khz": "321",
+            "latitude_deg": "53.8932991027832",
+            "longitude_deg": "27.47330093383789",
+            "elevation_ft": "",
+            "iso_country": "BY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.218",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "BY-9935"
+        },
+        {
+            "id": "91504",
+            "filename": "Minsk-1_NDB_BY",
+            "ident": "NE",
+            "name": "Minsk-1",
+            "type": "NDB",
+            "frequency_khz": "321",
+            "latitude_deg": "53.836700439453125",
+            "longitude_deg": "27.606700897216797",
+            "elevation_ft": "",
+            "iso_country": "BY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.231",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "BY-9935"
+        }
+    ]
 }

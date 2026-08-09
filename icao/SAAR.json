@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Fe_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "93202",
+            "filename": "Rosario_VOR-DME_AR",
+            "ident": "ROS",
+            "name": "Rosario",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "-32.904998779296875",
+            "longitude_deg": "-60.78139877319336",
+            "elevation_ft": "80",
+            "iso_country": "AR",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-5.508",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAAR"
+        }
+    ]
 }

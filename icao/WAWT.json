@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Selatan",
         "keywords": "Airports in Sulawesi Selatan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91005",
+            "filename": "Pongtiku_NDB_ID",
+            "ident": "MK",
+            "name": "Pongtiku",
+            "type": "NDB",
+            "frequency_khz": "401",
+            "latitude_deg": "-3.04436993598938",
+            "longitude_deg": "119.81900024414062",
+            "elevation_ft": "2707",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.279",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAWT"
+        }
+    ]
 }

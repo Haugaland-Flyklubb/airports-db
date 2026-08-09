@@ -93,5 +93,51 @@
         "iso_country": "BW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North-West_District",
         "keywords": "Airports in North West District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91102",
+            "filename": "Maun_NDB_BW",
+            "ident": "MN",
+            "name": "Maun",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "-19.978300094604492",
+            "longitude_deg": "23.429100036621094",
+            "elevation_ft": "3346",
+            "iso_country": "BW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.539",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FBMN"
+        },
+        {
+            "id": "91135",
+            "filename": "Maun_VOR-DME_BW",
+            "ident": "MNV",
+            "name": "Maun",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "-19.990400314331055",
+            "longitude_deg": "23.3887996673584",
+            "elevation_ft": "3100",
+            "iso_country": "BW",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.007",
+            "magnetic_variation_deg": "-9.547",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FBMN"
+        }
+    ]
 }

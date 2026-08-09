@@ -107,5 +107,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89576",
+            "filename": "Mc_Kinnon_NDB_US",
+            "ident": "JUK",
+            "name": "Mc Kinnon",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "31.153600692749023",
+            "longitude_deg": "-81.3895034790039",
+            "elevation_ft": "19",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.458",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KSSI"
+        }
+    ]
 }

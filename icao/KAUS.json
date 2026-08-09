@@ -155,5 +155,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88352",
+            "filename": "Birdy_NDB_US",
+            "ident": "GF",
+            "name": "Birdy",
+            "type": "NDB",
+            "frequency_khz": "232",
+            "latitude_deg": "30.287599563598633",
+            "longitude_deg": "-97.68180084228516",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.119",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KAUS"
+        }
+    ]
 }

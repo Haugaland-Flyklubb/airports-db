@@ -69,5 +69,29 @@
         "iso_country": "CR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Puntarenas_Province",
         "keywords": "Airports in Puntarenas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86972",
+            "filename": "Coto_47_NDB_CR",
+            "ident": "COT",
+            "name": "Coto 47",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "8.60278034210205",
+            "longitude_deg": "-82.96810150146484",
+            "elevation_ft": "26",
+            "iso_country": "CR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.339",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MRCC"
+        }
+    ]
 }

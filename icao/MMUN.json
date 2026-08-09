@@ -147,5 +147,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quintana_Roo",
         "keywords": "Airports in Quintana Roo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87116",
+            "filename": "Cancun_VOR-DME_MX",
+            "ident": "CUN",
+            "name": "Cancun",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "21.025100708007812",
+            "longitude_deg": "-86.85870361328125",
+            "elevation_ft": "20",
+            "iso_country": "MX",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.011",
+            "magnetic_variation_deg": "-0.229",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMUN"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85122",
+            "filename": "Cigar_Lake_NDB_CA",
+            "ident": "6Q",
+            "name": "Cigar Lake",
+            "type": "NDB",
+            "frequency_khz": "222",
+            "latitude_deg": "58.069698333740234",
+            "longitude_deg": "-104.53900146484375",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.223",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CJW7"
+        }
+    ]
 }

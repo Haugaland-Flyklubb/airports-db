@@ -107,5 +107,51 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Beja_District",
         "keywords": "Airports in Beja District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85935",
+            "filename": "Beja_VORTAC_PT",
+            "ident": "BEJ",
+            "name": "Beja",
+            "type": "VORTAC",
+            "frequency_khz": "115800",
+            "latitude_deg": "38.12839889526367",
+            "longitude_deg": "-7.926690101623535",
+            "elevation_ft": "620",
+            "iso_country": "PT",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-3.316",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPBJ"
+        },
+        {
+            "id": "86070",
+            "filename": "Beja_NDB_PT",
+            "ident": "BJA",
+            "name": "Beja",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "38.1593017578125",
+            "longitude_deg": "-7.921710014343262",
+            "elevation_ft": "",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.316",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPBJ"
+        }
+    ]
 }

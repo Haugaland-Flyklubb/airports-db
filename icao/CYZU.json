@@ -93,5 +93,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95946",
+            "filename": "Whitecourt_VOR-DME_CA",
+            "ident": "YZU",
+            "name": "Whitecourt",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "54.145599365234375",
+            "longitude_deg": "-115.7969970703125",
+            "elevation_ft": "2604",
+            "iso_country": "CA",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "19.001",
+            "magnetic_variation_deg": "18.039",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYZU"
+        }
+    ]
 }

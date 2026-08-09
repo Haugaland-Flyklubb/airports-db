@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Salta_Province",
         "keywords": "Airports in Salta Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92080",
+            "filename": "Oran_NDB_AR",
+            "ident": "ORA",
+            "name": "Oran",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "-23.14940071105957",
+            "longitude_deg": "-64.32420349121094",
+            "elevation_ft": "1171",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.537",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SASO"
+        }
+    ]
 }

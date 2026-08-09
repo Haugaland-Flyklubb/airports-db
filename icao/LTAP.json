@@ -93,5 +93,29 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amasya_Province",
         "keywords": "Airports in Amasya Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91123",
+            "filename": "Merzifon_TACAN_TR",
+            "ident": "MNI",
+            "name": "Merzifon",
+            "type": "TACAN",
+            "frequency_khz": "109300",
+            "latitude_deg": "40.835601806640625",
+            "longitude_deg": "35.53969955444336",
+            "elevation_ft": "1783",
+            "iso_country": "TR",
+            "dme_frequency_khz": "109300",
+            "dme_channel": "030X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.562",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTAP"
+        }
+    ]
 }

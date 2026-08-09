@@ -141,5 +141,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana",
         "keywords": "Airports in Indiana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88634",
+            "filename": "Grissom_VORTAC_US",
+            "ident": "GUS",
+            "name": "Grissom",
+            "type": "VORTAC",
+            "frequency_khz": "108450",
+            "latitude_deg": "40.644901275634766",
+            "longitude_deg": "-86.15170288085938",
+            "elevation_ft": "810",
+            "iso_country": "US",
+            "dme_frequency_khz": "108450",
+            "dme_channel": "021Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.001",
+            "magnetic_variation_deg": "-4.057",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KGUS"
+        }
+    ]
 }

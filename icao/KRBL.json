@@ -93,5 +93,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92305",
+            "filename": "Proberta_NDB_US",
+            "ident": "PBT",
+            "name": "Proberta",
+            "type": "NDB",
+            "frequency_khz": "338",
+            "latitude_deg": "40.11389923095703",
+            "longitude_deg": "-122.23699951171875",
+            "elevation_ft": "400",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.196",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KRBL"
+        },
+        {
+            "id": "92986",
+            "filename": "Red_Bluff_VORTAC_US",
+            "ident": "RBL",
+            "name": "Red Bluff",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "40.098899841308594",
+            "longitude_deg": "-122.23600006103516",
+            "elevation_ft": "322",
+            "iso_country": "US",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "18.001",
+            "magnetic_variation_deg": "15.193",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KRBL"
+        }
+    ]
 }

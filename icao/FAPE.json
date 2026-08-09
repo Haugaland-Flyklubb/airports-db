@@ -123,5 +123,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Cape",
         "keywords": "Airports in Eastern Cape"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92374",
+            "filename": "Port_Elizabeth_VOR-DME_ZA",
+            "ident": "PEV",
+            "name": "Port Elizabeth",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "-33.99250030517578",
+            "longitude_deg": "25.60569953918457",
+            "elevation_ft": "225",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-26.345",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FAPE"
+        }
+    ]
 }

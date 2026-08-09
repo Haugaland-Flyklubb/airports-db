@@ -93,5 +93,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90784",
+            "filename": "Ferni_NDB_US",
+            "ident": "MC",
+            "name": "Ferni",
+            "type": "NDB",
+            "frequency_khz": "413",
+            "latitude_deg": "31.254499435424805",
+            "longitude_deg": "-90.5103988647461",
+            "elevation_ft": "480",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.4",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KMCB"
+        },
+        {
+            "id": "90788",
+            "filename": "Mc_Comb_VORTAC_US",
+            "ident": "MCB",
+            "name": "Mc Comb",
+            "type": "VORTAC",
+            "frequency_khz": "116700",
+            "latitude_deg": "31.304500579833984",
+            "longitude_deg": "-90.2582015991211",
+            "elevation_ft": "440",
+            "iso_country": "US",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "0.304",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KMCB"
+        }
+    ]
 }

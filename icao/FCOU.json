@@ -77,5 +77,29 @@
         "iso_country": "CG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sangha_Department",
         "keywords": "Airports in Sangha Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92150",
+            "filename": "Ouesso_NDB_CG",
+            "ident": "OU",
+            "name": "Ouesso",
+            "type": "NDB",
+            "frequency_khz": "392",
+            "latitude_deg": "1.6083199977874756",
+            "longitude_deg": "16.057899475097656",
+            "elevation_ft": "",
+            "iso_country": "CG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.318",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "FCOU"
+        }
+    ]
 }

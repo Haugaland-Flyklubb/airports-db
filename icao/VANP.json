@@ -123,5 +123,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maharashtra",
         "keywords": "Airports in Maharashtra"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91648",
+            "filename": "Nagpur_VOR-DME_IN",
+            "ident": "NNP",
+            "name": "Nagpur",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "21.111600875854492",
+            "longitude_deg": "79.0198974609375",
+            "elevation_ft": "1033",
+            "iso_country": "IN",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-0.385",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VANP"
+        },
+        {
+            "id": "91671",
+            "filename": "Nagpur_NDB_IN",
+            "ident": "NP",
+            "name": "Nagpur",
+            "type": "NDB",
+            "frequency_khz": "372",
+            "latitude_deg": "21.122699737548828",
+            "longitude_deg": "79.03910064697266",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.384",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VANP"
+        }
+    ]
 }

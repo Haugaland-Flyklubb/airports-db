@@ -131,5 +131,29 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zuid-Holland",
         "keywords": "Airports in Zuid-Holland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95056",
+            "filename": "Valkenburg_TACAN_NL",
+            "ident": "VBG",
+            "name": "Valkenburg",
+            "type": "TACAN",
+            "frequency_khz": "111200",
+            "latitude_deg": "52.161399841308594",
+            "longitude_deg": "4.414169788360596",
+            "elevation_ft": "1",
+            "iso_country": "NL",
+            "dme_frequency_khz": "111200",
+            "dme_channel": "049X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-0.434",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NL-0145"
+        }
+    ]
 }

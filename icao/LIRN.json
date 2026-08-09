@@ -125,5 +125,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Campania",
         "keywords": "CM"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92607",
+            "filename": "Pomigliano_VOR-DME_IT",
+            "ident": "POM",
+            "name": "Pomigliano",
+            "type": "VOR-DME",
+            "frequency_khz": "117850",
+            "latitude_deg": "40.928199768066406",
+            "longitude_deg": "14.383600234985352",
+            "elevation_ft": "109",
+            "iso_country": "IT",
+            "dme_frequency_khz": "117850",
+            "dme_channel": "125Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.053",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LIRN"
+        },
+        {
+            "id": "92608",
+            "filename": "Pomigliano_NDB_IT",
+            "ident": "POM",
+            "name": "Pomigliano",
+            "type": "NDB",
+            "frequency_khz": "351",
+            "latitude_deg": "40.9286003112793",
+            "longitude_deg": "14.383099555969238",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.053",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LIRN"
+        }
+    ]
 }

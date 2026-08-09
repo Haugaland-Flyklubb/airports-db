@@ -81,5 +81,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90122",
+            "filename": "Nipawin_NDB_CA",
+            "ident": "L4",
+            "name": "Nipawin",
+            "type": "NDB",
+            "frequency_khz": "402",
+            "latitude_deg": "53.33470153808594",
+            "longitude_deg": "-104.00900268554688",
+            "elevation_ft": "1220",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.221",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYBU"
+        }
+    ]
 }

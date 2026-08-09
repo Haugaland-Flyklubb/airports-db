@@ -99,5 +99,51 @@
         "iso_country": "NF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91520",
+            "filename": "Norfolk_Island_VOR-DME_NF",
+            "ident": "NF",
+            "name": "Norfolk Island",
+            "type": "VOR-DME",
+            "frequency_khz": "112400",
+            "latitude_deg": "-29.047300338745117",
+            "longitude_deg": "167.9320068359375",
+            "elevation_ft": "327",
+            "iso_country": "NF",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.011",
+            "magnetic_variation_deg": "14.512",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YSNF"
+        },
+        {
+            "id": "91524",
+            "filename": "Norfolk_Island_NDB_NF",
+            "ident": "NF",
+            "name": "Norfolk Island",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "-29.007200241088867",
+            "longitude_deg": "167.92100524902344",
+            "elevation_ft": "",
+            "iso_country": "NF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.502",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YSNF"
+        }
+    ]
 }

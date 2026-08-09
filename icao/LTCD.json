@@ -99,5 +99,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Erzincan_Province",
         "keywords": "Airports in Erzincan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87812",
+            "filename": "Erzincan_VOR-DME_TR",
+            "ident": "ERN",
+            "name": "Erzincan",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "39.70830154418945",
+            "longitude_deg": "39.52920150756836",
+            "elevation_ft": "3757",
+            "iso_country": "TR",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.007",
+            "magnetic_variation_deg": "5.002",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTCD"
+        },
+        {
+            "id": "87813",
+            "filename": "Erzincan_NDB_TR",
+            "ident": "ERN",
+            "name": "Erzincan",
+            "type": "NDB",
+            "frequency_khz": "430",
+            "latitude_deg": "39.70830154418945",
+            "longitude_deg": "39.52920150756836",
+            "elevation_ft": "3793",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.002",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LTCD"
+        }
+    ]
 }

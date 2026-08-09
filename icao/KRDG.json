@@ -131,5 +131,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
         "keywords": "Airports in Pennsylvania"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93021",
+            "filename": "Shapp_NDB_US",
+            "ident": "RD",
+            "name": "Shapp",
+            "type": "NDB",
+            "frequency_khz": "356",
+            "latitude_deg": "40.30649948120117",
+            "longitude_deg": "-75.94960021972656",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.502",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KRDG"
+        }
+    ]
 }

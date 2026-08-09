@@ -69,5 +69,29 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sud-Ubangi",
         "keywords": "Airports in Sud-Ubangi Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88339",
+            "filename": "Gemena_NDB_CD",
+            "ident": "GEM",
+            "name": "Gemena",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "3.230410099029541",
+            "longitude_deg": "19.766300201416016",
+            "elevation_ft": "1421",
+            "iso_country": "CD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.245",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FZFK"
+        }
+    ]
 }

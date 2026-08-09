@@ -91,5 +91,51 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92757",
+            "filename": "La_Plata_VOR_AR",
+            "ident": "PTA",
+            "name": "La Plata",
+            "type": "VOR",
+            "frequency_khz": "113700",
+            "latitude_deg": "-34.975799560546875",
+            "longitude_deg": "-57.89830017089844",
+            "elevation_ft": "69",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-7.184",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SADL"
+        },
+        {
+            "id": "92759",
+            "filename": "La_Plata_NDB_AR",
+            "ident": "PTA",
+            "name": "La Plata",
+            "type": "NDB",
+            "frequency_khz": "250",
+            "latitude_deg": "-34.96670150756836",
+            "longitude_deg": "-57.89780044555664",
+            "elevation_ft": "72",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.188",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SADL"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Jawf_Region",
         "keywords": "Airports in Al Jawf Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88584",
+            "filename": "Guriat_VORTAC_SA",
+            "ident": "GRY",
+            "name": "Guriat",
+            "type": "VORTAC",
+            "frequency_khz": "114700",
+            "latitude_deg": "31.412599563598633",
+            "longitude_deg": "37.286598205566406",
+            "elevation_ft": "1816",
+            "iso_country": "SA",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.409",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OEGT"
+        }
+    ]
 }

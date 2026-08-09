@@ -101,5 +101,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87762",
+            "filename": "Emmonak_VOR-DME_US",
+            "ident": "ENM",
+            "name": "Emmonak",
+            "type": "VOR-DME",
+            "frequency_khz": "117800",
+            "latitude_deg": "62.78459930419922",
+            "longitude_deg": "-164.48800659179688",
+            "elevation_ft": "5",
+            "iso_country": "US",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.001",
+            "magnetic_variation_deg": "13.521",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAEM"
+        }
+    ]
 }

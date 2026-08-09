@@ -107,5 +107,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Veracruz",
         "keywords": "Airports in Veracruz"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95091",
+            "filename": "Veracruz_VOR-DME_MX",
+            "ident": "VER",
+            "name": "Veracruz",
+            "type": "VOR-DME",
+            "frequency_khz": "114000",
+            "latitude_deg": "19.143199920654297",
+            "longitude_deg": "-96.18910217285156",
+            "elevation_ft": "90",
+            "iso_country": "MX",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.01",
+            "magnetic_variation_deg": "4.484",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMVR"
+        }
+    ]
 }

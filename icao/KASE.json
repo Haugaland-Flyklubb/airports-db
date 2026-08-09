@@ -117,5 +117,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
         "keywords": "Airports in Colorado"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87290",
+            "filename": "Red_Table_VOR-DME_US",
+            "ident": "DBL",
+            "name": "Red Table",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "39.439300537109375",
+            "longitude_deg": "-106.8949966430664",
+            "elevation_ft": "11758",
+            "iso_country": "US",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.001",
+            "magnetic_variation_deg": "10.306",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KASE"
+        }
+    ]
 }

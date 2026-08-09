@@ -69,5 +69,29 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90901",
+            "filename": "Totegegie_NDB_PF",
+            "ident": "MG",
+            "name": "Totegegie",
+            "type": "NDB",
+            "frequency_khz": "341",
+            "latitude_deg": "-23.09040069580078",
+            "longitude_deg": "-134.875",
+            "elevation_ft": "",
+            "iso_country": "PF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.256",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "NTGJ"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Møre_og_Romsdal",
         "keywords": "Airports in Møre og Romsdal"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90069",
+            "filename": "Kvernberget_VOR-DME_NO",
+            "ident": "KVB",
+            "name": "Kvernberget",
+            "type": "VOR-DME",
+            "frequency_khz": "113800",
+            "latitude_deg": "63.118099212646484",
+            "longitude_deg": "7.810540199279785",
+            "elevation_ft": "684",
+            "iso_country": "NO",
+            "dme_frequency_khz": "113800",
+            "dme_channel": "085X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-0.177",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "ENKB"
+        }
+    ]
 }

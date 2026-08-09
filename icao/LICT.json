@@ -77,5 +77,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sicily",
         "keywords": "SC"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94605",
+            "filename": "Trapani_VORTAC_IT",
+            "ident": "TRP",
+            "name": "Trapani",
+            "type": "VORTAC",
+            "frequency_khz": "108800",
+            "latitude_deg": "37.895999908447266",
+            "longitude_deg": "12.513199806213379",
+            "elevation_ft": "128",
+            "iso_country": "IT",
+            "dme_frequency_khz": "108800",
+            "dme_channel": "025X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.388",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "LICT"
+        },
+        {
+            "id": "94607",
+            "filename": "Trapani_NDB_IT",
+            "ident": "TRP",
+            "name": "Trapani",
+            "type": "NDB",
+            "frequency_khz": "318",
+            "latitude_deg": "37.91429901123047",
+            "longitude_deg": "12.493000030517578",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.387",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LICT"
+        }
+    ]
 }

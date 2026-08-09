@@ -101,5 +101,29 @@
         "iso_country": "UA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Donetsk_Oblast",
         "keywords": "Airports in Donetsk Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87490",
+            "filename": "Donetsk_VOR-DME_UA",
+            "ident": "DON",
+            "name": "Donetsk",
+            "type": "VOR-DME",
+            "frequency_khz": "115000",
+            "latitude_deg": "48.071800231933594",
+            "longitude_deg": "37.73590087890625",
+            "elevation_ft": "758",
+            "iso_country": "UA",
+            "dme_frequency_khz": "115000",
+            "dme_channel": "097X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.561",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UA-9862"
+        }
+    ]
 }

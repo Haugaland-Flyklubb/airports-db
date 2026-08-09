@@ -69,5 +69,29 @@
         "iso_country": "SS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Bahr_el_Ghazal",
         "keywords": "Airports in Western Bahr el Ghazal State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95519",
+            "filename": "Wau_NDB_SD",
+            "ident": "Wau_NDB_",
+            "name": "Wau",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "7.723020076751709",
+            "longitude_deg": "27.976499557495117",
+            "elevation_ft": "",
+            "iso_country": "SS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.275",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HSWW"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "NG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kwara_State",
         "keywords": "Airports in Kwara"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89217",
+            "filename": "Ilorin_VOR-DME_NG",
+            "ident": "IL",
+            "name": "Ilorin",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "8.3883695602417",
+            "longitude_deg": "4.430880069732666",
+            "elevation_ft": "1266",
+            "iso_country": "NG",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.484",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DNIL"
+        }
+    ]
 }

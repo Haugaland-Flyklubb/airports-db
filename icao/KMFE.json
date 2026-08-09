@@ -147,5 +147,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90891",
+            "filename": "Missi_NDB_US",
+            "ident": "MF",
+            "name": "Missi",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "26.2539005279541",
+            "longitude_deg": "-98.3104019165039",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.325",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KMFE"
+        },
+        {
+            "id": "90896",
+            "filename": "Mc_Allen_VOR-DME_US",
+            "ident": "MFE",
+            "name": "Mc Allen",
+            "type": "VOR-DME",
+            "frequency_khz": "117200",
+            "latitude_deg": "26.173900604248047",
+            "longitude_deg": "-98.24079895019531",
+            "elevation_ft": "100",
+            "iso_country": "US",
+            "dme_frequency_khz": "117200",
+            "dme_channel": "119X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.012",
+            "magnetic_variation_deg": "5.305",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KMFE"
+        }
+    ]
 }

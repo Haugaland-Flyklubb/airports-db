@@ -99,5 +99,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
         "keywords": "Bretagne"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87383",
+            "filename": "Dinard_VOR-DME_FR",
+            "ident": "DIN",
+            "name": "Dinard",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "48.58610153198242",
+            "longitude_deg": "-2.0823299884796143",
+            "elevation_ft": "213",
+            "iso_country": "FR",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-2.34",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFRD"
+        }
+    ]
 }

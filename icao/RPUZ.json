@@ -69,5 +69,29 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nueva_Vizcaya_Province",
         "keywords": "Airports in Nueva Vizcaya Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85771",
+            "filename": "Bagabag_NDB_PH",
+            "ident": "BA",
+            "name": "Bagabag",
+            "type": "NDB",
+            "frequency_khz": "339",
+            "latitude_deg": "16.617900848388672",
+            "longitude_deg": "121.25299835205078",
+            "elevation_ft": "",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.453",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPUZ"
+        }
+    ]
 }

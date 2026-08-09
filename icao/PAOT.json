@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88827",
+            "filename": "Hotham_NDB_US",
+            "ident": "HHM",
+            "name": "Hotham",
+            "type": "NDB",
+            "frequency_khz": "356",
+            "latitude_deg": "66.90129852294922",
+            "longitude_deg": "-162.56399536132812",
+            "elevation_ft": "163",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.468",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PAOT"
+        },
+        {
+            "id": "92147",
+            "filename": "Kotzebue_VOR-DME_US",
+            "ident": "OTZ",
+            "name": "Kotzebue",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "66.88569641113281",
+            "longitude_deg": "-162.5399932861328",
+            "elevation_ft": "120",
+            "iso_country": "US",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "19.001",
+            "magnetic_variation_deg": "15.499",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAOT"
+        }
+    ]
 }

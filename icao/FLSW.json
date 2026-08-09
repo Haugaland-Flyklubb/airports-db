@@ -59,5 +59,29 @@
         "iso_country": "ZM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwestern_Province_(Zambia)",
         "keywords": "Airports in North-Western Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94089",
+            "filename": "Solwezi_NDB_ZM",
+            "ident": "SW",
+            "name": "Solwezi",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "-12.171600341796875",
+            "longitude_deg": "26.366500854492188",
+            "elevation_ft": "",
+            "iso_country": "ZM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.464",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FLSW"
+        }
+    ]
 }

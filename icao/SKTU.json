@@ -35,5 +35,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Antioquía_Department",
         "keywords": "Airports in Antioquía Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94679",
+            "filename": "Turbo_NDB_CO",
+            "ident": "TUR",
+            "name": "Turbo",
+            "type": "NDB",
+            "frequency_khz": "352",
+            "latitude_deg": "8.073249816894531",
+            "longitude_deg": "-76.73660278320312",
+            "elevation_ft": "7",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.267",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SKTU"
+        }
+    ]
 }

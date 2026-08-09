@@ -85,5 +85,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hesse",
         "keywords": "Hessen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88186",
+            "filename": "Fritzlar_NDB_DE",
+            "ident": "FTZ",
+            "name": "Fritzlar",
+            "type": "NDB",
+            "frequency_khz": "468",
+            "latitude_deg": "51.08430099487305",
+            "longitude_deg": "9.415240287780762",
+            "elevation_ft": "1096",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.592",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ETHF"
+        }
+    ]
 }

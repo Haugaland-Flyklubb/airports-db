@@ -81,5 +81,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chubut_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "89556",
+            "filename": "Jose_De_San_Martin_NDB_AR",
+            "ident": "JSM",
+            "name": "Jose De San Martin",
+            "type": "NDB",
+            "frequency_khz": "250",
+            "latitude_deg": "-44.058101654052734",
+            "longitude_deg": "-70.43440246582031",
+            "elevation_ft": "2398",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.01",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAWS"
+        }
+    ]
 }

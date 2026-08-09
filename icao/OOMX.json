@@ -81,5 +81,51 @@
         "iso_country": "OM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dhofar_Governorate",
         "keywords": "الداخلية‎"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91248",
+            "filename": "Marmul_VOR-DME_OM",
+            "ident": "MRL",
+            "name": "Marmul",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "18.142200469970703",
+            "longitude_deg": "55.17789840698242",
+            "elevation_ft": "920",
+            "iso_country": "OM",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.25",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OOMX"
+        },
+        {
+            "id": "91833",
+            "filename": "Marmul_NDB_OM",
+            "ident": "OA",
+            "name": "Marmul",
+            "type": "NDB",
+            "frequency_khz": "337",
+            "latitude_deg": "18.16670036315918",
+            "longitude_deg": "55.233299255371094",
+            "elevation_ft": "890",
+            "iso_country": "OM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.238",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OOMX"
+        }
+    ]
 }

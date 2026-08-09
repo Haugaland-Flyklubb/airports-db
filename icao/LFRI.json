@@ -77,5 +77,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pays-de-la-Loire",
         "keywords": "Airports in Pays-de-la-Loire"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95758",
+            "filename": "La_Roche_Sur_Yon_NDB_FR",
+            "ident": "YN",
+            "name": "La Roche Sur Yon",
+            "type": "NDB",
+            "frequency_khz": "334",
+            "latitude_deg": "46.6890983581543",
+            "longitude_deg": "-1.2863099575042725",
+            "elevation_ft": "302",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.029",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFRI"
+        }
+    ]
 }

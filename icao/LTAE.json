@@ -85,5 +85,29 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ankara_Province",
         "keywords": "Airports in Ankara Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96037",
+            "filename": "Akinci_TACAN_TR",
+            "ident": "ZIR",
+            "name": "Akinci",
+            "type": "TACAN",
+            "frequency_khz": "114500",
+            "latitude_deg": "40.08620071411133",
+            "longitude_deg": "32.57600021362305",
+            "elevation_ft": "2812",
+            "iso_country": "TR",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.32",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTAE"
+        }
+    ]
 }

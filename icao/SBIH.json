@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95871",
+            "filename": "Itaituba_NDB_BR",
+            "ident": "YUB",
+            "name": "Itaituba",
+            "type": "NDB",
+            "frequency_khz": "250",
+            "latitude_deg": "-4.240499973297119",
+            "longitude_deg": "-56.00469970703125",
+            "elevation_ft": "110",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.36",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBIH"
+        }
+    ]
 }

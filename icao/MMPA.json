@@ -69,5 +69,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Veracruz",
         "keywords": "Airports in Veracruz"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92285",
+            "filename": "Poza_Rica_VOR-DME_MX",
+            "ident": "PAZ",
+            "name": "Poza Rica",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "20.60059928894043",
+            "longitude_deg": "-97.4551010131836",
+            "elevation_ft": "497",
+            "iso_country": "MX",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.004",
+            "magnetic_variation_deg": "5.168",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMPA"
+        }
+    ]
 }

@@ -107,5 +107,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86574",
+            "filename": "Carney_NDB_US",
+            "ident": "CAN",
+            "name": "Carney",
+            "type": "NDB",
+            "frequency_khz": "274",
+            "latitude_deg": "47.41059875488281",
+            "longitude_deg": "-122.83899688720703",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.425",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KPWT"
+        },
+        {
+            "id": "92839",
+            "filename": "Kitsap_NDB_US",
+            "ident": "PWT",
+            "name": "Kitsap",
+            "type": "NDB",
+            "frequency_khz": "206",
+            "latitude_deg": "47.4922981262207",
+            "longitude_deg": "-122.75700378417969",
+            "elevation_ft": "492",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.432",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KPWT"
+        }
+    ]
 }

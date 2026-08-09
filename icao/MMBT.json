@@ -69,5 +69,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oaxaca",
         "keywords": "Airports in Oaxaca"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89054",
+            "filename": "Huatulco_VOR-DME_MX",
+            "ident": "HUX",
+            "name": "Huatulco",
+            "type": "VOR-DME",
+            "frequency_khz": "113200",
+            "latitude_deg": "15.777799606323242",
+            "longitude_deg": "-96.26139831542969",
+            "elevation_ft": "464",
+            "iso_country": "MX",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.005",
+            "magnetic_variation_deg": "5.049",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMBT"
+        }
+    ]
 }

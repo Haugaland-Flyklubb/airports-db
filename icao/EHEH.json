@@ -117,5 +117,29 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Brabant",
         "keywords": "Airports in Noord-Brabant"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87693",
+            "filename": "Eindhoven_TACAN_NL",
+            "ident": "EHV",
+            "name": "Eindhoven",
+            "type": "TACAN",
+            "frequency_khz": "117200",
+            "latitude_deg": "51.44810104370117",
+            "longitude_deg": "5.375",
+            "elevation_ft": "81",
+            "iso_country": "NL",
+            "dme_frequency_khz": "117200",
+            "dme_channel": "119X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-0.196",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EHEH"
+        }
+    ]
 }

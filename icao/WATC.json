@@ -69,5 +69,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur",
         "keywords": "Airports in Nusa Tenggara Timur"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91160",
+            "filename": "Maumere_VOR-DME_ID",
+            "ident": "MOF",
+            "name": "Maumere",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "-8.645689964294434",
+            "longitude_deg": "122.24199676513672",
+            "elevation_ft": "115",
+            "iso_country": "ID",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.011",
+            "magnetic_variation_deg": "2.061",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WATC"
+        },
+        {
+            "id": "91652",
+            "filename": "Maumere_NDB_ID",
+            "ident": "NO",
+            "name": "Maumere",
+            "type": "NDB",
+            "frequency_khz": "250",
+            "latitude_deg": "-8.635459899902344",
+            "longitude_deg": "122.23600006103516",
+            "elevation_ft": "115",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.06",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WATC"
+        }
+    ]
 }

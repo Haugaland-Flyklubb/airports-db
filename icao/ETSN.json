@@ -101,5 +101,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
         "keywords": "Bayern"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91515",
+            "filename": "Neuburg_TACAN_DE",
+            "ident": "NEU",
+            "name": "Neuburg",
+            "type": "TACAN",
+            "frequency_khz": "108900",
+            "latitude_deg": "48.712501525878906",
+            "longitude_deg": "11.211000442504883",
+            "elevation_ft": "1296",
+            "iso_country": "DE",
+            "dme_frequency_khz": "108900",
+            "dme_channel": "026X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.327",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETSN"
+        }
+    ]
 }

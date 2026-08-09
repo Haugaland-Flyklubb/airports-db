@@ -69,5 +69,29 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zaire_Province",
         "keywords": "Airports in Zaire Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85858",
+            "filename": "Mbanza_Congo_NDB_AO",
+            "ident": "BC",
+            "name": "Mbanza Congo",
+            "type": "NDB",
+            "frequency_khz": "205",
+            "latitude_deg": "-6.266670227050781",
+            "longitude_deg": "14.25",
+            "elevation_ft": "1860",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.118",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNBC"
+        }
+    ]
 }

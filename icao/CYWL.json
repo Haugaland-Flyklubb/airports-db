@@ -109,5 +109,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95893",
+            "filename": "Williams_Lake_VORTAC_CA",
+            "ident": "YWL",
+            "name": "Williams Lake",
+            "type": "VORTAC",
+            "frequency_khz": "113600",
+            "latitude_deg": "52.236900329589844",
+            "longitude_deg": "-122.16999816894531",
+            "elevation_ft": "3662",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "23.001",
+            "magnetic_variation_deg": "19.207",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYWL"
+        }
+    ]
 }

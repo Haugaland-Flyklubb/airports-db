@@ -115,5 +115,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86702",
+            "filename": "Cranfield_VOR_GB",
+            "ident": "CFD",
+            "name": "Cranfield",
+            "type": "VOR",
+            "frequency_khz": "116500",
+            "latitude_deg": "52.07419967651367",
+            "longitude_deg": "-0.6107919812202454",
+            "elevation_ft": "357",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.001",
+            "magnetic_variation_deg": "-2.331",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGTC"
+        }
+    ]
 }

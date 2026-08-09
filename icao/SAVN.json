@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/R%C3%ADo_Negro_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "93380",
+            "filename": "San_Antonio_Oeste_NDB_AR",
+            "ident": "SAN",
+            "name": "San Antonio Oeste",
+            "type": "NDB",
+            "frequency_khz": "220",
+            "latitude_deg": "-40.76470184326172",
+            "longitude_deg": "-65.0342025756836",
+            "elevation_ft": "85",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.299",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SAVN"
+        }
+    ]
 }

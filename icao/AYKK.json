@@ -35,5 +35,29 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gulf_Province",
         "keywords": "Airports in Gulf Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89796",
+            "filename": "Kikori_NDB_PG",
+            "ident": "KIK",
+            "name": "Kikori",
+            "type": "NDB",
+            "frequency_khz": "308",
+            "latitude_deg": "-7.4274702072143555",
+            "longitude_deg": "144.25100708007812",
+            "elevation_ft": "",
+            "iso_country": "PG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.277",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "AYKK"
+        }
+    ]
 }

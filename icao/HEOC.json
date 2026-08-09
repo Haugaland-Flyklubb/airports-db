@@ -77,5 +77,29 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cairo_Governorate",
         "keywords": "Airports in Cairo Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91883",
+            "filename": "October_NDB_EG",
+            "ident": "OCT",
+            "name": "October",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "29.811199188232422",
+            "longitude_deg": "30.830299377441406",
+            "elevation_ft": "840",
+            "iso_country": "EG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.17",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "HEOC"
+        }
+    ]
 }

@@ -107,5 +107,29 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Bohemian_Region",
         "keywords": "Středočeský kraj"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86699",
+            "filename": "Caslav_NDB_CZ",
+            "ident": "CF",
+            "name": "Caslav",
+            "type": "NDB",
+            "frequency_khz": "346",
+            "latitude_deg": "49.90399932861328",
+            "longitude_deg": "15.432900428771973",
+            "elevation_ft": "",
+            "iso_country": "CZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.401",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LKCV"
+        }
+    ]
 }

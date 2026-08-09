@@ -85,5 +85,51 @@
         "iso_country": "GH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Greater_Accra_Region",
         "keywords": "Airports in Greater Accra Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85171",
+            "filename": "Accra_NDB_GH",
+            "ident": "AA",
+            "name": "Accra",
+            "type": "NDB",
+            "frequency_khz": "409",
+            "latitude_deg": "5.6761698722839355",
+            "longitude_deg": "-0.13803300261497498",
+            "elevation_ft": "",
+            "iso_country": "GH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.416",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "DGAA"
+        },
+        {
+            "id": "85228",
+            "filename": "Accra_VOR-DME_GH",
+            "ident": "ACC",
+            "name": "Accra",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "5.634109973907471",
+            "longitude_deg": "-0.15534399449825287",
+            "elevation_ft": "205",
+            "iso_country": "GH",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.009",
+            "magnetic_variation_deg": "-4.426",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DGAA"
+        }
+    ]
 }

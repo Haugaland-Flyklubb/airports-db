@@ -69,5 +69,29 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sucre_(state)",
         "keywords": "Airports in Sucre State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88629",
+            "filename": "Guiria_NDB_VE",
+            "ident": "GUI",
+            "name": "Guiria",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "10.571200370788574",
+            "longitude_deg": "-62.3109016418457",
+            "elevation_ft": "59",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.467",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "SVGI"
+        }
+    ]
 }

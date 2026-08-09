@@ -77,5 +77,51 @@
         "iso_country": "SN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ziguinchor_Region",
         "keywords": "Basse Casamance"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94148",
+            "filename": "Ziguinchor_NDB_SN",
+            "ident": "SZR",
+            "name": "Ziguinchor",
+            "type": "NDB",
+            "frequency_khz": "334",
+            "latitude_deg": "12.55620002746582",
+            "longitude_deg": "-16.26689910888672",
+            "elevation_ft": "134",
+            "iso_country": "SN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.48",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "GOGG"
+        },
+        {
+            "id": "96015",
+            "filename": "Ziguinchor_VOR_SN",
+            "ident": "ZG",
+            "name": "Ziguinchor",
+            "type": "VOR",
+            "frequency_khz": "112500",
+            "latitude_deg": "12.557499885559082",
+            "longitude_deg": "-16.272600173950195",
+            "elevation_ft": "91",
+            "iso_country": "SN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.482",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GOGG"
+        }
+    ]
 }

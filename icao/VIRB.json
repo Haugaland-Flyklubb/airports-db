@@ -85,5 +85,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
         "keywords": "Airports in Uttar Pradesh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88126",
+            "filename": "Fursatganj_VOR-DME_IN",
+            "ident": "FSG",
+            "name": "Fursatganj",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "26.2507991791",
+            "longitude_deg": "81.3777999878",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.046",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "VIRB"
+        }
+    ]
 }

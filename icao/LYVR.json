@@ -129,5 +129,51 @@
         "iso_country": "RS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Banat_District",
         "keywords": "Airports in South Banat District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95034",
+            "filename": "Vrsac_VOR_RS",
+            "ident": "VAC",
+            "name": "Vrsac",
+            "type": "VOR",
+            "frequency_khz": "115600",
+            "latitude_deg": "45.13690185546875",
+            "longitude_deg": "21.305999755859375",
+            "elevation_ft": "276",
+            "iso_country": "RS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.353",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LYVR"
+        },
+        {
+            "id": "95265",
+            "filename": "Vrsac_NDB_RS",
+            "ident": "VRA",
+            "name": "Vrsac",
+            "type": "NDB",
+            "frequency_khz": "294",
+            "latitude_deg": "45.08769989013672",
+            "longitude_deg": "21.291200637817383",
+            "elevation_ft": "",
+            "iso_country": "RS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.349",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LYVR"
+        }
+    ]
 }

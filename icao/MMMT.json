@@ -69,5 +69,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Veracruz",
         "keywords": "Airports in Veracruz"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91340",
+            "filename": "Minatitlan_VOR-DME_MX",
+            "ident": "MTT",
+            "name": "Minatitlan",
+            "type": "VOR-DME",
+            "frequency_khz": "116400",
+            "latitude_deg": "18.1028995513916",
+            "longitude_deg": "-94.5822982788086",
+            "elevation_ft": "36",
+            "iso_country": "MX",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.001",
+            "magnetic_variation_deg": "4.097",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMMT"
+        }
+    ]
 }

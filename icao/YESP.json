@@ -99,5 +99,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87838",
+            "filename": "Esperance_VOR-DME_AU",
+            "ident": "ESP",
+            "name": "Esperance",
+            "type": "VOR-DME",
+            "frequency_khz": "114200",
+            "latitude_deg": "-33.680599212646484",
+            "longitude_deg": "121.8239974975586",
+            "elevation_ft": "460",
+            "iso_country": "AU",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "-33.6786",
+            "dme_longitude_deg": "121.822",
+            "dme_elevation_ft": "460",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.36",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YESP"
+        },
+        {
+            "id": "87839",
+            "filename": "Esperance_NDB_AU",
+            "ident": "ESP",
+            "name": "Esperance",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "-33.6869010925293",
+            "longitude_deg": "121.8270034790039",
+            "elevation_ft": "470",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.36",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YESP"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Occidental_Mindoro",
         "keywords": "Airports in Occidental Mindoro Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90207",
+            "filename": "Lubang_VOR-DME_PH",
+            "ident": "LBG",
+            "name": "Lubang",
+            "type": "VOR-DME",
+            "frequency_khz": "117500",
+            "latitude_deg": "13.854100227355957",
+            "longitude_deg": "120.10700225830078",
+            "elevation_ft": "43",
+            "iso_country": "PH",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-1.085",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPLU"
+        }
+    ]
 }

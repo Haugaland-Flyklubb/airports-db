@@ -101,5 +101,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
         "keywords": "Airports in North Carolina"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94733",
+            "filename": "Tar_River_VORTAC_US",
+            "ident": "TYI",
+            "name": "Tar River",
+            "type": "VORTAC",
+            "frequency_khz": "117800",
+            "latitude_deg": "35.97669982910156",
+            "longitude_deg": "-77.70379638671875",
+            "elevation_ft": "70",
+            "iso_country": "US",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.001",
+            "magnetic_variation_deg": "-9.26",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KRWI"
+        }
+    ]
 }

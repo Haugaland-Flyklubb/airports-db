@@ -59,5 +59,29 @@
         "iso_country": "ML",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kayes_Region",
         "keywords": "Airports in Kayes Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91654",
+            "filename": "Nioro_NDB_ML",
+            "ident": "NO",
+            "name": "Nioro",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "15.23390007019043",
+            "longitude_deg": "-9.58372974395752",
+            "elevation_ft": "",
+            "iso_country": "ML",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.307",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "GANR"
+        }
+    ]
 }

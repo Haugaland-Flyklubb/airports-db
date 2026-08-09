@@ -131,5 +131,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
         "keywords": "Airports in Kansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87157",
+            "filename": "Cavalry_NDB_US",
+            "ident": "CVY",
+            "name": "Cavalry",
+            "type": "NDB",
+            "frequency_khz": "314",
+            "latitude_deg": "39.0260009765625",
+            "longitude_deg": "-96.79450225830078",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.322",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KFRI"
+        },
+        {
+            "id": "88137",
+            "filename": "Fort_Riley_VOR_US",
+            "ident": "FRI",
+            "name": "Fort Riley",
+            "type": "VOR",
+            "frequency_khz": "109400",
+            "latitude_deg": "38.97019958496094",
+            "longitude_deg": "-96.86100006103516",
+            "elevation_ft": "1240",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.004",
+            "magnetic_variation_deg": "4.351",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KFRI"
+        }
+    ]
 }

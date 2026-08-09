@@ -77,5 +77,29 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wellington_Region",
         "keywords": "Airports in Wellington Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86786",
+            "filename": "Chatham_Islands_NDB_NZ",
+            "ident": "CI",
+            "name": "Chatham Islands",
+            "type": "NDB",
+            "frequency_khz": "322",
+            "latitude_deg": "-43.957000732421875",
+            "longitude_deg": "-176.5659942626953",
+            "elevation_ft": "",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "24.403",
+            "usageType": "RNAV",
+            "power": "MEDIUM",
+            "associated_airport": "NZCI"
+        }
+    ]
 }

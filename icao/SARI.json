@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Misiones_Province",
         "keywords": "Airports in Misiones Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89183",
+            "filename": "Cataratas_Del_Iguazu_VOR-DME_AR",
+            "ident": "IGU",
+            "name": "Cataratas Del Iguazu",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "-25.734500885009766",
+            "longitude_deg": "-54.48569869995117",
+            "elevation_ft": "935",
+            "iso_country": "AR",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-12.007",
+            "magnetic_variation_deg": "-14.157",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SARI"
+        }
+    ]
 }

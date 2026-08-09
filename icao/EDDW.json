@@ -147,5 +147,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bremen",
         "keywords": "Airports in Bremen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86184",
+            "filename": "Bremen_VOR-DME_DE",
+            "ident": "BMN",
+            "name": "Bremen",
+            "type": "VOR-DME",
+            "frequency_khz": "117450",
+            "latitude_deg": "53.04399871826172",
+            "longitude_deg": "8.782139778137207",
+            "elevation_ft": "40",
+            "iso_country": "DE",
+            "dme_frequency_khz": "117450",
+            "dme_channel": "121Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.009",
+            "magnetic_variation_deg": "0.424",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EDDW"
+        }
+    ]
 }

@@ -121,5 +121,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
         "keywords": "Bretagne"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91079",
+            "filename": "Morlaix_NDB_FR",
+            "ident": "MLX",
+            "name": "Morlaix",
+            "type": "NDB",
+            "frequency_khz": "371",
+            "latitude_deg": "48.64670181274414",
+            "longitude_deg": "-3.7626900672912598",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.112",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFRU"
+        }
+    ]
 }

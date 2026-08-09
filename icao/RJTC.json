@@ -59,5 +59,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tokyo",
         "keywords": "Kanto"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94466",
+            "filename": "Shin-Tachikawa_NDB_JP",
+            "ident": "TN",
+            "name": "Shin-Tachikawa",
+            "type": "NDB",
+            "frequency_khz": "366",
+            "latitude_deg": "35.718299865722656",
+            "longitude_deg": "139.39999389648438",
+            "elevation_ft": "313",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.591",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "RJTC"
+        }
+    ]
 }

@@ -85,5 +85,29 @@
         "iso_country": "TD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/N%27Djamena",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "88030",
+            "filename": "Ndjamena_VOR-DME_TD",
+            "ident": "FL",
+            "name": "Ndjamena",
+            "type": "VOR-DME",
+            "frequency_khz": "115300",
+            "latitude_deg": "12.14169979095459",
+            "longitude_deg": "15.038299560546875",
+            "elevation_ft": "994",
+            "iso_country": "TD",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.048",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FTTJ"
+        }
+    ]
 }

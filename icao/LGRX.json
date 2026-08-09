@@ -115,5 +115,51 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Greece",
         "keywords": "Airports in Western Greece"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85568",
+            "filename": "Araxos_VOR-DME_GR",
+            "ident": "ARA",
+            "name": "Araxos",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "38.10969924926758",
+            "longitude_deg": "21.42530059814453",
+            "elevation_ft": "56",
+            "iso_country": "GR",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.599",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LGRX"
+        },
+        {
+            "id": "85604",
+            "filename": "Araxos_TACAN_GR",
+            "ident": "ARX",
+            "name": "Araxos",
+            "type": "TACAN",
+            "frequency_khz": "112400",
+            "latitude_deg": "38.10820007324219",
+            "longitude_deg": "21.422700881958008",
+            "elevation_ft": "55",
+            "iso_country": "GR",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.599",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LGRX"
+        }
+    ]
 }

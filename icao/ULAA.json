@@ -85,5 +85,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arkhangelsk_Oblast",
         "keywords": "Airports in Arkhangelsk Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85739",
+            "filename": "Arkhangelsk_NDB_RU",
+            "ident": "AZ",
+            "name": "Arkhangelsk",
+            "type": "NDB",
+            "frequency_khz": "690",
+            "latitude_deg": "64.60669708251953",
+            "longitude_deg": "40.586700439453125",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.055",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ULAA"
+        },
+        {
+            "id": "89859",
+            "filename": "Arkhangelsk_NDB_RU",
+            "ident": "KM",
+            "name": "Arkhangelsk",
+            "type": "NDB",
+            "frequency_khz": "690",
+            "latitude_deg": "64.59500122070312",
+            "longitude_deg": "40.836700439453125",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.108",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ULAA"
+        }
+    ]
 }

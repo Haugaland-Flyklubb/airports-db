@@ -69,5 +69,51 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Ireland_Province",
         "keywords": "Airports in New Ireland Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89665",
+            "filename": "Kavieng_VOR-DME_PG",
+            "ident": "KAV",
+            "name": "Kavieng",
+            "type": "VOR-DME",
+            "frequency_khz": "116400",
+            "latitude_deg": "-2.603830099105835",
+            "longitude_deg": "150.83700561523438",
+            "elevation_ft": "13",
+            "iso_country": "PG",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.011",
+            "magnetic_variation_deg": "6.085",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "AYKV"
+        },
+        {
+            "id": "89667",
+            "filename": "Kavieng_NDB_PG",
+            "ident": "KAV",
+            "name": "Kavieng",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "-2.586509943008423",
+            "longitude_deg": "150.81300354003906",
+            "elevation_ft": "94",
+            "iso_country": "PG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.08",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "AYKV"
+        }
+    ]
 }

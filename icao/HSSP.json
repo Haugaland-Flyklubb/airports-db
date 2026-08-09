@@ -35,5 +35,29 @@
         "iso_country": "SD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Red_Sea_State",
         "keywords": "Airports in Red Sea State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90854",
+            "filename": "Port_Sudan_NDB_SD",
+            "ident": "ME",
+            "name": "Port Sudan",
+            "type": "NDB",
+            "frequency_khz": "346",
+            "latitude_deg": "19.577199935913086",
+            "longitude_deg": "37.217201232910156",
+            "elevation_ft": "",
+            "iso_country": "SD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.409",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "HSSP"
+        }
+    ]
 }

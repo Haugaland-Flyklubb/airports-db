@@ -69,5 +69,29 @@
         "iso_country": "LT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Panev%C4%97%C5%BEys_County",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "92235",
+            "filename": "Pajuostis_NDB_LT",
+            "ident": "PA",
+            "name": "Pajuostis",
+            "type": "NDB",
+            "frequency_khz": "515",
+            "latitude_deg": "55.76110076904297",
+            "longitude_deg": "24.411100387573242",
+            "elevation_ft": "",
+            "iso_country": "LT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.539",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EYPP"
+        }
+    ]
 }

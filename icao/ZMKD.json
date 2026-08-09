@@ -121,5 +121,29 @@
         "iso_country": "MN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khovd_Province",
         "keywords": "Ховд, Kobdo, Hovd"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89419",
+            "filename": "Khovd_NDB_MN",
+            "ident": "JA",
+            "name": "Khovd",
+            "type": "NDB",
+            "frequency_khz": "450",
+            "latitude_deg": "47.908199310302734",
+            "longitude_deg": "91.6552963256836",
+            "elevation_ft": "",
+            "iso_country": "MN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.307",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ZMKD"
+        }
+    ]
 }

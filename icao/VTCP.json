@@ -93,5 +93,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Phrae_province",
         "keywords": "Airports in Phrae Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92247",
+            "filename": "Phrae_VOR-DME_TH",
+            "ident": "PAE",
+            "name": "Phrae",
+            "type": "VOR-DME",
+            "frequency_khz": "111800",
+            "latitude_deg": "18.13409996032715",
+            "longitude_deg": "100.16600036621094",
+            "elevation_ft": "538",
+            "iso_country": "TH",
+            "dme_frequency_khz": "111800",
+            "dme_channel": "055X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-0.442",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTCP"
+        },
+        {
+            "id": "92668",
+            "filename": "Phrae_NDB_TH",
+            "ident": "PR",
+            "name": "Phrae",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "18.129499435424805",
+            "longitude_deg": "100.16100311279297",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.442",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTCP"
+        }
+    ]
 }

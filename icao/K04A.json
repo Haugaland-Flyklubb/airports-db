@@ -69,5 +69,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95544",
+            "filename": "Brantley_NDB_US",
+            "ident": "XBR",
+            "name": "Brantley",
+            "type": "NDB",
+            "frequency_khz": "410",
+            "latitude_deg": "31.561800003051758",
+            "longitude_deg": "-86.29299926757812",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.195",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "K04A"
+        }
+    ]
 }

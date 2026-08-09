@@ -69,5 +69,29 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tanintharyi_Region",
         "keywords": "Airports in Tanintharyi Division"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90014",
+            "filename": "Kawthoung_NDB_MM",
+            "ident": "KT",
+            "name": "Kawthoung",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "10.051799774169922",
+            "longitude_deg": "98.54969787597656",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.351",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYKT"
+        }
+    ]
 }

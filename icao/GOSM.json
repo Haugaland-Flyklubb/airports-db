@@ -59,5 +59,29 @@
         "iso_country": "SN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Matam_Region",
         "keywords": "Airports in Matam Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90706",
+            "filename": "Matam_Ouro_Sogui_NDB_SN",
+            "ident": "MA",
+            "name": "Matam/Ouro Sogui",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "15.586700439453125",
+            "longitude_deg": "-13.312899589538574",
+            "elevation_ft": "144",
+            "iso_country": "SN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.535",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "GOSM"
+        }
+    ]
 }

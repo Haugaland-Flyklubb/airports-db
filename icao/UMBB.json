@@ -69,5 +69,51 @@
         "iso_country": "BY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brest_Region",
         "keywords": "Brèsckaja voblasc'"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86500",
+            "filename": "Brest_NDB_BY",
+            "ident": "BY",
+            "name": "Brest",
+            "type": "NDB",
+            "frequency_khz": "985",
+            "latitude_deg": "52.09000015258789",
+            "longitude_deg": "23.966699600219727",
+            "elevation_ft": "",
+            "iso_country": "BY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.043",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UMBB"
+        },
+        {
+            "id": "86976",
+            "filename": "Brest_NDB_BY",
+            "ident": "CP",
+            "name": "Brest",
+            "type": "NDB",
+            "frequency_khz": "985",
+            "latitude_deg": "52.12670135498047",
+            "longitude_deg": "23.829999923706055",
+            "elevation_ft": "",
+            "iso_country": "BY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.026",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UMBB"
+        }
+    ]
 }

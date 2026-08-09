@@ -35,5 +35,29 @@
         "iso_country": "HN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gracias_a_Dios_Department",
         "keywords": "Airports in Gracias a Dios Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92524",
+            "filename": "Puerto_Lempira_NDB_HN",
+            "ident": "PLP",
+            "name": "Puerto Lempira",
+            "type": "NDB",
+            "frequency_khz": "320",
+            "latitude_deg": "15.259400367736816",
+            "longitude_deg": "-83.77860260009766",
+            "elevation_ft": "74",
+            "iso_country": "HN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.18",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MHPL"
+        }
+    ]
 }

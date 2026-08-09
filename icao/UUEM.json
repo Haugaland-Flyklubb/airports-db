@@ -85,5 +85,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tver_Oblast",
         "keywords": "Airports in Tver Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90051",
+            "filename": "Migalovo_NDB_RU",
+            "ident": "KU",
+            "name": "Migalovo",
+            "type": "NDB",
+            "frequency_khz": "449",
+            "latitude_deg": "56.836700439453125",
+            "longitude_deg": "35.84170150756836",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.382",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "UUEM"
+        },
+        {
+            "id": "91377",
+            "filename": "Migalovo_NDB_RU",
+            "ident": "MW",
+            "name": "Migalovo",
+            "type": "NDB",
+            "frequency_khz": "449",
+            "latitude_deg": "56.81330108642578",
+            "longitude_deg": "35.67829895019531",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.348",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "UUEM"
+        }
+    ]
 }

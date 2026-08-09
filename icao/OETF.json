@@ -139,5 +139,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Makkah_Region",
         "keywords": "Airports in Makkah Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94362",
+            "filename": "Taif_VORTAC_SA",
+            "ident": "TIF",
+            "name": "Taif",
+            "type": "VORTAC",
+            "frequency_khz": "112700",
+            "latitude_deg": "21.486499786376953",
+            "longitude_deg": "40.54719924926758",
+            "elevation_ft": "4757",
+            "iso_country": "SA",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.396",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OETF"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85128",
+            "filename": "Collins_Bay_NDB_CA",
+            "ident": "7F",
+            "name": "Collins Bay",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "58.22829818725586",
+            "longitude_deg": "-103.68299865722656",
+            "elevation_ft": "1340",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.302",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYKC"
+        }
+    ]
 }

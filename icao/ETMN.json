@@ -93,5 +93,51 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
         "keywords": "Niedersachsen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91501",
+            "filename": "Nordholz_TACAN_DE",
+            "ident": "NDO",
+            "name": "Nordholz",
+            "type": "TACAN",
+            "frequency_khz": "117100",
+            "latitude_deg": "53.76900100708008",
+            "longitude_deg": "8.653499603271484",
+            "elevation_ft": "120",
+            "iso_country": "DE",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.002",
+            "magnetic_variation_deg": "0.376",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETMN"
+        },
+        {
+            "id": "91503",
+            "filename": "Nordholz_NDB_DE",
+            "ident": "NDO",
+            "name": "Nordholz",
+            "type": "NDB",
+            "frequency_khz": "372",
+            "latitude_deg": "53.78519821166992",
+            "longitude_deg": "8.806170463562012",
+            "elevation_ft": "72",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.408",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "ETMN"
+        }
+    ]
 }

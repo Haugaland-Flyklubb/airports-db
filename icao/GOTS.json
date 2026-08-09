@@ -35,5 +35,29 @@
         "iso_country": "SN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tambacounda_Region",
         "keywords": "Airports in Tambacounda Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93781",
+            "filename": "Simenti_NDB_SN",
+            "ident": "SMI",
+            "name": "Simenti",
+            "type": "NDB",
+            "frequency_khz": "314",
+            "latitude_deg": "13.049599647521973",
+            "longitude_deg": "-13.299799919128418",
+            "elevation_ft": "230",
+            "iso_country": "SN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.252",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "GOTS"
+        }
+    ]
 }

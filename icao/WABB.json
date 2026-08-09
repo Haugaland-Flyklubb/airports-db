@@ -93,5 +93,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
         "keywords": "Airports in Papua"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86053",
+            "filename": "Biak_VOR-DME_ID",
+            "ident": "BIK",
+            "name": "Biak",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "-1.1824599504470825",
+            "longitude_deg": "136.08599853515625",
+            "elevation_ft": "46",
+            "iso_country": "ID",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.107",
+            "magnetic_variation_deg": "2.543",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WABB"
+        },
+        {
+            "id": "96058",
+            "filename": "Biak_NDB_ID",
+            "ident": "ZM",
+            "name": "Biak",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-1.1820399761199951",
+            "longitude_deg": "136.09500122070312",
+            "elevation_ft": "46",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.544",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WABB"
+        }
+    ]
 }

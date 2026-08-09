@@ -99,5 +99,51 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Karelia",
         "keywords": "Airports in North Karelia Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89523",
+            "filename": "Josie_VOR-DME_FI",
+            "ident": "JNS",
+            "name": "Josie",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "62.660499572753906",
+            "longitude_deg": "29.61050033569336",
+            "elevation_ft": "413",
+            "iso_country": "FI",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.007",
+            "magnetic_variation_deg": "9.455",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EFJO"
+        },
+        {
+            "id": "89528",
+            "filename": "Joensuu_NDB_FI",
+            "ident": "JOE",
+            "name": "Joensuu",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "62.686100006103516",
+            "longitude_deg": "29.47209930419922",
+            "elevation_ft": "",
+            "iso_country": "FI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.427",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EFJO"
+        }
+    ]
 }

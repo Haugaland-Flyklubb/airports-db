@@ -101,5 +101,51 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balearic_Islands",
         "keywords": "Airports in Baleares, Balearic Islands"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89125",
+            "filename": "Ibiza_VOR-DME_ES",
+            "ident": "IBA",
+            "name": "Ibiza",
+            "type": "VOR-DME",
+            "frequency_khz": "117800",
+            "latitude_deg": "38.86830139160156",
+            "longitude_deg": "1.3659100532531738",
+            "elevation_ft": "30",
+            "iso_country": "ES",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "38.8684",
+            "dme_longitude_deg": "1.36596",
+            "dme_elevation_ft": "30",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.432",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LEIB"
+        },
+        {
+            "id": "89403",
+            "filename": "Ibiza_NDB_ES",
+            "ident": "IZA",
+            "name": "Ibiza",
+            "type": "NDB",
+            "frequency_khz": "394",
+            "latitude_deg": "38.91550064086914",
+            "longitude_deg": "1.4704099893569946",
+            "elevation_ft": "",
+            "iso_country": "ES",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.417",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LEIB"
+        }
+    ]
 }

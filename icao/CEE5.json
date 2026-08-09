@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87621",
+            "filename": "Wabasca_NDB-DME_CA",
+            "ident": "E3",
+            "name": "Wabasca",
+            "type": "NDB-DME",
+            "frequency_khz": "361",
+            "latitude_deg": "55.963600158691406",
+            "longitude_deg": "-113.8239974975586",
+            "elevation_ft": "1840",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110400",
+            "dme_channel": "041X",
+            "dme_latitude_deg": "55.9633",
+            "dme_longitude_deg": "-113.823",
+            "dme_elevation_ft": "1840",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.491",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CEE5"
+        }
+    ]
 }

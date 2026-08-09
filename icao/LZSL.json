@@ -77,5 +77,29 @@
         "iso_country": "SK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Banská_Bystrica_Region",
         "keywords": "Banskobystrický kraj"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93722",
+            "filename": "Sliac_VOR-DME_SK",
+            "ident": "SLC",
+            "name": "Sliac",
+            "type": "VOR-DME",
+            "frequency_khz": "114000",
+            "latitude_deg": "48.45320129394531",
+            "longitude_deg": "19.11590003967285",
+            "elevation_ft": "1670",
+            "iso_country": "SK",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.272",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LZSL"
+        }
+    ]
 }

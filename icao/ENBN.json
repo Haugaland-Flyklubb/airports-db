@@ -69,5 +69,51 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nordland",
         "keywords": "Airports in Nordland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86221",
+            "filename": "Bronnoy_VOR-DME_NO",
+            "ident": "BNN",
+            "name": "Bronnoy",
+            "type": "VOR-DME",
+            "frequency_khz": "115300",
+            "latitude_deg": "65.45709991455078",
+            "longitude_deg": "12.214300155639648",
+            "elevation_ft": "68",
+            "iso_country": "NO",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "1.585",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "ENBN"
+        },
+        {
+            "id": "94894",
+            "filename": "Ulvingen_NDB_NO",
+            "ident": "ULV",
+            "name": "Ulvingen",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "65.63410186767578",
+            "longitude_deg": "12.152899742126465",
+            "elevation_ft": "21",
+            "iso_country": "NO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.568",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ENBN"
+        }
+    ]
 }

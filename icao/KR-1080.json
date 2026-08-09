@@ -85,5 +85,51 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gangwon_Province,_South_Korea",
         "keywords": "Airports in Gangwon Teukbyeoljachi-do"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93455",
+            "filename": "Sokcho_VOR-DME_KR",
+            "ident": "SCH",
+            "name": "Sokcho",
+            "type": "VOR-DME",
+            "frequency_khz": "111000",
+            "latitude_deg": "38.14780044555664",
+            "longitude_deg": "128.6009979248047",
+            "elevation_ft": "49",
+            "iso_country": "KR",
+            "dme_frequency_khz": "111000",
+            "dme_channel": "047X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-8.083",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KR-1080"
+        },
+        {
+            "id": "93669",
+            "filename": "Sokcho_NDB_KR",
+            "ident": "SK",
+            "name": "Sokcho",
+            "type": "NDB",
+            "frequency_khz": "378",
+            "latitude_deg": "38.13610076904297",
+            "longitude_deg": "128.59800720214844",
+            "elevation_ft": "49",
+            "iso_country": "KR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.081",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KR-1080"
+        }
+    ]
 }

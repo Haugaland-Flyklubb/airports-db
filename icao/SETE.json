@@ -69,5 +69,29 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Napo_Province",
         "keywords": "Airports in Napo Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94469",
+            "filename": "Tena_NDB_EC",
+            "ident": "TNA",
+            "name": "Tena",
+            "type": "NDB",
+            "frequency_khz": "465",
+            "latitude_deg": "-0.9841669797897339",
+            "longitude_deg": "-77.82830047607422",
+            "elevation_ft": "1708",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.591",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SETE"
+        }
+    ]
 }

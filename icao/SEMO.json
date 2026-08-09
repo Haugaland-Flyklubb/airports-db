@@ -69,5 +69,29 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pastaza_Province",
         "keywords": "Airports in Pastaza Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91325",
+            "filename": "Montalvo_NDB_EC",
+            "ident": "MTL",
+            "name": "Montalvo",
+            "type": "NDB",
+            "frequency_khz": "331",
+            "latitude_deg": "-2.069999933242798",
+            "longitude_deg": "-76.96890258789062",
+            "elevation_ft": "960",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.215",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SEMO"
+        }
+    ]
 }

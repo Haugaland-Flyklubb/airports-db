@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90994",
+            "filename": "Manjimup_NDB_AU",
+            "ident": "MJM",
+            "name": "Manjimup",
+            "type": "NDB",
+            "frequency_khz": "257",
+            "latitude_deg": "-34.25809860229492",
+            "longitude_deg": "116.12100219726562",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.426",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YMJM"
+        }
+    ]
 }

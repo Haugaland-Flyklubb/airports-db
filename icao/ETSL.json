@@ -93,5 +93,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
         "keywords": "Bayern"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90234",
+            "filename": "Lechfeld_TACAN_DE",
+            "ident": "LCH",
+            "name": "Lechfeld",
+            "type": "TACAN",
+            "frequency_khz": "108800",
+            "latitude_deg": "48.19049835205078",
+            "longitude_deg": "10.859000205993652",
+            "elevation_ft": "1838",
+            "iso_country": "DE",
+            "dme_frequency_khz": "108800",
+            "dme_channel": "025X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.273",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETSL"
+        }
+    ]
 }

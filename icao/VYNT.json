@@ -69,5 +69,29 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mandalay_Region",
         "keywords": "Airports in Mandalay Division"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87707",
+            "filename": "El_NDB_MM",
+            "ident": "EL",
+            "name": "El",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "19.62459945678711",
+            "longitude_deg": "96.19750213623047",
+            "elevation_ft": "302",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.453",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VYNT"
+        }
+    ]
 }

@@ -147,5 +147,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
         "keywords": "Airports in North Carolina"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92597",
+            "filename": "Pope_TACAN_US",
+            "ident": "POB",
+            "name": "Pope",
+            "type": "TACAN",
+            "frequency_khz": "113800",
+            "latitude_deg": "35.16849899291992",
+            "longitude_deg": "-79.01969909667969",
+            "elevation_ft": "240",
+            "iso_country": "US",
+            "dme_frequency_khz": "113800",
+            "dme_channel": "085X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.001",
+            "magnetic_variation_deg": "-8.192",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KPOB"
+        },
+        {
+            "id": "92598",
+            "filename": "Pope_NDB_US",
+            "ident": "POB",
+            "name": "Pope",
+            "type": "NDB",
+            "frequency_khz": "338",
+            "latitude_deg": "35.22679901123047",
+            "longitude_deg": "-78.95439910888672",
+            "elevation_ft": "272",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.228",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KPOB"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Akita",
         "keywords": "Tohoku"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85658",
+            "filename": "Akita_VOR-DME_JP",
+            "ident": "ATE",
+            "name": "Akita",
+            "type": "VOR-DME",
+            "frequency_khz": "116100",
+            "latitude_deg": "39.71160125732422",
+            "longitude_deg": "140.06199645996094",
+            "elevation_ft": "54",
+            "iso_country": "JP",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-8.162",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJSK"
+        },
+        {
+            "id": "94995",
+            "filename": "Yuwa_VOR-DME_JP",
+            "ident": "UWE",
+            "name": "Yuwa",
+            "type": "VOR-DME",
+            "frequency_khz": "110650",
+            "latitude_deg": "39.61709976196289",
+            "longitude_deg": "140.18699645996094",
+            "elevation_ft": "286",
+            "iso_country": "JP",
+            "dme_frequency_khz": "110650",
+            "dme_channel": "043Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-8.132",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "RJSK"
+        }
+    ]
 }

@@ -91,5 +91,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wales",
         "keywords": "Welsh airports, Cymru, Meysydd awyr Cymru"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94098",
+            "filename": "Swansea_NDB_GB",
+            "ident": "SWN",
+            "name": "Swansea",
+            "type": "NDB",
+            "frequency_khz": "321",
+            "latitude_deg": "51.60219955444336",
+            "longitude_deg": "-4.065830230712891",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.49",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGFH"
+        },
+        {
+            "id": "94106",
+            "filename": "Swansea_DME_GB",
+            "ident": "SWZ",
+            "name": "Swansea",
+            "type": "DME",
+            "frequency_khz": "109200",
+            "latitude_deg": "51.603599548339844",
+            "longitude_deg": "-4.065279960632324",
+            "elevation_ft": "299",
+            "iso_country": "GB",
+            "dme_frequency_khz": "109200",
+            "dme_channel": "029X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.49",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "EGFH"
+        }
+    ]
 }

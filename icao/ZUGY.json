@@ -115,5 +115,51 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guizhou",
         "keywords": "Airports in Guizhou Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89501",
+            "filename": "Longli_NDB-DME_CN",
+            "ident": "JK",
+            "name": "Longli",
+            "type": "NDB-DME",
+            "frequency_khz": "311",
+            "latitude_deg": "26.45829963684082",
+            "longitude_deg": "106.9800033569336",
+            "elevation_ft": "3812",
+            "iso_country": "CN",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.518",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ZUGY"
+        },
+        {
+            "id": "90084",
+            "filename": "Guiyang_VOR-DME_CN",
+            "ident": "KWE",
+            "name": "Guiyang",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "26.520000457763672",
+            "longitude_deg": "106.79499816894531",
+            "elevation_ft": "3812",
+            "iso_country": "CN",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.499",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZUGY"
+        }
+    ]
 }

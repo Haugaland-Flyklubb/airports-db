@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88185",
+            "filename": "Fitzroy_Crossing_NDB_AU",
+            "ident": "FTZ",
+            "name": "Fitzroy Crossing",
+            "type": "NDB",
+            "frequency_khz": "407",
+            "latitude_deg": "-18.18470001220703",
+            "longitude_deg": "125.55699920654297",
+            "elevation_ft": "368",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.003",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YFTZ"
+        }
+    ]
 }

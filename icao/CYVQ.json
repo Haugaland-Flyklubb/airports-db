@@ -85,5 +85,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95249",
+            "filename": "Norman_Wells_NDB_CA",
+            "ident": "VQ",
+            "name": "Norman Wells",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "65.25279998779297",
+            "longitude_deg": "-126.66999816894531",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "26.594",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYVQ"
+        },
+        {
+            "id": "95883",
+            "filename": "Norman_Wells_VOR-DME_CA",
+            "ident": "YVQ",
+            "name": "Norman Wells",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "65.26419830322266",
+            "longitude_deg": "-126.7249984741211",
+            "elevation_ft": "257",
+            "iso_country": "CA",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "28.001",
+            "magnetic_variation_deg": "27",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYVQ"
+        }
+    ]
 }

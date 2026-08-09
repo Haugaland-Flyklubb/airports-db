@@ -101,5 +101,29 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Holland",
         "keywords": "Airports in Noord-Holland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88775",
+            "filename": "Den_Helder_VOR-DME_NL",
+            "ident": "HDR",
+            "name": "Den Helder",
+            "type": "VOR-DME",
+            "frequency_khz": "115550",
+            "latitude_deg": "52.906898498535156",
+            "longitude_deg": "4.765830039978027",
+            "elevation_ft": "29",
+            "iso_country": "NL",
+            "dme_frequency_khz": "115550",
+            "dme_channel": "102Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.404",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "EHKD"
+        }
+    ]
 }

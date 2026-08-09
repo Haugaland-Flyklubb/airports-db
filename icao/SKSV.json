@@ -99,5 +99,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Caquetá_Department",
         "keywords": "Airports in Caquetá Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94064",
+            "filename": "San_Vicente_Del_Caguan_VOR-DME_CO",
+            "ident": "SVC",
+            "name": "San Vicente Del Caguan",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "2.148329973220825",
+            "longitude_deg": "-74.76309967041016",
+            "elevation_ft": "922",
+            "iso_country": "CO",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.429",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SKSV"
+        }
+    ]
 }

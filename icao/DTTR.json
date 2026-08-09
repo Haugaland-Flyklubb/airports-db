@@ -59,5 +59,51 @@
         "iso_country": "TN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tataouine_Governorate",
         "keywords": "airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86178",
+            "filename": "El_Borma_NDB_TN",
+            "ident": "BMA",
+            "name": "El Borma",
+            "type": "NDB",
+            "frequency_khz": "405",
+            "latitude_deg": "31.70639991760254",
+            "longitude_deg": "9.234999656677246",
+            "elevation_ft": "",
+            "iso_country": "TN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.496",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DTTR"
+        },
+        {
+            "id": "87636",
+            "filename": "El_Borma_VOR_TN",
+            "ident": "EBA",
+            "name": "El Borma",
+            "type": "VOR",
+            "frequency_khz": "113800",
+            "latitude_deg": "31.705900192260742",
+            "longitude_deg": "9.254670143127441",
+            "elevation_ft": "827",
+            "iso_country": "TN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.497",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DTTR"
+        }
+    ]
 }

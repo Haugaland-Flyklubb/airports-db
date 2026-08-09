@@ -85,5 +85,51 @@
         "iso_country": "CY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Larnaca_District",
         "keywords": "Airports in Larnaca District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90227",
+            "filename": "Larnaca_VOR-DME_CY",
+            "ident": "LCA",
+            "name": "Larnaca",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "34.87329864501953",
+            "longitude_deg": "33.62670135498047",
+            "elevation_ft": "20",
+            "iso_country": "CY",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "3.56",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LCLK"
+        },
+        {
+            "id": "90228",
+            "filename": "Larnaca_NDB_CY",
+            "ident": "LCA",
+            "name": "Larnaca",
+            "type": "NDB",
+            "frequency_khz": "432",
+            "latitude_deg": "34.82170104980469",
+            "longitude_deg": "33.55500030517578",
+            "elevation_ft": "8",
+            "iso_country": "CY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.554",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LCLK"
+        }
+    ]
 }

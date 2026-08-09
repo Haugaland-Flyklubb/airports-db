@@ -69,5 +69,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87032",
+            "filename": "Carajas_VOR-DME_BR",
+            "ident": "CRJ",
+            "name": "Carajas",
+            "type": "VOR-DME",
+            "frequency_khz": "112400",
+            "latitude_deg": "-6.119329929351807",
+            "longitude_deg": "-50.002201080322266",
+            "elevation_ft": "2038",
+            "iso_country": "BR",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-18.007",
+            "magnetic_variation_deg": "-19.295",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBCJ"
+        },
+        {
+            "id": "87033",
+            "filename": "Carajas_NDB_BR",
+            "ident": "CRJ",
+            "name": "Carajas",
+            "type": "NDB",
+            "frequency_khz": "170",
+            "latitude_deg": "-6.111330032348633",
+            "longitude_deg": "-50.00400161743164",
+            "elevation_ft": "2038",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.295",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBCJ"
+        }
+    ]
 }

@@ -107,5 +107,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90268",
+            "filename": "Leigh_Creek_VOR_AU",
+            "ident": "LEC",
+            "name": "Leigh Creek",
+            "type": "VOR",
+            "frequency_khz": "117800",
+            "latitude_deg": "-30.596399307250977",
+            "longitude_deg": "138.4290008544922",
+            "elevation_ft": "856",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.007",
+            "magnetic_variation_deg": "7.212",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YLEC"
+        },
+        {
+            "id": "90269",
+            "filename": "Leigh_Creek_NDB_AU",
+            "ident": "LEC",
+            "name": "Leigh Creek",
+            "type": "NDB",
+            "frequency_khz": "287",
+            "latitude_deg": "-30.598600387573242",
+            "longitude_deg": "138.44200134277344",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.215",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YLEC"
+        }
+    ]
 }

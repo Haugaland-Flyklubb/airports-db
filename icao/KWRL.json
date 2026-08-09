@@ -137,5 +137,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
         "keywords": "Airports in Wyoming"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93136",
+            "filename": "Worland_VOR-DME_US",
+            "ident": "RLY",
+            "name": "Worland",
+            "type": "VOR-DME",
+            "frequency_khz": "114800",
+            "latitude_deg": "43.9640998840332",
+            "longitude_deg": "-107.95099639892578",
+            "elevation_ft": "4190",
+            "iso_country": "US",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "13.007",
+            "magnetic_variation_deg": "11.412",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KWRL"
+        }
+    ]
 }

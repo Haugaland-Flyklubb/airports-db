@@ -59,5 +59,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lazio",
         "keywords": "LZ"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88143",
+            "filename": "Frosinone_VOR-DME_IT",
+            "ident": "FRS",
+            "name": "Frosinone",
+            "type": "VOR-DME",
+            "frequency_khz": "115600",
+            "latitude_deg": "41.6422004699707",
+            "longitude_deg": "13.295000076293945",
+            "elevation_ft": "632",
+            "iso_country": "IT",
+            "dme_frequency_khz": "115600",
+            "dme_channel": "103X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.549",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "LIRH"
+        },
+        {
+            "id": "88145",
+            "filename": "Frosinone_NDB_IT",
+            "ident": "FRS",
+            "name": "Frosinone",
+            "type": "NDB",
+            "frequency_khz": "371",
+            "latitude_deg": "41.64390182495117",
+            "longitude_deg": "13.28969955444336",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.548",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LIRH"
+        }
+    ]
 }

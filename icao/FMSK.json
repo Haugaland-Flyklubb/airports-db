@@ -77,5 +77,29 @@
         "iso_country": "MG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fianarantsoa",
         "keywords": "Airports in Fianarantsoa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95294",
+            "filename": "Manakara_NDB_MG",
+            "ident": "VSR",
+            "name": "Manakara",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "-22.116500854492188",
+            "longitude_deg": "48.02199935913086",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.277",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FMSK"
+        }
+    ]
 }

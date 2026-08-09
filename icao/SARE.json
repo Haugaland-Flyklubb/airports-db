@@ -85,5 +85,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chaco_Province",
         "keywords": "Airports in Chaco Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93632",
+            "filename": "Resistencia_VOR-DME_AR",
+            "ident": "SIS",
+            "name": "Resistencia",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "-27.4468994140625",
+            "longitude_deg": "-59.05720138549805",
+            "elevation_ft": "194",
+            "iso_country": "AR",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.541",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SARE"
+        }
+    ]
 }

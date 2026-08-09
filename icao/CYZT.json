@@ -137,5 +137,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95944",
+            "filename": "Port_Hardy_VORTAC_CA",
+            "ident": "YZT",
+            "name": "Port Hardy",
+            "type": "VORTAC",
+            "frequency_khz": "112000",
+            "latitude_deg": "50.684200286865234",
+            "longitude_deg": "-127.36499786376953",
+            "elevation_ft": "39",
+            "iso_country": "CA",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "23.001",
+            "magnetic_variation_deg": "19.33",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYZT"
+        },
+        {
+            "id": "96118",
+            "filename": "Port_Hardy_NDB_CA",
+            "ident": "ZT",
+            "name": "Port Hardy",
+            "type": "NDB",
+            "frequency_khz": "242",
+            "latitude_deg": "50.69919967651367",
+            "longitude_deg": "-127.427001953125",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "19.337",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYZT"
+        }
+    ]
 }

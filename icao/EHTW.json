@@ -99,5 +99,51 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Overijssel",
         "keywords": "Airports in Overijssel"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94714",
+            "filename": "Twenthe_TACAN_NL",
+            "ident": "TWN",
+            "name": "Twenthe",
+            "type": "TACAN",
+            "frequency_khz": "110700",
+            "latitude_deg": "52.27450180053711",
+            "longitude_deg": "6.8915300369262695",
+            "elevation_ft": "114",
+            "iso_country": "NL",
+            "dme_frequency_khz": "110700",
+            "dme_channel": "044X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.106",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EHTW"
+        },
+        {
+            "id": "94715",
+            "filename": "Twenthe_NDB_NL",
+            "ident": "TWN",
+            "name": "Twenthe",
+            "type": "NDB",
+            "frequency_khz": "336",
+            "latitude_deg": "52.26789855957031",
+            "longitude_deg": "6.876160144805908",
+            "elevation_ft": "98",
+            "iso_country": "NL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.068",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EHTW"
+        }
+    ]
 }

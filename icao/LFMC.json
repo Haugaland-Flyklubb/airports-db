@@ -115,5 +115,51 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
         "keywords": "Airports in Provence-Alpes-Côte-d'Azur"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90582",
+            "filename": "Le_Luc_NDB_FR",
+            "ident": "LU",
+            "name": "Le Luc",
+            "type": "NDB",
+            "frequency_khz": "378",
+            "latitude_deg": "43.38690185546875",
+            "longitude_deg": "6.525169849395752",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.277",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFMC"
+        },
+        {
+            "id": "90594",
+            "filename": "Le_Luc_VOR-DME_FR",
+            "ident": "LUC",
+            "name": "Le Luc",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "43.3828010559082",
+            "longitude_deg": "6.255919933319092",
+            "elevation_ft": "266",
+            "iso_country": "FR",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.237",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFMC"
+        }
+    ]
 }

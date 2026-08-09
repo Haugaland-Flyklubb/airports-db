@@ -115,5 +115,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89272",
+            "filename": "Wink_VORTAC_US",
+            "ident": "INK",
+            "name": "Wink",
+            "type": "VORTAC",
+            "frequency_khz": "112100",
+            "latitude_deg": "31.874799728393555",
+            "longitude_deg": "-103.24400329589844",
+            "elevation_ft": "2860",
+            "iso_country": "US",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.012",
+            "magnetic_variation_deg": "8.032",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KINK"
+        }
+    ]
 }

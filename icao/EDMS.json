@@ -101,5 +101,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
         "keywords": "Bayern"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93025",
+            "filename": "Roding_VOR-DME_DE",
+            "ident": "RDG",
+            "name": "Roding",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "49.040298461899994",
+            "longitude_deg": "12.5264997482",
+            "elevation_ft": "2172",
+            "iso_country": "DE",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0",
+            "magnetic_variation_deg": "1.5",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EDMS"
+        }
+    ]
 }

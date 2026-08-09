@@ -81,5 +81,29 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zlín_Region",
         "keywords": "Zlínský kraj"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88896",
+            "filename": "Holesov_NDB_CZ",
+            "ident": "HLV",
+            "name": "Holesov",
+            "type": "NDB",
+            "frequency_khz": "448",
+            "latitude_deg": "49.322898864746094",
+            "longitude_deg": "17.528400421142578",
+            "elevation_ft": "",
+            "iso_country": "CZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.093",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CZ-0268"
+        }
+    ]
 }

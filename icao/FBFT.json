@@ -121,5 +121,29 @@
         "iso_country": "BW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Francistown",
         "keywords": "Airports in Francistown (city)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88182",
+            "filename": "Francistown_VOR-DME_BW",
+            "ident": "FTV",
+            "name": "Francistown",
+            "type": "VOR-DME",
+            "frequency_khz": "112400",
+            "latitude_deg": "-21.162599563598633",
+            "longitude_deg": "27.473899841308594",
+            "elevation_ft": "3300",
+            "iso_country": "BW",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.007",
+            "magnetic_variation_deg": "-11.197",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FBFT"
+        }
+    ]
 }

@@ -125,5 +125,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
         "keywords": "Airports in West Virginia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86824",
+            "filename": "Clarksburg_VOR-DME_US",
+            "ident": "CKB",
+            "name": "Clarksburg",
+            "type": "VOR-DME",
+            "frequency_khz": "112600",
+            "latitude_deg": "39.25320053100586",
+            "longitude_deg": "-80.26789855957031",
+            "elevation_ft": "1430",
+            "iso_country": "US",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.001",
+            "magnetic_variation_deg": "-8.276",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KCKB"
+        }
+    ]
 }

@@ -85,5 +85,51 @@
         "iso_country": "MR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nouakchott_Region",
         "keywords": "Airports in Nouakchott Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89688",
+            "filename": "Nouakchott_VOR-DME_MR",
+            "ident": "KC",
+            "name": "Nouakchott",
+            "type": "VOR-DME",
+            "frequency_khz": "115600",
+            "latitude_deg": "18.0916",
+            "longitude_deg": "-15.9483",
+            "elevation_ft": "6",
+            "iso_country": "MR",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "18.0899",
+            "dme_longitude_deg": "-15.9559",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.3",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MR-0013"
+        },
+        {
+            "id": "91548",
+            "filename": "Nouakchott_NDB_MR",
+            "ident": "NH",
+            "name": "Nouakchott",
+            "type": "NDB",
+            "frequency_khz": "297",
+            "latitude_deg": "18.079299926757812",
+            "longitude_deg": "-15.963199615478516",
+            "elevation_ft": "",
+            "iso_country": "MR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.315",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "MR-0013"
+        }
+    ]
 }

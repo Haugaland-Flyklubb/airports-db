@@ -101,5 +101,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89037",
+            "filename": "Redstone_NDB_US",
+            "ident": "HUA",
+            "name": "Redstone",
+            "type": "NDB",
+            "frequency_khz": "287",
+            "latitude_deg": "34.69850158691406",
+            "longitude_deg": "-86.68800354003906",
+            "elevation_ft": "676",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.321",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KHUA"
+        },
+        {
+            "id": "93229",
+            "filename": "Rocket_VORTAC_US",
+            "ident": "RQZ",
+            "name": "Rocket",
+            "type": "VORTAC",
+            "frequency_khz": "112200",
+            "latitude_deg": "34.79710006713867",
+            "longitude_deg": "-86.63390350341797",
+            "elevation_ft": "1200",
+            "iso_country": "US",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "-2.355",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KHUA"
+        }
+    ]
 }

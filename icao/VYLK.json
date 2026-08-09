@@ -69,5 +69,29 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kayah_State",
         "keywords": "Airports in Kayah State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90372",
+            "filename": "Loikaw_NDB_MM",
+            "ident": "LK",
+            "name": "Loikaw",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "19.692800521850586",
+            "longitude_deg": "97.21630096435547",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.447",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VYLK"
+        }
+    ]
 }

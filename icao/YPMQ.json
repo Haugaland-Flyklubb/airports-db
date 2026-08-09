@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92544",
+            "filename": "Port_Macquarie_NDB_AU",
+            "ident": "PMQ",
+            "name": "Port Macquarie",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "-31.43560028076172",
+            "longitude_deg": "152.86700439453125",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.176",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YPMQ"
+        }
+    ]
 }

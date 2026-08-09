@@ -85,5 +85,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88632",
+            "filename": "Gallup_VORTAC_US",
+            "ident": "GUP",
+            "name": "Gallup",
+            "type": "VORTAC",
+            "frequency_khz": "115100",
+            "latitude_deg": "35.47600173950195",
+            "longitude_deg": "-108.87300109863281",
+            "elevation_ft": "7053",
+            "iso_country": "US",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.001",
+            "magnetic_variation_deg": "10.474",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KGUP"
+        }
+    ]
 }

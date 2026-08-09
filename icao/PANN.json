@@ -145,5 +145,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87763",
+            "filename": "Nenana_VORTAC_US",
+            "ident": "ENN",
+            "name": "Nenana",
+            "type": "VORTAC",
+            "frequency_khz": "115800",
+            "latitude_deg": "64.58999633789062",
+            "longitude_deg": "-149.072998046875",
+            "elevation_ft": "1600",
+            "iso_country": "US",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "27.001",
+            "magnetic_variation_deg": "21.522",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PANN"
+        },
+        {
+            "id": "89145",
+            "filename": "Ice_Pool_NDB_US",
+            "ident": "ICW",
+            "name": "Ice Pool",
+            "type": "NDB",
+            "frequency_khz": "525",
+            "latitude_deg": "64.54570007324219",
+            "longitude_deg": "-149.07699584960938",
+            "elevation_ft": "361",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.511",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "PANN"
+        }
+    ]
 }

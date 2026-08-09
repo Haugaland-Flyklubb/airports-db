@@ -59,5 +59,29 @@
         "iso_country": "NE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Agadez_Region",
         "keywords": "Airports in Agadez Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87385",
+            "filename": "Dirkou_VOR_NE",
+            "ident": "DIR",
+            "name": "Dirkou",
+            "type": "VOR",
+            "frequency_khz": "113900",
+            "latitude_deg": "18.98150062561035",
+            "longitude_deg": "12.880499839782715",
+            "elevation_ft": "1289",
+            "iso_country": "NE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.212",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DRZD"
+        }
+    ]
 }

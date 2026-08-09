@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
         "keywords": "Airports in Utah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93348",
+            "filename": "Namangan_NDB_UZ",
+            "ident": "SA",
+            "name": "Namangan",
+            "type": "NDB",
+            "frequency_khz": "329",
+            "latitude_deg": "40.983299255371094",
+            "longitude_deg": "71.5999984741211",
+            "elevation_ft": "",
+            "iso_country": "UZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.314",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UT64"
+        }
+    ]
 }

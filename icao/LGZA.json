@@ -77,5 +77,51 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ionian_Islands_(region)",
         "keywords": "Περιφέρεια Ιονίων Νήσων"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95967",
+            "filename": "Zakinthos_VOR-DME_GR",
+            "ident": "ZAK",
+            "name": "Zakinthos",
+            "type": "VOR-DME",
+            "frequency_khz": "110800",
+            "latitude_deg": "37.74480056762695",
+            "longitude_deg": "20.88409996032715",
+            "elevation_ft": "20",
+            "iso_country": "GR",
+            "dme_frequency_khz": "110800",
+            "dme_channel": "045X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.539",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LGZA"
+        },
+        {
+            "id": "95975",
+            "filename": "Zakinthos_NDB_GR",
+            "ident": "ZAT",
+            "name": "Zakinthos",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "37.75170135498047",
+            "longitude_deg": "20.885700225830078",
+            "elevation_ft": "14",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.539",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LGZA"
+        }
+    ]
 }

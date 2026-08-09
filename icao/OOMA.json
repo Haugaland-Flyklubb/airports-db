@@ -115,5 +115,51 @@
         "iso_country": "OM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ash_Sharqlyah_Governorate",
         "keywords": "Airports in Ash Sharqlyah Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91223",
+            "filename": "Masirah_NDB_OM",
+            "ident": "MR",
+            "name": "Masirah",
+            "type": "NDB",
+            "frequency_khz": "343",
+            "latitude_deg": "20.677400588989258",
+            "longitude_deg": "58.88479995727539",
+            "elevation_ft": "135",
+            "iso_country": "OM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.2",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "OOMA"
+        },
+        {
+            "id": "91244",
+            "filename": "Masirah_Island_VORTAC_OM",
+            "ident": "MRH",
+            "name": "Masirah Island",
+            "type": "VORTAC",
+            "frequency_khz": "113800",
+            "latitude_deg": "20.674400329589844",
+            "longitude_deg": "58.89609909057617",
+            "elevation_ft": "80",
+            "iso_country": "OM",
+            "dme_frequency_khz": "113800",
+            "dme_channel": "085X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.199",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "OOMA"
+        }
+    ]
 }

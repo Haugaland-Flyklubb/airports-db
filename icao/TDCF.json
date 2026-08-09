@@ -69,5 +69,29 @@
         "iso_country": "DM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Paul_Parish,_Dominica",
         "keywords": "Airports in Saint Paul Parish"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87304",
+            "filename": "Canefield_NDB_DM",
+            "ident": "DCF",
+            "name": "Canefield",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "15.332500457763672",
+            "longitude_deg": "-61.40129852294922",
+            "elevation_ft": "",
+            "iso_country": "DM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.286",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "TDCF"
+        }
+    ]
 }

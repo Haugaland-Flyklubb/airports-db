@@ -35,5 +35,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87231",
+            "filename": "Great_Bear_Lake_NDB_CA",
+            "ident": "D1",
+            "name": "Great Bear Lake",
+            "type": "NDB",
+            "frequency_khz": "367",
+            "latitude_deg": "66.70890045166016",
+            "longitude_deg": "-119.6719970703125",
+            "elevation_ft": "562",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "26.266",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CFF4"
+        }
+    ]
 }

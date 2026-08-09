@@ -155,5 +155,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": "Virginian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92470",
+            "filename": "Henry_NDB_US",
+            "ident": "PJS",
+            "name": "Henry",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "37.1328010559082",
+            "longitude_deg": "-76.49320220947266",
+            "elevation_ft": "42",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.331",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KPHF"
+        }
+    ]
 }

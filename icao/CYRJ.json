@@ -85,5 +85,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89322",
+            "filename": "Roberval_DME_CA",
+            "ident": "IRJ",
+            "name": "Roberval",
+            "type": "DME",
+            "frequency_khz": "110300",
+            "latitude_deg": "48.52690124511719",
+            "longitude_deg": "-72.27420043945312",
+            "elevation_ft": "610",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110300",
+            "dme_channel": "040X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.227",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CYRJ"
+        },
+        {
+            "id": "93110",
+            "filename": "Roberval_NDB_CA",
+            "ident": "RJ",
+            "name": "Roberval",
+            "type": "NDB",
+            "frequency_khz": "378",
+            "latitude_deg": "48.5447998046875",
+            "longitude_deg": "-72.29460144042969",
+            "elevation_ft": "586",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.226",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYRJ"
+        }
+    ]
 }

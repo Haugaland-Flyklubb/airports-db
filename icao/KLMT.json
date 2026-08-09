@@ -169,5 +169,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
         "keywords": "Airports in Oregon"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90293",
+            "filename": "Merrill_NDB_US",
+            "ident": "LFA",
+            "name": "Merrill",
+            "type": "NDB",
+            "frequency_khz": "347",
+            "latitude_deg": "41.985198974609375",
+            "longitude_deg": "-121.64299774169922",
+            "elevation_ft": "4090",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.474",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KLMT"
+        },
+        {
+            "id": "90427",
+            "filename": "Klamath_Falls_VORTAC_US",
+            "ident": "LMT",
+            "name": "Klamath Falls",
+            "type": "VORTAC",
+            "frequency_khz": "115900",
+            "latitude_deg": "42.153099060058594",
+            "longitude_deg": "-121.72799682617188",
+            "elevation_ft": "4087",
+            "iso_country": "US",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "15.512",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KLMT"
+        }
+    ]
 }

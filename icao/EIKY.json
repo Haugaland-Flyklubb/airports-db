@@ -99,5 +99,29 @@
         "iso_country": "IE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/County_Kerry",
         "keywords": "Airports in County Kerry"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89730",
+            "filename": "Kerry_NDB_IE",
+            "ident": "KER",
+            "name": "Kerry",
+            "type": "NDB",
+            "frequency_khz": "334",
+            "latitude_deg": "52.18220138549805",
+            "longitude_deg": "-9.524490356445312",
+            "elevation_ft": "",
+            "iso_country": "IE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.126",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EIKY"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kagera_Region",
         "keywords": "Airports in Kagera Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86092",
+            "filename": "Bukoba_NDB_TZ",
+            "ident": "BK",
+            "name": "Bukoba",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "-1.3312300443649292",
+            "longitude_deg": "31.825700759887695",
+            "elevation_ft": "",
+            "iso_country": "TZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.204",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "HTBU"
+        }
+    ]
 }

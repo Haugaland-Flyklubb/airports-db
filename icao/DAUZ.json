@@ -99,5 +99,51 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illizi_Province",
         "keywords": "Airports in Illizi Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89252",
+            "filename": "In_Amenas_VOR-DME_DZ",
+            "ident": "IMN",
+            "name": "In Amenas",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "28.06999969482422",
+            "longitude_deg": "9.66528034210205",
+            "elevation_ft": "1870",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.403",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAUZ"
+        },
+        {
+            "id": "95973",
+            "filename": "Zarzaitine_NDB_DZ",
+            "ident": "ZAR",
+            "name": "Zarzaitine",
+            "type": "NDB",
+            "frequency_khz": "268",
+            "latitude_deg": "28.050600051879883",
+            "longitude_deg": "9.631110191345215",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.418",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "DAUZ"
+        }
+    ]
 }

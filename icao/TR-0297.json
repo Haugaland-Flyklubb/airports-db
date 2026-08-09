@@ -69,5 +69,29 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hatay_Province",
         "keywords": "Airports in Hatay Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89343",
+            "filename": "Iskenderun_NDB_TR",
+            "ident": "ISK",
+            "name": "Iskenderun",
+            "type": "NDB",
+            "frequency_khz": "434",
+            "latitude_deg": "36.57609939575195",
+            "longitude_deg": "36.15999984741211",
+            "elevation_ft": "25",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.176",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "TR-0297"
+        }
+    ]
 }

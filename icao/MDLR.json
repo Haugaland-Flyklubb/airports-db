@@ -69,5 +69,51 @@
         "iso_country": "DO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Romana_Province",
         "keywords": "Airports in La Romana Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90531",
+            "filename": "La_Romana_VOR-DME_DO",
+            "ident": "LRN",
+            "name": "La Romana",
+            "type": "VOR-DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "18.45400047302246",
+            "longitude_deg": "-68.91179656982422",
+            "elevation_ft": "259",
+            "iso_country": "DO",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.06",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "MDLR"
+        },
+        {
+            "id": "90532",
+            "filename": "La_Romana_NDB_DO",
+            "ident": "LRN",
+            "name": "La Romana",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "18.450899124145508",
+            "longitude_deg": "-68.92120361328125",
+            "elevation_ft": "240",
+            "iso_country": "DO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.056",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "MDLR"
+        }
+    ]
 }

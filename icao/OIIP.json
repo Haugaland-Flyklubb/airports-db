@@ -77,5 +77,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alborz_Province",
         "keywords": "Airports in Alborz Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92445",
+            "filename": "Payam_VOR-DME_IR",
+            "ident": "PIM",
+            "name": "Payam",
+            "type": "VOR-DME",
+            "frequency_khz": "117500",
+            "latitude_deg": "35.762001037597656",
+            "longitude_deg": "50.851600646972656",
+            "elevation_ft": "4125",
+            "iso_country": "IR",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.501",
+            "magnetic_variation_deg": "4.051",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "OIIP"
+        },
+        {
+            "id": "92446",
+            "filename": "Payam_NDB_IR",
+            "ident": "PIM",
+            "name": "Payam",
+            "type": "NDB",
+            "frequency_khz": "306",
+            "latitude_deg": "35.76179885864258",
+            "longitude_deg": "50.84939956665039",
+            "elevation_ft": "4170",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.052",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "OIIP"
+        }
+    ]
 }

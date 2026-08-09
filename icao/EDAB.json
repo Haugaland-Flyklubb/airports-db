@@ -107,5 +107,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony",
         "keywords": "Sachsen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85767",
+            "filename": "Bautzen_NDB_DE",
+            "ident": "BA",
+            "name": "Bautzen",
+            "type": "NDB",
+            "frequency_khz": "359",
+            "latitude_deg": "51.19879913330078",
+            "longitude_deg": "14.547800064086914",
+            "elevation_ft": "",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.29",
+            "usageType": "RNAV",
+            "power": "LOW",
+            "associated_airport": "EDAB"
+        }
+    ]
 }

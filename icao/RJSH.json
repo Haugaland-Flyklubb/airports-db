@@ -137,5 +137,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aomori",
         "keywords": "Tohoku"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89064",
+            "filename": "Hachinohe_TACAN_JP",
+            "ident": "HVT",
+            "name": "Hachinohe",
+            "type": "TACAN",
+            "frequency_khz": "108600",
+            "latitude_deg": "40.55580139160156",
+            "longitude_deg": "141.47000122070312",
+            "elevation_ft": "180",
+            "iso_country": "JP",
+            "dme_frequency_khz": "108600",
+            "dme_channel": "023X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-8.2",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJSH"
+        },
+        {
+            "id": "89455",
+            "filename": "Hachinohe_NDB_JP",
+            "ident": "JC",
+            "name": "Hachinohe",
+            "type": "NDB",
+            "frequency_khz": "381",
+            "latitude_deg": "40.55030059814453",
+            "longitude_deg": "141.47799682617188",
+            "elevation_ft": "152",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.198",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "RJSH"
+        }
+    ]
 }

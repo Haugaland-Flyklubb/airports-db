@@ -85,5 +85,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sumatra_Barat",
         "keywords": "Airports in Sumatra Barat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91016",
+            "filename": "Minangkabau_VOR-DME_ID",
+            "ident": "MKB",
+            "name": "Minangkabau",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "-0.7870000004768372",
+            "longitude_deg": "100.27799987792969",
+            "elevation_ft": "16",
+            "iso_country": "ID",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.184",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WIPT"
+        }
+    ]
 }

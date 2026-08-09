@@ -59,5 +59,29 @@
         "iso_country": "TZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mbeya_Region",
         "keywords": "Airports in Mbeya Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90761",
+            "filename": "Mbeya_NDB_TZ",
+            "ident": "MB",
+            "name": "Mbeya",
+            "type": "NDB",
+            "frequency_khz": "320",
+            "latitude_deg": "-8.914589881896973",
+            "longitude_deg": "33.45819854736328",
+            "elevation_ft": "5600",
+            "iso_country": "TZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.181",
+            "usageType": "HI",
+            "power": "HIGH",
+            "associated_airport": "HTMB"
+        }
+    ]
 }

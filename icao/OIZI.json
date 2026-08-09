@@ -69,5 +69,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sistan_and_Baluchestan_Province",
         "keywords": "Airports in Sistan and Baluchestan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89349",
+            "filename": "Iran_Shahr_VOR-DME_IR",
+            "ident": "ISR",
+            "name": "Iran Shahr",
+            "type": "VOR-DME",
+            "frequency_khz": "117000",
+            "latitude_deg": "27.234399795532227",
+            "longitude_deg": "60.7223014831543",
+            "elevation_ft": "1960",
+            "iso_country": "IR",
+            "dme_frequency_khz": "117000",
+            "dme_channel": "117X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "1.208",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIZI"
+        },
+        {
+            "id": "89350",
+            "filename": "Iran_Shahr_NDB_IR",
+            "ident": "ISR",
+            "name": "Iran Shahr",
+            "type": "NDB",
+            "frequency_khz": "309",
+            "latitude_deg": "27.232799530029297",
+            "longitude_deg": "60.71760177612305",
+            "elevation_ft": "1960",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.224",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIZI"
+        }
+    ]
 }

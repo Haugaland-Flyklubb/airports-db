@@ -223,5 +223,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93518",
+            "filename": "Brijj_NDB_US",
+            "ident": "SF",
+            "name": "Brijj",
+            "type": "NDB",
+            "frequency_khz": "379",
+            "latitude_deg": "37.572200775146484",
+            "longitude_deg": "-122.26000213623047",
+            "elevation_ft": "11",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.405",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KSFO"
+        },
+        {
+            "id": "93531",
+            "filename": "San_Francisco_VOR-DME_US",
+            "ident": "SFO",
+            "name": "San Francisco",
+            "type": "VOR-DME",
+            "frequency_khz": "115800",
+            "latitude_deg": "37.61949920654297",
+            "longitude_deg": "-122.3740005493164",
+            "elevation_ft": "13",
+            "iso_country": "US",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "14.423",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KSFO"
+        }
+    ]
 }

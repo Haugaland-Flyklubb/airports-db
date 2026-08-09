@@ -85,5 +85,51 @@
         "iso_country": "NG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Enugu_State",
         "keywords": "Airports in Enugu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87750",
+            "filename": "Enugu_NDB_NG",
+            "ident": "EN",
+            "name": "Enugu",
+            "type": "NDB",
+            "frequency_khz": "394",
+            "latitude_deg": "6.4787797927856445",
+            "longitude_deg": "7.588799953460693",
+            "elevation_ft": "",
+            "iso_country": "NG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.298",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "DNEN"
+        },
+        {
+            "id": "87758",
+            "filename": "Enugu_VOR-DME_NG",
+            "ident": "ENG",
+            "name": "Enugu",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "6.468550205230713",
+            "longitude_deg": "7.60122013092041",
+            "elevation_ft": "455",
+            "iso_country": "NG",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.297",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DNEN"
+        }
+    ]
 }

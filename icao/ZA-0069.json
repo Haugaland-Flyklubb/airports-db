@@ -69,5 +69,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mpumalanga",
         "keywords": "Airports in Mpumalanga"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94631",
+            "filename": "Malelane_NDB_ZA",
+            "ident": "TSO",
+            "name": "Malelane",
+            "type": "NDB",
+            "frequency_khz": "450",
+            "latitude_deg": "-25.44029998779297",
+            "longitude_deg": "31.674999237060547",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.581",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ZA-0069"
+        }
+    ]
 }

@@ -177,5 +177,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85361",
+            "filename": "Saldo_NDB_US",
+            "ident": "AK",
+            "name": "Saldo",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "58.73720169067383",
+            "longitude_deg": "-156.7779998779297",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.435",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PAKN"
+        },
+        {
+            "id": "85371",
+            "filename": "King_Salmon_VORTAC_US",
+            "ident": "AKN",
+            "name": "King Salmon",
+            "type": "VORTAC",
+            "frequency_khz": "112800",
+            "latitude_deg": "58.724700927734375",
+            "longitude_deg": "-156.7519989013672",
+            "elevation_ft": "89",
+            "iso_country": "US",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "21.001",
+            "magnetic_variation_deg": "16.44",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAKN"
+        }
+    ]
 }

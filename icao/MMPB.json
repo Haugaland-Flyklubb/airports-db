@@ -69,5 +69,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Puebla",
         "keywords": "Airports in Puebla"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92296",
+            "filename": "Puebla_VOR-DME_MX",
+            "ident": "PBC",
+            "name": "Puebla",
+            "type": "VOR-DME",
+            "frequency_khz": "115200",
+            "latitude_deg": "19.160900115966797",
+            "longitude_deg": "-98.37020111083984",
+            "elevation_ft": "7361",
+            "iso_country": "MX",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.003",
+            "magnetic_variation_deg": "5.43",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMPB"
+        }
+    ]
 }

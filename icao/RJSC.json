@@ -69,5 +69,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yamagata",
         "keywords": "Tohoku"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95853",
+            "filename": "Yamagata_VOR-DME_JP",
+            "ident": "YTE",
+            "name": "Yamagata",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "38.38859939575195",
+            "longitude_deg": "140.35800170898438",
+            "elevation_ft": "361",
+            "iso_country": "JP",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.464",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJSC"
+        },
+        {
+            "id": "96064",
+            "filename": "Zao-Yamada_VOR_JP",
+            "ident": "ZMO",
+            "name": "Zao-Yamada",
+            "type": "VOR",
+            "frequency_khz": "110800",
+            "latitude_deg": "38.189998626708984",
+            "longitude_deg": "140.33599853515625",
+            "elevation_ft": "",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.425",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "RJSC"
+        }
+    ]
 }

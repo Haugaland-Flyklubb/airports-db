@@ -99,5 +99,51 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/San_Luis_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "93307",
+            "filename": "Villa_Reynolds_VOR-DME_AR",
+            "ident": "RYD",
+            "name": "Villa Reynolds",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "-33.728599548339844",
+            "longitude_deg": "-65.381103515625",
+            "elevation_ft": "1591",
+            "iso_country": "AR",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-1.095",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAOR"
+        },
+        {
+            "id": "93308",
+            "filename": "Villa_Reynolds_NDB_AR",
+            "ident": "RYD",
+            "name": "Villa Reynolds",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "-33.72439956665039",
+            "longitude_deg": "-65.38580322265625",
+            "elevation_ft": "1591",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.094",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAOR"
+        }
+    ]
 }

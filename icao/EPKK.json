@@ -101,5 +101,29 @@
         "iso_country": "PL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lesser_Poland_Voivodeship",
         "keywords": "Małopolskie"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89983",
+            "filename": "Krakow_NDB_PL",
+            "ident": "KRW",
+            "name": "Krakow",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "50.09560012817383",
+            "longitude_deg": "19.912799835205078",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.478",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EPKK"
+        }
+    ]
 }

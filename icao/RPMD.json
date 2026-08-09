@@ -93,5 +93,51 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Davao_City",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "87269",
+            "filename": "Davao_VOR-DME_PH",
+            "ident": "DAO",
+            "name": "Davao",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "7.131239891052246",
+            "longitude_deg": "125.65399932861328",
+            "elevation_ft": "96",
+            "iso_country": "PH",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.115",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPMD"
+        },
+        {
+            "id": "87270",
+            "filename": "Davao_NDB_PH",
+            "ident": "DAO",
+            "name": "Davao",
+            "type": "NDB",
+            "frequency_khz": "364",
+            "latitude_deg": "7.137149810791016",
+            "longitude_deg": "125.6500015258789",
+            "elevation_ft": "96",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.114",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPMD"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "SB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guadalcanal_Province",
         "keywords": "Airports in Guadalcanal Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88921",
+            "filename": "Honiara_VOR-DME_SB",
+            "ident": "HN",
+            "name": "Honiara",
+            "type": "VOR-DME",
+            "frequency_khz": "112600",
+            "latitude_deg": "-9.436670303344727",
+            "longitude_deg": "160.01699829101562",
+            "elevation_ft": "45",
+            "iso_country": "SB",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.011",
+            "magnetic_variation_deg": "8.531",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "AGGH"
+        },
+        {
+            "id": "88923",
+            "filename": "Honiara_NDB_SB",
+            "ident": "HN",
+            "name": "Honiara",
+            "type": "NDB",
+            "frequency_khz": "348",
+            "latitude_deg": "-9.418330192565918",
+            "longitude_deg": "160.05299377441406",
+            "elevation_ft": "74",
+            "iso_country": "SB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.533",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "AGGH"
+        }
+    ]
 }

@@ -101,5 +101,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Corsica",
         "keywords": "Corse"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89334",
+            "filename": "Ajaccio_Campo_Dell_Oro_NDB_FR",
+            "ident": "IS",
+            "name": "Ajaccio/Campo Dell Oro",
+            "type": "NDB",
+            "frequency_khz": "341",
+            "latitude_deg": "41.898799896240234",
+            "longitude_deg": "8.612079620361328",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.581",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LFKJ"
+        }
+    ]
 }

@@ -131,5 +131,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95911",
+            "filename": "London_VORTAC_CA",
+            "ident": "YXU",
+            "name": "London",
+            "type": "VORTAC",
+            "frequency_khz": "117200",
+            "latitude_deg": "43.03810119628906",
+            "longitude_deg": "-81.14839935302734",
+            "elevation_ft": "910",
+            "iso_country": "CA",
+            "dme_frequency_khz": "117200",
+            "dme_channel": "119X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.001",
+            "magnetic_variation_deg": "-8.542",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYXU"
+        }
+    ]
 }

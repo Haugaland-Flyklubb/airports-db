@@ -107,5 +107,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95794",
+            "filename": "Peterborough_NDB_CA",
+            "ident": "YPQ",
+            "name": "Peterborough",
+            "type": "NDB",
+            "frequency_khz": "379",
+            "latitude_deg": "44.21310043334961",
+            "longitude_deg": "-78.45809936523438",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.248",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYPQ"
+        }
+    ]
 }

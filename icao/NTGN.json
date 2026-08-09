@@ -35,5 +35,29 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91670",
+            "filename": "Napuka_NDB_PF",
+            "ident": "NP",
+            "name": "Napuka",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "-14.172200202941895",
+            "longitude_deg": "-141.26499938964844",
+            "elevation_ft": "98",
+            "iso_country": "PF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.522",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "NTGN"
+        }
+    ]
 }

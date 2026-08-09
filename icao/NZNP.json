@@ -145,5 +145,51 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Taranaki",
         "keywords": "Airports in Taranaki Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91669",
+            "filename": "New_Plymouth_VOR-DME_NZ",
+            "ident": "NP",
+            "name": "New Plymouth",
+            "type": "VOR-DME",
+            "frequency_khz": "114400",
+            "latitude_deg": "-39.007198333740234",
+            "longitude_deg": "174.1840057373047",
+            "elevation_ft": "97",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "114400",
+            "dme_channel": "091X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "20.007",
+            "magnetic_variation_deg": "20.329",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NZNP"
+        },
+        {
+            "id": "91673",
+            "filename": "New_Plymouth_NDB_NZ",
+            "ident": "NP",
+            "name": "New Plymouth",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "-39.002201080322266",
+            "longitude_deg": "174.1820068359375",
+            "elevation_ft": "",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "20.327",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NZNP"
+        }
+    ]
 }

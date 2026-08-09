@@ -115,5 +115,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87077",
+            "filename": "Cut_Bank_VORTAC_US",
+            "ident": "CTB",
+            "name": "Cut Bank",
+            "type": "VORTAC",
+            "frequency_khz": "114400",
+            "latitude_deg": "48.56489944458008",
+            "longitude_deg": "-112.34300231933594",
+            "elevation_ft": "3780",
+            "iso_country": "US",
+            "dme_frequency_khz": "114400",
+            "dme_channel": "091X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "14.46",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KCTB"
+        }
+    ]
 }

@@ -99,5 +99,29 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Inagua",
         "keywords": "Airports in Inagua"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96034",
+            "filename": "Great_Inagua_NDB_BS",
+            "ident": "ZIN",
+            "name": "Great Inagua",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "20.959699630737305",
+            "longitude_deg": "-73.67749786376953",
+            "elevation_ft": "8",
+            "iso_country": "BS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.451",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MYIG"
+        }
+    ]
 }

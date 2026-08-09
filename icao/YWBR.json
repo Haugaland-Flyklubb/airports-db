@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95382",
+            "filename": "Warburton_Range_NDB_AU",
+            "ident": "WBR",
+            "name": "Warburton Range",
+            "type": "NDB",
+            "frequency_khz": "218",
+            "latitude_deg": "-26.12809944152832",
+            "longitude_deg": "126.58000183105469",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.186",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "YWBR"
+        }
+    ]
 }

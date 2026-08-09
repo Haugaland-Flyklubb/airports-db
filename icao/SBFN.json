@@ -69,5 +69,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pernambuco",
         "keywords": "Airports in Pernambuco"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88082",
+            "filename": "Fernando_VOR-DME_BR",
+            "ident": "FNO",
+            "name": "Fernando",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "-3.8701999187469482",
+            "longitude_deg": "-32.429298400878906",
+            "elevation_ft": "193",
+            "iso_country": "BR",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.5",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBFN"
+        },
+        {
+            "id": "91666",
+            "filename": "Noronha_NDB_BR",
+            "ident": "NOR",
+            "name": "Noronha",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "-3.8583900928497314",
+            "longitude_deg": "-32.428199768066406",
+            "elevation_ft": "5",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.498",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBFN"
+        }
+    ]
 }

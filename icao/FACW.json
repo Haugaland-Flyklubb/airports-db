@@ -35,5 +35,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Cape",
         "keywords": "Airports in Western Cape"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87161",
+            "filename": "Clanwilliam_NDB_ZA",
+            "ident": "CW",
+            "name": "Clanwilliam",
+            "type": "NDB",
+            "frequency_khz": "373",
+            "latitude_deg": "-32.183101654052734",
+            "longitude_deg": "18.888599395751953",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.469",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FACW"
+        }
+    ]
 }

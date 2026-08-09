@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87298",
+            "filename": "Derby_NDB_AU",
+            "ident": "DBY",
+            "name": "Derby",
+            "type": "NDB",
+            "frequency_khz": "332",
+            "latitude_deg": "-17.35689926147461",
+            "longitude_deg": "123.66699981689453",
+            "elevation_ft": "24",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.412",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YDBY"
+        }
+    ]
 }

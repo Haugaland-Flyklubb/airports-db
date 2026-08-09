@@ -109,5 +109,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
         "keywords": "Airports in Colorado"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87950",
+            "filename": "Butts_VOR-DME_US",
+            "ident": "FCS",
+            "name": "Butts",
+            "type": "VOR-DME",
+            "frequency_khz": "108800",
+            "latitude_deg": "38.68069839477539",
+            "longitude_deg": "-104.75700378417969",
+            "elevation_ft": "5829",
+            "iso_country": "US",
+            "dme_frequency_khz": "108800",
+            "dme_channel": "025X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.001",
+            "magnetic_variation_deg": "9.225",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KFCS"
+        },
+        {
+            "id": "89192",
+            "filename": "Ironhorse_NDB_US",
+            "ident": "IHS",
+            "name": "Ironhorse",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "38.67829895019531",
+            "longitude_deg": "-104.75299835205078",
+            "elevation_ft": "5832",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.224",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KFCS"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gilan_Province",
         "keywords": "Airports in Gilan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93253",
+            "filename": "Rasht_VOR-DME_IR",
+            "ident": "RST",
+            "name": "Rasht",
+            "type": "VOR-DME",
+            "frequency_khz": "112600",
+            "latitude_deg": "37.32640075683594",
+            "longitude_deg": "49.61579895019531",
+            "elevation_ft": "-28",
+            "iso_country": "IR",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.001",
+            "magnetic_variation_deg": "4.345",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIGG"
+        },
+        {
+            "id": "93255",
+            "filename": "Rasht_NDB_IR",
+            "ident": "RST",
+            "name": "Rasht",
+            "type": "NDB",
+            "frequency_khz": "393",
+            "latitude_deg": "37.32080078125",
+            "longitude_deg": "49.6161994934082",
+            "elevation_ft": "-40",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.344",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIGG"
+        }
+    ]
 }

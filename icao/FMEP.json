@@ -69,5 +69,51 @@
         "iso_country": "RE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arrondissement_of_Saint-Pierre,_R%C3%A9union",
         "keywords": "Airports of Saint-Pierre Arrondissement"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92680",
+            "filename": "St_Pierre_Pierrefonds_VOR-DME_RE",
+            "ident": "PRF",
+            "name": "St Pierre Pierrefonds",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "-21.3164005279541",
+            "longitude_deg": "55.417198181152344",
+            "elevation_ft": "52",
+            "iso_country": "RE",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.587",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "FMEP"
+        },
+        {
+            "id": "93865",
+            "filename": "Pierrefonds_Etang_NDB_RE",
+            "ident": "SP",
+            "name": "Pierrefonds/Etang",
+            "type": "NDB",
+            "frequency_khz": "352",
+            "latitude_deg": "-21.277599334716797",
+            "longitude_deg": "55.362300872802734",
+            "elevation_ft": "",
+            "iso_country": "RE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.553",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FMEP"
+        }
+    ]
 }

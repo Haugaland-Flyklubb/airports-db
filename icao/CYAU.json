@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nova_Scotia",
         "keywords": "Nova Scotian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85168",
+            "filename": "Liverpool_NDB_CA",
+            "ident": "A9",
+            "name": "Liverpool",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "44.22700119018555",
+            "longitude_deg": "-64.8584976196289",
+            "elevation_ft": "314",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.25",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYAU"
+        }
+    ]
 }

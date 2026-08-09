@@ -99,5 +99,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95455",
+            "filename": "Walgett_VOR_AU",
+            "ident": "WLG",
+            "name": "Walgett",
+            "type": "VOR",
+            "frequency_khz": "117600",
+            "latitude_deg": "-30.02869987487793",
+            "longitude_deg": "148.1280059814453",
+            "elevation_ft": "439",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.007",
+            "magnetic_variation_deg": "10.26",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YWLG"
+        },
+        {
+            "id": "95456",
+            "filename": "Walgett_NDB_AU",
+            "ident": "WLG",
+            "name": "Walgett",
+            "type": "NDB",
+            "frequency_khz": "374",
+            "latitude_deg": "-30.027299880981445",
+            "longitude_deg": "148.12399291992188",
+            "elevation_ft": "439",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.259",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YWLG"
+        }
+    ]
 }

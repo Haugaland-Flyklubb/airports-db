@@ -163,5 +163,51 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cebu_Province",
         "keywords": "Airports in Cebu Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90809",
+            "filename": "Mactan_VOR-DME_PH",
+            "ident": "MCT",
+            "name": "Mactan",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "10.313599586486816",
+            "longitude_deg": "123.98799896240234",
+            "elevation_ft": "36",
+            "iso_country": "PH",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.289",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPVM"
+        },
+        {
+            "id": "90811",
+            "filename": "Mactan_NDB_PH",
+            "ident": "MCT",
+            "name": "Mactan",
+            "type": "NDB",
+            "frequency_khz": "331",
+            "latitude_deg": "10.309200286865234",
+            "longitude_deg": "123.98400115966797",
+            "elevation_ft": "36",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.288",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "RPVM"
+        }
+    ]
 }

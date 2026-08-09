@@ -123,5 +123,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Virginia",
         "keywords": "Airports in West Virginia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86117",
+            "filename": "Beckley_VORTAC_US",
+            "ident": "BKW",
+            "name": "Beckley",
+            "type": "VORTAC",
+            "frequency_khz": "117700",
+            "latitude_deg": "37.78030014038086",
+            "longitude_deg": "-81.12349700927734",
+            "elevation_ft": "2500",
+            "iso_country": "US",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.001",
+            "magnetic_variation_deg": "-7.256",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KBKW"
+        }
+    ]
 }

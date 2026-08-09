@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
         "keywords": "Airports in Gujarat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89987",
+            "filename": "Keshod_NDB_IN",
+            "ident": "KS",
+            "name": "Keshod",
+            "type": "NDB",
+            "frequency_khz": "282",
+            "latitude_deg": "21.318500518798828",
+            "longitude_deg": "70.26170349121094",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.227",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VAKS"
+        }
+    ]
 }

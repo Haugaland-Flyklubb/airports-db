@@ -131,5 +131,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lombardy",
         "keywords": "LM"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90731",
+            "filename": "Malpensa_VOR-DME_IT",
+            "ident": "MAL",
+            "name": "Malpensa",
+            "type": "VOR-DME",
+            "frequency_khz": "111200",
+            "latitude_deg": "45.6427001953125",
+            "longitude_deg": "8.734560012817383",
+            "elevation_ft": "768",
+            "iso_country": "IT",
+            "dme_frequency_khz": "111200",
+            "dme_channel": "049X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.572",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIMC"
+        },
+        {
+            "id": "90732",
+            "filename": "Malpensa_NDB_IT",
+            "ident": "MAL",
+            "name": "Malpensa",
+            "type": "NDB",
+            "frequency_khz": "364",
+            "latitude_deg": "45.545799255371094",
+            "longitude_deg": "8.75625991821289",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.577",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LIMC"
+        }
+    ]
 }

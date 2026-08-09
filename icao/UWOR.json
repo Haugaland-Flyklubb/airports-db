@@ -143,5 +143,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Orenburg_Oblast",
         "keywords": "Airports in Orenburg Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92075",
+            "filename": "Orsk_NDB_RU",
+            "ident": "OR",
+            "name": "Orsk",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "51.08330154418945",
+            "longitude_deg": "58.66999816894531",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.132",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "UWOR"
+        },
+        {
+            "id": "93516",
+            "filename": "Orsk_NDB_RU",
+            "ident": "SF",
+            "name": "Orsk",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "51.060001373291016",
+            "longitude_deg": "58.5182991027832",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.123",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "UWOR"
+        }
+    ]
 }

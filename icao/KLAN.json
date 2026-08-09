@@ -161,5 +161,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90140",
+            "filename": "Artda_NDB_US",
+            "ident": "LA",
+            "name": "Artda",
+            "type": "NDB",
+            "frequency_khz": "206",
+            "latitude_deg": "42.7775993347168",
+            "longitude_deg": "-84.49759674072266",
+            "elevation_ft": "841",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.019",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KLAN"
+        },
+        {
+            "id": "90158",
+            "filename": "Lansing_VORTAC_US",
+            "ident": "LAN",
+            "name": "Lansing",
+            "type": "VORTAC",
+            "frequency_khz": "110800",
+            "latitude_deg": "42.71739959716797",
+            "longitude_deg": "-84.69770050048828",
+            "elevation_ft": "880",
+            "iso_country": "US",
+            "dme_frequency_khz": "110800",
+            "dme_channel": "045X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.001",
+            "magnetic_variation_deg": "-5.506",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KLAN"
+        }
+    ]
 }

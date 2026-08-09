@@ -69,5 +69,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kalimantan_Barat",
         "keywords": "Airports in Kalimantan Barat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89929",
+            "filename": "Ketapang_NDB_ID",
+            "ident": "KP",
+            "name": "Ketapang",
+            "type": "NDB",
+            "frequency_khz": "333",
+            "latitude_deg": "-1.7502800226211548",
+            "longitude_deg": "109.98400115966797",
+            "elevation_ft": "46",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.585",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIOK"
+        },
+        {
+            "id": "90037",
+            "filename": "Ketapang_VOR-DME_ID",
+            "ident": "KTP",
+            "name": "Ketapang",
+            "type": "VOR-DME",
+            "frequency_khz": "116800",
+            "latitude_deg": "-1.8164900541305542",
+            "longitude_deg": "109.96600341796875",
+            "elevation_ft": "49",
+            "iso_country": "ID",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.58",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WIOK"
+        }
+    ]
 }

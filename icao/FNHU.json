@@ -91,5 +91,51 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Huambo_ Province",
         "keywords": "Airports in Huambo Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89030",
+            "filename": "Huambo_NDB_AO",
+            "ident": "HU",
+            "name": "Huambo",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "-12.800000190734863",
+            "longitude_deg": "15.711299896240234",
+            "elevation_ft": "",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.349",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNHU"
+        },
+        {
+            "id": "95123",
+            "filename": "Huambo_VOR-DME_AO",
+            "ident": "VHU",
+            "name": "Huambo",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "-12.808600425720215",
+            "longitude_deg": "15.749500274658203",
+            "elevation_ft": "5587",
+            "iso_country": "AO",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-6.345",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FNHU"
+        }
+    ]
 }

@@ -85,5 +85,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85147",
+            "filename": "Amos_NDB_CA",
+            "ident": "9Q",
+            "name": "Amos",
+            "type": "NDB",
+            "frequency_khz": "291",
+            "latitude_deg": "48.55759811401367",
+            "longitude_deg": "-78.24310302734375",
+            "elevation_ft": "1068",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.262",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYEY"
+        }
+    ]
 }

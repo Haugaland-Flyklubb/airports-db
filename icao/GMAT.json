@@ -69,5 +69,51 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guelmim-Oued_Noun",
         "keywords": "ڭلميم-وادي نون"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94188",
+            "filename": "Tan_Tan_VOR_MA",
+            "ident": "TAN",
+            "name": "Tan Tan",
+            "type": "VOR",
+            "frequency_khz": "112300",
+            "latitude_deg": "28.42840003967285",
+            "longitude_deg": "-11.173100471496582",
+            "elevation_ft": "653",
+            "iso_country": "MA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.363",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMAT"
+        },
+        {
+            "id": "94470",
+            "filename": "Tan_Tan_NDB_MA",
+            "ident": "TNA",
+            "name": "Tan Tan",
+            "type": "NDB",
+            "frequency_khz": "274",
+            "latitude_deg": "28.43120002746582",
+            "longitude_deg": "-11.17140007019043",
+            "elevation_ft": "",
+            "iso_country": "MA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.363",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMAT"
+        }
+    ]
 }

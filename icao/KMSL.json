@@ -115,5 +115,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
         "keywords": "Airports in Alabama"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91284",
+            "filename": "Muscle_Shoals_VORTAC_US",
+            "ident": "MSL",
+            "name": "Muscle Shoals",
+            "type": "VORTAC",
+            "frequency_khz": "116500",
+            "latitude_deg": "34.70690155029297",
+            "longitude_deg": "-87.49150085449219",
+            "elevation_ft": "580",
+            "iso_country": "US",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "-1.558",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KMSL"
+        }
+    ]
 }

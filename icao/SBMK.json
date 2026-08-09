@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90797",
+            "filename": "Montes_Claros_NDB_BR",
+            "ident": "MCL",
+            "name": "Montes Claros",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "-16.703500747680664",
+            "longitude_deg": "-43.81919860839844",
+            "elevation_ft": "2191",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.557",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBMK"
+        }
+    ]
 }

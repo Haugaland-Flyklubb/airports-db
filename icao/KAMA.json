@@ -147,5 +147,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85439",
+            "filename": "Pande_NDB_US",
+            "ident": "AM",
+            "name": "Pande",
+            "type": "NDB",
+            "frequency_khz": "251",
+            "latitude_deg": "35.14649963378906",
+            "longitude_deg": "-101.80500030517578",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.337",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KAMA"
+        }
+    ]
 }

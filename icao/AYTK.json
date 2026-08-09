@@ -85,5 +85,51 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/East_New_Britain_Province",
         "keywords": "Airports in East New Britain Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94509",
+            "filename": "Tokua_VOR-DME_PG",
+            "ident": "TOK",
+            "name": "Tokua",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "-4.346499919891357",
+            "longitude_deg": "152.3979949951172",
+            "elevation_ft": "32",
+            "iso_country": "PG",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.007",
+            "magnetic_variation_deg": "6.432",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "AYTK"
+        },
+        {
+            "id": "94510",
+            "filename": "Tokua_NDB_PG",
+            "ident": "TOK",
+            "name": "Tokua",
+            "type": "NDB",
+            "frequency_khz": "227",
+            "latitude_deg": "-4.345330238342285",
+            "longitude_deg": "152.39700317382812",
+            "elevation_ft": "",
+            "iso_country": "PG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.432",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "AYTK"
+        }
+    ]
 }

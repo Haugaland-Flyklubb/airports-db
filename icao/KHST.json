@@ -163,5 +163,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89016",
+            "filename": "Homestead_TACAN_US",
+            "ident": "HST",
+            "name": "Homestead",
+            "type": "TACAN",
+            "frequency_khz": "108200",
+            "latitude_deg": "25.489500045776367",
+            "longitude_deg": "-80.37940216064453",
+            "elevation_ft": "53",
+            "iso_country": "US",
+            "dme_frequency_khz": "108200",
+            "dme_channel": "019X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.005",
+            "magnetic_variation_deg": "-5.21",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KHST"
+        }
+    ]
 }

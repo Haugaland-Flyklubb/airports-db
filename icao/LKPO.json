@@ -85,5 +85,29 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Olomouc_Region",
         "keywords": "Olomoucký kraj, Moravia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86821",
+            "filename": "Prerov_NDB_CZ",
+            "ident": "CK",
+            "name": "Prerov",
+            "type": "NDB",
+            "frequency_khz": "441",
+            "latitude_deg": "49.407100677490234",
+            "longitude_deg": "17.33919906616211",
+            "elevation_ft": "",
+            "iso_country": "CZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.069",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "LKPO"
+        }
+    ]
 }

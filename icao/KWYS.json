@@ -85,5 +85,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90467",
+            "filename": "Targy_NDB_US",
+            "ident": "LO",
+            "name": "Targy",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "44.575401306152344",
+            "longitude_deg": "-111.197998046875",
+            "elevation_ft": "7000",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.197",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KWYS"
+        }
+    ]
 }

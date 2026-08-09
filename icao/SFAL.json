@@ -99,5 +99,29 @@
         "iso_country": "FK",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93335",
+            "filename": "Stanley_NDB_FK",
+            "ident": "SA",
+            "name": "Stanley",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-51.68790054321289",
+            "longitude_deg": "-57.77389907836914",
+            "elevation_ft": "50",
+            "iso_country": "FK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.365",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SFAL"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "SN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tambacounda_Region",
         "keywords": "Airports in Tambacounda Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93978",
+            "filename": "Tambacounda_NDB_SN",
+            "ident": "STD",
+            "name": "Tambacounda",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "13.735699653625488",
+            "longitude_deg": "-13.663100242614746",
+            "elevation_ft": "220",
+            "iso_country": "SN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.25",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "GOTT"
+        },
+        {
+            "id": "94264",
+            "filename": "Tambacounda_VOR_SN",
+            "ident": "TD",
+            "name": "Tambacounda",
+            "type": "VOR",
+            "frequency_khz": "114500",
+            "latitude_deg": "13.727700233459473",
+            "longitude_deg": "-13.663999557495117",
+            "elevation_ft": "177",
+            "iso_country": "SN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.007",
+            "magnetic_variation_deg": "-7.251",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GOTT"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89822",
+            "filename": "Koyuk_NDB-DME_US",
+            "ident": "KKA",
+            "name": "Koyuk",
+            "type": "NDB-DME",
+            "frequency_khz": "299",
+            "latitude_deg": "64.93199920654297",
+            "longitude_deg": "-161.1479949951172",
+            "elevation_ft": "74",
+            "iso_country": "US",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "64.9322",
+            "dme_longitude_deg": "-161.149",
+            "dme_elevation_ft": "74",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.083",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PAKK"
+        }
+    ]
 }

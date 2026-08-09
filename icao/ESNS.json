@@ -69,5 +69,29 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Västerbottens_län",
         "keywords": "Västerbotten County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93677",
+            "filename": "Skelleftea_VOR-DME_SE",
+            "ident": "SKA",
+            "name": "Skelleftea",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "64.62670135498047",
+            "longitude_deg": "21.079299926757812",
+            "elevation_ft": "174",
+            "iso_country": "SE",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.001",
+            "magnetic_variation_deg": "6.271",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ESNS"
+        }
+    ]
 }

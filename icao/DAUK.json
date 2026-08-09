@@ -77,5 +77,29 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Touggourt_Province",
         "keywords": "ولاية تقرت"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94332",
+            "filename": "Touggourt_VOR-DME_DZ",
+            "ident": "TGU",
+            "name": "Touggourt",
+            "type": "VOR-DME",
+            "frequency_khz": "113200",
+            "latitude_deg": "33.05690002441406",
+            "longitude_deg": "6.0886101722717285",
+            "elevation_ft": "279",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.19",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DAUK"
+        }
+    ]
 }

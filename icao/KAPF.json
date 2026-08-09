@@ -161,5 +161,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87196",
+            "filename": "Cypress_VOR-DME_US",
+            "ident": "CYY",
+            "name": "Cypress",
+            "type": "VOR-DME",
+            "frequency_khz": "108600",
+            "latitude_deg": "26.153400421142578",
+            "longitude_deg": "-81.7780990600586",
+            "elevation_ft": "9",
+            "iso_country": "US",
+            "dme_frequency_khz": "108600",
+            "dme_channel": "023X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.001",
+            "magnetic_variation_deg": "-4.322",
+            "usageType": "RNAV",
+            "power": "LOW",
+            "associated_airport": "KAPF"
+        }
+    ]
 }

@@ -93,5 +93,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94896",
+            "filename": "Churchill_Falls_NDB_CA",
+            "ident": "UM",
+            "name": "Churchill Falls",
+            "type": "NDB",
+            "frequency_khz": "233",
+            "latitude_deg": "53.590599060058594",
+            "longitude_deg": "-64.23560333251953",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-23.222",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CZUM"
+        }
+    ]
 }

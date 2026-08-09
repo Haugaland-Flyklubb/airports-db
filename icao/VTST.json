@@ -85,5 +85,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Trang_province",
         "keywords": "Airports in Trang Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94570",
+            "filename": "Trang_NDB_TH",
+            "ident": "TR",
+            "name": "Trang",
+            "type": "NDB",
+            "frequency_khz": "248",
+            "latitude_deg": "7.511829853057861",
+            "longitude_deg": "99.62010192871094",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.26",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VTST"
+        },
+        {
+            "id": "94599",
+            "filename": "Trang_VOR-DME_TH",
+            "ident": "TRN",
+            "name": "Trang",
+            "type": "VOR-DME",
+            "frequency_khz": "116600",
+            "latitude_deg": "7.50894021987915",
+            "longitude_deg": "99.6259994506836",
+            "elevation_ft": "67",
+            "iso_country": "TH",
+            "dme_frequency_khz": "116600",
+            "dme_channel": "113X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.26",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTST"
+        }
+    ]
 }

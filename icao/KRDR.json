@@ -133,5 +133,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
         "keywords": "Airports in North Dakota"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93028",
+            "filename": "Red_River_TACAN_US",
+            "ident": "RDR",
+            "name": "Red River",
+            "type": "TACAN",
+            "frequency_khz": "116400",
+            "latitude_deg": "47.95719909667969",
+            "longitude_deg": "-97.40579986572266",
+            "elevation_ft": "951",
+            "iso_country": "US",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.001",
+            "magnetic_variation_deg": "4.356",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KRDR"
+        }
+    ]
 }

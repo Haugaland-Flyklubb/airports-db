@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
         "keywords": "Airports in Ohio"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85954",
+            "filename": "Tabey_NDB_US",
+            "ident": "BF",
+            "name": "Tabey",
+            "type": "NDB",
+            "frequency_khz": "248",
+            "latitude_deg": "41.56909942626953",
+            "longitude_deg": "-81.57379913330078",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.064",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBKL"
+        },
+        {
+            "id": "86106",
+            "filename": "Burke_Lakefront_NDB_US",
+            "ident": "BKL",
+            "name": "Burke Lakefront",
+            "type": "NDB",
+            "frequency_khz": "416",
+            "latitude_deg": "41.52870178222656",
+            "longitude_deg": "-81.66339874267578",
+            "elevation_ft": "581",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.014",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBKL"
+        }
+    ]
 }

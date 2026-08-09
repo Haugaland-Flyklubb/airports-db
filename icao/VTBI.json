@@ -69,5 +69,29 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Prachin_Buri_province",
         "keywords": "Airports in Prachin Buri Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92291",
+            "filename": "Prachin_Buri_NDB_TH",
+            "ident": "PB",
+            "name": "Prachin Buri",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "14.119999885559082",
+            "longitude_deg": "101.36799621582031",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.335",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTBI"
+        }
+    ]
 }

@@ -191,5 +191,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91683",
+            "filename": "Kingsville_TACAN_US",
+            "ident": "NQI",
+            "name": "Kingsville",
+            "type": "TACAN",
+            "frequency_khz": "117800",
+            "latitude_deg": "27.499300003051758",
+            "longitude_deg": "-97.80549621582031",
+            "elevation_ft": "46",
+            "iso_country": "US",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.008",
+            "magnetic_variation_deg": "5.169",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KNQI"
+        }
+    ]
 }

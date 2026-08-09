@@ -107,5 +107,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hesse",
         "keywords": "Hessen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87688",
+            "filename": "Egelsbach_NDB_DE",
+            "ident": "EH",
+            "name": "Egelsbach",
+            "type": "NDB",
+            "frequency_khz": "386",
+            "latitude_deg": "49.96009826660156",
+            "longitude_deg": "8.642629623413086",
+            "elevation_ft": "",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.478",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDFE"
+        }
+    ]
 }

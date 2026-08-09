@@ -121,5 +121,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87952",
+            "filename": "Brantford_NDB_CA",
+            "ident": "FD",
+            "name": "Brantford",
+            "type": "NDB",
+            "frequency_khz": "207",
+            "latitude_deg": "43.07339859008789",
+            "longitude_deg": "-80.41619873046875",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.3",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYFD"
+        }
+    ]
 }

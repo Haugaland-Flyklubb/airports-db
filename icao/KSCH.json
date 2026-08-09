@@ -153,5 +153,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88796",
+            "filename": "Hunter_NDB_US",
+            "ident": "HEU",
+            "name": "Hunter",
+            "type": "NDB",
+            "frequency_khz": "356",
+            "latitude_deg": "42.85300064086914",
+            "longitude_deg": "-73.9343032836914",
+            "elevation_ft": "378",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.582",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KSCH"
+        }
+    ]
 }

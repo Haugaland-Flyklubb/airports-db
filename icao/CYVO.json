@@ -93,5 +93,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95231",
+            "filename": "Val-d'Or_NDB_CA",
+            "ident": "VO",
+            "name": "Val-d'Or",
+            "type": "NDB",
+            "frequency_khz": "239",
+            "latitude_deg": "48.0567016602",
+            "longitude_deg": "-77.793296814",
+            "elevation_ft": "1106",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.323",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYVO"
+        },
+        {
+            "id": "95881",
+            "filename": "Val-d'Or_VOR-DME_CA",
+            "ident": "YVO",
+            "name": "Val-d'Or",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "48.17530059814453",
+            "longitude_deg": "-77.82029724121094",
+            "elevation_ft": "1112",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-14.001",
+            "magnetic_variation_deg": "-13.345",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYVO"
+        }
+    ]
 }

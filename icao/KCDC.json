@@ -115,5 +115,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
         "keywords": "Airports in Utah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86659",
+            "filename": "Cedar_City_VOR-DME_US",
+            "ident": "CDC",
+            "name": "Cedar City",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "37.78730010986328",
+            "longitude_deg": "-113.06800079345703",
+            "elevation_ft": "5464",
+            "iso_country": "US",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "16.001",
+            "magnetic_variation_deg": "12.382",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KCDC"
+        },
+        {
+            "id": "87640",
+            "filename": "Meggi_NDB_US",
+            "ident": "EC",
+            "name": "Meggi",
+            "type": "NDB",
+            "frequency_khz": "217",
+            "latitude_deg": "37.79119873046875",
+            "longitude_deg": "-113.02100372314453",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.376",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCDC"
+        }
+    ]
 }

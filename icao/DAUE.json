@@ -99,5 +99,51 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/El_Menia_Province",
         "keywords": "ولاية المنيعة"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90860",
+            "filename": "El_Golea_NDB_DZ",
+            "ident": "MEA",
+            "name": "El Golea",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "30.563600540161133",
+            "longitude_deg": "2.8949999809265137",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.242",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DAUE"
+        },
+        {
+            "id": "91111",
+            "filename": "El_Golea_VOR-DME_DZ",
+            "ident": "MNA",
+            "name": "El Golea",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "30.5585994720459",
+            "longitude_deg": "2.8616700172424316",
+            "elevation_ft": "1306",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-0.247",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAUE"
+        }
+    ]
 }

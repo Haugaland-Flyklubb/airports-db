@@ -99,5 +99,29 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Apulia",
         "keywords": "PU"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85811",
+            "filename": "Bari_VOR-DME_IT",
+            "ident": "BAR",
+            "name": "Bari",
+            "type": "VOR-DME",
+            "frequency_khz": "116400",
+            "latitude_deg": "41.1442985534668",
+            "longitude_deg": "16.776399612426758",
+            "elevation_ft": "108",
+            "iso_country": "IT",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.306",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIBD"
+        }
+    ]
 }

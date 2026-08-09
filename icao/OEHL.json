@@ -101,5 +101,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/%E1%B8%A4a%27il_Province",
         "keywords": "Airports in Ha'il Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88847",
+            "filename": "Hail_VORTAC_SA",
+            "ident": "HIL",
+            "name": "Hail",
+            "type": "VORTAC",
+            "frequency_khz": "113500",
+            "latitude_deg": "27.425100326538086",
+            "longitude_deg": "41.68280029296875",
+            "elevation_ft": "3324",
+            "iso_country": "SA",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.093",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OEHL"
+        }
+    ]
 }

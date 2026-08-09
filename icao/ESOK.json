@@ -91,5 +91,29 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Värmlanda_län",
         "keywords": "Värmland County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90001",
+            "filename": "Karlstad_VOR-DME_SE",
+            "ident": "KSD",
+            "name": "Karlstad",
+            "type": "VOR-DME",
+            "frequency_khz": "117800",
+            "latitude_deg": "59.44240188598633",
+            "longitude_deg": "13.331600189208984",
+            "elevation_ft": "348",
+            "iso_country": "SE",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "2.197",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ESOK"
+        }
+    ]
 }

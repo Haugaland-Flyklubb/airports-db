@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86771",
+            "filename": "Wauchula_NDB_US",
+            "ident": "CHN",
+            "name": "Wauchula",
+            "type": "NDB",
+            "frequency_khz": "261",
+            "latitude_deg": "27.510000228881836",
+            "longitude_deg": "-81.88330078125",
+            "elevation_ft": "104",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.431",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "67FL"
+        }
+    ]
 }

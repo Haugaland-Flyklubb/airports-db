@@ -107,5 +107,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95691",
+            "filename": "Hay_River_VOR-DME_CA",
+            "ident": "YHY",
+            "name": "Hay River",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "60.83610153198242",
+            "longitude_deg": "-115.8030014038086",
+            "elevation_ft": "573",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "22.001",
+            "magnetic_variation_deg": "21.022",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYHY"
+        }
+    ]
 }

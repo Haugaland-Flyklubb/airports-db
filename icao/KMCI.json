@@ -169,5 +169,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
         "keywords": "Airports in Missouri"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87480",
+            "filename": "Dotte_NDB_US",
+            "ident": "DO",
+            "name": "Dotte",
+            "type": "NDB",
+            "frequency_khz": "359",
+            "latitude_deg": "39.22090148925781",
+            "longitude_deg": "-94.7499008178711",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.028",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KMCI"
+        },
+        {
+            "id": "87599",
+            "filename": "Lexey_NDB_US",
+            "ident": "DY",
+            "name": "Lexey",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "39.38959884643555",
+            "longitude_deg": "-94.67839813232422",
+            "elevation_ft": "830",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.589",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KMCI"
+        }
+    ]
 }

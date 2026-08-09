@@ -101,5 +101,51 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
         "keywords": "Airports in Brandenburg"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88967",
+            "filename": "Holzdorf_TACAN_DE",
+            "ident": "HOZ",
+            "name": "Holzdorf",
+            "type": "TACAN",
+            "frequency_khz": "117250",
+            "latitude_deg": "51.766700744628906",
+            "longitude_deg": "13.199000358581543",
+            "elevation_ft": "261",
+            "iso_country": "DE",
+            "dme_frequency_khz": "117250",
+            "dme_channel": "119Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.006",
+            "magnetic_variation_deg": "2.067",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETSH"
+        },
+        {
+            "id": "88968",
+            "filename": "Holzdorf_NDB_DE",
+            "ident": "HOZ",
+            "name": "Holzdorf",
+            "type": "NDB",
+            "frequency_khz": "406",
+            "latitude_deg": "51.769798278808594",
+            "longitude_deg": "13.09749984741211",
+            "elevation_ft": "316",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.049",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "ETSH"
+        }
+    ]
 }

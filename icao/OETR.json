@@ -77,5 +77,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Borders_Province",
         "keywords": "Al Hudud ash Shamaliyah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94584",
+            "filename": "Turaif_VOR-DME_SA",
+            "ident": "TRF",
+            "name": "Turaif",
+            "type": "VOR-DME",
+            "frequency_khz": "116100",
+            "latitude_deg": "31.693300247192383",
+            "longitude_deg": "38.73469924926758",
+            "elevation_ft": "2808",
+            "iso_country": "SA",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.433",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OETR"
+        }
+    ]
 }

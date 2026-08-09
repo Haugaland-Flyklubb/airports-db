@@ -175,5 +175,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
         "keywords": "Airports in Oklahoma"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91967",
+            "filename": "Tuloo_NDB_US",
+            "ident": "OK",
+            "name": "Tuloo",
+            "type": "NDB",
+            "frequency_khz": "406",
+            "latitude_deg": "35.47140121459961",
+            "longitude_deg": "-97.60549926757812",
+            "elevation_ft": "2607",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.08",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KOKC"
+        }
+    ]
 }

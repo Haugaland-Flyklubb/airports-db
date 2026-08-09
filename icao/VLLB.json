@@ -77,5 +77,51 @@
         "iso_country": "LA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louangphabang_Province",
         "keywords": "Airports in Louangphabang Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86087",
+            "filename": "Luang_Phabang_NDB_LA",
+            "ident": "BK",
+            "name": "Luang Phabang",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "19.866100311279297",
+            "longitude_deg": "102.10900115966797",
+            "elevation_ft": "",
+            "iso_country": "LA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.517",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VLLB"
+        },
+        {
+            "id": "90495",
+            "filename": "Luang_Phabang_VOR-DME_LA",
+            "ident": "LPB",
+            "name": "Luang Phabang",
+            "type": "VOR-DME",
+            "frequency_khz": "116600",
+            "latitude_deg": "19.89940071105957",
+            "longitude_deg": "102.16000366210938",
+            "elevation_ft": "948",
+            "iso_country": "LA",
+            "dme_frequency_khz": "116600",
+            "dme_channel": "113X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-0.52",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VLLB"
+        }
+    ]
 }

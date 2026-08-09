@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Riau",
         "keywords": "Airports in Riau"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87430",
+            "filename": "Dumai_NDB_ID",
+            "ident": "DM",
+            "name": "Dumai",
+            "type": "NDB",
+            "frequency_khz": "343",
+            "latitude_deg": "1.6438900232315063",
+            "longitude_deg": "101.45700073242188",
+            "elevation_ft": "54",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.056",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIBD"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "CV",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Barlavento_Islands",
         "keywords": "Ilhas de Barlavento"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86473",
+            "filename": "Rabil_NDB_CV",
+            "ident": "BVT",
+            "name": "Rabil",
+            "type": "NDB",
+            "frequency_khz": "341",
+            "latitude_deg": "16.151100158691406",
+            "longitude_deg": "-22.888099670410156",
+            "elevation_ft": "",
+            "iso_country": "CV",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.515",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "GVBA"
+        }
+    ]
 }

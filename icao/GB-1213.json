@@ -147,5 +147,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90137",
+            "filename": "Lyneham_NDB_GB",
+            "ident": "LA",
+            "name": "Lyneham",
+            "type": "NDB",
+            "frequency_khz": "282",
+            "latitude_deg": "51.50830078125",
+            "longitude_deg": "-2.0058701038360596",
+            "elevation_ft": "513",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.596",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "GB-1213"
+        },
+        {
+            "id": "90663",
+            "filename": "Lyneham_TACAN_GB",
+            "ident": "LYE",
+            "name": "Lyneham",
+            "type": "TACAN",
+            "frequency_khz": "109800",
+            "latitude_deg": "51.510101318359375",
+            "longitude_deg": "-1.9922399520874023",
+            "elevation_ft": "463",
+            "iso_country": "GB",
+            "dme_frequency_khz": "109800",
+            "dme_channel": "035X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.593",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GB-1213"
+        }
+    ]
 }

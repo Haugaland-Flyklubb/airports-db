@@ -125,5 +125,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93675",
+            "filename": "Fairchild_TACAN_US",
+            "ident": "SKA",
+            "name": "Fairchild",
+            "type": "TACAN",
+            "frequency_khz": "111400",
+            "latitude_deg": "47.61069869995117",
+            "longitude_deg": "-117.66200256347656",
+            "elevation_ft": "2460",
+            "iso_country": "US",
+            "dme_frequency_khz": "111400",
+            "dme_channel": "051X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "19.001",
+            "magnetic_variation_deg": "16.306",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KSKA"
+        }
+    ]
 }

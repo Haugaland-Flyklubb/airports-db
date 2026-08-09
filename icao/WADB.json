@@ -77,5 +77,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Barat",
         "keywords": "Airports in Nusa Tenggara Barat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91633",
+            "filename": "Bima_VOR-DME_ID",
+            "ident": "NMA",
+            "name": "Bima",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "-8.519980430603027",
+            "longitude_deg": "118.68900299072266",
+            "elevation_ft": "3",
+            "iso_country": "ID",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.011",
+            "magnetic_variation_deg": "1.514",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WADB"
+        },
+        {
+            "id": "92589",
+            "filename": "Bima_NDB_ID",
+            "ident": "PO",
+            "name": "Bima",
+            "type": "NDB",
+            "frequency_khz": "223",
+            "latitude_deg": "-8.540730476379395",
+            "longitude_deg": "118.69200134277344",
+            "elevation_ft": "3",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.515",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WADB"
+        }
+    ]
 }

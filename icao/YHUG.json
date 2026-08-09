@@ -99,5 +99,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89040",
+            "filename": "Hughenden_VOR_AU",
+            "ident": "HUG",
+            "name": "Hughenden",
+            "type": "VOR",
+            "frequency_khz": "112400",
+            "latitude_deg": "-20.814199447631836",
+            "longitude_deg": "144.22300720214844",
+            "elevation_ft": "1043",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.011",
+            "magnetic_variation_deg": "7.238",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YHUG"
+        },
+        {
+            "id": "89041",
+            "filename": "Hughenden_NDB_AU",
+            "ident": "HUG",
+            "name": "Hughenden",
+            "type": "NDB",
+            "frequency_khz": "371",
+            "latitude_deg": "-20.820600509643555",
+            "longitude_deg": "144.22900390625",
+            "elevation_ft": "1043",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.24",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YHUG"
+        }
+    ]
 }

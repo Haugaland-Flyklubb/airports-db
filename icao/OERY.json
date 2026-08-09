@@ -131,5 +131,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Riyadh_Region",
         "keywords": "Riyad"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93108",
+            "filename": "Riyadh_VORTAC_SA",
+            "ident": "RIY",
+            "name": "Riyadh",
+            "type": "VORTAC",
+            "frequency_khz": "114500",
+            "latitude_deg": "24.717599868774414",
+            "longitude_deg": "46.720699310302734",
+            "elevation_ft": "2018",
+            "iso_country": "SA",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.252",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OERY"
+        }
+    ]
 }

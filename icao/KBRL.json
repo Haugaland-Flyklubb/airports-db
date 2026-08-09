@@ -115,5 +115,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
         "keywords": "Airports in Iowa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86302",
+            "filename": "Burns_NDB_US",
+            "ident": "BR",
+            "name": "Burns",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "40.65420150756836",
+            "longitude_deg": "-91.12300109863281",
+            "elevation_ft": "575",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.03",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBRL"
+        }
+    ]
 }

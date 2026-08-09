@@ -85,5 +85,51 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
         "keywords": "Bayern"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87682",
+            "filename": "Eggenfelden_NDB_DE",
+            "ident": "EGG",
+            "name": "Eggenfelden",
+            "type": "NDB",
+            "frequency_khz": "393",
+            "latitude_deg": "48.39699935913086",
+            "longitude_deg": "12.749799728393555",
+            "elevation_ft": "1329",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.565",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EDME"
+        },
+        {
+            "id": "87756",
+            "filename": "Eggenfelden_DME_DE",
+            "ident": "END",
+            "name": "Eggenfelden",
+            "type": "DME",
+            "frequency_khz": "115400",
+            "latitude_deg": "48.39440155029297",
+            "longitude_deg": "12.7253999710083",
+            "elevation_ft": "1381",
+            "iso_country": "DE",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.561",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDME"
+        }
+    ]
 }

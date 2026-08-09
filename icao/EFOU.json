@@ -77,5 +77,51 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Ostrobothnia",
         "keywords": "Airports in North Ostrobothnia Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90142",
+            "filename": "Laanila_NDB_FI",
+            "ident": "LAA",
+            "name": "Laanila",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "64.96630096435547",
+            "longitude_deg": "25.211200714111328",
+            "elevation_ft": "",
+            "iso_country": "FI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.327",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EFOU"
+        },
+        {
+            "id": "92156",
+            "filename": "Oulu_VOR-DME_FI",
+            "ident": "OUK",
+            "name": "Oulu",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "64.93160247802734",
+            "longitude_deg": "25.35930061340332",
+            "elevation_ft": "66",
+            "iso_country": "FI",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.007",
+            "magnetic_variation_deg": "8.364",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EFOU"
+        }
+    ]
 }

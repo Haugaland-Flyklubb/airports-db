@@ -123,5 +123,51 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pampanga_Province",
         "keywords": "Airports in Pampanga Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86791",
+            "filename": "Clark_VOR-DME_PH",
+            "ident": "CIA",
+            "name": "Clark",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "15.18690013885498",
+            "longitude_deg": "120.56099700927734",
+            "elevation_ft": "484",
+            "iso_country": "PH",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-1.255",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPLC"
+        },
+        {
+            "id": "86794",
+            "filename": "Clark_NDB_PH",
+            "ident": "CIA",
+            "name": "Clark",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "15.209400177001953",
+            "longitude_deg": "120.57099914550781",
+            "elevation_ft": "",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.259",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPLC"
+        }
+    ]
 }

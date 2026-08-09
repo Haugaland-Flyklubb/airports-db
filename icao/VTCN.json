@@ -85,5 +85,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nan_province",
         "keywords": "Airports in Nan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91459",
+            "filename": "Nan_VOR-DME_TH",
+            "ident": "NAN",
+            "name": "Nan",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "18.809099197387695",
+            "longitude_deg": "100.78299713134766",
+            "elevation_ft": "685",
+            "iso_country": "TH",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.463",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTCN"
+        },
+        {
+            "id": "91643",
+            "filename": "Nan_NDB_TH",
+            "ident": "NN",
+            "name": "Nan",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "18.80030059814453",
+            "longitude_deg": "100.78299713134766",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.463",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTCN"
+        }
+    ]
 }

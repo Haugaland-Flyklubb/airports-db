@@ -137,5 +137,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
         "keywords": "Airports in Maryland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85540",
+            "filename": "Aberdeen_NDB_US",
+            "ident": "APG",
+            "name": "Aberdeen",
+            "type": "NDB",
+            "frequency_khz": "349",
+            "latitude_deg": "39.535099029541016",
+            "longitude_deg": "-76.1063003540039",
+            "elevation_ft": "45",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.298",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KAPG"
+        },
+        {
+            "id": "92643",
+            "filename": "Phillips_VOR-DME_US",
+            "ident": "PPM",
+            "name": "Phillips",
+            "type": "VOR-DME",
+            "frequency_khz": "108400",
+            "latitude_deg": "39.46670150756836",
+            "longitude_deg": "-76.1709976196289",
+            "elevation_ft": "41",
+            "iso_country": "US",
+            "dme_frequency_khz": "108400",
+            "dme_channel": "021X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.001",
+            "magnetic_variation_deg": "-11.26",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KAPG"
+        }
+    ]
 }

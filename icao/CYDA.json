@@ -85,5 +85,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yukon_Territory",
         "keywords": "Airports in Yukon"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87240",
+            "filename": "Dawson_City_NDB_CA",
+            "ident": "DA",
+            "name": "Dawson City",
+            "type": "NDB",
+            "frequency_khz": "214",
+            "latitude_deg": "64.02890014648438",
+            "longitude_deg": "-139.16799926757812",
+            "elevation_ft": "1214",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "24.569",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYDA"
+        }
+    ]
 }

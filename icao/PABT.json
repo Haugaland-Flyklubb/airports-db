@@ -101,5 +101,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86404",
+            "filename": "Bettles_VOR-DME_US",
+            "ident": "BTT",
+            "name": "Bettles",
+            "type": "VOR-DME",
+            "frequency_khz": "116000",
+            "latitude_deg": "66.90499877929688",
+            "longitude_deg": "-151.53599548339844",
+            "elevation_ft": "634",
+            "iso_country": "US",
+            "dme_frequency_khz": "116000",
+            "dme_channel": "107X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "27.001",
+            "magnetic_variation_deg": "21.396",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PABT"
+        },
+        {
+            "id": "87634",
+            "filename": "Evansville_NDB_US",
+            "ident": "EAV",
+            "name": "Evansville",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "66.89320373535156",
+            "longitude_deg": "-151.56399536132812",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.386",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PABT"
+        }
+    ]
 }

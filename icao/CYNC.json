@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95762",
+            "filename": "Wemindji_NDB_CA",
+            "ident": "YNC",
+            "name": "Wemindji",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "53.008399963378906",
+            "longitude_deg": "-78.82430267333984",
+            "elevation_ft": "46",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.317",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYNC"
+        }
+    ]
 }

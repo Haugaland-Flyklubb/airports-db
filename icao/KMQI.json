@@ -107,5 +107,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
         "keywords": "Airports in North Carolina"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91214",
+            "filename": "Manteo_NDB_US",
+            "ident": "MQI",
+            "name": "Manteo",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "35.91529846191406",
+            "longitude_deg": "-75.69509887695312",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.447",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KMQI"
+        },
+        {
+            "id": "92998",
+            "filename": "Wright_Brothers_VOR-DME_US",
+            "ident": "RBX",
+            "name": "Wright Brothers",
+            "type": "VOR-DME",
+            "frequency_khz": "111600",
+            "latitude_deg": "35.920501708984375",
+            "longitude_deg": "-75.6968994140625",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "111600",
+            "dme_channel": "053X",
+            "dme_latitude_deg": "35.9205",
+            "dme_longitude_deg": "-75.6971",
+            "dme_elevation_ft": "10",
+            "slaved_variation_deg": "-8.001",
+            "magnetic_variation_deg": "-10.447",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KMQI"
+        }
+    ]
 }

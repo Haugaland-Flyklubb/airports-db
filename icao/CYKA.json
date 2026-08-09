@@ -131,5 +131,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95569",
+            "filename": "Kamloops_DME_CA",
+            "ident": "XPP",
+            "name": "Kamloops",
+            "type": "DME",
+            "frequency_khz": "109900",
+            "latitude_deg": "50.70610046386719",
+            "longitude_deg": "-120.45999908447266",
+            "elevation_ft": "1129",
+            "iso_country": "CA",
+            "dme_frequency_khz": "109900",
+            "dme_channel": "036X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.209",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CYKA"
+        },
+        {
+            "id": "95715",
+            "filename": "Kamloops_NDB_CA",
+            "ident": "YKA",
+            "name": "Kamloops",
+            "type": "NDB",
+            "frequency_khz": "223",
+            "latitude_deg": "50.68360137939453",
+            "longitude_deg": "-120.33499908447266",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.186",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYKA"
+        }
+    ]
 }

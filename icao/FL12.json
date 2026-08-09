@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88334",
+            "filename": "Greenville_VORTAC_US",
+            "ident": "GEF",
+            "name": "Greenville",
+            "type": "VORTAC",
+            "frequency_khz": "109000",
+            "latitude_deg": "30.551300048828125",
+            "longitude_deg": "-83.78309631347656",
+            "elevation_ft": "220",
+            "iso_country": "US",
+            "dme_frequency_khz": "109000",
+            "dme_channel": "027X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "-3.571",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "FL12"
+        }
+    ]
 }

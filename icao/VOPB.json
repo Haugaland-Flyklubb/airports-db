@@ -93,5 +93,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands",
         "keywords": "Airports in Andaman and Nicobar Islands"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92635",
+            "filename": "Port_Blair_VOR-DME_IN",
+            "ident": "PPB",
+            "name": "Port Blair",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "11.649700164794922",
+            "longitude_deg": "92.74720001220703",
+            "elevation_ft": "16",
+            "iso_country": "IN",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-1.057",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOPB"
+        }
+    ]
 }

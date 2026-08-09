@@ -99,5 +99,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91441",
+            "filename": "Swan_River_NDB_CA",
+            "ident": "N4",
+            "name": "Swan River",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "52.115299224853516",
+            "longitude_deg": "-101.23500061035156",
+            "elevation_ft": "1100",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.523",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CZJN"
+        }
+    ]
 }

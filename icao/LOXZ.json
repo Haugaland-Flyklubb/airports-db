@@ -99,5 +99,29 @@
         "iso_country": "AT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Styria",
         "keywords": "Steiermark"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96141",
+            "filename": "Zeltweg_NDB_AT",
+            "ident": "ZW",
+            "name": "Zeltweg",
+            "type": "NDB",
+            "frequency_khz": "418",
+            "latitude_deg": "47.19810104370117",
+            "longitude_deg": "14.756699562072754",
+            "elevation_ft": "",
+            "iso_country": "AT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.237",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LOXZ"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Madhesh_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "89502",
+            "filename": "Janakpur_NDB_NP",
+            "ident": "JKP",
+            "name": "Janakpur",
+            "type": "NDB",
+            "frequency_khz": "287",
+            "latitude_deg": "26.712200164794922",
+            "longitude_deg": "85.92169952392578",
+            "elevation_ft": "100",
+            "iso_country": "NP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.022",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VNJP"
+        }
+    ]
 }

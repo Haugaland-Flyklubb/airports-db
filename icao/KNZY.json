@@ -147,5 +147,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91812",
+            "filename": "North_Island_TACAN_US",
+            "ident": "NZY",
+            "name": "North Island",
+            "type": "TACAN",
+            "frequency_khz": "117000",
+            "latitude_deg": "32.702598571777344",
+            "longitude_deg": "-117.21600341796875",
+            "elevation_ft": "25",
+            "iso_country": "US",
+            "dme_frequency_khz": "117000",
+            "dme_channel": "117X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.004",
+            "magnetic_variation_deg": "12.371",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KNZY"
+        }
+    ]
 }

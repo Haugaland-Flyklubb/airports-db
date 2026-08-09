@@ -35,5 +35,29 @@
         "iso_country": "GA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Woleu-Ntem_Province",
         "keywords": "Airports in Woleu-Ntem Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89136",
+            "filename": "Mitzic_NDB_GA",
+            "ident": "IC",
+            "name": "Mitzic",
+            "type": "NDB",
+            "frequency_khz": "316",
+            "latitude_deg": "0.7836390137672424",
+            "longitude_deg": "11.548999786376953",
+            "elevation_ft": "",
+            "iso_country": "GA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.523",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FOOM"
+        }
+    ]
 }

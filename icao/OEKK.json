@@ -101,5 +101,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Province,_Saudi_Arabia",
         "keywords": "Airports in Ash Sharqiyah Region, Eastern Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89868",
+            "filename": "King_Khaled_Military_City_VORTAC_SA",
+            "ident": "KMC",
+            "name": "King Khaled Military City",
+            "type": "VORTAC",
+            "frequency_khz": "115900",
+            "latitude_deg": "27.879499435424805",
+            "longitude_deg": "45.556800842285156",
+            "elevation_ft": "1342",
+            "iso_country": "SA",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.566",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OEKK"
+        }
+    ]
 }

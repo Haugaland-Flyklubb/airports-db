@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85050",
+            "filename": "Williams_Harbour_NDB_CA",
+            "ident": "1A",
+            "name": "Williams Harbour",
+            "type": "NDB",
+            "frequency_khz": "373",
+            "latitude_deg": "52.55889892578125",
+            "longitude_deg": "-55.78219985961914",
+            "elevation_ft": "70",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-23.072",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CCA6"
+        }
+    ]
 }

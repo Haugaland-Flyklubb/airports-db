@@ -77,5 +77,29 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vestland",
         "keywords": "Airports in Vestland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93841",
+            "filename": "Sogndal_VOR-DME_NO",
+            "ident": "SOG",
+            "name": "Sogndal",
+            "type": "VOR-DME",
+            "frequency_khz": "114200",
+            "latitude_deg": "61.15019989013672",
+            "longitude_deg": "7.159739971160889",
+            "elevation_ft": "1652",
+            "iso_country": "NO",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.003",
+            "magnetic_variation_deg": "-0.285",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "ENSG"
+        }
+    ]
 }

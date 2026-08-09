@@ -77,5 +77,51 @@
         "iso_country": "UZ",
         "wikipedia_link": "https://en.m.wikipedia.org/wiki/Bukhara_Region",
         "keywords": "Airports in Bukhara Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86304",
+            "filename": "Bukhara_NDB_UZ",
+            "ident": "BR",
+            "name": "Bukhara",
+            "type": "NDB",
+            "frequency_khz": "795",
+            "latitude_deg": "39.823299407958984",
+            "longitude_deg": "64.49500274658203",
+            "elevation_ft": "",
+            "iso_country": "UZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.395",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UTSB"
+        },
+        {
+            "id": "94848",
+            "filename": "Bukhara_NDB_UZ",
+            "ident": "UH",
+            "name": "Bukhara",
+            "type": "NDB",
+            "frequency_khz": "795",
+            "latitude_deg": "39.72829818725586",
+            "longitude_deg": "64.4717025756836",
+            "elevation_ft": "",
+            "iso_country": "UZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.375",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UTSB"
+        }
+    ]
 }

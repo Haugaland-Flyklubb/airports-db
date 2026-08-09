@@ -59,5 +59,29 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Province_(Papua_New_Guinea)",
         "keywords": "Airports in Western Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91983",
+            "filename": "Ok_Tedi_NDB-DME_PG",
+            "ident": "OKT",
+            "name": "Ok Tedi",
+            "type": "NDB-DME",
+            "frequency_khz": "163",
+            "latitude_deg": "-5.409900188446045",
+            "longitude_deg": "141.31900024414062",
+            "elevation_ft": "2574",
+            "iso_country": "PG",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.337",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "AYTB"
+        }
+    ]
 }

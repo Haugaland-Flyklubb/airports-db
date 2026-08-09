@@ -69,5 +69,29 @@
         "iso_country": "NG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Plateau_State",
         "keywords": "Airports in Plateau"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89533",
+            "filename": "Jos_VOR-DME_NG",
+            "ident": "JOS",
+            "name": "Jos",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "9.642189979553223",
+            "longitude_deg": "8.843000411987305",
+            "elevation_ft": "4260",
+            "iso_country": "NG",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.363",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DNJO"
+        }
+    ]
 }

@@ -93,5 +93,29 @@
         "iso_country": "RO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iaşi_County",
         "keywords": "Moldavia, Moldavian"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89119",
+            "filename": "Iasi_NDB_RO",
+            "ident": "IAS",
+            "name": "Iasi",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "47.23429870605469",
+            "longitude_deg": "27.579700469970703",
+            "elevation_ft": "292",
+            "iso_country": "RO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.005",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LRIA"
+        }
+    ]
 }

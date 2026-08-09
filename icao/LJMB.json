@@ -99,5 +99,29 @@
         "iso_country": "SI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Municipality_of_Ho%C4%8De-Slivnica",
         "keywords": "Airports in Hoce-Slivnica"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91229",
+            "filename": "Maribor_NDB_SI",
+            "ident": "MR",
+            "name": "Maribor",
+            "type": "NDB",
+            "frequency_khz": "334",
+            "latitude_deg": "46.371498107910156",
+            "longitude_deg": "15.79319953918457",
+            "elevation_ft": "768",
+            "iso_country": "SI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.354",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LJMB"
+        }
+    ]
 }

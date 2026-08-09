@@ -81,5 +81,29 @@
         "iso_country": "NA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kunene_Region",
         "keywords": "Airports in Kunene Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93002",
+            "filename": "Ruacana_NDB_NA",
+            "ident": "RC",
+            "name": "Ruacana",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "-17.417999267578125",
+            "longitude_deg": "14.373100280761719",
+            "elevation_ft": "3765",
+            "iso_country": "NA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.027",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FYRC"
+        }
+    ]
 }

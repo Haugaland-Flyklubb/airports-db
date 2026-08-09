@@ -59,5 +59,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
         "keywords": "Airports in Rio Grande do Sul"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93060",
+            "filename": "Canal_NDB_BR",
+            "ident": "RG",
+            "name": "Canal",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "-32.14929962158203",
+            "longitude_deg": "-52.10369873046875",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.302",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SJRG"
+        },
+        {
+            "id": "93161",
+            "filename": "Rio_Grande_NDB_BR",
+            "ident": "RND",
+            "name": "Rio Grande",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "-32.08300018310547",
+            "longitude_deg": "-52.163299560546875",
+            "elevation_ft": "27",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.294",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SJRG"
+        }
+    ]
 }

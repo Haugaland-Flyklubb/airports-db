@@ -85,5 +85,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hokkaido",
         "keywords": "Hokkaido"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89067",
+            "filename": "Hakodate_NDB_JP",
+            "ident": "HW",
+            "name": "Hakodate",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "41.77539825439453",
+            "longitude_deg": "140.81900024414062",
+            "elevation_ft": "151",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.512",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "RJCH"
+        },
+        {
+            "id": "89071",
+            "filename": "Hakodate_VOR-DME_JP",
+            "ident": "HWE",
+            "name": "Hakodate",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "41.77399826049805",
+            "longitude_deg": "140.83200073242188",
+            "elevation_ft": "300",
+            "iso_country": "JP",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.011",
+            "magnetic_variation_deg": "-8.51",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJCH"
+        }
+    ]
 }

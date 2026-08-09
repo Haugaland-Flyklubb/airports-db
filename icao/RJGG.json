@@ -125,5 +125,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aichi",
         "keywords": "Chubu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86617",
+            "filename": "Chubu_VOR-DME_JP",
+            "ident": "CBE",
+            "name": "Chubu",
+            "type": "VOR-DME",
+            "frequency_khz": "117800",
+            "latitude_deg": "34.858001708984375",
+            "longitude_deg": "136.80299377441406",
+            "elevation_ft": "39",
+            "iso_country": "JP",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.59",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJGG"
+        }
+    ]
 }

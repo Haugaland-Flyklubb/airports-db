@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93922",
+            "filename": "Pribilof_NDB-DME_US",
+            "ident": "SRI",
+            "name": "Pribilof",
+            "type": "NDB-DME",
+            "frequency_khz": "399",
+            "latitude_deg": "56.57389831542969",
+            "longitude_deg": "-169.6479949951172",
+            "elevation_ft": "97",
+            "iso_country": "US",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.161",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "PAPB"
+        }
+    ]
 }

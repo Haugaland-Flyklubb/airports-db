@@ -69,5 +69,51 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Milne_Bay_Province",
         "keywords": "Airports in Milne Bay Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88497",
+            "filename": "Gurney_VOR-DME_PG",
+            "ident": "GNY",
+            "name": "Gurney",
+            "type": "VOR-DME",
+            "frequency_khz": "115600",
+            "latitude_deg": "-10.315799713134766",
+            "longitude_deg": "150.36199951171875",
+            "elevation_ft": "23",
+            "iso_country": "PG",
+            "dme_frequency_khz": "115600",
+            "dme_channel": "103X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.007",
+            "magnetic_variation_deg": "7.093",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "AYGN"
+        },
+        {
+            "id": "88498",
+            "filename": "Gurney_NDB_PG",
+            "ident": "GNY",
+            "name": "Gurney",
+            "type": "NDB",
+            "frequency_khz": "162",
+            "latitude_deg": "-10.317500114440918",
+            "longitude_deg": "150.36599731445312",
+            "elevation_ft": "",
+            "iso_country": "PG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.093",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "AYGN"
+        }
+    ]
 }

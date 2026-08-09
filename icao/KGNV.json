@@ -147,5 +147,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88482",
+            "filename": "Wynds_NDB_US",
+            "ident": "GN",
+            "name": "Wynds",
+            "type": "NDB",
+            "frequency_khz": "269",
+            "latitude_deg": "29.670000076293945",
+            "longitude_deg": "-82.1720962524414",
+            "elevation_ft": "170",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.555",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KGNV"
+        },
+        {
+            "id": "88496",
+            "filename": "Gators_VORTAC_US",
+            "ident": "GNV",
+            "name": "Gators",
+            "type": "VORTAC",
+            "frequency_khz": "116200",
+            "latitude_deg": "29.692100524902344",
+            "longitude_deg": "-82.27300262451172",
+            "elevation_ft": "128",
+            "iso_country": "US",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.001",
+            "magnetic_variation_deg": "-4.529",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KGNV"
+        }
+    ]
 }

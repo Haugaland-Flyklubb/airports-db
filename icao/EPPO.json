@@ -131,5 +131,29 @@
         "iso_country": "PL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Greater_Poland_Voivodeship",
         "keywords": "Wielkopolskie"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92621",
+            "filename": "Poznan_NDB_PL",
+            "ident": "POZ",
+            "name": "Poznan",
+            "type": "NDB",
+            "frequency_khz": "429",
+            "latitude_deg": "52.398101806640625",
+            "longitude_deg": "16.944599151611328",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.132",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "EPPO"
+        }
+    ]
 }

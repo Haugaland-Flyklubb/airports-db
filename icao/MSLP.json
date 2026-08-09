@@ -131,5 +131,51 @@
         "iso_country": "SV",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Paz_Department_(El_Salvador)",
         "keywords": "Airports in La Paz"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86587",
+            "filename": "El_Salvador_VOR-DME_SV",
+            "ident": "CAT",
+            "name": "El Salvador",
+            "type": "VOR-DME",
+            "frequency_khz": "117500",
+            "latitude_deg": "13.441399574279785",
+            "longitude_deg": "-89.04779815673828",
+            "elevation_ft": "114",
+            "iso_country": "SV",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.002",
+            "magnetic_variation_deg": "2.009",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MSLP"
+        },
+        {
+            "id": "90159",
+            "filename": "Amatecampo_NDB_SV",
+            "ident": "LAN",
+            "name": "Amatecampo",
+            "type": "NDB",
+            "frequency_khz": "331",
+            "latitude_deg": "13.412099838256836",
+            "longitude_deg": "-89.13749694824219",
+            "elevation_ft": "101",
+            "iso_country": "SV",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.04",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MSLP"
+        }
+    ]
 }

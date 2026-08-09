@@ -77,5 +77,29 @@
         "iso_country": "CM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Far_North_Province",
         "keywords": "Airports in Far North Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94385",
+            "filename": "Maroua_Salak_NDB_CM",
+            "ident": "TJL",
+            "name": "Maroua/Salak",
+            "type": "NDB",
+            "frequency_khz": "364",
+            "latitude_deg": "10.462200164794922",
+            "longitude_deg": "14.244099617004395",
+            "elevation_ft": "1440",
+            "iso_country": "CM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.265",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FKKL"
+        }
+    ]
 }

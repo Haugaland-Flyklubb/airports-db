@@ -101,5 +101,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88258",
+            "filename": "Gambell_NDB-DME_US",
+            "ident": "GAM",
+            "name": "Gambell",
+            "type": "NDB-DME",
+            "frequency_khz": "369",
+            "latitude_deg": "63.78200149536133",
+            "longitude_deg": "-171.73699951171875",
+            "elevation_ft": "38",
+            "iso_country": "US",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.53",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "PAGM"
+        }
+    ]
 }

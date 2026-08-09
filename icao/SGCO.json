@@ -69,5 +69,29 @@
         "iso_country": "PY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Concepci%C3%B3n_Department_%28Paraguay%29",
         "keywords": "Airports in Concepción Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86961",
+            "filename": "Concepcion_NDB_PY",
+            "ident": "CON",
+            "name": "Concepcion",
+            "type": "NDB",
+            "frequency_khz": "405",
+            "latitude_deg": "-23.438400268554688",
+            "longitude_deg": "-57.430599212646484",
+            "elevation_ft": "",
+            "iso_country": "PY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.419",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SGCO"
+        }
+    ]
 }

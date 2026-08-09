@@ -93,5 +93,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Valle_del_Cauca_Department",
         "keywords": "Airports in Valle del Cauca Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86438",
+            "filename": "Buenaventura_VOR-DME_CO",
+            "ident": "BUN",
+            "name": "Buenaventura",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "3.8255300521850586",
+            "longitude_deg": "-76.99539947509766",
+            "elevation_ft": "50",
+            "iso_country": "CO",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.292",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKBU"
+        }
+    ]
 }

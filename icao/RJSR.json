@@ -69,5 +69,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Akita",
         "keywords": "Tohoku"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91892",
+            "filename": "Odate_Noshiro_VOR-DME_JP",
+            "ident": "ODE",
+            "name": "Odate Noshiro",
+            "type": "VOR-DME",
+            "frequency_khz": "114750",
+            "latitude_deg": "40.198299407958984",
+            "longitude_deg": "140.36199951171875",
+            "elevation_ft": "308",
+            "iso_country": "JP",
+            "dme_frequency_khz": "114750",
+            "dme_channel": "094Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.011",
+            "magnetic_variation_deg": "-8.235",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "RJSR"
+        }
+    ]
 }

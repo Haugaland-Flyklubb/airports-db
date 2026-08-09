@@ -93,5 +93,51 @@
         "iso_country": "PL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_Voivodeship",
         "keywords": "Łódzkie"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94158",
+            "filename": "Lask_NDB_PL",
+            "ident": "T",
+            "name": "Lask",
+            "type": "NDB",
+            "frequency_khz": "664",
+            "latitude_deg": "51.5452995300293",
+            "longitude_deg": "19.21179962158203",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.461",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EPLK"
+        },
+        {
+            "id": "94744",
+            "filename": "Lask_NDB_PL",
+            "ident": "TZ",
+            "name": "Lask",
+            "type": "NDB",
+            "frequency_khz": "322",
+            "latitude_deg": "51.538299560546875",
+            "longitude_deg": "19.25040054321289",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.466",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EPLK"
+        }
+    ]
 }

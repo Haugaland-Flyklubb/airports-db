@@ -151,5 +151,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
         "keywords": "Airports in Tennessee"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95003",
+            "filename": "Tullahoma_Regional_VOR_US",
+            "ident": "UXM",
+            "name": "Tullahoma Regional",
+            "type": "VOR",
+            "frequency_khz": "109650",
+            "latitude_deg": "35.380401611328125",
+            "longitude_deg": "-86.24579620361328",
+            "elevation_ft": "1082",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.01",
+            "magnetic_variation_deg": "-2.592",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KTHA"
+        }
+    ]
 }

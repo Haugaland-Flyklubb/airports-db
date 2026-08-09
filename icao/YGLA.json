@@ -77,5 +77,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88441",
+            "filename": "Gladstone_VOR_AU",
+            "ident": "GLA",
+            "name": "Gladstone",
+            "type": "VOR",
+            "frequency_khz": "116300",
+            "latitude_deg": "-23.865299224853516",
+            "longitude_deg": "151.20399475097656",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.011",
+            "magnetic_variation_deg": "9.445",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "YGLA"
+        },
+        {
+            "id": "88442",
+            "filename": "Gladstone_NDB_AU",
+            "ident": "GLA",
+            "name": "Gladstone",
+            "type": "NDB",
+            "frequency_khz": "236",
+            "latitude_deg": "-23.87190055847168",
+            "longitude_deg": "151.2259979248047",
+            "elevation_ft": "64",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.449",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YGLA"
+        }
+    ]
 }

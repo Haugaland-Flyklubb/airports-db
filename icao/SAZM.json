@@ -85,5 +85,51 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90841",
+            "filename": "Mar_Del_Plata_VOR-DME_AR",
+            "ident": "MDP",
+            "name": "Mar Del Plata",
+            "type": "VOR-DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "-37.9296989440918",
+            "longitude_deg": "-57.57640075683594",
+            "elevation_ft": "73",
+            "iso_country": "AR",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-5.52",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAZM"
+        },
+        {
+            "id": "90842",
+            "filename": "Mar_Del_Plata_NDB_AR",
+            "ident": "MDP",
+            "name": "Mar Del Plata",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "-37.93939971923828",
+            "longitude_deg": "-57.575599670410156",
+            "elevation_ft": "72",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.517",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAZM"
+        }
+    ]
 }

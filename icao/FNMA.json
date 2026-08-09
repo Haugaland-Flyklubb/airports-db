@@ -69,5 +69,29 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Malanje_Province",
         "keywords": "Malange Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90692",
+            "filename": "Malanje_NDB_AO",
+            "ident": "MA",
+            "name": "Malanje",
+            "type": "NDB",
+            "frequency_khz": "293",
+            "latitude_deg": "-9.550000190734863",
+            "longitude_deg": "16.36669921875",
+            "elevation_ft": "",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.461",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNMA"
+        }
+    ]
 }

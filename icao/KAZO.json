@@ -169,5 +169,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85740",
+            "filename": "Austn_NDB_US",
+            "ident": "AZ",
+            "name": "Austn",
+            "type": "NDB",
+            "frequency_khz": "371",
+            "latitude_deg": "42.131099700927734",
+            "longitude_deg": "-85.52980041503906",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.586",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KAZO"
+        },
+        {
+            "id": "85744",
+            "filename": "Kalamazoo_VOR-DME_US",
+            "ident": "AZO",
+            "name": "Kalamazoo",
+            "type": "VOR-DME",
+            "frequency_khz": "109000",
+            "latitude_deg": "42.23699951171875",
+            "longitude_deg": "-85.5531997680664",
+            "elevation_ft": "870",
+            "iso_country": "US",
+            "dme_frequency_khz": "109000",
+            "dme_channel": "027X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.001",
+            "magnetic_variation_deg": "-4.59",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KAZO"
+        }
+    ]
 }

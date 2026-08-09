@@ -77,5 +77,29 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Umbria",
         "keywords": "UM"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92702",
+            "filename": "Perugia_VOR-DME_IT",
+            "ident": "PRU",
+            "name": "Perugia",
+            "type": "VOR-DME",
+            "frequency_khz": "109400",
+            "latitude_deg": "43.10169982910156",
+            "longitude_deg": "12.511899948120117",
+            "elevation_ft": "721",
+            "iso_country": "IT",
+            "dme_frequency_khz": "109400",
+            "dme_channel": "031X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.48",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "LIRZ"
+        }
+    ]
 }

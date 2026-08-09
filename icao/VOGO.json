@@ -85,5 +85,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Goa",
         "keywords": "Airports in Goa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88380",
+            "filename": "Goa_VOR-DME_IN",
+            "ident": "GGO",
+            "name": "Goa",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "15.379799842834473",
+            "longitude_deg": "73.8125991821289",
+            "elevation_ft": "183",
+            "iso_country": "IN",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.011",
+            "magnetic_variation_deg": "-1.271",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOGO"
+        },
+        {
+            "id": "88500",
+            "filename": "Goa_NDB_IN",
+            "ident": "GO",
+            "name": "Goa",
+            "type": "NDB",
+            "frequency_khz": "274",
+            "latitude_deg": "15.392000198364258",
+            "longitude_deg": "73.8904037475586",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.271",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VOGO"
+        }
+    ]
 }

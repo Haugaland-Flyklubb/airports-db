@@ -69,5 +69,29 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vila_Real_District",
         "keywords": "Airports in Vila Real District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95260",
+            "filename": "Vila_Real_NDB_PT",
+            "ident": "VR",
+            "name": "Vila Real",
+            "type": "NDB",
+            "frequency_khz": "304",
+            "latitude_deg": "41.215301513671875",
+            "longitude_deg": "-7.743889808654785",
+            "elevation_ft": "",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.411",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPVR"
+        }
+    ]
 }

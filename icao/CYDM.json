@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yukon_Territory",
         "keywords": "Airports in Yukon"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95648",
+            "filename": "Ross_River_NDB_CA",
+            "ident": "YDM",
+            "name": "Ross River",
+            "type": "NDB",
+            "frequency_khz": "218",
+            "latitude_deg": "61.97330093383789",
+            "longitude_deg": "-132.427001953125",
+            "elevation_ft": "2314",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "24.567",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYDM"
+        }
+    ]
 }

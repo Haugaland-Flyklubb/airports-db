@@ -99,5 +99,51 @@
         "iso_country": "TM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Da%C5%9Foguz_Region",
         "keywords": "Tashauz, Dashkhovuz, Dashhowuz, Dashoguz, Dasoguz, Дашогуз"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93214",
+            "filename": "Dashoguz_NDB_TM",
+            "ident": "RP",
+            "name": "Dashoguz",
+            "type": "NDB",
+            "frequency_khz": "322",
+            "latitude_deg": "41.76169967651367",
+            "longitude_deg": "59.76499938964844",
+            "elevation_ft": "",
+            "iso_country": "TM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.406",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UTAT"
+        },
+        {
+            "id": "95118",
+            "filename": "Dashoguz_NDB_TM",
+            "ident": "VH",
+            "name": "Dashoguz",
+            "type": "NDB",
+            "frequency_khz": "322",
+            "latitude_deg": "41.7599983215332",
+            "longitude_deg": "59.891700744628906",
+            "elevation_ft": "",
+            "iso_country": "TM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.402",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UTAT"
+        }
+    ]
 }

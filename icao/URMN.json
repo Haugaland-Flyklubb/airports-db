@@ -85,5 +85,29 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kabardino-Balkar_Republic",
         "keywords": "Airports in Kabardino-Balkar Republic"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91616",
+            "filename": "Nalchik_NDB_RU",
+            "ident": "NL",
+            "name": "Nalchik",
+            "type": "NDB",
+            "frequency_khz": "718",
+            "latitude_deg": "43.53329849243164",
+            "longitude_deg": "43.69329833984375",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.119",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "URMN"
+        }
+    ]
 }

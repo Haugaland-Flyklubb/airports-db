@@ -107,5 +107,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Espírito_Santo",
         "keywords": "Airports in Espírito Santo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95310",
+            "filename": "Vitoria_VOR-DME_BR",
+            "ident": "VTR",
+            "name": "Vitoria",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "-20.24970054626465",
+            "longitude_deg": "-40.28300094604492",
+            "elevation_ft": "11",
+            "iso_country": "BR",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-22.007",
+            "magnetic_variation_deg": "-22.554",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBVT"
+        },
+        {
+            "id": "95311",
+            "filename": "Vitoria_NDB_BR",
+            "ident": "VTR",
+            "name": "Vitoria",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "-20.191999435424805",
+            "longitude_deg": "-40.242698669433594",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.563",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBVT"
+        }
+    ]
 }

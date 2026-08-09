@@ -115,5 +115,51 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Shandong",
         "keywords": "Airports in Shandong Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94193",
+            "filename": "Qingdao_VOR-DME_CN",
+            "ident": "TAO",
+            "name": "Qingdao",
+            "type": "VOR-DME",
+            "frequency_khz": "117500",
+            "latitude_deg": "36.28499984741211",
+            "longitude_deg": "120.37000274658203",
+            "elevation_ft": "60",
+            "iso_country": "CN",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.226",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CN-0164"
+        },
+        {
+            "id": "95556",
+            "filename": "Xuejiadao_VOR-DME_CN",
+            "ident": "XJT",
+            "name": "Xuejiadao",
+            "type": "VOR-DME",
+            "frequency_khz": "117000",
+            "latitude_deg": "35.961700439453125",
+            "longitude_deg": "120.23999786376953",
+            "elevation_ft": "70",
+            "iso_country": "CN",
+            "dme_frequency_khz": "117000",
+            "dme_channel": "117X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.17",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CN-0164"
+        }
+    ]
 }

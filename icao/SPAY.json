@@ -69,5 +69,29 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ucayali_Region",
         "keywords": "Airports in Ucayali Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90186",
+            "filename": "Atalaya_NDB_PE",
+            "ident": "LAY",
+            "name": "Atalaya",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "-10.727800369262695",
+            "longitude_deg": "-73.76969909667969",
+            "elevation_ft": "751",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.447",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "SPAY"
+        }
+    ]
 }

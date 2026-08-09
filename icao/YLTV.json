@@ -129,5 +129,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90577",
+            "filename": "Latrobe_Valley_NDB_AU",
+            "ident": "LTV",
+            "name": "Latrobe Valley",
+            "type": "NDB",
+            "frequency_khz": "486",
+            "latitude_deg": "-38.213600158691406",
+            "longitude_deg": "146.47500610351562",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.251",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YLTV"
+        }
+    ]
 }

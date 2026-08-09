@@ -69,5 +69,29 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/B%C3%A9ja%C3%AFa_Province",
         "keywords": "Airports in Béjaïa Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86069",
+            "filename": "Bejaia_NDB_DZ",
+            "ident": "BJA",
+            "name": "Bejaia",
+            "type": "NDB",
+            "frequency_khz": "423",
+            "latitude_deg": "36.70669937133789",
+            "longitude_deg": "5.024720191955566",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.108",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "DAAE"
+        }
+    ]
 }

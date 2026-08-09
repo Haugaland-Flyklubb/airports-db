@@ -143,5 +143,29 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northland_Region",
         "keywords": "Airports in Northland Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89821",
+            "filename": "Kerikeri_NDB-DME_NZ",
+            "ident": "KK",
+            "name": "Kerikeri",
+            "type": "NDB-DME",
+            "frequency_khz": "226",
+            "latitude_deg": "-35.262001037597656",
+            "longitude_deg": "173.91099548339844",
+            "elevation_ft": "492",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "-35.2632",
+            "dme_longitude_deg": "173.912",
+            "dme_elevation_ft": "492",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.262",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NZKK"
+        }
+    ]
 }

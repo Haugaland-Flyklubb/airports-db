@@ -109,5 +109,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
         "keywords": "Airports in Colorado"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86101",
+            "filename": "Buckley_TACAN_US",
+            "ident": "BKF",
+            "name": "Buckley",
+            "type": "TACAN",
+            "frequency_khz": "109600",
+            "latitude_deg": "39.707401275634766",
+            "longitude_deg": "-104.75199890136719",
+            "elevation_ft": "5580",
+            "iso_country": "US",
+            "dme_frequency_khz": "109600",
+            "dme_channel": "033X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.001",
+            "magnetic_variation_deg": "9.286",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KBKF"
+        }
+    ]
 }

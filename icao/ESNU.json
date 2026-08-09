@@ -69,5 +69,29 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Västerbottens_län",
         "keywords": "Västerbotten County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94900",
+            "filename": "Umea_VOR-DME_SE",
+            "ident": "UME",
+            "name": "Umea",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "63.78860092163086",
+            "longitude_deg": "20.285200119018555",
+            "elevation_ft": "33",
+            "iso_country": "SE",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.501",
+            "magnetic_variation_deg": "5.542",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ESNU"
+        }
+    ]
 }

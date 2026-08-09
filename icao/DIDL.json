@@ -77,5 +77,29 @@
         "iso_country": "CI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sassandra-Marahou%C3%A9_District",
         "keywords": "Airports in Sassandra-Marahoué District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87246",
+            "filename": "Daloa_NDB_CI",
+            "ident": "DA",
+            "name": "Daloa",
+            "type": "NDB",
+            "frequency_khz": "316",
+            "latitude_deg": "6.883470058441162",
+            "longitude_deg": "-6.466400146484375",
+            "elevation_ft": "",
+            "iso_country": "CI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.236",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DIDL"
+        }
+    ]
 }

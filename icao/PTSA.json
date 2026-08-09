@@ -85,5 +85,29 @@
         "iso_country": "FM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kosrae_State",
         "keywords": "Airports in Kosrae State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94877",
+            "filename": "Kosrae_NDB-DME_FM",
+            "ident": "UKS",
+            "name": "Kosrae",
+            "type": "NDB-DME",
+            "frequency_khz": "393",
+            "latitude_deg": "5.353059768676758",
+            "longitude_deg": "162.95700073242188",
+            "elevation_ft": "11",
+            "iso_country": "FM",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.276",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "PTSA"
+        }
+    ]
 }

@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90943",
+            "filename": "Minchumina_NDB_US",
+            "ident": "MHM",
+            "name": "Minchumina",
+            "type": "NDB",
+            "frequency_khz": "227",
+            "latitude_deg": "63.8838996887207",
+            "longitude_deg": "-152.31700134277344",
+            "elevation_ft": "684",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "20.133",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PAMH"
+        }
+    ]
 }

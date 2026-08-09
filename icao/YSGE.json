@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93557",
+            "filename": "St_George_NDB_AU",
+            "ident": "SGE",
+            "name": "St George",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "-28.047199249267578",
+            "longitude_deg": "148.5970001220703",
+            "elevation_ft": "655",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.032",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YSGE"
+        }
+    ]
 }

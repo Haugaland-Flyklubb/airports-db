@@ -99,5 +99,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aguascalientes",
         "keywords": "Airports in Aguascalientes"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85310",
+            "filename": "Aguascalientes_VOR-DME_MX",
+            "ident": "AGU",
+            "name": "Aguascalientes",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "21.71139907836914",
+            "longitude_deg": "-102.31900024414062",
+            "elevation_ft": "6112",
+            "iso_country": "MX",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.001",
+            "magnetic_variation_deg": "7.097",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMAS"
+        }
+    ]
 }

@@ -123,5 +123,51 @@
         "iso_country": "LY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tripoli",
         "keywords": "Ţarābulus"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85220",
+            "filename": "Abu_Argub_VOR-DME_LY",
+            "ident": "ABU",
+            "name": "Abu Argub",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "32.462799072265625",
+            "longitude_deg": "13.169400215148926",
+            "elevation_ft": "470",
+            "iso_country": "LY",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.291",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LY-0019"
+        },
+        {
+            "id": "94541",
+            "filename": "Tripoli_VOR-DME_LY",
+            "ident": "TPI",
+            "name": "Tripoli",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "32.662498474121094",
+            "longitude_deg": "13.155599594116211",
+            "elevation_ft": "263",
+            "iso_country": "LY",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.297",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LY-0019"
+        }
+    ]
 }

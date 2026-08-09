@@ -77,5 +77,29 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tak_province",
         "keywords": "Airports in Tak Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94399",
+            "filename": "Tak_NDB_TH",
+            "ident": "TK",
+            "name": "Tak",
+            "type": "NDB",
+            "frequency_khz": "332",
+            "latitude_deg": "16.899499893188477",
+            "longitude_deg": "99.252197265625",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.421",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VTPT"
+        }
+    ]
 }

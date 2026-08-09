@@ -69,5 +69,29 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91003",
+            "filename": "Makemo_NDB_PF",
+            "ident": "MK",
+            "name": "Makemo",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "-16.590299606323242",
+            "longitude_deg": "-143.6510009765625",
+            "elevation_ft": "82",
+            "iso_country": "PF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.317",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "NTGM"
+        }
+    ]
 }

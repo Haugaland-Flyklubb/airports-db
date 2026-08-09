@@ -141,5 +141,29 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Jeolla_Province",
         "keywords": "Airports in Jeonbuk Teukbyeoljachi-do"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90064",
+            "filename": "Kunsan_VORTAC_KR",
+            "ident": "KUZ",
+            "name": "Kunsan",
+            "type": "VORTAC",
+            "frequency_khz": "112800",
+            "latitude_deg": "35.910400390625",
+            "longitude_deg": "126.61100006103516",
+            "elevation_ft": "61",
+            "iso_country": "KR",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.009",
+            "magnetic_variation_deg": "-7.156",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RKJK"
+        }
+    ]
 }

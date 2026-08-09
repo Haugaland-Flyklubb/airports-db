@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
         "keywords": "Airports in New Jersey"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86592",
+            "filename": "Chatham_NDB_US",
+            "ident": "CAT",
+            "name": "Chatham",
+            "type": "NDB",
+            "frequency_khz": "254",
+            "latitude_deg": "40.74089813232422",
+            "longitude_deg": "-74.42980194091797",
+            "elevation_ft": "255",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.565",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMMU"
+        },
+        {
+            "id": "91088",
+            "filename": "Moree_NDB_US",
+            "ident": "MM",
+            "name": "Moree",
+            "type": "NDB",
+            "frequency_khz": "392",
+            "latitude_deg": "40.87990188598633",
+            "longitude_deg": "-74.33429718017578",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.027",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMMU"
+        }
+    ]
 }

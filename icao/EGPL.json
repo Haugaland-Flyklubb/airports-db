@@ -107,5 +107,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85871",
+            "filename": "Benbecula_DME_GB",
+            "ident": "BCL",
+            "name": "Benbecula",
+            "type": "DME",
+            "frequency_khz": "108100",
+            "latitude_deg": "57.475101470947266",
+            "longitude_deg": "-7.370319843292236",
+            "elevation_ft": "48",
+            "iso_country": "GB",
+            "dme_frequency_khz": "108100",
+            "dme_channel": "018X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.403",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGPL"
+        },
+        {
+            "id": "85940",
+            "filename": "Benbecula_VOR-DME_GB",
+            "ident": "BEN",
+            "name": "Benbecula",
+            "type": "VOR-DME",
+            "frequency_khz": "113950",
+            "latitude_deg": "57.477901458740234",
+            "longitude_deg": "-7.365300178527832",
+            "elevation_ft": "130",
+            "iso_country": "GB",
+            "dme_frequency_khz": "113950",
+            "dme_channel": "086Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.001",
+            "magnetic_variation_deg": "-6.402",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGPL"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "GN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nz%C3%A9r%C3%A9kor%C3%A9_Region",
         "keywords": "Airports in Nzérékoré Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91802",
+            "filename": "Nzerekore_NDB_GN",
+            "ident": "NZ",
+            "name": "Nzerekore",
+            "type": "NDB",
+            "frequency_khz": "382",
+            "latitude_deg": "7.819349765777588",
+            "longitude_deg": "-8.708459854125977",
+            "elevation_ft": "",
+            "iso_country": "GN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.568",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "GUNZ"
+        }
+    ]
 }

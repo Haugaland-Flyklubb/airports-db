@@ -123,5 +123,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
         "keywords": "Airports in Oregon"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92132",
+            "filename": "Emire_NDB_US",
+            "ident": "OT",
+            "name": "Emire",
+            "type": "NDB",
+            "frequency_khz": "378",
+            "latitude_deg": "43.39440155029297",
+            "longitude_deg": "-124.30999755859375",
+            "elevation_ft": "30",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.388",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KOTH"
+        },
+        {
+            "id": "92136",
+            "filename": "North_Bend_VORTAC_US",
+            "ident": "OTH",
+            "name": "North Bend",
+            "type": "VORTAC",
+            "frequency_khz": "112100",
+            "latitude_deg": "43.41550064086914",
+            "longitude_deg": "-124.16799926757812",
+            "elevation_ft": "707",
+            "iso_country": "US",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "18.001",
+            "magnetic_variation_deg": "16.379",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KOTH"
+        }
+    ]
 }

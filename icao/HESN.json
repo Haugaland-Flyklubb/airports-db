@@ -93,5 +93,29 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aswan_Governorate",
         "keywords": "Airports in Aswan Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85630",
+            "filename": "Aswan_VOR-DME_EG",
+            "ident": "ASN",
+            "name": "Aswan",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "23.971799850463867",
+            "longitude_deg": "32.81700134277344",
+            "elevation_ft": "668",
+            "iso_country": "EG",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "2.578",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HESN"
+        }
+    ]
 }

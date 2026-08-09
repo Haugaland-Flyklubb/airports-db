@@ -77,5 +77,51 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Greece",
         "keywords": "Airports in Western Greece"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85453",
+            "filename": "Andravida_TACAN_GR",
+            "ident": "AML",
+            "name": "Andravida",
+            "type": "TACAN",
+            "frequency_khz": "133400",
+            "latitude_deg": "37.9296989440918",
+            "longitude_deg": "21.284700393676758",
+            "elevation_ft": "55",
+            "iso_country": "GR",
+            "dme_frequency_khz": "133400",
+            "dme_channel": "061X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.58",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LGAD"
+        },
+        {
+            "id": "85454",
+            "filename": "Amalias_NDB_GR",
+            "ident": "AML",
+            "name": "Amalias",
+            "type": "NDB",
+            "frequency_khz": "367",
+            "latitude_deg": "37.77470016479492",
+            "longitude_deg": "21.34670066833496",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.577",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LGAD"
+        }
+    ]
 }

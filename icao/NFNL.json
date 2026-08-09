@@ -69,5 +69,29 @@
         "iso_country": "FJ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Division,_Fiji",
         "keywords": "Airports in Northern"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90188",
+            "filename": "Labasa_VOR-DME_FJ",
+            "ident": "LB",
+            "name": "Labasa",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "-16.41830062866211",
+            "longitude_deg": "179.31500244140625",
+            "elevation_ft": "32",
+            "iso_country": "FJ",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.007",
+            "magnetic_variation_deg": "12.001",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NFNL"
+        }
+    ]
 }

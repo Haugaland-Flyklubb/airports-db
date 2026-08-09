@@ -93,5 +93,29 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balıkesir_Province",
         "keywords": "Airports in Balıkesir Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86315",
+            "filename": "Balikesir_TACAN_TR",
+            "ident": "BRI",
+            "name": "Balikesir",
+            "type": "TACAN",
+            "frequency_khz": "110600",
+            "latitude_deg": "39.60060119628906",
+            "longitude_deg": "27.929500579833984",
+            "elevation_ft": "331",
+            "iso_country": "TR",
+            "dme_frequency_khz": "110600",
+            "dme_channel": "043X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.578",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTBF"
+        }
+    ]
 }

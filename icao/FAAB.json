@@ -113,5 +113,51 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Cape",
         "keywords": "Airports in Northern Cape"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85197",
+            "filename": "Alexander_Bay_NDB_ZA",
+            "ident": "AB",
+            "name": "Alexander Bay",
+            "type": "NDB",
+            "frequency_khz": "318",
+            "latitude_deg": "-28.618900299072266",
+            "longitude_deg": "16.479999542236328",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.212",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAAB"
+        },
+        {
+            "id": "85222",
+            "filename": "Alexander_Bay_VOR-DME_ZA",
+            "ident": "ABV",
+            "name": "Alexander Bay",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "-28.57069969177246",
+            "longitude_deg": "16.533899307250977",
+            "elevation_ft": "98",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-18.007",
+            "magnetic_variation_deg": "-19.183",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FAAB"
+        }
+    ]
 }

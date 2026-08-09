@@ -101,5 +101,29 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Veneto",
         "keywords": "VN"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94583",
+            "filename": "Treviso_NDB_IT",
+            "ident": "TRE",
+            "name": "Treviso",
+            "type": "NDB",
+            "frequency_khz": "302",
+            "latitude_deg": "45.622501373291016",
+            "longitude_deg": "12.095600128173828",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.452",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LIPH"
+        }
+    ]
 }

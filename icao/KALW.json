@@ -153,5 +153,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85390",
+            "filename": "Trina_NDB_US",
+            "ident": "AL",
+            "name": "Trina",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "46.175498962402344",
+            "longitude_deg": "-118.19599914550781",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.139",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KALW"
+        },
+        {
+            "id": "85427",
+            "filename": "Walla_Walla_VOR-DME_US",
+            "ident": "ALW",
+            "name": "Walla Walla",
+            "type": "VOR-DME",
+            "frequency_khz": "116400",
+            "latitude_deg": "46.08700180053711",
+            "longitude_deg": "-118.29299926757812",
+            "elevation_ft": "1150",
+            "iso_country": "US",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "20.001",
+            "magnetic_variation_deg": "16.139",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KALW"
+        }
+    ]
 }

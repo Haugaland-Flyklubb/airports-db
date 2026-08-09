@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88972",
+            "filename": "Hooper_Bay_VOR-DME_US",
+            "ident": "HPB",
+            "name": "Hooper Bay",
+            "type": "VOR-DME",
+            "frequency_khz": "115200",
+            "latitude_deg": "61.514400482177734",
+            "longitude_deg": "-166.13400268554688",
+            "elevation_ft": "7",
+            "iso_country": "US",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "16.001",
+            "magnetic_variation_deg": "12.421",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PAHP"
+        }
+    ]
 }

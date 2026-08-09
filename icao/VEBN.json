@@ -85,5 +85,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
         "keywords": "Airports in Uttar Pradesh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85848",
+            "filename": "Varanasi_VOR-DME_IN",
+            "ident": "BBN",
+            "name": "Varanasi",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "25.45400047302246",
+            "longitude_deg": "82.85929870605469",
+            "elevation_ft": "262",
+            "iso_country": "IN",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.056",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VEBN"
+        },
+        {
+            "id": "86197",
+            "filename": "Varanasi_NDB_IN",
+            "ident": "BN",
+            "name": "Varanasi",
+            "type": "NDB",
+            "frequency_khz": "222",
+            "latitude_deg": "25.445999145507812",
+            "longitude_deg": "82.86609649658203",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.057",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VEBN"
+        }
+    ]
 }

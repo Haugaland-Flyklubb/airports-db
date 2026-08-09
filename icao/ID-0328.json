@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
         "keywords": "Airports in Papua"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96126",
+            "filename": "Serui_NDB_ID",
+            "ident": "ZU",
+            "name": "Serui",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "-1.876389980316162",
+            "longitude_deg": "136.24000549316406",
+            "elevation_ft": "23",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.025",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ID-0328"
+        }
+    ]
 }

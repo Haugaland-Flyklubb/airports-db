@@ -81,5 +81,51 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mostaganem_Province",
         "keywords": "Airports in Mostaganem Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91178",
+            "filename": "Mostaganem_VOR-DME_DZ",
+            "ident": "MOS",
+            "name": "Mostaganem",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "35.89860153198242",
+            "longitude_deg": "0.13638900220394135",
+            "elevation_ft": "732",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.58",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DA14"
+        },
+        {
+            "id": "91180",
+            "filename": "Mostaganem_NDB_DZ",
+            "ident": "MOS",
+            "name": "Mostaganem",
+            "type": "NDB",
+            "frequency_khz": "334",
+            "latitude_deg": "35.90919876098633",
+            "longitude_deg": "0.13722200691699982",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.598",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DA14"
+        }
+    ]
 }

@@ -85,5 +85,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85065",
+            "filename": "Grand_Forks_NDB-DME_CA",
+            "ident": "2J",
+            "name": "Grand Forks",
+            "type": "NDB-DME",
+            "frequency_khz": "250",
+            "latitude_deg": "49.01750183105469",
+            "longitude_deg": "-118.42400360107422",
+            "elevation_ft": "1720",
+            "iso_country": "CA",
+            "dme_frequency_khz": "109700",
+            "dme_channel": "034X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.114",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CZGF"
+        }
+    ]
 }

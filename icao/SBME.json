@@ -93,5 +93,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
         "keywords": "Airports in Rio de Janeiro"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90711",
+            "filename": "Macae_VOR-DME_BR",
+            "ident": "MAC",
+            "name": "Macae",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "-22.344900131225586",
+            "longitude_deg": "-41.76890182495117",
+            "elevation_ft": "8",
+            "iso_country": "BR",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-21.007",
+            "magnetic_variation_deg": "-22.158",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBME"
+        },
+        {
+            "id": "90713",
+            "filename": "Macae_NDB_BR",
+            "ident": "MAC",
+            "name": "Macae",
+            "type": "NDB",
+            "frequency_khz": "240",
+            "latitude_deg": "-22.345300674438477",
+            "longitude_deg": "-41.76139831542969",
+            "elevation_ft": "8",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.16",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBME"
+        }
+    ]
 }

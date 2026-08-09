@@ -93,5 +93,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kalimantan_Selatan",
         "keywords": "Airports in Kalimantan Selatan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85910",
+            "filename": "Banjarmasin_VOR-DME_ID",
+            "ident": "BDM",
+            "name": "Banjarmasin",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "-3.436800003051758",
+            "longitude_deg": "114.73100280761719",
+            "elevation_ft": "66",
+            "iso_country": "ID",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.199",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WAOO"
+        },
+        {
+            "id": "92151",
+            "filename": "Banjarmasin_NDB_ID",
+            "ident": "OU",
+            "name": "Banjarmasin",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "-3.4362499713897705",
+            "longitude_deg": "114.75399780273438",
+            "elevation_ft": "66",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.2",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAOO"
+        }
+    ]
 }

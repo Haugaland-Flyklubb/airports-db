@@ -91,5 +91,51 @@
         "iso_country": "MZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zambezia_Province",
         "keywords": "Airports in Zambezia Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92897",
+            "filename": "Quelimane_NDB_MZ",
+            "ident": "QL",
+            "name": "Quelimane",
+            "type": "NDB",
+            "frequency_khz": "267",
+            "latitude_deg": "-17.821199417114258",
+            "longitude_deg": "36.866798400878906",
+            "elevation_ft": "",
+            "iso_country": "MZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.575",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FQQL"
+        },
+        {
+            "id": "95254",
+            "filename": "Quelimane_VOR-DME_MZ",
+            "ident": "VQL",
+            "name": "Quelimane",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "-17.851200103759766",
+            "longitude_deg": "36.866798400878906",
+            "elevation_ft": "36",
+            "iso_country": "MZ",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.595",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FQQL"
+        }
+    ]
 }

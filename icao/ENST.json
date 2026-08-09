@@ -77,5 +77,29 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nordland",
         "keywords": "Airports in Nordland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94008",
+            "filename": "Stokka_VOR-DME_NO",
+            "ident": "STO",
+            "name": "Stokka",
+            "type": "VOR-DME",
+            "frequency_khz": "112000",
+            "latitude_deg": "65.96040344238281",
+            "longitude_deg": "12.469400405883789",
+            "elevation_ft": "137",
+            "iso_country": "NO",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "2.078",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "ENST"
+        }
+    ]
 }

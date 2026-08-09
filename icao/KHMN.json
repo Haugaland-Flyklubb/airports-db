@@ -193,5 +193,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88914",
+            "filename": "Holloman_TACAN_US",
+            "ident": "HMN",
+            "name": "Holloman",
+            "type": "TACAN",
+            "frequency_khz": "114500",
+            "latitude_deg": "32.862098693847656",
+            "longitude_deg": "-106.10900115966797",
+            "elevation_ft": "4120",
+            "iso_country": "US",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.012",
+            "magnetic_variation_deg": "9.224",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KHMN"
+        }
+    ]
 }

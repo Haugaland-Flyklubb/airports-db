@@ -215,5 +215,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90184",
+            "filename": "Los_Angeles_VORTAC_US",
+            "ident": "LAX",
+            "name": "Los Angeles",
+            "type": "VORTAC",
+            "frequency_khz": "113600",
+            "latitude_deg": "33.933101654052734",
+            "longitude_deg": "-118.43199920654297",
+            "elevation_ft": "182",
+            "iso_country": "US",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "33.9334",
+            "dme_longitude_deg": "-118.432",
+            "dme_elevation_ft": "180",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "13.076",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KLAX"
+        },
+        {
+            "id": "92110",
+            "filename": "Romen_NDB_US",
+            "ident": "OS",
+            "name": "Romen",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "33.964298248291016",
+            "longitude_deg": "-118.27799987792969",
+            "elevation_ft": "136",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.063",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KLAX"
+        }
+    ]
 }

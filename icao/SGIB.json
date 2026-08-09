@@ -77,5 +77,29 @@
         "iso_country": "PY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alto_Paran%C3%A1_Department",
         "keywords": "Airports in Alto Paraná Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89371",
+            "filename": "Itaipu_NDB_PY",
+            "ident": "ITU",
+            "name": "Itaipu",
+            "type": "NDB",
+            "frequency_khz": "225",
+            "latitude_deg": "-25.408599853515625",
+            "longitude_deg": "-54.621700286865234",
+            "elevation_ft": "762",
+            "iso_country": "PY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.159",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "SGIB"
+        }
+    ]
 }

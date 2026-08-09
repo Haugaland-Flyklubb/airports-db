@@ -99,5 +99,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Republic_of_Tatarstan",
         "keywords": "Airports in Republic of Tatarstan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91454",
+            "filename": "Begishevo_NDB_RU",
+            "ident": "NA",
+            "name": "Begishevo",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "55.531700134277344",
+            "longitude_deg": "52.03670120239258",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.272",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UWKE"
+        },
+        {
+            "id": "91595",
+            "filename": "Begishevo_NDB_RU",
+            "ident": "NK",
+            "name": "Begishevo",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "55.59830093383789",
+            "longitude_deg": "52.15829849243164",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.306",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UWKE"
+        }
+    ]
 }

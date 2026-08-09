@@ -59,5 +59,29 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Karnali_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "93703",
+            "filename": "Surkhet_NDB_NP",
+            "ident": "SKT",
+            "name": "Surkhet",
+            "type": "NDB",
+            "frequency_khz": "387",
+            "latitude_deg": "28.587799072265625",
+            "longitude_deg": "81.63500213623047",
+            "elevation_ft": "",
+            "iso_country": "NP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.267",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VNSK"
+        }
+    ]
 }

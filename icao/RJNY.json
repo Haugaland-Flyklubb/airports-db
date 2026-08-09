@@ -69,5 +69,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Shizuoka",
         "keywords": "Chubu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95932",
+            "filename": "Yaizu_NDB_JP",
+            "ident": "YZ",
+            "name": "Yaizu",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "34.82229995727539",
+            "longitude_deg": "138.28900146484375",
+            "elevation_ft": "23",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.489",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RJNY"
+        },
+        {
+            "id": "95945",
+            "filename": "Shizuhama_TACAN_JP",
+            "ident": "YZT",
+            "name": "Shizuhama",
+            "type": "TACAN",
+            "frequency_khz": "109200",
+            "latitude_deg": "34.81439971923828",
+            "longitude_deg": "138.29600524902344",
+            "elevation_ft": "78",
+            "iso_country": "JP",
+            "dme_frequency_khz": "109200",
+            "dme_channel": "029X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-6.487",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJNY"
+        }
+    ]
 }

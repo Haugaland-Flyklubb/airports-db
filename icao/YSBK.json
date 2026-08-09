@@ -145,5 +145,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86082",
+            "filename": "Bankstown_NDB_AU",
+            "ident": "BK",
+            "name": "Bankstown",
+            "type": "NDB",
+            "frequency_khz": "416",
+            "latitude_deg": "-33.92829895019531",
+            "longitude_deg": "150.98899841308594",
+            "elevation_ft": "18",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.34",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YSBK"
+        }
+    ]
 }

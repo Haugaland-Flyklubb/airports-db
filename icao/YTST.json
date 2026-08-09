@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94634",
+            "filename": "Truscott_NDB_AU",
+            "ident": "TST",
+            "name": "Truscott",
+            "type": "NDB",
+            "frequency_khz": "359",
+            "latitude_deg": "-14.089699745178223",
+            "longitude_deg": "126.38700103759766",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.551",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YTST"
+        }
+    ]
 }

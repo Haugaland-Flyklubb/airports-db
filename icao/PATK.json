@@ -69,5 +69,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92363",
+            "filename": "Peters_Creek_NDB_US",
+            "ident": "PEE",
+            "name": "Peters Creek",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "62.331199645996094",
+            "longitude_deg": "-150.0959930419922",
+            "elevation_ft": "358",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "20.376",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PATK"
+        },
+        {
+            "id": "94401",
+            "filename": "Talkeetna_VOR-DME_US",
+            "ident": "TKA",
+            "name": "Talkeetna",
+            "type": "VOR-DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "62.29869842529297",
+            "longitude_deg": "-150.1060028076172",
+            "elevation_ft": "360",
+            "iso_country": "US",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "26.001",
+            "magnetic_variation_deg": "20.367",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PATK"
+        }
+    ]
 }

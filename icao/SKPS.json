@@ -77,5 +77,51 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nariño_Department",
         "keywords": "Airports in Nariño Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92739",
+            "filename": "Pasto_VOR-DME_CO",
+            "ident": "PSO",
+            "name": "Pasto",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "1.3979899883270264",
+            "longitude_deg": "-77.28990173339844",
+            "elevation_ft": "5894",
+            "iso_country": "CO",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.495",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SKPS"
+        },
+        {
+            "id": "92740",
+            "filename": "Pasto_NDB_CO",
+            "ident": "PSO",
+            "name": "Pasto",
+            "type": "NDB",
+            "frequency_khz": "264",
+            "latitude_deg": "1.3949300050735474",
+            "longitude_deg": "-77.28919982910156",
+            "elevation_ft": "5960",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.494",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SKPS"
+        }
+    ]
 }

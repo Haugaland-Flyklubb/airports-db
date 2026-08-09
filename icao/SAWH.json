@@ -77,5 +77,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tierra_del_Fuego_Province_(Argentina)",
         "keywords": "Airports in Tierra del Fuego Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94969",
+            "filename": "Ushuaia_VOR_AR",
+            "ident": "USU",
+            "name": "Ushuaia",
+            "type": "VOR",
+            "frequency_khz": "113700",
+            "latitude_deg": "-54.83810043334961",
+            "longitude_deg": "-68.2842025756836",
+            "elevation_ft": "92",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "13.007",
+            "magnetic_variation_deg": "13.115",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAWH"
+        }
+    ]
 }

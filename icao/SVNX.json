@@ -69,5 +69,29 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Monagas",
         "keywords": "Airports in Monagas State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91163",
+            "filename": "Morichal_NDB_VE",
+            "ident": "MOI",
+            "name": "Morichal",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "8.821419715881348",
+            "longitude_deg": "-63.09199905395508",
+            "elevation_ft": "",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.15",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SVNX"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "VU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sanma",
         "keywords": "Airports in Sanma"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93851",
+            "filename": "Santo_NDB-DME_VU",
+            "ident": "SON",
+            "name": "Santo",
+            "type": "NDB-DME",
+            "frequency_khz": "412",
+            "latitude_deg": "-15.506699562072754",
+            "longitude_deg": "167.2169952392578",
+            "elevation_ft": "98",
+            "iso_country": "VU",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.574",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "NVSS"
+        }
+    ]
 }

@@ -155,5 +155,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hokkaido",
         "keywords": "Hokkaido"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91018",
+            "filename": "Mukawa_VOR-DME_JP",
+            "ident": "MKE",
+            "name": "Mukawa",
+            "type": "VOR-DME",
+            "frequency_khz": "116400",
+            "latitude_deg": "42.55500030517578",
+            "longitude_deg": "141.95599365234375",
+            "elevation_ft": "94",
+            "iso_country": "JP",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.011",
+            "magnetic_variation_deg": "-8.551",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "RJCC"
+        },
+        {
+            "id": "91450",
+            "filename": "Naganuma_NDB_JP",
+            "ident": "NA",
+            "name": "Naganuma",
+            "type": "NDB",
+            "frequency_khz": "377",
+            "latitude_deg": "43.00019836425781",
+            "longitude_deg": "141.6510009765625",
+            "elevation_ft": "",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.073",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "RJCC"
+        }
+    ]
 }

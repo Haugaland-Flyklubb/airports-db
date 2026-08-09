@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Misiones_Province",
         "keywords": "Airports in Misiones Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92614",
+            "filename": "Posadas_VOR-DME_AR",
+            "ident": "POS",
+            "name": "Posadas",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "-27.38559913635254",
+            "longitude_deg": "-55.969200134277344",
+            "elevation_ft": "429",
+            "iso_country": "AR",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.007",
+            "magnetic_variation_deg": "-12.307",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SARP"
+        }
+    ]
 }

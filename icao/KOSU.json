@@ -175,5 +175,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
         "keywords": "Airports in Ohio"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87406",
+            "filename": "Don_Scott_NDB_US",
+            "ident": "DKG",
+            "name": "Don Scott",
+            "type": "NDB",
+            "frequency_khz": "348",
+            "latitude_deg": "40.08039855957031",
+            "longitude_deg": "-83.07879638671875",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.292",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KOSU"
+        },
+        {
+            "id": "92109",
+            "filename": "Fuler_NDB_US",
+            "ident": "OS",
+            "name": "Fuler",
+            "type": "NDB",
+            "frequency_khz": "515",
+            "latitude_deg": "40.073699951171875",
+            "longitude_deg": "-83.1980972290039",
+            "elevation_ft": "940",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.233",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KOSU"
+        }
+    ]
 }

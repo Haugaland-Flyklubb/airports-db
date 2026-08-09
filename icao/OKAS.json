@@ -123,5 +123,29 @@
         "iso_country": "KW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Jahra_Governorate",
         "keywords": "Airports in Al Jahra Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85619",
+            "filename": "Ali_Al_Salem_VORTAC_KW",
+            "ident": "ASB",
+            "name": "Ali Al Salem",
+            "type": "VORTAC",
+            "frequency_khz": "116000",
+            "latitude_deg": "29.3439998626709",
+            "longitude_deg": "47.51890182495117",
+            "elevation_ft": "455",
+            "iso_country": "KW",
+            "dme_frequency_khz": "116000",
+            "dme_channel": "107X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "2.598",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OKAS"
+        }
+    ]
 }

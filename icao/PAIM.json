@@ -85,5 +85,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94975",
+            "filename": "Utopia_Creek_NDB_US",
+            "ident": "UTO",
+            "name": "Utopia Creek",
+            "type": "NDB",
+            "frequency_khz": "272",
+            "latitude_deg": "65.99199676513672",
+            "longitude_deg": "-153.7209930419922",
+            "elevation_ft": "1220",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "20.167",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PAIM"
+        }
+    ]
 }

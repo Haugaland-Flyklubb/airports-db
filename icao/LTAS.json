@@ -59,5 +59,29 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zonguldak_Province",
         "keywords": "Airports in Zonguldak Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86599",
+            "filename": "Caycuma_NDB-DME_TR",
+            "ident": "CAY",
+            "name": "Caycuma",
+            "type": "NDB-DME",
+            "frequency_khz": "292",
+            "latitude_deg": "41.514833",
+            "longitude_deg": "32.041667",
+            "elevation_ft": "44",
+            "iso_country": "TR",
+            "dme_frequency_khz": "109600",
+            "dme_channel": "033X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.4",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTAS"
+        }
+    ]
 }

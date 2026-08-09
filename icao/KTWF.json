@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
         "keywords": "Airports in Idaho"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94708",
+            "filename": "Strik_NDB_US",
+            "ident": "TW",
+            "name": "Strik",
+            "type": "NDB",
+            "frequency_khz": "389",
+            "latitude_deg": "42.478599548339844",
+            "longitude_deg": "-114.35399627685547",
+            "elevation_ft": "4065",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.04",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KTWF"
+        },
+        {
+            "id": "94711",
+            "filename": "Twin_Falls_VORTAC_US",
+            "ident": "TWF",
+            "name": "Twin Falls",
+            "type": "VORTAC",
+            "frequency_khz": "115800",
+            "latitude_deg": "42.47990036010742",
+            "longitude_deg": "-114.48899841308594",
+            "elevation_ft": "4140",
+            "iso_country": "US",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "18.001",
+            "magnetic_variation_deg": "14.067",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KTWF"
+        }
+    ]
 }

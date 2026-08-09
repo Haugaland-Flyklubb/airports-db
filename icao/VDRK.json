@@ -59,5 +59,29 @@
         "iso_country": "KH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ratanakiri_province",
         "keywords": "Airports in Rotanak Kiri, រតនគិរី"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93261",
+            "filename": "Ratanakiri_NDB_KH",
+            "ident": "RT",
+            "name": "Ratanakiri",
+            "type": "NDB",
+            "frequency_khz": "348",
+            "latitude_deg": "13.729999542236328",
+            "longitude_deg": "106.98699951171875",
+            "elevation_ft": "",
+            "iso_country": "KH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.307",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VDRK"
+        }
+    ]
 }

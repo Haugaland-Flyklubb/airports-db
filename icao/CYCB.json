@@ -101,5 +101,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
         "keywords": "Airports in Nunavut"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86603",
+            "filename": "Cambridge_Bay_NDB_CA",
+            "ident": "CB",
+            "name": "Cambridge Bay",
+            "type": "NDB",
+            "frequency_khz": "245",
+            "latitude_deg": "69.11360168457031",
+            "longitude_deg": "-105.01499938964844",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.097",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYCB"
+        },
+        {
+            "id": "95636",
+            "filename": "Cambridge_Bay_VOR-DME_CA",
+            "ident": "YCB",
+            "name": "Cambridge Bay",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "69.1177978515625",
+            "longitude_deg": "-105.1729965209961",
+            "elevation_ft": "90",
+            "iso_country": "CA",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.005",
+            "magnetic_variation_deg": "12.277",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "CYCB"
+        }
+    ]
 }

@@ -93,5 +93,51 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ulsan",
         "keywords": "Airports in Ulsan-gwangyeoksi"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94960",
+            "filename": "Ulsan_NDB_KR",
+            "ident": "US",
+            "name": "Ulsan",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "35.57600021362305",
+            "longitude_deg": "129.35299682617188",
+            "elevation_ft": "",
+            "iso_country": "KR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.224",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKPU"
+        },
+        {
+            "id": "94968",
+            "filename": "Ulsan_VOR-DME_KR",
+            "ident": "USN",
+            "name": "Ulsan",
+            "type": "VOR-DME",
+            "frequency_khz": "111400",
+            "latitude_deg": "35.5984992980957",
+            "longitude_deg": "129.35299682617188",
+            "elevation_ft": "100",
+            "iso_country": "KR",
+            "dme_frequency_khz": "111400",
+            "dme_channel": "051X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.228",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RKPU"
+        }
+    ]
 }

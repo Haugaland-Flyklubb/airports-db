@@ -69,5 +69,51 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/%C3%91uble_Region",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "86762",
+            "filename": "Chillan_VOR-DME_CL",
+            "ident": "CHI",
+            "name": "Chillan",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "-36.583099365234375",
+            "longitude_deg": "-72.03579711914062",
+            "elevation_ft": "488",
+            "iso_country": "CL",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.007",
+            "magnetic_variation_deg": "6.199",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SCCH"
+        },
+        {
+            "id": "86765",
+            "filename": "Chillan_NDB_CL",
+            "ident": "CHI",
+            "name": "Chillan",
+            "type": "NDB",
+            "frequency_khz": "411",
+            "latitude_deg": "-36.58890151977539",
+            "longitude_deg": "-72.0291976928711",
+            "elevation_ft": "486",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.198",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SCCH"
+        }
+    ]
 }

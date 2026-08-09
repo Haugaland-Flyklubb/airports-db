@@ -85,5 +85,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kocaeli_Province",
         "keywords": "Airports in Kocaeli Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85578",
+            "filename": "Topel_TACAN_TR",
+            "ident": "ARF",
+            "name": "Topel",
+            "type": "TACAN",
+            "frequency_khz": "113900",
+            "latitude_deg": "40.732200622558594",
+            "longitude_deg": "30.064699172973633",
+            "elevation_ft": "174",
+            "iso_country": "TR",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.214",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTBQ"
+        },
+        {
+            "id": "85579",
+            "filename": "Topel_NDB_TR",
+            "ident": "ARF",
+            "name": "Topel",
+            "type": "NDB",
+            "frequency_khz": "384",
+            "latitude_deg": "40.7327995300293",
+            "longitude_deg": "30.084400177001953",
+            "elevation_ft": "174",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.216",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LTBQ"
+        }
+    ]
 }

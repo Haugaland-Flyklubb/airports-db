@@ -115,5 +115,51 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
         "keywords": "Airports in Punjab"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90124",
+            "filename": "Lahore_VOR-DME_PK",
+            "ident": "LA",
+            "name": "Lahore",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "31.49970054626465",
+            "longitude_deg": "74.4000015258789",
+            "elevation_ft": "729",
+            "iso_country": "PK",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.266",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OPLA"
+        },
+        {
+            "id": "90131",
+            "filename": "Lahore_NDB_PK",
+            "ident": "LA",
+            "name": "Lahore",
+            "type": "NDB",
+            "frequency_khz": "268",
+            "latitude_deg": "31.501100540161133",
+            "longitude_deg": "74.38330078125",
+            "elevation_ft": "",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.267",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPLA"
+        }
+    ]
 }

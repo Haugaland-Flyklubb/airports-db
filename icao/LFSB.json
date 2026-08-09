@@ -131,5 +131,51 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
         "keywords": "Airports in Grand Est"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86156",
+            "filename": "Bale_Mulhouse_VOR-DME_FR",
+            "ident": "BLM",
+            "name": "Bale Mulhouse",
+            "type": "VOR-DME",
+            "frequency_khz": "117450",
+            "latitude_deg": "47.6328010559082",
+            "longitude_deg": "7.499499797821045",
+            "elevation_ft": "886",
+            "iso_country": "FR",
+            "dme_frequency_khz": "117450",
+            "dme_channel": "121Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.34",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFSB"
+        },
+        {
+            "id": "86195",
+            "filename": "Bale_Mulhouse_NDB_FR",
+            "ident": "BN",
+            "name": "Bale Mulhouse",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "47.66170120239258",
+            "longitude_deg": "7.4790802001953125",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.336",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFSB"
+        }
+    ]
 }

@@ -121,5 +121,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92315",
+            "filename": "Point_Cook_NDB_AU",
+            "ident": "PCK",
+            "name": "Point Cook",
+            "type": "NDB",
+            "frequency_khz": "419",
+            "latitude_deg": "-37.92679977416992",
+            "longitude_deg": "144.75599670410156",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.344",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "YMPC"
+        }
+    ]
 }

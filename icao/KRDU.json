@@ -177,5 +177,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
         "keywords": "Airports in North Carolina"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93030",
+            "filename": "Raleigh-Durham_VORTAC_US",
+            "ident": "RDU",
+            "name": "Raleigh-Durham",
+            "type": "VORTAC",
+            "frequency_khz": "117200",
+            "latitude_deg": "35.872501373291016",
+            "longitude_deg": "-78.7833023071289",
+            "elevation_ft": "429",
+            "iso_country": "US",
+            "dme_frequency_khz": "117200",
+            "dme_channel": "119X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.001",
+            "magnetic_variation_deg": "-8.395",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KRDU"
+        }
+    ]
 }

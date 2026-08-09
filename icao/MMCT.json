@@ -69,5 +69,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yucat%C3%A1n",
         "keywords": "Airports in Yucatán"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87200",
+            "filename": "Kaua_VOR-DME_MX",
+            "ident": "CZA",
+            "name": "Kaua",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "20.64310073852539",
+            "longitude_deg": "-88.44819641113281",
+            "elevation_ft": "102",
+            "iso_country": "MX",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.378",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMCT"
+        }
+    ]
 }

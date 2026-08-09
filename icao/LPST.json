@@ -85,5 +85,29 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lisbon_District",
         "keywords": "Lisboa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93916",
+            "filename": "Sintra_VORTAC_PT",
+            "ident": "SRA",
+            "name": "Sintra",
+            "type": "VORTAC",
+            "frequency_khz": "112100",
+            "latitude_deg": "38.829200744628906",
+            "longitude_deg": "-9.34000015258789",
+            "elevation_ft": "440",
+            "iso_country": "PT",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.037",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPST"
+        }
+    ]
 }

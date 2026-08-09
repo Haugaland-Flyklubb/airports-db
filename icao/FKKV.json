@@ -69,5 +69,29 @@
         "iso_country": "CM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Province",
         "keywords": "Airports in North-West Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86211",
+            "filename": "Bamenda_VOR-DME_CM",
+            "ident": "BND",
+            "name": "Bamenda",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "6.050559997558594",
+            "longitude_deg": "10.116100311279297",
+            "elevation_ft": "4065",
+            "iso_country": "CM",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.011",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FKKV"
+        }
+    ]
 }

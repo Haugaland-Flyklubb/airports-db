@@ -91,5 +91,29 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/T%C3%A9bessa_Province",
         "keywords": "Airports in Tébessa Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94236",
+            "filename": "Tebessa_VOR-DME_DZ",
+            "ident": "TBS",
+            "name": "Tebessa",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "35.45669937133789",
+            "longitude_deg": "8.068610191345215",
+            "elevation_ft": "2605",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "0.479",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DABS"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Free_State_(province)",
         "keywords": "Airports in Free State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95467",
+            "filename": "Welkom_VOR-DME_ZA",
+            "ident": "WMV",
+            "name": "Welkom",
+            "type": "VOR-DME",
+            "frequency_khz": "116400",
+            "latitude_deg": "-28.001617",
+            "longitude_deg": "26.661115",
+            "elevation_ft": "4424",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.503",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FAWM"
+        }
+    ]
 }

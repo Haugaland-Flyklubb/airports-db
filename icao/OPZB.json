@@ -77,5 +77,51 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
         "keywords": "Baluchistan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95977",
+            "filename": "Zhob_VOR-DME_PK",
+            "ident": "ZB",
+            "name": "Zhob",
+            "type": "VOR-DME",
+            "frequency_khz": "115700",
+            "latitude_deg": "31.35569953918457",
+            "longitude_deg": "69.45970153808594",
+            "elevation_ft": "4698",
+            "iso_country": "PK",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.422",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OPZB"
+        },
+        {
+            "id": "95978",
+            "filename": "Zhob_NDB_PK",
+            "ident": "ZB",
+            "name": "Zhob",
+            "type": "NDB",
+            "frequency_khz": "245",
+            "latitude_deg": "31.397600173950195",
+            "longitude_deg": "69.45480346679688",
+            "elevation_ft": "4738",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.429",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPZB"
+        }
+    ]
 }

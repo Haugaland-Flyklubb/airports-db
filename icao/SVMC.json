@@ -123,5 +123,29 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zulia",
         "keywords": "Airports in Zulia State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90739",
+            "filename": "Maracaibo_VORTAC_VE",
+            "ident": "MAR",
+            "name": "Maracaibo",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "10.584199905395508",
+            "longitude_deg": "-71.71289825439453",
+            "elevation_ft": "112",
+            "iso_country": "VE",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.007",
+            "magnetic_variation_deg": "-8.13",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVMC"
+        }
+    ]
 }

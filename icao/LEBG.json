@@ -99,5 +99,51 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
         "keywords": "Airports in Castilla y León, Castile and León"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86004",
+            "filename": "Burgos_NDB_ES",
+            "ident": "BGS",
+            "name": "Burgos",
+            "type": "NDB",
+            "frequency_khz": "357",
+            "latitude_deg": "42.35810089111328",
+            "longitude_deg": "-3.6353800296783447",
+            "elevation_ft": "2945",
+            "iso_country": "ES",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.235",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LEBG"
+        },
+        {
+            "id": "95131",
+            "filename": "Burgos_VOR-DME_ES",
+            "ident": "VIA",
+            "name": "Burgos",
+            "type": "VOR-DME",
+            "frequency_khz": "111400",
+            "latitude_deg": "42.35499954223633",
+            "longitude_deg": "-3.6135799884796143",
+            "elevation_ft": "2970",
+            "iso_country": "ES",
+            "dme_frequency_khz": "111400",
+            "dme_channel": "051X",
+            "dme_latitude_deg": "42.355",
+            "dme_longitude_deg": "-3.61352",
+            "dme_elevation_ft": "2970",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.23",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LEBG"
+        }
+    ]
 }

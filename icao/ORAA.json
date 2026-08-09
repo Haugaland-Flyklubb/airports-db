@@ -169,5 +169,29 @@
         "iso_country": "IQ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Anbar_Governorate",
         "keywords": "الأنبار"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90710",
+            "filename": "Al_Asad_TACAN_IQ",
+            "ident": "MAA",
+            "name": "Al Asad",
+            "type": "TACAN",
+            "frequency_khz": "112000",
+            "latitude_deg": "33.783599853515625",
+            "longitude_deg": "42.43880081176758",
+            "elevation_ft": "618",
+            "iso_country": "IQ",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.001",
+            "magnetic_variation_deg": "4.009",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ORAA"
+        }
+    ]
 }

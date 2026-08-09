@@ -69,5 +69,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fukushima",
         "keywords": "Tohoku"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88024",
+            "filename": "Fukushima_VOR-DME_JP",
+            "ident": "FKE",
+            "name": "Fukushima",
+            "type": "VOR-DME",
+            "frequency_khz": "113450",
+            "latitude_deg": "37.224300384521484",
+            "longitude_deg": "140.43699645996094",
+            "elevation_ft": "1313",
+            "iso_country": "JP",
+            "dme_frequency_khz": "113450",
+            "dme_channel": "081Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.214",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "RJSF"
+        }
+    ]
 }

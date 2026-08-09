@@ -229,5 +229,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86466",
+            "filename": "Nixin_NDB_US",
+            "ident": "BVP",
+            "name": "Nixin",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "29.99329948425293",
+            "longitude_deg": "-95.21499633789062",
+            "elevation_ft": "75",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.475",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KIAH"
+        }
+    ]
 }

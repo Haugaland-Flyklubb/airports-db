@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93019",
+            "filename": "Lassn_NDB_US",
+            "ident": "RD",
+            "name": "Lassn",
+            "type": "NDB",
+            "frequency_khz": "367",
+            "latitude_deg": "40.392799377441406",
+            "longitude_deg": "-122.29499816894531",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.271",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KRDD"
+        },
+        {
+            "id": "93023",
+            "filename": "Redding_VOR-DME_US",
+            "ident": "RDD",
+            "name": "Redding",
+            "type": "VOR-DME",
+            "frequency_khz": "108400",
+            "latitude_deg": "40.504600524902344",
+            "longitude_deg": "-122.29199981689453",
+            "elevation_ft": "490",
+            "iso_country": "US",
+            "dme_frequency_khz": "108400",
+            "dme_channel": "021X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "18.001",
+            "magnetic_variation_deg": "15.286",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KRDD"
+        }
+    ]
 }

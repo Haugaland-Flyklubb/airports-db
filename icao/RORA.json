@@ -59,5 +59,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Okinawa",
         "keywords": "Kyushu and Okinawa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85470",
+            "filename": "Aguni_NDB_JP",
+            "ident": "AN",
+            "name": "Aguni",
+            "type": "NDB",
+            "frequency_khz": "268",
+            "latitude_deg": "26.593700408935547",
+            "longitude_deg": "127.23600006103516",
+            "elevation_ft": "44",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.319",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RORA"
+        }
+    ]
 }

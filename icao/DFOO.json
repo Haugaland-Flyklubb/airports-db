@@ -77,5 +77,51 @@
         "iso_country": "BF",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Houet_Province",
         "keywords": "Airports in Houet Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85882",
+            "filename": "Bobo_Dioulasso_VOR-DME_BF",
+            "ident": "BD",
+            "name": "Bobo Dioulasso",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "11.145000457763672",
+            "longitude_deg": "-4.350860118865967",
+            "elevation_ft": "1404",
+            "iso_country": "BF",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.335",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DFOO"
+        },
+        {
+            "id": "85913",
+            "filename": "Bobo_Dioulasso_NDB_BF",
+            "ident": "BDO",
+            "name": "Bobo Dioulasso",
+            "type": "NDB",
+            "frequency_khz": "323",
+            "latitude_deg": "11.175299644470215",
+            "longitude_deg": "-4.310359954833984",
+            "elevation_ft": "1555",
+            "iso_country": "BF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.323",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DFOO"
+        }
+    ]
 }

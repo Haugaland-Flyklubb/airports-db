@@ -85,5 +85,51 @@
         "iso_country": "JO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amman_Governorate",
         "keywords": "Airports in Amman Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85457",
+            "filename": "Amman_VOR-DME_JO",
+            "ident": "AMN",
+            "name": "Amman",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "32.00410079956055",
+            "longitude_deg": "36.066001892089844",
+            "elevation_ft": "2264",
+            "iso_country": "JO",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.433",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "OJAM"
+        },
+        {
+            "id": "89598",
+            "filename": "Amman_NDB_JO",
+            "ident": "JYO",
+            "name": "Amman",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "32.004798889160156",
+            "longitude_deg": "36.06560134887695",
+            "elevation_ft": "",
+            "iso_country": "JO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.434",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "OJAM"
+        }
+    ]
 }

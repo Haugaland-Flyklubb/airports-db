@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91233",
+            "filename": "Marilia_NDB_BR",
+            "ident": "MRA",
+            "name": "Marilia",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "-22.194799423217773",
+            "longitude_deg": "-49.929298400878906",
+            "elevation_ft": "2122",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.196",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBML"
+        }
+    ]
 }

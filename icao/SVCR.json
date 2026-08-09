@@ -77,5 +77,29 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Falc%C3%B3n",
         "keywords": "Airports in Falcón State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87044",
+            "filename": "Coro_VOR-DME_VE",
+            "ident": "CRO",
+            "name": "Coro",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "11.414199829101562",
+            "longitude_deg": "-69.69229888916016",
+            "elevation_ft": "52",
+            "iso_country": "VE",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "11.4133",
+            "dme_longitude_deg": "-69.6834",
+            "dme_elevation_ft": "52",
+            "slaved_variation_deg": "-8.007",
+            "magnetic_variation_deg": "-9.377",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVCR"
+        }
+    ]
 }

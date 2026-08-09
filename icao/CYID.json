@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nova_Scotia",
         "keywords": "Nova Scotian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95604",
+            "filename": "Digby_NDB_CA",
+            "ident": "Y9",
+            "name": "Digby",
+            "type": "NDB",
+            "frequency_khz": "220",
+            "latitude_deg": "44.54759979248047",
+            "longitude_deg": "-65.78910064697266",
+            "elevation_ft": "499",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.168",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYID"
+        }
+    ]
 }

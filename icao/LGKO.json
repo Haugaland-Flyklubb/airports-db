@@ -93,5 +93,51 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Aegean",
         "keywords": "Περιφέρεια Νοτίου Αιγαίου"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89921",
+            "filename": "Kos_VOR-DME_GR",
+            "ident": "KOS",
+            "name": "Kos",
+            "type": "VOR-DME",
+            "frequency_khz": "109000",
+            "latitude_deg": "36.79059982299805",
+            "longitude_deg": "27.091100692749023",
+            "elevation_ft": "410",
+            "iso_country": "GR",
+            "dme_frequency_khz": "109000",
+            "dme_channel": "027X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.343",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LGKO"
+        },
+        {
+            "id": "89922",
+            "filename": "Kos_NDB_GR",
+            "ident": "KOS",
+            "name": "Kos",
+            "type": "NDB",
+            "frequency_khz": "311",
+            "latitude_deg": "36.7952995300293",
+            "longitude_deg": "27.091100692749023",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.343",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LGKO"
+        }
+    ]
 }

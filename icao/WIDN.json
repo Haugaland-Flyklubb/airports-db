@@ -85,5 +85,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kepulauan_Riau",
         "keywords": "Airports in Kepulauan Riau"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94357",
+            "filename": "Tanjung_Pinang_NDB_ID",
+            "ident": "TI",
+            "name": "Tanjung Pinang",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "0.9197279810905457",
+            "longitude_deg": "104.5260009765625",
+            "elevation_ft": "56",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.203",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIDN"
+        },
+        {
+            "id": "94539",
+            "filename": "Tanjung_Pinang_VOR-DME_ID",
+            "ident": "TPG",
+            "name": "Tanjung Pinang",
+            "type": "VOR-DME",
+            "frequency_khz": "114800",
+            "latitude_deg": "0.903544008731842",
+            "longitude_deg": "104.51499938964844",
+            "elevation_ft": "132",
+            "iso_country": "ID",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.202",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WIDN"
+        }
+    ]
 }

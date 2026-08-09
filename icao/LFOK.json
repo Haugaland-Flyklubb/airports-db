@@ -77,5 +77,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
         "keywords": "Airports in Grand Est"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86593",
+            "filename": "Vatry_VOR-DME_FR",
+            "ident": "CAV",
+            "name": "Vatry",
+            "type": "VOR-DME",
+            "frequency_khz": "111650",
+            "latitude_deg": "48.78110122680664",
+            "longitude_deg": "4.146940231323242",
+            "elevation_ft": "538",
+            "iso_country": "FR",
+            "dme_frequency_khz": "111650",
+            "dme_channel": "053Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.298",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LFOK"
+        }
+    ]
 }

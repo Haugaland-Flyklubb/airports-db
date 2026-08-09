@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85380",
+            "filename": "Klawock_NDB-DME_US",
+            "ident": "AKW",
+            "name": "Klawock",
+            "type": "NDB-DME",
+            "frequency_khz": "229",
+            "latitude_deg": "55.568599700927734",
+            "longitude_deg": "-133.07899475097656",
+            "elevation_ft": "30",
+            "iso_country": "US",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.455",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "PAKW"
+        }
+    ]
 }

@@ -69,5 +69,51 @@
         "iso_country": "NP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lumbini_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "86028",
+            "filename": "Bhairahawa_NDB_NP",
+            "ident": "BHW",
+            "name": "Bhairahawa",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "27.50860023498535",
+            "longitude_deg": "83.42669677734375",
+            "elevation_ft": "70",
+            "iso_country": "NP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.111",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VNBW"
+        },
+        {
+            "id": "86481",
+            "filename": "Bhairahawa_VOR-DME_NP",
+            "ident": "BWA",
+            "name": "Bhairahawa",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "27.503299713134766",
+            "longitude_deg": "83.43280029296875",
+            "elevation_ft": "358",
+            "iso_country": "NP",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.111",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VNBW"
+        }
+    ]
 }

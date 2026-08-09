@@ -221,5 +221,51 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Île-de-France",
         "keywords": "Airports in Île-de-France"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86725",
+            "filename": "Charles de Gaulle_VOR-DME_FR",
+            "ident": "CGN",
+            "name": "Charles de Gaulle",
+            "type": "VOR-DME",
+            "frequency_khz": "115350",
+            "latitude_deg": "49.019901275634766",
+            "longitude_deg": "2.500109910964966",
+            "elevation_ft": "356",
+            "iso_country": "FR",
+            "dme_frequency_khz": "115350",
+            "dme_channel": "100Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.029",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "LFPG"
+        },
+        {
+            "id": "92403",
+            "filename": "Charles de Gaulle_VOR-DME_FR",
+            "ident": "PGS",
+            "name": "Charles de Gaulle",
+            "type": "VOR-DME",
+            "frequency_khz": "117050",
+            "latitude_deg": "48.9995002746582",
+            "longitude_deg": "2.623810052871704",
+            "elevation_ft": "325",
+            "iso_country": "FR",
+            "dme_frequency_khz": "117050",
+            "dme_channel": "117Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.003",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFPG"
+        }
+    ]
 }

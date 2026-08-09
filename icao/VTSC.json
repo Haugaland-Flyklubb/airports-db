@@ -93,5 +93,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Narathiwat_province",
         "keywords": "Airports in Narathiwat Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91736",
+            "filename": "Narathiwat_NDB_TH",
+            "ident": "NT",
+            "name": "Narathiwat",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "6.522389888763428",
+            "longitude_deg": "101.7490005493164",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.111",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTSC"
+        },
+        {
+            "id": "91749",
+            "filename": "Narathiwat_VOR-DME_TH",
+            "ident": "NTW",
+            "name": "Narathiwat",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "6.527289867401123",
+            "longitude_deg": "101.74500274658203",
+            "elevation_ft": "18",
+            "iso_country": "TH",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.111",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTSC"
+        }
+    ]
 }

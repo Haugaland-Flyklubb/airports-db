@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91236",
+            "filename": "Moranbah_NDB_AU",
+            "ident": "MRB",
+            "name": "Moranbah",
+            "type": "NDB",
+            "frequency_khz": "218",
+            "latitude_deg": "-22.0625",
+            "longitude_deg": "148.0749969482422",
+            "elevation_ft": "770",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.349",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YMRB"
+        }
+    ]
 }

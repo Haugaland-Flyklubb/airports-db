@@ -93,5 +93,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kalimantan",
         "keywords": "Airports in East Kalimantan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86275",
+            "filename": "Balikpapan_VOR-DME_ID",
+            "ident": "BPN",
+            "name": "Balikpapan",
+            "type": "VOR-DME",
+            "frequency_khz": "117200",
+            "latitude_deg": "-1.2456899881362915",
+            "longitude_deg": "116.94000244140625",
+            "elevation_ft": "10",
+            "iso_country": "ID",
+            "dme_frequency_khz": "117200",
+            "dme_channel": "119X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.12",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WALL"
+        },
+        {
+            "id": "91990",
+            "filename": "Balikpapan_NDB_ID",
+            "ident": "OL",
+            "name": "Balikpapan",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "-1.252060055732727",
+            "longitude_deg": "116.91100311279297",
+            "elevation_ft": "12",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.12",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WALL"
+        }
+    ]
 }

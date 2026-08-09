@@ -153,5 +153,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
         "keywords": "British Columbian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95589",
+            "filename": "Abbotsford_NDB_CA",
+            "ident": "XX",
+            "name": "Abbotsford",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "49.01559829711914",
+            "longitude_deg": "-122.48799896240234",
+            "elevation_ft": "124",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.12",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYXX"
+        }
+    ]
 }

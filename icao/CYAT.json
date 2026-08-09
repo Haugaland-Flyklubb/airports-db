@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95618",
+            "filename": "Wapisk_NDB_CA",
+            "ident": "YAT",
+            "name": "Wapisk",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "52.93040084838867",
+            "longitude_deg": "-82.43350219726562",
+            "elevation_ft": "31",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.114",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYAT"
+        }
+    ]
 }

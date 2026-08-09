@@ -147,5 +147,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
         "keywords": "Airports in North Carolina"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91484",
+            "filename": "New_River_TACAN_US",
+            "ident": "NCA",
+            "name": "New River",
+            "type": "TACAN",
+            "frequency_khz": "115400",
+            "latitude_deg": "34.70709991455078",
+            "longitude_deg": "-77.44029998779297",
+            "elevation_ft": "74",
+            "iso_country": "US",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.005",
+            "magnetic_variation_deg": "-9.177",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KNCA"
+        }
+    ]
 }

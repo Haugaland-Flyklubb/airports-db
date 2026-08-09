@@ -59,5 +59,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Sulawesi",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "91347",
+            "filename": "Mamuju_NDB_ID",
+            "ident": "MU",
+            "name": "Mamuju",
+            "type": "NDB",
+            "frequency_khz": "235",
+            "latitude_deg": "-2.586669921875",
+            "longitude_deg": "119.02999877929688",
+            "elevation_ft": "16",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.235",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAFJ"
+        }
+    ]
 }

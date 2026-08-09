@@ -131,5 +131,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
         "keywords": "Airports in Hawaii"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90344",
+            "filename": "Lihue_VORTAC_US",
+            "ident": "LIH",
+            "name": "Lihue",
+            "type": "VORTAC",
+            "frequency_khz": "113500",
+            "latitude_deg": "21.965299606323242",
+            "longitude_deg": "-159.33799743652344",
+            "elevation_ft": "110",
+            "iso_country": "US",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "9.584",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PHLI"
+        }
+    ]
 }

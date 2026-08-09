@@ -69,5 +69,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chukotka_Autonomous_Okrug",
         "keywords": "Airports in Chukotka Autonomous Okrug"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86173",
+            "filename": "Pevek_NDB_RU",
+            "ident": "BM",
+            "name": "Pevek",
+            "type": "NDB",
+            "frequency_khz": "272",
+            "latitude_deg": "69.73500061035156",
+            "longitude_deg": "170.6269989013672",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.503",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UHMP"
+        },
+        {
+            "id": "92479",
+            "filename": "Pevek_NDB_RU",
+            "ident": "PK",
+            "name": "Pevek",
+            "type": "NDB",
+            "frequency_khz": "272",
+            "latitude_deg": "69.82170104980469",
+            "longitude_deg": "170.5679931640625",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.522",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UHMP"
+        }
+    ]
 }

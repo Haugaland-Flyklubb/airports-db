@@ -109,5 +109,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86031",
+            "filename": "Belo_Horizonte_VOR-DME_BR",
+            "ident": "BHZ",
+            "name": "Belo Horizonte",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "-19.835800170898438",
+            "longitude_deg": "-44.00360107421875",
+            "elevation_ft": "2889",
+            "iso_country": "BR",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.393",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "SBBH"
+        },
+        {
+            "id": "86032",
+            "filename": "Belo_Horizonte_NDB_BR",
+            "ident": "BHZ",
+            "name": "Belo Horizonte",
+            "type": "NDB",
+            "frequency_khz": "520",
+            "latitude_deg": "-19.853300094604492",
+            "longitude_deg": "-43.9547004699707",
+            "elevation_ft": "2589",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.424",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBBH"
+        }
+    ]
 }

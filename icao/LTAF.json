@@ -93,5 +93,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Adana_Province",
         "keywords": "Airports in Adana Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85257",
+            "filename": "Adana_VOR-DME_TR",
+            "ident": "ADA",
+            "name": "Adana",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "36.94060134887695",
+            "longitude_deg": "35.21030044555664",
+            "elevation_ft": "49",
+            "iso_country": "TR",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "4.175",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTAF"
+        },
+        {
+            "id": "85259",
+            "filename": "Adana_NDB_TR",
+            "ident": "ADA",
+            "name": "Adana",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "36.97079849243164",
+            "longitude_deg": "35.26169967651367",
+            "elevation_ft": "",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.179",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTAF"
+        }
+    ]
 }

@@ -129,5 +129,29 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bay_of_Plenty",
         "keywords": "Airports in Bay of Plenty Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95438",
+            "filename": "Whakatane_NDB-DME_NZ",
+            "ident": "WK",
+            "name": "Whakatane",
+            "type": "NDB-DME",
+            "frequency_khz": "362",
+            "latitude_deg": "-37.92470169067383",
+            "longitude_deg": "176.9149932861328",
+            "elevation_ft": "20",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "-37.9247",
+            "dme_longitude_deg": "176.916",
+            "dme_elevation_ft": "20",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "20.126",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "NZWK"
+        }
+    ]
 }

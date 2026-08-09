@@ -59,5 +59,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province_(Argentina)",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "90662",
+            "filename": "Laboulaye_VOR_AR",
+            "ident": "LYE",
+            "name": "Laboulaye",
+            "type": "VOR",
+            "frequency_khz": "116300",
+            "latitude_deg": "-34.1411018371582",
+            "longitude_deg": "-63.36249923706055",
+            "elevation_ft": "449",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-2.487",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SASQ"
+        }
+    ]
 }

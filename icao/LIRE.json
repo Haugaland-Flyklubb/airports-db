@@ -99,5 +99,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lazio",
         "keywords": "LZ"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92675",
+            "filename": "Pratica_Di_Mare_NDB_IT",
+            "ident": "PRA",
+            "name": "Pratica Di Mare",
+            "type": "NDB",
+            "frequency_khz": "339",
+            "latitude_deg": "41.6796989440918",
+            "longitude_deg": "12.452799797058105",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.454",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LIRE"
+        },
+        {
+            "id": "94549",
+            "filename": "Pratica_Di_Mare_TACAN_IT",
+            "ident": "TPR",
+            "name": "Pratica Di Mare",
+            "type": "TACAN",
+            "frequency_khz": "108700",
+            "latitude_deg": "41.62160110473633",
+            "longitude_deg": "12.493800163269043",
+            "elevation_ft": "135",
+            "iso_country": "IT",
+            "dme_frequency_khz": "108700",
+            "dme_channel": "024X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.457",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LIRE"
+        }
+    ]
 }

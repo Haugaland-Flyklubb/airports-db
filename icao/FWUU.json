@@ -69,5 +69,51 @@
         "iso_country": "MW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mzimba_District",
         "keywords": "Airports in Mzimba District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94983",
+            "filename": "Mzuzu_NDB_MW",
+            "ident": "UU",
+            "name": "Mzuzu",
+            "type": "NDB",
+            "frequency_khz": "227",
+            "latitude_deg": "-11.443099975585938",
+            "longitude_deg": "34.01380157470703",
+            "elevation_ft": "4056",
+            "iso_country": "MW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.466",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "FWUU"
+        },
+        {
+            "id": "95215",
+            "filename": "Mzuzu_VOR-DME_MW",
+            "ident": "VMZ",
+            "name": "Mzuzu",
+            "type": "VOR-DME",
+            "frequency_khz": "116100",
+            "latitude_deg": "-11.415300369262695",
+            "longitude_deg": "34.00170135498047",
+            "elevation_ft": "4115",
+            "iso_country": "MW",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.454",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FWUU"
+        }
+    ]
 }

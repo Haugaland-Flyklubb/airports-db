@@ -169,5 +169,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
         "keywords": "Airports in Louisiana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86382",
+            "filename": "Rundi_NDB_US",
+            "ident": "BT",
+            "name": "Rundi",
+            "type": "NDB",
+            "frequency_khz": "284",
+            "latitude_deg": "30.58289909362793",
+            "longitude_deg": "-91.21099853515625",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.134",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBTR"
+        },
+        {
+            "id": "86401",
+            "filename": "Baton_Rouge_VORTAC_US",
+            "ident": "BTR",
+            "name": "Baton Rouge",
+            "type": "VORTAC",
+            "frequency_khz": "116500",
+            "latitude_deg": "30.48509979248047",
+            "longitude_deg": "-91.29409790039062",
+            "elevation_ft": "20",
+            "iso_country": "US",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.001",
+            "magnetic_variation_deg": "1.172",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KBTR"
+        }
+    ]
 }

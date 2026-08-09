@@ -81,5 +81,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95957",
+            "filename": "Vulcan_NDB-DME_CA",
+            "ident": "Z5",
+            "name": "Vulcan",
+            "type": "NDB-DME",
+            "frequency_khz": "274",
+            "latitude_deg": "50.39780044555664",
+            "longitude_deg": "-113.28299713134766",
+            "elevation_ft": "3455",
+            "iso_country": "CA",
+            "dme_frequency_khz": "108800",
+            "dme_channel": "025X",
+            "dme_latitude_deg": "50.3981",
+            "dme_longitude_deg": "-113.283",
+            "dme_elevation_ft": "3455",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.419",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CFX6"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Najran_Region",
         "keywords": "Airports in Najran Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93575",
+            "filename": "Sharurah_VORTAC_SA",
+            "ident": "SHA",
+            "name": "Sharurah",
+            "type": "VORTAC",
+            "frequency_khz": "114300",
+            "latitude_deg": "17.470199584960938",
+            "longitude_deg": "47.1338996887207",
+            "elevation_ft": "2356",
+            "iso_country": "SA",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.314",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OESH"
+        }
+    ]
 }

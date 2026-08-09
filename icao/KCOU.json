@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
         "keywords": "Airports in Missouri"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86937",
+            "filename": "Zodia_NDB_US",
+            "ident": "CO",
+            "name": "Zodia",
+            "type": "NDB",
+            "frequency_khz": "407",
+            "latitude_deg": "38.71670150756836",
+            "longitude_deg": "-92.26850128173828",
+            "elevation_ft": "850",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.122",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCOU"
+        },
+        {
+            "id": "86973",
+            "filename": "Columbia_VOR-DME_US",
+            "ident": "COU",
+            "name": "Columbia",
+            "type": "VOR-DME",
+            "frequency_khz": "110200",
+            "latitude_deg": "38.81079864501953",
+            "longitude_deg": "-92.21829986572266",
+            "elevation_ft": "883",
+            "iso_country": "US",
+            "dme_frequency_khz": "110200",
+            "dme_channel": "039X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "1.092",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KCOU"
+        }
+    ]
 }

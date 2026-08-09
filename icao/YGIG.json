@@ -101,5 +101,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88410",
+            "filename": "Gingin_NDB_AU",
+            "ident": "GIG",
+            "name": "Gingin",
+            "type": "NDB",
+            "frequency_khz": "372",
+            "latitude_deg": "-31.459699630737305",
+            "longitude_deg": "115.86599731445312",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.315",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YGIG"
+        }
+    ]
 }

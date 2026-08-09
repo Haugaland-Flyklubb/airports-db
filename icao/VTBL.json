@@ -121,5 +121,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lopburi_province",
         "keywords": "Lop Buri"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90195",
+            "filename": "Lop_Buri_NDB_TH",
+            "ident": "LB",
+            "name": "Lop Buri",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "14.886300086975098",
+            "longitude_deg": "100.66000366210938",
+            "elevation_ft": "",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.366",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VTBL"
+        },
+        {
+            "id": "90470",
+            "filename": "Lop_Buri_TACAN_TH",
+            "ident": "LOB",
+            "name": "Lop Buri",
+            "type": "TACAN",
+            "frequency_khz": "116800",
+            "latitude_deg": "14.880599975585938",
+            "longitude_deg": "100.66100311279297",
+            "elevation_ft": "98",
+            "iso_country": "TH",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.366",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VTBL"
+        }
+    ]
 }

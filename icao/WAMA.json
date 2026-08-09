@@ -59,5 +59,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maluku_Utara",
         "keywords": "Airports in Maluku Utara"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88438",
+            "filename": "Galela_NDB_ID",
+            "ident": "GL",
+            "name": "Galela",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "1.8380600214004517",
+            "longitude_deg": "127.78600311279297",
+            "elevation_ft": "180",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.16",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAMA"
+        }
+    ]
 }

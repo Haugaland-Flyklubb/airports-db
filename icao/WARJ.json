@@ -131,5 +131,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yogyakarta",
         "keywords": "Airports in Yogyakarta"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89529",
+            "filename": "Yogyakarta_VOR-DME_ID",
+            "ident": "JOG",
+            "name": "Yogyakarta",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "-7.80033016204834",
+            "longitude_deg": "110.30899810791016",
+            "elevation_ft": "350",
+            "iso_country": "ID",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "1.113",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WARJ"
+        },
+        {
+            "id": "91915",
+            "filename": "Yogyakarta_NDB_ID",
+            "ident": "OF",
+            "name": "Yogyakarta",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "-7.784319877624512",
+            "longitude_deg": "110.43399810791016",
+            "elevation_ft": "350",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.122",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WARJ"
+        }
+    ]
 }

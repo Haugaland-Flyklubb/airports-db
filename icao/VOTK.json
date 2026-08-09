@@ -59,5 +59,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tamil_Nadu",
         "keywords": "Airports in Tamil Nadu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94656",
+            "filename": "Tuticorin_NDB_IN",
+            "ident": "TU",
+            "name": "Tuticorin",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "8.72560977935791",
+            "longitude_deg": "78.02570343017578",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.31",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VOTK"
+        }
+    ]
 }

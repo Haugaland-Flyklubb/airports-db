@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87941",
+            "filename": "Forbes_NDB_AU",
+            "ident": "FBS",
+            "name": "Forbes",
+            "type": "NDB",
+            "frequency_khz": "486",
+            "latitude_deg": "-33.364200592041016",
+            "longitude_deg": "147.92799377441406",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.204",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YFBS"
+        }
+    ]
 }

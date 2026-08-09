@@ -99,5 +99,29 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Khuzestan_Province",
         "keywords": "Airports in Khuzestan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85207",
+            "filename": "Abadan_VOR-DME_IR",
+            "ident": "ABD",
+            "name": "Abadan",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "30.386999130249023",
+            "longitude_deg": "48.21760177612305",
+            "elevation_ft": "10",
+            "iso_country": "IR",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "3.069",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OIAA"
+        }
+    ]
 }

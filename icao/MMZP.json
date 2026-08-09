@@ -91,5 +91,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jalisco",
         "keywords": "Airports in Jalisco"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95971",
+            "filename": "Zapopan_VOR-DME_MX",
+            "ident": "ZAP",
+            "name": "Zapopan",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "20.749799728393555",
+            "longitude_deg": "-103.46499633789062",
+            "elevation_ft": "5333",
+            "iso_country": "MX",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.011",
+            "magnetic_variation_deg": "7.31",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMZP"
+        }
+    ]
 }

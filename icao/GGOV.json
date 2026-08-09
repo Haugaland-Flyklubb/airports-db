@@ -85,5 +85,51 @@
         "iso_country": "GW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bissau",
         "keywords": "Airports in Bissau Autonomous Sector"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86058",
+            "filename": "Bissau_Oswaldo_Vieira_VOR-DME_GW",
+            "ident": "BIS",
+            "name": "Bissau/Oswaldo Vieira",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "11.936800003051758",
+            "longitude_deg": "-15.644599914550781",
+            "elevation_ft": "129",
+            "iso_country": "GW",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-12.007",
+            "magnetic_variation_deg": "-8.411",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GGOV"
+        },
+        {
+            "id": "86352",
+            "filename": "Bissau_Oswaldo_Vieira_NDB_GW",
+            "ident": "BS",
+            "name": "Bissau/Oswaldo Vieira",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "11.960100173950195",
+            "longitude_deg": "-15.643199920654297",
+            "elevation_ft": "",
+            "iso_country": "GW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.407",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GGOV"
+        }
+    ]
 }

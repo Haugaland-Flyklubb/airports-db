@@ -59,5 +59,29 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
         "keywords": "Airports in Bolívar State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90266",
+            "filename": "Luepa_NDB_VE",
+            "ident": "LEA",
+            "name": "Luepa",
+            "type": "NDB",
+            "frequency_khz": "286",
+            "latitude_deg": "5.816669940948486",
+            "longitude_deg": "-61.483299255371094",
+            "elevation_ft": "",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.561",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SVPP"
+        }
+    ]
 }

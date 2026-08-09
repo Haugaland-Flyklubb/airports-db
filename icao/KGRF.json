@@ -141,5 +141,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88538",
+            "filename": "Graye_NDB_US",
+            "ident": "GR",
+            "name": "Graye",
+            "type": "NDB",
+            "frequency_khz": "216",
+            "latitude_deg": "47.15019989013672",
+            "longitude_deg": "-122.6050033569336",
+            "elevation_ft": "101",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.345",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KGRF"
+        },
+        {
+            "id": "90146",
+            "filename": "Lacomas_NDB_US",
+            "ident": "LAC",
+            "name": "Lacomas",
+            "type": "NDB",
+            "frequency_khz": "328",
+            "latitude_deg": "47.007999420166016",
+            "longitude_deg": "-122.55599975585938",
+            "elevation_ft": "101",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.311",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KGRF"
+        }
+    ]
 }

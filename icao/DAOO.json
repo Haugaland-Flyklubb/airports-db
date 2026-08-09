@@ -99,5 +99,29 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oran_Province",
         "keywords": "Airports in Oran Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92079",
+            "filename": "Oran_VOR-DME_DZ",
+            "ident": "ORA",
+            "name": "Oran",
+            "type": "VOR-DME",
+            "frequency_khz": "114000",
+            "latitude_deg": "35.61259841918945",
+            "longitude_deg": "-0.6549890041351318",
+            "elevation_ft": "284",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.124",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAOO"
+        }
+    ]
 }

@@ -117,5 +117,51 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern",
         "keywords": "Airports in Mecklenburg-Vorpommern"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91509",
+            "filename": "Neubrandenburg_TACAN_DE",
+            "ident": "NEG",
+            "name": "Neubrandenburg",
+            "type": "TACAN",
+            "frequency_khz": "108050",
+            "latitude_deg": "53.604698181152344",
+            "longitude_deg": "13.308699607849121",
+            "elevation_ft": "270",
+            "iso_country": "DE",
+            "dme_frequency_khz": "108050",
+            "dme_channel": "017Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.011",
+            "magnetic_variation_deg": "2.107",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EDBN"
+        },
+        {
+            "id": "91697",
+            "filename": "Neubrandenburg_NDB_DE",
+            "ident": "NRG",
+            "name": "Neubrandenburg",
+            "type": "NDB",
+            "frequency_khz": "357",
+            "latitude_deg": "53.60279846191406",
+            "longitude_deg": "13.338299751281738",
+            "elevation_ft": "264",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.113",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDBN"
+        }
+    ]
 }

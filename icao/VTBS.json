@@ -153,5 +153,29 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bangkok",
         "keywords": "Airports in Bangkok (special administrative area)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94062",
+            "filename": "Suvarnabhumi_Intl_VOR-DME_TH",
+            "ident": "SVB",
+            "name": "Suvarnabhumi Intl",
+            "type": "VOR-DME",
+            "frequency_khz": "111400",
+            "latitude_deg": "13.660699844360352",
+            "longitude_deg": "100.72799682617188",
+            "elevation_ft": "5",
+            "iso_country": "TH",
+            "dme_frequency_khz": "111400",
+            "dme_channel": "051X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.354",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTBS"
+        }
+    ]
 }

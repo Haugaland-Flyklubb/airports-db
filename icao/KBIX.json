@@ -133,5 +133,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86062",
+            "filename": "Keesler_TACAN_US",
+            "ident": "BIX",
+            "name": "Keesler",
+            "type": "TACAN",
+            "frequency_khz": "111800",
+            "latitude_deg": "30.407100677490234",
+            "longitude_deg": "-88.92970275878906",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "111800",
+            "dme_channel": "055X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "-0.183",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KBIX"
+        }
+    ]
 }

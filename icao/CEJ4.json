@@ -113,5 +113,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95958",
+            "filename": "Claresholm_NDB_CA",
+            "ident": "Z7",
+            "name": "Claresholm",
+            "type": "NDB",
+            "frequency_khz": "408",
+            "latitude_deg": "50.00279998779297",
+            "longitude_deg": "-113.63700103759766",
+            "elevation_ft": "3325",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.446",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CEJ4"
+        }
+    ]
 }

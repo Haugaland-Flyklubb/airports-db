@@ -69,5 +69,51 @@
         "iso_country": "BY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mogilev_Region",
         "keywords": "Mahilëuskaja voblasc', Mahilyow Voblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86930",
+            "filename": "Mogilev_NDB_BY",
+            "ident": "CO",
+            "name": "Mogilev",
+            "type": "NDB",
+            "frequency_khz": "485",
+            "latitude_deg": "53.926700592041016",
+            "longitude_deg": "30.145000457763672",
+            "elevation_ft": "",
+            "iso_country": "BY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.049",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UMOO"
+        },
+        {
+            "id": "94833",
+            "filename": "Mogilev_NDB_BY",
+            "ident": "UF",
+            "name": "Mogilev",
+            "type": "NDB",
+            "frequency_khz": "485",
+            "latitude_deg": "53.986698150634766",
+            "longitude_deg": "30.045000076293945",
+            "elevation_ft": "",
+            "iso_country": "BY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.044",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UMOO"
+        }
+    ]
 }

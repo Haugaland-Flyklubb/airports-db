@@ -77,5 +77,29 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uşak_Province",
         "keywords": "Airports in Uşak Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94967",
+            "filename": "Usak_NDB-DME_TR",
+            "ident": "USK",
+            "name": "Usak",
+            "type": "NDB-DME",
+            "frequency_khz": "414",
+            "latitude_deg": "38.67959976196289",
+            "longitude_deg": "29.480100631713867",
+            "elevation_ft": "2821",
+            "iso_country": "TR",
+            "dme_frequency_khz": "108000",
+            "dme_channel": "017X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.017",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "LTBO"
+        }
+    ]
 }

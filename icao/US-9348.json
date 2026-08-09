@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92380",
+            "filename": "Lynne_NDB_US",
+            "ident": "PF",
+            "name": "Lynne",
+            "type": "NDB",
+            "frequency_khz": "278",
+            "latitude_deg": "30.32659912109375",
+            "longitude_deg": "-85.78230285644531",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.297",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "US-9348"
+        },
+        {
+            "id": "92385",
+            "filename": "Panama_City_VORTAC_US",
+            "ident": "PFN",
+            "name": "Panama City",
+            "type": "VORTAC",
+            "frequency_khz": "114300",
+            "latitude_deg": "30.21619987487793",
+            "longitude_deg": "-85.68090057373047",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "-2.329",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "US-9348"
+        }
+    ]
 }

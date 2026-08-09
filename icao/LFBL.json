@@ -93,5 +93,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
         "keywords": "Limousin, Poitou-Charentes"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90418",
+            "filename": "Limoges_VOR-DME_FR",
+            "ident": "LMG",
+            "name": "Limoges",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "45.81589889526367",
+            "longitude_deg": "1.0255800485610962",
+            "elevation_ft": "1375",
+            "iso_country": "FR",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-1.127",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFBL"
+        }
+    ]
 }

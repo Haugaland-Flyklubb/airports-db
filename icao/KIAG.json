@@ -185,5 +185,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89111",
+            "filename": "Kathi_NDB_US",
+            "ident": "IA",
+            "name": "Kathi",
+            "type": "NDB",
+            "frequency_khz": "329",
+            "latitude_deg": "43.10900115966797",
+            "longitude_deg": "-78.8384017944336",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.438",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KIAG"
+        },
+        {
+            "id": "89115",
+            "filename": "Niagara_Falls_TACAN_US",
+            "ident": "IAG",
+            "name": "Niagara Falls",
+            "type": "TACAN",
+            "frequency_khz": "111000",
+            "latitude_deg": "43.11249923706055",
+            "longitude_deg": "-78.96029663085938",
+            "elevation_ft": "635",
+            "iso_country": "US",
+            "dme_frequency_khz": "111000",
+            "dme_channel": "047X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.001",
+            "magnetic_variation_deg": "-10.383",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KIAG"
+        }
+    ]
 }

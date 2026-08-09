@@ -153,5 +153,51 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Azores",
         "keywords": "Região Autónoma dos Açores"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93770",
+            "filename": "Santa_Maria_NDB_PT",
+            "ident": "SMA",
+            "name": "Santa Maria",
+            "type": "NDB",
+            "frequency_khz": "323",
+            "latitude_deg": "36.996700286865234",
+            "longitude_deg": "-25.175600051879883",
+            "elevation_ft": "308",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.555",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "LPAZ"
+        },
+        {
+            "id": "95286",
+            "filename": "Santa_Maria_VOR-DME_PT",
+            "ident": "VSM",
+            "name": "Santa Maria",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "36.962799072265625",
+            "longitude_deg": "-25.166400909423828",
+            "elevation_ft": "24",
+            "iso_country": "PT",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.551",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPAZ"
+        }
+    ]
 }

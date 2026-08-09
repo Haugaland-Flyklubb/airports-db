@@ -155,5 +155,51 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggi_Province",
         "keywords": "Airports in Gyeonggi-do"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90006",
+            "filename": "Seoul_VOR-DME_KR",
+            "ident": "KSM",
+            "name": "Seoul",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "37.43519973754883",
+            "longitude_deg": "127.11000061035156",
+            "elevation_ft": "82",
+            "iso_country": "KR",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.468",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKSM"
+        },
+        {
+            "id": "93846",
+            "filename": "Seoul_TACAN_KR",
+            "ident": "SOL",
+            "name": "Seoul",
+            "type": "TACAN",
+            "frequency_khz": "110900",
+            "latitude_deg": "37.42879867553711",
+            "longitude_deg": "127.1050033569336",
+            "elevation_ft": "133",
+            "iso_country": "KR",
+            "dme_frequency_khz": "110900",
+            "dme_channel": "046X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.466",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKSM"
+        }
+    ]
 }

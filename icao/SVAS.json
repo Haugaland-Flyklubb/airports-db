@@ -59,5 +59,29 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bol%C3%ADvar_(state)",
         "keywords": "Airports in Bolívar State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92442",
+            "filename": "Los_Pijiguaos_NDB_VE",
+            "ident": "PIJ",
+            "name": "Los Pijiguaos",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "6.568610191345215",
+            "longitude_deg": "-66.80280303955078",
+            "elevation_ft": "59",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.487",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SVAS"
+        }
+    ]
 }

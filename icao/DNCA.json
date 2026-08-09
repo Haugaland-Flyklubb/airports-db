@@ -69,5 +69,51 @@
         "iso_country": "NG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Cross_River_State",
         "keywords": "Airports in Cross River"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86567",
+            "filename": "Calabar_VOR-DME_NG",
+            "ident": "CAL",
+            "name": "Calabar",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "4.921870231628418",
+            "longitude_deg": "8.320039749145508",
+            "elevation_ft": "211",
+            "iso_country": "NG",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.406",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "DNCA"
+        },
+        {
+            "id": "87013",
+            "filename": "Calabar_NDB_NG",
+            "ident": "CR",
+            "name": "Calabar",
+            "type": "NDB",
+            "frequency_khz": "317",
+            "latitude_deg": "4.967919826507568",
+            "longitude_deg": "8.347299575805664",
+            "elevation_ft": "240",
+            "iso_country": "NG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.396",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "DNCA"
+        }
+    ]
 }

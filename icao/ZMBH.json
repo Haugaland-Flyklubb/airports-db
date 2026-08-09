@@ -99,5 +99,29 @@
         "iso_country": "MN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bayankhongor_Province",
         "keywords": "Airports in Bayankhongor Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86009",
+            "filename": "Bayankhongor_NDB_MN",
+            "ident": "BH",
+            "name": "Bayankhongor",
+            "type": "NDB",
+            "frequency_khz": "480",
+            "latitude_deg": "46.11920166015625",
+            "longitude_deg": "100.73100280761719",
+            "elevation_ft": "",
+            "iso_country": "MN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.189",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ZMBH"
+        }
+    ]
 }

@@ -85,5 +85,51 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_Department",
         "keywords": "Airports in Amazonas Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90282",
+            "filename": "Leticia_VOR-DME_CO",
+            "ident": "LET",
+            "name": "Leticia",
+            "type": "VOR-DME",
+            "frequency_khz": "117500",
+            "latitude_deg": "-4.195000171661377",
+            "longitude_deg": "-69.939697265625",
+            "elevation_ft": "277",
+            "iso_country": "CO",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.053",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKLT"
+        },
+        {
+            "id": "90283",
+            "filename": "Leticia_NDB_CO",
+            "ident": "LET",
+            "name": "Leticia",
+            "type": "NDB",
+            "frequency_khz": "407",
+            "latitude_deg": "-4.201670169830322",
+            "longitude_deg": "-69.94239807128906",
+            "elevation_ft": "277",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.051",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKLT"
+        }
+    ]
 }

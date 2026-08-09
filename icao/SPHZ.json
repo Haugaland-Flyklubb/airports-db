@@ -69,5 +69,29 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ancash_Region",
         "keywords": "Airports in Ancash Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85655",
+            "filename": "Anta_NDB_PE",
+            "ident": "ATA",
+            "name": "Anta",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "-9.350669860839844",
+            "longitude_deg": "-77.5979995727539",
+            "elevation_ft": "9022",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.162",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SPHZ"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/F%C3%A8s-Mekn%C3%A8s",
         "keywords": "جهة فاس مكناس"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89173",
+            "filename": "Ifrane_NDB_MA",
+            "ident": "IFR",
+            "name": "Ifrane",
+            "type": "NDB",
+            "frequency_khz": "409",
+            "latitude_deg": "33.500301361083984",
+            "longitude_deg": "-5.160280227661133",
+            "elevation_ft": "",
+            "iso_country": "MA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.3",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "GMFI"
+        }
+    ]
 }

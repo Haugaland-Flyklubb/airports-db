@@ -59,5 +59,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
         "keywords": "Airports in Auvergne-Rhône-Alpes"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90780",
+            "filename": "Montlucon_NDB_FR",
+            "ident": "MC",
+            "name": "Montlucon",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "46.37260055541992",
+            "longitude_deg": "2.4926700592041016",
+            "elevation_ft": "1049",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.484",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LFLT"
+        }
+    ]
 }

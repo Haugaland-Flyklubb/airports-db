@@ -69,5 +69,51 @@
         "iso_country": "KZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Turkistan_Region",
         "keywords": "Türkıstan Oblysy, Chimkent, South Kazakhstan, Оңтүстік Қазақстан облысы"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87749",
+            "filename": "Shymkent_NDB_KZ",
+            "ident": "EN",
+            "name": "Shymkent",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "42.377601623535156",
+            "longitude_deg": "69.41690063476562",
+            "elevation_ft": "",
+            "iso_country": "KZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.173",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UAII"
+        },
+        {
+            "id": "89244",
+            "filename": "Shymkent_NDB_KZ",
+            "ident": "IM",
+            "name": "Shymkent",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "42.35049819946289",
+            "longitude_deg": "69.5425033569336",
+            "elevation_ft": "",
+            "iso_country": "KZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.159",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "UAII"
+        }
+    ]
 }

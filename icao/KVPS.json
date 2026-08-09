@@ -147,5 +147,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87586",
+            "filename": "Warrington_TACAN_US",
+            "ident": "DWG",
+            "name": "Warrington",
+            "type": "TACAN",
+            "frequency_khz": "134500",
+            "latitude_deg": "30.478200912475586",
+            "longitude_deg": "-86.5208969116211",
+            "elevation_ft": "77",
+            "iso_country": "US",
+            "dme_frequency_khz": "134500",
+            "dme_channel": "002X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "-1.598",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KVPS"
+        }
+    ]
 }

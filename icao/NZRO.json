@@ -137,5 +137,29 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bay_of_Plenty",
         "keywords": "Airports in Bay of Plenty Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93169",
+            "filename": "Rotorua_VOR-DME_NZ",
+            "ident": "RO",
+            "name": "Rotorua",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "-38.10810089111328",
+            "longitude_deg": "176.31399536132812",
+            "elevation_ft": "935",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "-38.1081",
+            "dme_longitude_deg": "176.314",
+            "dme_elevation_ft": "935",
+            "slaved_variation_deg": "20.107",
+            "magnetic_variation_deg": "20.154",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NZRO"
+        }
+    ]
 }

@@ -101,5 +101,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93897",
+            "filename": "Saint_Paul_Island_NDB-DME_US",
+            "ident": "SPY",
+            "name": "Saint Paul Island",
+            "type": "NDB-DME",
+            "frequency_khz": "314",
+            "latitude_deg": "57.157798767089844",
+            "longitude_deg": "-170.2310028076172",
+            "elevation_ft": "43",
+            "iso_country": "US",
+            "dme_frequency_khz": "109900",
+            "dme_channel": "036X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.012",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PASN"
+        }
+    ]
 }

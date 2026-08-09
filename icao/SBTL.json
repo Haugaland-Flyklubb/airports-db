@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
         "keywords": "Airports in Paraná"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94426",
+            "filename": "Telemaco_NDB_BR",
+            "ident": "TLB",
+            "name": "Telemaco",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "-24.319000244140625",
+            "longitude_deg": "-50.653499603271484",
+            "elevation_ft": "2610",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.222",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBTL"
+        }
+    ]
 }

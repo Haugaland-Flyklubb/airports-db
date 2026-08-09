@@ -69,5 +69,29 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fars_Province",
         "keywords": "Airports in Fars Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88159",
+            "filename": "Fasa_NDB_IR",
+            "ident": "FSA",
+            "name": "Fasa",
+            "type": "NDB",
+            "frequency_khz": "216",
+            "latitude_deg": "28.896099090576172",
+            "longitude_deg": "53.722801208496094",
+            "elevation_ft": "4261",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.201",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OISF"
+        }
+    ]
 }

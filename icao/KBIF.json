@@ -117,5 +117,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87881",
+            "filename": "Newman_VORTAC_US",
+            "ident": "EWM",
+            "name": "Newman",
+            "type": "VORTAC",
+            "frequency_khz": "112400",
+            "latitude_deg": "31.95170021057129",
+            "longitude_deg": "-106.27200317382812",
+            "elevation_ft": "4040",
+            "iso_country": "US",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "12.012",
+            "magnetic_variation_deg": "9.202",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KBIF"
+        }
+    ]
 }

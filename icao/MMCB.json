@@ -77,5 +77,51 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Morelos",
         "keywords": "Airports in Morelos"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87143",
+            "filename": "Cuernavaca_VOR-DME_MX",
+            "ident": "CVJ",
+            "name": "Cuernavaca",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "18.825",
+            "longitude_deg": "-99.27",
+            "elevation_ft": "",
+            "iso_country": "MX",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MMCB"
+        },
+        {
+            "id": "94294",
+            "filename": "Tequesquitengo_VOR-DME_MX",
+            "ident": "TEQ",
+            "name": "Tequesquitengo",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "18.67609977722168",
+            "longitude_deg": "-99.25530242919922",
+            "elevation_ft": "3316",
+            "iso_country": "MX",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.004",
+            "magnetic_variation_deg": "6.045",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMCB"
+        }
+    ]
 }

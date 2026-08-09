@@ -59,5 +59,51 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/El_Beni_Department",
         "keywords": "Airports in El Beni Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92991",
+            "filename": "Riberalta_VOR_BO",
+            "ident": "RBT",
+            "name": "Riberalta",
+            "type": "VOR",
+            "frequency_khz": "113700",
+            "latitude_deg": "-11.020700454711914",
+            "longitude_deg": "-66.10150146484375",
+            "elevation_ft": "",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.462",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SLRI"
+        },
+        {
+            "id": "93038",
+            "filename": "Riberalta_NDB_BO",
+            "ident": "REA",
+            "name": "Riberalta",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "-11.008055",
+            "longitude_deg": "-66.073889",
+            "elevation_ft": "",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.5",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SLRI"
+        }
+    ]
 }

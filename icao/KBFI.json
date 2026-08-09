@@ -147,5 +147,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85956",
+            "filename": "Nolla_NDB_US",
+            "ident": "BF",
+            "name": "Nolla",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "47.63249969482422",
+            "longitude_deg": "-122.38899993896484",
+            "elevation_ft": "142",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "17.418",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KBFI"
+        }
+    ]
 }

@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95414",
+            "filename": "Whyalla_NDB_AU",
+            "ident": "WHA",
+            "name": "Whyalla",
+            "type": "NDB",
+            "frequency_khz": "371",
+            "latitude_deg": "-33.058101654052734",
+            "longitude_deg": "137.5240020751953",
+            "elevation_ft": "41",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.24",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YWHA"
+        }
+    ]
 }

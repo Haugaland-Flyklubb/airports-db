@@ -99,5 +99,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tolima_Department",
         "keywords": "Airports in Tolima Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91217",
+            "filename": "Mariquita_VOR-DME_CO",
+            "ident": "MQU",
+            "name": "Mariquita",
+            "type": "VOR-DME",
+            "frequency_khz": "116100",
+            "latitude_deg": "5.207220077514648",
+            "longitude_deg": "-74.92420196533203",
+            "elevation_ft": "2780",
+            "iso_country": "CO",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-5.09",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKQU"
+        }
+    ]
 }

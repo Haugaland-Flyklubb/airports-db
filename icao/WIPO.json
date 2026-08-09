@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lampung",
         "keywords": "Airports in Lampung"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86295",
+            "filename": "Batu_Raja_NDB_ID",
+            "ident": "BR",
+            "name": "Batu Raja",
+            "type": "NDB",
+            "frequency_khz": "357",
+            "latitude_deg": "-4.397779941558838",
+            "longitude_deg": "104.40299987792969",
+            "elevation_ft": "451",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.228",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIPO"
+        }
+    ]
 }

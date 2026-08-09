@@ -77,5 +77,29 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tarija_Department",
         "keywords": "Airports in Tarija Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95607",
+            "filename": "Yacuiba_NDB_BO",
+            "ident": "YAC",
+            "name": "Yacuiba",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "-21.960100173950195",
+            "longitude_deg": "-63.6531982421875",
+            "elevation_ft": "2116",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.543",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SLYA"
+        }
+    ]
 }

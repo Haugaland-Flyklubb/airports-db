@@ -107,5 +107,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87256",
+            "filename": "Daggett_VORTAC_US",
+            "ident": "DAG",
+            "name": "Daggett",
+            "type": "VORTAC",
+            "frequency_khz": "113200",
+            "latitude_deg": "34.962501525878906",
+            "longitude_deg": "-116.5780029296875",
+            "elevation_ft": "1760",
+            "iso_country": "US",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "12.587",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KBYS"
+        }
+    ]
 }

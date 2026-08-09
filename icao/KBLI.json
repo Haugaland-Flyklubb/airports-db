@@ -117,5 +117,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
         "keywords": "Airports in Washington"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86139",
+            "filename": "Benza_NDB_US",
+            "ident": "BL",
+            "name": "Benza",
+            "type": "NDB",
+            "frequency_khz": "338",
+            "latitude_deg": "48.89910125732422",
+            "longitude_deg": "-122.53500366210938",
+            "elevation_ft": "44",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.1",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KBLI"
+        },
+        {
+            "id": "89042",
+            "filename": "Whatcom_VORTAC_US",
+            "ident": "HUH",
+            "name": "Whatcom",
+            "type": "VORTAC",
+            "frequency_khz": "113000",
+            "latitude_deg": "48.9453010559082",
+            "longitude_deg": "-122.5790023803711",
+            "elevation_ft": "84",
+            "iso_country": "US",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "20.001",
+            "magnetic_variation_deg": "18.115",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KBLI"
+        }
+    ]
 }

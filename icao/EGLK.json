@@ -69,5 +69,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86145",
+            "filename": "Blackbushe_DME_GB",
+            "ident": "BLC",
+            "name": "Blackbushe",
+            "type": "DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "51.32389831542969",
+            "longitude_deg": "-0.8463770151138306",
+            "elevation_ft": "341",
+            "iso_country": "GB",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.314",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "EGLK"
+        },
+        {
+            "id": "86155",
+            "filename": "Blackbushe_NDB_GB",
+            "ident": "BLK",
+            "name": "Blackbushe",
+            "type": "NDB",
+            "frequency_khz": "328",
+            "latitude_deg": "51.323299407958984",
+            "longitude_deg": "-0.844793975353241",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.313",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EGLK"
+        }
+    ]
 }

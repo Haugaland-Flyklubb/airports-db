@@ -77,5 +77,51 @@
         "iso_country": "ML",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gao_Region",
         "keywords": "Airports in Gao Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88260",
+            "filename": "Gao_VOR_ML",
+            "ident": "GAO",
+            "name": "Gao",
+            "type": "VOR",
+            "frequency_khz": "112300",
+            "latitude_deg": "16.237899780273438",
+            "longitude_deg": "-0.026499999687075615",
+            "elevation_ft": "852",
+            "iso_country": "ML",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-2.246",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GAGO"
+        },
+        {
+            "id": "94751",
+            "filename": "Gao_NDB_ML",
+            "ident": "TZI",
+            "name": "Gao",
+            "type": "NDB",
+            "frequency_khz": "364",
+            "latitude_deg": "16.23940086364746",
+            "longitude_deg": "-0.023360999301075935",
+            "elevation_ft": "882",
+            "iso_country": "ML",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.246",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "GAGO"
+        }
+    ]
 }

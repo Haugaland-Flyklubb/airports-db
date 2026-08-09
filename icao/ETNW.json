@@ -137,5 +137,51 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Saxony",
         "keywords": "Niedersachsen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95516",
+            "filename": "Wunstorf_TACAN_DE",
+            "ident": "WUN",
+            "name": "Wunstorf",
+            "type": "TACAN",
+            "frequency_khz": "114850",
+            "latitude_deg": "52.46030044555664",
+            "longitude_deg": "9.444829940795898",
+            "elevation_ft": "202",
+            "iso_country": "DE",
+            "dme_frequency_khz": "114850",
+            "dme_channel": "095Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "0.569",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETNW"
+        },
+        {
+            "id": "95517",
+            "filename": "Wunstorf_NDB_DE",
+            "ident": "WUN",
+            "name": "Wunstorf",
+            "type": "NDB",
+            "frequency_khz": "419",
+            "latitude_deg": "52.45930099487305",
+            "longitude_deg": "9.454660415649414",
+            "elevation_ft": "203",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.571",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "ETNW"
+        }
+    ]
 }

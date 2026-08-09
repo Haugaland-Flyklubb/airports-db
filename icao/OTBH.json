@@ -141,5 +141,29 @@
         "iso_country": "QA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Rayyan",
         "keywords": "Airports in Al Rayyan Municipality"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85400",
+            "filename": "Al_Udeid_VORTAC_QA",
+            "ident": "ALD",
+            "name": "Al Udeid",
+            "type": "VORTAC",
+            "frequency_khz": "115200",
+            "latitude_deg": "25.13949966430664",
+            "longitude_deg": "51.30509948730469",
+            "elevation_ft": "37",
+            "iso_country": "QA",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.568",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OTBH"
+        }
+    ]
 }

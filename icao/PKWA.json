@@ -85,5 +85,51 @@
         "iso_country": "MH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kwajalein",
         "keywords": "Airports in Kwajalein"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91499",
+            "filename": "Bucholz_TACAN_MH",
+            "ident": "NDJ",
+            "name": "Bucholz",
+            "type": "TACAN",
+            "frequency_khz": "114300",
+            "latitude_deg": "8.721199989318848",
+            "longitude_deg": "167.72900390625",
+            "elevation_ft": "29",
+            "iso_country": "MH",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.002",
+            "magnetic_variation_deg": "7.539",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PKWA"
+        },
+        {
+            "id": "91500",
+            "filename": "Bucholz_NDB_MH",
+            "ident": "NDJ",
+            "name": "Bucholz",
+            "type": "NDB",
+            "frequency_khz": "359",
+            "latitude_deg": "8.720870018005371",
+            "longitude_deg": "167.72799682617188",
+            "elevation_ft": "9",
+            "iso_country": "MH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.539",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PKWA"
+        }
+    ]
 }

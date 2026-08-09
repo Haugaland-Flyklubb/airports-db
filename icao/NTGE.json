@@ -59,5 +59,29 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93033",
+            "filename": "Reao_NDB_PF",
+            "ident": "RE",
+            "name": "Reao",
+            "type": "NDB",
+            "frequency_khz": "328",
+            "latitude_deg": "-18.466699600219727",
+            "longitude_deg": "-136.43299865722656",
+            "elevation_ft": "15",
+            "iso_country": "PF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.598",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "NTGE"
+        }
+    ]
 }

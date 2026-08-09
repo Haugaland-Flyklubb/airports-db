@@ -69,5 +69,29 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mon_State",
         "keywords": "Airports in Mon State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91083",
+            "filename": "Mawlamyine_NDB_MM",
+            "ident": "MM",
+            "name": "Mawlamyine",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "16.4414005279541",
+            "longitude_deg": "97.65799713134766",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.434",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VYMM"
+        }
+    ]
 }

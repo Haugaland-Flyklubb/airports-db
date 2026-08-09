@@ -91,5 +91,29 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jönköpings_län",
         "keywords": "Jönköping County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89532",
+            "filename": "Jonkoping_VOR-DME_SE",
+            "ident": "JON",
+            "name": "Jonkoping",
+            "type": "VOR-DME",
+            "frequency_khz": "115800",
+            "latitude_deg": "57.760398864746094",
+            "longitude_deg": "14.065400123596191",
+            "elevation_ft": "772",
+            "iso_country": "SE",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "2.338",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ESGJ"
+        }
+    ]
 }

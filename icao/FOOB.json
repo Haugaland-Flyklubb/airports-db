@@ -59,5 +59,51 @@
         "iso_country": "GA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Woleu-Ntem_Province",
         "keywords": "Airports in Woleu-Ntem Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89242",
+            "filename": "Bitam_NDB_GA",
+            "ident": "IM",
+            "name": "Bitam",
+            "type": "NDB",
+            "frequency_khz": "264",
+            "latitude_deg": "2.08351993560791",
+            "longitude_deg": "11.4822998046875",
+            "elevation_ft": "",
+            "iso_country": "GA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.34",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FOOB"
+        },
+        {
+            "id": "89832",
+            "filename": "Koulamoutou_NDB_GA",
+            "ident": "KL",
+            "name": "Koulamoutou",
+            "type": "NDB",
+            "frequency_khz": "386",
+            "latitude_deg": "-1.1696799993515015",
+            "longitude_deg": "12.43179988861084",
+            "elevation_ft": "",
+            "iso_country": "GA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.09",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FOOB"
+        }
+    ]
 }

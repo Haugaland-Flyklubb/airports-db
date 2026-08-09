@@ -115,5 +115,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Dakota",
         "keywords": "Airports in South Dakota"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85651",
+            "filename": "Lican_NDB_US",
+            "ident": "AT",
+            "name": "Lican",
+            "type": "NDB",
+            "frequency_khz": "215",
+            "latitude_deg": "44.80329895019531",
+            "longitude_deg": "-97.15010070800781",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.345",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KATY"
+        },
+        {
+            "id": "85674",
+            "filename": "Watertown_VORTAC_US",
+            "ident": "ATY",
+            "name": "Watertown",
+            "type": "VORTAC",
+            "frequency_khz": "116600",
+            "latitude_deg": "44.979698181152344",
+            "longitude_deg": "-97.1417007446289",
+            "elevation_ft": "1750",
+            "iso_country": "US",
+            "dme_frequency_khz": "116600",
+            "dme_channel": "113X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.001",
+            "magnetic_variation_deg": "4.335",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KATY"
+        }
+    ]
 }

@@ -99,5 +99,29 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85828",
+            "filename": "Bora_Bora_NDB_PF",
+            "ident": "BB",
+            "name": "Bora Bora",
+            "type": "NDB",
+            "frequency_khz": "384",
+            "latitude_deg": "-16.443599700927734",
+            "longitude_deg": "-151.7550048828125",
+            "elevation_ft": "58",
+            "iso_country": "PF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.229",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NTTB"
+        }
+    ]
 }

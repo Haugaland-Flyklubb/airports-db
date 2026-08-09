@@ -69,5 +69,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hokkaido",
         "keywords": "Hokkaido"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91368",
+            "filename": "Monbetsu_VOR-DME_JP",
+            "ident": "MVE",
+            "name": "Monbetsu",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "44.305301666259766",
+            "longitude_deg": "143.39500427246094",
+            "elevation_ft": "159",
+            "iso_country": "JP",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.011",
+            "magnetic_variation_deg": "-9.125",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJEB"
+        }
+    ]
 }

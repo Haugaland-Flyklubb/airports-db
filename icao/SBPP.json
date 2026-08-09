@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
         "keywords": "Airports in Mato Grosso do Sul"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92778",
+            "filename": "Ponta_Pora_NDB_BR",
+            "ident": "PTP",
+            "name": "Ponta Pora",
+            "type": "NDB",
+            "frequency_khz": "340",
+            "latitude_deg": "-22.550199508666992",
+            "longitude_deg": "-55.70719909667969",
+            "elevation_ft": "2156",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.182",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBPP"
+        }
+    ]
 }

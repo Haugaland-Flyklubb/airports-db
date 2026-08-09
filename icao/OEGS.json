@@ -85,5 +85,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al-Qassim_Province",
         "keywords": "Airports in Al Qasim Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88265",
+            "filename": "Gassim_VORTAC_SA",
+            "ident": "GAS",
+            "name": "Gassim",
+            "type": "VORTAC",
+            "frequency_khz": "117100",
+            "latitude_deg": "26.298099517822266",
+            "longitude_deg": "43.779598236083984",
+            "elevation_ft": "2159",
+            "iso_country": "SA",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "2.533",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OEGS"
+        }
+    ]
 }

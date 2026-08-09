@@ -139,5 +139,51 @@
         "iso_country": "GU",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85347",
+            "filename": "Mt_Macajna_NDB_GU",
+            "ident": "AJA",
+            "name": "Mt Macajna",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "13.454899787902832",
+            "longitude_deg": "144.73699951171875",
+            "elevation_ft": "660",
+            "iso_country": "GU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.274",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "PGUM"
+        },
+        {
+            "id": "94919",
+            "filename": "Nimitz_VORTAC_GU",
+            "ident": "UNZ",
+            "name": "Nimitz",
+            "type": "VORTAC",
+            "frequency_khz": "115300",
+            "latitude_deg": "13.454500198364258",
+            "longitude_deg": "144.73300170898438",
+            "elevation_ft": "658",
+            "iso_country": "GU",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.012",
+            "magnetic_variation_deg": "1.273",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PGUM"
+        }
+    ]
 }

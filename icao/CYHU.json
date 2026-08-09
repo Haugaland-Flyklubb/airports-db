@@ -161,5 +161,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96029",
+            "filename": "Hauts-Bois_NDB_CA",
+            "ident": "ZHU",
+            "name": "Hauts-Bois",
+            "type": "NDB",
+            "frequency_khz": "407",
+            "latitude_deg": "45.56420135498047",
+            "longitude_deg": "-73.3467025756836",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.232",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYHU"
+        }
+    ]
 }

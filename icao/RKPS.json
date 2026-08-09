@@ -139,5 +139,51 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Gyeongsang_Province",
         "keywords": "Airports in Gyeongsangnam-do"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93355",
+            "filename": "Sacheon_VOR-DME_KR",
+            "ident": "SAC",
+            "name": "Sacheon",
+            "type": "VOR-DME",
+            "frequency_khz": "115100",
+            "latitude_deg": "35.097999572753906",
+            "longitude_deg": "128.07699584960938",
+            "elevation_ft": "25",
+            "iso_country": "KR",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.085",
+            "usageType": "TERMINAL",
+            "power": "HIGH",
+            "associated_airport": "RKPS"
+        },
+        {
+            "id": "93457",
+            "filename": "Sacheon_TACAN_KR",
+            "ident": "SCN",
+            "name": "Sacheon",
+            "type": "TACAN",
+            "frequency_khz": "110000",
+            "latitude_deg": "35.097599029541016",
+            "longitude_deg": "128.0780029296875",
+            "elevation_ft": "25",
+            "iso_country": "KR",
+            "dme_frequency_khz": "110000",
+            "dme_channel": "037X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.085",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKPS"
+        }
+    ]
 }

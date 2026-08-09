@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Riau",
         "keywords": "Airports in Riau"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92630",
+            "filename": "Pasir_Pangarayan_NDB_ID",
+            "ident": "PP",
+            "name": "Pasir Pangarayan",
+            "type": "NDB",
+            "frequency_khz": "238",
+            "latitude_deg": "0.8328019976615906",
+            "longitude_deg": "100.36900329589844",
+            "elevation_ft": "151",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.16",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIDE"
+        }
+    ]
 }

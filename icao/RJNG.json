@@ -93,5 +93,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gifu",
         "keywords": "Chubu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88360",
+            "filename": "Gifu_TACAN_JP",
+            "ident": "GFT",
+            "name": "Gifu",
+            "type": "TACAN",
+            "frequency_khz": "112250",
+            "latitude_deg": "35.39139938354492",
+            "longitude_deg": "136.85899353027344",
+            "elevation_ft": "146",
+            "iso_country": "JP",
+            "dme_frequency_khz": "112250",
+            "dme_channel": "059Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.097",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJNG"
+        }
+    ]
 }

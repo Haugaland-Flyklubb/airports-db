@@ -77,5 +77,29 @@
         "iso_country": "TO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ha'apai",
         "keywords": "Airports in Ha'apai"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88697",
+            "filename": "Haapai_NDB_TO",
+            "ident": "HA",
+            "name": "Haapai",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "-19.777999877929688",
+            "longitude_deg": "-174.34100341796875",
+            "elevation_ft": "62",
+            "iso_country": "TO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.596",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "NFTL"
+        }
+    ]
 }

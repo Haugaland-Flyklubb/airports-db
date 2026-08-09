@@ -77,5 +77,29 @@
         "iso_country": "MG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Antsiranana",
         "keywords": "Airports in Antsiranana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93339",
+            "filename": "Sambava_NDB_MG",
+            "ident": "SA",
+            "name": "Sambava",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "-14.27869987487793",
+            "longitude_deg": "50.17720031738281",
+            "elevation_ft": "",
+            "iso_country": "MG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.524",
+            "usageType": "HI",
+            "power": "MEDIUM",
+            "associated_airport": "FMNS"
+        }
+    ]
 }

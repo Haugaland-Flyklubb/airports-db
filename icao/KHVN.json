@@ -139,5 +139,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Connecticut",
         "keywords": "Airports in Connecticut"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89060",
+            "filename": "New_Haven_VOR-DME_US",
+            "ident": "HVN",
+            "name": "New Haven",
+            "type": "VOR-DME",
+            "frequency_khz": "109800",
+            "latitude_deg": "41.262298583984375",
+            "longitude_deg": "-72.88520050048828",
+            "elevation_ft": "13",
+            "iso_country": "US",
+            "dme_frequency_khz": "109800",
+            "dme_channel": "035X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-13.001",
+            "magnetic_variation_deg": "-14.014",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KHVN"
+        }
+    ]
 }

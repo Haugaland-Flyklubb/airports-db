@@ -77,5 +77,51 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Province_(Argentina)",
         "keywords": "Airports in Santa Cruz Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87642",
+            "filename": "El_Calafate_VOR-DME_AR",
+            "ident": "ECA",
+            "name": "El Calafate",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "-50.27830123901367",
+            "longitude_deg": "-72.04560089111328",
+            "elevation_ft": "732",
+            "iso_country": "AR",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.319",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAWC"
+        },
+        {
+            "id": "87643",
+            "filename": "El_Calafate_NDB_AR",
+            "ident": "ECA",
+            "name": "El Calafate",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "-50.284698486328125",
+            "longitude_deg": "-72.05000305175781",
+            "elevation_ft": "669",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.323",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "SAWC"
+        }
+    ]
 }

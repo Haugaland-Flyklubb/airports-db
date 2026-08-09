@@ -69,5 +69,29 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sabah",
         "keywords": "Airports in Sabah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90320",
+            "filename": "Lahad_Datu_NDB_MY",
+            "ident": "LHD",
+            "name": "Lahad Datu",
+            "type": "NDB",
+            "frequency_khz": "334",
+            "latitude_deg": "5.024750232696533",
+            "longitude_deg": "118.33599853515625",
+            "elevation_ft": "",
+            "iso_country": "MY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.251",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WBKD"
+        }
+    ]
 }

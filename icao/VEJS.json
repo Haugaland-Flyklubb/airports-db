@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jharkhand",
         "keywords": "Airports in Jharkhand"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89499",
+            "filename": "Jamshedpur_VOR-DME_IN",
+            "ident": "JJS",
+            "name": "Jamshedpur",
+            "type": "VOR-DME",
+            "frequency_khz": "115400",
+            "latitude_deg": "22.812400817871094",
+            "longitude_deg": "86.1676025390625",
+            "elevation_ft": "475",
+            "iso_country": "IN",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.302",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VEJS"
+        }
+    ]
 }

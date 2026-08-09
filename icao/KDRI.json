@@ -159,5 +159,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
         "keywords": "Airports in Louisiana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87518",
+            "filename": "Idder_NDB_US",
+            "ident": "DR",
+            "name": "Idder",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "30.752099990844727",
+            "longitude_deg": "-93.33470153808594",
+            "elevation_ft": "160",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.356",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KDRI"
+        }
+    ]
 }

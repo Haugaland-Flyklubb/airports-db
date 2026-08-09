@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Utara",
         "keywords": "Airports in Sulawesi Utara"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94162",
+            "filename": "Tahuna_NDB_ID",
+            "ident": "TA",
+            "name": "Tahuna",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "3.6841700077056885",
+            "longitude_deg": "125.5260009765625",
+            "elevation_ft": "16",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.477",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAMH"
+        }
+    ]
 }

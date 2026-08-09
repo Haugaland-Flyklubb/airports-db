@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
         "keywords": "Airports in Louisiana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90284",
+            "filename": "Leeville_VORTAC_US",
+            "ident": "LEV",
+            "name": "Leeville",
+            "type": "VORTAC",
+            "frequency_khz": "113500",
+            "latitude_deg": "29.175199508666992",
+            "longitude_deg": "-90.10399627685547",
+            "elevation_ft": "2",
+            "iso_country": "US",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "0.378",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "0LS3"
+        }
+    ]
 }

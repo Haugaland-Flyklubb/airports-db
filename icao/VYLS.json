@@ -69,5 +69,51 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Shan_State",
         "keywords": "Airports in Shan State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90551",
+            "filename": "Lashio_VOR-DME_MM",
+            "ident": "LSO",
+            "name": "Lashio",
+            "type": "VOR-DME",
+            "frequency_khz": "116800",
+            "latitude_deg": "22.98419952392578",
+            "longitude_deg": "97.74620056152344",
+            "elevation_ft": "2470",
+            "iso_country": "MM",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.459",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYLS"
+        },
+        {
+            "id": "90552",
+            "filename": "Lashio_NDB_MM",
+            "ident": "LSO",
+            "name": "Lashio",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "22.97920036315918",
+            "longitude_deg": "97.75450134277344",
+            "elevation_ft": "",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.459",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VYLS"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
         "keywords": "Limousin, Poitou-Charentes"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86549",
+            "filename": "Cazaux_TACAN_FR",
+            "ident": "CAA",
+            "name": "Cazaux",
+            "type": "TACAN",
+            "frequency_khz": "110800",
+            "latitude_deg": "44.53120040893555",
+            "longitude_deg": "-1.1360299587249756",
+            "elevation_ft": "74",
+            "iso_country": "FR",
+            "dme_frequency_khz": "110800",
+            "dme_channel": "045X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.465",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFBC"
+        },
+        {
+            "id": "86551",
+            "filename": "Cazaux_NDB_FR",
+            "ident": "CAA",
+            "name": "Cazaux",
+            "type": "NDB",
+            "frequency_khz": "382",
+            "latitude_deg": "44.551300048828125",
+            "longitude_deg": "-1.1199699640274048",
+            "elevation_ft": "",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.463",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LFBC"
+        }
+    ]
 }

@@ -177,5 +177,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86625",
+            "filename": "Caledonia_VORTAC_US",
+            "ident": "CBM",
+            "name": "Caledonia",
+            "type": "VORTAC",
+            "frequency_khz": "115200",
+            "latitude_deg": "33.64149856567383",
+            "longitude_deg": "-88.4384994506836",
+            "elevation_ft": "220",
+            "iso_country": "US",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.009",
+            "magnetic_variation_deg": "-1.042",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCBM"
+        },
+        {
+            "id": "89177",
+            "filename": "Bigbee_VORTAC_US",
+            "ident": "IGB",
+            "name": "Bigbee",
+            "type": "VORTAC",
+            "frequency_khz": "116200",
+            "latitude_deg": "33.48550033569336",
+            "longitude_deg": "-88.51360321044922",
+            "elevation_ft": "240",
+            "iso_country": "US",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.001",
+            "magnetic_variation_deg": "-0.597",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KCBM"
+        }
+    ]
 }

@@ -149,5 +149,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aomori",
         "keywords": "Tohoku"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90980",
+            "filename": "Misawa_VORTAC_JP",
+            "ident": "MIS",
+            "name": "Misawa",
+            "type": "VORTAC",
+            "frequency_khz": "115400",
+            "latitude_deg": "40.703800201416016",
+            "longitude_deg": "141.38099670410156",
+            "elevation_ft": "142",
+            "iso_country": "JP",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.01",
+            "magnetic_variation_deg": "-8.239",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJSM"
+        },
+        {
+            "id": "91383",
+            "filename": "Tohoku_VOR-DME_JP",
+            "ident": "MWE",
+            "name": "Tohoku",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "40.80889892578125",
+            "longitude_deg": "141.15699768066406",
+            "elevation_ft": "444",
+            "iso_country": "JP",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.011",
+            "magnetic_variation_deg": "-8.283",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJSM"
+        }
+    ]
 }

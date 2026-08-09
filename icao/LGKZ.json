@@ -77,5 +77,51 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Macedonia",
         "keywords": "Δυτική Μακεδονία"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89926",
+            "filename": "Kozani_VOR-DME_GR",
+            "ident": "KOZ",
+            "name": "Kozani",
+            "type": "VOR-DME",
+            "frequency_khz": "109600",
+            "latitude_deg": "40.285099029541016",
+            "longitude_deg": "21.84040069580078",
+            "elevation_ft": "2055",
+            "iso_country": "GR",
+            "dme_frequency_khz": "109600",
+            "dme_channel": "033X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "3.139",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LGKZ"
+        },
+        {
+            "id": "90105",
+            "filename": "Kozani_NDB_GR",
+            "ident": "KZN",
+            "name": "Kozani",
+            "type": "NDB",
+            "frequency_khz": "291",
+            "latitude_deg": "40.28900146484375",
+            "longitude_deg": "21.841999053955078",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.141",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "LGKZ"
+        }
+    ]
 }

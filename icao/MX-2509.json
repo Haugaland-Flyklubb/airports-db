@@ -81,5 +81,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sonora",
         "keywords": "Airports in Sonora"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92639",
+            "filename": "Penasco_VOR-DME_MX",
+            "ident": "PPE",
+            "name": "Penasco",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "31.367392",
+            "longitude_deg": "-113.302333",
+            "elevation_ft": "30",
+            "iso_country": "MX",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "13",
+            "magnetic_variation_deg": "11.3",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MX-2509"
+        }
+    ]
 }

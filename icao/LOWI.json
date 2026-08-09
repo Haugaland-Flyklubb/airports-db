@@ -123,5 +123,51 @@
         "iso_country": "AT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tyrol",
         "keywords": "Tirol"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89274",
+            "filename": "Innsbruck_NDB_AT",
+            "ident": "INN",
+            "name": "Innsbruck",
+            "type": "NDB",
+            "frequency_khz": "420",
+            "latitude_deg": "47.22999954223633",
+            "longitude_deg": "11.401900291442871",
+            "elevation_ft": "2969",
+            "iso_country": "AT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.358",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LOWI"
+        },
+        {
+            "id": "90031",
+            "filename": "Kuhtai_NDB_AT",
+            "ident": "KTI",
+            "name": "Kuhtai",
+            "type": "NDB",
+            "frequency_khz": "413",
+            "latitude_deg": "47.21549987792969",
+            "longitude_deg": "11.027799606323242",
+            "elevation_ft": "6726",
+            "iso_country": "AT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.3",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LOWI"
+        }
+    ]
 }

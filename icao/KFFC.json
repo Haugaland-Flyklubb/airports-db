@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87971",
+            "filename": "Pecat_NDB_US",
+            "ident": "FF",
+            "name": "Pecat",
+            "type": "NDB",
+            "frequency_khz": "316",
+            "latitude_deg": "33.30059814453125",
+            "longitude_deg": "-84.48639678955078",
+            "elevation_ft": "850",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.563",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KFFC"
+        }
+    ]
 }

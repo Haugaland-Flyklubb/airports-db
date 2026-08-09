@@ -77,5 +77,29 @@
         "iso_country": "GA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ogoou%C3%A9-Maritime_Province",
         "keywords": "Airports in Ogooué-Maritime Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92387",
+            "filename": "Port_Gentil_VOR_GA",
+            "ident": "PG",
+            "name": "Port Gentil",
+            "type": "VOR",
+            "frequency_khz": "112300",
+            "latitude_deg": "-0.7287780046463013",
+            "longitude_deg": "8.747469902038574",
+            "elevation_ft": "13",
+            "iso_country": "GA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.059",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "FOOG"
+        }
+    ]
 }

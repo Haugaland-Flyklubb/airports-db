@@ -115,5 +115,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kagoshima",
         "keywords": "Kyushu and Okinawa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89418",
+            "filename": "Kanoya_NDB_JP",
+            "ident": "JA",
+            "name": "Kanoya",
+            "type": "NDB",
+            "frequency_khz": "238",
+            "latitude_deg": "31.356399536132812",
+            "longitude_deg": "130.8489990234375",
+            "elevation_ft": "214",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.04",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "RJFY"
+        },
+        {
+            "id": "89436",
+            "filename": "Kanoya_TACAN_JP",
+            "ident": "JAT",
+            "name": "Kanoya",
+            "type": "TACAN",
+            "frequency_khz": "113800",
+            "latitude_deg": "31.36280059814453",
+            "longitude_deg": "130.8300018310547",
+            "elevation_ft": "252",
+            "iso_country": "JP",
+            "dme_frequency_khz": "113800",
+            "dme_channel": "085X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.011",
+            "magnetic_variation_deg": "-6.041",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJFY"
+        }
+    ]
 }

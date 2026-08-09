@@ -121,5 +121,29 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kamchatka_Krai",
         "keywords": "Airports in Kamchatka Krai"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92667",
+            "filename": "Petropavlovsk-Kamchatsky_NDB_RU",
+            "ident": "PR",
+            "name": "Petropavlovsk-Kamchatsky",
+            "type": "NDB",
+            "frequency_khz": "535",
+            "latitude_deg": "53.11330032348633",
+            "longitude_deg": "158.49000549316406",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.218",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UHPP"
+        }
+    ]
 }

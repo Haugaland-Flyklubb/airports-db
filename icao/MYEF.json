@@ -77,5 +77,29 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Exuma",
         "keywords": "Airports in Exuma"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95998",
+            "filename": "Great_Exuma_NDB_BS",
+            "ident": "ZEF",
+            "name": "Great Exuma",
+            "type": "NDB",
+            "frequency_khz": "328",
+            "latitude_deg": "23.555299758911133",
+            "longitude_deg": "-75.86499786376953",
+            "elevation_ft": "9",
+            "iso_country": "BS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.539",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "MYEF"
+        }
+    ]
 }

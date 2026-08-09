@@ -177,5 +177,29 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gyeonggi_Province",
         "keywords": "Airports in Gyeonggi-do"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94097",
+            "filename": "Suwon_TACAN_KR",
+            "ident": "SWN",
+            "name": "Suwon",
+            "type": "TACAN",
+            "frequency_khz": "108500",
+            "latitude_deg": "37.239898681640625",
+            "longitude_deg": "127.0009994506836",
+            "elevation_ft": "86",
+            "iso_country": "KR",
+            "dme_frequency_khz": "108500",
+            "dme_channel": "022X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.011",
+            "magnetic_variation_deg": "-7.425",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKSW"
+        }
+    ]
 }

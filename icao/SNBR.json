@@ -59,5 +59,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
         "keywords": "Airports in Bahia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86329",
+            "filename": "Barreiras_VOR_BR",
+            "ident": "BRR",
+            "name": "Barreiras",
+            "type": "VOR",
+            "frequency_khz": "114300",
+            "latitude_deg": "-12.079999923706055",
+            "longitude_deg": "-45.007198333740234",
+            "elevation_ft": "2444",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-20.007",
+            "magnetic_variation_deg": "-21.315",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SNBR"
+        },
+        {
+            "id": "86330",
+            "filename": "Barreiras_NDB_BR",
+            "ident": "BRR",
+            "name": "Barreiras",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "-12.079000473022461",
+            "longitude_deg": "-44.99829864501953",
+            "elevation_ft": "2444",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.317",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SNBR"
+        }
+    ]
 }

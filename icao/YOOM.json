@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92048",
+            "filename": "Moomba_NDB-DME_AU",
+            "ident": "OOM",
+            "name": "Moomba",
+            "type": "NDB-DME",
+            "frequency_khz": "227",
+            "latitude_deg": "-28.104400634765625",
+            "longitude_deg": "140.19900512695312",
+            "elevation_ft": "135",
+            "iso_country": "AU",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "-28.1042",
+            "dme_longitude_deg": "140.2",
+            "dme_elevation_ft": "135",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.314",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YOOM"
+        }
+    ]
 }

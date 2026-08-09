@@ -69,5 +69,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
         "keywords": "Airports in Pará"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91235",
+            "filename": "Maraba_VOR-DME_BR",
+            "ident": "MRB",
+            "name": "Maraba",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "-5.368169784545898",
+            "longitude_deg": "-49.13520050048828",
+            "elevation_ft": "357",
+            "iso_country": "BR",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-18.007",
+            "magnetic_variation_deg": "-19.479",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBMA"
+        },
+        {
+            "id": "91237",
+            "filename": "Maraba_NDB_BR",
+            "ident": "MRB",
+            "name": "Maraba",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "-5.37129020690918",
+            "longitude_deg": "-49.134700775146484",
+            "elevation_ft": "357",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.479",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBMA"
+        }
+    ]
 }

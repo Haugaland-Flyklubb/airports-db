@@ -115,5 +115,29 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Karlovy_Vary_Region",
         "keywords": "Carlsbad, Karlovarský kraj, Karlovy Vary"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90072",
+            "filename": "Karlovy_Vary_VOR-DME_CZ",
+            "ident": "KVY",
+            "name": "Karlovy Vary",
+            "type": "VOR-DME",
+            "frequency_khz": "111550",
+            "latitude_deg": "50.20119857788086",
+            "longitude_deg": "12.92590045928955",
+            "elevation_ft": "2167",
+            "iso_country": "CZ",
+            "dme_frequency_khz": "111550",
+            "dme_channel": "052Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.015",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LKKV"
+        }
+    ]
 }

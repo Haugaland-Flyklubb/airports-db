@@ -77,5 +77,29 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Valley_Governorate",
         "keywords": "Airports in New Valley Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90757",
+            "filename": "Dakhla_NDB_EG",
+            "ident": "MB",
+            "name": "Dakhla",
+            "type": "NDB",
+            "frequency_khz": "387",
+            "latitude_deg": "25.420700073242188",
+            "longitude_deg": "29.001399993896484",
+            "elevation_ft": "590",
+            "iso_country": "EG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.503",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HEDK"
+        }
+    ]
 }

@@ -139,5 +139,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
         "keywords": "Airports in Oregon"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93717",
+            "filename": "Turno_NDB_US",
+            "ident": "SL",
+            "name": "Turno",
+            "type": "NDB",
+            "frequency_khz": "266",
+            "latitude_deg": "44.8474006652832",
+            "longitude_deg": "-122.95099639892578",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.533",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KSLE"
+        }
+    ]
 }

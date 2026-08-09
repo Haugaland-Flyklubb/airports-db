@@ -99,5 +99,51 @@
         "iso_country": "ZZ",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88696",
+            "filename": "Hoedspruit_NDB_ZA",
+            "ident": "HA",
+            "name": "Hoedspruit",
+            "type": "NDB",
+            "frequency_khz": "265",
+            "latitude_deg": "-24.338499069213867",
+            "longitude_deg": "31.034500122070312",
+            "elevation_ft": "1594",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.124",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAHS"
+        },
+        {
+            "id": "89018",
+            "filename": "Hoedspruit_VORTAC_ZA",
+            "ident": "HSV",
+            "name": "Hoedspruit",
+            "type": "VORTAC",
+            "frequency_khz": "114000",
+            "latitude_deg": "-24.347200393676758",
+            "longitude_deg": "31.04759979248047",
+            "elevation_ft": "1664",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.134",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FAHS"
+        }
+    ]
 }

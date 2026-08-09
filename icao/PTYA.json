@@ -77,5 +77,29 @@
         "iso_country": "FM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yap_State",
         "keywords": "Airports in Yap State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95784",
+            "filename": "Yap_NDB-DME_FM",
+            "ident": "YP",
+            "name": "Yap",
+            "type": "NDB-DME",
+            "frequency_khz": "317",
+            "latitude_deg": "9.485600471496582",
+            "longitude_deg": "138.0800018310547",
+            "elevation_ft": "91",
+            "iso_country": "FM",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.09",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PTYA"
+        }
+    ]
 }

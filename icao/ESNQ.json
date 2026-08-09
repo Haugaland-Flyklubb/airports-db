@@ -69,5 +69,51 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Norrbottena_län",
         "keywords": "Norrbotten County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89957",
+            "filename": "Kiruna_VOR-DME_SE",
+            "ident": "KRA",
+            "name": "Kiruna",
+            "type": "VOR-DME",
+            "frequency_khz": "115200",
+            "latitude_deg": "67.81919860839844",
+            "longitude_deg": "20.337499618530273",
+            "elevation_ft": "1489",
+            "iso_country": "SE",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.01",
+            "magnetic_variation_deg": "6.425",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "ESNQ"
+        },
+        {
+            "id": "92054",
+            "filename": "Kiruna_NDB_SE",
+            "ident": "OP",
+            "name": "Kiruna",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "67.88749694824219",
+            "longitude_deg": "20.452699661254883",
+            "elevation_ft": "1507",
+            "iso_country": "SE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.472",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ESNQ"
+        }
+    ]
 }

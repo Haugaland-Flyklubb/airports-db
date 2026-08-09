@@ -69,5 +69,51 @@
         "iso_country": "MM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rakhine_State",
         "keywords": "Airports in Rakhine State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85466",
+            "filename": "Ann_NDB_MM",
+            "ident": "AN",
+            "name": "Ann",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "19.770299911499023",
+            "longitude_deg": "94.04019927978516",
+            "elevation_ft": "74",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.446",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYTD"
+        },
+        {
+            "id": "94265",
+            "filename": "Thandwe_NDB_MM",
+            "ident": "TD",
+            "name": "Thandwe",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "18.457799911499023",
+            "longitude_deg": "94.29840087890625",
+            "elevation_ft": "20",
+            "iso_country": "MM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.468",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VYTD"
+        }
+    ]
 }

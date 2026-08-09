@@ -85,5 +85,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
         "keywords": "Airports in Utah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87980",
+            "filename": "Fairfield_VORTAC_US",
+            "ident": "FFU",
+            "name": "Fairfield",
+            "type": "VORTAC",
+            "frequency_khz": "116600",
+            "latitude_deg": "40.274898529052734",
+            "longitude_deg": "-111.94100189208984",
+            "elevation_ft": "7690",
+            "iso_country": "US",
+            "dme_frequency_khz": "116600",
+            "dme_channel": "113X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "16.001",
+            "magnetic_variation_deg": "12.45",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "US-12314"
+        }
+    ]
 }

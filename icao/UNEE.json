@@ -107,5 +107,29 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kemerovo_Oblast",
         "keywords": "Airports in Kemerovo Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91482",
+            "filename": "Kemerovo_NDB_RU",
+            "ident": "NC",
+            "name": "Kemerovo",
+            "type": "NDB",
+            "frequency_khz": "489",
+            "latitude_deg": "55.29999923706055",
+            "longitude_deg": "86.18000030517578",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.312",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "UNEE"
+        }
+    ]
 }

@@ -123,5 +123,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
         "keywords": "Airports in Rio de Janeiro"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92628",
+            "filename": "Paiol_NDB_BR",
+            "ident": "PP",
+            "name": "Paiol",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "-22.87019920349121",
+            "longitude_deg": "-43.165199279785156",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.372",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "SBRJ"
+        }
+    ]
 }

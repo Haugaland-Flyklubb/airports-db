@@ -77,5 +77,29 @@
         "iso_country": "CU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Holgu%C3%ADn_Province",
         "keywords": "Airports in Holguín Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94904",
+            "filename": "Moa_NDB_CU",
+            "ident": "UMO",
+            "name": "Moa",
+            "type": "NDB",
+            "frequency_khz": "212",
+            "latitude_deg": "20.64889907836914",
+            "longitude_deg": "-74.93060302734375",
+            "elevation_ft": "",
+            "iso_country": "CU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.553",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MUMO"
+        }
+    ]
 }

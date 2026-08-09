@@ -107,5 +107,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85905",
+            "filename": "Bendigo_NDB_AU",
+            "ident": "BDG",
+            "name": "Bendigo",
+            "type": "NDB",
+            "frequency_khz": "245",
+            "latitude_deg": "-36.742801666259766",
+            "longitude_deg": "144.3260040283203",
+            "elevation_ft": "700",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.007",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YBDG"
+        }
+    ]
 }

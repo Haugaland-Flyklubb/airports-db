@@ -147,5 +147,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
         "keywords": "Airports in Iowa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87534",
+            "filename": "Forem_NDB_US",
+            "ident": "DS",
+            "name": "Forem",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "41.482200622558594",
+            "longitude_deg": "-93.58059692382812",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.571",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KDSM"
+        },
+        {
+            "id": "87538",
+            "filename": "Des_Moines_VORTAC_US",
+            "ident": "DSM",
+            "name": "Des Moines",
+            "type": "VORTAC",
+            "frequency_khz": "117500",
+            "latitude_deg": "41.4370002746582",
+            "longitude_deg": "-93.64869689941406",
+            "elevation_ft": "940",
+            "iso_country": "US",
+            "dme_frequency_khz": "117500",
+            "dme_channel": "122X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.001",
+            "magnetic_variation_deg": "2.006",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KDSM"
+        }
+    ]
 }

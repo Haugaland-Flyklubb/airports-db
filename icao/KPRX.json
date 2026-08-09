@@ -137,5 +137,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92703",
+            "filename": "Paris_VOR-DME_US",
+            "ident": "PRX",
+            "name": "Paris",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "33.54240036010742",
+            "longitude_deg": "-95.44830322265625",
+            "elevation_ft": "510",
+            "iso_country": "US",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.008",
+            "magnetic_variation_deg": "3.483",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KPRX"
+        }
+    ]
 }

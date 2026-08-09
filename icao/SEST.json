@@ -69,5 +69,51 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Galapagos_Province",
         "keywords": "Airports in Galapagos Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93465",
+            "filename": "San_Cristobal_NDB_EC",
+            "ident": "SCR",
+            "name": "San Cristobal",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "-0.9094439744949341",
+            "longitude_deg": "-89.61609649658203",
+            "elevation_ft": "62",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.44",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SEST"
+        },
+        {
+            "id": "93467",
+            "filename": "San_Cristobal_VOR-DME_EC",
+            "ident": "SCV",
+            "name": "San Cristobal",
+            "type": "VOR-DME",
+            "frequency_khz": "113100",
+            "latitude_deg": "-0.9061110019683838",
+            "longitude_deg": "-89.61920166015625",
+            "elevation_ft": "63",
+            "iso_country": "EC",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.441",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SEST"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sindh",
         "keywords": "Sind"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90989",
+            "filename": "Moenjodaro_NDB_PK",
+            "ident": "MJ",
+            "name": "Moenjodaro",
+            "type": "NDB",
+            "frequency_khz": "304",
+            "latitude_deg": "27.33099937438965",
+            "longitude_deg": "68.14099884033203",
+            "elevation_ft": "211",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.515",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OPMJ"
+        }
+    ]
 }

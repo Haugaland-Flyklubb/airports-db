@@ -69,5 +69,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Baja_California_Sur",
         "keywords": "Airports in Baja California Sur"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90570",
+            "filename": "Loreto_VOR-DME_MX",
+            "ident": "LTO",
+            "name": "Loreto",
+            "type": "VOR-DME",
+            "frequency_khz": "113200",
+            "latitude_deg": "25.98069953918457",
+            "longitude_deg": "-111.3499984741211",
+            "elevation_ft": "34",
+            "iso_country": "MX",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.007",
+            "magnetic_variation_deg": "10.076",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMLT"
+        }
+    ]
 }

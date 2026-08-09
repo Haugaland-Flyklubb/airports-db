@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85056",
+            "filename": "Zama_Lake_NDB_CA",
+            "ident": "1K",
+            "name": "Zama Lake",
+            "type": "NDB",
+            "frequency_khz": "227",
+            "latitude_deg": "59.02330017089844",
+            "longitude_deg": "-118.84300231933594",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.275",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CA-1043"
+        }
+    ]
 }

@@ -115,5 +115,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
         "keywords": "Airports in Kansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90197",
+            "filename": "Panck_NDB_US",
+            "ident": "LB",
+            "name": "Panck",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "36.964599609375",
+            "longitude_deg": "-100.95600128173828",
+            "elevation_ft": "2845",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.109",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KLBL"
+        },
+        {
+            "id": "90209",
+            "filename": "Liberal_VORTAC_US",
+            "ident": "LBL",
+            "name": "Liberal",
+            "type": "VORTAC",
+            "frequency_khz": "112300",
+            "latitude_deg": "37.04439926147461",
+            "longitude_deg": "-100.97100067138672",
+            "elevation_ft": "2890",
+            "iso_country": "US",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "7.083",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KLBL"
+        }
+    ]
 }

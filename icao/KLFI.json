@@ -133,5 +133,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": "Virginian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90296",
+            "filename": "Langley_TACAN_US",
+            "ident": "LFI",
+            "name": "Langley",
+            "type": "TACAN",
+            "frequency_khz": "112300",
+            "latitude_deg": "37.085601806640625",
+            "longitude_deg": "-76.3593978881836",
+            "elevation_ft": "11",
+            "iso_country": "US",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-10.004",
+            "magnetic_variation_deg": "-10.376",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KLFI"
+        }
+    ]
 }

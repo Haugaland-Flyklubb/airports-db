@@ -145,5 +145,51 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manawatu-Wanganui",
         "keywords": "Airports in Manawatu-Wanganui Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92529",
+            "filename": "Palmerston_North_VOR-DME_NZ",
+            "ident": "PM",
+            "name": "Palmerston North",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "-40.31850051879883",
+            "longitude_deg": "175.63800048828125",
+            "elevation_ft": "149",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "21.007",
+            "magnetic_variation_deg": "21.318",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NZPM"
+        },
+        {
+            "id": "92531",
+            "filename": "Palmerston_North_NDB_NZ",
+            "ident": "PM",
+            "name": "Palmerston North",
+            "type": "NDB",
+            "frequency_khz": "258",
+            "latitude_deg": "-40.32429885864258",
+            "longitude_deg": "175.62100219726562",
+            "elevation_ft": "",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.319",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NZPM"
+        }
+    ]
 }

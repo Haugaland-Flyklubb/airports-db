@@ -155,5 +155,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91152",
+            "filename": "Wowar_NDB_US",
+            "ident": "MO",
+            "name": "Wowar",
+            "type": "NDB",
+            "frequency_khz": "367",
+            "latitude_deg": "37.57310104370117",
+            "longitude_deg": "-120.8550033569336",
+            "elevation_ft": "115",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.27",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMOD"
+        },
+        {
+            "id": "91156",
+            "filename": "Modesto_VOR-DME_US",
+            "ident": "MOD",
+            "name": "Modesto",
+            "type": "VOR-DME",
+            "frequency_khz": "114600",
+            "latitude_deg": "37.62730026245117",
+            "longitude_deg": "-120.95800018310547",
+            "elevation_ft": "90",
+            "iso_country": "US",
+            "dme_frequency_khz": "114600",
+            "dme_channel": "093X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "14.289",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KMOD"
+        }
+    ]
 }

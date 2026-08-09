@@ -69,5 +69,29 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Attica_(region)",
         "keywords": "Airports in Attica"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90924",
+            "filename": "Megara_NDB_GR",
+            "ident": "MGR",
+            "name": "Megara",
+            "type": "NDB",
+            "frequency_khz": "405",
+            "latitude_deg": "37.9822998046875",
+            "longitude_deg": "23.3572998046875",
+            "elevation_ft": "",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.145",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LGMG"
+        }
+    ]
 }

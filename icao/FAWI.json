@@ -113,5 +113,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mpumalanga",
         "keywords": "Airports in Mpumalanga"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95422",
+            "filename": "Witbank_VOR_ZA",
+            "ident": "WIV",
+            "name": "Witbank",
+            "type": "VOR",
+            "frequency_khz": "113300",
+            "latitude_deg": "-25.829599380493164",
+            "longitude_deg": "29.194799423217773",
+            "elevation_ft": "5078",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-15.007",
+            "magnetic_variation_deg": "-17.408",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FAWI"
+        }
+    ]
 }

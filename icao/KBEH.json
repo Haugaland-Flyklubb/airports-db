@@ -145,5 +145,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
         "keywords": "Airports in Michigan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85931",
+            "filename": "Mally_NDB_US",
+            "ident": "BE",
+            "name": "Mally",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "42.126800537109375",
+            "longitude_deg": "-86.31330108642578",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.182",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBEH"
+        }
+    ]
 }

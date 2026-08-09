@@ -69,5 +69,51 @@
         "iso_country": "GA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Woleu-Ntem_Province",
         "keywords": "Airports in Woleu-Ntem Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91904",
+            "filename": "Oyem_VOR-DME_GA",
+            "ident": "OE",
+            "name": "Oyem",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "1.5356899499893188",
+            "longitude_deg": "11.575699806213379",
+            "elevation_ft": "2158",
+            "iso_country": "GA",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.406",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FOGO"
+        },
+        {
+            "id": "92191",
+            "filename": "Oyem_NDB_GA",
+            "ident": "OY",
+            "name": "Oyem",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "1.5375299453735352",
+            "longitude_deg": "11.576499938964844",
+            "elevation_ft": "2158",
+            "iso_country": "GA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.405",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FOGO"
+        }
+    ]
 }

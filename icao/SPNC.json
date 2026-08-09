@@ -69,5 +69,29 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Huánuco_Region",
         "keywords": "Airports in Huánuco Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91755",
+            "filename": "Huanuco_NDB_PE",
+            "ident": "NUC",
+            "name": "Huanuco",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "-9.878890037536621",
+            "longitude_deg": "-76.2074966430664",
+            "elevation_ft": "",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.079",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SPNC"
+        }
+    ]
 }

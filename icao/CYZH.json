@@ -85,5 +85,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95602",
+            "filename": "Slave_Lake_DME_CA",
+            "ident": "Y5",
+            "name": "Slave Lake",
+            "type": "DME",
+            "frequency_khz": "111000",
+            "latitude_deg": "55.29439926147461",
+            "longitude_deg": "-114.7760009765625",
+            "elevation_ft": "1935",
+            "iso_country": "CA",
+            "dme_frequency_khz": "111000",
+            "dme_channel": "047X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.025",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CYZH"
+        }
+    ]
 }

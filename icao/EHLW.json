@@ -115,5 +115,29 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Friesland",
         "keywords": "Airports in Friesland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90640",
+            "filename": "Leeuwarden_TACAN_NL",
+            "ident": "LWD",
+            "name": "Leeuwarden",
+            "type": "TACAN",
+            "frequency_khz": "114700",
+            "latitude_deg": "53.22359848022461",
+            "longitude_deg": "5.75193977355957",
+            "elevation_ft": "22",
+            "iso_country": "NL",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-0.212",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EHLW"
+        }
+    ]
 }

@@ -99,5 +99,51 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Salta_Province",
         "keywords": "Airports in Salta Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90108",
+            "filename": "Salta_NDB_AR",
+            "ident": "L",
+            "name": "Salta",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-24.86359977722168",
+            "longitude_deg": "-65.49739837646484",
+            "elevation_ft": "4062",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.112",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "SASA"
+        },
+        {
+            "id": "93368",
+            "filename": "Salta_VOR-DME_AR",
+            "ident": "SAL",
+            "name": "Salta",
+            "type": "VOR-DME",
+            "frequency_khz": "116700",
+            "latitude_deg": "-24.8523006439209",
+            "longitude_deg": "-65.48390197753906",
+            "elevation_ft": "4062",
+            "iso_country": "AR",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-5.122",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SASA"
+        }
+    ]
 }

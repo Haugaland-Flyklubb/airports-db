@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85086",
+            "filename": "Donnelly_NDB-DME_CA",
+            "ident": "3Y",
+            "name": "Donnelly",
+            "type": "NDB-DME",
+            "frequency_khz": "234",
+            "latitude_deg": "55.710601806640625",
+            "longitude_deg": "-117.0999984741211",
+            "elevation_ft": "1949",
+            "iso_country": "CA",
+            "dme_frequency_khz": "108200",
+            "dme_channel": "019X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "19.141",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CFM4"
+        }
+    ]
 }

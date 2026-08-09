@@ -85,5 +85,51 @@
         "iso_country": "MY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kelantan",
         "keywords": "Airports in Kelantan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88428",
+            "filename": "Gong_Kedak_NDB_MY",
+            "ident": "GK",
+            "name": "Gong Kedak",
+            "type": "NDB",
+            "frequency_khz": "520",
+            "latitude_deg": "5.798059940338135",
+            "longitude_deg": "102.48999786376953",
+            "elevation_ft": "",
+            "iso_country": "MY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.05",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WMGK"
+        },
+        {
+            "id": "95114",
+            "filename": "Gong_Kedak_VORTAC_MY",
+            "ident": "VGK",
+            "name": "Gong Kedak",
+            "type": "VORTAC",
+            "frequency_khz": "116600",
+            "latitude_deg": "5.7973198890686035",
+            "longitude_deg": "102.47899627685547",
+            "elevation_ft": "40",
+            "iso_country": "MY",
+            "dme_frequency_khz": "116600",
+            "dme_channel": "113X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.05",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "WMGK"
+        }
+    ]
 }

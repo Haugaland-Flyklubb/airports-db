@@ -113,5 +113,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87620",
+            "filename": "Tisdale_NDB_CA",
+            "ident": "E2",
+            "name": "Tisdale",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "52.798099517822266",
+            "longitude_deg": "-104.03900146484375",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.204",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CJY3"
+        }
+    ]
 }

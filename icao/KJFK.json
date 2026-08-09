@@ -223,5 +223,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87031",
+            "filename": "Canarsie_VOR-DME_US",
+            "ident": "CRI",
+            "name": "Canarsie",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "40.61249923706055",
+            "longitude_deg": "-73.89440155029297",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.001",
+            "magnetic_variation_deg": "-13.134",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KJFK"
+        },
+        {
+            "id": "89475",
+            "filename": "Kennedy_VOR-DME_US",
+            "ident": "JFK",
+            "name": "Kennedy",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "40.63290023803711",
+            "longitude_deg": "-73.77140045166016",
+            "elevation_ft": "11",
+            "iso_country": "US",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-12.001",
+            "magnetic_variation_deg": "-13.182",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KJFK"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mendoza_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "93915",
+            "filename": "San_Rafael_VOR_AR",
+            "ident": "SRA",
+            "name": "San Rafael",
+            "type": "VOR",
+            "frequency_khz": "116900",
+            "latitude_deg": "-34.58940124511719",
+            "longitude_deg": "-68.39469909667969",
+            "elevation_ft": "2444",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "2.04",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAMR"
+        }
+    ]
 }

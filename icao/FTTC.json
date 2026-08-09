@@ -69,5 +69,29 @@
         "iso_country": "TD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ouadda%C3%AF_Region",
         "keywords": "Airports in Ouaddai"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85278",
+            "filename": "Abeche_VOR_TD",
+            "ident": "AE",
+            "name": "Abeche",
+            "type": "VOR",
+            "frequency_khz": "114500",
+            "latitude_deg": "13.845100402832031",
+            "longitude_deg": "20.844999313354492",
+            "elevation_ft": "1804",
+            "iso_country": "TD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.03",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FTTC"
+        }
+    ]
 }

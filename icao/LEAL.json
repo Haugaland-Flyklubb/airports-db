@@ -93,5 +93,51 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Valencian_Community",
         "keywords": "Valencian airports, Valencian Community"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85424",
+            "filename": "Alicante_VOR-DME_ES",
+            "ident": "ALT",
+            "name": "Alicante",
+            "type": "VOR-DME",
+            "frequency_khz": "113800",
+            "latitude_deg": "38.2682991027832",
+            "longitude_deg": "-0.570114016532898",
+            "elevation_ft": "166",
+            "iso_country": "ES",
+            "dme_frequency_khz": "113800",
+            "dme_channel": "085X",
+            "dme_latitude_deg": "38.2683",
+            "dme_longitude_deg": "-0.570061",
+            "dme_elevation_ft": "166",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.138",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LEAL"
+        },
+        {
+            "id": "85659",
+            "filename": "Alicante_VOR-DME_ES",
+            "ident": "ATE",
+            "name": "Alicante",
+            "type": "VOR-DME",
+            "frequency_khz": "114650",
+            "latitude_deg": "38.28609848022461",
+            "longitude_deg": "-0.5866000056266785",
+            "elevation_ft": "192",
+            "iso_country": "ES",
+            "dme_frequency_khz": "114650",
+            "dme_channel": "093Y",
+            "dme_latitude_deg": "38.2861",
+            "dme_longitude_deg": "-0.586617",
+            "dme_elevation_ft": "192",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.141",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "LEAL"
+        }
+    ]
 }

@@ -77,5 +77,29 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bimini",
         "keywords": "Airports in Bimini"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95983",
+            "filename": "Bimini_VORTAC_BS",
+            "ident": "ZBV",
+            "name": "Bimini",
+            "type": "VORTAC",
+            "frequency_khz": "116700",
+            "latitude_deg": "25.70391",
+            "longitude_deg": "-79.29365",
+            "elevation_ft": "10",
+            "iso_country": "BS",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4",
+            "magnetic_variation_deg": "-6.1",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MYBS"
+        }
+    ]
 }

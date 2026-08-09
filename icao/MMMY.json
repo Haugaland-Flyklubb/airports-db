@@ -115,5 +115,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nuevo_Le%C3%B3n",
         "keywords": "Airports in Nuevo León"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91345",
+            "filename": "Monterrey_VOR-DME_MX",
+            "ident": "MTY",
+            "name": "Monterrey",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "25.772899627685547",
+            "longitude_deg": "-100.10399627685547",
+            "elevation_ft": "1278",
+            "iso_country": "MX",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.004",
+            "magnetic_variation_deg": "6.222",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMMY"
+        }
+    ]
 }

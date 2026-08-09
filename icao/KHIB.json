@@ -123,5 +123,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
         "keywords": "Airports in Minnesota"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88838",
+            "filename": "Hibbing_VOR-DME_US",
+            "ident": "HIB",
+            "name": "Hibbing",
+            "type": "VOR-DME",
+            "frequency_khz": "110800",
+            "latitude_deg": "47.30149841308594",
+            "longitude_deg": "-92.7041015625",
+            "elevation_ft": "1350",
+            "iso_country": "US",
+            "dme_frequency_khz": "110800",
+            "dme_channel": "045X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "0.215",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KHIB"
+        }
+    ]
 }

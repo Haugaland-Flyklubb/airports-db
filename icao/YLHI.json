@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90322",
+            "filename": "Lord_Howe_Island_NDB-DME_AU",
+            "ident": "LHI",
+            "name": "Lord Howe Island",
+            "type": "NDB-DME",
+            "frequency_khz": "272",
+            "latitude_deg": "-31.52120018005371",
+            "longitude_deg": "159.0659942626953",
+            "elevation_ft": "43",
+            "iso_country": "AU",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.005",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YLHI"
+        }
+    ]
 }

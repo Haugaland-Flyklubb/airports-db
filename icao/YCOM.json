@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86957",
+            "filename": "Cooma_NDB-DME_AU",
+            "ident": "COM",
+            "name": "Cooma",
+            "type": "NDB-DME",
+            "frequency_khz": "293",
+            "latitude_deg": "-36.35380172729492",
+            "longitude_deg": "148.95799255371094",
+            "elevation_ft": "3117",
+            "iso_country": "AU",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "-36.3543",
+            "dme_longitude_deg": "148.958",
+            "dme_elevation_ft": "3117",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.438",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YCOM"
+        }
+    ]
 }

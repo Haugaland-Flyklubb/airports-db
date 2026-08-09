@@ -115,5 +115,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
         "keywords": "Airports in Tennessee"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87462",
+            "filename": "Nally_Dunston_NDB_US",
+            "ident": "DNT",
+            "name": "Nally Dunston",
+            "type": "NDB",
+            "frequency_khz": "343",
+            "latitude_deg": "35.994998931884766",
+            "longitude_deg": "-89.40579986572266",
+            "elevation_ft": "370",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.4",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KDYR"
+        },
+        {
+            "id": "87607",
+            "filename": "Dyersburg_VORTAC_US",
+            "ident": "DYR",
+            "name": "Dyersburg",
+            "type": "VORTAC",
+            "frequency_khz": "116800",
+            "latitude_deg": "36.01860046386719",
+            "longitude_deg": "-89.31759643554688",
+            "elevation_ft": "380",
+            "iso_country": "US",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "-0.442",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KDYR"
+        }
+    ]
 }

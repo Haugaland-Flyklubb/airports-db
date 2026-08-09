@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Province_(Argentina)",
         "keywords": "Airports in Santa Cruz Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93659",
+            "filename": "San_Julian_VOR-DME_AR",
+            "ident": "SJU",
+            "name": "San Julian",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "-49.30979919433594",
+            "longitude_deg": "-67.81289672851562",
+            "elevation_ft": "190",
+            "iso_country": "AR",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.007",
+            "magnetic_variation_deg": "9.479",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAWJ"
+        }
+    ]
 }

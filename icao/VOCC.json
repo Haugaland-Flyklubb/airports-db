@@ -107,5 +107,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kerala",
         "keywords": "Airports in Kerala"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86634",
+            "filename": "Cochin_NDB_IN",
+            "ident": "CC",
+            "name": "Cochin",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "9.963850021362305",
+            "longitude_deg": "76.28199768066406",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.209",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VOCC"
+        },
+        {
+            "id": "86645",
+            "filename": "Cochin_VOR-DME_IN",
+            "ident": "CCN",
+            "name": "Cochin",
+            "type": "VOR-DME",
+            "frequency_khz": "114600",
+            "latitude_deg": "9.944680213928223",
+            "longitude_deg": "76.27290344238281",
+            "elevation_ft": "8",
+            "iso_country": "IN",
+            "dme_frequency_khz": "114600",
+            "dme_channel": "093X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.011",
+            "magnetic_variation_deg": "-2.211",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOCC"
+        }
+    ]
 }

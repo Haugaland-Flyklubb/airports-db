@@ -109,5 +109,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90789",
+            "filename": "Mc_Clellan_VOR-DME_US",
+            "ident": "MCC",
+            "name": "Mc Clellan",
+            "type": "VOR-DME",
+            "frequency_khz": "109200",
+            "latitude_deg": "38.66740036010742",
+            "longitude_deg": "-121.40399932861328",
+            "elevation_ft": "72",
+            "iso_country": "US",
+            "dme_frequency_khz": "109200",
+            "dme_channel": "029X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "14.499",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMCC"
+        }
+    ]
 }

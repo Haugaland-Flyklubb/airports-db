@@ -99,5 +99,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur",
         "keywords": "Airports in Nusa Tenggara Timur"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89935",
+            "filename": "Kupang_VOR-DME_ID",
+            "ident": "KPG",
+            "name": "Kupang",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "-10.173999786376953",
+            "longitude_deg": "123.6780014038086",
+            "elevation_ft": "335",
+            "iso_country": "ID",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "2.202",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WATT"
+        },
+        {
+            "id": "91963",
+            "filename": "Kupang_NDB_ID",
+            "ident": "OK",
+            "name": "Kupang",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "-10.166999816894531",
+            "longitude_deg": "123.67400360107422",
+            "elevation_ft": "335",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.201",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WATT"
+        }
+    ]
 }

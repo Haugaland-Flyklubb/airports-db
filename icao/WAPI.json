@@ -59,5 +59,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maluku",
         "keywords": "Airports in Maluku"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93757",
+            "filename": "Saumlaki_NDB_ID",
+            "ident": "SM",
+            "name": "Saumlaki",
+            "type": "NDB",
+            "frequency_khz": "244",
+            "latitude_deg": "-7.989999771118164",
+            "longitude_deg": "131.3070068359375",
+            "elevation_ft": "180",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.028",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAPI"
+        }
+    ]
 }

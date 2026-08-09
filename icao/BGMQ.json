@@ -59,5 +59,51 @@
         "iso_country": "GL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Qeqqata",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "90697",
+            "filename": "Maniitsoq_NDB_GL",
+            "ident": "MA",
+            "name": "Maniitsoq",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "65.40670013427734",
+            "longitude_deg": "-52.92100143432617",
+            "elevation_ft": "",
+            "iso_country": "GL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-33.139",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "BGMQ"
+        },
+        {
+            "id": "91275",
+            "filename": "Maniitsoq_DME_GL",
+            "ident": "MS",
+            "name": "Maniitsoq",
+            "type": "DME",
+            "frequency_khz": "110550",
+            "latitude_deg": "65.4115982055664",
+            "longitude_deg": "-52.93000030517578",
+            "elevation_ft": "172",
+            "iso_country": "GL",
+            "dme_frequency_khz": "110550",
+            "dme_channel": "042Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-33.143",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "BGMQ"
+        }
+    ]
 }

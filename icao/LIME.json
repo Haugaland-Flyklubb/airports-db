@@ -115,5 +115,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lombardy",
         "keywords": "LM"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92093",
+            "filename": "BERGAMO_VOR-DME_IT",
+            "ident": "BEG",
+            "name": "BERGAMO",
+            "type": "VOR-DME",
+            "frequency_khz": "11495",
+            "latitude_deg": "45.6694722",
+            "longitude_deg": "9.7091944",
+            "elevation_ft": "810",
+            "iso_country": "IT",
+            "dme_frequency_khz": "11495",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "45.6696",
+            "dme_longitude_deg": "9.70925",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LIME"
+        },
+        {
+            "id": "92095",
+            "filename": "Orio_Al_Serio_NDB_IT",
+            "ident": "ORI",
+            "name": "Orio Al Serio",
+            "type": "NDB",
+            "frequency_khz": "377",
+            "latitude_deg": "45.643798828125",
+            "longitude_deg": "9.841670036315918",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.135",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LIME"
+        }
+    ]
 }

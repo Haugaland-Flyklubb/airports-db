@@ -147,5 +147,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Ireland",
         "keywords": "Northern Irish airports, Aerfoirt Thuaisceart Éireann"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85937",
+            "filename": "Belfast_VOR-DME_GB",
+            "ident": "BEL",
+            "name": "Belfast",
+            "type": "VOR-DME",
+            "frequency_khz": "117200",
+            "latitude_deg": "54.66109848022461",
+            "longitude_deg": "-6.230000019073486",
+            "elevation_ft": "194",
+            "iso_country": "GB",
+            "dme_frequency_khz": "117200",
+            "dme_channel": "119X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.001",
+            "magnetic_variation_deg": "-5.236",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EGAA"
+        },
+        {
+            "id": "92194",
+            "filename": "Aldergrove_NDB_GB",
+            "ident": "OY",
+            "name": "Aldergrove",
+            "type": "NDB",
+            "frequency_khz": "332",
+            "latitude_deg": "54.69260025024414",
+            "longitude_deg": "-6.085360050201416",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.203",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGAA"
+        }
+    ]
 }

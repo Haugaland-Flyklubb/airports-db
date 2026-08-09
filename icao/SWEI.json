@@ -59,5 +59,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)",
         "keywords": "Airports in Amazonas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87815",
+            "filename": "Eirunepe_NDB_BR",
+            "ident": "ERP",
+            "name": "Eirunepe",
+            "type": "NDB",
+            "frequency_khz": "265",
+            "latitude_deg": "-6.660999774932861",
+            "longitude_deg": "-69.87249755859375",
+            "elevation_ft": "412",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.408",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SWEI"
+        }
+    ]
 }

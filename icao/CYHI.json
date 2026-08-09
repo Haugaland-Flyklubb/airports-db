@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwest_Territories",
         "keywords": "Airports in Northwest Territories"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88835",
+            "filename": "Holman_NDB_CA",
+            "ident": "HI",
+            "name": "Holman",
+            "type": "NDB",
+            "frequency_khz": "361",
+            "latitude_deg": "70.76219940185547",
+            "longitude_deg": "-117.79000091552734",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "28.291",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CYHI"
+        }
+    ]
 }

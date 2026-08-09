@@ -69,5 +69,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mizoram",
         "keywords": "Airports in Mizoram"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90402",
+            "filename": "Lengpui_VOR-DME_IN",
+            "ident": "LLP",
+            "name": "Lengpui",
+            "type": "VOR-DME",
+            "frequency_khz": "114200",
+            "latitude_deg": "23.829700469970703",
+            "longitude_deg": "92.62590026855469",
+            "elevation_ft": "1372",
+            "iso_country": "IN",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "-0.329",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VELP"
+        },
+        {
+            "id": "90489",
+            "filename": "Lengpui_NDB_IN",
+            "ident": "LP",
+            "name": "Lengpui",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "23.83489990234375",
+            "longitude_deg": "92.62259674072266",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.329",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VELP"
+        }
+    ]
 }

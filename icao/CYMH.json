@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95745",
+            "filename": "Mary'S_Harbour_NDB_CA",
+            "ident": "YMH",
+            "name": "Mary'S Harbour",
+            "type": "NDB",
+            "frequency_khz": "250",
+            "latitude_deg": "52.31529998779297",
+            "longitude_deg": "-55.832401275634766",
+            "elevation_ft": "38",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.59",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYMH"
+        }
+    ]
 }

@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86462",
+            "filename": "Buckland_NDB-DME_US",
+            "ident": "BVK",
+            "name": "Buckland",
+            "type": "NDB-DME",
+            "frequency_khz": "325",
+            "latitude_deg": "65.97979736328125",
+            "longitude_deg": "-161.1490020751953",
+            "elevation_ft": "26",
+            "iso_country": "US",
+            "dme_frequency_khz": "113100",
+            "dme_channel": "078X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.236",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "PABL"
+        }
+    ]
 }

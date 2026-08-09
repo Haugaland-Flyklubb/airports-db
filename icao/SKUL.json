@@ -77,5 +77,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Valle_del_Cauca_Department",
         "keywords": "Airports in Valle del Cauca Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94891",
+            "filename": "Tulua_VOR-DME_CO",
+            "ident": "ULQ",
+            "name": "Tulua",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "4.090000152587891",
+            "longitude_deg": "-76.22360229492188",
+            "elevation_ft": "3132",
+            "iso_country": "CO",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.004",
+            "magnetic_variation_deg": "-4.036",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKUL"
+        }
+    ]
 }

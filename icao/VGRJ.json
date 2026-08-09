@@ -69,5 +69,51 @@
         "iso_country": "BD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rajshahi_Division",
         "keywords": "Rajshahi bibhag"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92960",
+            "filename": "Rajshahi_VOR_BD",
+            "ident": "RAJ",
+            "name": "Rajshahi",
+            "type": "VOR",
+            "frequency_khz": "114600",
+            "latitude_deg": "24.440000534057617",
+            "longitude_deg": "88.61499786376953",
+            "elevation_ft": "64",
+            "iso_country": "BD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.231",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VGRJ"
+        },
+        {
+            "id": "93109",
+            "filename": "Rajshahi_NDB_BD",
+            "ident": "RJ",
+            "name": "Rajshahi",
+            "type": "NDB",
+            "frequency_khz": "228",
+            "latitude_deg": "24.4424991607666",
+            "longitude_deg": "88.61370086669922",
+            "elevation_ft": "64",
+            "iso_country": "BD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.231",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VGRJ"
+        }
+    ]
 }

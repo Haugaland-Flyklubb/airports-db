@@ -91,5 +91,29 @@
         "iso_country": "SE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kalmar_län",
         "keywords": "Kalmar County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89645",
+            "filename": "Kalmar_VOR-DME_SE",
+            "ident": "KAL",
+            "name": "Kalmar",
+            "type": "VOR-DME",
+            "frequency_khz": "111600",
+            "latitude_deg": "56.68539810180664",
+            "longitude_deg": "16.28420066833496",
+            "elevation_ft": "26",
+            "iso_country": "SE",
+            "dme_frequency_khz": "111600",
+            "dme_channel": "053X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "3.194",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "ESMQ"
+        }
+    ]
 }

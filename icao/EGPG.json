@@ -69,5 +69,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86627",
+            "filename": "Cumbernauld_NDB-DME_GB",
+            "ident": "CBN",
+            "name": "Cumbernauld",
+            "type": "NDB-DME",
+            "frequency_khz": "374",
+            "latitude_deg": "55.97560119628906",
+            "longitude_deg": "-3.974720001220703",
+            "elevation_ft": "370",
+            "iso_country": "GB",
+            "dme_frequency_khz": "117550",
+            "dme_channel": "122Y",
+            "dme_latitude_deg": "55.9756",
+            "dme_longitude_deg": "-3.99111",
+            "dme_elevation_ft": "370",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.427",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EGPG"
+        }
+    ]
 }

@@ -81,5 +81,29 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Naama_Province",
         "keywords": "Airports in Naama Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90793",
+            "filename": "Mechria_NDB_DZ",
+            "ident": "MCH",
+            "name": "Mechria",
+            "type": "NDB",
+            "frequency_khz": "413",
+            "latitude_deg": "33.549400329589844",
+            "longitude_deg": "-0.21930299699306488",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.035",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DAAY"
+        }
+    ]
 }

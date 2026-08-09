@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Province_(Argentina)",
         "keywords": "Airports in Santa Cruz Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85270",
+            "filename": "Puerto_Deseado_NDB_AR",
+            "ident": "ADO",
+            "name": "Puerto Deseado",
+            "type": "NDB",
+            "frequency_khz": "210",
+            "latitude_deg": "-47.733299255371094",
+            "longitude_deg": "-65.9094009399414",
+            "elevation_ft": "266",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.234",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SAWD"
+        }
+    ]
 }

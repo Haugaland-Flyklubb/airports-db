@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
         "keywords": "Airports in Nunavut"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95656",
+            "filename": "Arviat_NDB_CA",
+            "ident": "YEK",
+            "name": "Arviat",
+            "type": "NDB",
+            "frequency_khz": "329",
+            "latitude_deg": "61.09920120239258",
+            "longitude_deg": "-94.06890106201172",
+            "elevation_ft": "32",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.023",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYEK"
+        }
+    ]
 }

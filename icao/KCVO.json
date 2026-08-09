@@ -107,5 +107,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
         "keywords": "Airports in Oregon"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87150",
+            "filename": "Corvallis_VOR-DME_US",
+            "ident": "CVO",
+            "name": "Corvallis",
+            "type": "VOR-DME",
+            "frequency_khz": "115400",
+            "latitude_deg": "44.49959945678711",
+            "longitude_deg": "-123.29399871826172",
+            "elevation_ft": "250",
+            "iso_country": "US",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "18.001",
+            "magnetic_variation_deg": "16.502",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KCVO"
+        },
+        {
+            "id": "90641",
+            "filename": "Lewisburg_NDB_US",
+            "ident": "LWG",
+            "name": "Lewisburg",
+            "type": "NDB",
+            "frequency_khz": "225",
+            "latitude_deg": "44.61360168457031",
+            "longitude_deg": "-123.27100372314453",
+            "elevation_ft": "330",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.521",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KCVO"
+        }
+    ]
 }

@@ -181,5 +181,29 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bay_of_Plenty",
         "keywords": "Airports in Bay of Plenty Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94312",
+            "filename": "Tauranga_NDB-DME_NZ",
+            "ident": "TG",
+            "name": "Tauranga",
+            "type": "NDB-DME",
+            "frequency_khz": "346",
+            "latitude_deg": "-37.6776008605957",
+            "longitude_deg": "176.1909942626953",
+            "elevation_ft": "13",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "19.598",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NZTG"
+        }
+    ]
 }

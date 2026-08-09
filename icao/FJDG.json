@@ -117,5 +117,51 @@
         "iso_country": "IO",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91498",
+            "filename": "Diego_Garcia_NDB_IO",
+            "ident": "NDG",
+            "name": "Diego Garcia",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "-7.292669773101807",
+            "longitude_deg": "72.3843002319336",
+            "elevation_ft": "45",
+            "iso_country": "IO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.426",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FJDG"
+        },
+        {
+            "id": "91608",
+            "filename": "Diego_Garcia_TACAN_IO",
+            "ident": "NKW",
+            "name": "Diego Garcia",
+            "type": "TACAN",
+            "frequency_khz": "112000",
+            "latitude_deg": "-7.316830158233643",
+            "longitude_deg": "72.41200256347656",
+            "elevation_ft": "9",
+            "iso_country": "IO",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.007",
+            "magnetic_variation_deg": "-7.432",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FJDG"
+        }
+    ]
 }

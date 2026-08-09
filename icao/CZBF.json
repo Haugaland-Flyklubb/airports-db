@@ -77,5 +77,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Brunswick",
         "keywords": "Airports in New Brunswick"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85055",
+            "filename": "Manta_NDB_CA",
+            "ident": "1F",
+            "name": "Manta",
+            "type": "NDB",
+            "frequency_khz": "363",
+            "latitude_deg": "47.63059997558594",
+            "longitude_deg": "-65.74469757080078",
+            "elevation_ft": "193",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.367",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CZBF"
+        },
+        {
+            "id": "85063",
+            "filename": "Bathurst_DME_CA",
+            "ident": "2F",
+            "name": "Bathurst",
+            "type": "DME",
+            "frequency_khz": "114400",
+            "latitude_deg": "47.63140106201172",
+            "longitude_deg": "-65.74440002441406",
+            "elevation_ft": "191",
+            "iso_country": "CA",
+            "dme_frequency_khz": "114400",
+            "dme_channel": "091X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.367",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CZBF"
+        }
+    ]
 }

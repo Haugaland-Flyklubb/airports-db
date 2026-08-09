@@ -77,5 +77,51 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Timimoun_Province",
         "keywords": "ولاية تيميمون"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94372",
+            "filename": "Timimoun_VOR-DME_DZ",
+            "ident": "TIO",
+            "name": "Timimoun",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "29.22610092163086",
+            "longitude_deg": "0.25809401273727417",
+            "elevation_ft": "1032",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-1.061",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAUT"
+        },
+        {
+            "id": "94374",
+            "filename": "Timimoun_NDB_DZ",
+            "ident": "TIO",
+            "name": "Timimoun",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "29.240400314331055",
+            "longitude_deg": "0.25752800703048706",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.062",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DAUT"
+        }
+    ]
 }

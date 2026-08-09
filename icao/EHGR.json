@@ -131,5 +131,29 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Brabant",
         "keywords": "Airports in Noord-Brabant"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88685",
+            "filename": "Gilze_Rijen_TACAN_NL",
+            "ident": "GZR",
+            "name": "Gilze Rijen",
+            "type": "TACAN",
+            "frequency_khz": "116400",
+            "latitude_deg": "51.56610107421875",
+            "longitude_deg": "4.933609962463379",
+            "elevation_ft": "46",
+            "iso_country": "NL",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.292",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EHGR"
+        }
+    ]
 }

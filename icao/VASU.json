@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
         "keywords": "Airports in Gujarat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94024",
+            "filename": "Surat_NDB_IN",
+            "ident": "SU",
+            "name": "Surat",
+            "type": "NDB",
+            "frequency_khz": "201",
+            "latitude_deg": "21.115699768066406",
+            "longitude_deg": "72.7426986694336",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.302",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "VASU"
+        }
+    ]
 }

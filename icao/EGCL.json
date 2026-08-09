@@ -91,5 +91,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88081",
+            "filename": "Fenland_NDB_GB",
+            "ident": "FNL",
+            "name": "Fenland",
+            "type": "NDB",
+            "frequency_khz": "401",
+            "latitude_deg": "52.741600036621094",
+            "longitude_deg": "-0.027941999956965446",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.261",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGCL"
+        }
+    ]
 }

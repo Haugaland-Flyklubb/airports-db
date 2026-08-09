@@ -69,5 +69,29 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Crete#Administration",
         "keywords": "Κρήτη"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89847",
+            "filename": "Kasteli_TACAN_GR",
+            "ident": "KLI",
+            "name": "Kasteli",
+            "type": "TACAN",
+            "frequency_khz": "111900",
+            "latitude_deg": "35.19609832763672",
+            "longitude_deg": "25.329999923706055",
+            "elevation_ft": "1180",
+            "iso_country": "GR",
+            "dme_frequency_khz": "111900",
+            "dme_channel": "056X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.141",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LGTL"
+        }
+    ]
 }

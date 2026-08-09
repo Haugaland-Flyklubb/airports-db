@@ -107,5 +107,51 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bío-Bío_Region",
         "keywords": "Airports in Bío-Bío Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86577",
+            "filename": "Concepcion_VOR-DME_CL",
+            "ident": "CAR",
+            "name": "Concepcion",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "-36.75550079345703",
+            "longitude_deg": "-73.0531005859375",
+            "elevation_ft": "7",
+            "iso_country": "CL",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.007",
+            "magnetic_variation_deg": "7.166",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SCIE"
+        },
+        {
+            "id": "86676",
+            "filename": "Concepcion_NDB_CL",
+            "ident": "CE",
+            "name": "Concepcion",
+            "type": "NDB",
+            "frequency_khz": "254",
+            "latitude_deg": "-36.85749816894531",
+            "longitude_deg": "-73.11389923095703",
+            "elevation_ft": "",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.229",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SCIE"
+        }
+    ]
 }

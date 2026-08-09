@@ -149,5 +149,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86513",
+            "filename": "Brize_Norton_NDB_GB",
+            "ident": "BZ",
+            "name": "Brize Norton",
+            "type": "NDB",
+            "frequency_khz": "386",
+            "latitude_deg": "51.74919891357422",
+            "longitude_deg": "-1.6016199588775635",
+            "elevation_ft": "288",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.527",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGVN"
+        },
+        {
+            "id": "86524",
+            "filename": "Brize_Norton_TACAN_GB",
+            "ident": "BZN",
+            "name": "Brize Norton",
+            "type": "TACAN",
+            "frequency_khz": "111900",
+            "latitude_deg": "51.748199462890625",
+            "longitude_deg": "-1.6035300493240356",
+            "elevation_ft": "331",
+            "iso_country": "GB",
+            "dme_frequency_khz": "111900",
+            "dme_channel": "056X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.011",
+            "magnetic_variation_deg": "-2.527",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EGVN"
+        }
+    ]
 }

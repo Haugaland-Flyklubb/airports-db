@@ -93,5 +93,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
         "keywords": "Airports in Newfoundland and Labrador"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88016",
+            "filename": "Junction_NDB_CA",
+            "ident": "FK",
+            "name": "Junction",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "49.263099670410156",
+            "longitude_deg": "-57.308101654052734",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.269",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYDF"
+        },
+        {
+            "id": "95645",
+            "filename": "Deer_Lake_VOR-DME_CA",
+            "ident": "YDF",
+            "name": "Deer Lake",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "49.23249816894531",
+            "longitude_deg": "-57.21329879760742",
+            "elevation_ft": "470",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-21.001",
+            "magnetic_variation_deg": "-21.259",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYDF"
+        }
+    ]
 }

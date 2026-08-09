@@ -93,5 +93,51 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Antofagasta_Region",
         "keywords": "Airports in Antofagasta Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87925",
+            "filename": "Antofagasta_VOR-DME_CL",
+            "ident": "FAG",
+            "name": "Antofagasta",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "-23.466899871826172",
+            "longitude_deg": "-70.44779968261719",
+            "elevation_ft": "305",
+            "iso_country": "CL",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-1.2",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SCFA"
+        },
+        {
+            "id": "92937",
+            "filename": "Antofagasta_NDB_CL",
+            "ident": "R",
+            "name": "Antofagasta",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-23.470199584960938",
+            "longitude_deg": "-70.44850158691406",
+            "elevation_ft": "",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.199",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "SCFA"
+        }
+    ]
 }

@@ -93,5 +93,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Normandy",
         "keywords": "Haute-Normandie"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87873",
+            "filename": "Evreux_VORTAC_FR",
+            "ident": "EVX",
+            "name": "Evreux",
+            "type": "VORTAC",
+            "frequency_khz": "112400",
+            "latitude_deg": "49.031700134277344",
+            "longitude_deg": "1.2208600044250488",
+            "elevation_ft": "499",
+            "iso_country": "FR",
+            "dme_frequency_khz": "112400",
+            "dme_channel": "071X",
+            "dme_latitude_deg": "49.0285",
+            "dme_longitude_deg": "1.21403",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-1.285",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFOE"
+        }
+    ]
 }

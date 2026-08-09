@@ -133,5 +133,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91525",
+            "filename": "Camp_Pendleton_TACAN_US",
+            "ident": "NFG",
+            "name": "Camp Pendleton",
+            "type": "TACAN",
+            "frequency_khz": "111800",
+            "latitude_deg": "33.27439880371094",
+            "longitude_deg": "-117.38700103759766",
+            "elevation_ft": "560",
+            "iso_country": "US",
+            "dme_frequency_khz": "111800",
+            "dme_channel": "055X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "13.001",
+            "magnetic_variation_deg": "12.466",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KNFG"
+        },
+        {
+            "id": "91879",
+            "filename": "Oceanside_VORTAC_US",
+            "ident": "OCN",
+            "name": "Oceanside",
+            "type": "VORTAC",
+            "frequency_khz": "115300",
+            "latitude_deg": "33.2406005859375",
+            "longitude_deg": "-117.41799926757812",
+            "elevation_ft": "53",
+            "iso_country": "US",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.001",
+            "magnetic_variation_deg": "12.466",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KNFG"
+        }
+    ]
 }

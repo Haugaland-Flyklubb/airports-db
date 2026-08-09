@@ -139,5 +139,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tabuk_Region",
         "keywords": "Airports in Tabuk Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94227",
+            "filename": "Tabuk_VORTAC_SA",
+            "ident": "TBK",
+            "name": "Tabuk",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "28.367300033569336",
+            "longitude_deg": "36.606998443603516",
+            "elevation_ft": "2569",
+            "iso_country": "SA",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "3.224",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OETB"
+        }
+    ]
 }

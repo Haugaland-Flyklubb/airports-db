@@ -77,5 +77,29 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Apulia",
         "keywords": "PU"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88578",
+            "filename": "Grottaglie_NDB_IT",
+            "ident": "GRT",
+            "name": "Grottaglie",
+            "type": "NDB",
+            "frequency_khz": "331",
+            "latitude_deg": "40.44599914550781",
+            "longitude_deg": "17.422100067138672",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.364",
+            "usageType": "HI",
+            "power": "LOW",
+            "associated_airport": "LIBG"
+        }
+    ]
 }

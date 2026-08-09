@@ -77,5 +77,51 @@
         "iso_country": "RU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sakhalin_Oblast",
         "keywords": "Airports in Sakhalin Oblast"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92428",
+            "filename": "Khomutovo_NDB_RU",
+            "ident": "PI",
+            "name": "Khomutovo",
+            "type": "NDB",
+            "frequency_khz": "505",
+            "latitude_deg": "46.93669891357422",
+            "longitude_deg": "142.7169952392578",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.113",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UHSS"
+        },
+        {
+            "id": "93711",
+            "filename": "Khomutovo_NDB_RU",
+            "ident": "SL",
+            "name": "Khomutovo",
+            "type": "NDB",
+            "frequency_khz": "505",
+            "latitude_deg": "46.83330154418945",
+            "longitude_deg": "142.71299743652344",
+            "elevation_ft": "",
+            "iso_country": "RU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.094",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "UHSS"
+        }
+    ]
 }

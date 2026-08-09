@@ -35,5 +35,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bengkulu",
         "keywords": "Airports in Bengkulu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91145",
+            "filename": "Muko_Muko_NDB_ID",
+            "ident": "MO",
+            "name": "Muko Muko",
+            "type": "NDB",
+            "frequency_khz": "249",
+            "latitude_deg": "-2.550189971923828",
+            "longitude_deg": "101.10199737548828",
+            "elevation_ft": "16",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.115",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIGM"
+        }
+    ]
 }

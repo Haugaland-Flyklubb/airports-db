@@ -69,5 +69,51 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dr%C3%A2a-Tafilalet",
         "keywords": "درعة - تافيلالت"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92105",
+            "filename": "Ouarzazate_NDB_MA",
+            "ident": "ORZ",
+            "name": "Ouarzazate",
+            "type": "NDB",
+            "frequency_khz": "384",
+            "latitude_deg": "30.927200317382812",
+            "longitude_deg": "-6.882500171661377",
+            "elevation_ft": "",
+            "iso_country": "MA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.041",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMMZ"
+        },
+        {
+            "id": "92213",
+            "filename": "Ouarzazate_VOR-DME_MA",
+            "ident": "OZT",
+            "name": "Ouarzazate",
+            "type": "VOR-DME",
+            "frequency_khz": "116700",
+            "latitude_deg": "30.940000534057617",
+            "longitude_deg": "-6.904439926147461",
+            "elevation_ft": "3837",
+            "iso_country": "MA",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-3.046",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMMZ"
+        }
+    ]
 }

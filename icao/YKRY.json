@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89984",
+            "filename": "Kingaroy_NDB_AU",
+            "ident": "KRY",
+            "name": "Kingaroy",
+            "type": "NDB",
+            "frequency_khz": "209",
+            "latitude_deg": "-26.57859992980957",
+            "longitude_deg": "151.843994140625",
+            "elevation_ft": "1492",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.341",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YKRY"
+        }
+    ]
 }

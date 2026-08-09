@@ -85,5 +85,51 @@
         "iso_country": "ML",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Koulikoro_Region",
         "keywords": "Xoulikoro"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86107",
+            "filename": "Bamako_Senou_VOR-DME_ML",
+            "ident": "BKO",
+            "name": "Bamako/Senou",
+            "type": "VOR-DME",
+            "frequency_khz": "113700",
+            "latitude_deg": "12.546099662780762",
+            "longitude_deg": "-7.930469989776611",
+            "elevation_ft": "1279",
+            "iso_country": "ML",
+            "dme_frequency_khz": "113700",
+            "dme_channel": "084X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.272",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GABS"
+        },
+        {
+            "id": "86171",
+            "filename": "Bamako_Senou_NDB_ML",
+            "ident": "BM",
+            "name": "Bamako/Senou",
+            "type": "NDB",
+            "frequency_khz": "301",
+            "latitude_deg": "12.521499633789062",
+            "longitude_deg": "-7.968669891357422",
+            "elevation_ft": "",
+            "iso_country": "ML",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.283",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "GABS"
+        }
+    ]
 }

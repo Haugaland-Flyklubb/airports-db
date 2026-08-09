@@ -91,5 +91,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
         "keywords": "Airports in Rio Grande do Sul"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85986",
+            "filename": "Bage_VOR_BR",
+            "ident": "BGE",
+            "name": "Bage",
+            "type": "VOR",
+            "frequency_khz": "115300",
+            "latitude_deg": "-31.39069938659668",
+            "longitude_deg": "-54.109798431396484",
+            "elevation_ft": "600",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.007",
+            "magnetic_variation_deg": "-12.188",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBBG"
+        },
+        {
+            "id": "85987",
+            "filename": "Bage_NDB_BR",
+            "ident": "BGE",
+            "name": "Bage",
+            "type": "NDB",
+            "frequency_khz": "235",
+            "latitude_deg": "-31.385299682617188",
+            "longitude_deg": "-54.11320114135742",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.188",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBBG"
+        }
+    ]
 }

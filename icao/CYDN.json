@@ -129,5 +129,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87447",
+            "filename": "Dauphin_NDB_CA",
+            "ident": "DN",
+            "name": "Dauphin",
+            "type": "NDB",
+            "frequency_khz": "224",
+            "latitude_deg": "51.09809875488281",
+            "longitude_deg": "-100.06199645996094",
+            "elevation_ft": "999",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.489",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYDN"
+        },
+        {
+            "id": "95649",
+            "filename": "Dauphin_VOR-DME_CA",
+            "ident": "YDN",
+            "name": "Dauphin",
+            "type": "VOR-DME",
+            "frequency_khz": "116100",
+            "latitude_deg": "51.10499954223633",
+            "longitude_deg": "-100.052001953125",
+            "elevation_ft": "1022",
+            "iso_country": "CA",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.001",
+            "magnetic_variation_deg": "6.484",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYDN"
+        }
+    ]
 }

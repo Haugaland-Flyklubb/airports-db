@@ -69,5 +69,51 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vestland",
         "keywords": "Airports in Vestland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88046",
+            "filename": "Floro_VOR-DME_NO",
+            "ident": "FLO",
+            "name": "Floro",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "61.581600189208984",
+            "longitude_deg": "5.0201802253723145",
+            "elevation_ft": "66",
+            "iso_country": "NO",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-1.332",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "ENFL"
+        },
+        {
+            "id": "93041",
+            "filename": "Reksten_NDB_NO",
+            "ident": "REK",
+            "name": "Reksten",
+            "type": "NDB",
+            "frequency_khz": "379",
+            "latitude_deg": "61.56290054321289",
+            "longitude_deg": "4.849319934844971",
+            "elevation_ft": "10",
+            "iso_country": "NO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.381",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ENFL"
+        }
+    ]
 }

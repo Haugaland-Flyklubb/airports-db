@@ -99,5 +99,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony",
         "keywords": "Sachsen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93172",
+            "filename": "Rothenburg_NDB_DE",
+            "ident": "RO",
+            "name": "Rothenburg",
+            "type": "NDB",
+            "frequency_khz": "432",
+            "latitude_deg": "51.34360122680664",
+            "longitude_deg": "14.95199966430664",
+            "elevation_ft": "",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.36",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDBR"
+        }
+    ]
 }

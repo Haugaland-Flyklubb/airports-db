@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90324",
+            "filename": "Lockhart_River_NDB_AU",
+            "ident": "LHR",
+            "name": "Lockhart River",
+            "type": "NDB",
+            "frequency_khz": "392",
+            "latitude_deg": "-12.788299560546875",
+            "longitude_deg": "143.30299377441406",
+            "elevation_ft": "77",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.597",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YLHR"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sivas_Province",
         "keywords": "Airports in Sivas Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93637",
+            "filename": "Sivas_VOR-DME_TR",
+            "ident": "SIV",
+            "name": "Sivas",
+            "type": "VOR-DME",
+            "frequency_khz": "114200",
+            "latitude_deg": "39.789398193359375",
+            "longitude_deg": "36.8932991027832",
+            "elevation_ft": "5279",
+            "iso_country": "TR",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "4.512",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTAR"
+        },
+        {
+            "id": "93638",
+            "filename": "Sivas_NDB_TR",
+            "ident": "SIV",
+            "name": "Sivas",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "39.789398193359375",
+            "longitude_deg": "36.8932991027832",
+            "elevation_ft": "",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.514",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTAR"
+        }
+    ]
 }

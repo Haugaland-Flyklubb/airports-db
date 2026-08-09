@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
         "keywords": "Airports in Nevada"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91840",
+            "filename": "Coaldale_VORTAC_US",
+            "ident": "OAL",
+            "name": "Coaldale",
+            "type": "VORTAC",
+            "frequency_khz": "117700",
+            "latitude_deg": "38.003299713134766",
+            "longitude_deg": "-117.7699966430664",
+            "elevation_ft": "4800",
+            "iso_country": "US",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "13.567",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "US-11003"
+        }
+    ]
 }

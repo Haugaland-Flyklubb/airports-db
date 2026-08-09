@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92552",
+            "filename": "Port_Menier_NDB_CA",
+            "ident": "PN",
+            "name": "Port Menier",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "49.83760070800781",
+            "longitude_deg": "-64.38629913330078",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.036",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYPN"
+        }
+    ]
 }

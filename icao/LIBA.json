@@ -85,5 +85,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Apulia",
         "keywords": "PU"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85448",
+            "filename": "Amendola_NDB_IT",
+            "ident": "AME",
+            "name": "Amendola",
+            "type": "NDB",
+            "frequency_khz": "334",
+            "latitude_deg": "41.5",
+            "longitude_deg": "15.837800025939941",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.221",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LIBA"
+        },
+        {
+            "id": "91125",
+            "filename": "Amendola_TACAN_IT",
+            "ident": "MNL",
+            "name": "Amendola",
+            "type": "TACAN",
+            "frequency_khz": "115250",
+            "latitude_deg": "41.537899017333984",
+            "longitude_deg": "15.710000038146973",
+            "elevation_ft": "185",
+            "iso_country": "IT",
+            "dme_frequency_khz": "115250",
+            "dme_channel": "099Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.209",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LIBA"
+        }
+    ]
 }

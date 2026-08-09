@@ -85,5 +85,51 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arica_and_Parinacota_Region",
         "keywords": "Airports in Arica and Parinacota Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85586",
+            "filename": "Arica_VOR-DME_CL",
+            "ident": "ARI",
+            "name": "Arica",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "-18.369400024414062",
+            "longitude_deg": "-70.34639739990234",
+            "elevation_ft": "88",
+            "iso_country": "CL",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-3.172",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SCAR"
+        },
+        {
+            "id": "92936",
+            "filename": "Arica_NDB_CL",
+            "ident": "R",
+            "name": "Arica",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-18.371700286865234",
+            "longitude_deg": "-70.34719848632812",
+            "elevation_ft": "",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.171",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "SCAR"
+        }
+    ]
 }

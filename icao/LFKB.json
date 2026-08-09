@@ -109,5 +109,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Corsica",
         "keywords": "Corse"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86384",
+            "filename": "Bastia_VOR-DME_FR",
+            "ident": "BTA",
+            "name": "Bastia",
+            "type": "VOR-DME",
+            "frequency_khz": "114150",
+            "latitude_deg": "42.57360076904297",
+            "longitude_deg": "9.47482967376709",
+            "elevation_ft": "36",
+            "iso_country": "FR",
+            "dme_frequency_khz": "114150",
+            "dme_channel": "088Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.094",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFKB"
+        }
+    ]
 }

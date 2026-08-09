@@ -69,5 +69,29 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illizi_Province",
         "keywords": "Airports in Illizi Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89241",
+            "filename": "Illizi_VOR_DZ",
+            "ident": "ILZ",
+            "name": "Illizi",
+            "type": "VOR",
+            "frequency_khz": "115600",
+            "latitude_deg": "26.72330093383789",
+            "longitude_deg": "8.654439926147461",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.248",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAAP"
+        }
+    ]
 }

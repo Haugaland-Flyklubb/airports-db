@@ -77,5 +77,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87314",
+            "filename": "Commerce_NDB_US",
+            "ident": "DDA",
+            "name": "Commerce",
+            "type": "NDB",
+            "frequency_khz": "244",
+            "latitude_deg": "34.062198638916016",
+            "longitude_deg": "-83.5208969116211",
+            "elevation_ft": "880",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.479",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "K19A"
+        }
+    ]
 }

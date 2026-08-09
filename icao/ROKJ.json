@@ -69,5 +69,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Okinawa",
         "keywords": "Kyushu and Okinawa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90090",
+            "filename": "Kumejima_NDB_JP",
+            "ident": "KX",
+            "name": "Kumejima",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "26.36240005493164",
+            "longitude_deg": "126.71600341796875",
+            "elevation_ft": "",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.267",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ROKJ"
+        },
+        {
+            "id": "90091",
+            "filename": "Kumejima_VORTAC_JP",
+            "ident": "KXC",
+            "name": "Kumejima",
+            "type": "VORTAC",
+            "frequency_khz": "116700",
+            "latitude_deg": "26.37190055847168",
+            "longitude_deg": "126.72200012207031",
+            "elevation_ft": "42",
+            "iso_country": "JP",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "26.3717",
+            "dme_longitude_deg": "126.722",
+            "dme_elevation_ft": "54",
+            "slaved_variation_deg": "-4.011",
+            "magnetic_variation_deg": "-4.269",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ROKJ"
+        }
+    ]
 }

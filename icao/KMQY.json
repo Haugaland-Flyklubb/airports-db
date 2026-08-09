@@ -147,5 +147,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tennessee",
         "keywords": "Airports in Tennessee"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94105",
+            "filename": "Sewart_NDB_US",
+            "ident": "SWZ",
+            "name": "Sewart",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "35.95690155029297",
+            "longitude_deg": "-86.46389770507812",
+            "elevation_ft": "582",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.552",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMQY"
+        }
+    ]
 }

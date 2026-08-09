@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
         "keywords": "Airports in Ohio"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87312",
+            "filename": "Cobbs_NDB_US",
+            "ident": "DD",
+            "name": "Cobbs",
+            "type": "NDB",
+            "frequency_khz": "253",
+            "latitude_deg": "39.74290084838867",
+            "longitude_deg": "-83.02020263671875",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.269",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "US-10281"
+        }
+    ]
 }

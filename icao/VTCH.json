@@ -85,5 +85,51 @@
         "iso_country": "TH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mae_Hong_Son_province",
         "keywords": "Airports in Mae Hong Son Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90934",
+            "filename": "Mae_Hong_Son_NDB_TH",
+            "ident": "MH",
+            "name": "Mae Hong Son",
+            "type": "NDB",
+            "frequency_khz": "384",
+            "latitude_deg": "19.298799514770508",
+            "longitude_deg": "97.9751968383789",
+            "elevation_ft": "929",
+            "iso_country": "TH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.449",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VTCH"
+        },
+        {
+            "id": "90946",
+            "filename": "Mae_Hong_Son_VOR-DME_TH",
+            "ident": "MHS",
+            "name": "Mae Hong Son",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "19.319599151611328",
+            "longitude_deg": "97.91210174560547",
+            "elevation_ft": "929",
+            "iso_country": "TH",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.448",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VTCH"
+        }
+    ]
 }

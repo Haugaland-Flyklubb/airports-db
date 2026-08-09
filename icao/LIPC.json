@@ -85,5 +85,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Emilia-Romagna",
         "keywords": "ER"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86692",
+            "filename": "Cervia_TACAN_IT",
+            "ident": "CEV",
+            "name": "Cervia",
+            "type": "TACAN",
+            "frequency_khz": "113600",
+            "latitude_deg": "44.20650100708008",
+            "longitude_deg": "12.357199668884277",
+            "elevation_ft": "53",
+            "iso_country": "IT",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.474",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LIPC"
+        },
+        {
+            "id": "86693",
+            "filename": "Cervia_NDB_IT",
+            "ident": "CEV",
+            "name": "Cervia",
+            "type": "NDB",
+            "frequency_khz": "387",
+            "latitude_deg": "44.2677001953125",
+            "longitude_deg": "12.180100440979004",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.452",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LIPC"
+        }
+    ]
 }

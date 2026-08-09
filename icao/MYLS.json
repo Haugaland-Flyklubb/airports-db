@@ -69,5 +69,29 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Long_Island",
         "keywords": "Airports in Long Island"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96057",
+            "filename": "Stella_Maris_NDB_BS",
+            "ident": "ZLS",
+            "name": "Stella Maris",
+            "type": "NDB",
+            "frequency_khz": "526",
+            "latitude_deg": "23.58060073852539",
+            "longitude_deg": "-75.26390075683594",
+            "elevation_ft": "10",
+            "iso_country": "BS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.167",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MYLS"
+        }
+    ]
 }

@@ -101,5 +101,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86403",
+            "filename": "Wood_River_NDB_US",
+            "ident": "BTS",
+            "name": "Wood River",
+            "type": "NDB",
+            "frequency_khz": "429",
+            "latitude_deg": "58.999698638916016",
+            "longitude_deg": "-158.54800415039062",
+            "elevation_ft": "138",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.039",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "PADL"
+        },
+        {
+            "id": "87420",
+            "filename": "Dillingham_VOR-DME_US",
+            "ident": "DLG",
+            "name": "Dillingham",
+            "type": "VOR-DME",
+            "frequency_khz": "116400",
+            "latitude_deg": "58.99420166015625",
+            "longitude_deg": "-158.552001953125",
+            "elevation_ft": "119",
+            "iso_country": "US",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "20.001",
+            "magnetic_variation_deg": "16.013",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "PADL"
+        }
+    ]
 }

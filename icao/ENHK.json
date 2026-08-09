@@ -69,5 +69,29 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Finnmark",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "88858",
+            "filename": "Hasvik_NDB_NO",
+            "ident": "HK",
+            "name": "Hasvik",
+            "type": "NDB",
+            "frequency_khz": "386",
+            "latitude_deg": "70.48979949951172",
+            "longitude_deg": "22.13249969482422",
+            "elevation_ft": "",
+            "iso_country": "NO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.201",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "ENHK"
+        }
+    ]
 }

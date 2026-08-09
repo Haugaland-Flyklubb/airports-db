@@ -77,5 +77,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Barat",
         "keywords": "Airports in Nusa Tenggara Barat"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88238",
+            "filename": "Mataram_NDB_ID",
+            "ident": "GA",
+            "name": "Mataram",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "-8.563549995422363",
+            "longitude_deg": "116.0989990234375",
+            "elevation_ft": "51",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.417",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ID-0319"
+        },
+        {
+            "id": "91327",
+            "filename": "Mataram_VOR-DME_ID",
+            "ident": "MTM",
+            "name": "Mataram",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "-8.56050968170166",
+            "longitude_deg": "116.07499694824219",
+            "elevation_ft": "51",
+            "iso_country": "ID",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.011",
+            "magnetic_variation_deg": "1.416",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ID-0319"
+        }
+    ]
 }

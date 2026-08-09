@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
         "keywords": "Airports in Uttar Pradesh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89066",
+            "filename": "Pantnagar_NDB_IN",
+            "ident": "HW",
+            "name": "Pantnagar",
+            "type": "NDB",
+            "frequency_khz": "400",
+            "latitude_deg": "29.031099319458008",
+            "longitude_deg": "79.47370147705078",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.382",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VIPT"
+        }
+    ]
 }

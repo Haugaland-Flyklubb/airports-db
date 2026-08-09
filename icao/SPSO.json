@@ -85,5 +85,51 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ica_Region",
         "keywords": "Airports in Ica Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93458",
+            "filename": "Pisco_VOR-DME_PE",
+            "ident": "SCO",
+            "name": "Pisco",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "-13.738900184631348",
+            "longitude_deg": "-76.21309661865234",
+            "elevation_ft": "100",
+            "iso_country": "PE",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.04",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SPSO"
+        },
+        {
+            "id": "93460",
+            "filename": "Pisco_NDB_PE",
+            "ident": "SCO",
+            "name": "Pisco",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "-13.736700057983398",
+            "longitude_deg": "-76.21890258789062",
+            "elevation_ft": "39",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.038",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SPSO"
+        }
+    ]
 }

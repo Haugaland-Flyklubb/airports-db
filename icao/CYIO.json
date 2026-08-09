@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nunavut",
         "keywords": "Airports in Nunavut"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95700",
+            "filename": "Pond_Inlet_NDB_CA",
+            "ident": "YIO",
+            "name": "Pond Inlet",
+            "type": "NDB",
+            "frequency_khz": "214",
+            "latitude_deg": "72.69309997558594",
+            "longitude_deg": "-77.95079803466797",
+            "elevation_ft": "181",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-46.537",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYIO"
+        }
+    ]
 }

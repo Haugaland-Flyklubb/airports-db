@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85203",
+            "filename": "Albany_NDB-DME_AU",
+            "ident": "ABA",
+            "name": "Albany",
+            "type": "NDB-DME",
+            "frequency_khz": "240",
+            "latitude_deg": "-34.95220184326172",
+            "longitude_deg": "117.81099700927734",
+            "elevation_ft": "243",
+            "iso_country": "AU",
+            "dme_frequency_khz": "109700",
+            "dme_channel": "034X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.034",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YABA"
+        }
+    ]
 }

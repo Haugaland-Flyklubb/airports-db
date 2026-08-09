@@ -77,5 +77,51 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vaupés_Department",
         "keywords": "Airports in Vaupés Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91342",
+            "filename": "Mitu_VOR-DME_CO",
+            "ident": "MTU",
+            "name": "Mitu",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "1.2423399686813354",
+            "longitude_deg": "-70.23650360107422",
+            "elevation_ft": "680",
+            "iso_country": "CO",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.007",
+            "magnetic_variation_deg": "-7.461",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKMU"
+        },
+        {
+            "id": "91343",
+            "filename": "Mitu_NDB_CO",
+            "ident": "MTU",
+            "name": "Mitu",
+            "type": "NDB",
+            "frequency_khz": "413",
+            "latitude_deg": "1.2560100555419922",
+            "longitude_deg": "-70.2301025390625",
+            "elevation_ft": "680",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.465",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKMU"
+        }
+    ]
 }

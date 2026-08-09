@@ -161,5 +161,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
         "keywords": "Airports in Arkansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90333",
+            "filename": "Lasky_NDB_US",
+            "ident": "LI",
+            "name": "Lasky",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "34.66899871826172",
+            "longitude_deg": "-92.30549621582031",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.368",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KLIT"
+        }
+    ]
 }

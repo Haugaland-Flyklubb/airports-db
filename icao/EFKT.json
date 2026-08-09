@@ -77,5 +77,29 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lapland_(Finland)",
         "keywords": "Lapin lääni, Lapplands län, Lappland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89807",
+            "filename": "Kittila_NDB_FI",
+            "ident": "KIT",
+            "name": "Kittila",
+            "type": "NDB",
+            "frequency_khz": "328",
+            "latitude_deg": "67.62310028076172",
+            "longitude_deg": "24.897499084472656",
+            "elevation_ft": "",
+            "iso_country": "FI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.095",
+            "usageType": "RNAV",
+            "power": "LOW",
+            "associated_airport": "EFKT"
+        }
+    ]
 }

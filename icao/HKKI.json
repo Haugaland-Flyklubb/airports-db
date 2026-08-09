@@ -77,5 +77,51 @@
         "iso_country": "KE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kisumu_County",
         "keywords": "Airports in Kisumu County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89785",
+            "filename": "Kisumu_NDB_KE",
+            "ident": "KI",
+            "name": "Kisumu",
+            "type": "NDB",
+            "frequency_khz": "347",
+            "latitude_deg": "-0.08451700210571289",
+            "longitude_deg": "34.73590087890625",
+            "elevation_ft": "3724",
+            "iso_country": "KE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.325",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HKKI"
+        },
+        {
+            "id": "89810",
+            "filename": "Kisumu_VOR-DME_KE",
+            "ident": "KIV",
+            "name": "Kisumu",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "-0.0950860008597374",
+            "longitude_deg": "34.71189880371094",
+            "elevation_ft": "3680",
+            "iso_country": "KE",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.325",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HKKI"
+        }
+    ]
 }

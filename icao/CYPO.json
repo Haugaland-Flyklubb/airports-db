@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95792",
+            "filename": "Peawanuck_NDB_CA",
+            "ident": "YPO",
+            "name": "Peawanuck",
+            "type": "NDB",
+            "frequency_khz": "401",
+            "latitude_deg": "54.9911994934082",
+            "longitude_deg": "-85.44300079345703",
+            "elevation_ft": "171",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.211",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYPO"
+        }
+    ]
 }

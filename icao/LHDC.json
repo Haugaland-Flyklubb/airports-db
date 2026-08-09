@@ -99,5 +99,51 @@
         "iso_country": "HU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hajdu-Bihar_County",
         "keywords": "Airports in Hajdu-Bihar County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86534",
+            "filename": "Debrecen_NDB_HU",
+            "ident": "C",
+            "name": "Debrecen",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "47.47529983520508",
+            "longitude_deg": "21.59309959411621",
+            "elevation_ft": "",
+            "iso_country": "HU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.532",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LHDC"
+        },
+        {
+            "id": "87300",
+            "filename": "Debrecen_NDB_HU",
+            "ident": "DC",
+            "name": "Debrecen",
+            "type": "NDB",
+            "frequency_khz": "295",
+            "latitude_deg": "47.45669937133789",
+            "longitude_deg": "21.562999725341797",
+            "elevation_ft": "361",
+            "iso_country": "HU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.527",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LHDC"
+        }
+    ]
 }

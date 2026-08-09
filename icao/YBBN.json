@@ -153,5 +153,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86189",
+            "filename": "Brisbane_VOR-DME_AU",
+            "ident": "BN",
+            "name": "Brisbane",
+            "type": "VOR-DME",
+            "frequency_khz": "113200",
+            "latitude_deg": "-27.365800857543945",
+            "longitude_deg": "153.13900756835938",
+            "elevation_ft": "28",
+            "iso_country": "AU",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.007",
+            "magnetic_variation_deg": "11.073",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YBBN"
+        }
+    ]
 }

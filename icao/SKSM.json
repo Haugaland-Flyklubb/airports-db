@@ -77,5 +77,51 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Magdalena_Department",
         "keywords": "Airports in Magdalena Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93791",
+            "filename": "Santa_Marta_NDB_CO",
+            "ident": "SMR",
+            "name": "Santa Marta",
+            "type": "NDB",
+            "frequency_khz": "287",
+            "latitude_deg": "11.007800102233887",
+            "longitude_deg": "-74.26139831542969",
+            "elevation_ft": "",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.364",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKSM"
+        },
+        {
+            "id": "93970",
+            "filename": "Santa_Marta_VOR-DME_CO",
+            "ident": "STA",
+            "name": "Santa Marta",
+            "type": "VOR-DME",
+            "frequency_khz": "116600",
+            "latitude_deg": "10.964500427246094",
+            "longitude_deg": "-74.2384033203125",
+            "elevation_ft": "34",
+            "iso_country": "CO",
+            "dme_frequency_khz": "116600",
+            "dme_channel": "113X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.369",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKSM"
+        }
+    ]
 }

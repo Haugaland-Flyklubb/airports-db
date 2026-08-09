@@ -163,5 +163,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
         "keywords": "Airports in Idaho"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90335",
+            "filename": "Liberator_VOR_US",
+            "ident": "LIA",
+            "name": "Liberator",
+            "type": "VOR",
+            "frequency_khz": "114900",
+            "latitude_deg": "42.98270034790039",
+            "longitude_deg": "-115.77400207519531",
+            "elevation_ft": "2990",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "18.001",
+            "magnetic_variation_deg": "14.386",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KMUO"
+        },
+        {
+            "id": "91356",
+            "filename": "Mountain_Home_TACAN_US",
+            "ident": "MUO",
+            "name": "Mountain Home",
+            "type": "TACAN",
+            "frequency_khz": "114000",
+            "latitude_deg": "43.04050064086914",
+            "longitude_deg": "-115.875",
+            "elevation_ft": "3000",
+            "iso_country": "US",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "18.001",
+            "magnetic_variation_deg": "14.413",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KMUO"
+        }
+    ]
 }

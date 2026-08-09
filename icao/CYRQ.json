@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95827",
+            "filename": "Trois Rivières_NDB_CA",
+            "ident": "YRQ",
+            "name": "Trois Rivières",
+            "type": "NDB",
+            "frequency_khz": "205",
+            "latitude_deg": "46.36920166015625",
+            "longitude_deg": "-72.66510009765625",
+            "elevation_ft": "198",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.076",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYRQ"
+        }
+    ]
 }

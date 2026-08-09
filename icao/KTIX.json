@@ -139,5 +139,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88377",
+            "filename": "Geiger_Lake_NDB_US",
+            "ident": "GGL",
+            "name": "Geiger Lake",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "28.59309959411621",
+            "longitude_deg": "-80.81639862060547",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.393",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KTIX"
+        }
+    ]
 }

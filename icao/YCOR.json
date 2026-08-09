@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86966",
+            "filename": "Corowa_NDB_AU",
+            "ident": "COR",
+            "name": "Corowa",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "-35.98749923706055",
+            "longitude_deg": "146.35699462890625",
+            "elevation_ft": "464",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.36",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YCOR"
+        }
+    ]
 }

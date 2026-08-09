@@ -85,5 +85,51 @@
         "iso_country": "GR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Aegean",
         "keywords": "Περιφέρεια Νοτίου Αιγαίου"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91024",
+            "filename": "Mikonos_VOR-DME_GR",
+            "ident": "MKN",
+            "name": "Mikonos",
+            "type": "VOR-DME",
+            "frequency_khz": "110000",
+            "latitude_deg": "37.44029998779297",
+            "longitude_deg": "25.344499588012695",
+            "elevation_ft": "405",
+            "iso_country": "GR",
+            "dme_frequency_khz": "110000",
+            "dme_channel": "037X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.261",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "LGMK"
+        },
+        {
+            "id": "91025",
+            "filename": "Mikonos_NDB_GR",
+            "ident": "MKO",
+            "name": "Mikonos",
+            "type": "NDB",
+            "frequency_khz": "401",
+            "latitude_deg": "37.4369010925293",
+            "longitude_deg": "25.346399307250977",
+            "elevation_ft": "405",
+            "iso_country": "GR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.261",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LGMK"
+        }
+    ]
 }

@@ -181,5 +181,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Mexico",
         "keywords": "Airports in New Mexico"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94260",
+            "filename": "Truth_Or_Consequences_VORTAC_US",
+            "ident": "TCS",
+            "name": "Truth Or Consequences",
+            "type": "VORTAC",
+            "frequency_khz": "112700",
+            "latitude_deg": "33.282501220703125",
+            "longitude_deg": "-107.28099822998047",
+            "elevation_ft": "4905",
+            "iso_country": "US",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "13.001",
+            "magnetic_variation_deg": "9.531",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KTCS"
+        }
+    ]
 }

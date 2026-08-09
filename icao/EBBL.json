@@ -107,5 +107,51 @@
         "iso_country": "BE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Limburg_(Belgium)",
         "keywords": "Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85845",
+            "filename": "Kleine_Brogel_TACAN_BE",
+            "ident": "BBL",
+            "name": "Kleine Brogel",
+            "type": "TACAN",
+            "frequency_khz": "109600",
+            "latitude_deg": "51.1702995300293",
+            "longitude_deg": "5.466390132904053",
+            "elevation_ft": "180",
+            "iso_country": "BE",
+            "dme_frequency_khz": "109600",
+            "dme_channel": "033X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.164",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "EBBL"
+        },
+        {
+            "id": "92040",
+            "filename": "Kleine_Brogel_NDB_BE",
+            "ident": "ONT",
+            "name": "Kleine Brogel",
+            "type": "NDB",
+            "frequency_khz": "431",
+            "latitude_deg": "51.21329879760742",
+            "longitude_deg": "5.557499885559082",
+            "elevation_ft": "",
+            "iso_country": "BE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.148",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EBBL"
+        }
+    ]
 }

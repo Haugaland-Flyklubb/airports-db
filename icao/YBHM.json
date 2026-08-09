@@ -93,5 +93,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88899",
+            "filename": "Hamilton_Island_VOR-DME_AU",
+            "ident": "HM",
+            "name": "Hamilton Island",
+            "type": "VOR-DME",
+            "frequency_khz": "114400",
+            "latitude_deg": "-20.35110092163086",
+            "longitude_deg": "148.95599365234375",
+            "elevation_ft": "15",
+            "iso_country": "AU",
+            "dme_frequency_khz": "114400",
+            "dme_channel": "091X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "8.007",
+            "magnetic_variation_deg": "8.282",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YBHM"
+        },
+        {
+            "id": "88900",
+            "filename": "Hamilton_Island_NDB_AU",
+            "ident": "HM",
+            "name": "Hamilton Island",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "-20.35689926147461",
+            "longitude_deg": "148.94900512695312",
+            "elevation_ft": "15",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.281",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YBHM"
+        }
+    ]
 }

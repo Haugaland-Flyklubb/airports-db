@@ -69,5 +69,29 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Province_(Papua_New_Guinea)",
         "keywords": "Airports in Western Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87278",
+            "filename": "Daru_NDB-DME_PG",
+            "ident": "DAU",
+            "name": "Daru",
+            "type": "NDB-DME",
+            "frequency_khz": "290",
+            "latitude_deg": "-9.075019836425781",
+            "longitude_deg": "143.21299743652344",
+            "elevation_ft": "170",
+            "iso_country": "PG",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "-9.07383",
+            "dme_longitude_deg": "143.212",
+            "dme_elevation_ft": "170",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.282",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "AYDU"
+        }
+    ]
 }

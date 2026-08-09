@@ -59,5 +59,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maluku",
         "keywords": "Airports in Maluku"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87473",
+            "filename": "Dobo_NDB_ID",
+            "ident": "DO",
+            "name": "Dobo",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "-5.766550064086914",
+            "longitude_deg": "134.197998046875",
+            "elevation_ft": "20",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.144",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAPD"
+        }
+    ]
 }

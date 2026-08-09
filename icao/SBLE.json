@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
         "keywords": "Airports in Bahia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90277",
+            "filename": "Lencois_NDB_BR",
+            "ident": "LEN",
+            "name": "Lencois",
+            "type": "NDB",
+            "frequency_khz": "235",
+            "latitude_deg": "-12.485699653625488",
+            "longitude_deg": "-41.27560043334961",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-22.344",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "SBLE"
+        }
+    ]
 }

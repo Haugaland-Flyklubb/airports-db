@@ -101,5 +101,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hiroshima",
         "keywords": "Chugoku"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88814",
+            "filename": "Hongo_VOR-DME_JP",
+            "ident": "HGE",
+            "name": "Hongo",
+            "type": "VOR-DME",
+            "frequency_khz": "117900",
+            "latitude_deg": "34.433799743652344",
+            "longitude_deg": "132.9239959716797",
+            "elevation_ft": "1123",
+            "iso_country": "JP",
+            "dme_frequency_khz": "117900",
+            "dme_channel": "126X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.033",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RJOA"
+        }
+    ]
 }

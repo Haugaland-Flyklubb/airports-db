@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
         "keywords": "Airports in Arkansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88997",
+            "filename": "Harrison_VOR-DME_US",
+            "ident": "HRO",
+            "name": "Harrison",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "36.31829833984375",
+            "longitude_deg": "-93.21330261230469",
+            "elevation_ft": "1400",
+            "iso_country": "US",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.001",
+            "magnetic_variation_deg": "2.076",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KHRO"
+        }
+    ]
 }

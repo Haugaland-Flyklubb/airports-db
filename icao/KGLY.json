@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
         "keywords": "Airports in Missouri"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88462",
+            "filename": "Golden_Valley_NDB_US",
+            "ident": "GLY",
+            "name": "Golden Valley",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "38.358699798583984",
+            "longitude_deg": "-93.68470001220703",
+            "elevation_ft": "800",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.188",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KGLY"
+        }
+    ]
 }

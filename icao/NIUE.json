@@ -77,5 +77,29 @@
         "iso_country": "NU",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91753",
+            "filename": "Niue_NDB-DME_NU",
+            "ident": "NU",
+            "name": "Niue",
+            "type": "NDB-DME",
+            "frequency_khz": "345",
+            "latitude_deg": "-19.07360076904297",
+            "longitude_deg": "-169.91700744628906",
+            "elevation_ft": "311",
+            "iso_country": "NU",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "-19.0928",
+            "dme_longitude_deg": "-169.904",
+            "dme_elevation_ft": "311",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.494",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NIUE"
+        }
+    ]
 }

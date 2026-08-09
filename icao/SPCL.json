@@ -77,5 +77,29 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ucayali_Region",
         "keywords": "Airports in Ucayali Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92799",
+            "filename": "Pucallpa_VOR-DME_PE",
+            "ident": "PUL",
+            "name": "Pucallpa",
+            "type": "VOR-DME",
+            "frequency_khz": "116700",
+            "latitude_deg": "-8.375829696655273",
+            "longitude_deg": "-74.57219696044922",
+            "elevation_ft": "537",
+            "iso_country": "PE",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-2.428",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPCL"
+        }
+    ]
 }

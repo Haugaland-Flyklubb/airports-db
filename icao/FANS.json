@@ -59,5 +59,51 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mpumalanga",
         "keywords": "Airports in Mpumalanga"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91707",
+            "filename": "Nelspruit_NDB_ZA",
+            "ident": "NS",
+            "name": "Nelspruit",
+            "type": "NDB",
+            "frequency_khz": "480",
+            "latitude_deg": "-25.490699768066406",
+            "longitude_deg": "30.919099807739258",
+            "elevation_ft": "2848",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.461",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FANS"
+        },
+        {
+            "id": "91728",
+            "filename": "Nelspruit_VOR-DME_ZA",
+            "ident": "NSV",
+            "name": "Nelspruit",
+            "type": "VOR-DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "-25.498199462890625",
+            "longitude_deg": "30.915700912475586",
+            "elevation_ft": "2846",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-17.466",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FANS"
+        }
+    ]
 }

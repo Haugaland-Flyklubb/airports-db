@@ -171,5 +171,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93346",
+            "filename": "Mavis_NDB_US",
+            "ident": "SA",
+            "name": "Mavis",
+            "type": "NDB",
+            "frequency_khz": "368",
+            "latitude_deg": "32.12990188598633",
+            "longitude_deg": "-81.33149719238281",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.014",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KSAV"
+        },
+        {
+            "id": "93396",
+            "filename": "Savannah_VORTAC_US",
+            "ident": "SAV",
+            "name": "Savannah",
+            "type": "VORTAC",
+            "frequency_khz": "115950",
+            "latitude_deg": "32.14630126953125",
+            "longitude_deg": "-81.1990966796875",
+            "elevation_ft": "9",
+            "iso_country": "US",
+            "dme_frequency_khz": "115950",
+            "dme_channel": "106Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.001",
+            "magnetic_variation_deg": "-6.06",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KSAV"
+        }
+    ]
 }

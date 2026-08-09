@@ -77,5 +77,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nouvelle-Aquitaine",
         "keywords": "Limousin, Poitou-Charentes"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90838",
+            "filename": "Mont_De_Marsan_TACAN_FR",
+            "ident": "MDM",
+            "name": "Mont De Marsan",
+            "type": "TACAN",
+            "frequency_khz": "108700",
+            "latitude_deg": "43.9099006652832",
+            "longitude_deg": "-0.5043889880180359",
+            "elevation_ft": "256",
+            "iso_country": "FR",
+            "dme_frequency_khz": "108700",
+            "dme_channel": "024X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.314",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFBM"
+        }
+    ]
 }

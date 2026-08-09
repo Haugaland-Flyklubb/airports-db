@@ -109,5 +109,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bali",
         "keywords": "Airports in Bali"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86153",
+            "filename": "Bali_VOR-DME_ID",
+            "ident": "BLI",
+            "name": "Bali",
+            "type": "VOR-DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "-8.750570297241211",
+            "longitude_deg": "115.16300201416016",
+            "elevation_ft": "14",
+            "iso_country": "ID",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.382",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WADD"
+        },
+        {
+            "id": "92069",
+            "filename": "Bali_NDB_ID",
+            "ident": "OR",
+            "name": "Bali",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-8.744279861450195",
+            "longitude_deg": "115.17400360107422",
+            "elevation_ft": "14",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.383",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WADD"
+        }
+    ]
 }

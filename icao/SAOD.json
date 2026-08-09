@@ -91,5 +91,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province_(Argentina)",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "90251",
+            "filename": "Villa_Dolores_NDB_AR",
+            "ident": "LDR",
+            "name": "Villa Dolores",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "-31.952800750732422",
+            "longitude_deg": "-65.14250183105469",
+            "elevation_ft": "1915",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.18",
+            "usageType": "HI",
+            "power": "HIGH",
+            "associated_airport": "SAOD"
+        }
+    ]
 }

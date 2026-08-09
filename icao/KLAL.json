@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90138",
+            "filename": "Wirey_NDB_US",
+            "ident": "LA",
+            "name": "Wirey",
+            "type": "NDB",
+            "frequency_khz": "227",
+            "latitude_deg": "27.935400009155273",
+            "longitude_deg": "-82.07579803466797",
+            "elevation_ft": "100",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.399",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KLAL"
+        },
+        {
+            "id": "90154",
+            "filename": "Lakeland_VORTAC_US",
+            "ident": "LAL",
+            "name": "Lakeland",
+            "type": "VORTAC",
+            "frequency_khz": "116000",
+            "latitude_deg": "27.9862003326416",
+            "longitude_deg": "-82.01390075683594",
+            "elevation_ft": "135",
+            "iso_country": "US",
+            "dme_frequency_khz": "116000",
+            "dme_channel": "107X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.001",
+            "magnetic_variation_deg": "-4.43",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KLAL"
+        }
+    ]
 }

@@ -185,5 +185,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
         "keywords": "Airports in Oregon"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86629",
+            "filename": "Columbia_TACAN_US",
+            "ident": "CBU",
+            "name": "Columbia",
+            "type": "TACAN",
+            "frequency_khz": "109200",
+            "latitude_deg": "45.588600158691406",
+            "longitude_deg": "-122.61100006103516",
+            "elevation_ft": "22",
+            "iso_country": "US",
+            "dme_frequency_khz": "109200",
+            "dme_channel": "029X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "20.001",
+            "magnetic_variation_deg": "17.038",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KPDX"
+        },
+        {
+            "id": "92349",
+            "filename": "Portland_VOR-DME_US",
+            "ident": "PDX",
+            "name": "Portland",
+            "type": "VOR-DME",
+            "frequency_khz": "111800",
+            "latitude_deg": "45.59370040893555",
+            "longitude_deg": "-122.60600280761719",
+            "elevation_ft": "23",
+            "iso_country": "US",
+            "dme_frequency_khz": "111800",
+            "dme_channel": "055X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "20.001",
+            "magnetic_variation_deg": "17.039",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KPDX"
+        }
+    ]
 }

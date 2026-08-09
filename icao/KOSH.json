@@ -183,5 +183,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
         "keywords": "Airports in Wisconsin"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92111",
+            "filename": "Pober_NDB_US",
+            "ident": "OS",
+            "name": "Pober",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "43.8739013671875",
+            "longitude_deg": "-88.55760192871094",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.446",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KOSH"
+        },
+        {
+            "id": "92116",
+            "filename": "Oshkosh_VORTAC_US",
+            "ident": "OSH",
+            "name": "Oshkosh",
+            "type": "VORTAC",
+            "frequency_khz": "111800",
+            "latitude_deg": "43.99039840698242",
+            "longitude_deg": "-88.55590057373047",
+            "elevation_ft": "780",
+            "iso_country": "US",
+            "dme_frequency_khz": "111800",
+            "dme_channel": "055X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "-2.463",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KOSH"
+        }
+    ]
 }

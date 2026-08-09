@@ -59,5 +59,29 @@
         "iso_country": "SN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tambacounda_Region",
         "keywords": "Airports in Tambacounda Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93687",
+            "filename": "Kedougou_NDB_SN",
+            "ident": "SKG",
+            "name": "Kedougou",
+            "type": "NDB",
+            "frequency_khz": "320",
+            "latitude_deg": "12.566300392150879",
+            "longitude_deg": "-12.216500282287598",
+            "elevation_ft": "643",
+            "iso_country": "SN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.052",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "GOTK"
+        }
+    ]
 }

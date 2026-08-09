@@ -107,5 +107,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Île-de-France",
         "keywords": "Airports in Île-de-France"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94635",
+            "filename": "Toussus_VOR_FR",
+            "ident": "TSU",
+            "name": "Toussus",
+            "type": "VOR",
+            "frequency_khz": "108250",
+            "latitude_deg": "48.753700256347656",
+            "longitude_deg": "2.1023600101470947",
+            "elevation_ft": "547",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-1.091",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFPN"
+        }
+    ]
 }

@@ -93,5 +93,29 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Department",
         "keywords": "Airports in Santa Cruz Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94262",
+            "filename": "El_Trompillo_NDB_BO",
+            "ident": "TCZ",
+            "name": "El Trompillo",
+            "type": "NDB",
+            "frequency_khz": "265",
+            "latitude_deg": "-17.803800582885742",
+            "longitude_deg": "-63.173500061035156",
+            "elevation_ft": "1371",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.345",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SLET"
+        }
+    ]
 }

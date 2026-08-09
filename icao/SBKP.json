@@ -85,5 +85,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
         "keywords": "Airports in São Paulo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86993",
+            "filename": "Campinas_VOR-DME_BR",
+            "ident": "CPN",
+            "name": "Campinas",
+            "type": "VOR-DME",
+            "frequency_khz": "112000",
+            "latitude_deg": "-23.008699417114258",
+            "longitude_deg": "-47.12900161743164",
+            "elevation_ft": "2170",
+            "iso_country": "BR",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-18.007",
+            "magnetic_variation_deg": "-19.442",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBKP"
+        },
+        {
+            "id": "89928",
+            "filename": "Grama_NDB_BR",
+            "ident": "KP",
+            "name": "Grama",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "-23.05389976501465",
+            "longitude_deg": "-47.06959915161133",
+            "elevation_ft": "",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.458",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBKP"
+        }
+    ]
 }

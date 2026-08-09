@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Iowa",
         "keywords": "Airports in Iowa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90420",
+            "filename": "Lamoni_VORTAC_US",
+            "ident": "LMN",
+            "name": "Lamoni",
+            "type": "VORTAC",
+            "frequency_khz": "116700",
+            "latitude_deg": "40.59669876098633",
+            "longitude_deg": "-93.96759796142578",
+            "elevation_ft": "1140",
+            "iso_country": "US",
+            "dme_frequency_khz": "116700",
+            "dme_channel": "114X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.001",
+            "magnetic_variation_deg": "2.206",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LWD"
+        }
+    ]
 }

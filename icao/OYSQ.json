@@ -85,5 +85,29 @@
         "iso_country": "YE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Socotra_Governorate",
         "keywords": "Airports in Socotra Archipelago Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93466",
+            "filename": "Socotra_NDB_YE",
+            "ident": "SCT",
+            "name": "Socotra",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "12.630200386047363",
+            "longitude_deg": "53.90800094604492",
+            "elevation_ft": "150",
+            "iso_country": "YE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.14",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "OYSQ"
+        }
+    ]
 }

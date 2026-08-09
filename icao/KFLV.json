@@ -85,5 +85,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kansas",
         "keywords": "Airports in Kansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90795",
+            "filename": "Kansas_City_VORTAC_US",
+            "ident": "MCI",
+            "name": "Kansas City",
+            "type": "VORTAC",
+            "frequency_khz": "113250",
+            "latitude_deg": "39.285301208496094",
+            "longitude_deg": "-94.73709869384766",
+            "elevation_ft": "1017",
+            "iso_country": "US",
+            "dme_frequency_khz": "113250",
+            "dme_channel": "079Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.001",
+            "magnetic_variation_deg": "3.019",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KFLV"
+        },
+        {
+            "id": "93158",
+            "filename": "Huggy_NDB_US",
+            "ident": "RN",
+            "name": "Huggy",
+            "type": "NDB",
+            "frequency_khz": "416",
+            "latitude_deg": "39.301998138427734",
+            "longitude_deg": "-94.8510971069336",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.07",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KFLV"
+        }
+    ]
 }

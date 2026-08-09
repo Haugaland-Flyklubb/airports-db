@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mizoram",
         "keywords": "Airports in Mizoram"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85737",
+            "filename": "Aizawl_NDB_IN",
+            "ident": "AZ",
+            "name": "Aizawl",
+            "type": "NDB",
+            "frequency_khz": "366",
+            "latitude_deg": "23.742900848388672",
+            "longitude_deg": "92.80290222167969",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.335",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VEAZ"
+        }
+    ]
 }

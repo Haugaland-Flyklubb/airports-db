@@ -69,5 +69,29 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Surigao_del_Norte_Province",
         "keywords": "Airports in Surigao del Norte Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94025",
+            "filename": "Surigao_NDB_PH",
+            "ident": "SU",
+            "name": "Surigao",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "9.76006031036377",
+            "longitude_deg": "125.48300170898438",
+            "elevation_ft": "",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.198",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RPMS"
+        }
+    ]
 }

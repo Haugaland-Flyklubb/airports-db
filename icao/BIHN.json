@@ -77,5 +77,51 @@
         "iso_country": "IS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Region_(Iceland)",
         "keywords": "Suðurland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88925",
+            "filename": "Hornafjordur_NDB_IS",
+            "ident": "HN",
+            "name": "Hornafjordur",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "64.26920318603516",
+            "longitude_deg": "-15.213299751281738",
+            "elevation_ft": "",
+            "iso_country": "IS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.19",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "BIHN"
+        },
+        {
+            "id": "93708",
+            "filename": "Svinafell_NDB_IS",
+            "ident": "SL",
+            "name": "Svinafell",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "64.38359832763672",
+            "longitude_deg": "-15.386699676513672",
+            "elevation_ft": "",
+            "iso_country": "IS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.28",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "BIHN"
+        }
+    ]
 }

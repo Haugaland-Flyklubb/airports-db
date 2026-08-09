@@ -107,5 +107,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Caldas_Department",
         "keywords": "Airports in Caldas Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90437",
+            "filename": "Manizales_NDB_CO",
+            "ident": "LNA",
+            "name": "Manizales",
+            "type": "NDB",
+            "frequency_khz": "337",
+            "latitude_deg": "5.0552802085876465",
+            "longitude_deg": "-75.52860260009766",
+            "elevation_ft": "6920",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.426",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SKMZ"
+        }
+    ]
 }

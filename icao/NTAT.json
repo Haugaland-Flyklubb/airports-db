@@ -69,5 +69,29 @@
         "iso_country": "PF",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94210",
+            "filename": "Tubuai_NDB_PF",
+            "ident": "TB",
+            "name": "Tubuai",
+            "type": "NDB",
+            "frequency_khz": "347",
+            "latitude_deg": "-23.36709976196289",
+            "longitude_deg": "-149.52499389648438",
+            "elevation_ft": "50",
+            "iso_country": "PF",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "14.386",
+            "usageType": "RNAV",
+            "power": "MEDIUM",
+            "associated_airport": "NTAT"
+        }
+    ]
 }

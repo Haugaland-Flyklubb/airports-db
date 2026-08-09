@@ -99,5 +99,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91555",
+            "filename": "Nhill_VOR_AU",
+            "ident": "NHL",
+            "name": "Nhill",
+            "type": "VOR",
+            "frequency_khz": "116500",
+            "latitude_deg": "-36.315799713134766",
+            "longitude_deg": "141.64599609375",
+            "elevation_ft": "454",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.011",
+            "magnetic_variation_deg": "9.448",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YNHL"
+        },
+        {
+            "id": "91556",
+            "filename": "Nhill_NDB_AU",
+            "ident": "NHL",
+            "name": "Nhill",
+            "type": "NDB",
+            "frequency_khz": "326",
+            "latitude_deg": "-36.29399871826172",
+            "longitude_deg": "141.64300537109375",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.445",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YNHL"
+        }
+    ]
 }

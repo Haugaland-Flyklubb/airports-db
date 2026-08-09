@@ -181,5 +181,29 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Gisborne,_New_Zealand#Gisborne_or_East_Coast_region",
         "keywords": "East Coast Region, Eastland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88587",
+            "filename": "Gisborne_VOR-DME_NZ",
+            "ident": "GS",
+            "name": "Gisborne",
+            "type": "VOR-DME",
+            "frequency_khz": "114200",
+            "latitude_deg": "-38.660499572753906",
+            "longitude_deg": "177.97799682617188",
+            "elevation_ft": "15",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "20.007",
+            "magnetic_variation_deg": "20.444",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "NZGS"
+        }
+    ]
 }

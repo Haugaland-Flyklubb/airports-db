@@ -69,5 +69,29 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Magallanes_Region",
         "keywords": "Airports in Magallanes Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92583",
+            "filename": "Puerto_Natales_VOR-DME_CL",
+            "ident": "PNT",
+            "name": "Puerto Natales",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "-51.73500061035156",
+            "longitude_deg": "-72.4480972290039",
+            "elevation_ft": "423",
+            "iso_country": "CL",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "15.007",
+            "magnetic_variation_deg": "14.333",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "SCNT"
+        }
+    ]
 }

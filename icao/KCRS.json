@@ -107,5 +107,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87011",
+            "filename": "Cedar_Creek_VORTAC_US",
+            "ident": "CQY",
+            "name": "Cedar Creek",
+            "type": "VORTAC",
+            "frequency_khz": "114800",
+            "latitude_deg": "32.185699462890625",
+            "longitude_deg": "-96.21810150146484",
+            "elevation_ft": "400",
+            "iso_country": "US",
+            "dme_frequency_khz": "114800",
+            "dme_channel": "095X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.01",
+            "magnetic_variation_deg": "4.195",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KCRS"
+        }
+    ]
 }

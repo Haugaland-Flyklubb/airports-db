@@ -59,5 +59,29 @@
         "iso_country": "BJ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Borgou_Department",
         "keywords": "Airports in Borgou Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92225",
+            "filename": "Parakou_VOR_BJ",
+            "ident": "PA",
+            "name": "Parakou",
+            "type": "VOR",
+            "frequency_khz": "112800",
+            "latitude_deg": "9.370109558105469",
+            "longitude_deg": "2.619080066680908",
+            "elevation_ft": "",
+            "iso_country": "BJ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.014",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DBBP"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Liguria",
         "keywords": "LG"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93405",
+            "filename": "Sarzana_TACAN_IT",
+            "ident": "SAZ",
+            "name": "Sarzana",
+            "type": "TACAN",
+            "frequency_khz": "111100",
+            "latitude_deg": "44.075599670410156",
+            "longitude_deg": "9.93889045715332",
+            "elevation_ft": "1147",
+            "iso_country": "IT",
+            "dme_frequency_khz": "111100",
+            "dme_channel": "048X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.154",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LIQW"
+        }
+    ]
 }

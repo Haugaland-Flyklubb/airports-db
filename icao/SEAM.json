@@ -69,5 +69,51 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tungurahua_Province",
         "keywords": "Airports in Tungurahua Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85445",
+            "filename": "Ambato_NDB_EC",
+            "ident": "AMB",
+            "name": "Ambato",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "-1.2132400274276733",
+            "longitude_deg": "-78.57659912109375",
+            "elevation_ft": "8427",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.259",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SEAM"
+        },
+        {
+            "id": "85465",
+            "filename": "Ambato_VOR-DME_EC",
+            "ident": "AMV",
+            "name": "Ambato",
+            "type": "VOR-DME",
+            "frequency_khz": "112700",
+            "latitude_deg": "-1.285889983177185",
+            "longitude_deg": "-78.54630279541016",
+            "elevation_ft": "9978",
+            "iso_country": "EC",
+            "dme_frequency_khz": "112700",
+            "dme_channel": "074X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "-1.263",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SEAM"
+        }
+    ]
 }

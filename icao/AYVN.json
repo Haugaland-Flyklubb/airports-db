@@ -69,5 +69,29 @@
         "iso_country": "PG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sandaun_Province",
         "keywords": "West Sepik"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95226",
+            "filename": "Vanimo_NDB-DME_PG",
+            "ident": "VNO",
+            "name": "Vanimo",
+            "type": "NDB-DME",
+            "frequency_khz": "257",
+            "latitude_deg": "-2.6789000034332275",
+            "longitude_deg": "141.30299377441406",
+            "elevation_ft": "10",
+            "iso_country": "PG",
+            "dme_frequency_khz": "115600",
+            "dme_channel": "103X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.091",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "AYVN"
+        }
+    ]
 }

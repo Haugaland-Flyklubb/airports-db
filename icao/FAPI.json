@@ -69,5 +69,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
         "keywords": "Airports in Limpopo"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92429",
+            "filename": "Pietersburg_NDB_ZA",
+            "ident": "PI",
+            "name": "Pietersburg",
+            "type": "NDB",
+            "frequency_khz": "425",
+            "latitude_deg": "-23.9335994720459",
+            "longitude_deg": "29.468599319458008",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.111",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAPI"
+        }
+    ]
 }

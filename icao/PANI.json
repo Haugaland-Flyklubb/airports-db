@@ -81,5 +81,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85495",
+            "filename": "Aniak_NDB_US",
+            "ident": "ANI",
+            "name": "Aniak",
+            "type": "NDB",
+            "frequency_khz": "359",
+            "latitude_deg": "61.5901985168457",
+            "longitude_deg": "-159.59800720214844",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.093",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PANI"
+        }
+    ]
 }

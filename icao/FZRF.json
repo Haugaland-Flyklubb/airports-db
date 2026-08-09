@@ -69,5 +69,51 @@
         "iso_country": "CD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tanganyika_Province",
         "keywords": "Airports in Tanganyika Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89871",
+            "filename": "Kalemie_VOR_CD",
+            "ident": "KMI",
+            "name": "Kalemie",
+            "type": "VOR",
+            "frequency_khz": "116300",
+            "latitude_deg": "-5.86883020401001",
+            "longitude_deg": "29.249900817871094",
+            "elevation_ft": "2569",
+            "iso_country": "CD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.557",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FZRF"
+        },
+        {
+            "id": "89873",
+            "filename": "Kalemie_NDB_CD",
+            "ident": "KMI",
+            "name": "Kalemie",
+            "type": "NDB",
+            "frequency_khz": "261",
+            "latitude_deg": "-5.918819904327393",
+            "longitude_deg": "29.183300018310547",
+            "elevation_ft": "",
+            "iso_country": "CD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.567",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FZRF"
+        }
+    ]
 }

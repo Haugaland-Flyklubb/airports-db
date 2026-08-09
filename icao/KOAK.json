@@ -199,5 +199,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/California",
         "keywords": "Californian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91839",
+            "filename": "Oakland_VORTAC_US",
+            "ident": "OAK",
+            "name": "Oakland",
+            "type": "VORTAC",
+            "frequency_khz": "116800",
+            "latitude_deg": "37.72589874267578",
+            "longitude_deg": "-122.2239990234375",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "116800",
+            "dme_channel": "115X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "14.426",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KOAK"
+        }
+    ]
 }

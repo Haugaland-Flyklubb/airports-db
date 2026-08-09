@@ -123,5 +123,29 @@
         "iso_country": "SA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Madinah_Region",
         "keywords": "Airports in Al Madinah Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92537",
+            "filename": "Prince_Mohammad_Bin_Abdulaziz_VOR-DME_SA",
+            "ident": "PMA",
+            "name": "Prince Mohammad Bin Abdulaziz",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "24.54759979248047",
+            "longitude_deg": "39.7052001953125",
+            "elevation_ft": "2120",
+            "iso_country": "SA",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "2.584",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OEMA"
+        }
+    ]
 }

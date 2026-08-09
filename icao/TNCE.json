@@ -69,5 +69,29 @@
         "iso_country": "BQ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sint_Eustatius",
         "keywords": "Airports in Sint Eustatius"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92466",
+            "filename": "St.eEstatius_NDB_AN",
+            "ident": "PJE",
+            "name": "St.eEstatius",
+            "type": "NDB",
+            "frequency_khz": "235",
+            "latitude_deg": "17.48710060119629",
+            "longitude_deg": "-62.99169921875",
+            "elevation_ft": "129",
+            "iso_country": "BQ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.564",
+            "usageType": "",
+            "power": "",
+            "associated_airport": "TNCE"
+        }
+    ]
 }

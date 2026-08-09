@@ -109,5 +109,51 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pays-de-la-Loire",
         "keywords": "Airports in Pays-de-la-Loire"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88436",
+            "filename": "Nantes_NDB_FR",
+            "ident": "GL",
+            "name": "Nantes",
+            "type": "NDB",
+            "frequency_khz": "369",
+            "latitude_deg": "47.052799224853516",
+            "longitude_deg": "-1.6878299713134766",
+            "elevation_ft": "61",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.136",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LFRS"
+        },
+        {
+            "id": "91747",
+            "filename": "Nantes_VOR-DME_FR",
+            "ident": "NTS",
+            "name": "Nantes",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "47.1609001159668",
+            "longitude_deg": "-1.612969994544983",
+            "elevation_ft": "82",
+            "iso_country": "FR",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-2.129",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFRS"
+        }
+    ]
 }

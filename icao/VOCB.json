@@ -85,5 +85,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tamil_Nadu",
         "keywords": "Airports in Tamil Nadu"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86605",
+            "filename": "Coimbatore_NDB_IN",
+            "ident": "CB",
+            "name": "Coimbatore",
+            "type": "NDB",
+            "frequency_khz": "354",
+            "latitude_deg": "11.023799896240234",
+            "longitude_deg": "77.04720306396484",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.093",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOCB"
+        },
+        {
+            "id": "86638",
+            "filename": "Coimbatore_VOR-DME_IN",
+            "ident": "CCB",
+            "name": "Coimbatore",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "11.03380012512207",
+            "longitude_deg": "77.04810333251953",
+            "elevation_ft": "1319",
+            "iso_country": "IN",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.011",
+            "magnetic_variation_deg": "-2.092",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOCB"
+        }
+    ]
 }

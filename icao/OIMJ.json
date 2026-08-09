@@ -77,5 +77,29 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Semnan_Province",
         "keywords": "Airports in Semnan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93591",
+            "filename": "Shahroud_NDB_IR",
+            "ident": "SHR",
+            "name": "Shahroud",
+            "type": "NDB",
+            "frequency_khz": "268",
+            "latitude_deg": "36.43439865112305",
+            "longitude_deg": "55.13859939575195",
+            "elevation_ft": "4219",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.029",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "OIMJ"
+        }
+    ]
 }

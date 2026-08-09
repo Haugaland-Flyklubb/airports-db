@@ -133,5 +133,51 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kumamoto",
         "keywords": "Kyushu and Okinawa"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90049",
+            "filename": "Kumamoto_NDB_JP",
+            "ident": "KU",
+            "name": "Kumamoto",
+            "type": "NDB",
+            "frequency_khz": "249",
+            "latitude_deg": "32.80550003051758",
+            "longitude_deg": "130.76800537109375",
+            "elevation_ft": "",
+            "iso_country": "JP",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.319",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RJFT"
+        },
+        {
+            "id": "90057",
+            "filename": "Kumamoto_VOR-DME_JP",
+            "ident": "KUE",
+            "name": "Kumamoto",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "32.834800720214844",
+            "longitude_deg": "130.8419952392578",
+            "elevation_ft": "651",
+            "iso_country": "JP",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.011",
+            "magnetic_variation_deg": "-6.325",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJFT"
+        }
+    ]
 }

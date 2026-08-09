@@ -163,5 +163,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86947",
+            "filename": "Patrick_TACAN_US",
+            "ident": "COF",
+            "name": "Patrick",
+            "type": "TACAN",
+            "frequency_khz": "115000",
+            "latitude_deg": "28.237699508666992",
+            "longitude_deg": "-80.61180114746094",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "115000",
+            "dme_channel": "097X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.004",
+            "magnetic_variation_deg": "-5.435",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "KCOF"
+        }
+    ]
 }

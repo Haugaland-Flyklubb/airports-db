@@ -77,5 +77,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Kalimantan",
         "keywords": "Kalimantan Utara"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92129",
+            "filename": "Tarakan_NDB_ID",
+            "ident": "OT",
+            "name": "Tarakan",
+            "type": "NDB",
+            "frequency_khz": "398",
+            "latitude_deg": "3.3269400596618652",
+            "longitude_deg": "117.57099914550781",
+            "elevation_ft": "20",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.396",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WALR"
+        },
+        {
+            "id": "94589",
+            "filename": "Tarakan_VOR-DME_ID",
+            "ident": "TRK",
+            "name": "Tarakan",
+            "type": "VOR-DME",
+            "frequency_khz": "116600",
+            "latitude_deg": "3.3256099224090576",
+            "longitude_deg": "117.56199645996094",
+            "elevation_ft": "20",
+            "iso_country": "ID",
+            "dme_frequency_khz": "116600",
+            "dme_channel": "113X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.011",
+            "magnetic_variation_deg": "0.396",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WALR"
+        }
+    ]
 }

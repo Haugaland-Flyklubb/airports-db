@@ -115,5 +115,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93718",
+            "filename": "Briel_NDB_US",
+            "ident": "SL",
+            "name": "Briel",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "44.47679901123047",
+            "longitude_deg": "-74.12409973144531",
+            "elevation_ft": "1677",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.283",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KSLK"
+        },
+        {
+            "id": "93729",
+            "filename": "Saranac_Lake_VOR-DME_US",
+            "ident": "SLK",
+            "name": "Saranac Lake",
+            "type": "VOR-DME",
+            "frequency_khz": "109200",
+            "latitude_deg": "44.38460159301758",
+            "longitude_deg": "-74.20449829101562",
+            "elevation_ft": "1650",
+            "iso_country": "US",
+            "dme_frequency_khz": "109200",
+            "dme_channel": "029X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-14.001",
+            "magnetic_variation_deg": "-14.232",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KSLK"
+        }
+    ]
 }

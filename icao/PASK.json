@@ -123,5 +123,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95457",
+            "filename": "Selawik_VOR-DME_US",
+            "ident": "WLK",
+            "name": "Selawik",
+            "type": "VOR-DME",
+            "frequency_khz": "114200",
+            "latitude_deg": "66.59950256347656",
+            "longitude_deg": "-159.99099731445312",
+            "elevation_ft": "7",
+            "iso_country": "US",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "21.001",
+            "magnetic_variation_deg": "17.117",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "PASK"
+        }
+    ]
 }

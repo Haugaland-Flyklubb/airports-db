@@ -81,5 +81,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Wyoming",
         "keywords": "Airports in Wyoming"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90774",
+            "filename": "Medicine_Bow_VOR-DME_US",
+            "ident": "MBW",
+            "name": "Medicine Bow",
+            "type": "VOR-DME",
+            "frequency_khz": "111600",
+            "latitude_deg": "41.84550094604492",
+            "longitude_deg": "-106.00399780273438",
+            "elevation_ft": "7000",
+            "iso_country": "US",
+            "dme_frequency_khz": "111600",
+            "dme_channel": "053X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.001",
+            "magnetic_variation_deg": "10.225",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "80V"
+        }
+    ]
 }

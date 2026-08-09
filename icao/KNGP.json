@@ -199,5 +199,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87045",
+            "filename": "Corpus_Christi_VORTAC_US",
+            "ident": "CRP",
+            "name": "Corpus Christi",
+            "type": "VORTAC",
+            "frequency_khz": "115500",
+            "latitude_deg": "27.903799057006836",
+            "longitude_deg": "-97.44490051269531",
+            "elevation_ft": "60",
+            "iso_country": "US",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.008",
+            "magnetic_variation_deg": "5.054",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KNGP"
+        },
+        {
+            "id": "91540",
+            "filename": "Truax_VORTAC_US",
+            "ident": "NGP",
+            "name": "Truax",
+            "type": "VORTAC",
+            "frequency_khz": "114000",
+            "latitude_deg": "27.68630027770996",
+            "longitude_deg": "-97.2947006225586",
+            "elevation_ft": "20",
+            "iso_country": "US",
+            "dme_frequency_khz": "114000",
+            "dme_channel": "087X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.005",
+            "magnetic_variation_deg": "5.009",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KNGP"
+        }
+    ]
 }

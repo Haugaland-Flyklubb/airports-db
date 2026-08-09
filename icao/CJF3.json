@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85077",
+            "filename": "Ile-A-La-Crosse_NDB_CA",
+            "ident": "3F",
+            "name": "Ile-A-La-Crosse",
+            "type": "NDB",
+            "frequency_khz": "384",
+            "latitude_deg": "55.4838981628418",
+            "longitude_deg": "-107.93099975585938",
+            "elevation_ft": "1394",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.529",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CJF3"
+        }
+    ]
 }

@@ -109,5 +109,29 @@
         "iso_country": "OM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dhofar_Governorate",
         "keywords": "الداخلية‎"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94455",
+            "filename": "Thumrait_VORTAC_OM",
+            "ident": "TMR",
+            "name": "Thumrait",
+            "type": "VORTAC",
+            "frequency_khz": "115300",
+            "latitude_deg": "17.66819953918457",
+            "longitude_deg": "54.025699615478516",
+            "elevation_ft": "1570",
+            "iso_country": "OM",
+            "dme_frequency_khz": "115300",
+            "dme_channel": "100X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.298",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OOTH"
+        }
+    ]
 }

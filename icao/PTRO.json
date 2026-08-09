@@ -69,5 +69,29 @@
         "iso_country": "PW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Airai",
         "keywords": "Airports in Airai"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93201",
+            "filename": "Koror_NDB-DME_PW",
+            "ident": "ROR",
+            "name": "Koror",
+            "type": "NDB-DME",
+            "frequency_khz": "371",
+            "latitude_deg": "7.368770122528076",
+            "longitude_deg": "134.5500030517578",
+            "elevation_ft": "182",
+            "iso_country": "PW",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "7.36876",
+            "dme_longitude_deg": "134.55",
+            "dme_elevation_ft": "191",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.029",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "PTRO"
+        }
+    ]
 }

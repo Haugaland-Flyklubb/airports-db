@@ -147,5 +147,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
         "keywords": "Airports in Minnesota"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93967",
+            "filename": "Hussk_NDB_US",
+            "ident": "ST",
+            "name": "Hussk",
+            "type": "NDB",
+            "frequency_khz": "342",
+            "latitude_deg": "45.47869873046875",
+            "longitude_deg": "-93.96880340576172",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.487",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KSTC"
+        },
+        {
+            "id": "93974",
+            "filename": "Saint_Cloud_VOR-DME_US",
+            "ident": "STC",
+            "name": "Saint Cloud",
+            "type": "VOR-DME",
+            "frequency_khz": "112100",
+            "latitude_deg": "45.54930114746094",
+            "longitude_deg": "-94.05860137939453",
+            "elevation_ft": "1025",
+            "iso_country": "US",
+            "dme_frequency_khz": "112100",
+            "dme_channel": "058X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "1.529",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KSTC"
+        }
+    ]
 }

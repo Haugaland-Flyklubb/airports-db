@@ -35,5 +35,29 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
         "keywords": "Baluchistan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93415",
+            "filename": "Sibi_NDB_PK",
+            "ident": "SB",
+            "name": "Sibi",
+            "type": "NDB",
+            "frequency_khz": "208",
+            "latitude_deg": "29.569499969482422",
+            "longitude_deg": "67.84709930419922",
+            "elevation_ft": "",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.222",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OPSB"
+        }
+    ]
 }

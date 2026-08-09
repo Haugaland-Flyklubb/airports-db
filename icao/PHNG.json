@@ -125,5 +125,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hawaii",
         "keywords": "Airports in Hawaii"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91538",
+            "filename": "Kaneohe_TACAN_US",
+            "ident": "NGF",
+            "name": "Kaneohe",
+            "type": "TACAN",
+            "frequency_khz": "114600",
+            "latitude_deg": "21.45050048828125",
+            "longitude_deg": "-157.76400756835938",
+            "elevation_ft": "47",
+            "iso_country": "US",
+            "dme_frequency_khz": "114600",
+            "dme_channel": "093X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "10",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "PHNG"
+        }
+    ]
 }

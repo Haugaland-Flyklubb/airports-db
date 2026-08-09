@@ -101,5 +101,29 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rhineland-Palatinate",
         "keywords": "Rheinland-Pfalz"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86426",
+            "filename": "Buchel_TACAN_DE",
+            "ident": "BUE",
+            "name": "Buchel",
+            "type": "TACAN",
+            "frequency_khz": "117100",
+            "latitude_deg": "50.1786994934082",
+            "longitude_deg": "7.069499969482422",
+            "elevation_ft": "1618",
+            "iso_country": "DE",
+            "dme_frequency_khz": "117100",
+            "dme_channel": "118X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "0.186",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ETSB"
+        }
+    ]
 }

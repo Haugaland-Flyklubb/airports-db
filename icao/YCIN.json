@@ -109,5 +109,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
         "keywords": "Western Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86805",
+            "filename": "Curtin_VOR-DME_AU",
+            "ident": "CIN",
+            "name": "Curtin",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "-17.588600158691406",
+            "longitude_deg": "123.85199737548828",
+            "elevation_ft": "27",
+            "iso_country": "AU",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "2.432",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YCIN"
+        },
+        {
+            "id": "86806",
+            "filename": "Curtin_NDB_AU",
+            "ident": "CIN",
+            "name": "Curtin",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "-17.574199676513672",
+            "longitude_deg": "123.83100128173828",
+            "elevation_ft": "300",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.43",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YCIN"
+        }
+    ]
 }

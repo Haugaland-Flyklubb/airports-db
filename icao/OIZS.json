@@ -69,5 +69,29 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sistan_and_Baluchestan_Province",
         "keywords": "Airports in Sistan and Baluchestan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93928",
+            "filename": "Saravan_NDB_IR",
+            "ident": "SRN",
+            "name": "Saravan",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "27.415000915527344",
+            "longitude_deg": "62.325401306152344",
+            "elevation_ft": "3930",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.161",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "OIZS"
+        }
+    ]
 }

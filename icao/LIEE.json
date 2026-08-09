@@ -93,5 +93,51 @@
         "iso_country": "IT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sardinia",
         "keywords": "SD"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86561",
+            "filename": "Cagliari_VOR-DME_IT",
+            "ident": "CAG",
+            "name": "Cagliari",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "39.249000549316406",
+            "longitude_deg": "9.05408000946045",
+            "elevation_ft": "13",
+            "iso_country": "IT",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "39.2489",
+            "dme_longitude_deg": "9.05397",
+            "dme_elevation_ft": "13",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.028",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LIEE"
+        },
+        {
+            "id": "86562",
+            "filename": "Cagliari_NDB_IT",
+            "ident": "CAG",
+            "name": "Cagliari",
+            "type": "NDB",
+            "frequency_khz": "371",
+            "latitude_deg": "39.214599609375",
+            "longitude_deg": "9.0974702835083",
+            "elevation_ft": "",
+            "iso_country": "IT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.033",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LIEE"
+        }
+    ]
 }

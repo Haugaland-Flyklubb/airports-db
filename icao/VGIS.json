@@ -69,5 +69,29 @@
         "iso_country": "BD",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rajshahi_Division",
         "keywords": "Rajshahi bibhag"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89330",
+            "filename": "Ishurdi_NDB_BD",
+            "ident": "IS",
+            "name": "Ishurdi",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "24.152799606323242",
+            "longitude_deg": "89.0447998046875",
+            "elevation_ft": "",
+            "iso_country": "BD",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.254",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VGIS"
+        }
+    ]
 }

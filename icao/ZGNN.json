@@ -77,5 +77,29 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guangxi",
         "keywords": "Airports in Guangxi Autonomous Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91647",
+            "filename": "Nanning_VOR-DME_CN",
+            "ident": "NNG",
+            "name": "Nanning",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "22.625",
+            "longitude_deg": "108.1969985961914",
+            "elevation_ft": "420",
+            "iso_country": "CN",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.346",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZGNN"
+        }
+    ]
 }

@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
         "keywords": "Airports in Nebraska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90445",
+            "filename": "Lincoln_VORTAC_US",
+            "ident": "LNK",
+            "name": "Lincoln",
+            "type": "VORTAC",
+            "frequency_khz": "116100",
+            "latitude_deg": "40.92380142211914",
+            "longitude_deg": "-96.74199676513672",
+            "elevation_ft": "1370",
+            "iso_country": "US",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.001",
+            "magnetic_variation_deg": "4.261",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "5K3"
+        }
+    ]
 }

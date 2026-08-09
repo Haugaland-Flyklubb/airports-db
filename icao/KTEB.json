@@ -171,5 +171,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Jersey",
         "keywords": "Airports in New Jersey"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94281",
+            "filename": "Torby_NDB_US",
+            "ident": "TE",
+            "name": "Torby",
+            "type": "NDB",
+            "frequency_khz": "214",
+            "latitude_deg": "40.80440139770508",
+            "longitude_deg": "-74.13249969482422",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-13.086",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KTEB"
+        },
+        {
+            "id": "94285",
+            "filename": "Teterboro_VOR-DME_US",
+            "ident": "TEB",
+            "name": "Teterboro",
+            "type": "VOR-DME",
+            "frequency_khz": "108400",
+            "latitude_deg": "40.84870147705078",
+            "longitude_deg": "-74.06220245361328",
+            "elevation_ft": "10",
+            "iso_country": "US",
+            "dme_frequency_khz": "108400",
+            "dme_channel": "021X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.001",
+            "magnetic_variation_deg": "-13.12",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KTEB"
+        }
+    ]
 }

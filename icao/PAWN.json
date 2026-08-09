@@ -93,5 +93,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92064",
+            "filename": "Noatak_NDB-DME_US",
+            "ident": "OQK",
+            "name": "Noatak",
+            "type": "NDB-DME",
+            "frequency_khz": "414",
+            "latitude_deg": "67.5718994140625",
+            "longitude_deg": "-162.9739990234375",
+            "elevation_ft": "82",
+            "iso_country": "US",
+            "dme_frequency_khz": "110200",
+            "dme_channel": "039X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.447",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "PAWN"
+        }
+    ]
 }

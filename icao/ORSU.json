@@ -77,5 +77,29 @@
         "iso_country": "IQ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/As_Sulaymaniyah_Governorate",
         "keywords": "السليمانية"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94040",
+            "filename": "Sulaymaniyah_VOR_IQ",
+            "ident": "SUL",
+            "name": "Sulaymaniyah",
+            "type": "VOR",
+            "frequency_khz": "117000",
+            "latitude_deg": "35.5796012878418",
+            "longitude_deg": "45.29010009765625",
+            "elevation_ft": "2517",
+            "iso_country": "IQ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.15",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ORSU"
+        }
+    ]
 }

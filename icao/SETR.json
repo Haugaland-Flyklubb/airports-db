@@ -69,5 +69,29 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sucumbios_Province",
         "keywords": "Airports in Sucumbios Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94606",
+            "filename": "Tarapoa_NDB_EC",
+            "ident": "TRP",
+            "name": "Tarapoa",
+            "type": "NDB",
+            "frequency_khz": "328",
+            "latitude_deg": "-0.13138900697231293",
+            "longitude_deg": "-76.32469940185547",
+            "elevation_ft": "814",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.116",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SETR"
+        }
+    ]
 }

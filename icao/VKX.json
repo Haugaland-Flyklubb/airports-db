@@ -59,5 +59,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
         "keywords": "Airports in Maryland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95173",
+            "filename": "Potomac_NDB_US",
+            "ident": "VKX",
+            "name": "Potomac",
+            "type": "NDB",
+            "frequency_khz": "241",
+            "latitude_deg": "38.7489013671875",
+            "longitude_deg": "-76.95610046386719",
+            "elevation_ft": "115",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.417",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "VKX"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "ER",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Red_Sea_Region",
         "keywords": "ዞባ ደቡባዊ ቀይሕ ባሕሪ, Zoba Debubawi Keyih Bahri, منطقة جنوب البحر الأحمر"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93410",
+            "filename": "Assab_NDB_ER",
+            "ident": "SB",
+            "name": "Assab",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "13.065899848937988",
+            "longitude_deg": "42.64540100097656",
+            "elevation_ft": "46",
+            "iso_country": "ER",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.409",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HHSB"
+        }
+    ]
 }

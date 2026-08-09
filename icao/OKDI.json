@@ -109,5 +109,29 @@
         "iso_country": "KW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Jahra_Governorate",
         "keywords": "Airports in Al Jahra Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94827",
+            "filename": "Udairi_NDB_KW",
+            "ident": "UDI",
+            "name": "Udairi",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "29.68670082092285",
+            "longitude_deg": "47.433799743652344",
+            "elevation_ft": "428",
+            "iso_country": "KW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.036",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OKDI"
+        }
+    ]
 }

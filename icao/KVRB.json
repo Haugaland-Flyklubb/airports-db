@@ -177,5 +177,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95090",
+            "filename": "Vero_Beach_NDB_US",
+            "ident": "VEP",
+            "name": "Vero Beach",
+            "type": "NDB",
+            "frequency_khz": "392",
+            "latitude_deg": "27.664100646972656",
+            "longitude_deg": "-80.41960144042969",
+            "elevation_ft": "20",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.446",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KVRB"
+        }
+    ]
 }

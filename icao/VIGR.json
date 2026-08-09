@@ -69,5 +69,51 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Madhya_Pradesh",
         "keywords": "Airports in Madhya Pradesh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88423",
+            "filename": "Gwalior_NDB_IN",
+            "ident": "GJ",
+            "name": "Gwalior",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "26.283599853515625",
+            "longitude_deg": "78.23190307617188",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.12",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VIGR"
+        },
+        {
+            "id": "88653",
+            "filename": "Gwalior_VOR-DME_IN",
+            "ident": "GWA",
+            "name": "Gwalior",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "26.28529930114746",
+            "longitude_deg": "78.21829986572266",
+            "elevation_ft": "617",
+            "iso_country": "IN",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.011",
+            "magnetic_variation_deg": "0.12",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VIGR"
+        }
+    ]
 }

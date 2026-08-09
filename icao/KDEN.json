@@ -235,5 +235,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
         "keywords": "Airports in Colorado"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87575",
+            "filename": "Mile_High_VORTAC_US",
+            "ident": "DVV",
+            "name": "Mile High",
+            "type": "VORTAC",
+            "frequency_khz": "114700",
+            "latitude_deg": "39.89469909667969",
+            "longitude_deg": "-104.6240005493164",
+            "elevation_ft": "5270",
+            "iso_country": "US",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "9.257",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KDEN"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Jakarta_Raya",
         "keywords": "Airports in Jakarta Raya"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86604",
+            "filename": "Pondok_Cabe_NDB_ID",
+            "ident": "CB",
+            "name": "Pondok Cabe",
+            "type": "NDB",
+            "frequency_khz": "225",
+            "latitude_deg": "-6.349820137023926",
+            "longitude_deg": "106.76799774169922",
+            "elevation_ft": "200",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.439",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIHP"
+        }
+    ]
 }

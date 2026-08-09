@@ -107,5 +107,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95727",
+            "filename": "Lynn_Lake_NDB_CA",
+            "ident": "YL",
+            "name": "Lynn Lake",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "56.8307991027832",
+            "longitude_deg": "-101.06999969482422",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.396",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYYL"
+        },
+        {
+            "id": "95923",
+            "filename": "Lynn_Lake_VOR-DME_CA",
+            "ident": "YYL",
+            "name": "Lynn Lake",
+            "type": "VOR-DME",
+            "frequency_khz": "112600",
+            "latitude_deg": "56.864200592041016",
+            "longitude_deg": "-101.07499694824219",
+            "elevation_ft": "1219",
+            "iso_country": "CA",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.001",
+            "magnetic_variation_deg": "7.398",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYYL"
+        }
+    ]
 }

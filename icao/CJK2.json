@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85766",
+            "filename": "Gunisao_Lake_NDB_CA",
+            "ident": "B5",
+            "name": "Gunisao Lake",
+            "type": "NDB",
+            "frequency_khz": "254",
+            "latitude_deg": "53.52220153808594",
+            "longitude_deg": "-96.37529754638672",
+            "elevation_ft": "886",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.536",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "CJK2"
+        }
+    ]
 }

@@ -99,5 +99,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86019",
+            "filename": "Broken_Hill_VOR-DME_AU",
+            "ident": "BHI",
+            "name": "Broken Hill",
+            "type": "VOR-DME",
+            "frequency_khz": "114200",
+            "latitude_deg": "-32.0005989074707",
+            "longitude_deg": "141.47999572753906",
+            "elevation_ft": "968",
+            "iso_country": "AU",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "-32.0008",
+            "dme_longitude_deg": "141.48",
+            "dme_elevation_ft": "968",
+            "slaved_variation_deg": "9.011",
+            "magnetic_variation_deg": "8.416",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YBHI"
+        },
+        {
+            "id": "86020",
+            "filename": "Broken_Hill_NDB_AU",
+            "ident": "BHI",
+            "name": "Broken Hill",
+            "type": "NDB",
+            "frequency_khz": "332",
+            "latitude_deg": "-31.991899490356445",
+            "longitude_deg": "141.46800231933594",
+            "elevation_ft": "958",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.413",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YBHI"
+        }
+    ]
 }

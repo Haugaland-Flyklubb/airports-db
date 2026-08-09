@@ -91,5 +91,51 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chubut_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "87841",
+            "filename": "Esquel_VOR-DME_AR",
+            "ident": "ESQ",
+            "name": "Esquel",
+            "type": "VOR-DME",
+            "frequency_khz": "117800",
+            "latitude_deg": "-42.88719940185547",
+            "longitude_deg": "-71.10030364990234",
+            "elevation_ft": "2585",
+            "iso_country": "AR",
+            "dme_frequency_khz": "117800",
+            "dme_channel": "125X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.007",
+            "magnetic_variation_deg": "8.558",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAVE"
+        },
+        {
+            "id": "91987",
+            "filename": "Esquel_NDB_AR",
+            "ident": "OL",
+            "name": "Esquel",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "-42.87289810180664",
+            "longitude_deg": "-71.0708999633789",
+            "elevation_ft": "",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.541",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "SAVE"
+        }
+    ]
 }

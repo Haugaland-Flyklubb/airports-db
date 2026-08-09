@@ -93,5 +93,51 @@
         "iso_country": "CN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Fujian",
         "keywords": "Airports in Fujian Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95399",
+            "filename": "Xinglin_NDB_CN",
+            "ident": "WF",
+            "name": "Xinglin",
+            "type": "NDB",
+            "frequency_khz": "296",
+            "latitude_deg": "24.566699981689453",
+            "longitude_deg": "118.01699829101562",
+            "elevation_ft": "",
+            "iso_country": "CN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.114",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "ZSAM"
+        },
+        {
+            "id": "95562",
+            "filename": "Xiamen_VOR-DME_CN",
+            "ident": "XMN",
+            "name": "Xiamen",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "24.54170036315918",
+            "longitude_deg": "118.12200164794922",
+            "elevation_ft": "98",
+            "iso_country": "CN",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.129",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ZSAM"
+        }
+    ]
 }

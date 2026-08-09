@@ -85,5 +85,51 @@
         "iso_country": "VE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Zulia",
         "keywords": "Airports in Zulia State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93972",
+            "filename": "Santa_Barbara_Del_Zulia_VOR-DME_VE",
+            "ident": "STB",
+            "name": "Santa Barbara Del Zulia",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "8.983610153198242",
+            "longitude_deg": "-71.93840026855469",
+            "elevation_ft": "32",
+            "iso_country": "VE",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.007",
+            "magnetic_variation_deg": "-7.491",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SVSZ"
+        },
+        {
+            "id": "93973",
+            "filename": "Santa_Barbara_Del_Zulia_NDB_VE",
+            "ident": "STB",
+            "name": "Santa Barbara Del Zulia",
+            "type": "NDB",
+            "frequency_khz": "218",
+            "latitude_deg": "8.983610153198242",
+            "longitude_deg": "-71.9386978149414",
+            "elevation_ft": "118",
+            "iso_country": "VE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.491",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SVSZ"
+        }
+    ]
 }

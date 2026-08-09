@@ -77,5 +77,51 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rabat-Sal%C3%A9-K%C3%A9nitra",
         "keywords": "الرباط-سلا-القنيطرة"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92993",
+            "filename": "Rabat_VOR-DME_MA",
+            "ident": "RBT",
+            "name": "Rabat",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "34.04999923706055",
+            "longitude_deg": "-6.746389865875244",
+            "elevation_ft": "325",
+            "iso_country": "MA",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-6.007",
+            "magnetic_variation_deg": "-3.003",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMME"
+        },
+        {
+            "id": "93430",
+            "filename": "Rabat_NDB_MA",
+            "ident": "SBI",
+            "name": "Rabat",
+            "type": "NDB",
+            "frequency_khz": "332",
+            "latitude_deg": "34.17639923095703",
+            "longitude_deg": "-6.664279937744141",
+            "elevation_ft": "",
+            "iso_country": "MA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.588",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMME"
+        }
+    ]
 }

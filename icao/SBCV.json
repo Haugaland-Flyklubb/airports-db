@@ -69,5 +69,51 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
         "keywords": "Airports in Bahia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87144",
+            "filename": "Caravelas_VOR_BR",
+            "ident": "CVL",
+            "name": "Caravelas",
+            "type": "VOR",
+            "frequency_khz": "116000",
+            "latitude_deg": "-17.648500442504883",
+            "longitude_deg": "-39.255699157714844",
+            "elevation_ft": "36",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-22.707",
+            "magnetic_variation_deg": "-23.158",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SBCV"
+        },
+        {
+            "id": "87145",
+            "filename": "Caravelas_NDB_BR",
+            "ident": "CVL",
+            "name": "Caravelas",
+            "type": "NDB",
+            "frequency_khz": "365",
+            "latitude_deg": "-17.654199600219727",
+            "longitude_deg": "-39.24980163574219",
+            "elevation_ft": "36",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-23.159",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SBCV"
+        }
+    ]
 }

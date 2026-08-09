@@ -99,5 +99,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
         "keywords": "Airports in New South Wales"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91461",
+            "filename": "Narrandera_VOR-DME_AU",
+            "ident": "NAR",
+            "name": "Narrandera",
+            "type": "VOR-DME",
+            "frequency_khz": "116300",
+            "latitude_deg": "-34.701900482177734",
+            "longitude_deg": "146.51699829101562",
+            "elevation_ft": "473",
+            "iso_country": "AU",
+            "dme_frequency_khz": "116300",
+            "dme_channel": "110X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.011",
+            "magnetic_variation_deg": "11.15",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YNAR"
+        },
+        {
+            "id": "91462",
+            "filename": "Narrandera_NDB_AU",
+            "ident": "NAR",
+            "name": "Narrandera",
+            "type": "NDB",
+            "frequency_khz": "329",
+            "latitude_deg": "-34.70709991455078",
+            "longitude_deg": "146.51300048828125",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.151",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YNAR"
+        }
+    ]
 }

@@ -85,5 +85,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Van_Province",
         "keywords": "Airports in Van Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95043",
+            "filename": "Van_VOR-DME_TR",
+            "ident": "VAN",
+            "name": "Van",
+            "type": "VOR-DME",
+            "frequency_khz": "115200",
+            "latitude_deg": "38.4651985168457",
+            "longitude_deg": "43.32509994506836",
+            "elevation_ft": "5440",
+            "iso_country": "TR",
+            "dme_frequency_khz": "115200",
+            "dme_channel": "099X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.007",
+            "magnetic_variation_deg": "4.522",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTCI"
+        },
+        {
+            "id": "95044",
+            "filename": "Van_NDB_TR",
+            "ident": "VAN",
+            "name": "Van",
+            "type": "NDB",
+            "frequency_khz": "397",
+            "latitude_deg": "38.46739959716797",
+            "longitude_deg": "43.335601806640625",
+            "elevation_ft": "5474",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.522",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LTCI"
+        }
+    ]
 }

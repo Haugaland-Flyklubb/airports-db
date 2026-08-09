@@ -85,5 +85,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85069",
+            "filename": "Mont-Laurier_NDB_CA",
+            "ident": "2Q",
+            "name": "Mont-Laurier",
+            "type": "NDB",
+            "frequency_khz": "373",
+            "latitude_deg": "46.602500915527344",
+            "longitude_deg": "-75.47059631347656",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.31",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CSD4"
+        }
+    ]
 }

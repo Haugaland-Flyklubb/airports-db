@@ -99,5 +99,51 @@
         "iso_country": "UY",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Salto_Department",
         "keywords": "Airports in Salto Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93968",
+            "filename": "Salto_NDB_UY",
+            "ident": "ST",
+            "name": "Salto",
+            "type": "NDB",
+            "frequency_khz": "410",
+            "latitude_deg": "-31.450700759887695",
+            "longitude_deg": "-57.996700286865234",
+            "elevation_ft": "",
+            "iso_country": "UY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-9.03",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SUSO"
+        },
+        {
+            "id": "94005",
+            "filename": "Salto_VOR_UY",
+            "ident": "STO",
+            "name": "Salto",
+            "type": "VOR",
+            "frequency_khz": "117900",
+            "latitude_deg": "-31.43470001220703",
+            "longitude_deg": "-57.98419952392578",
+            "elevation_ft": "187",
+            "iso_country": "UY",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-9.041",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SUSO"
+        }
+    ]
 }

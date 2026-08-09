@@ -35,5 +35,29 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Kalimantan",
         "keywords": "Kalimantan Tengah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86085",
+            "filename": "Buntok_NDB_ID",
+            "ident": "BK",
+            "name": "Buntok",
+            "type": "NDB",
+            "frequency_khz": "217",
+            "latitude_deg": "-1.6693899631500244",
+            "longitude_deg": "114.89099884033203",
+            "elevation_ft": "23",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.115",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAOU"
+        }
+    ]
 }

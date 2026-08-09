@@ -93,5 +93,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
         "keywords": "Airports in Papua"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89537",
+            "filename": "Jayapura_VOR-DME_ID",
+            "ident": "JPA",
+            "name": "Jayapura",
+            "type": "VOR-DME",
+            "frequency_khz": "116200",
+            "latitude_deg": "-2.578389",
+            "longitude_deg": "140.516667",
+            "elevation_ft": "289",
+            "iso_country": "ID",
+            "dme_frequency_khz": "116200",
+            "dme_channel": "109X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4",
+            "magnetic_variation_deg": "3.6",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WAJJ"
+        },
+        {
+            "id": "96072",
+            "filename": "Jayapura_NDB_ID",
+            "ident": "ZN",
+            "name": "Jayapura",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "-2.56823992729187",
+            "longitude_deg": "140.5070037841797",
+            "elevation_ft": "289",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.584",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WAJJ"
+        }
+    ]
 }

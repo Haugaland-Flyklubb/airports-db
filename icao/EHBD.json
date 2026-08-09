@@ -99,5 +99,29 @@
         "iso_country": "NL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Brabant",
         "keywords": "Airports in Noord-Brabant"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94345",
+            "filename": "Thorn_NDB_NL",
+            "ident": "THN",
+            "name": "Thorn",
+            "type": "NDB",
+            "frequency_khz": "434",
+            "latitude_deg": "51.18339920043945",
+            "longitude_deg": "5.833390235900879",
+            "elevation_ft": "87",
+            "iso_country": "NL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.091",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "EHBD"
+        }
+    ]
 }

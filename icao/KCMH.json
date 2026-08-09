@@ -147,5 +147,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
         "keywords": "Airports in Ohio"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86752",
+            "filename": "Grens_NDB_US",
+            "ident": "CHC",
+            "name": "Grens",
+            "type": "NDB",
+            "frequency_khz": "272",
+            "latitude_deg": "40.010101318359375",
+            "longitude_deg": "-83.02899932861328",
+            "elevation_ft": "751",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.305",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KCMH"
+        },
+        {
+            "id": "86868",
+            "filename": "Sumie_NDB_US",
+            "ident": "CM",
+            "name": "Sumie",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "39.98619842529297",
+            "longitude_deg": "-82.75450134277344",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.434",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KCMH"
+        }
+    ]
 }

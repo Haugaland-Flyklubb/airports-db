@@ -85,5 +85,51 @@
         "iso_country": "DE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
         "keywords": "Bayern"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88952",
+            "filename": "Hof_DME_DE",
+            "ident": "HOD",
+            "name": "Hof",
+            "type": "DME",
+            "frequency_khz": "110700",
+            "latitude_deg": "50.289798736572266",
+            "longitude_deg": "11.855199813842773",
+            "elevation_ft": "1946",
+            "iso_country": "DE",
+            "dme_frequency_khz": "110700",
+            "dme_channel": "044X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.429",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EDQM"
+        },
+        {
+            "id": "88954",
+            "filename": "Hof_NDB_DE",
+            "ident": "HOF",
+            "name": "Hof",
+            "type": "NDB",
+            "frequency_khz": "484",
+            "latitude_deg": "50.28459930419922",
+            "longitude_deg": "11.76140022277832",
+            "elevation_ft": "",
+            "iso_country": "DE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.414",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EDQM"
+        }
+    ]
 }

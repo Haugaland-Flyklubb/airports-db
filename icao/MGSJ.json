@@ -69,5 +69,51 @@
         "iso_country": "GT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Escuintla_Department",
         "keywords": "Airports in Escuintla Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93549",
+            "filename": "San_Jose_NDB_GT",
+            "ident": "SGA",
+            "name": "San Jose",
+            "type": "NDB",
+            "frequency_khz": "425",
+            "latitude_deg": "13.933699607849121",
+            "longitude_deg": "-90.86139678955078",
+            "elevation_ft": "",
+            "iso_country": "GT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.52",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "MGSJ"
+        },
+        {
+            "id": "93656",
+            "filename": "San_Jose_VOR-DME_GT",
+            "ident": "SJO",
+            "name": "San Jose",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "13.9350004196167",
+            "longitude_deg": "-90.85169982910156",
+            "elevation_ft": "46",
+            "iso_country": "GT",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "2.517",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MGSJ"
+        }
+    ]
 }

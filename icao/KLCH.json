@@ -147,5 +147,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
         "keywords": "Airports in Louisiana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90223",
+            "filename": "Keyli_NDB_US",
+            "ident": "LC",
+            "name": "Keyli",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "30.193099975585938",
+            "longitude_deg": "-93.26309967041016",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.351",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KLCH"
+        },
+        {
+            "id": "90233",
+            "filename": "Lake_Charles_VORTAC_US",
+            "ident": "LCH",
+            "name": "Lake Charles",
+            "type": "VORTAC",
+            "frequency_khz": "113400",
+            "latitude_deg": "30.14150047302246",
+            "longitude_deg": "-93.10559844970703",
+            "elevation_ft": "20",
+            "iso_country": "US",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.001",
+            "magnetic_variation_deg": "2.293",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KLCH"
+        }
+    ]
 }

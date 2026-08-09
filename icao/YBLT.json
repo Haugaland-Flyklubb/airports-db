@@ -121,5 +121,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
         "keywords": "Victorian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86162",
+            "filename": "Ballarat_NDB_AU",
+            "ident": "BLT",
+            "name": "Ballarat",
+            "type": "NDB",
+            "frequency_khz": "239",
+            "latitude_deg": "-37.51359939575195",
+            "longitude_deg": "143.79100036621094",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "11.01",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YBLT"
+        }
+    ]
 }

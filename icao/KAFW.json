@@ -131,5 +131,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88195",
+            "filename": "Ranger_VORTAC_US",
+            "ident": "FUZ",
+            "name": "Ranger",
+            "type": "VORTAC",
+            "frequency_khz": "115700",
+            "latitude_deg": "32.88949966430664",
+            "longitude_deg": "-97.17939758300781",
+            "elevation_ft": "637",
+            "iso_country": "US",
+            "dme_frequency_khz": "115700",
+            "dme_channel": "104X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "6.01",
+            "magnetic_variation_deg": "4.536",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KAFW"
+        }
+    ]
 }

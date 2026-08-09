@@ -125,5 +125,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90791",
+            "filename": "Macdill_TACAN_US",
+            "ident": "MCF",
+            "name": "Macdill",
+            "type": "TACAN",
+            "frequency_khz": "111000",
+            "latitude_deg": "27.8612003326416",
+            "longitude_deg": "-82.51349639892578",
+            "elevation_ft": "14",
+            "iso_country": "US",
+            "dme_frequency_khz": "111000",
+            "dme_channel": "047X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.001",
+            "magnetic_variation_deg": "-4.211",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KMCF"
+        }
+    ]
 }

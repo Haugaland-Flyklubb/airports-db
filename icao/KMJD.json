@@ -85,5 +85,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90990",
+            "filename": "Picayune_NDB_US",
+            "ident": "MJD",
+            "name": "Picayune",
+            "type": "NDB",
+            "frequency_khz": "276",
+            "latitude_deg": "30.494699478149414",
+            "longitude_deg": "-89.6530990600586",
+            "elevation_ft": "54",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.109",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KMJD"
+        }
+    ]
 }

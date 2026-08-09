@@ -93,5 +93,29 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manabi_Province",
         "keywords": "Airports in Manabi Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91136",
+            "filename": "Manta_VOR-DME_EC",
+            "ident": "MNV",
+            "name": "Manta",
+            "type": "VOR-DME",
+            "frequency_khz": "113900",
+            "latitude_deg": "-0.9347220063209534",
+            "longitude_deg": "-80.66190338134766",
+            "elevation_ft": "58",
+            "iso_country": "EC",
+            "dme_frequency_khz": "113900",
+            "dme_channel": "086X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "-0.072",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SEMT"
+        }
+    ]
 }

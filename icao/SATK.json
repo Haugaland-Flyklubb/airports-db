@@ -35,5 +35,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Formosa_Province",
         "keywords": "Airports in Formosa Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89361",
+            "filename": "Las_Lomitas_VOR_AR",
+            "ident": "ITA",
+            "name": "Las Lomitas",
+            "type": "VOR",
+            "frequency_khz": "112200",
+            "latitude_deg": "-24.736099243164062",
+            "longitude_deg": "-60.54389953613281",
+            "elevation_ft": "426",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-8.007",
+            "magnetic_variation_deg": "-9.392",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SATK"
+        }
+    ]
 }

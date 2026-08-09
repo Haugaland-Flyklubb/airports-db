@@ -85,5 +85,29 @@
         "iso_country": "KR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Gyeongsang_Province",
         "keywords": "Airports in Gyeongsangnam-do"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91757",
+            "filename": "Jinhae_TACAN_KR",
+            "ident": "NUE",
+            "name": "Jinhae",
+            "type": "TACAN",
+            "frequency_khz": "135500",
+            "latitude_deg": "35.13560104370117",
+            "longitude_deg": "128.697998046875",
+            "elevation_ft": "8",
+            "iso_country": "KR",
+            "dme_frequency_khz": "135500",
+            "dme_channel": "012X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.118",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "RKPE"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas_(Brazilian_state)",
         "keywords": "Airports in Amazonas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94240",
+            "filename": "Tabatinga_NDB_BR",
+            "ident": "TBT",
+            "name": "Tabatinga",
+            "type": "NDB",
+            "frequency_khz": "230",
+            "latitude_deg": "-4.249330043792725",
+            "longitude_deg": "-69.93620300292969",
+            "elevation_ft": "265",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.049",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBTT"
+        }
+    ]
 }

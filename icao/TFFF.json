@@ -93,5 +93,51 @@
         "iso_country": "MQ",
         "wikipedia_link": "",
         "keywords": "Airports in (unassigned)"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88097",
+            "filename": "Fort_De_France_VOR-DME_MQ",
+            "ident": "FOF",
+            "name": "Fort De France",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "14.590700149536133",
+            "longitude_deg": "-61.02280044555664",
+            "elevation_ft": "39",
+            "iso_country": "MQ",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-13.007",
+            "magnetic_variation_deg": "-14.359",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "TFFF"
+        },
+        {
+            "id": "88098",
+            "filename": "Fort_De_France_NDB_MQ",
+            "ident": "FOF",
+            "name": "Fort De France",
+            "type": "NDB",
+            "frequency_khz": "329",
+            "latitude_deg": "14.589099884033203",
+            "longitude_deg": "-61.00130081176758",
+            "elevation_ft": "",
+            "iso_country": "MQ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-14.364",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "TFFF"
+        }
+    ]
 }

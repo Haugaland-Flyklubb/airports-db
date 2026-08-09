@@ -69,5 +69,29 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Vestland",
         "keywords": "Airports in Vestland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93976",
+            "filename": "Stord_VOR-DME_NO",
+            "ident": "STD",
+            "name": "Stord",
+            "type": "VOR-DME",
+            "frequency_khz": "113400",
+            "latitude_deg": "59.78730010986328",
+            "longitude_deg": "5.344339847564697",
+            "elevation_ft": "222",
+            "iso_country": "NO",
+            "dme_frequency_khz": "113400",
+            "dme_channel": "081X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.001",
+            "magnetic_variation_deg": "-1.116",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ENSO"
+        }
+    ]
 }

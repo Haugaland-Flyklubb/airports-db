@@ -123,5 +123,51 @@
         "iso_country": "BE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Walloon_Brabant",
         "keywords": "Wallonia, Walloon Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85840",
+            "filename": "Beauvechain_TACAN_BE",
+            "ident": "BBE",
+            "name": "Beauvechain",
+            "type": "TACAN",
+            "frequency_khz": "116000",
+            "latitude_deg": "50.75640106201172",
+            "longitude_deg": "4.768060207366943",
+            "elevation_ft": "370",
+            "iso_country": "BE",
+            "dme_frequency_khz": "116000",
+            "dme_channel": "107X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.281",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EBBE"
+        },
+        {
+            "id": "89043",
+            "filename": "Huldenberg_VOR-DME_BE",
+            "ident": "HUL",
+            "name": "Huldenberg",
+            "type": "VOR-DME",
+            "frequency_khz": "117550",
+            "latitude_deg": "50.7494010925293",
+            "longitude_deg": "4.641670227050781",
+            "elevation_ft": "335",
+            "iso_country": "BE",
+            "dme_frequency_khz": "117550",
+            "dme_channel": "122Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-0.306",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EBBE"
+        }
+    ]
 }

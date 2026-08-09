@@ -77,5 +77,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87912",
+            "filename": "Georgian_Bay_NDB_CA",
+            "ident": "F7",
+            "name": "Georgian Bay",
+            "type": "NDB",
+            "frequency_khz": "353",
+            "latitude_deg": "45.26890182495117",
+            "longitude_deg": "-79.83670043945312",
+            "elevation_ft": "832",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-10.448",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CNK4"
+        }
+    ]
 }

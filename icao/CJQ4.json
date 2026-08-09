@@ -91,5 +91,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
         "keywords": "Airports in Saskatchewan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89617",
+            "filename": "Maple_Creek_NDB_CA",
+            "ident": "K5",
+            "name": "Maple Creek",
+            "type": "NDB",
+            "frequency_khz": "238",
+            "latitude_deg": "49.89690017700195",
+            "longitude_deg": "-109.48400115966797",
+            "elevation_ft": "2517",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.375",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CJQ4"
+        }
+    ]
 }

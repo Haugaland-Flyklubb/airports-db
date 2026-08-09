@@ -59,5 +59,29 @@
         "iso_country": "CM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/East_Province_%28Cameroon%29",
         "keywords": "Airports in East Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94383",
+            "filename": "Batouri_NDB_CM",
+            "ident": "TJI",
+            "name": "Batouri",
+            "type": "NDB",
+            "frequency_khz": "276",
+            "latitude_deg": "4.471519947052002",
+            "longitude_deg": "14.362700462341309",
+            "elevation_ft": "2224",
+            "iso_country": "CM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.224",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FKKI"
+        }
+    ]
 }

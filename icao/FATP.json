@@ -91,5 +91,29 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Free_State_(province)",
         "keywords": "Airports in Free State"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86388",
+            "filename": "New_Tempe_NDB_ZA",
+            "ident": "BTF",
+            "name": "New Tempe",
+            "type": "NDB",
+            "frequency_khz": "519",
+            "latitude_deg": "-29.036100387573242",
+            "longitude_deg": "26.15559959411621",
+            "elevation_ft": "",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-21.018",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FATP"
+        }
+    ]
 }

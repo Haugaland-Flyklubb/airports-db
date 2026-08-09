@@ -77,5 +77,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92251",
+            "filename": "Port_Augusta_NDB_AU",
+            "ident": "PAG",
+            "name": "Port Augusta",
+            "type": "NDB",
+            "frequency_khz": "212",
+            "latitude_deg": "-32.52640151977539",
+            "longitude_deg": "137.7010040283203",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.233",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YPAG"
+        }
+    ]
 }

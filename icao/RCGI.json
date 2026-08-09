@@ -69,5 +69,51 @@
         "iso_country": "TW",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Taitung_County",
         "keywords": "Airports in Taitung County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88406",
+            "filename": "Lyudao_NDB_TW",
+            "ident": "GI",
+            "name": "Lyudao",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "22.67609977722168",
+            "longitude_deg": "121.48300170898438",
+            "elevation_ft": "",
+            "iso_country": "TW",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.082",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "RCGI"
+        },
+        {
+            "id": "88409",
+            "filename": "Lyudao_VORTAC_TW",
+            "ident": "GID",
+            "name": "Lyudao",
+            "type": "VORTAC",
+            "frequency_khz": "116900",
+            "latitude_deg": "22.672800064086914",
+            "longitude_deg": "121.48600006103516",
+            "elevation_ft": "650",
+            "iso_country": "TW",
+            "dme_frequency_khz": "116900",
+            "dme_channel": "116X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-3.081",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RCGI"
+        }
+    ]
 }

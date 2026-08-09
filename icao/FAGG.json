@@ -85,5 +85,51 @@
         "iso_country": "ZA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Cape",
         "keywords": "Airports in Western Cape"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88367",
+            "filename": "George_NDB_ZA",
+            "ident": "GG",
+            "name": "George",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "-34.00199890136719",
+            "longitude_deg": "22.485599517822266",
+            "elevation_ft": "671",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-25.234",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FAGG"
+        },
+        {
+            "id": "88386",
+            "filename": "George_VOR-DME_ZA",
+            "ident": "GGV",
+            "name": "George",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "-34.007301330566406",
+            "longitude_deg": "22.377599716186523",
+            "elevation_ft": "632",
+            "iso_country": "ZA",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-22.007",
+            "magnetic_variation_deg": "-25.256",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FAGG"
+        }
+    ]
 }

@@ -161,5 +161,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Montana",
         "keywords": "Airports in Montana"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86042",
+            "filename": "Saige_NDB_US",
+            "ident": "BI",
+            "name": "Saige",
+            "type": "NDB",
+            "frequency_khz": "251",
+            "latitude_deg": "45.85219955444336",
+            "longitude_deg": "-108.69499969482422",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.236",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KBIL"
+        },
+        {
+            "id": "86055",
+            "filename": "Billings_VORTAC_US",
+            "ident": "BIL",
+            "name": "Billings",
+            "type": "VORTAC",
+            "frequency_khz": "114500",
+            "latitude_deg": "45.80860137939453",
+            "longitude_deg": "-108.625",
+            "elevation_ft": "3808",
+            "iso_country": "US",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "14.001",
+            "magnetic_variation_deg": "12.207",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KBIL"
+        }
+    ]
 }

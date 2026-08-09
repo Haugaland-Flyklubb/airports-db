@@ -77,5 +77,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hyogo",
         "keywords": "Kansai, 兵庫県の飛行場"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94342",
+            "filename": "Tajima_VOR-DME_JP",
+            "ident": "THE",
+            "name": "Tajima",
+            "type": "VOR-DME",
+            "frequency_khz": "110450",
+            "latitude_deg": "35.518001556396484",
+            "longitude_deg": "134.79100036621094",
+            "elevation_ft": "689",
+            "iso_country": "JP",
+            "dme_frequency_khz": "110450",
+            "dme_channel": "041Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-7.011",
+            "magnetic_variation_deg": "-7.212",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJBT"
+        }
+    ]
 }

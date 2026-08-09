@@ -77,5 +77,29 @@
         "iso_country": "LK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Province,_Sri_Lanka",
         "keywords": "Negenahira Palata"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86751",
+            "filename": "China_Bay_NDB_LK",
+            "ident": "CHB",
+            "name": "China Bay",
+            "type": "NDB",
+            "frequency_khz": "280",
+            "latitude_deg": "8.533559799194336",
+            "longitude_deg": "81.185302734375",
+            "elevation_ft": "",
+            "iso_country": "LK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.236",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VCCT"
+        }
+    ]
 }

@@ -99,5 +99,29 @@
         "iso_country": "BO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oruro_Department",
         "keywords": "Airports in Oruro Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92103",
+            "filename": "Oruro_NDB_BO",
+            "ident": "ORU",
+            "name": "Oruro",
+            "type": "NDB",
+            "frequency_khz": "420",
+            "latitude_deg": "-17.953800201416016",
+            "longitude_deg": "-67.09159851074219",
+            "elevation_ft": "12146",
+            "iso_country": "BO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.116",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "SLOR"
+        }
+    ]
 }

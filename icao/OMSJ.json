@@ -93,5 +93,29 @@
         "iso_country": "AE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Sharjah_(emirate)",
         "keywords": "Ash Shāriqah"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93583",
+            "filename": "Sharjah_VOR-DME_AE",
+            "ident": "SHJ",
+            "name": "Sharjah",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "25.330299377441406",
+            "longitude_deg": "55.520599365234375",
+            "elevation_ft": "130",
+            "iso_country": "AE",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "1.007",
+            "magnetic_variation_deg": "1.309",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OMSJ"
+        }
+    ]
 }

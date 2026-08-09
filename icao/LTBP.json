@@ -91,5 +91,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Yalova_Province",
         "keywords": "Airports in Yalova Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95605",
+            "filename": "Yalova_VOR-DME_TR",
+            "ident": "YAA",
+            "name": "Yalova",
+            "type": "VOR-DME",
+            "frequency_khz": "117700",
+            "latitude_deg": "40.474998474121094",
+            "longitude_deg": "29.207500457763672",
+            "elevation_ft": "2857",
+            "iso_country": "TR",
+            "dme_frequency_khz": "117700",
+            "dme_channel": "124X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "4.133",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTBP"
+        },
+        {
+            "id": "95606",
+            "filename": "Yalova_NDB_TR",
+            "ident": "YAA",
+            "name": "Yalova",
+            "type": "NDB",
+            "frequency_khz": "305",
+            "latitude_deg": "40.564701080322266",
+            "longitude_deg": "29.371700286865234",
+            "elevation_ft": "",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.152",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LTBP"
+        }
+    ]
 }

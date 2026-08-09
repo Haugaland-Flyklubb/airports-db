@@ -77,5 +77,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91095",
+            "filename": "Marks_NDB_US",
+            "ident": "MMS",
+            "name": "Marks",
+            "type": "NDB",
+            "frequency_khz": "391",
+            "latitude_deg": "34.233001708984375",
+            "longitude_deg": "-90.28980255126953",
+            "elevation_ft": "160",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.125",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KPMU"
+        }
+    ]
 }

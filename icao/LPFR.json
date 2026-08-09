@@ -93,5 +93,51 @@
         "iso_country": "PT",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Faro_District",
         "keywords": "Airports in Faro District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87933",
+            "filename": "Faro_NDB_PT",
+            "ident": "FAR",
+            "name": "Faro",
+            "type": "NDB",
+            "frequency_khz": "332",
+            "latitude_deg": "37.00870132446289",
+            "longitude_deg": "-7.925930023193359",
+            "elevation_ft": "",
+            "iso_country": "PT",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.283",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LPFR"
+        },
+        {
+            "id": "95099",
+            "filename": "Faro_VOR-DME_PT",
+            "ident": "VFA",
+            "name": "Faro",
+            "type": "VOR-DME",
+            "frequency_khz": "112800",
+            "latitude_deg": "37.01350021362305",
+            "longitude_deg": "-7.975009918212891",
+            "elevation_ft": "50",
+            "iso_country": "PT",
+            "dme_frequency_khz": "112800",
+            "dme_channel": "075X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.007",
+            "magnetic_variation_deg": "-3.293",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LPFR"
+        }
+    ]
 }

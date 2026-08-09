@@ -69,5 +69,51 @@
         "iso_country": "MA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tanger-Tetouan-Al_Hoceima",
         "keywords": "طنجة - تطوان - الحسيمة"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85414",
+            "filename": "Al_Hoceima_VOR-DME_MA",
+            "ident": "ALM",
+            "name": "Al Hoceima",
+            "type": "VOR-DME",
+            "frequency_khz": "115000",
+            "latitude_deg": "35.19110107421875",
+            "longitude_deg": "-3.8417301177978516",
+            "elevation_ft": "46",
+            "iso_country": "MA",
+            "dme_frequency_khz": "115000",
+            "dme_channel": "097X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-2.05",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMTA"
+        },
+        {
+            "id": "85425",
+            "filename": "Al_Hoceima_NDB_MA",
+            "ident": "ALU",
+            "name": "Al Hoceima",
+            "type": "NDB",
+            "frequency_khz": "401",
+            "latitude_deg": "35.18119812011719",
+            "longitude_deg": "-3.844559907913208",
+            "elevation_ft": "",
+            "iso_country": "MA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.05",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "GMTA"
+        }
+    ]
 }

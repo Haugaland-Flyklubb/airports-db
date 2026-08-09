@@ -99,5 +99,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Coahuila",
         "keywords": "Airports in Coahuila"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94579",
+            "filename": "Torreon_VOR-DME_MX",
+            "ident": "TRC",
+            "name": "Torreon",
+            "type": "VOR-DME",
+            "frequency_khz": "116400",
+            "latitude_deg": "25.56399917602539",
+            "longitude_deg": "-103.40799713134766",
+            "elevation_ft": "3688",
+            "iso_country": "MX",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.002",
+            "magnetic_variation_deg": "7.424",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMTC"
+        }
+    ]
 }

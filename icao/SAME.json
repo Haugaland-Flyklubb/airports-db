@@ -93,5 +93,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mendoza_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "87496",
+            "filename": "Mendoza_VOR-DME_AR",
+            "ident": "DOZ",
+            "name": "Mendoza",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "-32.83190155029297",
+            "longitude_deg": "-68.79080200195312",
+            "elevation_ft": "2306",
+            "iso_country": "AR",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "1.304",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAME"
+        }
+    ]
 }

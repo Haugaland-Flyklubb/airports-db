@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85114",
+            "filename": "Drumheller_NDB-DME_CA",
+            "ident": "5V",
+            "name": "Drumheller",
+            "type": "NDB-DME",
+            "frequency_khz": "395",
+            "latitude_deg": "51.502498626708984",
+            "longitude_deg": "-112.7509994506836",
+            "elevation_ft": "2625",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110000",
+            "dme_channel": "037X",
+            "dme_latitude_deg": "51.5017",
+            "dme_longitude_deg": "-112.751",
+            "dme_elevation_ft": "2625",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "15.463",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "CEG4"
+        }
+    ]
 }

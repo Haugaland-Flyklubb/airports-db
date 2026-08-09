@@ -91,5 +91,51 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/La_Pampa_Province",
         "keywords": "Airports in La Pampa Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88522",
+            "filename": "General_Pico_VOR_AR",
+            "ident": "GPI",
+            "name": "General Pico",
+            "type": "VOR",
+            "frequency_khz": "112200",
+            "latitude_deg": "-35.69279861450195",
+            "longitude_deg": "-63.75080108642578",
+            "elevation_ft": "459",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-1.368",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAZG"
+        },
+        {
+            "id": "88523",
+            "filename": "General_Pico_NDB_AR",
+            "ident": "GPI",
+            "name": "General Pico",
+            "type": "NDB",
+            "frequency_khz": "286",
+            "latitude_deg": "-35.6875",
+            "longitude_deg": "-63.75809860229492",
+            "elevation_ft": "456",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.36",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAZG"
+        }
+    ]
 }

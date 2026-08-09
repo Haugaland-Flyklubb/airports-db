@@ -85,5 +85,29 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eskişehir_Province",
         "keywords": "Airports in Eskişehir Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94133",
+            "filename": "Sivrihisar_TACAN_TR",
+            "ident": "SYT",
+            "name": "Sivrihisar",
+            "type": "TACAN",
+            "frequency_khz": "109200",
+            "latitude_deg": "39.445899963378906",
+            "longitude_deg": "31.374099731445312",
+            "elevation_ft": "3172",
+            "iso_country": "TR",
+            "dme_frequency_khz": "109200",
+            "dme_channel": "029X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.193",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LTAV"
+        }
+    ]
 }

@@ -113,5 +113,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
         "keywords": "Scottish airports, Puirt-adhair Albannach"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86331",
+            "filename": "Barra_NDB_GB",
+            "ident": "BRR",
+            "name": "Barra",
+            "type": "NDB",
+            "frequency_khz": "316",
+            "latitude_deg": "57.02560043334961",
+            "longitude_deg": "-7.448919773101807",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.348",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "EGPR"
+        }
+    ]
 }

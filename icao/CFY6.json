@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94687",
+            "filename": "Turner_Valley_NDB_CA",
+            "ident": "TV",
+            "name": "Turner Valley",
+            "type": "NDB",
+            "frequency_khz": "299",
+            "latitude_deg": "50.75",
+            "longitude_deg": "-114.36900329589844",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.173",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CFY6"
+        }
+    ]
 }

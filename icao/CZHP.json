@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85070",
+            "filename": "High_Prairie_NDB-DME_CA",
+            "ident": "2S",
+            "name": "High Prairie",
+            "type": "NDB-DME",
+            "frequency_khz": "406",
+            "latitude_deg": "55.395599365234375",
+            "longitude_deg": "-116.48400115966797",
+            "elevation_ft": "2005",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110200",
+            "dme_channel": "039X",
+            "dme_latitude_deg": "55.3958",
+            "dme_longitude_deg": "-116.482",
+            "dme_elevation_ft": "2005",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.511",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CZHP"
+        }
+    ]
 }

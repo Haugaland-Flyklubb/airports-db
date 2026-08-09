@@ -69,5 +69,29 @@
         "iso_country": "ZM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Copperbelt_Province",
         "keywords": "Airports in Copperbelt Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90024",
+            "filename": "Southdowns_NDB_ZM",
+            "ident": "KT",
+            "name": "Southdowns",
+            "type": "NDB",
+            "frequency_khz": "394",
+            "latitude_deg": "-12.901599884033203",
+            "longitude_deg": "28.149900436401367",
+            "elevation_ft": "",
+            "iso_country": "ZM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-4.085",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "FLSO"
+        }
+    ]
 }

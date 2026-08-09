@@ -59,5 +59,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tocantins",
         "keywords": "Airports in Tocatins"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85307",
+            "filename": "Araguaina_NDB_BR",
+            "ident": "AGI",
+            "name": "Araguaina",
+            "type": "NDB",
+            "frequency_khz": "205",
+            "latitude_deg": "-7.233500003814697",
+            "longitude_deg": "-48.23899841308594",
+            "elevation_ft": "771",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.13",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SWGN"
+        }
+    ]
 }

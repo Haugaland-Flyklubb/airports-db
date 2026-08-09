@@ -123,5 +123,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
         "keywords": "Airports in Arkansas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89451",
+            "filename": "Jonesboro_VOR-DME_US",
+            "ident": "JBR",
+            "name": "Jonesboro",
+            "type": "VOR-DME",
+            "frequency_khz": "108600",
+            "latitude_deg": "35.874900817871094",
+            "longitude_deg": "-90.5885009765625",
+            "elevation_ft": "247",
+            "iso_country": "US",
+            "dme_frequency_khz": "108600",
+            "dme_channel": "023X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.001",
+            "magnetic_variation_deg": "0.144",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KJBR"
+        }
+    ]
 }

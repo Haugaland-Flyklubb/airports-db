@@ -101,5 +101,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Caquetá_Department",
         "keywords": "Airports in Caquetá Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94560",
+            "filename": "Tres_Esquinas_VOR-DME_CO",
+            "ident": "TQS",
+            "name": "Tres Esquinas",
+            "type": "VOR-DME",
+            "frequency_khz": "114200",
+            "latitude_deg": "0.7420420050621033",
+            "longitude_deg": "-75.2333984375",
+            "elevation_ft": "675",
+            "iso_country": "CO",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-2.007",
+            "magnetic_variation_deg": "-4.075",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SKTQ"
+        }
+    ]
 }

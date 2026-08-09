@@ -107,5 +107,51 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87127",
+            "filename": "Charleville_VOR_AU",
+            "ident": "CV",
+            "name": "Charleville",
+            "type": "VOR",
+            "frequency_khz": "114300",
+            "latitude_deg": "-26.421100616455078",
+            "longitude_deg": "146.26600646972656",
+            "elevation_ft": "1003",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "9.011",
+            "magnetic_variation_deg": "9.002",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "YBCV"
+        },
+        {
+            "id": "87129",
+            "filename": "Charleville_NDB_AU",
+            "ident": "CV",
+            "name": "Charleville",
+            "type": "NDB",
+            "frequency_khz": "269",
+            "latitude_deg": "-26.420000076293945",
+            "longitude_deg": "146.24899291992188",
+            "elevation_ft": "1003",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.599",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YBCV"
+        }
+    ]
 }

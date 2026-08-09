@@ -69,5 +69,29 @@
         "iso_country": "KH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Kampong_Chhnang_province",
         "keywords": "Airports in Kampong Chhnang, ខេត្តកំពង់ឆ្នាំង"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89699",
+            "filename": "Kampong_Chhnang_NDB_KH",
+            "ident": "KCW",
+            "name": "Kampong Chhnang",
+            "type": "NDB",
+            "frequency_khz": "297",
+            "latitude_deg": "12.241000175476074",
+            "longitude_deg": "104.56300354003906",
+            "elevation_ft": "",
+            "iso_country": "KH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.223",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VDKH"
+        }
+    ]
 }

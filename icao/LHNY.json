@@ -91,5 +91,51 @@
         "iso_country": "HU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Szabolcs-Szatmár-Bereg_County",
         "keywords": "Airports in Szabolcs-Szatmár-Bereg County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91800",
+            "filename": "Nyiregyhaza_VOR_HU",
+            "ident": "NYR",
+            "name": "Nyiregyhaza",
+            "type": "VOR",
+            "frequency_khz": "116100",
+            "latitude_deg": "47.9911994934082",
+            "longitude_deg": "21.69260025024414",
+            "elevation_ft": "338",
+            "iso_country": "HU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.591",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "LHNY"
+        },
+        {
+            "id": "95599",
+            "filename": "Nyiregyhaza_NDB_HU",
+            "ident": "Y",
+            "name": "Nyiregyhaza",
+            "type": "NDB",
+            "frequency_khz": "346",
+            "latitude_deg": "47.968101501464844",
+            "longitude_deg": "21.692899703979492",
+            "elevation_ft": "",
+            "iso_country": "HU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.578",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LHNY"
+        }
+    ]
 }

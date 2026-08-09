@@ -85,5 +85,51 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Los_Lagos_Region",
         "keywords": "Airports in Los Lagos Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92122",
+            "filename": "Osorno_VOR-DME_CL",
+            "ident": "OSO",
+            "name": "Osorno",
+            "type": "VOR-DME",
+            "frequency_khz": "116500",
+            "latitude_deg": "-40.61579895019531",
+            "longitude_deg": "-73.05609893798828",
+            "elevation_ft": "177",
+            "iso_country": "CL",
+            "dme_frequency_khz": "116500",
+            "dme_channel": "112X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.192",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SCJO"
+        },
+        {
+            "id": "92123",
+            "filename": "Osorno_NDB_CL",
+            "ident": "OSO",
+            "name": "Osorno",
+            "type": "NDB",
+            "frequency_khz": "225",
+            "latitude_deg": "-40.631099700927734",
+            "longitude_deg": "-73.04859924316406",
+            "elevation_ft": "",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "9.193",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SCJO"
+        }
+    ]
 }

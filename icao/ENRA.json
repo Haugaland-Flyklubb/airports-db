@@ -59,5 +59,29 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nordland",
         "keywords": "Airports in Nordland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93999",
+            "filename": "Strommen_NDB_NO",
+            "ident": "STM",
+            "name": "Strommen",
+            "type": "NDB",
+            "frequency_khz": "345",
+            "latitude_deg": "66.29019927978516",
+            "longitude_deg": "13.768799781799316",
+            "elevation_ft": "100",
+            "iso_country": "NO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.517",
+            "usageType": "RNAV",
+            "power": "LOW",
+            "associated_airport": "ENRA"
+        }
+    ]
 }

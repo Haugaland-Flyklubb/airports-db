@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95718",
+            "filename": "Kangiqsujuaq_NDB_CA",
+            "ident": "YKG",
+            "name": "Kangiqsujuaq",
+            "type": "NDB",
+            "frequency_khz": "358",
+            "latitude_deg": "61.5906982421875",
+            "longitude_deg": "-71.92859649658203",
+            "elevation_ft": "511",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-28.245",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYKG"
+        }
+    ]
 }

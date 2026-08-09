@@ -107,5 +107,51 @@
         "iso_country": "OM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Dhofar_Governorate",
         "keywords": "الداخلية‎"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93382",
+            "filename": "Salalah_NDB_OM",
+            "ident": "SAN",
+            "name": "Salalah",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "17.028499603271484",
+            "longitude_deg": "54.08580017089844",
+            "elevation_ft": "74",
+            "iso_country": "OM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.238",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OOSA"
+        },
+        {
+            "id": "93730",
+            "filename": "Salalah_VOR-DME_OM",
+            "ident": "SLL",
+            "name": "Salalah",
+            "type": "VOR-DME",
+            "frequency_khz": "112300",
+            "latitude_deg": "17.04439926147461",
+            "longitude_deg": "54.094200134277344",
+            "elevation_ft": "111",
+            "iso_country": "OM",
+            "dme_frequency_khz": "112300",
+            "dme_channel": "070X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.247",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OOSA"
+        }
+    ]
 }

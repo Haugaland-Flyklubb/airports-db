@@ -77,5 +77,29 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Aklan_Province",
         "keywords": "Airports in Aklan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87074",
+            "filename": "Caticlan_NDB_PH",
+            "ident": "CT",
+            "name": "Caticlan",
+            "type": "NDB",
+            "frequency_khz": "379",
+            "latitude_deg": "11.925000190734863",
+            "longitude_deg": "121.95800018310547",
+            "elevation_ft": "",
+            "iso_country": "PH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.484",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPVE"
+        }
+    ]
 }

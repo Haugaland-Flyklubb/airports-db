@@ -77,5 +77,29 @@
         "iso_country": "CF",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ombella-M%27Poko",
         "keywords": "Airports in Ombella-M'Poko"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91203",
+            "filename": "Bangui_M_Poko_VOR-DME_CF",
+            "ident": "MPK",
+            "name": "Bangui M Poko",
+            "type": "VOR-DME",
+            "frequency_khz": "117300",
+            "latitude_deg": "4.376140117645264",
+            "longitude_deg": "18.525400161743164",
+            "elevation_ft": "1208",
+            "iso_country": "CF",
+            "dme_frequency_khz": "117300",
+            "dme_channel": "120X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.292",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FEFF"
+        }
+    ]
 }

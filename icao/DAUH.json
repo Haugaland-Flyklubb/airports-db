@@ -107,5 +107,51 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ouargla_Province",
         "keywords": "Airports in Ouargla Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88906",
+            "filename": "Hassi_Messaoud_NDB_DZ",
+            "ident": "HMD",
+            "name": "Hassi Messaoud",
+            "type": "NDB",
+            "frequency_khz": "390",
+            "latitude_deg": "31.648799896240234",
+            "longitude_deg": "6.138289928436279",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.162",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "DAUH"
+        },
+        {
+            "id": "88907",
+            "filename": "Hassi_Messaoud_VOR-DME_DZ",
+            "ident": "HME",
+            "name": "Hassi Messaoud",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "31.6643009185791",
+            "longitude_deg": "6.1361799240112305",
+            "elevation_ft": "463",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.162",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAUH"
+        }
+    ]
 }

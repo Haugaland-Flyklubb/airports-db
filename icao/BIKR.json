@@ -59,5 +59,51 @@
         "iso_country": "IS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northwestern_Region_(Iceland)",
         "keywords": "Norðurland vestra"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88778",
+            "filename": "Hegranes_NDB_IS",
+            "ident": "HE",
+            "name": "Hegranes",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "65.75080108642578",
+            "longitude_deg": "-19.51919937133789",
+            "elevation_ft": "",
+            "iso_country": "IS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.335",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "BIKR"
+        },
+        {
+            "id": "90127",
+            "filename": "Langholt_NDB_IS",
+            "ident": "LA",
+            "name": "Langholt",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "65.57669830322266",
+            "longitude_deg": "-19.488300323486328",
+            "elevation_ft": "",
+            "iso_country": "IS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.271",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "BIKR"
+        }
+    ]
 }

@@ -93,5 +93,51 @@
         "iso_country": "PA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chiriquí_Province",
         "keywords": "Airports in Chiriquí Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87279",
+            "filename": "David_VOR-DME_PA",
+            "ident": "DAV",
+            "name": "David",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "8.38696002960205",
+            "longitude_deg": "-82.4375991821289",
+            "elevation_ft": "89",
+            "iso_country": "PA",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.507",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MPDA"
+        },
+        {
+            "id": "87280",
+            "filename": "David_NDB_PA",
+            "ident": "DAV",
+            "name": "David",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "8.390999794006348",
+            "longitude_deg": "-82.4280014038086",
+            "elevation_ft": "120",
+            "iso_country": "PA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.511",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MPDA"
+        }
+    ]
 }

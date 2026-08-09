@@ -69,5 +69,29 @@
         "iso_country": "BR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
         "keywords": "Airports in Minas Gerais"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95113",
+            "filename": "Varginha_NDB_BR",
+            "ident": "VGH",
+            "name": "Varginha",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "-21.588199615478516",
+            "longitude_deg": "-45.474300384521484",
+            "elevation_ft": "3028",
+            "iso_country": "BR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.482",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SBVG"
+        }
+    ]
 }

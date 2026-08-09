@@ -107,5 +107,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89105",
+            "filename": "Bromont_DME_CA",
+            "ident": "I6R",
+            "name": "Bromont",
+            "type": "DME",
+            "frequency_khz": "110700",
+            "latitude_deg": "45.29779815673828",
+            "longitude_deg": "-72.73320007324219",
+            "elevation_ft": "374",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110700",
+            "dme_channel": "044X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-15.374",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "CZBM"
+        }
+    ]
 }

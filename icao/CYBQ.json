@@ -81,5 +81,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92866",
+            "filename": "Tadoule_Lake_NDB_CA",
+            "ident": "Q1",
+            "name": "Tadoule Lake",
+            "type": "NDB",
+            "frequency_khz": "389",
+            "latitude_deg": "58.709800720214844",
+            "longitude_deg": "-98.50499725341797",
+            "elevation_ft": "929",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.212",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYBQ"
+        }
+    ]
 }

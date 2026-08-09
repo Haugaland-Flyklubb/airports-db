@@ -107,5 +107,51 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nariño_Department",
         "keywords": "Airports in Nariño Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89301",
+            "filename": "Ipiales_VOR-DME_CO",
+            "ident": "IPI",
+            "name": "Ipiales",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "0.8592029809951782",
+            "longitude_deg": "-77.67320251464844",
+            "elevation_ft": "9763",
+            "iso_country": "CO",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.275",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKIP"
+        },
+        {
+            "id": "93728",
+            "filename": "San_Luis_NDB_CO",
+            "ident": "SLI",
+            "name": "San Luis",
+            "type": "NDB",
+            "frequency_khz": "244",
+            "latitude_deg": "0.8559889793395996",
+            "longitude_deg": "-77.67500305175781",
+            "elevation_ft": "9760",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.274",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SKIP"
+        }
+    ]
 }

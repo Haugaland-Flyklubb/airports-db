@@ -77,5 +77,29 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/West_Coast,_New_Zealand",
         "keywords": "Airports in West Coast Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95502",
+            "filename": "Westport_NDB-DME_NZ",
+            "ident": "WS",
+            "name": "Westport",
+            "type": "NDB-DME",
+            "frequency_khz": "278",
+            "latitude_deg": "-41.742401123046875",
+            "longitude_deg": "171.5800018310547",
+            "elevation_ft": "13",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "116900",
+            "dme_channel": "116X",
+            "dme_latitude_deg": "-41.7406",
+            "dme_longitude_deg": "171.58",
+            "dme_elevation_ft": "13",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.555",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NZWS"
+        }
+    ]
 }

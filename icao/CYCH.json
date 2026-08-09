@@ -143,5 +143,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_Brunswick",
         "keywords": "Airports in New Brunswick"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87914",
+            "filename": "Miramichi_NDB_CA",
+            "ident": "F9",
+            "name": "Miramichi",
+            "type": "NDB",
+            "frequency_khz": "520",
+            "latitude_deg": "47.0099983215332",
+            "longitude_deg": "-65.46749877929688",
+            "elevation_ft": "110",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.242",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYCH"
+        },
+        {
+            "id": "87915",
+            "filename": "Miramichi_DME_CA",
+            "ident": "F9",
+            "name": "Miramichi",
+            "type": "DME",
+            "frequency_khz": "110900",
+            "latitude_deg": "47.0093994140625",
+            "longitude_deg": "-65.46690368652344",
+            "elevation_ft": "110",
+            "iso_country": "CA",
+            "dme_frequency_khz": "110900",
+            "dme_channel": "046X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-19.242",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "CYCH"
+        }
+    ]
 }

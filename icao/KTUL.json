@@ -177,5 +177,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
         "keywords": "Airports in Oklahoma"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87583",
+            "filename": "Owaso_NDB_US",
+            "ident": "DW",
+            "name": "Owaso",
+            "type": "NDB",
+            "frequency_khz": "375",
+            "latitude_deg": "36.30739974975586",
+            "longitude_deg": "-95.87529754638672",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.578",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KTUL"
+        },
+        {
+            "id": "94662",
+            "filename": "Oillr_NDB_US",
+            "ident": "TU",
+            "name": "Oillr",
+            "type": "NDB",
+            "frequency_khz": "338",
+            "latitude_deg": "36.0974006652832",
+            "longitude_deg": "-95.88880157470703",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.003",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KTUL"
+        }
+    ]
 }

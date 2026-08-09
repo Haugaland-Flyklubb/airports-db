@@ -161,5 +161,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
         "keywords": "Airports in New York"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94119",
+            "filename": "Kirki_NDB_US",
+            "ident": "SY",
+            "name": "Kirki",
+            "type": "NDB",
+            "frequency_khz": "242",
+            "latitude_deg": "43.11220169067383",
+            "longitude_deg": "-76.00270080566406",
+            "elevation_ft": "403",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.45",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KSYR"
+        },
+        {
+            "id": "94129",
+            "filename": "Syracuse_VORTAC_US",
+            "ident": "SYR",
+            "name": "Syracuse",
+            "type": "VORTAC",
+            "frequency_khz": "117000",
+            "latitude_deg": "43.160499572753906",
+            "longitude_deg": "-76.20459747314453",
+            "elevation_ft": "420",
+            "iso_country": "US",
+            "dme_frequency_khz": "117000",
+            "dme_channel": "117X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.001",
+            "magnetic_variation_deg": "-12.379",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KSYR"
+        }
+    ]
 }

@@ -123,5 +123,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86878",
+            "filename": "Clam_Cove_NDB_US",
+            "ident": "CMJ",
+            "name": "Clam Cove",
+            "type": "NDB",
+            "frequency_khz": "396",
+            "latitude_deg": "55.345401763916016",
+            "longitude_deg": "-131.6959991455078",
+            "elevation_ft": "15",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "21.416",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "PAKT"
+        }
+    ]
 }

@@ -85,5 +85,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92875",
+            "filename": "The_Pas_NDB_CA",
+            "ident": "QD",
+            "name": "The Pas",
+            "type": "NDB",
+            "frequency_khz": "284",
+            "latitude_deg": "53.978599548339844",
+            "longitude_deg": "-101.08100128173828",
+            "elevation_ft": "889",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "7.439",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "CYQD"
+        },
+        {
+            "id": "95802",
+            "filename": "The_Pas_VOR-DME_CA",
+            "ident": "YQD",
+            "name": "The Pas",
+            "type": "VOR-DME",
+            "frequency_khz": "113600",
+            "latitude_deg": "53.97359848022461",
+            "longitude_deg": "-101.0999984741211",
+            "elevation_ft": "911",
+            "iso_country": "CA",
+            "dme_frequency_khz": "113600",
+            "dme_channel": "083X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "7.45",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYQD"
+        }
+    ]
 }

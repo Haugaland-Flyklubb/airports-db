@@ -69,5 +69,51 @@
         "iso_country": "DZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/M'Sila_Province",
         "keywords": "Airports in M'Sila Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86358",
+            "filename": "Bou_Saada_VOR-DME_DZ",
+            "ident": "BSA",
+            "name": "Bou Saada",
+            "type": "VOR-DME",
+            "frequency_khz": "115900",
+            "latitude_deg": "35.51530075073242",
+            "longitude_deg": "4.401669979095459",
+            "elevation_ft": "1328",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "115900",
+            "dme_channel": "106X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.017",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DAAD"
+        },
+        {
+            "id": "86360",
+            "filename": "Bou_Saada_NDB_DZ",
+            "ident": "BSA",
+            "name": "Bou Saada",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "35.350399017333984",
+            "longitude_deg": "4.225019931793213",
+            "elevation_ft": "",
+            "iso_country": "DZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.007",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "DAAD"
+        }
+    ]
 }

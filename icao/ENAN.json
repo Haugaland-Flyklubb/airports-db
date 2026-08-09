@@ -99,5 +99,51 @@
         "iso_country": "NO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nordland",
         "keywords": "Airports in Nordland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85487",
+            "filename": "Andoya_VOR-DME_NO",
+            "ident": "AND",
+            "name": "Andoya",
+            "type": "VOR-DME",
+            "frequency_khz": "112200",
+            "latitude_deg": "69.28780364990234",
+            "longitude_deg": "16.141399383544922",
+            "elevation_ft": "54",
+            "iso_country": "NO",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.007",
+            "magnetic_variation_deg": "4.303",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "ENAN"
+        },
+        {
+            "id": "92195",
+            "filename": "Andoya_TACAN_NO",
+            "ident": "OYA",
+            "name": "Andoya",
+            "type": "TACAN",
+            "frequency_khz": "109100",
+            "latitude_deg": "69.28630065917969",
+            "longitude_deg": "16.144399642944336",
+            "elevation_ft": "32",
+            "iso_country": "NO",
+            "dme_frequency_khz": "109100",
+            "dme_channel": "028X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "4.304",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "ENAN"
+        }
+    ]
 }

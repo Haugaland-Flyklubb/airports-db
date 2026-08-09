@@ -69,5 +69,29 @@
         "iso_country": "JP",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Hokkaido",
         "keywords": "Hokkaido"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91718",
+            "filename": "Nakashibetsu_VOR-DME_JP",
+            "ident": "NSE",
+            "name": "Nakashibetsu",
+            "type": "VOR-DME",
+            "frequency_khz": "111450",
+            "latitude_deg": "43.57740020751953",
+            "longitude_deg": "144.9510040283203",
+            "elevation_ft": "263",
+            "iso_country": "JP",
+            "dme_frequency_khz": "111450",
+            "dme_channel": "051Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-9.011",
+            "magnetic_variation_deg": "-8.374",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RJCN"
+        }
+    ]
 }

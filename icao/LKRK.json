@@ -91,5 +91,29 @@
         "iso_country": "CZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Bohemian_Region",
         "keywords": "Středočeský kraj"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92961",
+            "filename": "Rakovnik_NDB_CZ",
+            "ident": "RAK",
+            "name": "Rakovnik",
+            "type": "NDB",
+            "frequency_khz": "386",
+            "latitude_deg": "50.09709930419922",
+            "longitude_deg": "13.690699577331543",
+            "elevation_ft": "",
+            "iso_country": "CZ",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.13",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LKRK"
+        }
+    ]
 }

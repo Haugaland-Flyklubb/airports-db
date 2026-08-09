@@ -93,5 +93,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
         "keywords": "Airports in Alaska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87205",
+            "filename": "Cape_Romanzof_NDB_US",
+            "ident": "CZF",
+            "name": "Cape Romanzof",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "61.79069900512695",
+            "longitude_deg": "-165.97000122070312",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.533",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PACZ"
+        },
+        {
+            "id": "87206",
+            "filename": "Cape_Romanzof_DME_US",
+            "ident": "CZF",
+            "name": "Cape Romanzof",
+            "type": "DME",
+            "frequency_khz": "116750",
+            "latitude_deg": "61.78030014038086",
+            "longitude_deg": "-166.03900146484375",
+            "elevation_ft": "457",
+            "iso_country": "US",
+            "dme_frequency_khz": "116750",
+            "dme_channel": "114Y",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "12.509",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "PACZ"
+        }
+    ]
 }

@@ -193,5 +193,51 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87167",
+            "filename": "Cranwell_NDB_GB",
+            "ident": "CWL",
+            "name": "Cranwell",
+            "type": "NDB",
+            "frequency_khz": "423",
+            "latitude_deg": "53.02629852294922",
+            "longitude_deg": "-0.48898300528526306",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.396",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EGYD"
+        },
+        {
+            "id": "87174",
+            "filename": "Cranwell_TACAN_GB",
+            "ident": "CWZ",
+            "name": "Cranwell",
+            "type": "TACAN",
+            "frequency_khz": "117400",
+            "latitude_deg": "53.02859878540039",
+            "longitude_deg": "-0.4855000078678131",
+            "elevation_ft": "218",
+            "iso_country": "GB",
+            "dme_frequency_khz": "117400",
+            "dme_channel": "121X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-4.011",
+            "magnetic_variation_deg": "-2.396",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EGYD"
+        }
+    ]
 }

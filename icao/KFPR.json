@@ -131,5 +131,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
         "keywords": "Airports in Florida"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88009",
+            "filename": "Luuce_NDB_US",
+            "ident": "FJ",
+            "name": "Luuce",
+            "type": "NDB",
+            "frequency_khz": "338",
+            "latitude_deg": "27.49690055847168",
+            "longitude_deg": "-80.47470092773438",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.404",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KFPR"
+        },
+        {
+            "id": "88115",
+            "filename": "Fort_Pierce_NDB_US",
+            "ident": "FPR",
+            "name": "Fort Pierce",
+            "type": "NDB",
+            "frequency_khz": "275",
+            "latitude_deg": "27.4867000579834",
+            "longitude_deg": "-80.37329864501953",
+            "elevation_ft": "24",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.444",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KFPR"
+        }
+    ]
 }

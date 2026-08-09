@@ -59,5 +59,29 @@
         "iso_country": "VN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southeast_(Vietnam)",
         "keywords": "Airports in Southeast Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87059",
+            "filename": "Conson_NDB_VN",
+            "ident": "CS",
+            "name": "Conson",
+            "type": "NDB",
+            "frequency_khz": "333",
+            "latitude_deg": "8.729720115661621",
+            "longitude_deg": "106.63200378417969",
+            "elevation_ft": "",
+            "iso_country": "VN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.016",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VVCS"
+        }
+    ]
 }

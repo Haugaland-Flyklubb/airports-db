@@ -77,5 +77,29 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/San_Salvador_(Bahamas)",
         "keywords": "Airports in San Salvador"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96111",
+            "filename": "San_Salvador_NDB_BS",
+            "ident": "ZSJ",
+            "name": "San Salvador",
+            "type": "NDB",
+            "frequency_khz": "281",
+            "latitude_deg": "24.061599731445312",
+            "longitude_deg": "-74.53479766845703",
+            "elevation_ft": "7",
+            "iso_country": "BS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-8.494",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MYSM"
+        }
+    ]
 }

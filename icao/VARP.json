@@ -69,5 +69,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chhattisgarh",
         "keywords": "Airports in Chhattisgarh"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93236",
+            "filename": "Raipur_VOR-DME_IN",
+            "ident": "RRP",
+            "name": "Raipur",
+            "type": "VOR-DME",
+            "frequency_khz": "116100",
+            "latitude_deg": "21.180299758911133",
+            "longitude_deg": "81.74559783935547",
+            "elevation_ft": "1042",
+            "iso_country": "IN",
+            "dme_frequency_khz": "116100",
+            "dme_channel": "108X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-0.399",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VARP"
+        }
+    ]
 }

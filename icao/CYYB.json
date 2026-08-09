@@ -145,5 +145,51 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95915",
+            "filename": "North_Bay_VOR-DME_CA",
+            "ident": "YYB",
+            "name": "North Bay",
+            "type": "VOR-DME",
+            "frequency_khz": "115400",
+            "latitude_deg": "46.36389923095703",
+            "longitude_deg": "-79.4364013671875",
+            "elevation_ft": "1220",
+            "iso_country": "CA",
+            "dme_frequency_khz": "115400",
+            "dme_channel": "101X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-11.001",
+            "magnetic_variation_deg": "-11.302",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYYB"
+        },
+        {
+            "id": "96160",
+            "filename": "Yellek_NDB_CA",
+            "ident": "ZYB",
+            "name": "Yellek",
+            "type": "NDB",
+            "frequency_khz": "404",
+            "latitude_deg": "46.33110046386719",
+            "longitude_deg": "-79.52670288085938",
+            "elevation_ft": "",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-11.251",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYYB"
+        }
+    ]
 }

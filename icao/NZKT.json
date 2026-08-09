@@ -99,5 +99,29 @@
         "iso_country": "NZ",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Northland_Region",
         "keywords": "Airports in Northland Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90025",
+            "filename": "Kaitaia_NDB-DME_NZ",
+            "ident": "KT",
+            "name": "Kaitaia",
+            "type": "NDB-DME",
+            "frequency_khz": "238",
+            "latitude_deg": "-35.02859878540039",
+            "longitude_deg": "173.24200439453125",
+            "elevation_ft": "270",
+            "iso_country": "NZ",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "-35.0294",
+            "dme_longitude_deg": "173.241",
+            "dme_elevation_ft": "270",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "18.143",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "NZKT"
+        }
+    ]
 }

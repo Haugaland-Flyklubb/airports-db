@@ -153,5 +153,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
         "keywords": "Airports in Illinois"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90827",
+            "filename": "Cabbi_NDB_US",
+            "ident": "MD",
+            "name": "Cabbi",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "37.87009811401367",
+            "longitude_deg": "-89.24549865722656",
+            "elevation_ft": "411",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.034",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMDH"
+        }
+    ]
 }

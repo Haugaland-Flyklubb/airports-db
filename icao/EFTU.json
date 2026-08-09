@@ -77,5 +77,51 @@
         "iso_country": "FI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Southwest_Finland",
         "keywords": "Airports in Southwest Finland Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90342",
+            "filename": "Lieto_NDB_FI",
+            "ident": "LIE",
+            "name": "Lieto",
+            "type": "NDB",
+            "frequency_khz": "361",
+            "latitude_deg": "60.520999908447266",
+            "longitude_deg": "22.41860008239746",
+            "elevation_ft": "",
+            "iso_country": "FI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.117",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EFTU"
+        },
+        {
+            "id": "93281",
+            "filename": "Rusko_VOR-DME_FI",
+            "ident": "RUS",
+            "name": "Rusko",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "60.515201568603516",
+            "longitude_deg": "22.256500244140625",
+            "elevation_ft": "187",
+            "iso_country": "FI",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "4.007",
+            "magnetic_variation_deg": "6.076",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "EFTU"
+        }
+    ]
 }

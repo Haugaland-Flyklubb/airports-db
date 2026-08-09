@@ -59,5 +59,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Manitoba",
         "keywords": "Airports in Manitoba"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85095",
+            "filename": "St_Theresa_Point_NDB_CA",
+            "ident": "4K",
+            "name": "St Theresa Point",
+            "type": "NDB",
+            "frequency_khz": "362",
+            "latitude_deg": "53.845001220703125",
+            "longitude_deg": "-94.84940338134766",
+            "elevation_ft": "773",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.074",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYST"
+        }
+    ]
 }

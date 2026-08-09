@@ -77,5 +77,51 @@
         "iso_country": "CI",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bas-Sassandra_District",
         "keywords": "Airports in Bas-Sassandra District"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93384",
+            "filename": "San_Pedro_NDB_CI",
+            "ident": "SAP",
+            "name": "San Pedro",
+            "type": "NDB",
+            "frequency_khz": "330",
+            "latitude_deg": "4.769999980926514",
+            "longitude_deg": "-6.649439811706543",
+            "elevation_ft": "",
+            "iso_country": "CI",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.089",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "DISP"
+        },
+        {
+            "id": "93887",
+            "filename": "San_Pedro_VOR-DME_CI",
+            "ident": "SPO",
+            "name": "San Pedro",
+            "type": "VOR-DME",
+            "frequency_khz": "114900",
+            "latitude_deg": "4.756669998168945",
+            "longitude_deg": "-6.654359817504883",
+            "elevation_ft": "26",
+            "iso_country": "CI",
+            "dme_frequency_khz": "114900",
+            "dme_channel": "096X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-7.093",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DISP"
+        }
+    ]
 }

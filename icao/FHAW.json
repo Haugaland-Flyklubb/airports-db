@@ -93,5 +93,51 @@
         "iso_country": "SH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ascension",
         "keywords": "Airports in Ascension"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85623",
+            "filename": "Ascension_Aux_Af_VORTAC_SH",
+            "ident": "ASI",
+            "name": "Ascension Aux Af",
+            "type": "VORTAC",
+            "frequency_khz": "112200",
+            "latitude_deg": "-7.969880104064941",
+            "longitude_deg": "-14.397299766540527",
+            "elevation_ft": "495",
+            "iso_country": "SH",
+            "dme_frequency_khz": "112200",
+            "dme_channel": "059X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.386",
+            "usageType": "RNAV",
+            "power": "HIGH",
+            "associated_airport": "FHAW"
+        },
+        {
+            "id": "85631",
+            "filename": "Ascension_Aux_Af_NDB_SH",
+            "ident": "ASN",
+            "name": "Ascension Aux Af",
+            "type": "NDB",
+            "frequency_khz": "360",
+            "latitude_deg": "-7.946829795837402",
+            "longitude_deg": "-14.40999984741211",
+            "elevation_ft": "519",
+            "iso_country": "SH",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-16.38",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FHAW"
+        }
+    ]
 }

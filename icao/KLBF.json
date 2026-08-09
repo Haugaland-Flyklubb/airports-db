@@ -123,5 +123,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
         "keywords": "Airports in Nebraska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90206",
+            "filename": "North_Platte_VORTAC_US",
+            "ident": "LBF",
+            "name": "North Platte",
+            "type": "VORTAC",
+            "frequency_khz": "117400",
+            "latitude_deg": "41.04859924316406",
+            "longitude_deg": "-100.74700164794922",
+            "elevation_ft": "3050",
+            "iso_country": "US",
+            "dme_frequency_khz": "117400",
+            "dme_channel": "121X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "11.001",
+            "magnetic_variation_deg": "7.13",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "KLBF"
+        }
+    ]
 }

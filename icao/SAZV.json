@@ -69,5 +69,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
         "keywords": "Airports in Buenos Aires Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88344",
+            "filename": "Villa_Gesell_NDB_AR",
+            "ident": "GES",
+            "name": "Villa Gesell",
+            "type": "NDB",
+            "frequency_khz": "242",
+            "latitude_deg": "-37.23469924926758",
+            "longitude_deg": "-57.02389907836914",
+            "elevation_ft": "33",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.458",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SAZV"
+        }
+    ]
 }

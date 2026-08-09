@@ -123,5 +123,51 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
         "keywords": "Bretagne"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90478",
+            "filename": "Lorient_TACAN_FR",
+            "ident": "LOR",
+            "name": "Lorient",
+            "type": "TACAN",
+            "frequency_khz": "115800",
+            "latitude_deg": "47.76150131225586",
+            "longitude_deg": "-3.4411699771881104",
+            "elevation_ft": "141",
+            "iso_country": "FR",
+            "dme_frequency_khz": "115800",
+            "dme_channel": "105X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.562",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFRH"
+        },
+        {
+            "id": "90479",
+            "filename": "Lorient_NDB_FR",
+            "ident": "LOR",
+            "name": "Lorient",
+            "type": "NDB",
+            "frequency_khz": "359",
+            "latitude_deg": "47.76319885253906",
+            "longitude_deg": "-3.440690040588379",
+            "elevation_ft": "161",
+            "iso_country": "FR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.563",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "LFRH"
+        }
+    ]
 }

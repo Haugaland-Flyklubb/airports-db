@@ -125,5 +125,29 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Île-de-France",
         "keywords": "Airports in Île-de-France"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86856",
+            "filename": "Coulommiers_VOR-DME_FR",
+            "ident": "CLM",
+            "name": "Coulommiers",
+            "type": "VOR-DME",
+            "frequency_khz": "112900",
+            "latitude_deg": "48.844600677490234",
+            "longitude_deg": "3.013859987258911",
+            "elevation_ft": "486",
+            "iso_country": "FR",
+            "dme_frequency_khz": "112900",
+            "dme_channel": "076X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.518",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "LFPK"
+        }
+    ]
 }

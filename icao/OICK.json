@@ -69,5 +69,51 @@
         "iso_country": "IR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Lorestan_Province",
         "keywords": "Airports in Lorestan Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89960",
+            "filename": "Khoram_Abad_VOR-DME_IR",
+            "ident": "KRD",
+            "name": "Khoram Abad",
+            "type": "VOR-DME",
+            "frequency_khz": "116400",
+            "latitude_deg": "33.43510055541992",
+            "longitude_deg": "48.289100646972656",
+            "elevation_ft": "3762",
+            "iso_country": "IR",
+            "dme_frequency_khz": "116400",
+            "dme_channel": "111X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "3.001",
+            "magnetic_variation_deg": "3.412",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OICK"
+        },
+        {
+            "id": "89961",
+            "filename": "Khoram_Abad_NDB_IR",
+            "ident": "KRD",
+            "name": "Khoram Abad",
+            "type": "NDB",
+            "frequency_khz": "350",
+            "latitude_deg": "33.38520050048828",
+            "longitude_deg": "48.43439865112305",
+            "elevation_ft": "3782",
+            "iso_country": "IR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.401",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "OICK"
+        }
+    ]
 }

@@ -85,5 +85,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Mississippi",
         "keywords": "Airports in Mississippi"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94990",
+            "filename": "Tunng_NDB_US",
+            "ident": "UV",
+            "name": "Tunng",
+            "type": "NDB",
+            "frequency_khz": "426",
+            "latitude_deg": "34.385101318359375",
+            "longitude_deg": "-89.6259994506836",
+            "elevation_ft": "410",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.197",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "KUOX"
+        }
+    ]
 }

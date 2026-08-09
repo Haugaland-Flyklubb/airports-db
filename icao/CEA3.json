@@ -99,5 +99,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
         "keywords": "Albertan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89616",
+            "filename": "Olds-Didsbury_NDB_CA",
+            "ident": "K2",
+            "name": "Olds-Didsbury",
+            "type": "NDB",
+            "frequency_khz": "376",
+            "latitude_deg": "51.71030044555664",
+            "longitude_deg": "-114.10900115966797",
+            "elevation_ft": "3360",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "16.284",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CEA3"
+        }
+    ]
 }

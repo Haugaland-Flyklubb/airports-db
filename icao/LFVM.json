@@ -93,5 +93,29 @@
         "iso_country": "PM",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Miquelon-Langlade",
         "keywords": "Airports in Miquelon-Langlade"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91208",
+            "filename": "Miquelon_NDB_PM",
+            "ident": "MQ",
+            "name": "Miquelon",
+            "type": "NDB",
+            "frequency_khz": "402",
+            "latitude_deg": "47.09749984741211",
+            "longitude_deg": "-56.38589859008789",
+            "elevation_ft": "10",
+            "iso_country": "PM",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-20.281",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "LFVM"
+        }
+    ]
 }

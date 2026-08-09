@@ -69,5 +69,51 @@
         "iso_country": "PE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Apurímac_Region",
         "keywords": "Airports in Apurímac Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "85488",
+            "filename": "Andahuaylas_VOR-DME_PE",
+            "ident": "AND",
+            "name": "Andahuaylas",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "-13.714200019836426",
+            "longitude_deg": "-73.37779998779297",
+            "elevation_ft": "11997",
+            "iso_country": "PE",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.007",
+            "magnetic_variation_deg": "-2.146",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SPHY"
+        },
+        {
+            "id": "85490",
+            "filename": "Andahuaylas_NDB_PE",
+            "ident": "AND",
+            "name": "Andahuaylas",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "-13.709699630737305",
+            "longitude_deg": "-73.3499984741211",
+            "elevation_ft": "11300",
+            "iso_country": "PE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.16",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "SPHY"
+        }
+    ]
 }

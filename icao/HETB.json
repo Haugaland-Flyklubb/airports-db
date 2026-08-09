@@ -137,5 +137,51 @@
         "iso_country": "EG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Sinai_Governorate",
         "keywords": "Airports in South Sinai Governorate"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94214",
+            "filename": "Taba_VOR-DME_EG",
+            "ident": "TBA",
+            "name": "Taba",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "29.606700897216797",
+            "longitude_deg": "34.797401428222656",
+            "elevation_ft": "2430",
+            "iso_country": "EG",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.273",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HETB"
+        },
+        {
+            "id": "94215",
+            "filename": "Taba_NDB_EG",
+            "ident": "TBA",
+            "name": "Taba",
+            "type": "NDB",
+            "frequency_khz": "316",
+            "latitude_deg": "29.606700897216797",
+            "longitude_deg": "34.74829864501953",
+            "elevation_ft": "2542",
+            "iso_country": "EG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.272",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "HETB"
+        }
+    ]
 }

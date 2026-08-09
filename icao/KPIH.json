@@ -155,5 +155,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
         "keywords": "Airports in Idaho"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92433",
+            "filename": "Tyhee_NDB_US",
+            "ident": "PI",
+            "name": "Tyhee",
+            "type": "NDB",
+            "frequency_khz": "383",
+            "latitude_deg": "42.96649932861328",
+            "longitude_deg": "-112.51899719238281",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "13.316",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KPIH"
+        },
+        {
+            "id": "92441",
+            "filename": "Pocatello_VORTAC_US",
+            "ident": "PIH",
+            "name": "Pocatello",
+            "type": "VORTAC",
+            "frequency_khz": "112600",
+            "latitude_deg": "42.870399475097656",
+            "longitude_deg": "-112.6520004272461",
+            "elevation_ft": "4433",
+            "iso_country": "US",
+            "dme_frequency_khz": "112600",
+            "dme_channel": "073X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "17.001",
+            "magnetic_variation_deg": "13.332",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KPIH"
+        }
+    ]
 }

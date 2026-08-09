@@ -115,5 +115,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
         "keywords": "Aéroports du Québec"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95882",
+            "filename": "Kujack_VOR-DME_CA",
+            "ident": "YVP",
+            "name": "Kujack",
+            "type": "VOR-DME",
+            "frequency_khz": "112500",
+            "latitude_deg": "58.09629821777344",
+            "longitude_deg": "-68.42729949951172",
+            "elevation_ft": "150",
+            "iso_country": "CA",
+            "dme_frequency_khz": "112500",
+            "dme_channel": "072X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-27.001",
+            "magnetic_variation_deg": "-25.569",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "CYVP"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "AO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bi%C3%A9_Province",
         "keywords": "Airports in Bié Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90043",
+            "filename": "Kuito_NDB_AO",
+            "ident": "KU",
+            "name": "Kuito",
+            "type": "NDB",
+            "frequency_khz": "320",
+            "latitude_deg": "-12.41670036315918",
+            "longitude_deg": "16.933300018310547",
+            "elevation_ft": "",
+            "iso_country": "AO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-5.563",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FNKU"
+        }
+    ]
 }

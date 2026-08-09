@@ -77,5 +77,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Punjab",
         "keywords": "Airports in Punjab"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92475",
+            "filename": "Pathankot_NDB_IN",
+            "ident": "PK",
+            "name": "Pathankot",
+            "type": "NDB",
+            "frequency_khz": "393",
+            "latitude_deg": "32.240501403808594",
+            "longitude_deg": "75.63310241699219",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.324",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "VIPK"
+        }
+    ]
 }

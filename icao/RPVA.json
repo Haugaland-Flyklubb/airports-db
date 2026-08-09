@@ -77,5 +77,29 @@
         "iso_country": "PH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Leyte_Province",
         "keywords": "Airports in Leyte Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94170",
+            "filename": "Tacloban_VOR-DME_PH",
+            "ident": "TAC",
+            "name": "Tacloban",
+            "type": "VOR-DME",
+            "frequency_khz": "115500",
+            "latitude_deg": "11.232000350952148",
+            "longitude_deg": "125.0260009765625",
+            "elevation_ft": "39",
+            "iso_country": "PH",
+            "dme_frequency_khz": "115500",
+            "dme_channel": "102X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.011",
+            "magnetic_variation_deg": "-0.389",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "RPVA"
+        }
+    ]
 }

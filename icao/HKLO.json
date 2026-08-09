@@ -103,5 +103,51 @@
         "iso_country": "KE",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Turkana_County",
         "keywords": "Airports in Turkana County"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90485",
+            "filename": "Lodwar_VOR-DME_KE",
+            "ident": "LOV",
+            "name": "Lodwar",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "3.1075000762939453",
+            "longitude_deg": "35.612701416015625",
+            "elevation_ft": "1715",
+            "iso_country": "KE",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.001",
+            "magnetic_variation_deg": "1.049",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HKLO"
+        },
+        {
+            "id": "90633",
+            "filename": "Lodwar_NDB_KE",
+            "ident": "LW",
+            "name": "Lodwar",
+            "type": "NDB",
+            "frequency_khz": "338",
+            "latitude_deg": "3.107599973678589",
+            "longitude_deg": "35.61249923706055",
+            "elevation_ft": "",
+            "iso_country": "KE",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.05",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "HKLO"
+        }
+    ]
 }

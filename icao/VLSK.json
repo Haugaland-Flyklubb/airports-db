@@ -69,5 +69,51 @@
         "iso_country": "LA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Savannakhet_Province",
         "keywords": "Airports in Savannakhet Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93399",
+            "filename": "Savannakhet_VOR-DME_LA",
+            "ident": "SAV",
+            "name": "Savannakhet",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "16.56170082092285",
+            "longitude_deg": "104.76599884033203",
+            "elevation_ft": "459",
+            "iso_country": "LA",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "-0.434",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VLSK"
+        },
+        {
+            "id": "93400",
+            "filename": "Savannakhet_NDB_LA",
+            "ident": "SAV",
+            "name": "Savannakhet",
+            "type": "NDB",
+            "frequency_khz": "290",
+            "latitude_deg": "16.5531005859375",
+            "longitude_deg": "104.76000213623047",
+            "elevation_ft": "459",
+            "iso_country": "LA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-0.434",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "VLSK"
+        }
+    ]
 }

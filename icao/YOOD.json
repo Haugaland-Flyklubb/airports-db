@@ -107,5 +107,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
         "keywords": "South Australian airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92046",
+            "filename": "Oodnadatta_NDB_AU",
+            "ident": "OOD",
+            "name": "Oodnadatta",
+            "type": "NDB",
+            "frequency_khz": "308",
+            "latitude_deg": "-27.55470085144043",
+            "longitude_deg": "135.44200134277344",
+            "elevation_ft": "",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.579",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "YOOD"
+        }
+    ]
 }

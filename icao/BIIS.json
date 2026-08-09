@@ -77,5 +77,29 @@
         "iso_country": "IS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Westfjords",
         "keywords": "Vestfirðir"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89335",
+            "filename": "Isafjordur_NDB_IS",
+            "ident": "IS",
+            "name": "Isafjordur",
+            "type": "NDB",
+            "frequency_khz": "385",
+            "latitude_deg": "66.09829711914062",
+            "longitude_deg": "-23.03890037536621",
+            "elevation_ft": "",
+            "iso_country": "IS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-18.51",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "BIIS"
+        }
+    ]
 }

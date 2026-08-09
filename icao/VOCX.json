@@ -85,5 +85,29 @@
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands",
         "keywords": "Airports in Andaman and Nicobar Islands"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86897",
+            "filename": "Carnicobar_NDB_IN",
+            "ident": "CN",
+            "name": "Carnicobar",
+            "type": "NDB",
+            "frequency_khz": "355",
+            "latitude_deg": "9.152059555053711",
+            "longitude_deg": "92.8322982788086",
+            "elevation_ft": "",
+            "iso_country": "IN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-1.12",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "VOCX"
+        }
+    ]
 }

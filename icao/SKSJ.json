@@ -85,5 +85,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Guaviare_Department",
         "keywords": "Airports in Guaviare Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93650",
+            "filename": "San_Jose_Del_Guaviare_VOR-DME_CO",
+            "ident": "SJE",
+            "name": "San Jose Del Guaviare",
+            "type": "VOR-DME",
+            "frequency_khz": "113300",
+            "latitude_deg": "2.5728299617767334",
+            "longitude_deg": "-72.63379669189453",
+            "elevation_ft": "520",
+            "iso_country": "CO",
+            "dme_frequency_khz": "113300",
+            "dme_channel": "080X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-6.171",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SKSJ"
+        }
+    ]
 }

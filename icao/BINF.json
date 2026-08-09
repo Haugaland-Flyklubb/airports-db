@@ -59,5 +59,29 @@
         "iso_country": "IS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Region_(Iceland)",
         "keywords": "Austurland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91522",
+            "filename": "Nordfjordur_NDB_IS",
+            "ident": "NF",
+            "name": "Nordfjordur",
+            "type": "NDB",
+            "frequency_khz": "325",
+            "latitude_deg": "65.13469696044922",
+            "longitude_deg": "-13.73639965057373",
+            "elevation_ft": "",
+            "iso_country": "IS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-12.495",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "BINF"
+        }
+    ]
 }

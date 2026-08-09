@@ -69,5 +69,29 @@
         "iso_country": "MX",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Tamaulipas",
         "keywords": "Airports in Tamaulipas"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90734",
+            "filename": "Matamoros_VOR-DME_MX",
+            "ident": "MAM",
+            "name": "Matamoros",
+            "type": "VOR-DME",
+            "frequency_khz": "114300",
+            "latitude_deg": "25.77079963684082",
+            "longitude_deg": "-97.5239028930664",
+            "elevation_ft": "25",
+            "iso_country": "MX",
+            "dme_frequency_khz": "114300",
+            "dme_channel": "090X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.01",
+            "magnetic_variation_deg": "5.097",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MMMA"
+        }
+    ]
 }

@@ -113,5 +113,29 @@
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Province_(Argentina)",
         "keywords": "Airports in Santa Cruz Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92773",
+            "filename": "Perito_Moreno_NDB_AR",
+            "ident": "PTM",
+            "name": "Perito Moreno",
+            "type": "NDB",
+            "frequency_khz": "335",
+            "latitude_deg": "-46.536399841308594",
+            "longitude_deg": "-70.98609924316406",
+            "elevation_ft": "1411",
+            "iso_country": "AR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "10.474",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SAWP"
+        }
+    ]
 }

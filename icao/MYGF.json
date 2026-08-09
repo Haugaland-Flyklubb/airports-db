@@ -85,5 +85,51 @@
         "iso_country": "BS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/City_of_Freeport",
         "keywords": "Airports in City of Freeport"
-    }
+    },
+    "navaids": [
+        {
+            "id": "96012",
+            "filename": "Freeport_VOR-DME_BS",
+            "ident": "ZFP",
+            "name": "Freeport",
+            "type": "VOR-DME",
+            "frequency_khz": "113200",
+            "latitude_deg": "26.555299758911133",
+            "longitude_deg": "-78.6978988647461",
+            "elevation_ft": "7",
+            "iso_country": "BS",
+            "dme_frequency_khz": "113200",
+            "dme_channel": "079X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.002",
+            "magnetic_variation_deg": "-6.404",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "MYGF"
+        },
+        {
+            "id": "96013",
+            "filename": "Freeport_NDB_BS",
+            "ident": "ZFP",
+            "name": "Freeport",
+            "type": "NDB",
+            "frequency_khz": "209",
+            "latitude_deg": "26.518999099731445",
+            "longitude_deg": "-78.77459716796875",
+            "elevation_ft": "7",
+            "iso_country": "BS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-6.369",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "MYGF"
+        }
+    ]
 }

@@ -77,5 +77,51 @@
         "iso_country": "ID",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Bangka_Belitung",
         "keywords": "Airports in Bangka Belitung"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91942",
+            "filename": "Pangkal_Pinang_NDB_ID",
+            "ident": "OI",
+            "name": "Pangkal Pinang",
+            "type": "NDB",
+            "frequency_khz": "260",
+            "latitude_deg": "-2.1616599559783936",
+            "longitude_deg": "106.14199829101562",
+            "elevation_ft": "108",
+            "iso_country": "ID",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.376",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "WIPK"
+        },
+        {
+            "id": "92493",
+            "filename": "Pangkal_Pinang_VOR-DME_ID",
+            "ident": "PKP",
+            "name": "Pangkal Pinang",
+            "type": "VOR-DME",
+            "frequency_khz": "114200",
+            "latitude_deg": "-2.1568100452423096",
+            "longitude_deg": "106.13999938964844",
+            "elevation_ft": "108",
+            "iso_country": "ID",
+            "dme_frequency_khz": "114200",
+            "dme_channel": "089X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "0.376",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "WIPK"
+        }
+    ]
 }

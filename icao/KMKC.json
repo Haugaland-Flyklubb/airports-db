@@ -139,5 +139,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
         "keywords": "Airports in Missouri"
-    }
+    },
+    "navaids": [
+        {
+            "id": "91009",
+            "filename": "Kenzy_NDB_US",
+            "ident": "MK",
+            "name": "Kenzy",
+            "type": "NDB",
+            "frequency_khz": "344",
+            "latitude_deg": "39.22079849243164",
+            "longitude_deg": "-94.56430053710938",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "2.545",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMKC"
+        },
+        {
+            "id": "93101",
+            "filename": "Riverside_VOR-DME_US",
+            "ident": "RIS",
+            "name": "Riverside",
+            "type": "VOR-DME",
+            "frequency_khz": "111400",
+            "latitude_deg": "39.120399475097656",
+            "longitude_deg": "-94.59660339355469",
+            "elevation_ft": "740",
+            "iso_country": "US",
+            "dme_frequency_khz": "111400",
+            "dme_channel": "051X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.001",
+            "magnetic_variation_deg": "2.563",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KMKC"
+        }
+    ]
 }

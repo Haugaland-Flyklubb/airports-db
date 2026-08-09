@@ -69,5 +69,29 @@
         "iso_country": "CA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
         "keywords": "Airports in Ontario"
-    }
+    },
+    "navaids": [
+        {
+            "id": "95757",
+            "filename": "Ear_Falls_NDB_CA",
+            "ident": "YMY",
+            "name": "Ear Falls",
+            "type": "NDB",
+            "frequency_khz": "242",
+            "latitude_deg": "50.72079849243164",
+            "longitude_deg": "-93.37889862060547",
+            "elevation_ft": "1269",
+            "iso_country": "CA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.182",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "CYMY"
+        }
+    ]
 }

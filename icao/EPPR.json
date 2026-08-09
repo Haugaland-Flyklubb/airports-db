@@ -77,5 +77,51 @@
         "iso_country": "PL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Pomeranian_Voivodeship",
         "keywords": "Pomorskie"
-    }
+    },
+    "navaids": [
+        {
+            "id": "87906",
+            "filename": "Pruszcz_Gdanski_NDB_PL",
+            "ident": "F",
+            "name": "Pruszcz Gdanski",
+            "type": "NDB",
+            "frequency_khz": "300",
+            "latitude_deg": "54.24509811401367",
+            "longitude_deg": "18.69930076599121",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.54",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EPPR"
+        },
+        {
+            "id": "88171",
+            "filename": "Pruszcz_Gdanski_NDB_PL",
+            "ident": "FT",
+            "name": "Pruszcz Gdanski",
+            "type": "NDB",
+            "frequency_khz": "618",
+            "latitude_deg": "54.240501403808594",
+            "longitude_deg": "18.745899200439453",
+            "elevation_ft": "",
+            "iso_country": "PL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.549",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EPPR"
+        }
+    ]
 }

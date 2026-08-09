@@ -69,5 +69,51 @@
         "iso_country": "CL",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Maule_Region",
         "keywords": "Airports in Maule Region"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89142",
+            "filename": "Curico_VOR-DME_CL",
+            "ident": "ICO",
+            "name": "Curico",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "-34.96780014038086",
+            "longitude_deg": "-71.2157974243164",
+            "elevation_ft": "6036",
+            "iso_country": "CL",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "5.005",
+            "magnetic_variation_deg": "4.463",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SCIC"
+        },
+        {
+            "id": "89143",
+            "filename": "Curico_NDB_CL",
+            "ident": "ICO",
+            "name": "Curico",
+            "type": "NDB",
+            "frequency_khz": "270",
+            "latitude_deg": "-34.98109817504883",
+            "longitude_deg": "-71.25559997558594",
+            "elevation_ft": "",
+            "iso_country": "CL",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.49",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SCIC"
+        }
+    ]
 }

@@ -69,5 +69,29 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Loja_Province",
         "keywords": "Airports in Loja Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90714",
+            "filename": "Macara_NDB_EC",
+            "ident": "MAC",
+            "name": "Macara",
+            "type": "NDB",
+            "frequency_khz": "285",
+            "latitude_deg": "-4.378330230712891",
+            "longitude_deg": "-79.94170379638672",
+            "elevation_ft": "1448",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.089",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "SEMA"
+        }
+    ]
 }

@@ -173,5 +173,51 @@
         "iso_country": "DK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Denmark_Region",
         "keywords": "Central Denmark, Mid-Jutland, Midtjylland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89623",
+            "filename": "Karup_NDB_DK",
+            "ident": "KA",
+            "name": "Karup",
+            "type": "NDB",
+            "frequency_khz": "369",
+            "latitude_deg": "56.298500061035156",
+            "longitude_deg": "9.236960411071777",
+            "elevation_ft": "",
+            "iso_country": "DK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.431",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "EKKA"
+        },
+        {
+            "id": "89656",
+            "filename": "Karup_TACAN_DK",
+            "ident": "KAR",
+            "name": "Karup",
+            "type": "TACAN",
+            "frequency_khz": "110000",
+            "latitude_deg": "56.29669952392578",
+            "longitude_deg": "9.008600234985352",
+            "elevation_ft": "173",
+            "iso_country": "DK",
+            "dme_frequency_khz": "110000",
+            "dme_channel": "037X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-1.001",
+            "magnetic_variation_deg": "0.379",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EKKA"
+        }
+    ]
 }

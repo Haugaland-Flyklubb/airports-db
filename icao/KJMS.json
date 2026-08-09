@@ -115,5 +115,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/North_Dakota",
         "keywords": "Airports in North Dakota"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89511",
+            "filename": "Sabon_NDB_US",
+            "ident": "JM",
+            "name": "Sabon",
+            "type": "NDB",
+            "frequency_khz": "395",
+            "latitude_deg": "46.862701416015625",
+            "longitude_deg": "-98.58070373535156",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.393",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "KJMS"
+        },
+        {
+            "id": "89515",
+            "filename": "Jamestown_VOR-DME_US",
+            "ident": "JMS",
+            "name": "Jamestown",
+            "type": "VOR-DME",
+            "frequency_khz": "114500",
+            "latitude_deg": "46.932899475097656",
+            "longitude_deg": "-98.67880249023438",
+            "elevation_ft": "1490",
+            "iso_country": "US",
+            "dme_frequency_khz": "114500",
+            "dme_channel": "092X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.001",
+            "magnetic_variation_deg": "5.439",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KJMS"
+        }
+    ]
 }

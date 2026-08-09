@@ -129,5 +129,29 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
         "keywords": "Airports in Georgia"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92196",
+            "filename": "Floyd_NDB_US",
+            "ident": "OYD",
+            "name": "Floyd",
+            "type": "NDB",
+            "frequency_khz": "388",
+            "latitude_deg": "34.29880142211914",
+            "longitude_deg": "-85.16410064697266",
+            "elevation_ft": "615",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.369",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KRMG"
+        }
+    ]
 }

@@ -85,5 +85,51 @@
         "iso_country": "NG",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rivers_State",
         "keywords": "Airports in Rivers"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92409",
+            "filename": "Port_Harcourt_NDB_NG",
+            "ident": "PH",
+            "name": "Port Harcourt",
+            "type": "NDB",
+            "frequency_khz": "370",
+            "latitude_deg": "4.833980083465576",
+            "longitude_deg": "7.015940189361572",
+            "elevation_ft": "",
+            "iso_country": "NG",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.009",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "DNPO"
+        },
+        {
+            "id": "92617",
+            "filename": "Port_Harcourt_VOR-DME_NG",
+            "ident": "POT",
+            "name": "Port Harcourt",
+            "type": "VOR-DME",
+            "frequency_khz": "113500",
+            "latitude_deg": "5.035329818725586",
+            "longitude_deg": "6.960179805755615",
+            "elevation_ft": "157",
+            "iso_country": "NG",
+            "dme_frequency_khz": "113500",
+            "dme_channel": "082X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-5.007",
+            "magnetic_variation_deg": "-2.587",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "DNPO"
+        }
+    ]
 }

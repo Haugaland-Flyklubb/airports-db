@@ -99,5 +99,29 @@
         "iso_country": "CO",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Chocó_Department",
         "keywords": "Airports in Chocó Department"
-    }
+    },
+    "navaids": [
+        {
+            "id": "86026",
+            "filename": "Bahia_Solano_NDB_CO",
+            "ident": "BHS",
+            "name": "Bahia Solano",
+            "type": "NDB",
+            "frequency_khz": "240",
+            "latitude_deg": "6.209370136260986",
+            "longitude_deg": "-77.38069915771484",
+            "elevation_ft": "80",
+            "iso_country": "CO",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.403",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "SKBS"
+        }
+    ]
 }

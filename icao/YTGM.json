@@ -99,5 +99,29 @@
         "iso_country": "AU",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
         "keywords": "Airports in Queensland"
-    }
+    },
+    "navaids": [
+        {
+            "id": "94321",
+            "filename": "Thargomindah_NDB_AU",
+            "ident": "TGM",
+            "name": "Thargomindah",
+            "type": "NDB",
+            "frequency_khz": "392",
+            "latitude_deg": "-27.99329948425293",
+            "longitude_deg": "143.81500244140625",
+            "elevation_ft": "433",
+            "iso_country": "AU",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "8.372",
+            "usageType": "BOTH",
+            "power": "LOW",
+            "associated_airport": "YTGM"
+        }
+    ]
 }

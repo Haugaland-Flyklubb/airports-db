@@ -91,5 +91,51 @@
         "iso_country": "GA",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Moyen-Ogoou%C3%A9_Province",
         "keywords": "Airports in Moyen-Ogooué Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "90191",
+            "filename": "Lambarene_NDB_GA",
+            "ident": "LB",
+            "name": "Lambarene",
+            "type": "NDB",
+            "frequency_khz": "310",
+            "latitude_deg": "-0.7120530009269714",
+            "longitude_deg": "10.230899810791016",
+            "elevation_ft": "",
+            "iso_country": "GA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.394",
+            "usageType": "BOTH",
+            "power": "MEDIUM",
+            "associated_airport": "FOGR"
+        },
+        {
+            "id": "90515",
+            "filename": "Lambarene_VOR_GA",
+            "ident": "LR",
+            "name": "Lambarene",
+            "type": "VOR",
+            "frequency_khz": "112700",
+            "latitude_deg": "-0.7078859806060791",
+            "longitude_deg": "10.240400314331055",
+            "elevation_ft": "82",
+            "iso_country": "GA",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.391",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "FOGR"
+        }
+    ]
 }

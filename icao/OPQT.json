@@ -107,5 +107,51 @@
         "iso_country": "PK",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Balochistan",
         "keywords": "Baluchistan"
-    }
+    },
+    "navaids": [
+        {
+            "id": "92917",
+            "filename": "Quetta_VOR-DME_PK",
+            "ident": "QT",
+            "name": "Quetta",
+            "type": "VOR-DME",
+            "frequency_khz": "114700",
+            "latitude_deg": "30.297000885009766",
+            "longitude_deg": "66.88919830322266",
+            "elevation_ft": "5142",
+            "iso_country": "PK",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "0.007",
+            "magnetic_variation_deg": "1.36",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "OPQT"
+        },
+        {
+            "id": "92920",
+            "filename": "Quetta_NDB_PK",
+            "ident": "QT",
+            "name": "Quetta",
+            "type": "NDB",
+            "frequency_khz": "348",
+            "latitude_deg": "30.25",
+            "longitude_deg": "66.93329620361328",
+            "elevation_ft": "5142",
+            "iso_country": "PK",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "1.351",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "OPQT"
+        }
+    ]
 }

@@ -115,5 +115,51 @@
         "iso_country": "EC",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Elena_Province",
         "keywords": ""
-    }
+    },
+    "navaids": [
+        {
+            "id": "93397",
+            "filename": "Salinas_VOR-DME_EC",
+            "ident": "SAV",
+            "name": "Salinas",
+            "type": "VOR-DME",
+            "frequency_khz": "114100",
+            "latitude_deg": "-2.219719886779785",
+            "longitude_deg": "-80.97329711914062",
+            "elevation_ft": "41",
+            "iso_country": "EC",
+            "dme_frequency_khz": "114100",
+            "dme_channel": "088X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "2.007",
+            "magnetic_variation_deg": "0.207",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "SESA"
+        },
+        {
+            "id": "93744",
+            "filename": "Salinas_NDB_EC",
+            "ident": "SLS",
+            "name": "Salinas",
+            "type": "NDB",
+            "frequency_khz": "415",
+            "latitude_deg": "-2.2005600929260254",
+            "longitude_deg": "-80.98919677734375",
+            "elevation_ft": "18",
+            "iso_country": "EC",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "0.211",
+            "usageType": "LO",
+            "power": "HIGH",
+            "associated_airport": "SESA"
+        }
+    ]
 }

@@ -155,5 +155,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Nebraska",
         "keywords": "Airports in Nebraska"
-    }
+    },
+    "navaids": [
+        {
+            "id": "88539",
+            "filename": "Sancy_NDB_US",
+            "ident": "GR",
+            "name": "Sancy",
+            "type": "NDB",
+            "frequency_khz": "380",
+            "latitude_deg": "40.87289810180664",
+            "longitude_deg": "-98.314697265625",
+            "elevation_ft": "1850",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "5.342",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "KGRI"
+        },
+        {
+            "id": "88559",
+            "filename": "Grand_Island_VORTAC_US",
+            "ident": "GRI",
+            "name": "Grand Island",
+            "type": "VORTAC",
+            "frequency_khz": "112000",
+            "latitude_deg": "40.98400115966797",
+            "longitude_deg": "-98.3147964477539",
+            "elevation_ft": "1840",
+            "iso_country": "US",
+            "dme_frequency_khz": "112000",
+            "dme_channel": "057X",
+            "dme_latitude_deg": "40.984",
+            "dme_longitude_deg": "-98.3155",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "7.005",
+            "magnetic_variation_deg": "5.341",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KGRI"
+        }
+    ]
 }

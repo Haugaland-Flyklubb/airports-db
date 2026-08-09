@@ -161,5 +161,51 @@
         "iso_country": "US",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
         "keywords": "Texan airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93644",
+            "filename": "Woole_NDB_US",
+            "ident": "SJ",
+            "name": "Woole",
+            "type": "NDB",
+            "frequency_khz": "356",
+            "latitude_deg": "31.27989959716797",
+            "longitude_deg": "-100.57599639892578",
+            "elevation_ft": "",
+            "iso_country": "US",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "6.446",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "KSJT"
+        },
+        {
+            "id": "93657",
+            "filename": "San_Angelo_VORTAC_US",
+            "ident": "SJT",
+            "name": "San Angelo",
+            "type": "VORTAC",
+            "frequency_khz": "115100",
+            "latitude_deg": "31.375",
+            "longitude_deg": "-100.45500183105469",
+            "elevation_ft": "1890",
+            "iso_country": "US",
+            "dme_frequency_khz": "115100",
+            "dme_channel": "098X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "10.012",
+            "magnetic_variation_deg": "6.411",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "KSJT"
+        }
+    ]
 }

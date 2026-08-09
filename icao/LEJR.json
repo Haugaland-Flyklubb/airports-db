@@ -85,5 +85,51 @@
         "iso_country": "ES",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
         "keywords": "Airports in Andalucía"
-    }
+    },
+    "navaids": [
+        {
+            "id": "89471",
+            "filename": "Jerez_NDB_ES",
+            "ident": "JER",
+            "name": "Jerez",
+            "type": "NDB",
+            "frequency_khz": "433",
+            "latitude_deg": "36.83449935913086",
+            "longitude_deg": "-6.0162200927734375",
+            "elevation_ft": "",
+            "iso_country": "ES",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.498",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "LEJR"
+        },
+        {
+            "id": "89552",
+            "filename": "Jerez_VOR-DME_ES",
+            "ident": "JRZ",
+            "name": "Jerez",
+            "type": "VOR-DME",
+            "frequency_khz": "113000",
+            "latitude_deg": "36.81520080566406",
+            "longitude_deg": "-6.0265398025512695",
+            "elevation_ft": "285",
+            "iso_country": "ES",
+            "dme_frequency_khz": "113000",
+            "dme_channel": "077X",
+            "dme_latitude_deg": "36.8153",
+            "dme_longitude_deg": "-6.02629",
+            "dme_elevation_ft": "312",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-2.467",
+            "usageType": "TERMINAL",
+            "power": "LOW",
+            "associated_airport": "LEJR"
+        }
+    ]
 }
