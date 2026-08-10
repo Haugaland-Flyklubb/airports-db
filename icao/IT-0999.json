@@ -1,15 +1,15 @@
 {
-    "id": "608442",
-    "ident": "IT-0894",
-    "type": "heliport",
-    "name": "Rimella Heliport",
-    "latitude_deg": "45.907334",
-    "longitude_deg": "8.183562",
-    "elevation_ft": "3834",
+    "id": "610178",
+    "ident": "IT-0999",
+    "type": "small_airport",
+    "name": "Rancia",
+    "latitude_deg": "43.236033",
+    "longitude_deg": "13.356197",
+    "elevation_ft": "",
     "continent": "EU",
     "iso_country": "IT",
-    "iso_region": "IT-21",
-    "municipality": "Rimella (VC)",
+    "iso_region": "IT-57",
+    "municipality": "Tolentino",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Aeroporti d'Italia"
     },
     "region": {
-        "id": "306360",
-        "code": "IT-21",
-        "local_code": "21",
-        "name": "Piedmont",
+        "id": "306362",
+        "code": "IT-57",
+        "local_code": "57",
+        "name": "Marche",
         "continent": "EU",
         "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
-        "keywords": "PM, Piemonte"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Marche",
+        "keywords": "MH"
     }
 }

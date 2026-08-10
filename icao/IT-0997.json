@@ -1,15 +1,15 @@
 {
-    "id": "608442",
-    "ident": "IT-0894",
-    "type": "heliport",
-    "name": "Rimella Heliport",
-    "latitude_deg": "45.907334",
-    "longitude_deg": "8.183562",
-    "elevation_ft": "3834",
+    "id": "610174",
+    "ident": "IT-0997",
+    "type": "small_airport",
+    "name": "AerialBanners Airfield",
+    "latitude_deg": "40.641473",
+    "longitude_deg": "14.887715",
+    "elevation_ft": "",
     "continent": "EU",
     "iso_country": "IT",
-    "iso_region": "IT-21",
-    "municipality": "Rimella (VC)",
+    "iso_region": "IT-72",
+    "municipality": "Pontecagnano",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Aeroporti d'Italia"
     },
     "region": {
-        "id": "306360",
-        "code": "IT-21",
-        "local_code": "21",
-        "name": "Piedmont",
+        "id": "306368",
+        "code": "IT-72",
+        "local_code": "72",
+        "name": "Campania",
         "continent": "EU",
         "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Piedmont",
-        "keywords": "PM, Piemonte"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Campania",
+        "keywords": "CM"
     }
 }
