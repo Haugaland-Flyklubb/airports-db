@@ -1,0 +1,39 @@
+{
+    "id": "610203",
+    "ident": "LV-8051",
+    "type": "small_airport",
+    "name": "Ječi Airfield",
+    "latitude_deg": "56.265229",
+    "longitude_deg": "21.202622",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-112",
+    "municipality": "Ječi",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302702",
+        "code": "LV",
+        "name": "Latvia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
+        "keywords": "Latvian airports"
+    },
+    "region": {
+        "id": "353736",
+        "code": "LV-112",
+        "local_code": "112",
+        "name": "South Kurzeme Municipality",
+        "continent": "EU",
+        "iso_country": "LV",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Kurzeme_Municipality",
+        "keywords": "Airports in South Kurzeme Municipality"
+    }
+}

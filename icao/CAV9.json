@@ -18,6 +18,40 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Oak_Hammock_Air_Park_Airport",
     "keywords": "AV9",
+    "runways": [
+        {
+            "id": "610208",
+            "airport_ref": "651",
+            "airport_ident": "CAV9",
+            "length_ft": "",
+            "width_ft": "",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "610209",
+            "airport_ref": "651",
+            "airport_ident": "CAV9",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",
