@@ -1,0 +1,39 @@
+{
+    "id": "610276",
+    "ident": "AR-0808",
+    "type": "small_airport",
+    "name": "Aeroclub Tupungato",
+    "latitude_deg": "-33.353901",
+    "longitude_deg": "-69.133272",
+    "elevation_ft": "",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-M",
+    "municipality": "Tupungato",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "TPG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302942",
+        "code": "AR-M",
+        "local_code": "M",
+        "name": "Mendoza Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mendoza_Province",
+        "keywords": ""
+    }
+}
