@@ -2,7 +2,7 @@
     "id": "24816",
     "ident": "TE07",
     "type": "heliport",
-    "name": "OakBend Medical Center - Wharton Hospital Heliport",
+    "name": "Gulf Coast Medical Center Heliport",
     "latitude_deg": "29.327886",
     "longitude_deg": "-96.117153",
     "elevation_ft": "110",
@@ -17,7 +17,7 @@
     "local_code": "TE07",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Gulf Coast Medical Center Heliport",
+    "keywords": "OakBend Medical Center",
     "runways": [
         {
             "id": "576838",
@@ -26,7 +26,7 @@
             "length_ft": "50",
             "width_ft": "50",
             "surface": "CONC",
-            "lighted": "0",
+            "lighted": "1",
             "closed": "0",
             "le_ident": "H1",
             "le_latitude_deg": "",
