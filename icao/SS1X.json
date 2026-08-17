@@ -1,0 +1,63 @@
+{
+    "id": "610355",
+    "ident": "SS1X",
+    "type": "small_airport",
+    "name": "Santa Cruz do Xingú Airport",
+    "latitude_deg": "-10.156953",
+    "longitude_deg": "-52.39515",
+    "elevation_ft": "1175",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Santa Cruz do Xingú",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SS1X",
+    "local_code": "MT1185",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "https://aisweb.decea.mil.br/?i=aerodromos&codigo=SS1X&amdt=2002",
+    "runways": [
+        {
+            "id": "610356",
+            "airport_ref": "610355",
+            "airport_ident": "SS1X",
+            "length_ft": "3610",
+            "width_ft": "59",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303211",
+        "code": "BR-MT",
+        "local_code": "MT",
+        "name": "Mato Grosso",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
+        "keywords": "Airports in Mato Grosso"
+    }
+}

@@ -152,6 +152,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "610347",
+            "airport_ref": "6808",
+            "airport_ident": "05AL",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "255.3"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

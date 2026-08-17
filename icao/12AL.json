@@ -9,7 +9,7 @@
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-AL",
-    "municipality": "Midland City",
+    "municipality": "Fort Rucker (Kirklands Crossroads)",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -17,7 +17,7 @@
     "local_code": "12AL",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Midland City",
     "runways": [
         {
             "id": "265269",
@@ -106,6 +106,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "610337",
+            "airport_ref": "7749",
+            "airport_ident": "12AL",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "316"
         }
     ],
     "country": {

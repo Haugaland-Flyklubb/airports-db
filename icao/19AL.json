@@ -3,13 +3,13 @@
     "ident": "19AL",
     "type": "heliport",
     "name": "Molinelli Stagefield Army Heliport",
-    "latitude_deg": "31.48240089416504",
-    "longitude_deg": "-85.78510284423828",
+    "latitude_deg": "31.480351",
+    "longitude_deg": "-85.78481",
     "elevation_ft": "490",
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-AL",
-    "municipality": "Fort Rucker/Ozark",
+    "municipality": "Fort Rucker (Ozark)",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -17,7 +17,7 @@
     "local_code": "19AL",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Fort Novosel",
     "runways": [
         {
             "id": "265379",
@@ -106,6 +106,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "610344",
+            "airport_ref": "8127",
+            "airport_ident": "19AL",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "315.15"
         }
     ],
     "country": {

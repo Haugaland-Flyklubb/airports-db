@@ -86,6 +86,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "610334",
+            "airport_ref": "8776",
+            "airport_ident": "20AL",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "270.7"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

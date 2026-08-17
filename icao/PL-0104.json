@@ -5,19 +5,19 @@
     "name": "Ulim",
     "latitude_deg": "52.693563",
     "longitude_deg": "15.215912",
-    "elevation_ft": "",
+    "elevation_ft": "59",
     "continent": "EU",
     "iso_country": "PL",
-    "iso_region": "PL-WP",
+    "iso_region": "PL-LB",
     "municipality": "Ulim",
     "scheduled_service": "no",
     "icao_code": "EPGU",
     "iata_code": "",
     "gps_code": "EPGU",
-    "local_code": "EPGU",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "EPGU",
+    "keywords": "EPGW",
     "country": {
         "id": "302710",
         "code": "PL",
@@ -27,13 +27,13 @@
         "keywords": "Lotniska Polski"
     },
     "region": {
-        "id": "305159",
-        "code": "PL-WP",
-        "local_code": "WP",
-        "name": "Greater Poland Voivodeship",
+        "id": "305146",
+        "code": "PL-LB",
+        "local_code": "LB",
+        "name": "Lubusz Voivodeship",
         "continent": "EU",
         "iso_country": "PL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Greater_Poland_Voivodeship",
-        "keywords": "Wielkopolskie"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lubusz_Voivodeship",
+        "keywords": "Lubuskie"
     }
 }

@@ -3,13 +3,13 @@
     "ident": "21AL",
     "type": "heliport",
     "name": "Skelly Stagefield Army Heliport",
-    "latitude_deg": "31.287700653076172",
-    "longitude_deg": "-86.13009643554688",
+    "latitude_deg": "31.287701",
+    "longitude_deg": "-86.130096",
     "elevation_ft": "220",
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-AL",
-    "municipality": "Fort Rucker/Opp",
+    "municipality": "Fort Rucker (Opp)",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -17,7 +17,7 @@
     "local_code": "21AL",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Fort Novosel",
     "runways": [
         {
             "id": "265528",
@@ -106,6 +106,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "610341",
+            "airport_ref": "8822",
+            "airport_ident": "21AL",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "391.8"
         }
     ],
     "country": {

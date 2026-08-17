@@ -3,13 +3,13 @@
     "ident": "16AL",
     "type": "heliport",
     "name": "Hooper Stagefield Army Heliport",
-    "latitude_deg": "31.40839958190918",
-    "longitude_deg": "-85.68920135498047",
+    "latitude_deg": "31.4084",
+    "longitude_deg": "-85.689201",
     "elevation_ft": "365",
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-AL",
-    "municipality": "Fort Rucker/Ozark",
+    "municipality": "Fort Rucker (Ozark)",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -17,7 +17,7 @@
     "local_code": "16AL",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Fort Novosel",
     "runways": [
         {
             "id": "265330",
@@ -150,6 +150,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "610343",
+            "airport_ref": "7979",
+            "airport_ident": "16AL",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "225.625"
         }
     ],
     "country": {

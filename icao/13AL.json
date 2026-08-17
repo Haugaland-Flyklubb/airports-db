@@ -2,14 +2,14 @@
     "id": "7808",
     "ident": "13AL",
     "type": "heliport",
-    "name": "Hatch Stagefield Army Heliport",
-    "latitude_deg": "31.358999252319336",
-    "longitude_deg": "-85.62049865722656",
+    "name": "Hatch Army Heliport",
+    "latitude_deg": "31.358999",
+    "longitude_deg": "-85.620499",
     "elevation_ft": "225",
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-AL",
-    "municipality": "Fort Rucker/Ozark",
+    "municipality": "Fort Rucker (Ozark)",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -17,7 +17,7 @@
     "local_code": "13AL",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Fort Novosel",
     "runways": [
         {
             "id": "265279",
@@ -150,6 +150,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "610342",
+            "airport_ref": "7808",
+            "airport_ident": "13AL",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "259.425"
         }
     ],
     "country": {
