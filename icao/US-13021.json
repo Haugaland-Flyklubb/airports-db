@@ -1,0 +1,39 @@
+{
+    "id": "610372",
+    "ident": "US-13021",
+    "type": "heliport",
+    "name": "Clam Heliport",
+    "latitude_deg": "44.93535",
+    "longitude_deg": "-85.264753",
+    "elevation_ft": "593",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-U-A",
+    "municipality": "Bellaire",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "MI67",
+    "local_code": "MI67",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306120",
+        "code": "US-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
