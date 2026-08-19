@@ -1,0 +1,39 @@
+{
+    "id": "610402",
+    "ident": "SIC5",
+    "type": "small_airport",
+    "name": "Goiatuba Airport",
+    "latitude_deg": "-17.995438",
+    "longitude_deg": "-49.343755",
+    "elevation_ft": "2593",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Goiatuba",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SIC5",
+    "local_code": "GO0446",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303207",
+        "code": "BR-GO",
+        "local_code": "GO",
+        "name": "Goiás",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
+        "keywords": "Airports in Goiás"
+    }
+}
