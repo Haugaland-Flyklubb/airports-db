@@ -1,7 +1,7 @@
 {
     "id": "6487",
     "ident": "UKOO",
-    "type": "large_airport",
+    "type": "closed",
     "name": "Odesa International Airport",
     "latitude_deg": "46.427196",
     "longitude_deg": "30.672649",
@@ -10,14 +10,14 @@
     "iso_country": "UA",
     "iso_region": "UA-51",
     "municipality": "Odesa",
-    "scheduled_service": "no",
-    "icao_code": "UKOO",
-    "iata_code": "ODS",
-    "gps_code": "UKOO",
+    "scheduled_service": "yes",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
     "local_code": "",
     "home_link": "https://www.airport.od.ua/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Odessa_International_Airport",
-    "keywords": "Odesa Central, Міжнародний аеропорт Одеса, Odessa Airport",
+    "keywords": "ODS, UKOO, УКОО, Odesa Central, Міжнародний аеропорт Одеса, Odessa Airport",
     "runways": [
         {
             "id": "239628",
