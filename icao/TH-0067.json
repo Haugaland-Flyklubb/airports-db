@@ -1,0 +1,39 @@
+{
+    "id": "610525",
+    "ident": "TH-0067",
+    "type": "small_airport",
+    "name": "Ban Klang Airfield",
+    "latitude_deg": "8.330278",
+    "longitude_deg": "98.766111",
+    "elevation_ft": "82",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-81",
+    "municipality": "Amphoe Ao Luek",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305770",
+        "code": "TH-81",
+        "local_code": "81",
+        "name": "Krabi Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Krabi_province",
+        "keywords": "Airports in Krabi Province"
+    }
+}
