@@ -1,0 +1,39 @@
+{
+    "id": "610548",
+    "ident": "MN-0007",
+    "type": "small_airport",
+    "name": "Bulagtai Resort Airport",
+    "latitude_deg": "43.749167",
+    "longitude_deg": "104.114722",
+    "elevation_ft": "4659",
+    "continent": "AS",
+    "iso_country": "MN",
+    "iso_region": "MN-U-A",
+    "municipality": "Khankhongor",
+    "scheduled_service": "no",
+    "icao_code": "ZMBR",
+    "iata_code": "UGT",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302650",
+        "code": "MN",
+        "name": "Mongolia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongolia",
+        "keywords": "Mongolian airports"
+    },
+    "region": {
+        "id": "304703",
+        "code": "MN-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "MN",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

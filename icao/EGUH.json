@@ -1,0 +1,39 @@
+{
+    "id": "610545",
+    "ident": "EGUH",
+    "type": "heliport",
+    "name": "RAF High Wycombe",
+    "latitude_deg": "51.682508",
+    "longitude_deg": "-0.803265",
+    "elevation_ft": "642",
+    "continent": "EU",
+    "iso_country": "GB",
+    "iso_region": "GB-ENG",
+    "municipality": "High Wycombe, Buckinghamshire",
+    "scheduled_service": "no",
+    "icao_code": "EGUH",
+    "iata_code": "",
+    "gps_code": "EGUH",
+    "local_code": "",
+    "home_link": "https://www.raf.mod.uk/our-organisation/stations/raf-high-wycombe/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_High_Wycombe",
+    "keywords": "",
+    "country": {
+        "id": "302688",
+        "code": "GB",
+        "name": "United Kingdom",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "keywords": "Great Britain"
+    },
+    "region": {
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
+        "continent": "EU",
+        "iso_country": "GB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": "English airports"
+    }
+}
