@@ -1,0 +1,39 @@
+{
+    "id": "610591",
+    "ident": "US-13039",
+    "type": "heliport",
+    "name": "Bear Lake North Beach Emergency Heliport",
+    "latitude_deg": "42.12",
+    "longitude_deg": "-111.266609",
+    "elevation_ft": "5927",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-IL",
+    "municipality": "St Charles",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "2ID9",
+    "local_code": "2ID9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306090",
+        "code": "US-IL",
+        "local_code": "IL",
+        "name": "Illinois",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illinois",
+        "keywords": "Airports in Illinois"
+    }
+}
