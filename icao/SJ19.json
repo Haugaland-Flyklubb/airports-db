@@ -1,0 +1,63 @@
+{
+    "id": "610664",
+    "ident": "SJ19",
+    "type": "small_airport",
+    "name": "Fazenda Acari Airport",
+    "latitude_deg": "-8.912358",
+    "longitude_deg": "-62.45485",
+    "elevation_ft": "369",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RO",
+    "municipality": "Cujubim",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SJ19",
+    "local_code": "RO0119",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "610665",
+            "airport_ref": "610664",
+            "airport_ident": "SJ19",
+            "length_ft": "2297",
+            "width_ft": "59",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303219",
+        "code": "BR-RO",
+        "local_code": "RO",
+        "name": "Rondônia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rondônia",
+        "keywords": "Airports in Rondônia"
+    }
+}
