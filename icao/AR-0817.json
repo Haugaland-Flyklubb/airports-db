@@ -1,0 +1,63 @@
+{
+    "id": "610705",
+    "ident": "AR-0817",
+    "type": "small_airport",
+    "name": "Martinez Airport",
+    "latitude_deg": "-26.318814",
+    "longitude_deg": "-60.668907",
+    "elevation_ft": "354",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-H",
+    "municipality": "Tres Isletes",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "2961",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "610706",
+            "airport_ref": "610705",
+            "airport_ident": "AR-0817",
+            "length_ft": "3281",
+            "width_ft": "82",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302938",
+        "code": "AR-H",
+        "local_code": "H",
+        "name": "Chaco Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chaco_Province",
+        "keywords": "Airports in Chaco Province"
+    }
+}

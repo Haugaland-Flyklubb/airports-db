@@ -1,0 +1,39 @@
+{
+    "id": "610707",
+    "ident": "AR-0818",
+    "type": "small_airport",
+    "name": "Aeroclub Caraguatay",
+    "latitude_deg": "-26.652605",
+    "longitude_deg": "-54.750793",
+    "elevation_ft": "562",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-N",
+    "municipality": "Caraguatay",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "2964",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "New entry.",
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302943",
+        "code": "AR-N",
+        "local_code": "N",
+        "name": "Misiones Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Misiones_Province",
+        "keywords": "Airports in Misiones Province"
+    }
+}

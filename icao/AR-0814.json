@@ -1,0 +1,63 @@
+{
+    "id": "610693",
+    "ident": "AR-0814",
+    "type": "small_airport",
+    "name": "Sauce Co Airport",
+    "latitude_deg": "-36.393631",
+    "longitude_deg": "-61.37488",
+    "elevation_ft": "344",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-B",
+    "municipality": "Urdampilleta",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "2958",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "610694",
+            "airport_ref": "610693",
+            "airport_ident": "AR-0814",
+            "length_ft": "2677",
+            "width_ft": "105",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302933",
+        "code": "AR-B",
+        "local_code": "B",
+        "name": "Buenos Aires Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires_Province",
+        "keywords": "Airports in Buenos Aires Province"
+    }
+}
