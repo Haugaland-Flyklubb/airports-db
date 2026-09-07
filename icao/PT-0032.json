@@ -18,6 +18,30 @@
     "home_link": "http://www.centrovoolivre.com/",
     "wikipedia_link": "",
     "keywords": "Aerodromo da Amendoeira, Montemor o Novo",
+    "runways": [
+        {
+            "id": "610737",
+            "airport_ref": "317216",
+            "airport_ident": "PT-0032",
+            "length_ft": "2460",
+            "width_ft": "33",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "353538",
