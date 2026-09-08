@@ -18,6 +18,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "PPR",
+    "freqs": [
+        {
+            "id": "610747",
+            "airport_ref": "610606",
+            "airport_ident": "CA-1297",
+            "type": "CTAF",
+            "description": "Spencerville Traffic",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",
