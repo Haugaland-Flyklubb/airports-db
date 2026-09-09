@@ -1,0 +1,39 @@
+{
+    "id": "610756",
+    "ident": "PF-0004",
+    "type": "heliport",
+    "name": "PAGO HELIPAD",
+    "latitude_deg": "-16.51825",
+    "longitude_deg": "-151.734939",
+    "elevation_ft": "10",
+    "continent": "OC",
+    "iso_country": "PF",
+    "iso_region": "PF-LI",
+    "municipality": "Pago",
+    "scheduled_service": "yes",
+    "icao_code": "NTHB",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302777",
+        "code": "PF",
+        "name": "French Polynesia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/French_Polynesia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "610311",
+        "code": "PF-LI",
+        "local_code": "LI",
+        "name": "Leeward Islands",
+        "continent": "OC",
+        "iso_country": "PF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/%C3%8Eles_Tuamotu-Gambier",
+        "keywords": "îles Sous-le-Vent, Society Islands"
+    }
+}

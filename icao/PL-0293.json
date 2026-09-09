@@ -1,0 +1,39 @@
+{
+    "id": "610749",
+    "ident": "PL-0293",
+    "type": "small_airport",
+    "name": "Lelów Airstrip",
+    "latitude_deg": "50.70846",
+    "longitude_deg": "19.63953",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PL",
+    "iso_region": "PL-SL",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302710",
+        "code": "PL",
+        "name": "Poland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Poland",
+        "keywords": "Lotniska Polski"
+    },
+    "region": {
+        "id": "305156",
+        "code": "PL-SL",
+        "local_code": "SL",
+        "name": "Silesian Voivodeship",
+        "continent": "EU",
+        "iso_country": "PL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Silesian_Voivodship",
+        "keywords": "Śląskie, Silesia"
+    }
+}

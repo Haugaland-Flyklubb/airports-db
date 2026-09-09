@@ -60,14 +60,6 @@
             "frequency_mhz": "122"
         },
         {
-            "id": "50698",
-            "airport_ref": "1675",
-            "airport_ident": "CYBL",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "122"
-        },
-        {
             "id": "50697",
             "airport_ref": "1675",
             "airport_ident": "CYBL",
@@ -81,6 +73,14 @@
             "airport_ident": "CYBL",
             "type": "FSS",
             "description": "RDO",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "50698",
+            "airport_ref": "1675",
+            "airport_ident": "CYBL",
+            "type": "MF",
+            "description": "MF",
             "frequency_mhz": "122"
         },
         {

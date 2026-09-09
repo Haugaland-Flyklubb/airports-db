@@ -1,0 +1,39 @@
+{
+    "id": "610757",
+    "ident": "PF-0005",
+    "type": "heliport",
+    "name": "TAIOHAE HELIPAD",
+    "latitude_deg": "-8.919554",
+    "longitude_deg": "-140.092887",
+    "elevation_ft": "125",
+    "continent": "OC",
+    "iso_country": "PF",
+    "iso_region": "PF-MI",
+    "municipality": "TAIOHAE",
+    "scheduled_service": "no",
+    "icao_code": "NTHD",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302777",
+        "code": "PF",
+        "name": "French Polynesia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/French_Polynesia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "610312",
+        "code": "PF-MI",
+        "local_code": "MI",
+        "name": "Marquesas Islands",
+        "continent": "OC",
+        "iso_country": "PF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Marquesas_Islands",
+        "keywords": "Îles Marquises"
+    }
+}
