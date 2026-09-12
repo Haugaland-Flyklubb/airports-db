@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Monteagudo_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "610781",
+            "airport_ref": "32321",
+            "airport_ident": "SLAG",
+            "length_ft": "6562",
+            "width_ft": "98",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-19.816536",
+            "le_longitude_deg": "-63.966782",
+            "le_elevation_ft": "3671",
+            "le_heading_degT": "150",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-19.832161",
+            "he_longitude_deg": "-63.957203",
+            "he_elevation_ft": "3627",
+            "he_heading_degT": "330",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302790",
         "code": "BO",
