@@ -79,7 +79,15 @@
             "airport_ident": "LFLP",
             "type": "APP",
             "description": "CHAMBERY APP",
-            "frequency_mhz": "123.7"
+            "frequency_mhz": "123.705"
+        },
+        {
+            "id": "610809",
+            "airport_ref": "4141",
+            "airport_ident": "LFLP",
+            "type": "Sol",
+            "description": "",
+            "frequency_mhz": "121.73"
         },
         {
             "id": "52450",
@@ -87,7 +95,7 @@
             "airport_ident": "LFLP",
             "type": "TWR",
             "description": "ANNECY TWR",
-            "frequency_mhz": "118.2"
+            "frequency_mhz": "118.205"
         }
     ],
     "country": {
