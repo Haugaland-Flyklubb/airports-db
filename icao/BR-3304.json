@@ -1,0 +1,39 @@
+{
+    "id": "610843",
+    "ident": "BR-3304",
+    "type": "heliport",
+    "name": "Fazenda Bonfim Heliport",
+    "latitude_deg": "-11.014463",
+    "longitude_deg": "-37.63615",
+    "elevation_ft": "361",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SE",
+    "municipality": "Lagarto",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SJID",
+    "local_code": "SE0007",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303223",
+        "code": "BR-SE",
+        "local_code": "SE",
+        "name": "Sergipe",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sergipe",
+        "keywords": "Airports in Sergipe"
+    }
+}
