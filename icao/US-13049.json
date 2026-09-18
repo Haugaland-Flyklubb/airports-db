@@ -1,15 +1,15 @@
 {
-    "id": "355112",
-    "ident": "US-6885",
+    "id": "610861",
+    "ident": "US-13049",
     "type": "closed",
-    "name": "MP25 Heliport",
-    "latitude_deg": "26.488417",
-    "longitude_deg": "-81.829519",
-    "elevation_ft": "30",
+    "name": "Midland Field",
+    "latitude_deg": "33.412575",
+    "longitude_deg": "-110.830341",
+    "elevation_ft": "",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-FL",
-    "municipality": "Fort Myers",
+    "iso_region": "US-AZ",
+    "municipality": "Globe",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -17,7 +17,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "FL26",
+    "keywords": "",
     "country": {
         "id": "302755",
         "code": "US",
@@ -27,13 +27,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306085",
-        "code": "US-FL",
-        "local_code": "FL",
-        "name": "Florida",
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
-        "keywords": "Airports in Florida"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": "Airports in Arizona"
     }
 }
