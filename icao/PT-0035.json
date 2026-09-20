@@ -18,6 +18,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Serra da Estrela, Seia Airfield",
+    "runways": [
+        {
+            "id": "610879",
+            "airport_ref": "320152",
+            "airport_ident": "PT-0035",
+            "length_ft": "4829",
+            "width_ft": "95",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "40.452285",
+            "le_longitude_deg": "-7.695728",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "40.45536",
+            "he_longitude_deg": "-7.683664",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "610880",
+            "airport_ref": "320152",
+            "airport_ident": "PT-0035",
+            "type": "SAFETYCOM",
+            "description": "",
+            "frequency_mhz": "122.505"
+        }
+    ],
     "country": {
         "id": "302711",
         "code": "PT",

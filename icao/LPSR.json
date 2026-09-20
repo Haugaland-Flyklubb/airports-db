@@ -18,6 +18,40 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Santar%C3%A9m",
     "keywords": "",
+    "runways": [
+        {
+            "id": "610881",
+            "airport_ref": "29492",
+            "airport_ident": "LPSR",
+            "length_ft": "3960",
+            "width_ft": "82",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "39.20703",
+            "le_longitude_deg": "-8.69071",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "39.21243",
+            "he_longitude_deg": "-8.68324",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "610882",
+            "airport_ref": "29492",
+            "airport_ident": "LPSR",
+            "type": "INFO",
+            "description": "SANTAREM",
+            "frequency_mhz": "122.605"
+        }
+    ],
     "country": {
         "id": "302711",
         "code": "PT",
