@@ -1,0 +1,39 @@
+{
+    "id": "610897",
+    "ident": "RU-10191",
+    "type": "heliport",
+    "name": "Nord-Avia Heliport",
+    "latitude_deg": "69.39495",
+    "longitude_deg": "88.361712",
+    "elevation_ft": "98",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KYA",
+    "municipality": "Valek",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "HE6Y",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ХЕ6Ы, Норд-Авиа, Валек",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305298",
+        "code": "RU-KYA",
+        "local_code": "KYA",
+        "name": "Krasnoyarsk Krai",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Krasnoyarsk_Krai",
+        "keywords": "Airports in Krasnoyarsk Krai"
+    }
+}
