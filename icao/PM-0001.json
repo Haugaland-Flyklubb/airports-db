@@ -1,0 +1,63 @@
+{
+    "id": "610900",
+    "ident": "PM-0001",
+    "type": "closed",
+    "name": "Saint-Pierre Airport OLD",
+    "latitude_deg": "46.773641",
+    "longitude_deg": "-56.168157",
+    "elevation_ft": "20",
+    "continent": "NA",
+    "iso_country": "PM",
+    "iso_region": "PM-SP",
+    "municipality": "Saint-Pierre",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "FSP, LFVP",
+    "runways": [
+        {
+            "id": "610901",
+            "airport_ref": "610900",
+            "airport_ident": "PM-0001",
+            "length_ft": "4101",
+            "width_ft": "",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "90",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "270",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302750",
+        "code": "PM",
+        "name": "Saint Pierre and Miquelon",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon",
+        "keywords": "Airports in Saint Pierre and Miquelon"
+    },
+    "region": {
+        "id": "305162",
+        "code": "PM-SP",
+        "local_code": "SP",
+        "name": "Saint-Pierre",
+        "continent": "NA",
+        "iso_country": "PM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint-Pierre",
+        "keywords": "Airports in Saint-Pierre"
+    }
+}

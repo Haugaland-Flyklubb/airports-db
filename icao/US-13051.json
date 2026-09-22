@@ -1,15 +1,15 @@
 {
-    "id": "594318",
-    "ident": "US-12665",
-    "type": "heliport",
-    "name": "Crosby Heliport",
-    "latitude_deg": "31.573796",
-    "longitude_deg": "-97.313628",
+    "id": "610909",
+    "ident": "US-13051",
+    "type": "balloonport",
+    "name": "World View Balloon Launch Site",
+    "latitude_deg": "32.086619",
+    "longitude_deg": "-110.944719",
     "elevation_ft": "",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-TX",
-    "municipality": "",
+    "iso_region": "US-AZ",
+    "municipality": "Tucson",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
+        "id": "306079",
+        "code": "US-AZ",
+        "local_code": "AZ",
+        "name": "Arizona",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arizona",
+        "keywords": "Airports in Arizona"
     }
 }
