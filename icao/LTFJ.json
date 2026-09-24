@@ -66,27 +66,43 @@
     ],
     "freqs": [
         {
+            "id": "610945",
+            "airport_ref": "4569",
+            "airport_ident": "LTFJ",
+            "type": "D-ATIS-ARR",
+            "description": "D-ATIS for Arrivals",
+            "frequency_mhz": "130.25"
+        },
+        {
             "id": "57837",
             "airport_ref": "4569",
             "airport_ident": "LTFJ",
-            "type": "ATIS",
-            "description": "ATIS",
+            "type": "D-ATIS-DEP",
+            "description": "D-ATIS for Departures",
             "frequency_mhz": "128.2"
         },
         {
             "id": "593687",
             "airport_ref": "4569",
             "airport_ident": "LTFJ",
-            "type": "CLNC DEL",
-            "description": "",
-            "frequency_mhz": "126.425"
+            "type": "Gokcen DLV",
+            "description": "Gokcen Delivery (Main)",
+            "frequency_mhz": "122.625"
+        },
+        {
+            "id": "610946",
+            "airport_ref": "4569",
+            "airport_ident": "LTFJ",
+            "type": "Gokcen GND",
+            "description": "Gokcen Ground (Main-2)",
+            "frequency_mhz": "121.58"
         },
         {
             "id": "57838",
             "airport_ref": "4569",
             "airport_ident": "LTFJ",
-            "type": "GND",
-            "description": "GND",
+            "type": "Gokcen GND",
+            "description": "Gokcen Ground (Main-1)",
             "frequency_mhz": "121.75"
         },
         {
