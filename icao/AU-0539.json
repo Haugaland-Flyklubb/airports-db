@@ -42,6 +42,56 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
+    "freqs": [
+        {
+            "id": "610952",
+            "airport_ref": "507237",
+            "airport_ident": "AU-0539",
+            "type": "APP",
+            "description": "WALTON Approach",
+            "frequency_mhz": "119.35"
+        },
+        {
+            "id": "610950",
+            "airport_ref": "507237",
+            "airport_ident": "AU-0539",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "610955",
+            "airport_ref": "507237",
+            "airport_ident": "AU-0539",
+            "type": "CTR",
+            "description": "SYDNEY Centre",
+            "frequency_mhz": "124.55"
+        },
+        {
+            "id": "610951",
+            "airport_ref": "507237",
+            "airport_ident": "AU-0539",
+            "type": "DEP",
+            "description": "WALTON Departure",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "610954",
+            "airport_ref": "507237",
+            "airport_ident": "AU-0539",
+            "type": "GND",
+            "description": "WALTON Ground",
+            "frequency_mhz": "124.05"
+        },
+        {
+            "id": "610953",
+            "airport_ref": "507237",
+            "airport_ident": "AU-0539",
+            "type": "TWR",
+            "description": "WALTON Tower",
+            "frequency_mhz": "128.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",
