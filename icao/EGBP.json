@@ -116,6 +116,30 @@
             "type": "AFIS",
             "description": "INFO",
             "frequency_mhz": "118.9"
+        },
+        {
+            "id": "611002",
+            "airport_ref": "2395",
+            "airport_ident": "EGBP",
+            "type": "AFIS 2",
+            "description": "Cotswolds Information 2",
+            "frequency_mhz": "118.43"
+        },
+        {
+            "id": "611000",
+            "airport_ref": "2395",
+            "airport_ident": "EGBP",
+            "type": "STO",
+            "description": "Starrspeed Training Ops",
+            "frequency_mhz": "131.61"
+        },
+        {
+            "id": "611001",
+            "airport_ref": "2395",
+            "airport_ident": "EGBP",
+            "type": "ZAO",
+            "description": "Zero Avia Ops",
+            "frequency_mhz": "131.94"
         }
     ],
     "country": {

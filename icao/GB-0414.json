@@ -18,6 +18,48 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Weston-on-the-Green",
     "keywords": "Weston-on-the-Green",
+    "freqs": [
+        {
+            "id": "610996",
+            "airport_ref": "320548",
+            "airport_ident": "GB-0414",
+            "type": "Gliding Club",
+            "description": "Gliding Club (Oxford Gliding Club)",
+            "frequency_mhz": "164.025"
+        },
+        {
+            "id": "610995",
+            "airport_ref": "320548",
+            "airport_ident": "GB-0414",
+            "type": "SUAAIS",
+            "description": "Special Use Airspace Advisory Information Service",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "610994",
+            "airport_ref": "320548",
+            "airport_ident": "GB-0414",
+            "type": "UHF AM",
+            "description": "RAF Weston-on-the-Green Radio UHF",
+            "frequency_mhz": "241.675"
+        },
+        {
+            "id": "610992",
+            "airport_ref": "320548",
+            "airport_ident": "GB-0414",
+            "type": "VHF AM",
+            "description": "RAF Weston-on-the-Green Radio",
+            "frequency_mhz": "120.09"
+        },
+        {
+            "id": "610993",
+            "airport_ref": "320548",
+            "airport_ident": "GB-0414",
+            "type": "VHF AM",
+            "description": "RAF Weston-on-the-Green Radio 02",
+            "frequency_mhz": "120.092"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

@@ -66,11 +66,27 @@
     ],
     "freqs": [
         {
+            "id": "610999",
+            "airport_ref": "2477",
+            "airport_ident": "EGSU",
+            "type": "A/G / AFIS",
+            "description": "A/G / Duxford Information",
+            "frequency_mhz": "122.08"
+        },
+        {
+            "id": "610998",
+            "airport_ref": "2477",
+            "airport_ident": "EGSU",
+            "type": "FIRE",
+            "description": "Duxford Fire",
+            "frequency_mhz": "121.605"
+        },
+        {
             "id": "58144",
             "airport_ref": "2477",
             "airport_ident": "EGSU",
-            "type": "INFO",
-            "description": "Duxford Information",
+            "type": "INFO / A/G",
+            "description": "Duxford Information / A/G",
             "frequency_mhz": "122.075"
         }
     ],

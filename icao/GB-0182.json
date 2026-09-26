@@ -18,6 +18,24 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_East_Kirkby",
     "keywords": "RAF East Kirkby",
+    "freqs": [
+        {
+            "id": "611003",
+            "airport_ref": "315913",
+            "airport_ident": "GB-0182",
+            "type": "A/G",
+            "description": "Kirkby Radio",
+            "frequency_mhz": "121.18"
+        },
+        {
+            "id": "611004",
+            "airport_ref": "315913",
+            "airport_ident": "GB-0182",
+            "type": "A/G (Historical)",
+            "description": "Kirkby Radio (Historical)",
+            "frequency_mhz": "121.175"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

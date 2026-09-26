@@ -18,6 +18,24 @@
     "home_link": "https://www.bhbc.club",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "610986",
+            "airport_ref": "331321",
+            "airport_ident": "GB-0609",
+            "type": "25 KHz",
+            "description": "25 KHz balloons",
+            "frequency_mhz": "122.475"
+        },
+        {
+            "id": "610987",
+            "airport_ref": "331321",
+            "airport_ident": "GB-0609",
+            "type": "8.33 KHz",
+            "description": "8.33 KHz balloons",
+            "frequency_mhz": "122.48"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

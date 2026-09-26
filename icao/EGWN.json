@@ -71,7 +71,31 @@
             "airport_ident": "EGWN",
             "type": "A/G",
             "description": "Halton A/G",
+            "frequency_mhz": "130.43"
+        },
+        {
+            "id": "610984",
+            "airport_ref": "29207",
+            "airport_ident": "EGWN",
+            "type": "A/G (historical)",
+            "description": "Halton A/G (historical)",
             "frequency_mhz": "130.425"
+        },
+        {
+            "id": "610983",
+            "airport_ref": "29207",
+            "airport_ident": "EGWN",
+            "type": "Airshows/A/G",
+            "description": "Airshows / Event Air-to-Ground",
+            "frequency_mhz": "123.35"
+        },
+        {
+            "id": "610985",
+            "airport_ref": "29207",
+            "airport_ident": "EGWN",
+            "type": "Ground",
+            "description": "Halton Military Ground",
+            "frequency_mhz": "356.275"
         }
     ],
     "country": {
