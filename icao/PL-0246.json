@@ -42,6 +42,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "611027",
+            "airport_ref": "544944",
+            "airport_ident": "PL-0246",
+            "type": "CTAF",
+            "description": "Tuszyn Radio",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",
