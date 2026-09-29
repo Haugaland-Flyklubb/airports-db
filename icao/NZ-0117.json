@@ -1,0 +1,39 @@
+{
+    "id": "611043",
+    "ident": "NZ-0117",
+    "type": "small_airport",
+    "name": "Sunrise Valley Airstrip",
+    "latitude_deg": "-41.2642",
+    "longitude_deg": "172.961",
+    "elevation_ft": "295",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-TAS",
+    "municipality": "Sunrise Valley",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302776",
+        "code": "NZ",
+        "name": "New Zealand",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Zealand",
+        "keywords": "Airports in New Zealand"
+    },
+    "region": {
+        "id": "304981",
+        "code": "NZ-TAS",
+        "local_code": "TAS",
+        "name": "Tasman Region",
+        "continent": "OC",
+        "iso_country": "NZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tasman_Region",
+        "keywords": "Airports in Tasman Region"
+    }
+}
