@@ -1,0 +1,39 @@
+{
+    "id": "611061",
+    "ident": "CN-0511",
+    "type": "small_airport",
+    "name": "Lu'an Airbase",
+    "latitude_deg": "31.627002",
+    "longitude_deg": "116.274662",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-34",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "ZSLA",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303433",
+        "code": "CN-34",
+        "local_code": "34",
+        "name": "Anhui Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Anhui",
+        "keywords": "Airports in Anhui Province"
+    }
+}
