@@ -1,15 +1,15 @@
 {
-    "id": "346010",
-    "ident": "US-4660",
+    "id": "611071",
+    "ident": "US-13053",
     "type": "closed",
-    "name": "Mayfield Ranch Airport",
-    "latitude_deg": "31.90102",
-    "longitude_deg": "-105.4798",
-    "elevation_ft": "4590",
+    "name": "Glendale Heliport",
+    "latitude_deg": "34.14324",
+    "longitude_deg": "-118.27187",
+    "elevation_ft": "463",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-TX",
-    "municipality": "Salt Flat",
+    "iso_region": "US-CA",
+    "municipality": "Glendale",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306119",
-        "code": "US-TX",
-        "local_code": "TX",
-        "name": "Texas",
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
-        "keywords": "Texan airports"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": "Californian airports"
     }
 }
