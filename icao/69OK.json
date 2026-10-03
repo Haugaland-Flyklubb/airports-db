@@ -2,7 +2,7 @@
     "id": "13162",
     "ident": "69OK",
     "type": "small_airport",
-    "name": "Green Country Airpark",
+    "name": "Uncle Kenny's Aerodrome",
     "latitude_deg": "36.71578",
     "longitude_deg": "-94.85152",
     "elevation_ft": "840",
@@ -17,7 +17,7 @@
     "local_code": "69OK",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Green Country Airpark",
     "runways": [
         {
             "id": "248276",
@@ -40,6 +40,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "611085",
+            "airport_ref": "13162",
+            "airport_ident": "69OK",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.9"
         }
     ],
     "country": {
