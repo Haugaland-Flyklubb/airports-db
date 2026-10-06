@@ -1,8 +1,8 @@
 {
     "id": "5252",
     "ident": "OPGW",
-    "type": "closed",
-    "name": "Gwadar International Airport",
+    "type": "small_airport",
+    "name": "Gwadar International Airport (Old)",
     "latitude_deg": "25.23298",
     "longitude_deg": "62.328735",
     "elevation_ft": "36",
@@ -11,13 +11,13 @@
     "iso_region": "PK-BA",
     "municipality": "Gwadar",
     "scheduled_service": "no",
-    "icao_code": "",
+    "icao_code": "OPGD",
     "iata_code": "",
-    "gps_code": "",
+    "gps_code": "OPGD",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Gwadar_International_Airport",
-    "keywords": "GWD, OPGD",
+    "keywords": "GWD",
     "runways": [
         {
             "id": "238218",
