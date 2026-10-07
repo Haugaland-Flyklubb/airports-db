@@ -1,0 +1,39 @@
+{
+    "id": "611186",
+    "ident": "CN-0513",
+    "type": "small_airport",
+    "name": "Chongqing Longxing General Airport",
+    "latitude_deg": "29.748555",
+    "longitude_deg": "106.800601",
+    "elevation_ft": "779",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-50",
+    "municipality": "Chongqing",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303443",
+        "code": "CN-50",
+        "local_code": "50",
+        "name": "Chongqing Municipality",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chongqing",
+        "keywords": "Airports in Chongqing Municipality"
+    }
+}
