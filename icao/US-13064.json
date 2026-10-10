@@ -1,32 +1,32 @@
 {
-    "id": "10168",
-    "ident": "35VA",
+    "id": "611257",
+    "ident": "US-13064",
     "type": "heliport",
-    "name": "Community Memorial Hospital Heliport",
-    "latitude_deg": "36.751347",
-    "longitude_deg": "-78.104767",
-    "elevation_ft": "470",
+    "name": "Thomas Hospital Helistop",
+    "latitude_deg": "30.517722",
+    "longitude_deg": "-87.890139",
+    "elevation_ft": "183",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-VA",
-    "municipality": "South Hill",
+    "iso_region": "US-AL",
+    "municipality": "Fairhope",
     "scheduled_service": "no",
     "icao_code": "",
     "iata_code": "",
-    "gps_code": "35VA",
-    "local_code": "35VA",
+    "gps_code": "54AL",
+    "local_code": "54AL",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "CMH Medical",
+    "keywords": "",
     "runways": [
         {
-            "id": "269997",
-            "airport_ref": "10168",
-            "airport_ident": "35VA",
-            "length_ft": "55",
-            "width_ft": "55",
-            "surface": "CON",
-            "lighted": "1",
+            "id": "611258",
+            "airport_ref": "611257",
+            "airport_ident": "US-13064",
+            "length_ft": "43",
+            "width_ft": "43",
+            "surface": "Aluminum",
+            "lighted": "0",
             "closed": "0",
             "le_ident": "H1",
             "le_latitude_deg": "",
@@ -42,6 +42,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "611259",
+            "airport_ref": "611257",
+            "airport_ident": "US-13064",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",
@@ -51,13 +61,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306122",
-        "code": "US-VA",
-        "local_code": "VA",
-        "name": "Virginia",
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
-        "keywords": "Virginian airports"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": "Airports in Alabama"
     }
 }
