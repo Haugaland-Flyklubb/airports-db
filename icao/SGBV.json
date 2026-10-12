@@ -1,0 +1,39 @@
+{
+    "id": "611276",
+    "ident": "SGBV",
+    "type": "small_airport",
+    "name": "Icanimby Airport",
+    "latitude_deg": "-22.121637",
+    "longitude_deg": "-56.507417",
+    "elevation_ft": "684",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-7",
+    "municipality": "Bella Vista Norte",
+    "scheduled_service": "no",
+    "icao_code": "SGBV",
+    "iata_code": "",
+    "gps_code": "SGBV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302799",
+        "code": "PY",
+        "name": "Paraguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
+        "keywords": "Aeropuertos de Paraguay"
+    },
+    "region": {
+        "id": "305203",
+        "code": "PY-7",
+        "local_code": "7",
+        "name": "Itapúa Department",
+        "continent": "SA",
+        "iso_country": "PY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Itap%C3%BAa_Department",
+        "keywords": "Airports in Itapúa Department"
+    }
+}

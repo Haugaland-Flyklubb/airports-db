@@ -1,0 +1,39 @@
+{
+    "id": "611279",
+    "ident": "SGJN",
+    "type": "small_airport",
+    "name": "San Juan Nepomuceno Airport",
+    "latitude_deg": "-26.099415",
+    "longitude_deg": "-55.936901",
+    "elevation_ft": "477",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-6",
+    "municipality": "San Juan Nepomuceno",
+    "scheduled_service": "no",
+    "icao_code": "SGJN",
+    "iata_code": "",
+    "gps_code": "SGJN",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302799",
+        "code": "PY",
+        "name": "Paraguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
+        "keywords": "Aeropuertos de Paraguay"
+    },
+    "region": {
+        "id": "305202",
+        "code": "PY-6",
+        "local_code": "6",
+        "name": "Caazapá Department",
+        "continent": "SA",
+        "iso_country": "PY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Caazap%C3%A1_Department",
+        "keywords": "Airports in Caazapá Department"
+    }
+}

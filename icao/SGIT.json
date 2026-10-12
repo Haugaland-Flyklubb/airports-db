@@ -1,0 +1,39 @@
+{
+    "id": "611278",
+    "ident": "SGIT",
+    "type": "small_airport",
+    "name": "Itapé Airport",
+    "latitude_deg": "-25.857321",
+    "longitude_deg": "-56.617864",
+    "elevation_ft": "343",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-4",
+    "municipality": "Itapé",
+    "scheduled_service": "no",
+    "icao_code": "SGIT",
+    "iata_code": "",
+    "gps_code": "SGIT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302799",
+        "code": "PY",
+        "name": "Paraguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
+        "keywords": "Aeropuertos de Paraguay"
+    },
+    "region": {
+        "id": "305200",
+        "code": "PY-4",
+        "local_code": "4",
+        "name": "Guairá Department",
+        "continent": "SA",
+        "iso_country": "PY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guair%C3%A1_Department",
+        "keywords": "Airports in Guairá Department"
+    }
+}
