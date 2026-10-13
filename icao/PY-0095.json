@@ -1,0 +1,39 @@
+{
+    "id": "611285",
+    "ident": "PY-0095",
+    "type": "small_airport",
+    "name": "Ypané Complex Airport",
+    "latitude_deg": "-22.610311",
+    "longitude_deg": "-55.651277",
+    "elevation_ft": "2100",
+    "continent": "SA",
+    "iso_country": "PY",
+    "iso_region": "PY-13",
+    "municipality": "Colonia Potrero Sur - Zanja Pytá",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302799",
+        "code": "PY",
+        "name": "Paraguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraguay",
+        "keywords": "Aeropuertos de Paraguay"
+    },
+    "region": {
+        "id": "305193",
+        "code": "PY-13",
+        "local_code": "13",
+        "name": "Amambay Department",
+        "continent": "SA",
+        "iso_country": "PY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amambay_Department",
+        "keywords": "Airports in Amambay Department"
+    }
+}
