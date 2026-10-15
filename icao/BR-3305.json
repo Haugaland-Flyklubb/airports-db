@@ -1,0 +1,63 @@
+{
+    "id": "611337",
+    "ident": "BR-3305",
+    "type": "small_airport",
+    "name": "Fazenda Caaporã Airport",
+    "latitude_deg": "-22.507594",
+    "longitude_deg": "-51.786595",
+    "elevation_ft": "1217",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Bom Jesus do Araguaia",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SN03",
+    "local_code": "MT1203",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "611338",
+            "airport_ref": "611337",
+            "airport_ident": "BR-3305",
+            "length_ft": "3284",
+            "width_ft": "59",
+            "surface": "Piçarra",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303211",
+        "code": "BR-MT",
+        "local_code": "MT",
+        "name": "Mato Grosso",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
+        "keywords": "Airports in Mato Grosso"
+    }
+}
