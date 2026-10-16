@@ -1,0 +1,63 @@
+{
+    "id": "611349",
+    "ident": "AE-0283",
+    "type": "small_airport",
+    "name": "Skydive Dubai Desert Campus",
+    "latitude_deg": "24.888479",
+    "longitude_deg": "55.546286",
+    "elevation_ft": "505",
+    "continent": "AS",
+    "iso_country": "AE",
+    "iso_region": "AE-DU",
+    "municipality": "Margham",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "611350",
+            "airport_ref": "611349",
+            "airport_ident": "AE-0283",
+            "length_ft": "5269",
+            "width_ft": "65",
+            "surface": "asphalt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "24.895288",
+            "le_longitude_deg": "55.5446374",
+            "le_elevation_ft": "492",
+            "le_heading_degT": "167",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "24.881183",
+            "he_longitude_deg": "55.54806",
+            "he_elevation_ft": "421",
+            "he_heading_degT": "347",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302618",
+        "code": "AE",
+        "name": "United Arab Emirates",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+        "keywords": "UAE,مطارات في الإمارات العربية المتحدة"
+    },
+    "region": {
+        "id": "302821",
+        "code": "AE-DU",
+        "local_code": "DU",
+        "name": "Dubai Emirate",
+        "continent": "AS",
+        "iso_country": "AE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dubai",
+        "keywords": "Dubayy"
+    }
+}

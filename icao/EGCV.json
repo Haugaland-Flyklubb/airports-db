@@ -12,12 +12,12 @@
     "municipality": "Shrewsbury, Shropshire",
     "scheduled_service": "no",
     "icao_code": "EGCV",
-    "iata_code": "QKV",
+    "iata_code": "",
     "gps_code": "EGCV",
     "local_code": "",
     "home_link": "http://www.shropshireaeroclub.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Sleap_Airfield",
-    "keywords": "RAF Sleap",
+    "keywords": "RAF Sleap, QKV",
     "runways": [
         {
             "id": "253044",
@@ -91,5 +91,29 @@
         "iso_country": "GB",
         "wikipedia_link": "https://en.wikipedia.org/wiki/England",
         "keywords": "English airports"
-    }
+    },
+    "navaids": [
+        {
+            "id": "93739",
+            "filename": "Sleap_NDB_GB",
+            "ident": "SLP",
+            "name": "Sleap",
+            "type": "NDB",
+            "frequency_khz": "382",
+            "latitude_deg": "52.833599",
+            "longitude_deg": "-2.77361",
+            "elevation_ft": "",
+            "iso_country": "GB",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "-3.3",
+            "usageType": "LO",
+            "power": "LOW",
+            "associated_airport": "EGCV"
+        }
+    ]
 }
