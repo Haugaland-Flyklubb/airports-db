@@ -18,6 +18,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Horești",
+    "freqs": [
+        {
+            "id": "611422",
+            "airport_ref": "331602",
+            "airport_ident": "MD-0003",
+            "type": "TWR",
+            "description": "Horesti Tower",
+            "frequency_mhz": "125.05"
+        }
+    ],
     "country": {
         "id": "302704",
         "code": "MD",

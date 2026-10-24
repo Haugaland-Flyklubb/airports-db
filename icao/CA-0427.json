@@ -18,6 +18,62 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Disley_Aerodrome",
     "keywords": "",
+    "runways": [
+        {
+            "id": "611408",
+            "airport_ref": "46374",
+            "airport_ident": "CA-0427",
+            "length_ft": "2246",
+            "width_ft": "60",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "50.638695",
+            "le_longitude_deg": "-105.040259",
+            "le_elevation_ft": "",
+            "le_heading_degT": "117",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "50.635858",
+            "he_longitude_deg": "-105.031644",
+            "he_elevation_ft": "",
+            "he_heading_degT": "297",
+            "he_displaced_threshold_ft": ""
+        },
+        {
+            "id": "611403",
+            "airport_ref": "46374",
+            "airport_ident": "CA-0427",
+            "length_ft": "1172",
+            "width_ft": "70",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "50.636077",
+            "le_longitude_deg": "-105.031889",
+            "le_elevation_ft": "",
+            "le_heading_degT": "179",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "50.632866",
+            "he_longitude_deg": "-105.031796",
+            "he_elevation_ft": "",
+            "he_heading_degT": "359",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "611410",
+            "airport_ref": "46374",
+            "airport_ident": "CA-0427",
+            "type": "ATF",
+            "description": "",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",
