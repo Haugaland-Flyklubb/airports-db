@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Candle_Lake_Airpark",
     "keywords": "CL2",
+    "runways": [
+        {
+            "id": "611432",
+            "airport_ref": "765",
+            "airport_ident": "CCL2",
+            "length_ft": "2644",
+            "width_ft": "90",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "53.772787",
+            "le_longitude_deg": "-105.31095",
+            "le_elevation_ft": "",
+            "le_heading_degT": "162",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "53.765894",
+            "he_longitude_deg": "-105.307163",
+            "he_elevation_ft": "",
+            "he_heading_degT": "342",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

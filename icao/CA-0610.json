@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lampman/Spitfire_Air_Aerodrome",
     "keywords": "",
+    "runways": [
+        {
+            "id": "611429",
+            "airport_ref": "320343",
+            "airport_ident": "CA-0610",
+            "length_ft": "2520",
+            "width_ft": "50",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "49.493469",
+            "le_longitude_deg": "-102.881942",
+            "le_elevation_ft": "",
+            "le_heading_degT": "189",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "49.486653",
+            "he_longitude_deg": "-102.88368",
+            "he_elevation_ft": "",
+            "he_heading_degT": "9",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",
