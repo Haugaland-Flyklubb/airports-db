@@ -1,0 +1,39 @@
+{
+    "id": "611444",
+    "ident": "FADF",
+    "type": "small_airport",
+    "name": "Driefontein Fochville Airport",
+    "latitude_deg": "-26.580276",
+    "longitude_deg": "27.442775",
+    "elevation_ft": "4760",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-FS",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "FADF",
+    "iata_code": "",
+    "gps_code": "FADF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": "South African airports"
+    },
+    "region": {
+        "id": "306296",
+        "code": "ZA-FS",
+        "local_code": "FS",
+        "name": "Free State",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Free_State_(province)",
+        "keywords": "Airports in Free State"
+    }
+}

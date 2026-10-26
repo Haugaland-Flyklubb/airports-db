@@ -18,6 +18,30 @@
     "home_link": "https://www.asrivizagairport.com",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Alluri_Sitarama_Raju_International_Airport",
     "keywords": "Vizag, Visakhapatnam",
+    "runways": [
+        {
+            "id": "611441",
+            "airport_ref": "610317",
+            "airport_ident": "VOVI",
+            "length_ft": "12467",
+            "width_ft": "148",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "17.974281",
+            "le_longitude_deg": "83.484398",
+            "le_elevation_ft": "120",
+            "le_heading_degT": "101",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "17.967867",
+            "he_longitude_deg": "83.51963",
+            "he_elevation_ft": "188",
+            "he_heading_degT": "281",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

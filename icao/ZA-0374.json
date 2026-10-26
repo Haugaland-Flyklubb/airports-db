@@ -1,0 +1,39 @@
+{
+    "id": "611445",
+    "ident": "ZA-0374",
+    "type": "small_airport",
+    "name": "Ekland Ranch Airstrip",
+    "latitude_deg": "-22.857096",
+    "longitude_deg": "29.868264",
+    "elevation_ft": "2415",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-LP",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "FAER",
+    "iata_code": "",
+    "gps_code": "FAER",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": "South African airports"
+    },
+    "region": {
+        "id": "306301",
+        "code": "ZA-LP",
+        "local_code": "LP",
+        "name": "Limpopo",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
+        "keywords": "Airports in Limpopo"
+    }
+}
