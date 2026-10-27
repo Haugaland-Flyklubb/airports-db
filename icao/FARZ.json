@@ -3,13 +3,13 @@
     "ident": "FARZ",
     "type": "small_airport",
     "name": "Reitz Airport",
-    "latitude_deg": "-22.784201",
-    "longitude_deg": "28.4303",
-    "elevation_ft": "5331",
+    "latitude_deg": "-27.784303",
+    "longitude_deg": "28.430192",
+    "elevation_ft": "5312",
     "continent": "AF",
     "iso_country": "ZA",
-    "iso_region": "ZA-LP",
-    "municipality": "Maasstroom",
+    "iso_region": "ZA-FS",
+    "municipality": "Petsana",
     "scheduled_service": "no",
     "icao_code": "FARZ",
     "iata_code": "",
@@ -27,13 +27,13 @@
         "keywords": "South African airports"
     },
     "region": {
-        "id": "306301",
-        "code": "ZA-LP",
-        "local_code": "LP",
-        "name": "Limpopo",
+        "id": "306296",
+        "code": "ZA-FS",
+        "local_code": "FS",
+        "name": "Free State",
         "continent": "AF",
         "iso_country": "ZA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
-        "keywords": "Airports in Limpopo"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Free_State_(province)",
+        "keywords": "Airports in Free State"
     }
 }
