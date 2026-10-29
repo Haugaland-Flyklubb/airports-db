@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Flugplatz Reute",
+    "runways": [
+        {
+            "id": "611482",
+            "airport_ref": "315562",
+            "airport_ident": "DE-0224",
+            "length_ft": "2165",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "1887",
+            "le_heading_degT": "144",
+            "le_displaced_threshold_ft": "98",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "1887",
+            "he_heading_degT": "324",
+            "he_displaced_threshold_ft": "98"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
