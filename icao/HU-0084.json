@@ -1,0 +1,39 @@
+{
+    "id": "611509",
+    "ident": "HU-0084",
+    "type": "heliport",
+    "name": "Sétarepülés (seaonal)",
+    "latitude_deg": "46.92375",
+    "longitude_deg": "17.84326",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-VE",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304094",
+        "code": "HU-VE",
+        "local_code": "VE",
+        "name": "Veszprém County",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Veszprém_County",
+        "keywords": "Airports in Veszprém County"
+    }
+}

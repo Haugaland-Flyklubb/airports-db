@@ -28,44 +28,44 @@
             "surface": "ASPH",
             "lighted": "0",
             "closed": "0",
-            "le_ident": "07",
-            "le_latitude_deg": "53.351200103759766",
-            "le_longitude_deg": "-6.492070198059082",
+            "le_ident": "06",
+            "le_latitude_deg": "53.3512",
+            "le_longitude_deg": "-6.49207",
             "le_elevation_ft": "154",
-            "le_heading_degT": "67.2",
+            "le_heading_degT": "63",
             "le_displaced_threshold_ft": "50",
-            "he_ident": "25",
-            "he_latitude_deg": "53.35340118408203",
-            "he_longitude_deg": "-6.4846601486206055",
+            "he_ident": "24",
+            "he_latitude_deg": "53.353401",
+            "he_longitude_deg": "-6.48466",
             "he_elevation_ft": "152",
-            "he_heading_degT": "247.2",
+            "he_heading_degT": "243",
             "he_displaced_threshold_ft": "50"
         }
     ],
     "freqs": [
-        {
-            "id": "299118",
-            "airport_ref": "27310",
-            "airport_ident": "EIWT",
-            "type": "A/G",
-            "description": "Weston tower",
-            "frequency_mhz": "122.4"
-        },
         {
             "id": "299120",
             "airport_ref": "27310",
             "airport_ident": "EIWT",
             "type": "ATIS",
             "description": "",
-            "frequency_mhz": "118.87"
+            "frequency_mhz": "118.88"
         },
         {
             "id": "299119",
             "airport_ref": "27310",
             "airport_ident": "EIWT",
-            "type": "ground",
+            "type": "Ground",
             "description": "Weston ground",
-            "frequency_mhz": "119.42"
+            "frequency_mhz": "119.43"
+        },
+        {
+            "id": "299118",
+            "airport_ref": "27310",
+            "airport_ident": "EIWT",
+            "type": "Tower",
+            "description": "Weston tower",
+            "frequency_mhz": "122.405"
         }
     ],
     "country": {
