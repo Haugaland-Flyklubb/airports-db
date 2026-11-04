@@ -52,12 +52,28 @@
             "frequency_mhz": "125"
         },
         {
+            "id": "611597",
+            "airport_ref": "20387",
+            "airport_ident": "KLVN",
+            "type": "App/Dep",
+            "description": "Minneapolis TRACON",
+            "frequency_mhz": "134.7"
+        },
+        {
+            "id": "611599",
+            "airport_ref": "20387",
+            "airport_ident": "KLVN",
+            "type": "App/Dep",
+            "description": "Minneapolis TRACON",
+            "frequency_mhz": "284.7"
+        },
+        {
             "id": "71365",
             "airport_ref": "20387",
             "airport_ident": "KLVN",
             "type": "AWOS",
             "description": "AWOS 3",
-            "frequency_mhz": "115.7"
+            "frequency_mhz": "118"
         },
         {
             "id": "71366",
@@ -66,6 +82,14 @@
             "type": "CLD",
             "description": "CLNC DEL",
             "frequency_mhz": "118.95"
+        },
+        {
+            "id": "611598",
+            "airport_ref": "20387",
+            "airport_ident": "KLVN",
+            "type": "FSS",
+            "description": "Princeton",
+            "frequency_mhz": "122.3"
         },
         {
             "id": "71367",
@@ -81,7 +105,7 @@
             "airport_ident": "KLVN",
             "type": "UNIC",
             "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
+            "frequency_mhz": "123.05"
         }
     ],
     "country": {
