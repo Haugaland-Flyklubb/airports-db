@@ -18,6 +18,16 @@
     "home_link": "http://air.belozem.com/index.php",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "611606",
+            "airport_ref": "320908",
+            "airport_ident": "BG-0040",
+            "type": "CTAF",
+            "description": "Belozem Traffic",
+            "frequency_mhz": "118.18"
+        }
+    ],
     "country": {
         "id": "302677",
         "code": "BG",
