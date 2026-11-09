@@ -1,0 +1,39 @@
+{
+    "id": "611645",
+    "ident": "FI-0025",
+    "type": "heliport",
+    "name": "Åland Central Hospital",
+    "latitude_deg": "60.114719",
+    "longitude_deg": "19.932905",
+    "elevation_ft": "52",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-01",
+    "municipality": "",
+    "scheduled_service": "no",
+    "icao_code": "EFMH",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Ahvenanmaan keskussairaala",
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "303799",
+        "code": "FI-01",
+        "local_code": "01",
+        "name": "Åland Islands Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Åland_Islands",
+        "keywords": "Ahvenanmaan lääni, Ålands län"
+    }
+}
