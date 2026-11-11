@@ -26,13 +26,13 @@
             "length_ft": "1870",
             "width_ft": "164",
             "surface": "grass",
-            "lighted": "0",
+            "lighted": "1",
             "closed": "0",
             "le_ident": "09L",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
             "le_elevation_ft": "",
-            "le_heading_degT": "93",
+            "le_heading_degT": "91",
             "le_displaced_threshold_ft": "",
             "he_ident": "27R",
             "he_latitude_deg": "",
@@ -88,12 +88,20 @@
     ],
     "freqs": [
         {
+            "id": "611647",
+            "airport_ref": "30142",
+            "airport_ident": "EPMR",
+            "type": "EPMR radio",
+            "description": "MIROSLAWICE",
+            "frequency_mhz": "0"
+        },
+        {
             "id": "307727",
             "airport_ref": "30142",
             "airport_ident": "EPMR",
             "type": "Radio",
             "description": "Miroslawice Radio",
-            "frequency_mhz": "122.6"
+            "frequency_mhz": "122.605"
         }
     ],
     "country": {
