@@ -1,0 +1,39 @@
+{
+    "id": "611660",
+    "ident": "SLBE",
+    "type": "small_airport",
+    "name": "Beirut Airstrip",
+    "latitude_deg": "-17.6525",
+    "longitude_deg": "-62.654722",
+    "elevation_ft": "925",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Chiquitos",
+    "scheduled_service": "no",
+    "icao_code": "SLBE",
+    "iata_code": "",
+    "gps_code": "SLBE",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302790",
+        "code": "BO",
+        "name": "Bolivia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolivia",
+        "keywords": "Aeropuertos de Bolivia"
+    },
+    "region": {
+        "id": "303196",
+        "code": "BO-S",
+        "local_code": "S",
+        "name": "Santa Cruz Department",
+        "continent": "SA",
+        "iso_country": "BO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Department",
+        "keywords": "Airports in Santa Cruz Department"
+    }
+}
