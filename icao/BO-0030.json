@@ -1,0 +1,39 @@
+{
+    "id": "611685",
+    "ident": "BO-0030",
+    "type": "small_airport",
+    "name": "Parai(Puerto Rico) Airport",
+    "latitude_deg": "-17.690612",
+    "longitude_deg": "-63.199016",
+    "elevation_ft": "1262",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-U-A",
+    "municipality": "Parai, Santa Cruz",
+    "scheduled_service": "no",
+    "icao_code": "SLPR",
+    "iata_code": "PUR",
+    "gps_code": "SLPR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302790",
+        "code": "BO",
+        "name": "Bolivia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolivia",
+        "keywords": "Aeropuertos de Bolivia"
+    },
+    "region": {
+        "id": "303198",
+        "code": "BO-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "SA",
+        "iso_country": "BO",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": "611674",
+    "ident": "SLDF",
+    "type": "small_airport",
+    "name": "Doña Francisca Airstrip",
+    "latitude_deg": "-17.945267",
+    "longitude_deg": "-62.101059",
+    "elevation_ft": "955",
+    "continent": "SA",
+    "iso_country": "BO",
+    "iso_region": "BO-S",
+    "municipality": "Chiquitos",
+    "scheduled_service": "no",
+    "icao_code": "SLDF",
+    "iata_code": "",
+    "gps_code": "SLDF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "611675",
+            "airport_ref": "611674",
+            "airport_ident": "SLDF",
+            "length_ft": "3937",
+            "width_ft": "39",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302790",
+        "code": "BO",
+        "name": "Bolivia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolivia",
+        "keywords": "Aeropuertos de Bolivia"
+    },
+    "region": {
+        "id": "303196",
+        "code": "BO-S",
+        "local_code": "S",
+        "name": "Santa Cruz Department",
+        "continent": "SA",
+        "iso_country": "BO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Department",
+        "keywords": "Airports in Santa Cruz Department"
+    }
+}
