@@ -1,0 +1,39 @@
+{
+    "id": "611699",
+    "ident": "RU-10199",
+    "type": "heliport",
+    "name": "Moscow-City Helipad",
+    "latitude_deg": "55.745903",
+    "longitude_deg": "37.539211",
+    "elevation_ft": "410",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-MOW",
+    "municipality": "Moscow",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "moscow city",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305305",
+        "code": "RU-MOW",
+        "local_code": "MOW",
+        "name": "Moscow (city)",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Moscow_(city)",
+        "keywords": "Airports in Moscow (city)"
+    }
+}
