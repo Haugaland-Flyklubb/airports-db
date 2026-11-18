@@ -18,6 +18,16 @@
     "home_link": "http://www.feuervogel.be/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/B%C3%BCllingen_Airfield",
     "keywords": "Büllingen ULM",
+    "freqs": [
+        {
+            "id": "611716",
+            "airport_ref": "30965",
+            "airport_ident": "EBBN",
+            "type": "RDO",
+            "description": "Büllingen Radio",
+            "frequency_mhz": "118.98"
+        }
+    ],
     "country": {
         "id": "302676",
         "code": "BE",
