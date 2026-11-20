@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Zagora_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "611732",
+            "airport_ref": "429847",
+            "airport_ident": "GMAZ",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "30.269964",
+            "le_longitude_deg": "-5.877543",
+            "le_elevation_ft": "2420",
+            "le_heading_degT": "106",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "30.262539",
+            "he_longitude_deg": "-5.847565",
+            "he_elevation_ft": "2387",
+            "he_heading_degT": "286",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302584",
         "code": "MA",
