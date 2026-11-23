@@ -1,0 +1,63 @@
+{
+    "id": "611755",
+    "ident": "33MD",
+    "type": "seaplane_base",
+    "name": "Coastal Seaplanes, Smith Island Seaplane Base",
+    "latitude_deg": "37.987285",
+    "longitude_deg": "-76.020152",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Ewell",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "33MD",
+    "local_code": "33MD",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "611756",
+            "airport_ref": "611755",
+            "airport_ident": "33MD",
+            "length_ft": "5365",
+            "width_ft": "500",
+            "surface": "WAT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18W",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36W",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306096",
+        "code": "US-MD",
+        "local_code": "MD",
+        "name": "Maryland",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
+        "keywords": "Airports in Maryland"
+    }
+}

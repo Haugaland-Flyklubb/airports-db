@@ -3,12 +3,12 @@
     "ident": "GB-1333",
     "type": "heliport",
     "name": "Clifton Dykes",
-    "latitude_deg": "54.644211",
-    "longitude_deg": "-2.69254",
+    "latitude_deg": "54.644062",
+    "longitude_deg": "-2.692487",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "GB",
-    "iso_region": "GB-U-A",
+    "iso_region": "GB-ENG",
     "municipality": "",
     "scheduled_service": "no",
     "icao_code": "",
@@ -27,13 +27,13 @@
         "keywords": "Great Britain"
     },
     "region": {
-        "id": "303830",
-        "code": "GB-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306374",
+        "code": "GB-ENG",
+        "local_code": "ENG",
+        "name": "England",
         "continent": "EU",
         "iso_country": "GB",
-        "wikipedia_link": "",
-        "keywords": "keep"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/England",
+        "keywords": "English airports"
     }
 }
