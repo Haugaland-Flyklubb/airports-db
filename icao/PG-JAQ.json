@@ -18,6 +18,24 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Jacquinot_Bay_Airport",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "611774",
+            "airport_ref": "31693",
+            "airport_ident": "PG-JAQ",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.725"
+        },
+        {
+            "id": "611775",
+            "airport_ref": "31693",
+            "airport_ident": "PG-JAQ",
+            "type": "Unicom",
+            "description": "",
+            "frequency_mhz": "122.725"
+        }
+    ],
     "country": {
         "id": "302778",
         "code": "PG",
