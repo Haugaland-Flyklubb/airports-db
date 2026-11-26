@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "611882",
+            "airport_ref": "352237",
+            "airport_ident": "US-6411",
+            "length_ft": "3100",
+            "width_ft": "100",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "32.500833",
+            "le_longitude_deg": "-81.626389",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "32.495556",
+            "he_longitude_deg": "-81.6185",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

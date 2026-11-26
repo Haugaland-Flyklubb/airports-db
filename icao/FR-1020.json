@@ -18,6 +18,30 @@
     "home_link": "http://club-ulm-folairvanne.fr/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612580",
+            "airport_ref": "529107",
+            "airport_ident": "FR-1020",
+            "length_ft": "1476",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "44.829819",
+            "le_longitude_deg": "4.86572",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "44.833565",
+            "he_longitude_deg": "4.867351",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

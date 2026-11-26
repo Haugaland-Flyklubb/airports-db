@@ -18,6 +18,30 @@
     "home_link": "http://www.zagorje-aerodrom.hr/",
     "wikipedia_link": "https://hr.wikipedia.org/wiki/Zra%C4%8Dno_pristani%C5%A1te_Zabok",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612666",
+            "airport_ref": "316069",
+            "airport_ident": "LDZK",
+            "length_ft": "2621",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "46.016353",
+            "le_longitude_deg": "15.859708",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "46.009189",
+            "he_longitude_deg": "15.86055",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302692",
         "code": "HR",

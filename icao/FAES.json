@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612572",
+            "airport_ref": "29857",
+            "airport_ident": "FAES",
+            "length_ft": "2198",
+            "width_ft": "66",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "-28.883611",
+            "le_longitude_deg": "31.454167",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-28.8775",
+            "he_longitude_deg": "31.4575",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

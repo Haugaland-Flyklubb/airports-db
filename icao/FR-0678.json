@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612758",
+            "airport_ref": "528738",
+            "airport_ident": "FR-0678",
+            "length_ft": "886",
+            "width_ft": "89",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "48.097702",
+            "le_longitude_deg": "-2.077619",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "48.09893",
+            "he_longitude_deg": "-2.074948",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

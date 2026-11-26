@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Thames_Aerodrome",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612866",
+            "airport_ref": "30483",
+            "airport_ident": "NZTH",
+            "length_ft": "3593",
+            "width_ft": "121",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-37.156204",
+            "le_longitude_deg": "175.546164",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "414",
+            "he_ident": "32",
+            "he_latitude_deg": "-37.16538",
+            "he_longitude_deg": "175.55066",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "394"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

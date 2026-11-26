@@ -18,6 +18,30 @@
     "home_link": "http://www.aeroclub-yvetot.fr/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613086",
+            "airport_ref": "328712",
+            "airport_ident": "LFYV",
+            "length_ft": "2280",
+            "width_ft": "164",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "49.637806",
+            "le_longitude_deg": "0.723722",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "49.638725",
+            "he_longitude_deg": "0.732757",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -18,6 +18,30 @@
     "home_link": "http://www.aktrnava.sk",
     "wikipedia_link": "",
     "keywords": "Aeroklub Trnava, Letisko Boleráz, Letisko Trnava",
+    "runways": [
+        {
+            "id": "612652",
+            "airport_ref": "29716",
+            "airport_ident": "LZTR",
+            "length_ft": "3937",
+            "width_ft": "338",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "48.457094",
+            "le_longitude_deg": "17.524912",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "48.448891",
+            "he_longitude_deg": "17.535449",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302717",
         "code": "SK",

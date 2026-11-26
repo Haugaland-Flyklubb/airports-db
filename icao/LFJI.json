@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Marennes",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613100",
+            "airport_ref": "28912",
+            "airport_ident": "LFJI",
+            "length_ft": "2526",
+            "width_ft": "164",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "45.821294",
+            "le_longitude_deg": "-1.080586",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "539",
+            "he_ident": "22",
+            "he_latitude_deg": "45.826414",
+            "he_longitude_deg": "-1.073925",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "194"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

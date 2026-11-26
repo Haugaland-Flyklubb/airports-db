@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Akasztó",
+    "runways": [
+        {
+            "id": "612581",
+            "airport_ref": "317552",
+            "airport_ident": "LHKI",
+            "length_ft": "1411",
+            "width_ft": "144",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "46.658943",
+            "le_longitude_deg": "19.241191",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "46.655029",
+            "he_longitude_deg": "19.244384",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302693",
         "code": "HU",

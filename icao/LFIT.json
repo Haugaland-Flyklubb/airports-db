@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Toulouse_-_Bourg-Saint-Bernard",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613057",
+            "airport_ref": "28903",
+            "airport_ident": "LFIT",
+            "length_ft": "2297",
+            "width_ft": "197",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12R",
+            "le_latitude_deg": "43.612794",
+            "le_longitude_deg": "1.720356",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30L",
+            "he_latitude_deg": "43.609631",
+            "he_longitude_deg": "1.727914",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -18,6 +18,30 @@
     "home_link": "http://terrainulmschillersdorf.eklablog.com/",
     "wikipedia_link": "",
     "keywords": "Base ULM de Schillersdorf",
+    "runways": [
+        {
+            "id": "612958",
+            "airport_ref": "528591",
+            "airport_ident": "FR-0597",
+            "length_ft": "",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "48.871529",
+            "le_longitude_deg": "7.518241",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "48.870274",
+            "he_longitude_deg": "7.519154",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

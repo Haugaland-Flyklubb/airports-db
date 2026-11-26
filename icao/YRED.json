@@ -23,20 +23,20 @@
             "id": "259284",
             "airport_ref": "27919",
             "airport_ident": "YRED",
-            "length_ft": "2798",
-            "width_ft": "",
+            "length_ft": "2794",
+            "width_ft": "59",
             "surface": "B",
             "lighted": "0",
             "closed": "0",
             "le_ident": "07",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
+            "le_latitude_deg": "-27.20647",
+            "le_longitude_deg": "153.064479",
             "le_elevation_ft": "7",
             "le_heading_degT": "",
             "le_displaced_threshold_ft": "",
             "he_ident": "25",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
+            "he_latitude_deg": "-27.204695",
+            "he_longitude_deg": "153.072855",
             "he_elevation_ft": "7",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
@@ -52,20 +52,20 @@
             "frequency_mhz": "127.15"
         },
         {
-            "id": "74402",
-            "airport_ref": "27919",
-            "airport_ident": "YRED",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.8"
-        },
-        {
             "id": "74403",
             "airport_ref": "27919",
             "airport_ident": "YRED",
-            "type": "MISC",
-            "description": "BRISBANE CNTR",
+            "type": "FIA",
+            "description": "Brisbane Centre",
             "frequency_mhz": "125.7"
+        },
+        {
+            "id": "74402",
+            "airport_ref": "27919",
+            "airport_ident": "YRED",
+            "type": "PAL",
+            "description": "",
+            "frequency_mhz": "122.8"
         }
     ],
     "country": {

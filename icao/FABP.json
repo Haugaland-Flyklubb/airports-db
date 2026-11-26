@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612529",
+            "airport_ref": "29738",
+            "airport_ident": "FABP",
+            "length_ft": "4921",
+            "width_ft": "39",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-27.124444",
+            "le_longitude_deg": "22.841944",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-27.135278",
+            "he_longitude_deg": "22.850833",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

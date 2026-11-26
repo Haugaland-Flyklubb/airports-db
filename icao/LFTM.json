@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Serres_-_La_B%C3%A2tie-Montsal%C3%A9on",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613113",
+            "airport_ref": "29006",
+            "airport_ident": "LFTM",
+            "length_ft": "2133",
+            "width_ft": "295",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "44.460189",
+            "le_longitude_deg": "5.727342",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "492",
+            "he_ident": "36",
+            "he_latitude_deg": "44.45435",
+            "he_longitude_deg": "5.726975",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612074",
+            "airport_ref": "332161",
+            "airport_ident": "US-1143",
+            "length_ft": "975",
+            "width_ft": "60",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.623806",
+            "le_longitude_deg": "-82.252933",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.6212",
+            "he_longitude_deg": "-82.252133",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

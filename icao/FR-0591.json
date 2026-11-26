@@ -18,6 +18,30 @@
     "home_link": "https://www.castelvert.com/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613003",
+            "airport_ref": "528490",
+            "airport_ident": "FR-0591",
+            "length_ft": "1640",
+            "width_ft": "66",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "43.830482",
+            "le_longitude_deg": "2.117871",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "43.829536",
+            "he_longitude_deg": "2.12394",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

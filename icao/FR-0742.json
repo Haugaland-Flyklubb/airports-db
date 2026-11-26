@@ -18,6 +18,30 @@
     "home_link": "https://www.les-avant-gardes.com/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612765",
+            "airport_ref": "528819",
+            "airport_ident": "FR-0742",
+            "length_ft": "1312",
+            "width_ft": "82",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "47.813545",
+            "le_longitude_deg": "2.233539",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "47.812431",
+            "he_longitude_deg": "2.237801",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

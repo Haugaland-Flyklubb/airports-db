@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612238",
+            "airport_ref": "337214",
+            "airport_ident": "US-1981",
+            "length_ft": "2675",
+            "width_ft": "100",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06W",
+            "le_latitude_deg": "41.5513",
+            "le_longitude_deg": "-85.335122",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24W",
+            "he_latitude_deg": "41.554469",
+            "he_longitude_deg": "-85.326292",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

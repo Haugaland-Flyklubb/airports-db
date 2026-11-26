@@ -18,6 +18,30 @@
     "home_link": "https://aeroplumsancerrois.wixsite.com/ulm-sancerre",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612477",
+            "airport_ref": "339747",
+            "airport_ident": "FR-0439",
+            "length_ft": "984",
+            "width_ft": "66",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "47.380577",
+            "le_longitude_deg": "2.780928",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "47.381046",
+            "he_longitude_deg": "2.784924",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

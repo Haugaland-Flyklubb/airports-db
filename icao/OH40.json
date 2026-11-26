@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Eylesair",
+    "runways": [
+        {
+            "id": "612469",
+            "airport_ref": "349534",
+            "airport_ident": "OH40",
+            "length_ft": "2660",
+            "width_ft": "100",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "40.373647",
+            "le_longitude_deg": "-83.111825",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "40.366372",
+            "he_longitude_deg": "-83.112642",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

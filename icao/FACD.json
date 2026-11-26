@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612538",
+            "airport_ref": "29908",
+            "airport_ident": "FACD",
+            "length_ft": "4265",
+            "width_ft": "82",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "-32.151667",
+            "le_longitude_deg": "25.641111",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "-32.160833",
+            "he_longitude_deg": "25.65",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

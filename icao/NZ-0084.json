@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612828",
+            "airport_ref": "429956",
+            "airport_ident": "NZ-0084",
+            "length_ft": "1340",
+            "width_ft": "162",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "-35.582149",
+            "le_longitude_deg": "174.27292",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-35.579423",
+            "he_longitude_deg": "174.275966",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

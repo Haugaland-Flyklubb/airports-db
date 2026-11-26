@@ -20,6 +20,28 @@
     "keywords": "Lerdo Field, Minter Field AAF",
     "runways": [
         {
+            "id": "612218",
+            "airport_ref": "20510",
+            "airport_ident": "KMIT",
+            "length_ft": "3680",
+            "width_ft": "60",
+            "surface": "ASPH-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "35.510573",
+            "le_longitude_deg": "-119.199131",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "140",
+            "he_ident": "26",
+            "he_latitude_deg": "35.510563",
+            "he_longitude_deg": "-119.186767",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "166"
+        },
+        {
             "id": "242886",
             "airport_ref": "20510",
             "airport_ident": "KMIT",

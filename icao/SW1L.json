@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612503",
+            "airport_ref": "608987",
+            "airport_ident": "SW1L",
+            "length_ft": "2297",
+            "width_ft": "59",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "-22.912578",
+            "le_longitude_deg": "-54.773158",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "-22.907",
+            "he_longitude_deg": "-54.769947",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

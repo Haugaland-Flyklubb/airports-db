@@ -18,6 +18,30 @@
     "home_link": "http://www.letiskodubova.sk",
     "wikipedia_link": "https://sk.wikipedia.org/wiki/Letisko_Dubov%C3%A1",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612632",
+            "airport_ref": "316258",
+            "airport_ident": "LZDV",
+            "length_ft": "1657",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "48.348549",
+            "le_longitude_deg": "17.354113",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "48.345272",
+            "he_longitude_deg": "17.358805",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302717",
         "code": "SK",

@@ -1,0 +1,39 @@
+{
+    "id": "611802",
+    "ident": "BR-3316",
+    "type": "small_airport",
+    "name": "Chácara São Matheus Airport",
+    "latitude_deg": "-23.485153",
+    "longitude_deg": "-52.570233",
+    "elevation_ft": "1447",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-PR",
+    "municipality": "Japurá",
+    "scheduled_service": "no",
+    "icao_code": "",
+    "iata_code": "",
+    "gps_code": "SWMT",
+    "local_code": "PR0097",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303216",
+        "code": "BR-PR",
+        "local_code": "PR",
+        "name": "Paraná",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
+        "keywords": "Airports in Paraná"
+    }
+}

@@ -18,6 +18,30 @@
     "home_link": "http://www.ulm-club-du-val-de-loire.fr/",
     "wikipedia_link": "",
     "keywords": "Base ULM de Saint-Benoît-sur-Loire",
+    "runways": [
+        {
+            "id": "612703",
+            "airport_ref": "339784",
+            "airport_ident": "FR-0449",
+            "length_ft": "",
+            "width_ft": "66",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "47.790512",
+            "le_longitude_deg": "2.336363",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "47.792633",
+            "he_longitude_deg": "2.338569",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Aeroportul Sportiv Elie Carafoli, Mureșeni",
+    "runways": [
+        {
+            "id": "612661",
+            "airport_ref": "315486",
+            "airport_ident": "RO-0008",
+            "length_ft": "2608",
+            "width_ft": "131",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "46.531331",
+            "le_longitude_deg": "24.524964",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "46.535214",
+            "he_longitude_deg": "24.533636",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302712",
         "code": "RO",

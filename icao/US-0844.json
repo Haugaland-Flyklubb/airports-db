@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612295",
+            "airport_ref": "326976",
+            "airport_ident": "US-0844",
+            "length_ft": "2300",
+            "width_ft": "30",
+            "surface": "TURF-GRVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "39.033808",
+            "le_longitude_deg": "-114.831386",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "39.039709",
+            "he_longitude_deg": "-114.828495",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

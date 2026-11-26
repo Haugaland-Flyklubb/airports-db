@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Evans Field",
+    "runways": [
+        {
+            "id": "611852",
+            "airport_ref": "323332",
+            "airport_ident": "US-0562",
+            "length_ft": "3600",
+            "width_ft": "40",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "30.620456",
+            "le_longitude_deg": "-90.535931",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "30.610564",
+            "he_longitude_deg": "-90.536172",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

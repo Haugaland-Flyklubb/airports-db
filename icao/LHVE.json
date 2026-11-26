@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "East Line Air Team",
+    "runways": [
+        {
+            "id": "612597",
+            "airport_ref": "318141",
+            "airport_ident": "LHVE",
+            "length_ft": "1673",
+            "width_ft": "66",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "47.637902",
+            "le_longitude_deg": "19.25157",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "47.638351",
+            "he_longitude_deg": "19.258367",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302693",
         "code": "HU",

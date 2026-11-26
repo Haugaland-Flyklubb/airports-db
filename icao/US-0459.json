@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "TX6",
+    "runways": [
+        {
+            "id": "611845",
+            "airport_ref": "322349",
+            "airport_ident": "US-0459",
+            "length_ft": "1264",
+            "width_ft": "60",
+            "surface": "TURF-F",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "33.094611",
+            "le_longitude_deg": "-96.390611",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "33.091278",
+            "he_longitude_deg": "-96.389444",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

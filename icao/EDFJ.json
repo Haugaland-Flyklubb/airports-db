@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Lager_Hammelburg",
     "keywords": "",
+    "runways": [
+        {
+            "id": "611963",
+            "airport_ref": "28587",
+            "airport_ident": "EDFJ",
+            "length_ft": "1814",
+            "width_ft": "33",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "50.098704",
+            "le_longitude_deg": "9.880257",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "50.098306",
+            "he_longitude_deg": "9.887924",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "330906",

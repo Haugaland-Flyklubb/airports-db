@@ -29,14 +29,14 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "01L",
-            "le_latitude_deg": "-27.383100509643555",
-            "le_longitude_deg": "153.10699462890625",
+            "le_latitude_deg": "-27.383096",
+            "le_longitude_deg": "153.106741",
             "le_elevation_ft": "",
             "le_heading_degT": "27",
             "le_displaced_threshold_ft": "",
             "he_ident": "19R",
-            "he_latitude_deg": "-27.356599807739258",
-            "he_longitude_deg": "153.1219940185547",
+            "he_latitude_deg": "-27.3566",
+            "he_longitude_deg": "153.121994",
             "he_elevation_ft": "",
             "he_heading_degT": "207",
             "he_displaced_threshold_ft": ""
@@ -51,14 +51,14 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "01R",
-            "le_latitude_deg": "-27.403900146484375",
-            "le_longitude_deg": "153.1179962158203",
+            "le_latitude_deg": "-27.403322",
+            "le_longitude_deg": "153.117944",
             "le_elevation_ft": "12",
             "le_heading_degT": "27",
             "le_displaced_threshold_ft": "197",
             "he_ident": "19L",
-            "he_latitude_deg": "-27.37529945373535",
-            "he_longitude_deg": "153.13400268554688",
+            "he_latitude_deg": "-27.374654",
+            "he_longitude_deg": "153.134324",
             "he_elevation_ft": "11",
             "he_heading_degT": "207",
             "he_displaced_threshold_ft": ""
@@ -88,51 +88,91 @@
     ],
     "freqs": [
         {
-            "id": "48631",
+            "id": "48633",
             "airport_ref": "26901",
             "airport_ident": "YBBN",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "124.35"
+            "type": "ACD",
+            "description": "Brisbane Delivery",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "611786",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "type": "APP",
+            "description": "Brisbane Approach",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "611787",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "type": "APP",
+            "description": "Brisbane Approach",
+            "frequency_mhz": "125.6"
         },
         {
             "id": "48632",
             "airport_ref": "26901",
             "airport_ident": "YBBN",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "113.2"
+            "description": "Brisbane ATIS",
+            "frequency_mhz": "125.5"
         },
         {
-            "id": "48633",
+            "id": "611788",
             "airport_ref": "26901",
             "airport_ident": "YBBN",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "118.6"
+            "type": "DEP",
+            "description": "Brisbane Departures",
+            "frequency_mhz": "118.45"
         },
         {
-            "id": "48634",
+            "id": "611789",
             "airport_ref": "26901",
             "airport_ident": "YBBN",
-            "type": "FSS",
-            "description": "RADAR",
-            "frequency_mhz": "125.7"
+            "type": "DEP",
+            "description": "Brisbane Departures",
+            "frequency_mhz": "133.45"
         },
         {
             "id": "48635",
             "airport_ref": "26901",
             "airport_ident": "YBBN",
-            "type": "GND",
-            "description": "GND",
+            "type": "SMC",
+            "description": "Brisbane Ground",
             "frequency_mhz": "121.7"
         },
         {
             "id": "48636",
             "airport_ref": "26901",
             "airport_ident": "YBBN",
+            "type": "SMC",
+            "description": "Brisbane Ground",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "48634",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "type": "SMC",
+            "description": "Brisbane Ground",
+            "frequency_mhz": "124.05"
+        },
+        {
+            "id": "611784",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Brisbane Tower",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "611785",
+            "airport_ref": "26901",
+            "airport_ident": "YBBN",
+            "type": "TWR",
+            "description": "Brisbane Tower",
             "frequency_mhz": "120.5"
         }
     ],

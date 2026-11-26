@@ -18,6 +18,30 @@
     "home_link": "https://www.ongava.com/information",
     "wikipedia_link": "",
     "keywords": "OGV",
+    "runways": [
+        {
+            "id": "612896",
+            "airport_ref": "326993",
+            "airport_ident": "FYNG",
+            "length_ft": "",
+            "width_ft": "82",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "-19.332111",
+            "le_longitude_deg": "15.906778",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "-19.325417",
+            "he_longitude_deg": "15.922333",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302591",
         "code": "NA",

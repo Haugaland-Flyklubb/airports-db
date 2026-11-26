@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612585",
+            "airport_ref": "29879",
+            "airport_ident": "FAFW",
+            "length_ft": "9514",
+            "width_ft": "148",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "-25.487222",
+            "le_longitude_deg": "28.287722",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "-25.461389",
+            "he_longitude_deg": "28.291389",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Senica_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612645",
+            "airport_ref": "30408",
+            "airport_ident": "LZSE",
+            "length_ft": "3543",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12L",
+            "le_latitude_deg": "48.660031",
+            "le_longitude_deg": "17.323008",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30R",
+            "he_latitude_deg": "48.655888",
+            "he_longitude_deg": "17.336238",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302717",
         "code": "SK",

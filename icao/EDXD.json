@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bohmte-Bad_Essen",
     "keywords": "Flugplatz Bohmte-Bad Essen",
+    "runways": [
+        {
+            "id": "612119",
+            "airport_ref": "28531",
+            "airport_ident": "EDXD",
+            "length_ft": "1903",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "52.351799",
+            "le_longitude_deg": "8.323929",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "52.350716",
+            "he_longitude_deg": "8.332252",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "563967",

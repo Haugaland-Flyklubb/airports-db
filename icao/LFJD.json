@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Corlier_Aerodrome",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613059",
+            "airport_ref": "28908",
+            "airport_ident": "LFJD",
+            "length_ft": "1148",
+            "width_ft": "131",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "46.041321",
+            "le_longitude_deg": "5.492732",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "46.039722",
+            "he_longitude_deg": "5.496528",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

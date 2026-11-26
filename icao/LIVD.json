@@ -18,6 +18,30 @@
     "home_link": "http://www.aeroclubdobbiaco.it/",
     "wikipedia_link": "http://it.wikipedia.org/wiki/Aeroporto_di_Dobbiaco",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612196",
+            "airport_ref": "309714",
+            "airport_ident": "LIVD",
+            "length_ft": "2953",
+            "width_ft": "164",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "46.727447",
+            "le_longitude_deg": "12.225158",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "46.726553",
+            "he_longitude_deg": "12.237911",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

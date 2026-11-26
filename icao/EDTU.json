@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Saulgau",
     "keywords": "Flugplatz Bad Saulgau, Flugplatz Saulgau",
+    "runways": [
+        {
+            "id": "612073",
+            "airport_ref": "28714",
+            "airport_ident": "EDTU",
+            "length_ft": "1476",
+            "width_ft": "49",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "48.030644",
+            "le_longitude_deg": "9.504893",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "48.028142",
+            "he_longitude_deg": "9.509599",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "574822",

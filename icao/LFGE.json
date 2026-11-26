@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Avallon",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613096",
+            "airport_ref": "28859",
+            "airport_ident": "LFGE",
+            "length_ft": "2461",
+            "width_ft": "197",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "47.501408",
+            "le_longitude_deg": "3.897433",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "410",
+            "he_ident": "22",
+            "he_latitude_deg": "47.506175",
+            "he_longitude_deg": "3.904456",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "504"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://sk.wikipedia.org/wiki/Letisko_%C5%A0urany",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612648",
+            "airport_ref": "315500",
+            "airport_ident": "LZSY",
+            "length_ft": "2100",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "48.078386",
+            "le_longitude_deg": "18.11176",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "48.073466",
+            "he_longitude_deg": "18.116253",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302717",
         "code": "SK",

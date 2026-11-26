@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613142",
+            "airport_ref": "354538",
+            "airport_ident": "YACD",
+            "length_ft": "3295",
+            "width_ft": "",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "-24.27314",
+            "le_longitude_deg": "145.48572",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-24.265768",
+            "he_longitude_deg": "145.491425",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

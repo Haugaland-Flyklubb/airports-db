@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Kirknewton",
     "keywords": "Whitemoss",
+    "runways": [
+        {
+            "id": "612355",
+            "airport_ref": "318918",
+            "airport_ident": "GB-0315",
+            "length_ft": "2016",
+            "width_ft": "39",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05C",
+            "le_latitude_deg": "55.872113",
+            "le_longitude_deg": "-3.401831",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23C",
+            "he_latitude_deg": "55.875661",
+            "he_longitude_deg": "-3.394277",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

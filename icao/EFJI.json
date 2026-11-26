@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://fi.wikipedia.org/wiki/Ilvesjoen_lentokentt%C3%A4",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612330",
+            "airport_ref": "346797",
+            "airport_ident": "EFJI",
+            "length_ft": "1640",
+            "width_ft": "23",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "62.323056",
+            "le_longitude_deg": "22.689722",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "62.325278",
+            "he_longitude_deg": "22.698056",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302685",
         "code": "FI",

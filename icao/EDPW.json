@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Thalm%C3%A4ssing-Waizenhofen",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612043",
+            "airport_ref": "29086",
+            "airport_ident": "EDPW",
+            "length_ft": "1362",
+            "width_ft": "131",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "49.066015",
+            "le_longitude_deg": "11.20869",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "49.06235",
+            "he_longitude_deg": "11.209742",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "575006",

@@ -18,6 +18,30 @@
     "home_link": "https://www.flugplatz-suemmern.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Iserlohn-S%C3%BCmmern",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612003",
+            "airport_ref": "320789",
+            "airport_ident": "DE-0367",
+            "length_ft": "2625",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "51.433408",
+            "le_longitude_deg": "7.696011",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "51.438889",
+            "he_longitude_deg": "7.703778",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

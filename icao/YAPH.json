@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Alpha_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613146",
+            "airport_ref": "507525",
+            "airport_ident": "YAPH",
+            "length_ft": "4796",
+            "width_ft": "",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-23.646552",
+            "le_longitude_deg": "146.583619",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-23.659559",
+            "he_longitude_deg": "146.581638",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

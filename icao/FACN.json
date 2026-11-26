@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Carnarvon_Airport_(South_Africa)",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612549",
+            "airport_ref": "29756",
+            "airport_ident": "FACN",
+            "length_ft": "3599",
+            "width_ft": "148",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-30.989722",
+            "le_longitude_deg": "22.127222",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-30.990556",
+            "he_longitude_deg": "22.138889",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

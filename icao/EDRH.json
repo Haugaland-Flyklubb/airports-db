@@ -18,6 +18,30 @@
     "home_link": "https://www.fsvhowei.de/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hoppst%C3%A4dten-Weiersbach_Airfield",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612058",
+            "airport_ref": "28605",
+            "airport_ident": "EDRH",
+            "length_ft": "2198",
+            "width_ft": "69",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "49.609359",
+            "le_longitude_deg": "7.182534",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "49.612317",
+            "he_longitude_deg": "7.190545",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "568188",

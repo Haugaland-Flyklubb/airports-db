@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Wilsche",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612103",
+            "airport_ref": "308187",
+            "airport_ident": "DE-0043",
+            "length_ft": "1640",
+            "width_ft": "131",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "52.524833",
+            "le_longitude_deg": "10.461306",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "52.524597",
+            "he_longitude_deg": "10.468611",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "575066",

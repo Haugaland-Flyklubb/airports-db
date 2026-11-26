@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lu%C4%8Dko_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612668",
+            "airport_ref": "30574",
+            "airport_ident": "LDZL",
+            "length_ft": "2789",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10R",
+            "le_latitude_deg": "45.767488",
+            "le_longitude_deg": "15.844112",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28L",
+            "he_latitude_deg": "45.765721",
+            "he_longitude_deg": "15.854745",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302692",
         "code": "HR",

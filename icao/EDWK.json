@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Karlsh%C3%B6fen",
     "keywords": "Flugplatz Karlshöfen",
+    "runways": [
+        {
+            "id": "612115",
+            "airport_ref": "28616",
+            "airport_ident": "EDWK",
+            "length_ft": "2297",
+            "width_ft": "49",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "53.334026",
+            "le_longitude_deg": "9.023942",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "53.331452",
+            "he_longitude_deg": "9.033396",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "568373",

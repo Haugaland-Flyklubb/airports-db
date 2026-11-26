@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Aerodrom Daruvar, Aeroklub Ždral Daruvar",
+    "runways": [
+        {
+            "id": "612664",
+            "airport_ref": "316068",
+            "airport_ident": "HR-0001",
+            "length_ft": "1969",
+            "width_ft": "66",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "45.58675",
+            "le_longitude_deg": "17.208383",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "45.583408",
+            "he_longitude_deg": "17.214408",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302692",
         "code": "HR",

@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "611866",
+            "airport_ref": "338179",
+            "airport_ident": "US-2184",
+            "length_ft": "2950",
+            "width_ft": "60",
+            "surface": "TURF-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "30.637764",
+            "le_longitude_deg": "-99.195233",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "30.629725",
+            "he_longitude_deg": "-99.193992",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

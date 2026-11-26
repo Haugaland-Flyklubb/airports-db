@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "FYRH",
+    "runways": [
+        {
+            "id": "612898",
+            "airport_ref": "42385",
+            "airport_ident": "NA-0120",
+            "length_ft": "5906",
+            "width_ft": "164",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "-23.304972",
+            "le_longitude_deg": "17.034528",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "-23.318",
+            "he_longitude_deg": "17.046444",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302591",
         "code": "NA",

@@ -74,20 +74,12 @@
             "frequency_mhz": "125.85"
         },
         {
-            "id": "72471",
-            "airport_ref": "27448",
-            "airport_ident": "YCDR",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.6"
-        },
-        {
             "id": "72472",
             "airport_ref": "27448",
             "airport_ident": "YCDR",
-            "type": "MISC",
-            "description": "BRISBANE CNTR",
-            "frequency_mhz": "125.7"
+            "type": "FIA",
+            "description": "Brisbane Centre",
+            "frequency_mhz": "129"
         }
     ],
     "country": {

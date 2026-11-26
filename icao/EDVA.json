@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bad_Gandersheim_Aerodrome",
     "keywords": "Gandersheim-Seesen",
+    "runways": [
+        {
+            "id": "612081",
+            "airport_ref": "28511",
+            "airport_ident": "EDVA",
+            "length_ft": "2379",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "51.85565",
+            "le_longitude_deg": "10.025762",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "51.849154",
+            "he_longitude_deg": "10.026696",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "562257",

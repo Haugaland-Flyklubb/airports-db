@@ -18,6 +18,30 @@
     "home_link": "https://oxranchairport.com/",
     "wikipedia_link": "",
     "keywords": "01TX",
+    "runways": [
+        {
+            "id": "611847",
+            "airport_ref": "336144",
+            "airport_ident": "US-1644",
+            "length_ft": "5744",
+            "width_ft": "70",
+            "surface": "CONC-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "29.46938",
+            "le_longitude_deg": "-100.114213",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "29.453585",
+            "he_longitude_deg": "-100.114365",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -18,6 +18,30 @@
     "home_link": "https://basulm.ffplum.fr/PDF/LF2432.pdf",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612528",
+            "airport_ref": "337486",
+            "airport_ident": "FR-0430",
+            "length_ft": "2789",
+            "width_ft": "115",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "44.899418",
+            "le_longitude_deg": "0.747579",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "44.90694",
+            "he_longitude_deg": "0.748371",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

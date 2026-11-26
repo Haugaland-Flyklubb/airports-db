@@ -18,6 +18,30 @@
     "home_link": "https://www.aeroklub-milovice.cz",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612430",
+            "airport_ref": "519660",
+            "airport_ident": "CZ-0242",
+            "length_ft": "2034",
+            "width_ft": "66",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "50.238262",
+            "le_longitude_deg": "14.905484",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "50.237564",
+            "he_longitude_deg": "14.915063",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

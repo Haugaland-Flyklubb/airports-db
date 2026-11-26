@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bopfingen",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612026",
+            "airport_ref": "28533",
+            "airport_ident": "EDNQ",
+            "length_ft": "1526",
+            "width_ft": "49",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "48.847403",
+            "le_longitude_deg": "10.33088",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "48.848825",
+            "he_longitude_deg": "10.336755",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "180"
+        }
+    ],
     "freqs": [
         {
             "id": "563971",

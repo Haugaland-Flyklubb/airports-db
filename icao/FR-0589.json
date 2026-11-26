@@ -18,6 +18,30 @@
     "home_link": "https://lesailesdumerlin.fr/",
     "wikipedia_link": "",
     "keywords": "Base ULM Roanne Mably",
+    "runways": [
+        {
+            "id": "612691",
+            "airport_ref": "528488",
+            "airport_ident": "FR-0589",
+            "length_ft": "1640",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "46.087627",
+            "le_longitude_deg": "4.085525",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "46.083691",
+            "he_longitude_deg": "4.087894",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

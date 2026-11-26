@@ -48,32 +48,16 @@
             "airport_ref": "27534",
             "airport_ident": "YDUN",
             "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "125.7"
+            "description": "",
+            "frequency_mhz": "126.7"
         },
         {
             "id": "72842",
             "airport_ref": "27534",
             "airport_ident": "YDUN",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "114.4"
-        },
-        {
-            "id": "72843",
-            "airport_ref": "27534",
-            "airport_ident": "YDUN",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "72844",
-            "airport_ref": "27534",
-            "airport_ident": "YDUN",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "123.9"
+            "type": "FIA",
+            "description": "Brisbane Centre",
+            "frequency_mhz": "125.7"
         }
     ],
     "country": {

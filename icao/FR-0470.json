@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Aérodrome d'Albé - Val de Villé",
+    "runways": [
+        {
+            "id": "612954",
+            "airport_ref": "342323",
+            "airport_ident": "FR-0470",
+            "length_ft": "1362",
+            "width_ft": "49",
+            "surface": "paved",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "48.348965",
+            "le_longitude_deg": "7.32773",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "48.34935",
+            "he_longitude_deg": "7.332736",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -18,6 +18,30 @@
     "home_link": "http://www.eklv.dk/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lemvig_Airfield",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612613",
+            "airport_ref": "29240",
+            "airport_ident": "EKLV",
+            "length_ft": "2441",
+            "width_ft": "131",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "56.5025",
+            "le_longitude_deg": "8.305556",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "56.503611",
+            "he_longitude_deg": "8.3175",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302682",
         "code": "DK",

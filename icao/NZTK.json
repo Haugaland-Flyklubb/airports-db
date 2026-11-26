@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/T%C4%81kaka_Aerodrome",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612868",
+            "airport_ref": "30464",
+            "airport_ident": "NZTK",
+            "length_ft": "2742",
+            "width_ft": "43",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-40.810897",
+            "le_longitude_deg": "172.77767",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "140",
+            "he_ident": "36",
+            "he_latitude_deg": "-40.817951",
+            "he_longitude_deg": "172.774238",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "247"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

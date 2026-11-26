@@ -18,6 +18,30 @@
     "home_link": "http://aeroclub.saverne.pagesperso-orange.fr/",
     "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Saverne-Steinbourg",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613080",
+            "airport_ref": "28992",
+            "airport_ident": "LFQY",
+            "length_ft": "2182",
+            "width_ft": "164",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "48.756306",
+            "le_longitude_deg": "7.423567",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "48.750919",
+            "he_longitude_deg": "7.427483",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

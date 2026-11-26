@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Lyon_-_Brindas",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613103",
+            "airport_ref": "28921",
+            "airport_ident": "LFKL",
+            "length_ft": "1437",
+            "width_ft": "164",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "45.708694",
+            "le_longitude_deg": "4.696286",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "142",
+            "he_ident": "19",
+            "he_latitude_deg": "45.712606",
+            "he_longitude_deg": "4.697011",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "241"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_F%C3%BCrstenzell",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612009",
+            "airport_ref": "28564",
+            "airport_ident": "EDMF",
+            "length_ft": "1591",
+            "width_ft": "39",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "48.520061",
+            "le_longitude_deg": "13.344743",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "48.516032",
+            "he_longitude_deg": "13.347208",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "566987",

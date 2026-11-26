@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Marpingen",
     "keywords": "Segelfluggelände Marpingen",
+    "runways": [
+        {
+            "id": "612052",
+            "airport_ref": "308863",
+            "airport_ident": "EDRC",
+            "length_ft": "3281",
+            "width_ft": "164",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "49.453894",
+            "le_longitude_deg": "7.032596",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "49.45215",
+            "he_longitude_deg": "7.045631",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "570841",

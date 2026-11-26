@@ -18,6 +18,30 @@
     "home_link": "https://ulmclubdusaonnois.jimdofree.com/bienvenue/lnfo-terrain/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612976",
+            "airport_ref": "529306",
+            "airport_ident": "FR-1126",
+            "length_ft": "919",
+            "width_ft": "82",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "48.316727",
+            "le_longitude_deg": "0.353946",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "48.314468",
+            "he_longitude_deg": "0.356164",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

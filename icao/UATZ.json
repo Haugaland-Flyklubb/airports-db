@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "TCOV",
+    "runways": [
+        {
+            "id": "612908",
+            "airport_ref": "351217",
+            "airport_ident": "UATZ",
+            "length_ft": "4593",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "46.308057",
+            "le_longitude_deg": "53.428641",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "46.295586",
+            "he_longitude_deg": "53.426112",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302645",
         "code": "KZ",

@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Omaruru_Game_Lodge_Airport",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612890",
+            "airport_ref": "29603",
+            "airport_ident": "FYGL",
+            "length_ft": "3937",
+            "width_ft": "49",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "-21.329122",
+            "le_longitude_deg": "16.085338",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "-21.322569",
+            "he_longitude_deg": "16.093492",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302591",
         "code": "NA",

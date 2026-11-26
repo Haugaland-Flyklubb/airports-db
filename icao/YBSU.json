@@ -70,8 +70,8 @@
             "airport_ref": "26918",
             "airport_ident": "YBSU",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "114.2"
+            "description": "Sunshine Coast ATIS",
+            "frequency_mhz": "119.8"
         },
         {
             "id": "48969",
@@ -85,16 +85,16 @@
             "id": "48970",
             "airport_ref": "26918",
             "airport_ident": "YBSU",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
+            "type": "FIA",
+            "description": "Brisbane Centre",
             "frequency_mhz": "129"
         },
         {
             "id": "48971",
             "airport_ref": "26918",
             "airport_ident": "YBSU",
-            "type": "GND",
-            "description": "GND",
+            "type": "SMC",
+            "description": "Sunshine Coast Ground",
             "frequency_mhz": "121.1"
         },
         {
@@ -102,7 +102,7 @@
             "airport_ref": "26918",
             "airport_ident": "YBSU",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Sunshine Coast Tower",
             "frequency_mhz": "124.4"
         }
     ],

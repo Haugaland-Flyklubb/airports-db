@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "https://web.archive.org/web/20170519183240/http://www.airnav.com/airport/MU22",
+    "runways": [
+        {
+            "id": "612373",
+            "airport_ref": "323290",
+            "airport_ident": "US-0557",
+            "length_ft": "2126",
+            "width_ft": "80",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "37.691583",
+            "le_longitude_deg": "-90.193911",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "37.685772",
+            "he_longitude_deg": "-90.194622",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

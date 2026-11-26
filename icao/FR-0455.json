@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Base ULM de Saint Pierre de Bat",
+    "runways": [
+        {
+            "id": "612741",
+            "airport_ref": "340046",
+            "airport_ident": "FR-0455",
+            "length_ft": "1706",
+            "width_ft": "75",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "44.668594",
+            "le_longitude_deg": "-0.221553",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "44.665695",
+            "he_longitude_deg": "-0.216912",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

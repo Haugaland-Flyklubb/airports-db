@@ -18,6 +18,30 @@
     "home_link": "https://www.aeroklubluhacovice.cz/?",
     "wikipedia_link": "",
     "keywords": "Letiště Luhačovice",
+    "runways": [
+        {
+            "id": "612426",
+            "airport_ref": "324117",
+            "airport_ident": "CZ-0161",
+            "length_ft": "1870",
+            "width_ft": "75",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "49.089798",
+            "le_longitude_deg": "17.723515",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "49.094543",
+            "he_longitude_deg": "17.726496",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

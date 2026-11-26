@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Northeim",
     "keywords": "Flugplatz Northeim",
+    "runways": [
+        {
+            "id": "612096",
+            "airport_ref": "28674",
+            "airport_ident": "EDVN",
+            "length_ft": "2247",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "51.707723",
+            "le_longitude_deg": "10.035178",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "51.705239",
+            "he_longitude_deg": "10.044419",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "571864",

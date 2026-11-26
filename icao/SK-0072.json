@@ -18,6 +18,30 @@
     "home_link": "https://airportkomoca.com/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612635",
+            "airport_ref": "323872",
+            "airport_ident": "SK-0072",
+            "length_ft": "1798",
+            "width_ft": "66",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "47.972492",
+            "le_longitude_deg": "18.037704",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "47.968998",
+            "he_longitude_deg": "18.042873",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302717",
         "code": "SK",

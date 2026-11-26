@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "ULM de la Baie",
+    "runways": [
+        {
+            "id": "612759",
+            "airport_ref": "528953",
+            "airport_ident": "FR-0866",
+            "length_ft": "1312",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "48.416012",
+            "le_longitude_deg": "-1.522552",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "48.412312",
+            "he_longitude_deg": "-1.522552",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

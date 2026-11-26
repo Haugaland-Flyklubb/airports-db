@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Base ULM de Wissembourg",
+    "runways": [
+        {
+            "id": "612955",
+            "airport_ref": "342326",
+            "airport_ident": "FR-0472",
+            "length_ft": "919",
+            "width_ft": "66",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "48.993725",
+            "le_longitude_deg": "7.975813",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "48.991371",
+            "he_longitude_deg": "7.975887",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

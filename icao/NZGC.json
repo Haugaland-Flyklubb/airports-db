@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Gore_Aerodrome",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612842",
+            "airport_ref": "29901",
+            "airport_ident": "NZGC",
+            "length_ft": "4055",
+            "width_ft": "151",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "-46.162077",
+            "le_longitude_deg": "168.889767",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "-46.153072",
+            "he_longitude_deg": "168.899177",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

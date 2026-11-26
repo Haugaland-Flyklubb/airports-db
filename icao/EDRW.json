@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Dierdorf-Wienau",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612068",
+            "airport_ref": "29089",
+            "airport_ident": "EDRW",
+            "length_ft": "1903",
+            "width_ft": "33",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "50.565354",
+            "le_longitude_deg": "7.648629",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "131",
+            "he_ident": "25",
+            "he_latitude_deg": "50.566653",
+            "he_longitude_deg": "7.656426",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "180"
+        }
+    ],
     "freqs": [
         {
             "id": "566727",

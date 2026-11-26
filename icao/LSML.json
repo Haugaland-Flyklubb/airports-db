@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lodrino_Air_Base",
     "keywords": "LSML",
+    "runways": [
+        {
+            "id": "612334",
+            "airport_ref": "29503",
+            "airport_ident": "LSML",
+            "length_ft": "2879",
+            "width_ft": "131",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "46.297957",
+            "le_longitude_deg": "8.990986",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "246",
+            "he_ident": "34",
+            "he_latitude_deg": "46.290512",
+            "he_longitude_deg": "8.994732",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "262"
+        }
+    ],
     "country": {
         "id": "302679",
         "code": "CH",

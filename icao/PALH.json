@@ -20,6 +20,28 @@
     "keywords": "Lake Hood Seaplane Base",
     "runways": [
         {
+            "id": "612350",
+            "airport_ref": "21567",
+            "airport_ident": "PALH",
+            "length_ft": "2200",
+            "width_ft": "75",
+            "surface": "GRVL-DIRT-G",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "61.189328",
+            "le_longitude_deg": "-149.968191",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "61.18395",
+            "he_longitude_deg": "-149.962596",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
             "id": "246899",
             "airport_ref": "21567",
             "airport_ident": "PALH",

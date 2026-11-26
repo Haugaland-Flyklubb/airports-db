@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Villerupt",
     "keywords": "Aérodrome de Villerupt",
+    "runways": [
+        {
+            "id": "613087",
+            "airport_ref": "28783",
+            "airport_ident": "LFAW",
+            "length_ft": "2185",
+            "width_ft": "197",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "49.409236",
+            "le_longitude_deg": "5.884947",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "589",
+            "he_ident": "25",
+            "he_latitude_deg": "49.411631",
+            "he_longitude_deg": "5.893361",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

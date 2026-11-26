@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Schw%C3%A4bisch_Hall-Weckrieden",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612076",
+            "airport_ref": "28722",
+            "airport_ident": "EDTX",
+            "length_ft": "1916",
+            "width_ft": "131",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "49.124167",
+            "le_longitude_deg": "9.777222",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "49.124569",
+            "he_longitude_deg": "9.784722",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

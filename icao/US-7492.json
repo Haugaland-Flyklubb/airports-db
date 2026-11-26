@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612476",
+            "airport_ref": "506000",
+            "airport_ident": "US-7492",
+            "length_ft": "1738",
+            "width_ft": "100",
+            "surface": "TURF-DIRT",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "41.075111",
+            "le_longitude_deg": "-104.413083",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "41.071667",
+            "he_longitude_deg": "-104.408722",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

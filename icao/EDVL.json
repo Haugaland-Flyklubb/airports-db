@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_H%C3%B6lleberg",
     "keywords": "Flugplatz Hölleberg",
+    "runways": [
+        {
+            "id": "612091",
+            "airport_ref": "28601",
+            "airport_ident": "EDVL",
+            "length_ft": "1706",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "51.610445",
+            "le_longitude_deg": "9.39503",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "51.611424",
+            "he_longitude_deg": "9.402024",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "568185",

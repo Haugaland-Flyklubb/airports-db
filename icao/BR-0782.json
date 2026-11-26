@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612120",
+            "airport_ref": "335138",
+            "airport_ident": "BR-0782",
+            "length_ft": "2789",
+            "width_ft": "75",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "-16.221147",
+            "le_longitude_deg": "-59.756739",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "-16.228025",
+            "he_longitude_deg": "-59.753197",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

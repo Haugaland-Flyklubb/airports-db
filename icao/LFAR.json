@@ -18,6 +18,30 @@
     "home_link": "http://www.lfar.fr/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Montdidier-Figni%C3%A8res",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613037",
+            "airport_ref": "28780",
+            "airport_ident": "LFAR",
+            "length_ft": "2461",
+            "width_ft": "328",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "49.671925",
+            "le_longitude_deg": "2.562581",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "49.672397",
+            "he_longitude_deg": "2.572919",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

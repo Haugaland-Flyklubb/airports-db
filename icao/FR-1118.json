@@ -18,6 +18,30 @@
     "home_link": "https://ulmclubeulmont.fr/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612877",
+            "airport_ref": "529296",
+            "airport_ident": "FR-1118",
+            "length_ft": "1312",
+            "width_ft": "131",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "48.76519",
+            "le_longitude_deg": "6.21885",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "48.766659",
+            "he_longitude_deg": "6.22375",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

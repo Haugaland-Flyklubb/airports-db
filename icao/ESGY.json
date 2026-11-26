@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://sv.wikipedia.org/wiki/S%C3%A4ffle_flygplats",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612136",
+            "airport_ref": "29331",
+            "airport_ident": "ESGY",
+            "length_ft": "2264",
+            "width_ft": "164",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "59.081509",
+            "le_longitude_deg": "12.947961",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "59.087482",
+            "he_longitude_deg": "12.950252",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

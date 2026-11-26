@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612104",
+            "airport_ref": "344012",
+            "airport_ident": "BR-1550",
+            "length_ft": "4921",
+            "width_ft": "75",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-18.192108",
+            "le_longitude_deg": "-53.215475",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-18.205075",
+            "he_longitude_deg": "-53.211347",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

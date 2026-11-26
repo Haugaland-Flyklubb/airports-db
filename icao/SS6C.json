@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612243",
+            "airport_ref": "598984",
+            "airport_ident": "SS6C",
+            "length_ft": "3934",
+            "width_ft": "49",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "-8.080767",
+            "le_longitude_deg": "-44.959836",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "-8.081533",
+            "he_longitude_deg": "-44.948983",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

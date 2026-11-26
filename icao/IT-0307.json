@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Aviosuperficie Dominio di Bagnoli",
+    "runways": [
+        {
+            "id": "612184",
+            "airport_ref": "319508",
+            "airport_ident": "IT-0307",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "45.178986",
+            "le_longitude_deg": "11.856525",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "45.189692",
+            "he_longitude_deg": "11.858422",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

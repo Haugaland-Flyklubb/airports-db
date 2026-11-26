@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Belleville_-_Villi%C3%A9-Morgon",
     "keywords": "Pizay",
+    "runways": [
+        {
+            "id": "613056",
+            "airport_ref": "28892",
+            "airport_ident": "LFHW",
+            "length_ft": "1663",
+            "width_ft": "197",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "46.143275",
+            "le_longitude_deg": "4.712972",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "46.138881",
+            "he_longitude_deg": "4.714739",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

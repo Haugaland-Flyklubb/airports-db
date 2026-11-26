@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Hearst Ranch, Hearst Castle Airport",
+    "runways": [
+        {
+            "id": "612092",
+            "airport_ref": "312187",
+            "airport_ident": "US-0249",
+            "length_ft": "4302",
+            "width_ft": "60",
+            "surface": "ASPH-CONC",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "35.667519",
+            "le_longitude_deg": "-121.203608",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "35.6593",
+            "he_longitude_deg": "-121.193203",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

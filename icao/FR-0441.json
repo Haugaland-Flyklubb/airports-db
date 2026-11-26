@@ -18,6 +18,30 @@
     "home_link": "http://www.randkar.fr",
     "wikipedia_link": "",
     "keywords": "Base ULM de Frossay, Base ULM Randkar",
+    "runways": [
+        {
+            "id": "612694",
+            "airport_ref": "339749",
+            "airport_ident": "FR-0441",
+            "length_ft": "755",
+            "width_ft": "26",
+            "surface": "paved",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "47.238567",
+            "le_longitude_deg": "-1.879697",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "47.23785",
+            "he_longitude_deg": "-1.876791",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

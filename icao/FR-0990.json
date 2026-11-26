@@ -18,6 +18,30 @@
     "home_link": "https://www.horn-ulm.com/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613027",
+            "airport_ref": "529077",
+            "airport_ident": "FR-0990",
+            "length_ft": "1969",
+            "width_ft": "131",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "46.394833",
+            "le_longitude_deg": "0.946862",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "46.389706",
+            "he_longitude_deg": "0.948898",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

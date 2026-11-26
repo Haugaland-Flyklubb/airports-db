@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Cromwell_Racecourse_Aerodrome",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612836",
+            "airport_ref": "29810",
+            "airport_ident": "NZCS",
+            "length_ft": "2426",
+            "width_ft": "164",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-45.042543",
+            "le_longitude_deg": "169.175007",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-45.048561",
+            "he_longitude_deg": "169.171008",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

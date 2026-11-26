@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Monticello_Airport_(Utah)",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612454",
+            "airport_ref": "321994",
+            "airport_ident": "MXC",
+            "length_ft": "5998",
+            "width_ft": "75",
+            "surface": "ASPH-P",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16",
+            "le_latitude_deg": "37.940565",
+            "le_longitude_deg": "-109.342819",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34",
+            "he_latitude_deg": "37.924294",
+            "he_longitude_deg": "-109.339629",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

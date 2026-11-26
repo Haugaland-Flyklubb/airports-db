@@ -18,6 +18,30 @@
     "home_link": "http://malbec-ulm.x10.mx",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612554",
+            "airport_ref": "528607",
+            "airport_ident": "FR-0609",
+            "length_ft": "",
+            "width_ft": "66",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "45.006485",
+            "le_longitude_deg": "1.015362",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "45.008488",
+            "he_longitude_deg": "1.016416",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

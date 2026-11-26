@@ -18,6 +18,30 @@
     "home_link": "http://vvvauville.free.fr/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613038",
+            "airport_ref": "28782",
+            "airport_ident": "LFAU",
+            "length_ft": "1854",
+            "width_ft": "197",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "49.625222",
+            "le_longitude_deg": "-1.83305",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "49.620922",
+            "he_longitude_deg": "-1.828842",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

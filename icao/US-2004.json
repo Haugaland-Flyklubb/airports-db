@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "611850",
+            "airport_ref": "337252",
+            "airport_ident": "US-2004",
+            "length_ft": "6800",
+            "width_ft": "300",
+            "surface": "WATER",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01W",
+            "le_latitude_deg": "40.108333",
+            "le_longitude_deg": "-108.712097",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19W",
+            "he_latitude_deg": "40.126739",
+            "he_longitude_deg": "-108.708008",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

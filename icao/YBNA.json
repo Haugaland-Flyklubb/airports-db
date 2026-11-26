@@ -29,20 +29,36 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "06",
-            "le_latitude_deg": "-28.835800170898438",
-            "le_longitude_deg": "153.552001953125",
+            "le_latitude_deg": "-28.835734",
+            "le_longitude_deg": "153.551758",
             "le_elevation_ft": "7",
             "le_heading_degT": "74",
             "le_displaced_threshold_ft": "",
             "he_ident": "24",
-            "he_latitude_deg": "-28.830900192260742",
-            "he_longitude_deg": "153.57000732421875",
+            "he_latitude_deg": "-28.830852",
+            "he_longitude_deg": "153.570464",
             "he_elevation_ft": "7",
             "he_heading_degT": "254",
             "he_displaced_threshold_ft": ""
         }
     ],
     "freqs": [
+        {
+            "id": "611796",
+            "airport_ref": "26920",
+            "airport_ident": "YBNA",
+            "type": "APP",
+            "description": "Ballina Approach",
+            "frequency_mhz": "118.35"
+        },
+        {
+            "id": "611795",
+            "airport_ref": "26920",
+            "airport_ident": "YBNA",
+            "type": "ATIS",
+            "description": "Ballina ATIS",
+            "frequency_mhz": "128.65"
+        },
         {
             "id": "48749",
             "airport_ref": "26920",
@@ -55,9 +71,17 @@
             "id": "48750",
             "airport_ref": "26920",
             "airport_ident": "YBNA",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
+            "type": "FIA",
+            "description": "Brisbane Centre",
             "frequency_mhz": "120.3"
+        },
+        {
+            "id": "611794",
+            "airport_ref": "26920",
+            "airport_ident": "YBNA",
+            "type": "TWR",
+            "description": "Ballina Tower",
+            "frequency_mhz": "124.2"
         }
     ],
     "country": {

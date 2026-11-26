@@ -18,6 +18,30 @@
     "home_link": "http://ulm.armagnac.free.fr/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612728",
+            "airport_ref": "528976",
+            "airport_ident": "FR-0889",
+            "length_ft": "984",
+            "width_ft": "66",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "43.831326",
+            "le_longitude_deg": "-0.125712",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "43.830101",
+            "he_longitude_deg": "-0.122259",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

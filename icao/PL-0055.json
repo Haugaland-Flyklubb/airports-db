@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://pl.wikipedia.org/wiki/L%C4%85dowisko_Przasnysz-Sierakowo",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612305",
+            "airport_ref": "43178",
+            "airport_ident": "PL-0055",
+            "length_ft": "3757",
+            "width_ft": "164",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11L",
+            "le_latitude_deg": "53.013168",
+            "le_longitude_deg": "20.925747",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29R",
+            "he_latitude_deg": "53.009111",
+            "he_longitude_deg": "20.941389",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",

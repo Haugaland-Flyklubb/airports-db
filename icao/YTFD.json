@@ -49,23 +49,15 @@
             "airport_ident": "YTFD",
             "type": "CTAF",
             "description": "CTAF",
-            "frequency_mhz": "126.8"
+            "frequency_mhz": "126.7"
         },
         {
             "id": "74659",
             "airport_ref": "27983",
             "airport_ident": "YTFD",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "74660",
-            "airport_ref": "27983",
-            "airport_ident": "YTFD",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "126"
+            "type": "FIA",
+            "description": "Brisbane Centre",
+            "frequency_mhz": "126.8"
         }
     ],
     "country": {

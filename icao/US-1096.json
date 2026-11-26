@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Okemah Flying Field",
+    "runways": [
+        {
+            "id": "612122",
+            "airport_ref": "330702",
+            "airport_ident": "US-1096",
+            "length_ft": "3400",
+            "width_ft": "60",
+            "surface": "ASPH-F",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "35.409928",
+            "le_longitude_deg": "-96.305958",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "35.400614",
+            "he_longitude_deg": "-96.305119",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

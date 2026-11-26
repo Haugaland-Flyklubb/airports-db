@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Weimar-Umpferstedt",
     "keywords": "Flugplatz Weimar-Umpferstedt",
+    "runways": [
+        {
+            "id": "612032",
+            "airport_ref": "29083",
+            "airport_ident": "EDOU",
+            "length_ft": "1837",
+            "width_ft": "30",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "50.965619",
+            "le_longitude_deg": "11.395257",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "50.96475",
+            "he_longitude_deg": "11.403056",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "575049",

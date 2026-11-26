@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Richland Creek Airfield",
+    "runways": [
+        {
+            "id": "611925",
+            "airport_ref": "334278",
+            "airport_ident": "US-1270",
+            "length_ft": "2494",
+            "width_ft": "100",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "35.912369",
+            "le_longitude_deg": "-92.902619",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "35.917325",
+            "he_longitude_deg": "-92.896806",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

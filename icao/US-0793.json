@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612484",
+            "airport_ref": "325918",
+            "airport_ident": "US-0793",
+            "length_ft": "3920",
+            "width_ft": "100",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10W",
+            "le_latitude_deg": "44.710556",
+            "le_longitude_deg": "-96.482",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28W",
+            "he_latitude_deg": "44.708972",
+            "he_longitude_deg": "-96.467083",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

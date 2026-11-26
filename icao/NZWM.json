@@ -18,6 +18,30 @@
     "home_link": "https://www.waimatecommunityinfo.org/waimate-aero-club",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612872",
+            "airport_ref": "30548",
+            "airport_ident": "NZWM",
+            "length_ft": "2037",
+            "width_ft": "197",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "-44.791021",
+            "le_longitude_deg": "171.088279",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "-44.788504",
+            "he_longitude_deg": "171.095299",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

@@ -18,6 +18,30 @@
     "home_link": "http://www.vegaulm.it",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lecce_Airfield",
     "keywords": "Vega, Vega ulm, Fondone, Aviosuperficie \"Fondone\", Lecce Airfield, Fondone Lecce Airfield",
+    "runways": [
+        {
+            "id": "612181",
+            "airport_ref": "317667",
+            "airport_ident": "IT-0206",
+            "length_ft": "2297",
+            "width_ft": "66",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "40.358661",
+            "le_longitude_deg": "18.230681",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "40.353144",
+            "he_longitude_deg": "18.234061",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "317668",

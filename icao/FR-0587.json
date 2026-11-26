@@ -18,6 +18,30 @@
     "home_link": "http://www.natur-ailes.fr",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612660",
+            "airport_ref": "528486",
+            "airport_ident": "FR-0587",
+            "length_ft": "1476",
+            "width_ft": "66",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "47.152851",
+            "le_longitude_deg": "1.01104",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "492",
+            "he_ident": "26",
+            "he_latitude_deg": "47.154506",
+            "he_longitude_deg": "1.016527",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "82"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

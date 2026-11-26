@@ -18,6 +18,30 @@
     "home_link": "http://www.ekbr.dk/",
     "wikipedia_link": "",
     "keywords": "RAF/RCAF Mindekors",
+    "runways": [
+        {
+            "id": "612602",
+            "airport_ref": "317475",
+            "airport_ident": "DK-0004",
+            "length_ft": "1640",
+            "width_ft": "66",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "55.945556",
+            "le_longitude_deg": "9.651667",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "55.941944",
+            "he_longitude_deg": "9.655278",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302682",
         "code": "DK",

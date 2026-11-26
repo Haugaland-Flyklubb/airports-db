@@ -18,6 +18,30 @@
     "home_link": "https://www.calhn.fr/",
     "wikipedia_link": "",
     "keywords": "Base ULM de Val de Reuil",
+    "runways": [
+        {
+            "id": "612601",
+            "airport_ref": "339742",
+            "airport_ident": "FR-0436",
+            "length_ft": "",
+            "width_ft": "164",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "49.280792",
+            "le_longitude_deg": "1.230207",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "49.282711",
+            "he_longitude_deg": "1.233802",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Bellevue Flying Circus Airport",
+    "runways": [
+        {
+            "id": "611851",
+            "airport_ref": "310040",
+            "airport_ident": "15IA",
+            "length_ft": "1400",
+            "width_ft": "80",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "42.236839",
+            "le_longitude_deg": "-90.408475",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "42.23395",
+            "he_longitude_deg": "-90.405056",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

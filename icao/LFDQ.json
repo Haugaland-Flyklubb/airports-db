@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "613092",
+            "airport_ref": "28809",
+            "airport_ident": "LFDQ",
+            "length_ft": "2484",
+            "width_ft": "164",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "43.274731",
+            "le_longitude_deg": "0.516628",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "43.280128",
+            "he_longitude_deg": "0.522319",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "225"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

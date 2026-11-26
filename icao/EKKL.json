@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kalundborg_Airfield",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612610",
+            "airport_ref": "29239",
+            "airport_ident": "EKKL",
+            "length_ft": "2264",
+            "width_ft": "59",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "55.699917",
+            "le_longitude_deg": "11.244503",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "55.700156",
+            "he_longitude_deg": "11.255619",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302682",
         "code": "DK",

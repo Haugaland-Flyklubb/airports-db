@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612023",
+            "airport_ref": "28667",
+            "airport_ident": "EDNM",
+            "length_ft": "1781",
+            "width_ft": "49",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "49.219715",
+            "le_longitude_deg": "12.296149",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "312",
+            "he_ident": "19",
+            "he_latitude_deg": "49.224519",
+            "he_longitude_deg": "12.297441",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "213"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

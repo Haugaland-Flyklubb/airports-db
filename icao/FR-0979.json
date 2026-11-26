@@ -18,6 +18,30 @@
     "home_link": "https://campingalaferme.wixsite.com/lesjaubertins/ulm",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612536",
+            "airport_ref": "529066",
+            "airport_ident": "FR-0979",
+            "length_ft": "1542",
+            "width_ft": "131",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "45.542885",
+            "le_longitude_deg": "0.492167",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "45.547111",
+            "he_longitude_deg": "0.494057",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

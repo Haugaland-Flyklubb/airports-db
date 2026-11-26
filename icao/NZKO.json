@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kaikohe_Aerodrome",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612850",
+            "airport_ref": "30000",
+            "airport_ident": "NZKO",
+            "length_ft": "4992",
+            "width_ft": "430",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "-35.4433",
+            "le_longitude_deg": "173.817235",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "-35.456829",
+            "he_longitude_deg": "173.814713",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

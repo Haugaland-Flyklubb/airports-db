@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "29M",
+    "runways": [
+        {
+            "id": "612147",
+            "airport_ref": "318201",
+            "airport_ident": "K29M",
+            "length_ft": "3400",
+            "width_ft": "60",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "42.886444",
+            "le_longitude_deg": "-83.934722",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "42.895014",
+            "he_longitude_deg": "-83.929694",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

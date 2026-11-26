@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Saint-Quentin_-_Roupy",
     "keywords": "Aérodrome de Saint-Quentin - Roupy",
+    "runways": [
+        {
+            "id": "613077",
+            "airport_ref": "28967",
+            "airport_ident": "LFOW",
+            "length_ft": "1962",
+            "width_ft": "328",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "49.817561",
+            "le_longitude_deg": "3.203703",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "49.8136",
+            "he_longitude_deg": "3.209311",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

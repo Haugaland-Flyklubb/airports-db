@@ -18,6 +18,30 @@
     "home_link": "http://www.matkoairport.hu/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612586",
+            "airport_ref": "43985",
+            "airport_ident": "HU-0003",
+            "length_ft": "3281",
+            "width_ft": "197",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "46.803303",
+            "le_longitude_deg": "19.678579",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "46.795948",
+            "he_longitude_deg": "19.689011",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302693",
         "code": "HU",

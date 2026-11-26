@@ -18,6 +18,30 @@
     "home_link": "http://www.ithwiesen.de/",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Ithwiesen",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612107",
+            "airport_ref": "311065",
+            "airport_ident": "EDVT",
+            "length_ft": "1181",
+            "width_ft": "131",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "51.950278",
+            "le_longitude_deg": "9.665139",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "51.946944",
+            "he_longitude_deg": "9.664917",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "568209",

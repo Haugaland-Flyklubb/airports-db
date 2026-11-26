@@ -29,14 +29,14 @@
             "lighted": "0",
             "closed": "0",
             "le_ident": "03",
-            "le_latitude_deg": "-26.7721004486084",
-            "le_longitude_deg": "150.6179962158203",
+            "le_latitude_deg": "-26.772091",
+            "le_longitude_deg": "150.61852",
             "le_elevation_ft": "",
             "le_heading_degT": "39",
             "le_displaced_threshold_ft": "",
             "he_ident": "21",
-            "he_latitude_deg": "-26.767900466918945",
-            "he_longitude_deg": "150.6219940185547",
+            "he_latitude_deg": "-26.767925",
+            "he_longitude_deg": "150.622215",
             "he_elevation_ft": "",
             "he_heading_degT": "219",
             "he_displaced_threshold_ft": ""
@@ -51,14 +51,14 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "14",
-            "le_latitude_deg": "-26.76810073852539",
-            "le_longitude_deg": "150.61399841308594",
+            "le_latitude_deg": "-26.76812",
+            "le_longitude_deg": "150.61429",
             "le_elevation_ft": "1028",
             "le_heading_degT": "142",
             "le_displaced_threshold_ft": "",
             "he_ident": "32",
-            "he_latitude_deg": "-26.775800704956055",
-            "he_longitude_deg": "150.62100219726562",
+            "he_latitude_deg": "-26.775801",
+            "he_longitude_deg": "150.621002",
             "he_elevation_ft": "1028",
             "he_heading_degT": "322",
             "he_displaced_threshold_ft": ""
@@ -70,16 +70,16 @@
             "airport_ref": "26947",
             "airport_ident": "YCCA",
             "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
+            "description": "",
+            "frequency_mhz": "126.35"
         },
         {
             "id": "48603",
             "airport_ref": "26947",
             "airport_ident": "YCCA",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
-            "frequency_mhz": "123.9"
+            "type": "FIA",
+            "description": "Brisbane Centre",
+            "frequency_mhz": "123.95"
         }
     ],
     "country": {

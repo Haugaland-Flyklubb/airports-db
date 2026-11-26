@@ -18,6 +18,30 @@
     "home_link": "https://ulmclublotois.wixsite.com/ulmclub",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612797",
+            "airport_ref": "528990",
+            "airport_ident": "FR-0903",
+            "length_ft": "1148",
+            "width_ft": "49",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "44.692413",
+            "le_longitude_deg": "1.616954",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "44.690392",
+            "he_longitude_deg": "1.620638",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

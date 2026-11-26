@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Grabenst%C3%A4tt",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612000",
+            "airport_ref": "308861",
+            "airport_ident": "EDJG",
+            "length_ft": "1476",
+            "width_ft": "98",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "47.852382",
+            "le_longitude_deg": "12.547162",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "47.853126",
+            "he_longitude_deg": "12.553475",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "567246",

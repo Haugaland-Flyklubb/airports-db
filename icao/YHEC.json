@@ -70,24 +70,16 @@
             "airport_ref": "38381",
             "airport_ident": "YHEC",
             "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.1"
+            "description": "",
+            "frequency_mhz": "119"
         },
         {
             "id": "73166",
             "airport_ref": "38381",
             "airport_ident": "YHEC",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "118.6"
-        },
-        {
-            "id": "73165",
-            "airport_ref": "38381",
-            "airport_ident": "YHEC",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.6"
+            "type": "FIA",
+            "description": "Brisbane Centre",
+            "frequency_mhz": "125.7"
         }
     ],
     "country": {

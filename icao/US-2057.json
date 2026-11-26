@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "611856",
+            "airport_ref": "337663",
+            "airport_ident": "US-2057",
+            "length_ft": "1967",
+            "width_ft": "20",
+            "surface": "GRVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "30.401278",
+            "le_longitude_deg": "-98.580833",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "30.406417",
+            "he_longitude_deg": "-98.578889",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

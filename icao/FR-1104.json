@@ -18,6 +18,30 @@
     "home_link": "https://www.ulm-la-saussaye.fr/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612618",
+            "airport_ref": "529280",
+            "airport_ident": "FR-1104",
+            "length_ft": "1476",
+            "width_ft": "66",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "48.410854",
+            "le_longitude_deg": "1.551757",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "48.413956",
+            "he_longitude_deg": "1.555063",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

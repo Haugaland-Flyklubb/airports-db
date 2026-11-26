@@ -136,7 +136,7 @@
             "airport_ref": "26897",
             "airport_ident": "YBAF",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "Archerfield ATIS",
             "frequency_mhz": "120.9"
         },
         {
@@ -151,16 +151,16 @@
             "id": "48569",
             "airport_ref": "26897",
             "airport_ident": "YBAF",
-            "type": "FSS",
-            "description": "RADAR",
+            "type": "FIA",
+            "description": "Brisbane Centre",
             "frequency_mhz": "125.7"
         },
         {
             "id": "48570",
             "airport_ref": "26897",
             "airport_ident": "YBAF",
-            "type": "GND",
-            "description": "GND",
+            "type": "SMC",
+            "description": "Archerfield Ground",
             "frequency_mhz": "119.9"
         },
         {
@@ -168,8 +168,16 @@
             "airport_ref": "26897",
             "airport_ident": "YBAF",
             "type": "TWR",
-            "description": "ARCHER TWR",
+            "description": "Archerfield Tower",
             "frequency_mhz": "118.1"
+        },
+        {
+            "id": "611790",
+            "airport_ref": "26897",
+            "airport_ident": "YBAF",
+            "type": "TWR",
+            "description": "Archerfield Tower",
+            "frequency_mhz": "123.6"
         }
     ],
     "country": {

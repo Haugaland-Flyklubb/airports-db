@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Aviosuperficie Sant'Illuminato",
+    "runways": [
+        {
+            "id": "612173",
+            "airport_ref": "317856",
+            "airport_ident": "LIAL",
+            "length_ft": "2625",
+            "width_ft": "82",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "43.351956",
+            "le_longitude_deg": "12.214678",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "43.358083",
+            "he_longitude_deg": "12.221728",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

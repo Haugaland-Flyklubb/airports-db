@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Price Coffee Airfield",
+    "runways": [
+        {
+            "id": "611936",
+            "airport_ref": "325453",
+            "airport_ident": "58AR",
+            "length_ft": "3200",
+            "width_ft": "60",
+            "surface": "TURF",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "10",
+            "le_latitude_deg": "36.406758",
+            "le_longitude_deg": "-94.178811",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "28",
+            "he_latitude_deg": "36.404603",
+            "he_longitude_deg": "-94.168272",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

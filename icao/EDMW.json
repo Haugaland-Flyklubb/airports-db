@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Deggendorf",
     "keywords": "Flugplatz Deggendorf",
+    "runways": [
+        {
+            "id": "612014",
+            "airport_ref": "28550",
+            "airport_ident": "EDMW",
+            "length_ft": "1804",
+            "width_ft": "49",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "48.830359",
+            "le_longitude_deg": "12.875392",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "48.830146",
+            "he_longitude_deg": "12.883333",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "564217",

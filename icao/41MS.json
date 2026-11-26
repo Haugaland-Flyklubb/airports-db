@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "611916",
+            "airport_ref": "430412",
+            "airport_ident": "41MS",
+            "length_ft": "3900",
+            "width_ft": "75",
+            "surface": "CONC-TURF-G",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "17",
+            "le_latitude_deg": "33.528625",
+            "le_longitude_deg": "-90.363142",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "35",
+            "he_latitude_deg": "33.518053",
+            "he_longitude_deg": "-90.361044",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

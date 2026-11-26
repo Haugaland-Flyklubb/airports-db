@@ -18,6 +18,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612348",
+            "airport_ref": "29852",
+            "airport_ident": "LGEP",
+            "length_ft": "2953",
+            "width_ft": "82",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "37.616941",
+            "le_longitude_deg": "21.492102",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "591",
+            "he_ident": "31",
+            "he_latitude_deg": "37.610387",
+            "he_longitude_deg": "21.500128",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": "607"
+        }
+    ],
     "country": {
         "id": "302691",
         "code": "GR",

@@ -18,6 +18,30 @@
     "home_link": "https://www.ulmclubmontmorelien.fr/",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "612370",
+            "airport_ref": "528595",
+            "airport_ident": "FR-0599",
+            "length_ft": "1148",
+            "width_ft": "98",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "45.462692",
+            "le_longitude_deg": "0.155823",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "45.460545",
+            "he_longitude_deg": "0.159175",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",
